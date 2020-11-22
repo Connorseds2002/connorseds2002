@@ -32,7 +32,7 @@
 - [Sedspvp Aviation #1](https://www.youtube.com/watch?v=6Z4TeOA4d0A)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
 
 ---
 
