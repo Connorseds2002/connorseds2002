@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/connor-808)
+[<img src="https://https://novatorem.connorseds2002.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/connor-808)
 
 ### Connect with me:
 
@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Connorseds2002/connorseds2002/pull/4) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-2. 💪 Opened PR [#4](https://github.com/Connorseds2002/connorseds2002/pull/4) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-3. 🎉 Merged PR [#3](https://github.com/Connorseds2002/connorseds2002/pull/3) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-4. 💪 Opened PR [#3](https://github.com/Connorseds2002/connorseds2002/pull/3) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-5. 🗣 Commented on [#1](https://github.com/Connorseds2002/connorseds2002/issues/1) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+1. 🗣 Commented on [#1](https://github.com/Connorseds2002/connorseds2002/issues/1) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+2. 🎉 Merged PR [#2](https://github.com/Connorseds2002/connorseds2002/pull/2) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+3. ❗️ Closed issue [#1](https://github.com/Connorseds2002/connorseds2002/issues/1) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+4. 💪 Opened PR [#2](https://github.com/Connorseds2002/connorseds2002/pull/2) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+5. ❗️ Opened issue [#1](https://github.com/Connorseds2002/connorseds2002/issues/1) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
 <!--END_SECTION:activity-->
 
 </details>
