@@ -54,11 +54,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Connorseds2002/connorseds2002/pull/5) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-2. 💪 Opened PR [#5](https://github.com/Connorseds2002/connorseds2002/pull/5) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-3. 🎉 Merged PR [#4](https://github.com/Connorseds2002/connorseds2002/pull/4) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-4. 💪 Opened PR [#4](https://github.com/Connorseds2002/connorseds2002/pull/4) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-5. 🎉 Merged PR [#3](https://github.com/Connorseds2002/connorseds2002/pull/3) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+1. 🎉 Merged PR [#6](https://github.com/Connorseds2002/connorseds2002/pull/6) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+2. 💪 Opened PR [#6](https://github.com/Connorseds2002/connorseds2002/pull/6) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+3. 🎉 Merged PR [#5](https://github.com/Connorseds2002/connorseds2002/pull/5) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+4. 💪 Opened PR [#5](https://github.com/Connorseds2002/connorseds2002/pull/5) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+5. 🎉 Merged PR [#4](https://github.com/Connorseds2002/connorseds2002/pull/4) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
 <!--END_SECTION:activity-->
 
 </details>
