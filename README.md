@@ -42,11 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [22NOV20 | Guam -> Darwin Shuttle](https://forums.vatpac.org/topic/18297-22nov20-guam-darwin-shuttle/?do=findComment&comment=130287)
+- [Positions Reserved for Guam -> Darwin Crossfire](https://forums.vatpac.org/topic/18425-positions-reserved-for-guam-darwin-crossfire/?do=findComment&comment=130261)
+- [06DEC20 | Golden Grove to Geraldton](https://forums.vatpac.org/calendar/event/1533-06dec20-golden-grove-to-geraldton/)
+- [04DEC20 | Geraldton to Golden Grove](https://forums.vatpac.org/calendar/event/1532-04dec20-geraldton-to-golden-grove/)
+- [06DEC20 | Cross the Ditch 19: Summer 2020](https://forums.vatpac.org/calendar/event/1525-06dec20-cross-the-ditch-19-summer-2020/?do=findComment&comment=210&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
