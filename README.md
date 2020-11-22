@@ -66,8 +66,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="connorseds2002's GitHub Stats" src="https://github-readme-stats.connorseds2002.vercel.app/api?username=connorseds2002&show_icons=true&hide_border=true" />
-<img align="left" alt="connorseds2002's GitHub Top Langs" src="https://github-readme-stats.connorseds2002.vercel.app/api/top-langs/?username=connorseds2002&layout=compact2&show_icons=true&hide_border=true" />
+  <img align="left" alt="connorseds2002's GitHub Stats" src="http://github-readme-stats.connorseds2002.vercel.app/api?username=connorseds2002&show_icons=true&hide_border=true" />
+<img align="left" alt="connorseds2002's GitHub Top Langs" src="http://github-readme-stats.connorseds2002.vercel.app/api/top-langs/?username=connorseds2002&layout=compact2&show_icons=true&hide_border=true" />
 
 </details>
 
