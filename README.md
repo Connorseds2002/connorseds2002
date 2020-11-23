@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [25NOV20 World Discovery New Zealand  Tauranga to Napier](https://forums.vatpac.org/calendar/event/1543-25nov20-world-discovery-new-zealand-tauranga-to-napier/)
 - [22NOV20 | Guam -> Darwin Shuttle](https://forums.vatpac.org/topic/18297-22nov20-guam-darwin-shuttle/?do=findComment&comment=130287)
 - [Positions Reserved for Guam -> Darwin Crossfire](https://forums.vatpac.org/topic/18425-positions-reserved-for-guam-darwin-crossfire/?do=findComment&comment=130261)
 - [06DEC20 | Golden Grove to Geraldton](https://forums.vatpac.org/calendar/event/1533-06dec20-golden-grove-to-geraldton/)
 - [04DEC20 | Geraldton to Golden Grove](https://forums.vatpac.org/calendar/event/1532-04dec20-geraldton-to-golden-grove/)
-- [06DEC20 | Cross the Ditch 19: Summer 2020](https://forums.vatpac.org/calendar/event/1525-06dec20-cross-the-ditch-19-summer-2020/?do=findComment&comment=210&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
