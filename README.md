@@ -53,8 +53,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+  <summary>:zap: Recent GitHub Activity</summary>  
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#3196](https://github.com/VATSIM-UK/UK-Sector-File/issues/3196) in [VATSIM-UK/UK-Sector-File](https://github.com/VATSIM-UK/UK-Sector-File)
 2. 💪 Opened PR [#3](https://github.com/Connorseds2002/UK-Sector-File/pull/3) in [Connorseds2002/UK-Sector-File](https://github.com/Connorseds2002/UK-Sector-File)
@@ -62,25 +61,18 @@
 4. 💪 Opened PR [#2](https://github.com/Connorseds2002/UK-Sector-File/pull/2) in [Connorseds2002/UK-Sector-File](https://github.com/Connorseds2002/UK-Sector-File)
 5. 🎉 Merged PR [#1](https://github.com/Connorseds2002/UK-Sector-File/pull/1) in [Connorseds2002/UK-Sector-File](https://github.com/Connorseds2002/UK-Sector-File)
 <!--END_SECTION:activity-->
-
 </details>
-
 <br />
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="connorseds2002's GitHub Stats" src="http://github-readme-stats.connorseds2002.vercel.app/api?username=connorseds2002&show_icons=true&hide_border=true" />
 <img align="left" alt="connorseds2002's GitHub Top Langs" src="http://github-readme-stats.connorseds2002.vercel.app/api/top-langs/?username=connorseds2002&layout=compact2&show_icons=true&hide_border=true" />
-
 </details>
-
 <br />
-
 <details>
   <summary>:zap: Coding Time</summary>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@connorseds2002/fbe24d6b-ddb8-468c-bf02-701ed789a553.png" /></a>
-
 </details>
 
 [website]: https://vatpac.org
