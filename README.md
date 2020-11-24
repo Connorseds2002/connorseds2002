@@ -61,6 +61,7 @@
 4. 💪 Opened PR [#2](https://github.com/Connorseds2002/UK-Sector-File/pull/2) in [Connorseds2002/UK-Sector-File](https://github.com/Connorseds2002/UK-Sector-File)
 5. 🎉 Merged PR [#1](https://github.com/Connorseds2002/UK-Sector-File/pull/1) in [Connorseds2002/UK-Sector-File](https://github.com/Connorseds2002/UK-Sector-File)
 <!--END_SECTION:activity-->
+
 </details>
 <br />
 <details>
@@ -68,6 +69,7 @@
 
   <img align="left" alt="connorseds2002's GitHub Stats" src="http://github-readme-stats.connorseds2002.vercel.app/api?username=connorseds2002&show_icons=true&hide_border=true" />
 <img align="left" alt="connorseds2002's GitHub Top Langs" src="http://github-readme-stats.connorseds2002.vercel.app/api/top-langs/?username=connorseds2002&layout=compact2&show_icons=true&hide_border=true" />
+
 </details>
 <br />
 <details>
