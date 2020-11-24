@@ -52,7 +52,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
-
+<!-- VATSIM.NET:START -->
+<!-- VATSIM.NET:END -->
+➡️ [more blog posts...](https://forums.vatsim.net/forum/216-announcements-important-notices/)
 ---
 
 <details>
