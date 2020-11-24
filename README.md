@@ -48,6 +48,8 @@
 <!-- VATSIM.NET:START -->
 - [Navigraph FlightSim Community Survey now live](https://forums.vatsim.net/topic/29868-navigraph-flightsim-community-survey-now-live/)
 - [VATSIM Cross The Pond: Eastbound 2020](https://forums.vatsim.net/topic/29638-vatsim-cross-the-pond-eastbound-2020/)
+- [Agenda: VATSIM Board of Governors Meeting Q3-2020 - 17OCT20](https://forums.vatsim.net/topic/29581-agenda-vatsim-board-of-governors-meeting-q3-2020-17oct20/)
+- [[RESOLVED] Email currently not being delivered](https://forums.vatsim.net/topic/29379-resolved-email-currently-not-being-delivered/)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/forum/216-announcements-important-notices/)
 
