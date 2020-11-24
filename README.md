@@ -59,11 +59,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Connorseds2002/connorseds2002/pull/8) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-2. 💪 Opened PR [#8](https://github.com/Connorseds2002/connorseds2002/pull/8) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-3. 🎉 Merged PR [#7](https://github.com/Connorseds2002/connorseds2002/pull/7) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-4. 💪 Opened PR [#7](https://github.com/Connorseds2002/connorseds2002/pull/7) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
-5. ❗️ Opened issue [#3196](https://github.com/VATSIM-UK/UK-Sector-File/issues/3196) in [VATSIM-UK/UK-Sector-File](https://github.com/VATSIM-UK/UK-Sector-File)
+1. ❗️ Opened issue [#42](https://github.com/jamesgeorge007/github-activity-readme/issues/42) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#8](https://github.com/Connorseds2002/connorseds2002/pull/8) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+3. 💪 Opened PR [#8](https://github.com/Connorseds2002/connorseds2002/pull/8) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+4. 🎉 Merged PR [#7](https://github.com/Connorseds2002/connorseds2002/pull/7) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
+5. 💪 Opened PR [#7](https://github.com/Connorseds2002/connorseds2002/pull/7) in [Connorseds2002/connorseds2002](https://github.com/Connorseds2002/connorseds2002)
 <!--END_SECTION:activity-->
 
 </details>
