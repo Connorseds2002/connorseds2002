@@ -76,6 +76,7 @@
 <details>
   <summary>:zap: Coding Time</summary>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@connorseds2002/fbe24d6b-ddb8-468c-bf02-701ed789a553.png" /></a>
+
 </details>
 
 [website]: https://vatpac.org
