@@ -1,0 +1,17 @@
+name: Latest YouTube Videos
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "VATSIM.NET"
+          feed_list: "https://forums.vatsim.net/forum/216-announcements-important-notices.xml/?member=426123&key=7d1905751b381144513c197786a291ff"
