@@ -45,6 +45,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Navigraph FlightSim Community Survey now live](https://forums.vatsim.net/topic/29868-navigraph-flightsim-community-survey-now-live/)
+- [VATSIM Cross The Pond: Eastbound 2020](https://forums.vatsim.net/topic/29638-vatsim-cross-the-pond-eastbound-2020/)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/forum/216-announcements-important-notices/)
 ---
