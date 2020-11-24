@@ -65,6 +65,9 @@
 
 </details>
 
+<br />
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -72,6 +75,9 @@
 <img align="left" alt="connorseds2002's GitHub Top Langs" src="http://github-readme-stats.connorseds2002.vercel.app/api/top-langs/?username=connorseds2002&layout=compact2&show_icons=true&hide_border=true" />
 
 </details>
+
+<br />
+<br />
 
 <details>
   <summary>:zap: Coding Time</summary>
