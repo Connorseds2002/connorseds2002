@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "VATSIM.NET"
           feed_list: "https://forums.vatsim.net/forum/216-announcements-important-notices.xml/?member=426123&key=7d1905751b381144513c197786a291ff"
-          max_post_count: 2
+          max_post_count: 4
