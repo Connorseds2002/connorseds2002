@@ -39,9 +39,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [13DEC20 | Cooma to Mallacoota](https://forums.vatpac.org/calendar/event/1546-13dec20-cooma-to-mallacoota/)
+- [11DEC20 | Mallacoota to Cooma](https://forums.vatpac.org/calendar/event/1545-11dec20-mallacoota-to-cooma/)
 - [VATPAC Seeks New Volunteer Staff!](https://forums.vatpac.org/topic/18441-vatpac-seeks-new-volunteer-staff/?do=findComment&comment=130295)
-- [25NOV20 World Discovery New Zealand  Tauranga to Napier](https://forums.vatpac.org/calendar/event/1543-25nov20-world-discovery-new-zealand-tauranga-to-napier/)
-- [22NOV20 | Guam -> Darwin Shuttle](https://forums.vatpac.org/topic/18297-22nov20-guam-darwin-shuttle/?do=findComment&comment=130287)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
