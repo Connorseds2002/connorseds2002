@@ -39,9 +39,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Christmas Island from Husein Sastranegara](https://forums.vatpac.org/calendar/event/1547-christmas-island-from-husein-sastranegara/)
 - [28NOV20 | East Coast Connect - Brisbane & Cairns](https://forums.vatpac.org/topic/18414-28nov20-east-coast-connect-brisbane-cairns/?do=findComment&comment=130312)
 - [13DEC20 | Cooma to Mallacoota](https://forums.vatpac.org/calendar/event/1546-13dec20-cooma-to-mallacoota/)
-- [11DEC20 | Mallacoota to Cooma](https://forums.vatpac.org/calendar/event/1545-11dec20-mallacoota-to-cooma/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
