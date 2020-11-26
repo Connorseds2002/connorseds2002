@@ -39,9 +39,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [30NOV20 | Spilled Milk Run - Adelaide & Alice Springs](https://forums.vatpac.org/topic/18448-30nov20-spilled-milk-run-adelaide-alice-springs/?do=findComment&comment=130315)
+- [30NOV20 | Spilled Milk Run - Adelaide & Alice Springs](https://forums.vatpac.org/calendar/event/1548-30nov20-spilled-milk-run-adelaide-alice-springs/)
 - [29NOV20 | Light Up South Australia](https://forums.vatpac.org/topic/18413-29nov20-light-up-south-australia/?do=findComment&comment=130313)
-- [Christmas Island from Husein Sastranegara](https://forums.vatpac.org/calendar/event/1547-christmas-island-from-husein-sastranegara/)
-- [28NOV20 | East Coast Connect - Brisbane & Cairns](https://forums.vatpac.org/topic/18414-28nov20-east-coast-connect-brisbane-cairns/?do=findComment&comment=130312)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
