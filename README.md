@@ -40,8 +40,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [30NOV20 | Spilled Milk Run - Adelaide & Alice Springs](https://forums.vatpac.org/topic/18448-30nov20-spilled-milk-run-adelaide-alice-springs/?do=findComment&comment=130315)
-- [30NOV20 | Spilled Milk Run - Adelaide & Alice Springs](https://forums.vatpac.org/calendar/event/1548-30nov20-spilled-milk-run-adelaide-alice-springs/)
-- [29NOV20 | Light Up South Australia](https://forums.vatpac.org/topic/18413-29nov20-light-up-south-australia/?do=findComment&comment=130313)
+- [VATPAC Seeks New Volunteer Staff!](https://forums.vatpac.org/topic/18441-vatpac-seeks-new-volunteer-staff/?do=findComment&comment=130295)
+- [Positions Reserved for Guam -> Darwin Crossfire](https://forums.vatpac.org/topic/18425-positions-reserved-for-guam-darwin-crossfire/?do=findComment&comment=130261)
+- [06DEC20 | Cross the Ditch 19: Summer 2020](https://forums.vatpac.org/topic/18420-06dec20-cross-the-ditch-19-summer-2020/?do=findComment&comment=130238)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
