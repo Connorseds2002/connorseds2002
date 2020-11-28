@@ -39,10 +39,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NOTAM (29NOV20): Positions Reserved for Light Up: South Australia](https://forums.vatpac.org/topic/18454-notam-29nov20-positions-reserved-for-light-up-south-australia/?do=findComment&comment=130335)
 - [Positions Reserved for East Coast Connect (Brisbane & Cairns)](https://forums.vatpac.org/topic/18452-positions-reserved-for-east-coast-connect-brisbane-cairns/?do=findComment&comment=130329)
 - [30NOV20 | Spilled Milk Run - Adelaide & Alice Springs](https://forums.vatpac.org/topic/18448-30nov20-spilled-milk-run-adelaide-alice-springs/?do=findComment&comment=130315)
 - [VATPAC Seeks New Volunteer Staff!](https://forums.vatpac.org/topic/18441-vatpac-seeks-new-volunteer-staff/?do=findComment&comment=130295)
-- [Positions Reserved for Guam -> Darwin Crossfire](https://forums.vatpac.org/topic/18425-positions-reserved-for-guam-darwin-crossfire/?do=findComment&comment=130261)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
