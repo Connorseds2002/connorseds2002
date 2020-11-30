@@ -39,10 +39,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [East Coast Connect - Event Conclusion](https://forums.vatpac.org/topic/18463-east-coast-connect-event-conclusion/?do=findComment&comment=130352)
 - [VATSIM announces new policy taking effect 1DEC20](https://forums.vatpac.org/topic/18461-vatsim-announces-new-policy-taking-effect-1dec20/?do=findComment&comment=130347)
 - [Major Events List 2021](https://forums.vatpac.org/topic/18457-major-events-list-2021/?do=findComment&comment=130341)
 - [30NOV20 | Spilled Milk Run - Adelaide & Alice Springs](https://forums.vatpac.org/topic/18448-30nov20-spilled-milk-run-adelaide-alice-springs/?do=findComment&comment=130315)
+- [VATPAC Seeks New Volunteer Staff!](https://forums.vatpac.org/topic/18441-vatpac-seeks-new-volunteer-staff/?do=findComment&comment=130295)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
