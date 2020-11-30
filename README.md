@@ -41,8 +41,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [VATSIM announces new policy taking effect 1DEC20](https://forums.vatpac.org/topic/18461-vatsim-announces-new-policy-taking-effect-1dec20/?do=findComment&comment=130347)
 - [Major Events List 2021](https://forums.vatpac.org/topic/18457-major-events-list-2021/?do=findComment&comment=130341)
-- [30NOV20 | Spilled Milk Run - Adelaide & Alice Springs](https://forums.vatpac.org/topic/18448-30nov20-spilled-milk-run-adelaide-alice-springs/?do=findComment&comment=130315)
 - [VATPAC Seeks New Volunteer Staff!](https://forums.vatpac.org/topic/18441-vatpac-seeks-new-volunteer-staff/?do=findComment&comment=130295)
+- [Positions Reserved for Guam -> Darwin Crossfire](https://forums.vatpac.org/topic/18425-positions-reserved-for-guam-darwin-crossfire/?do=findComment&comment=130261)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
