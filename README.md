@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=172402)
+- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172401)
 - [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172400)
 - [Low draw distance (MSFS)](https://forums.vatsim.net/topic/30065-low-draw-distance-msfs/?do=findComment&comment=172399)
 - [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=172398)
@@ -61,8 +63,6 @@
 - [[Dec 19] Canadian Xpress December Fly-In - Capitals of the Prairies](https://forums.vatsim.net/topic/30062-dec-19-canadian-xpress-december-fly-in-capitals-of-the-prairies/?do=findComment&comment=172395)
 - [Autostart](https://forums.vatsim.net/topic/29920-autostart/?do=findComment&comment=172394)
 - [Standard Terminal Arrival](https://forums.vatsim.net/topic/30024-standard-terminal-arrival/?do=findComment&comment=172393)
-- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172392)
-- [New virtual airline launching in 2 weeks with the CONCORDE](https://forums.vatsim.net/topic/16593-new-virtual-airline-launching-in-2-weeks-with-the-concorde/?do=findComment&comment=172391)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
