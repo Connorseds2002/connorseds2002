@@ -51,6 +51,12 @@
 - [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=9)
 - [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=172379)
 - [FIrst Ever End To End IFR!! - Big thank you MAN_CTR Controller - 03/12/2020](https://forums.vatsim.net/topic/30047-first-ever-end-to-end-ifr-big-thank-you-man_ctr-controller-03122020/?do=findComment&comment=172378)
+- [Standard Terminal Arrival](https://forums.vatsim.net/topic/30024-standard-terminal-arrival/?do=findComment&comment=172377)
+- [Streaming Euroscope client](https://forums.vatsim.net/topic/30060-streaming-euroscope-client/?do=findComment&comment=172376)
+- [First flight today, LGKR-LGAV](https://forums.vatsim.net/topic/29987-first-flight-today-lgkr-lgav/?do=findComment&comment=172375)
+- [Standard Terminal Arrival](https://forums.vatsim.net/topic/30024-standard-terminal-arrival/?do=findComment&comment=172374)
+- [Unable to launch VatSys](https://forums.vatsim.net/topic/30058-unable-to-launch-vatsys/?do=findComment&comment=172373)
+- [First Time Flying](https://forums.vatsim.net/topic/29855-first-time-flying/?do=findComment&comment=172372)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/forum/216-announcements-important-notices/)
 
