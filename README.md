@@ -64,7 +64,7 @@
 - [Unable to launch VatSys](https://forums.vatsim.net/topic/30058-unable-to-launch-vatsys/?do=findComment&comment=172373)
 - [First Time Flying](https://forums.vatsim.net/topic/29855-first-time-flying/?do=findComment&comment=172372)
 <!-- VATSIM.NET:END -->
-➡️ [more blog posts...](https://forums.vatsim.net/forum/216-announcements-important-notices/)
+➡️ [more blog posts...](https://forums.vatsim.net/)
 
 ---
 
