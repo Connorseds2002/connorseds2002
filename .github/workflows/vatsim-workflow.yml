@@ -18,4 +18,4 @@ jobs:
         with:
           comment_tag_name: "VATSIM.NET"
           feed_list: "https://forums.vatsim.net/discover/all.xml/"
-          max_post_count: 4
+          max_post_count: 10
