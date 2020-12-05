@@ -47,10 +47,10 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Thank You Controllers and Staff!](https://forums.vatsim.net/topic/30052-thank-you-controllers-and-staff/)
-- [Introduction of Air Traffic Control Frequency Management Policy](https://forums.vatsim.net/topic/30011-introduction-of-air-traffic-control-frequency-management-policy/)
-- [Navigraph FlightSim Community Survey now live](https://forums.vatsim.net/topic/29868-navigraph-flightsim-community-survey-now-live/)
-- [VATSIM Cross The Pond: Eastbound 2020](https://forums.vatsim.net/topic/29638-vatsim-cross-the-pond-eastbound-2020/)
+- [[5th December 2020 | 1230z Onwards] Weekend Pitstop](https://forums.vatsim.net/topic/30049-5th-december-2020-1230z-onwards-weekend-pitstop/?do=findComment&comment=172380)
+- [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=9)
+- [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=172379)
+- [FIrst Ever End To End IFR!! - Big thank you MAN_CTR Controller - 03/12/2020](https://forums.vatsim.net/topic/30047-first-ever-end-to-end-ifr-big-thank-you-man_ctr-controller-03122020/?do=findComment&comment=172378)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/forum/216-announcements-important-notices/)
 
