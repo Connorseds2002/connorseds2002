@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New virtual airline launching in 2 weeks with the CONCORDE](https://forums.vatsim.net/topic/16593-new-virtual-airline-launching-in-2-weeks-with-the-concorde/?do=findComment&comment=172385)
 - [New virtual airline launching in 2 weeks with the CONCORDE](https://forums.vatsim.net/topic/16593-new-virtual-airline-launching-in-2-weeks-with-the-concorde/?do=findComment&comment=172384)
 - [Unable to launch VatSys](https://forums.vatsim.net/topic/30058-unable-to-launch-vatsys/?do=findComment&comment=172383)
 - [VAT-Spy not working](https://forums.vatsim.net/topic/30053-vat-spy-not-working/?do=findComment&comment=172382)
@@ -62,7 +63,6 @@
 - [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=9)
 - [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=172379)
 - [FIrst Ever End To End IFR!! - Big thank you MAN_CTR Controller - 03/12/2020](https://forums.vatsim.net/topic/30047-first-ever-end-to-end-ifr-big-thank-you-man_ctr-controller-03122020/?do=findComment&comment=172378)
-- [Standard Terminal Arrival](https://forums.vatsim.net/topic/30024-standard-terminal-arrival/?do=findComment&comment=172377)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
