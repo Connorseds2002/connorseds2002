@@ -41,8 +41,14 @@
 <!-- BLOG-POST-LIST:START -->
 - [NOTAM 05DEC20: Positions Reserved for Cross The Ditch](https://forums.vatpac.org/topic/18472-notam-05dec20-positions-reserved-for-cross-the-ditch/?do=findComment&comment=130382)
 - [14DEC20 | Spilled Milk Run Monday](https://forums.vatpac.org/topic/18470-14dec20-spilled-milk-run-monday/?do=findComment&comment=130374)
-- [VATSIM announces new policy taking effect 1DEC20](https://forums.vatpac.org/topic/18461-vatsim-announces-new-policy-taking-effect-1dec20/?do=findComment&comment=130347)
-- [Major Events List 2021](https://forums.vatpac.org/topic/18457-major-events-list-2021/?do=findComment&comment=130341)
+- [27DEC20 | Lord Howe Island](https://forums.vatpac.org/calendar/event/1560-27dec20-lord-howe-island/)
+- [20DEC20 | Warwick to Gold Coast](https://forums.vatpac.org/calendar/event/1559-20dec20-warwick-to-gold-coast/)
+- [18DEC20 | Gold Coast to Warwick](https://forums.vatpac.org/calendar/event/1558-18dec20-gold-coast-to-warwick/)
+- [14DEC20 | Special Milk Run Monday](https://forums.vatpac.org/calendar/event/1557-14dec20-special-milk-run-monday/)
+- [21DEC20 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1556-21dec20-milk-run-monday/)
+- [04DEC20 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1555-04dec20-milk-run-monday/)
+- [20DEC20 | Real Ops Perth](https://forums.vatpac.org/topic/18418-20dec20-real-ops-perth/?do=findComment&comment=130369)
+- [VATSIM announces new policy taking effect 1DEC20](https://forums.vatpac.org/topic/18461-vatsim-announces-new-policy-taking-effect-1dec20/?do=findComment&comment=130356)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
