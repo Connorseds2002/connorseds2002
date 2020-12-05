@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ernabella to Ayres Rock](https://forums.vatpac.org/calendar/event/1562-ernabella-to-ayres-rock/)
+- [Ayres Rock to Ernabella](https://forums.vatpac.org/calendar/event/1561-ayres-rock-to-ernabella/)
 - [NOTAM 05DEC20: Positions Reserved for Cross The Ditch](https://forums.vatpac.org/topic/18472-notam-05dec20-positions-reserved-for-cross-the-ditch/?do=findComment&comment=130382)
 - [14DEC20 | Spilled Milk Run Monday](https://forums.vatpac.org/topic/18470-14dec20-spilled-milk-run-monday/?do=findComment&comment=130374)
 - [27DEC20 | Lord Howe Island](https://forums.vatpac.org/calendar/event/1560-27dec20-lord-howe-island/)
@@ -47,8 +49,6 @@
 - [14DEC20 | Special Milk Run Monday](https://forums.vatpac.org/calendar/event/1557-14dec20-special-milk-run-monday/)
 - [21DEC20 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1556-21dec20-milk-run-monday/)
 - [04DEC20 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1555-04dec20-milk-run-monday/)
-- [20DEC20 | Real Ops Perth](https://forums.vatpac.org/topic/18418-20dec20-real-ops-perth/?do=findComment&comment=130369)
-- [VATSIM announces new policy taking effect 1DEC20](https://forums.vatpac.org/topic/18461-vatsim-announces-new-policy-taking-effect-1dec20/?do=findComment&comment=130356)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
