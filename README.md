@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Autostart](https://forums.vatsim.net/topic/29920-autostart/?do=findComment&comment=172394)
 - [Standard Terminal Arrival](https://forums.vatsim.net/topic/30024-standard-terminal-arrival/?do=findComment&comment=172393)
 - [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172392)
 - [New virtual airline launching in 2 weeks with the CONCORDE](https://forums.vatsim.net/topic/16593-new-virtual-airline-launching-in-2-weeks-with-the-concorde/?do=findComment&comment=172391)
@@ -62,7 +63,6 @@
 - [VATSIM First flight impressions.](https://forums.vatsim.net/topic/25669-vatsim-first-flight-impressions/?do=findComment&comment=172387)
 - [Standard Terminal Arrival](https://forums.vatsim.net/topic/30024-standard-terminal-arrival/?do=findComment&comment=172386)
 - [New virtual airline launching in 2 weeks with the CONCORDE](https://forums.vatsim.net/topic/16593-new-virtual-airline-launching-in-2-weeks-with-the-concorde/?do=findComment&comment=172385)
-- [New virtual airline launching in 2 weeks with the CONCORDE](https://forums.vatsim.net/topic/16593-new-virtual-airline-launching-in-2-weeks-with-the-concorde/?do=findComment&comment=172384)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
