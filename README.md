@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[9th December 2020 1200z-1400z] S2 CPT Lumpur Tower (WMKK_TWR)](https://forums.vatsim.net/topic/30038-9th-december-2020-1200z-1400z-s2-cpt-lumpur-tower-wmkk_twr/?do=findComment&comment=172436)
 - [XSB 2.1 audio not working with XP11.50 on Ubuntu 20.10](https://forums.vatsim.net/topic/30068-xsb-21-audio-not-working-with-xp1150-on-ubuntu-2010/?do=findComment&comment=172435)
 - [Vpilot Not Running!](https://forums.vatsim.net/topic/30067-vpilot-not-running/?do=findComment&comment=172434)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=172433)
@@ -62,7 +63,6 @@
 - [Europe Airspace Altitudes](https://forums.vatsim.net/topic/29871-europe-airspace-altitudes/?do=findComment&comment=172429)
 - [Europe Airspace Altitudes](https://forums.vatsim.net/topic/29871-europe-airspace-altitudes/?do=findComment&comment=172428)
 - [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=172427)
-- [Low draw distance (MSFS)](https://forums.vatsim.net/topic/30065-low-draw-distance-msfs/?do=findComment&comment=172426)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
