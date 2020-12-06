@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Logo: APAC Region](https://forums.vatsim.net/topic/29952-new-logo-apac-region/?do=findComment&comment=172456)
+- [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=12)
+- [MSFS2020 and VPILOT help needed](https://forums.vatsim.net/topic/29739-msfs2020-and-vpilot-help-needed/?do=findComment&comment=172455)
+- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172454)
+- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172453)
+- [vPilot sends credentials in clear-text](https://forums.vatsim.net/topic/30072-vpilot-sends-credentials-in-clear-text/?do=findComment&comment=172452)
 - [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=11)
 - [Vpilot Not Running!](https://forums.vatsim.net/topic/30067-vpilot-not-running/?do=findComment&comment=172451)
 - [vPilot sends credentials in clear-text](https://forums.vatsim.net/topic/30072-vpilot-sends-credentials-in-clear-text/?do=findComment&comment=172450)
 - [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172449)
-- [vPilot sends credentials in clear-text](https://forums.vatsim.net/topic/30072-vpilot-sends-credentials-in-clear-text/?do=findComment&comment=172448)
-- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172447)
-- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172446)
-- [VRC "Not responding" in Windows when loading profile](https://forums.vatsim.net/topic/28109-vrc-not-responding-in-windows-when-loading-profile/?do=findComment&comment=172445)
-- [Vpilot Not Running!](https://forums.vatsim.net/topic/30067-vpilot-not-running/?do=findComment&comment=172444)
-- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172443)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
