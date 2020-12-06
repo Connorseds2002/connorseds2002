@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=172468)
 - [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172467)
 - [Lebanon vACC Deputy Director Announcement!](https://forums.vatsim.net/topic/29807-lebanon-vacc-deputy-director-announcement/?do=findComment&comment=172466)
 - [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=172465)
@@ -62,7 +63,6 @@
 - [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172461)
 - [VRC cant hear only text](https://forums.vatsim.net/topic/30073-vrc-cant-hear-only-text/?do=findComment&comment=172460)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=172459)
-- [[Newbie] Some ATC General Questions](https://forums.vatsim.net/topic/30012-newbie-some-atc-general-questions/?do=findComment&comment=172458)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
