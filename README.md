@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=172424)
+- [Low draw distance (MSFS)](https://forums.vatsim.net/topic/30065-low-draw-distance-msfs/?do=findComment&comment=172423)
+- [Around the World With Cessna 172](https://forums.vatsim.net/topic/27750-around-the-world-with-cessna-172/?do=findComment&comment=172422)
+- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172421)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=172420)
 - [AFV and Voicemeter Banana](https://forums.vatsim.net/topic/29859-afv-and-voicemeter-banana/?do=findComment&comment=172419)
 - [First Flight - Route Recommendations for TBM930?](https://forums.vatsim.net/topic/29945-first-flight-route-recommendations-for-tbm930/?do=findComment&comment=172418)
 - [First Flight - Route Recommendations for TBM930?](https://forums.vatsim.net/topic/29945-first-flight-route-recommendations-for-tbm930/?do=findComment&comment=172417)
 - [First Flight - Route Recommendations for TBM930?](https://forums.vatsim.net/topic/29945-first-flight-route-recommendations-for-tbm930/?do=findComment&comment=172416)
 - [First Flight - Route Recommendations for TBM930?](https://forums.vatsim.net/topic/29945-first-flight-route-recommendations-for-tbm930/?do=findComment&comment=172415)
-- [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=172414)
-- [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172413)
-- [Europe Airspace Altitudes](https://forums.vatsim.net/topic/29871-europe-airspace-altitudes/?do=findComment&comment=172412)
-- [Unable to launch VatSys](https://forums.vatsim.net/topic/30058-unable-to-launch-vatsys/?do=findComment&comment=172411)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
