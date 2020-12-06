@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot Not Running!](https://forums.vatsim.net/topic/30067-vpilot-not-running/?do=findComment&comment=172434)
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=172433)
 - [Vpilot Not Running!](https://forums.vatsim.net/topic/30067-vpilot-not-running/?do=findComment&comment=172432)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=172431)
 - [Europe Airspace Altitudes](https://forums.vatsim.net/topic/29871-europe-airspace-altitudes/?do=findComment&comment=172430)
@@ -61,8 +63,6 @@
 - [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=172427)
 - [Low draw distance (MSFS)](https://forums.vatsim.net/topic/30065-low-draw-distance-msfs/?do=findComment&comment=172426)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=172425)
-- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=172424)
-- [Low draw distance (MSFS)](https://forums.vatsim.net/topic/30065-low-draw-distance-msfs/?do=findComment&comment=172423)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
