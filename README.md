@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=11)
+- [Vpilot Not Running!](https://forums.vatsim.net/topic/30067-vpilot-not-running/?do=findComment&comment=172451)
+- [vPilot sends credentials in clear-text](https://forums.vatsim.net/topic/30072-vpilot-sends-credentials-in-clear-text/?do=findComment&comment=172450)
+- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172449)
+- [vPilot sends credentials in clear-text](https://forums.vatsim.net/topic/30072-vpilot-sends-credentials-in-clear-text/?do=findComment&comment=172448)
 - [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172447)
 - [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172446)
 - [VRC "Not responding" in Windows when loading profile](https://forums.vatsim.net/topic/28109-vrc-not-responding-in-windows-when-loading-profile/?do=findComment&comment=172445)
 - [Vpilot Not Running!](https://forums.vatsim.net/topic/30067-vpilot-not-running/?do=findComment&comment=172444)
 - [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172443)
-- [MSFS ATC settings help appreciated for Vatsim newbie](https://forums.vatsim.net/topic/30071-msfs-atc-settings-help-appreciated-for-vatsim-newbie/?do=findComment&comment=172442)
-- [MSFS ATC settings help appreciated for Vatsim newbie](https://forums.vatsim.net/topic/30071-msfs-atc-settings-help-appreciated-for-vatsim-newbie/?do=findComment&comment=172441)
-- [Vatsim Flightplan Prefile Error Message + code](https://forums.vatsim.net/topic/30070-vatsim-flightplan-prefile-error-message-code/?do=findComment&comment=172440)
-- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172439)
-- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=172438)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
