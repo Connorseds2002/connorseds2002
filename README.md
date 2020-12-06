@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [vATIS Not Transmitting Audio on Frequency](https://forums.vatsim.net/topic/26418-vatis-not-transmitting-audio-on-frequency/?do=findComment&comment=172403)
-- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=172402)
-- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172401)
-- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172400)
-- [Low draw distance (MSFS)](https://forums.vatsim.net/topic/30065-low-draw-distance-msfs/?do=findComment&comment=172399)
-- [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=172398)
-- [[VACANCY] VATSIM Middle East & North Africa - Operations Director](https://forums.vatsim.net/topic/30063-vacancy-vatsim-middle-east-north-africa-operations-director/?do=findComment&comment=172397)
-- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172396)
-- [[Dec 19] Canadian Xpress December Fly-In - Capitals of the Prairies](https://forums.vatsim.net/topic/30062-dec-19-canadian-xpress-december-fly-in-capitals-of-the-prairies/?do=findComment&comment=172395)
-- [Autostart](https://forums.vatsim.net/topic/29920-autostart/?do=findComment&comment=172394)
+- [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172413)
+- [Europe Airspace Altitudes](https://forums.vatsim.net/topic/29871-europe-airspace-altitudes/?do=findComment&comment=172412)
+- [Unable to launch VatSys](https://forums.vatsim.net/topic/30058-unable-to-launch-vatsys/?do=findComment&comment=172411)
+- [Unable to launch VatSys](https://forums.vatsim.net/topic/30058-unable-to-launch-vatsys/?do=findComment&comment=172410)
+- [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172409)
+- [Low draw distance (MSFS)](https://forums.vatsim.net/topic/30065-low-draw-distance-msfs/?do=findComment&comment=172408)
+- [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172407)
+- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172406)
+- [Europe Airspace Altitudes](https://forums.vatsim.net/topic/29871-europe-airspace-altitudes/?do=findComment&comment=172405)
+- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172404)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
