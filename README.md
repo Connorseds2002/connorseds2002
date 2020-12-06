@@ -42,7 +42,7 @@
 - [Ernabella to Ayres Rock](https://forums.vatpac.org/calendar/event/1562-ernabella-to-ayres-rock/)
 - [Ayres Rock to Ernabella](https://forums.vatpac.org/calendar/event/1561-ayres-rock-to-ernabella/)
 - [NOTAM 05DEC20: Positions Reserved for Cross The Ditch](https://forums.vatpac.org/topic/18472-notam-05dec20-positions-reserved-for-cross-the-ditch/?do=findComment&comment=130382)
-- [14DEC20 | Spilled Milk Run Monday](https://forums.vatpac.org/topic/18470-14dec20-spilled-milk-run-monday/?do=findComment&comment=130374)
+- [14DEC20 | Special Milk Run Monday](https://forums.vatpac.org/topic/18470-14dec20-special-milk-run-monday/?do=findComment&comment=130374)
 - [27DEC20 | Lord Howe Island](https://forums.vatpac.org/calendar/event/1560-27dec20-lord-howe-island/)
 - [20DEC20 | Warwick to Gold Coast](https://forums.vatpac.org/calendar/event/1559-20dec20-warwick-to-gold-coast/)
 - [18DEC20 | Gold Coast to Warwick](https://forums.vatpac.org/calendar/event/1558-18dec20-gold-coast-to-warwick/)
