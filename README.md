@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172467)
+- [Lebanon vACC Deputy Director Announcement!](https://forums.vatsim.net/topic/29807-lebanon-vacc-deputy-director-announcement/?do=findComment&comment=172466)
+- [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=172465)
+- [New Middle East and North Africa Division Director.](https://forums.vatsim.net/topic/29965-new-middle-east-and-north-africa-division-director/?do=findComment&comment=172464)
+- [Vatsim Flightplan Prefile Error Message + code](https://forums.vatsim.net/topic/30070-vatsim-flightplan-prefile-error-message-code/?do=findComment&comment=172463)
+- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172462)
+- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172461)
+- [VRC cant hear only text](https://forums.vatsim.net/topic/30073-vrc-cant-hear-only-text/?do=findComment&comment=172460)
+- [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=172459)
 - [[Newbie] Some ATC General Questions](https://forums.vatsim.net/topic/30012-newbie-some-atc-general-questions/?do=findComment&comment=172458)
-- [VRC cant hear only text](https://forums.vatsim.net/topic/30073-vrc-cant-hear-only-text/?do=findComment&comment=172457)
-- [New Logo: APAC Region](https://forums.vatsim.net/topic/29952-new-logo-apac-region/?do=findComment&comment=172456)
-- [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=12)
-- [MSFS2020 and VPILOT help needed](https://forums.vatsim.net/topic/29739-msfs2020-and-vpilot-help-needed/?do=findComment&comment=172455)
-- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172454)
-- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172453)
-- [vPilot sends credentials in clear-text](https://forums.vatsim.net/topic/30072-vpilot-sends-credentials-in-clear-text/?do=findComment&comment=172452)
-- [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=11)
-- [Vpilot Not Running!](https://forums.vatsim.net/topic/30067-vpilot-not-running/?do=findComment&comment=172451)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
