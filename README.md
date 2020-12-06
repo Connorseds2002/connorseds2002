@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot Not Running!](https://forums.vatsim.net/topic/30067-vpilot-not-running/?do=findComment&comment=172444)
+- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172443)
 - [MSFS ATC settings help appreciated for Vatsim newbie](https://forums.vatsim.net/topic/30071-msfs-atc-settings-help-appreciated-for-vatsim-newbie/?do=findComment&comment=172442)
 - [MSFS ATC settings help appreciated for Vatsim newbie](https://forums.vatsim.net/topic/30071-msfs-atc-settings-help-appreciated-for-vatsim-newbie/?do=findComment&comment=172441)
 - [Vatsim Flightplan Prefile Error Message + code](https://forums.vatsim.net/topic/30070-vatsim-flightplan-prefile-error-message-code/?do=findComment&comment=172440)
@@ -61,8 +63,6 @@
 - [Airport Charts tab not working](https://forums.vatsim.net/topic/30069-airport-charts-tab-not-working/?do=findComment&comment=172437)
 - [[9th December 2020 1200z-1400z] S2 CPT Lumpur Tower (WMKK_TWR)](https://forums.vatsim.net/topic/30038-9th-december-2020-1200z-1400z-s2-cpt-lumpur-tower-wmkk_twr/?do=findComment&comment=172436)
 - [XSB 2.1 audio not working with XP11.50 on Ubuntu 20.10](https://forums.vatsim.net/topic/30068-xsb-21-audio-not-working-with-xp1150-on-ubuntu-2010/?do=findComment&comment=172435)
-- [Vpilot Not Running!](https://forums.vatsim.net/topic/30067-vpilot-not-running/?do=findComment&comment=172434)
-- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=172433)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
