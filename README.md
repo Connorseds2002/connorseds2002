@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [First Flight - Route Recommendations for TBM930?](https://forums.vatsim.net/topic/29945-first-flight-route-recommendations-for-tbm930/?do=findComment&comment=172418)
 - [First Flight - Route Recommendations for TBM930?](https://forums.vatsim.net/topic/29945-first-flight-route-recommendations-for-tbm930/?do=findComment&comment=172417)
 - [First Flight - Route Recommendations for TBM930?](https://forums.vatsim.net/topic/29945-first-flight-route-recommendations-for-tbm930/?do=findComment&comment=172416)
 - [First Flight - Route Recommendations for TBM930?](https://forums.vatsim.net/topic/29945-first-flight-route-recommendations-for-tbm930/?do=findComment&comment=172415)
@@ -62,7 +63,6 @@
 - [Unable to launch VatSys](https://forums.vatsim.net/topic/30058-unable-to-launch-vatsys/?do=findComment&comment=172411)
 - [Unable to launch VatSys](https://forums.vatsim.net/topic/30058-unable-to-launch-vatsys/?do=findComment&comment=172410)
 - [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172409)
-- [Low draw distance (MSFS)](https://forums.vatsim.net/topic/30065-low-draw-distance-msfs/?do=findComment&comment=172408)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
