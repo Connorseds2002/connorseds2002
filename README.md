@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172503)
+- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172502)
 - [AFV exception error](https://forums.vatsim.net/topic/28564-afv-exception-error/?do=findComment&comment=172501)
 - [Airport Charts tab not working](https://forums.vatsim.net/topic/30069-airport-charts-tab-not-working/?do=findComment&comment=172500)
 - [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=172499)
@@ -61,8 +63,6 @@
 - [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172496)
 - [MSFS ATC settings help appreciated for Vatsim newbie](https://forums.vatsim.net/topic/30071-msfs-atc-settings-help-appreciated-for-vatsim-newbie/?do=findComment&comment=172495)
 - [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=172494)
-- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=172493)
-- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172492)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
