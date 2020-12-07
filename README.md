@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172498)
+- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172497)
 - [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172496)
 - [MSFS ATC settings help appreciated for Vatsim newbie](https://forums.vatsim.net/topic/30071-msfs-atc-settings-help-appreciated-for-vatsim-newbie/?do=findComment&comment=172495)
 - [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=172494)
@@ -61,8 +63,6 @@
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172491)
 - [QZ VFR/OTP Doesn't Transfer](https://forums.vatsim.net/topic/30077-qz-vfrotp-doesnt-transfer/?do=findComment&comment=172490)
 - [P0 Exam](https://forums.vatsim.net/topic/30078-p0-exam/?do=findComment&comment=172489)
-- [QZ VFR/OTP Doesn't Transfer](https://forums.vatsim.net/topic/30077-qz-vfrotp-doesnt-transfer/?do=findComment&comment=172488)
-- [QZ VFR/OTP Doesn't Transfer](https://forums.vatsim.net/topic/30077-qz-vfrotp-doesnt-transfer/?do=findComment&comment=172487)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
