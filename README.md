@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172496)
 - [MSFS ATC settings help appreciated for Vatsim newbie](https://forums.vatsim.net/topic/30071-msfs-atc-settings-help-appreciated-for-vatsim-newbie/?do=findComment&comment=172495)
 - [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=172494)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=172493)
@@ -62,7 +63,6 @@
 - [P0 Exam](https://forums.vatsim.net/topic/30078-p0-exam/?do=findComment&comment=172489)
 - [QZ VFR/OTP Doesn't Transfer](https://forums.vatsim.net/topic/30077-qz-vfrotp-doesnt-transfer/?do=findComment&comment=172488)
 - [QZ VFR/OTP Doesn't Transfer](https://forums.vatsim.net/topic/30077-qz-vfrotp-doesnt-transfer/?do=findComment&comment=172487)
-- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172486)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
