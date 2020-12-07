@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172504)
 - [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172503)
 - [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172502)
 - [AFV exception error](https://forums.vatsim.net/topic/28564-afv-exception-error/?do=findComment&comment=172501)
@@ -62,7 +63,6 @@
 - [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172497)
 - [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172496)
 - [MSFS ATC settings help appreciated for Vatsim newbie](https://forums.vatsim.net/topic/30071-msfs-atc-settings-help-appreciated-for-vatsim-newbie/?do=findComment&comment=172495)
-- [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=172494)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
