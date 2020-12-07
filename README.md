@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS ATC settings help appreciated for Vatsim newbie](https://forums.vatsim.net/topic/30071-msfs-atc-settings-help-appreciated-for-vatsim-newbie/?do=findComment&comment=172495)
+- [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=172494)
+- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=172493)
+- [Fsx crashing during flight](https://forums.vatsim.net/topic/30066-fsx-crashing-during-flight/?do=findComment&comment=172492)
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172491)
 - [QZ VFR/OTP Doesn't Transfer](https://forums.vatsim.net/topic/30077-qz-vfrotp-doesnt-transfer/?do=findComment&comment=172490)
 - [P0 Exam](https://forums.vatsim.net/topic/30078-p0-exam/?do=findComment&comment=172489)
 - [QZ VFR/OTP Doesn't Transfer](https://forums.vatsim.net/topic/30077-qz-vfrotp-doesnt-transfer/?do=findComment&comment=172488)
 - [QZ VFR/OTP Doesn't Transfer](https://forums.vatsim.net/topic/30077-qz-vfrotp-doesnt-transfer/?do=findComment&comment=172487)
 - [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172486)
-- [VRC cant hear only text](https://forums.vatsim.net/topic/30073-vrc-cant-hear-only-text/?do=findComment&comment=172485)
-- [Airport Charts tab not working](https://forums.vatsim.net/topic/30069-airport-charts-tab-not-working/?do=findComment&comment=172484)
-- [New Middle East and North Africa Division Director.](https://forums.vatsim.net/topic/29965-new-middle-east-and-north-africa-division-director/?do=findComment&comment=172483)
-- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172482)
-- [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=172481)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
