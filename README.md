@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=172511)
+- [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=172510)
+- [[11st December 2020, 2000Z 2200z] CPT S2 Nice Tower](https://forums.vatsim.net/topic/30079-11st-december-2020-2000z-2200z-cpt-s2-nice-tower/?do=findComment&comment=172509)
+- [JSON version of the stats](https://forums.vatsim.net/topic/25008-json-version-of-the-stats/?do=findComment&comment=172508)
+- [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=172507)
+- [JSON version of the stats](https://forums.vatsim.net/topic/25008-json-version-of-the-stats/?do=findComment&comment=172506)
 - [[16th December 2020 1300z-1500z] S2 CPT Lumpur Tower (WMKK_TWR)](https://forums.vatsim.net/topic/30038-16th-december-2020-1300z-1500z-s2-cpt-lumpur-tower-wmkk_twr/?do=findComment&comment=172505)
 - [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172504)
 - [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172503)
 - [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172502)
-- [AFV exception error](https://forums.vatsim.net/topic/28564-afv-exception-error/?do=findComment&comment=172501)
-- [Airport Charts tab not working](https://forums.vatsim.net/topic/30069-airport-charts-tab-not-working/?do=findComment&comment=172500)
-- [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=172499)
-- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172498)
-- [SelCal on X-Plane?](https://forums.vatsim.net/topic/3668-selcal-on-x-plane/?do=findComment&comment=172497)
-- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172496)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
