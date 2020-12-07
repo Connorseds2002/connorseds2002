@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172486)
+- [VRC cant hear only text](https://forums.vatsim.net/topic/30073-vrc-cant-hear-only-text/?do=findComment&comment=172485)
 - [Airport Charts tab not working](https://forums.vatsim.net/topic/30069-airport-charts-tab-not-working/?do=findComment&comment=172484)
 - [New Middle East and North Africa Division Director.](https://forums.vatsim.net/topic/29965-new-middle-east-and-north-africa-division-director/?do=findComment&comment=172483)
 - [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172482)
@@ -61,8 +63,6 @@
 - [VRC "Not responding" in Windows when loading profile](https://forums.vatsim.net/topic/28109-vrc-not-responding-in-windows-when-loading-profile/?do=findComment&comment=172479)
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=172478)
 - [Error loading](https://forums.vatsim.net/topic/30075-error-loading/?do=findComment&comment=172477)
-- [Europe Airspace Altitudes](https://forums.vatsim.net/topic/29871-europe-airspace-altitudes/?do=findComment&comment=172476)
-- [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=172475)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
