@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172529)
 - [(11 Dec, Friday)  Sofia Friday Night](https://forums.vatsim.net/topic/30084-11-dec-friday-sofia-friday-night/?do=findComment&comment=172528)
 - [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172527)
 - [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172526)
@@ -62,7 +63,6 @@
 - [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172522)
 - [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172521)
 - [JSON version of the stats](https://forums.vatsim.net/topic/25008-json-version-of-the-stats/?do=findComment&comment=172520)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=172519)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
