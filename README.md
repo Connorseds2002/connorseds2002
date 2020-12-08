@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172522)
+- [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172521)
 - [JSON version of the stats](https://forums.vatsim.net/topic/25008-json-version-of-the-stats/?do=findComment&comment=172520)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=172519)
 - [How to reactivate an account without access to email?](https://forums.vatsim.net/topic/30082-how-to-reactivate-an-account-without-access-to-email/?do=findComment&comment=172518)
@@ -61,8 +63,6 @@
 - [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172515)
 - [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172514)
 - [Blue error messages while launching Euroscope .](https://forums.vatsim.net/topic/30080-blue-error-messages-while-launching-euroscope/?do=findComment&comment=172513)
-- [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=172512)
-- [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=172511)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
