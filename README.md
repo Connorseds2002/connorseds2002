@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172523)
 - [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172522)
 - [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172521)
 - [JSON version of the stats](https://forums.vatsim.net/topic/25008-json-version-of-the-stats/?do=findComment&comment=172520)
@@ -62,7 +63,6 @@
 - [america west](https://forums.vatsim.net/topic/30048-america-west/?do=findComment&comment=172516)
 - [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172515)
 - [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172514)
-- [Blue error messages while launching Euroscope .](https://forums.vatsim.net/topic/30080-blue-error-messages-while-launching-euroscope/?do=findComment&comment=172513)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
