@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can't See VSCS or Text Communications Box](https://forums.vatsim.net/topic/30043-cant-see-vscs-or-text-communications-box/?do=findComment&comment=172543)
+- [how do i private chat on xpilot? thanks kelly](https://forums.vatsim.net/topic/30086-how-do-i-private-chat-on-xpilot-thanks-kelly/?do=findComment&comment=172542)
 - [Can't See VSCS or Text Communications Box](https://forums.vatsim.net/topic/30043-cant-see-vscs-or-text-communications-box/?do=findComment&comment=172541)
 - [how do i private chat on xpilot? thanks kelly](https://forums.vatsim.net/topic/30086-how-do-i-private-chat-on-xpilot-thanks-kelly/?do=findComment&comment=172540)
 - [Deixe a sua print de Controle na rede!](https://forums.vatsim.net/topic/30085-deixe-a-sua-print-de-controle-na-rede/?do=findComment&comment=172539)
@@ -61,8 +63,6 @@
 - [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172536)
 - [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172535)
 - [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172534)
-- [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172533)
-- [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172532)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
