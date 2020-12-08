@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to reactivate an account without access to email?](https://forums.vatsim.net/topic/30082-how-to-reactivate-an-account-without-access-to-email/?do=findComment&comment=172518)
 - [How to reactivate an account without access to email?](https://forums.vatsim.net/topic/30082-how-to-reactivate-an-account-without-access-to-email/?do=findComment&comment=172517)
 - [america west](https://forums.vatsim.net/topic/30048-america-west/?do=findComment&comment=172516)
 - [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172515)
@@ -62,7 +63,6 @@
 - [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=172511)
 - [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=172510)
 - [[11st December 2020, 2000Z 2200z] CPT S2 Nice Tower](https://forums.vatsim.net/topic/30079-11st-december-2020-2000z-2200z-cpt-s2-nice-tower/?do=findComment&comment=172509)
-- [JSON version of the stats](https://forums.vatsim.net/topic/25008-json-version-of-the-stats/?do=findComment&comment=172508)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
