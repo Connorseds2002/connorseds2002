@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Maybe Airways](https://forums.vatsim.net/topic/30088-maybe-airways/?do=findComment&comment=172549)
+- [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172548)
+- [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172547)
+- [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172546)
 - [Blue error messages while launching Euroscope .](https://forums.vatsim.net/topic/30080-blue-error-messages-while-launching-euroscope/?do=findComment&comment=172545)
 - [New Middle East and North Africa Division Director.](https://forums.vatsim.net/topic/29965-new-middle-east-and-north-africa-division-director/?do=findComment&comment=172544)
 - [Can't See VSCS or Text Communications Box](https://forums.vatsim.net/topic/30043-cant-see-vscs-or-text-communications-box/?do=findComment&comment=172543)
 - [how do i private chat on xpilot? thanks kelly](https://forums.vatsim.net/topic/30086-how-do-i-private-chat-on-xpilot-thanks-kelly/?do=findComment&comment=172542)
 - [Can't See VSCS or Text Communications Box](https://forums.vatsim.net/topic/30043-cant-see-vscs-or-text-communications-box/?do=findComment&comment=172541)
 - [how do i private chat on xpilot? thanks kelly](https://forums.vatsim.net/topic/30086-how-do-i-private-chat-on-xpilot-thanks-kelly/?do=findComment&comment=172540)
-- [Deixe a sua print de Controle na rede!](https://forums.vatsim.net/topic/30085-deixe-a-sua-print-de-controle-na-rede/?do=findComment&comment=172539)
-- [Deixe a sua print de Controle na rede!](https://forums.vatsim.net/topic/30085-deixe-a-sua-print-de-controle-na-rede/?do=findComment&comment=172538)
-- [How to reactivate an account without access to email?](https://forums.vatsim.net/topic/30082-how-to-reactivate-an-account-without-access-to-email/?do=findComment&comment=172537)
-- [Transponder help for a newbie](https://forums.vatsim.net/topic/30083-transponder-help-for-a-newbie/?do=findComment&comment=172536)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
