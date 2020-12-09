@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [16DEC20 World Discovery Canada Great Lakes Tour](https://forums.vatpac.org/calendar/event/1566-16dec20-world-discovery-canada-great-lakes-tour/)
 - [09DEC20 World Discovery Canada Great Lakes](https://forums.vatpac.org/calendar/event/1565-09dec20-world-discovery-canada-great-lakes/)
 - [Ernabella to Ayres Rock](https://forums.vatpac.org/calendar/event/1562-ernabella-to-ayres-rock/)
 - [Ayres Rock to Ernabella](https://forums.vatpac.org/calendar/event/1561-ayres-rock-to-ernabella/)
@@ -48,7 +49,6 @@
 - [20DEC20 | Warwick to Gold Coast](https://forums.vatpac.org/calendar/event/1559-20dec20-warwick-to-gold-coast/)
 - [18DEC20 | Gold Coast to Warwick](https://forums.vatpac.org/calendar/event/1558-18dec20-gold-coast-to-warwick/)
 - [14DEC20 | Special Milk Run Monday](https://forums.vatpac.org/calendar/event/1557-14dec20-special-milk-run-monday/)
-- [21DEC20 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1556-21dec20-milk-run-monday/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
