@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172550)
 - [Maybe Airways](https://forums.vatsim.net/topic/30088-maybe-airways/?do=findComment&comment=172549)
 - [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172548)
 - [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172547)
@@ -62,7 +63,6 @@
 - [Can't See VSCS or Text Communications Box](https://forums.vatsim.net/topic/30043-cant-see-vscs-or-text-communications-box/?do=findComment&comment=172543)
 - [how do i private chat on xpilot? thanks kelly](https://forums.vatsim.net/topic/30086-how-do-i-private-chat-on-xpilot-thanks-kelly/?do=findComment&comment=172542)
 - [Can't See VSCS or Text Communications Box](https://forums.vatsim.net/topic/30043-cant-see-vscs-or-text-communications-box/?do=findComment&comment=172541)
-- [how do i private chat on xpilot? thanks kelly](https://forums.vatsim.net/topic/30086-how-do-i-private-chat-on-xpilot-thanks-kelly/?do=findComment&comment=172540)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
