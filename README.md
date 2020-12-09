@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Blue error messages while launching Euroscope .](https://forums.vatsim.net/topic/30080-blue-error-messages-while-launching-euroscope/?do=findComment&comment=172577)
 - [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172576)
 - [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172575)
 - [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172574)
@@ -62,7 +63,6 @@
 - [The ability to resize AFV window](https://forums.vatsim.net/topic/30096-the-ability-to-resize-afv-window/?do=findComment&comment=172570)
 - [Is flying the Concorde not allowed?](https://forums.vatsim.net/topic/19440-is-flying-the-concorde-not-allowed/?do=findComment&comment=172569)
 - [ES Beta 3.2.1.24 ATIS problems](https://forums.vatsim.net/topic/27012-es-beta-32124-atis-problems/?do=findComment&comment=172568)
-- [Error loading](https://forums.vatsim.net/topic/30075-error-loading/?do=findComment&comment=172567)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
