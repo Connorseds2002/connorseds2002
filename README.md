@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172574)
+- [Error loading](https://forums.vatsim.net/topic/30075-error-loading/?do=findComment&comment=172573)
+- [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172572)
+- [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172571)
+- [The ability to resize AFV window](https://forums.vatsim.net/topic/30096-the-ability-to-resize-afv-window/?do=findComment&comment=172570)
 - [Is flying the Concorde not allowed?](https://forums.vatsim.net/topic/19440-is-flying-the-concorde-not-allowed/?do=findComment&comment=172569)
 - [ES Beta 3.2.1.24 ATIS problems](https://forums.vatsim.net/topic/27012-es-beta-32124-atis-problems/?do=findComment&comment=172568)
 - [Error loading](https://forums.vatsim.net/topic/30075-error-loading/?do=findComment&comment=172567)
 - [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172566)
 - [New Prefile Page/Website](https://forums.vatsim.net/topic/28734-new-prefile-pagewebsite/?do=findComment&comment=172565)
-- [Aircraft labels VATSpy/SimAware](https://forums.vatsim.net/topic/30095-aircraft-labels-vatspysimaware/?do=findComment&comment=172564)
-- [[December 11, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30094-december-11-18z-21z-bucharest-online/?do=findComment&comment=172563)
-- [[December 11, 17z-20z] Sofia Friday Night](https://forums.vatsim.net/topic/30093-december-11-17z-20z-sofia-friday-night/?do=findComment&comment=172562)
-- [How to reactivate an account without access to email?](https://forums.vatsim.net/topic/30082-how-to-reactivate-an-account-without-access-to-email/?do=findComment&comment=172561)
-- [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172560)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
