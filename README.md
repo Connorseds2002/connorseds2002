@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172556)
+- [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172555)
 - [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=172554)
 - [ES Beta 3.2.1.24 ATIS problems](https://forums.vatsim.net/topic/27012-es-beta-32124-atis-problems/?do=findComment&comment=172553)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172552)
@@ -61,8 +63,6 @@
 - [Maybe Airways](https://forums.vatsim.net/topic/30088-maybe-airways/?do=findComment&comment=172549)
 - [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172548)
 - [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172547)
-- [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172546)
-- [Blue error messages while launching Euroscope .](https://forums.vatsim.net/topic/30080-blue-error-messages-while-launching-euroscope/?do=findComment&comment=172545)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
