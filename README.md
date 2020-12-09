@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172558)
+- [New Prefile Page/Website](https://forums.vatsim.net/topic/28734-new-prefile-pagewebsite/?do=findComment&comment=172557)
 - [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172556)
 - [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172555)
 - [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=172554)
@@ -61,8 +63,6 @@
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172551)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172550)
 - [Maybe Airways](https://forums.vatsim.net/topic/30088-maybe-airways/?do=findComment&comment=172549)
-- [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172548)
-- [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172547)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
