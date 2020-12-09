@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172552)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172551)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172550)
 - [Maybe Airways](https://forums.vatsim.net/topic/30088-maybe-airways/?do=findComment&comment=172549)
@@ -62,7 +63,6 @@
 - [Blue error messages while launching Euroscope .](https://forums.vatsim.net/topic/30080-blue-error-messages-while-launching-euroscope/?do=findComment&comment=172545)
 - [New Middle East and North Africa Division Director.](https://forums.vatsim.net/topic/29965-new-middle-east-and-north-africa-division-director/?do=findComment&comment=172544)
 - [Can't See VSCS or Text Communications Box](https://forums.vatsim.net/topic/30043-cant-see-vscs-or-text-communications-box/?do=findComment&comment=172543)
-- [how do i private chat on xpilot? thanks kelly](https://forums.vatsim.net/topic/30086-how-do-i-private-chat-on-xpilot-thanks-kelly/?do=findComment&comment=172542)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
