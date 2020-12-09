@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=172554)
+- [ES Beta 3.2.1.24 ATIS problems](https://forums.vatsim.net/topic/27012-es-beta-32124-atis-problems/?do=findComment&comment=172553)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172552)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172551)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172550)
@@ -61,8 +63,6 @@
 - [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172547)
 - [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=172546)
 - [Blue error messages while launching Euroscope .](https://forums.vatsim.net/topic/30080-blue-error-messages-while-launching-euroscope/?do=findComment&comment=172545)
-- [New Middle East and North Africa Division Director.](https://forums.vatsim.net/topic/29965-new-middle-east-and-north-africa-division-director/?do=findComment&comment=172544)
-- [Can't See VSCS or Text Communications Box](https://forums.vatsim.net/topic/30043-cant-see-vscs-or-text-communications-box/?do=findComment&comment=172543)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
