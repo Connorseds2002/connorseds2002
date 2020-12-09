@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Prefile Page/Website](https://forums.vatsim.net/topic/28734-new-prefile-pagewebsite/?do=findComment&comment=172565)
+- [Aircraft labels VATSpy/SimAware](https://forums.vatsim.net/topic/30095-aircraft-labels-vatspysimaware/?do=findComment&comment=172564)
+- [[December 11, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30094-december-11-18z-21z-bucharest-online/?do=findComment&comment=172563)
+- [[December 11, 17z-20z] Sofia Friday Night](https://forums.vatsim.net/topic/30093-december-11-17z-20z-sofia-friday-night/?do=findComment&comment=172562)
+- [How to reactivate an account without access to email?](https://forums.vatsim.net/topic/30082-how-to-reactivate-an-account-without-access-to-email/?do=findComment&comment=172561)
 - [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172560)
 - [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172559)
 - [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172558)
 - [New Prefile Page/Website](https://forums.vatsim.net/topic/28734-new-prefile-pagewebsite/?do=findComment&comment=172557)
 - [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172556)
-- [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172555)
-- [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=172554)
-- [ES Beta 3.2.1.24 ATIS problems](https://forums.vatsim.net/topic/27012-es-beta-32124-atis-problems/?do=findComment&comment=172553)
-- [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172552)
-- [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172551)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
