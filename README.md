@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Any VA with no client required, Vatsim data only](https://forums.vatsim.net/topic/27872-any-va-with-no-client-required-vatsim-data-only/?do=findComment&comment=172600)
 - [About the virtual airline staff positions?](https://forums.vatsim.net/topic/29993-about-the-virtual-airline-staff-positions/?do=findComment&comment=172599)
 - [Cyprus' Aphrodite Night | Friday 18/12/2020 , 1800z - 2100z](https://forums.vatsim.net/topic/30104-cyprus-aphrodite-night-friday-18122020-1800z-2100z/?do=findComment&comment=172598)
 - [Delete records from vatsim.net/events](https://forums.vatsim.net/topic/30103-delete-records-from-vatsimnetevents/?do=findComment&comment=172597)
@@ -62,7 +63,6 @@
 - [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172593)
 - [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172592)
 - [Network error: EndReceive failed: (10054)](https://forums.vatsim.net/topic/30102-network-error-endreceive-failed-10054/?do=findComment&comment=172591)
-- [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30101-era-alaska-virtual-group-flight/?do=findComment&comment=172590)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
