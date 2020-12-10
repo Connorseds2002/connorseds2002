@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=172581)
+- [New Prefile Page/Website](https://forums.vatsim.net/topic/28734-new-prefile-pagewebsite/?do=findComment&comment=172580)
+- [[APPOINTMENT] Turkish vACC Director](https://forums.vatsim.net/topic/30098-appointment-turkish-vacc-director/?do=findComment&comment=172579)
+- [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172578)
 - [Blue error messages while launching Euroscope .](https://forums.vatsim.net/topic/30080-blue-error-messages-while-launching-euroscope/?do=findComment&comment=172577)
 - [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172576)
 - [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172575)
 - [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172574)
 - [Error loading](https://forums.vatsim.net/topic/30075-error-loading/?do=findComment&comment=172573)
 - [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172572)
-- [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172571)
-- [The ability to resize AFV window](https://forums.vatsim.net/topic/30096-the-ability-to-resize-afv-window/?do=findComment&comment=172570)
-- [Is flying the Concorde not allowed?](https://forums.vatsim.net/topic/19440-is-flying-the-concorde-not-allowed/?do=findComment&comment=172569)
-- [ES Beta 3.2.1.24 ATIS problems](https://forums.vatsim.net/topic/27012-es-beta-32124-atis-problems/?do=findComment&comment=172568)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
