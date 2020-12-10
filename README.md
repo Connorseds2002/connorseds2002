@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to launch VatSys](https://forums.vatsim.net/topic/30058-unable-to-launch-vatsys/?do=findComment&comment=172585)
 - [New Prefile Page/Website](https://forums.vatsim.net/topic/28734-new-prefile-pagewebsite/?do=findComment&comment=172584)
 - [Turkish vACC Discord](https://forums.vatsim.net/topic/30100-turkish-vacc-discord/?do=findComment&comment=172583)
 - [New Prefile Page/Website](https://forums.vatsim.net/topic/28734-new-prefile-pagewebsite/?do=findComment&comment=172582)
@@ -62,7 +63,6 @@
 - [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172578)
 - [Blue error messages while launching Euroscope .](https://forums.vatsim.net/topic/30080-blue-error-messages-while-launching-euroscope/?do=findComment&comment=172577)
 - [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172576)
-- [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172575)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
