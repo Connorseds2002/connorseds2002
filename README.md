@@ -39,16 +39,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10JAN21 | North Shore Return via Ardmore](https://forums.vatpac.org/calendar/event/1575-10jan21-north-shore-return-via-ardmore/)
+- [08JAN21 | North Shore Return via Auckland CBD](https://forums.vatpac.org/calendar/event/1574-08jan21-north-shore-return-via-auckland-cbd/)
 - [ENR Controller - Luke Maynard](https://forums.vatpac.org/topic/18479-enr-controller-luke-maynard/?do=findComment&comment=130407)
 - [16DEC20 World Discovery Canada Great Lakes Tour](https://forums.vatpac.org/calendar/event/1569-16dec20-world-discovery-canada-great-lakes-tour/)
 - [23DEC20 World Discovery Canada Great Lakes Tour](https://forums.vatpac.org/calendar/event/1568-23dec20-world-discovery-canada-great-lakes-tour/)
 - [09DEC20 World Discovery Canada Great Lakes](https://forums.vatpac.org/calendar/event/1565-09dec20-world-discovery-canada-great-lakes/)
-- [Ernabella to Ayres Rock](https://forums.vatpac.org/calendar/event/1562-ernabella-to-ayres-rock/)
-- [Ayres Rock to Ernabella](https://forums.vatpac.org/calendar/event/1561-ayres-rock-to-ernabella/)
+- [03JAN21 | Ernabella to Ayres Rock](https://forums.vatpac.org/calendar/event/1562-03jan21-ernabella-to-ayres-rock/)
+- [01JAN21 | Ayres Rock to Ernabella](https://forums.vatpac.org/calendar/event/1561-01jan21-ayres-rock-to-ernabella/)
 - [NOTAM 05DEC20: Positions Reserved for Cross The Ditch](https://forums.vatpac.org/topic/18472-notam-05dec20-positions-reserved-for-cross-the-ditch/?do=findComment&comment=130382)
 - [14DEC20 | Special Milk Run Monday](https://forums.vatpac.org/topic/18470-14dec20-special-milk-run-monday/?do=findComment&comment=130374)
-- [27DEC20 | Lord Howe Island](https://forums.vatpac.org/calendar/event/1560-27dec20-lord-howe-island/)
-- [20DEC20 | Warwick to Gold Coast](https://forums.vatpac.org/calendar/event/1559-20dec20-warwick-to-gold-coast/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
