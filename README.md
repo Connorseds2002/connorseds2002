@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Turkish vACC Discord](https://forums.vatsim.net/topic/30100-turkish-vacc-discord/?do=findComment&comment=172583)
+- [New Prefile Page/Website](https://forums.vatsim.net/topic/28734-new-prefile-pagewebsite/?do=findComment&comment=172582)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=172581)
 - [New Prefile Page/Website](https://forums.vatsim.net/topic/28734-new-prefile-pagewebsite/?do=findComment&comment=172580)
 - [[APPOINTMENT] Turkish vACC Director](https://forums.vatsim.net/topic/30098-appointment-turkish-vacc-director/?do=findComment&comment=172579)
@@ -61,8 +63,6 @@
 - [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172576)
 - [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172575)
 - [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172574)
-- [Error loading](https://forums.vatsim.net/topic/30075-error-loading/?do=findComment&comment=172573)
-- [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172572)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
