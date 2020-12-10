@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Delete events](https://forums.vatsim.net/topic/30103-delete-events/?do=findComment&comment=172597)
 - [Vatsim Flightplan Prefile Error Message + code](https://forums.vatsim.net/topic/30070-vatsim-flightplan-prefile-error-message-code/?do=findComment&comment=172596)
 - [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172595)
 - [[APPOINTMENT] Turkish vACC Director](https://forums.vatsim.net/topic/30098-appointment-turkish-vacc-director/?do=findComment&comment=172594)
@@ -62,7 +63,6 @@
 - [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30101-era-alaska-virtual-group-flight/?do=findComment&comment=172590)
 - [[APPOINTMENT] Turkish vACC Director](https://forums.vatsim.net/topic/30098-appointment-turkish-vacc-director/?do=findComment&comment=172589)
 - [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172588)
-- [ATC hours of operations enforcement](https://forums.vatsim.net/topic/30090-atc-hours-of-operations-enforcement/?do=findComment&comment=172587)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
