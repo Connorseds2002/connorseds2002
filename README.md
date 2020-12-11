@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172621)
 - [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172620)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172619)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172618)
@@ -62,7 +63,6 @@
 - [Dec 18, 1300-1500z I VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30107-dec-18-1300-1500z-i-vvts-twr-s2-cpt/?do=findComment&comment=172614)
 - [Max # of .FF](https://forums.vatsim.net/topic/30106-max-of-ff/?do=findComment&comment=172612)
 - [Max # of .FF](https://forums.vatsim.net/topic/30106-max-of-ff/?do=findComment&comment=172611)
-- [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=172610)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
