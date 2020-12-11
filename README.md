@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dec 18, 1300-1500z I VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30107-dec-18-1300-1500z-i-vvts-twr-s2-cpt/?do=findComment&comment=172614)
 - [Max # of .FF](https://forums.vatsim.net/topic/30106-max-of-ff/?do=findComment&comment=172612)
 - [Max # of .FF](https://forums.vatsim.net/topic/30106-max-of-ff/?do=findComment&comment=172611)
 - [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=172610)
@@ -62,7 +63,6 @@
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=172606)
 - [India vACC Launches its brand new Official Twitter Handle](https://forums.vatsim.net/topic/30105-india-vacc-launches-its-brand-new-official-twitter-handle/?do=findComment&comment=172605)
 - [ZGOW (Chaoshan - China)](https://forums.vatsim.net/topic/30092-zgow-chaoshan-china/?do=findComment&comment=172604)
-- [Blue error messages while launching Euroscope .](https://forums.vatsim.net/topic/30080-blue-error-messages-while-launching-euroscope/?do=findComment&comment=172603)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
