@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172644)
+- [Aircraft labels VATSpy/SimAware](https://forums.vatsim.net/topic/30095-aircraft-labels-vatspysimaware/?do=findComment&comment=172643)
 - [I didn’t go to my exams page.](https://forums.vatsim.net/topic/30116-i-didn%E2%80%99t-go-to-my-exams-page/?do=findComment&comment=172642)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172641)
 - [Data Download Error](https://forums.vatsim.net/topic/30109-data-download-error/?do=findComment&comment=172640)
@@ -61,8 +63,6 @@
 - [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172636)
 - [Newb needs help with tuning radio frequencies in vPilot](https://forums.vatsim.net/topic/30113-newb-needs-help-with-tuning-radio-frequencies-in-vpilot/?do=findComment&comment=172635)
 - [Data Download Error](https://forums.vatsim.net/topic/30109-data-download-error/?do=findComment&comment=172634)
-- [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172633)
-- [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172632)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
