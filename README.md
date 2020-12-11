@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [India vACC Launches its brand new Official Instagram Handle](https://forums.vatsim.net/topic/30111-india-vacc-launches-its-brand-new-official-instagram-handle/?do=findComment&comment=172624)
+- [[VACANCY] VATEUD ATC Training Department Deputy Director](https://forums.vatsim.net/topic/30110-vacancy-vateud-atc-training-department-deputy-director/?do=findComment&comment=172623)
+- [Data Download Error](https://forums.vatsim.net/topic/30109-data-download-error/?do=findComment&comment=172622)
 - [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172621)
 - [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172620)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172619)
@@ -60,9 +63,6 @@
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172617)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172616)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172615)
-- [Dec 18, 1300-1500z I VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30107-dec-18-1300-1500z-i-vvts-twr-s2-cpt/?do=findComment&comment=172614)
-- [Max # of .FF](https://forums.vatsim.net/topic/30106-max-of-ff/?do=findComment&comment=172612)
-- [Max # of .FF](https://forums.vatsim.net/topic/30106-max-of-ff/?do=findComment&comment=172611)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
