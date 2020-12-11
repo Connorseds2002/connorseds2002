@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172619)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172618)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172617)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172616)
@@ -62,7 +63,6 @@
 - [Max # of .FF](https://forums.vatsim.net/topic/30106-max-of-ff/?do=findComment&comment=172611)
 - [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=172610)
 - [Max # of .FF](https://forums.vatsim.net/topic/30106-max-of-ff/?do=findComment&comment=172609)
-- [Aircraft labels VATSpy/SimAware](https://forums.vatsim.net/topic/30095-aircraft-labels-vatspysimaware/?do=findComment&comment=172608)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
