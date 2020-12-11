@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I didn’t go to my exams page.](https://forums.vatsim.net/topic/30116-i-didn%E2%80%99t-go-to-my-exams-page/?do=findComment&comment=172642)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172641)
 - [Data Download Error](https://forums.vatsim.net/topic/30109-data-download-error/?do=findComment&comment=172640)
 - [I didn’t go to my exams page.](https://forums.vatsim.net/topic/30116-i-didn%E2%80%99t-go-to-my-exams-page/?do=findComment&comment=172639)
@@ -62,7 +63,6 @@
 - [Data Download Error](https://forums.vatsim.net/topic/30109-data-download-error/?do=findComment&comment=172634)
 - [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172633)
 - [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172632)
-- [India vACC Launches its brand new Social Media Handles.](https://forums.vatsim.net/topic/30114-india-vacc-launches-its-brand-new-social-media-handles/?do=findComment&comment=172631)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
