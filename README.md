@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [India vACC Launches its brand new Official Instagram Handle](https://forums.vatsim.net/topic/30111-india-vacc-launches-its-brand-new-official-instagram-handle/?do=findComment&comment=172628)
+- [Newb needs help with tuning radio frequencies in vPilot](https://forums.vatsim.net/topic/30113-newb-needs-help-with-tuning-radio-frequencies-in-vpilot/?do=findComment&comment=172627)
+- [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172626)
 - [[December 16, 18z-21z] Slovak Online Day](https://forums.vatsim.net/topic/30112-december-16-18z-21z-slovak-online-day/?do=findComment&comment=172625)
 - [India vACC Launches its brand new Official Instagram Handle](https://forums.vatsim.net/topic/30111-india-vacc-launches-its-brand-new-official-instagram-handle/?do=findComment&comment=172624)
 - [[VACANCY] VATEUD ATC Training Department Deputy Director](https://forums.vatsim.net/topic/30110-vacancy-vateud-atc-training-department-deputy-director/?do=findComment&comment=172623)
@@ -60,9 +63,6 @@
 - [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172621)
 - [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172620)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172619)
-- [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172618)
-- [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172617)
-- [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172616)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
