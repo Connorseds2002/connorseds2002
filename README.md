@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/)
+- [15JAN21 | Port Macquarie to Maitland via the "Worm"](https://forums.vatpac.org/calendar/event/1576-15jan21-port-macquarie-to-maitland-via-the-worm/)
 - [ATC Training - Christmas & New Year Period](https://forums.vatpac.org/topic/18481-atc-training-christmas-new-year-period/?do=findComment&comment=130421)
 - [10JAN21 | North Shore Return via Ardmore](https://forums.vatpac.org/calendar/event/1575-10jan21-north-shore-return-via-ardmore/)
 - [08JAN21 | North Shore Return via Auckland CBD](https://forums.vatpac.org/calendar/event/1574-08jan21-north-shore-return-via-auckland-cbd/)
@@ -47,8 +49,6 @@
 - [23DEC20 World Discovery Canada Great Lakes Tour](https://forums.vatpac.org/calendar/event/1568-23dec20-world-discovery-canada-great-lakes-tour/)
 - [09DEC20 World Discovery Canada Great Lakes](https://forums.vatpac.org/calendar/event/1565-09dec20-world-discovery-canada-great-lakes/)
 - [03JAN21 | Ernabella to Ayres Rock](https://forums.vatpac.org/calendar/event/1562-03jan21-ernabella-to-ayres-rock/)
-- [01JAN21 | Ayres Rock to Ernabella](https://forums.vatpac.org/calendar/event/1561-01jan21-ayres-rock-to-ernabella/)
-- [NOTAM 05DEC20: Positions Reserved for Cross The Ditch](https://forums.vatpac.org/topic/18472-notam-05dec20-positions-reserved-for-cross-the-ditch/?do=findComment&comment=130382)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
