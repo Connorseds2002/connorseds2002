@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Data Download Error](https://forums.vatsim.net/topic/30109-data-download-error/?do=findComment&comment=172657)
+- [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172656)
 - [VATSIM Indicators... Indicators (?)](https://forums.vatsim.net/topic/30120-vatsim-indicators-indicators/?do=findComment&comment=172655)
 - [vPilot 2.6.8 Released in Beta Updates Channel](https://forums.vatsim.net/topic/29677-vpilot-268-released-in-beta-updates-channel/?do=findComment&comment=172654)
 - [I  cant go to my exams page.](https://forums.vatsim.net/topic/30116-i-cant-go-to-my-exams-page/?do=findComment&comment=172653)
@@ -61,8 +63,6 @@
 - [[December 12 2020 12:00z - 14:00z] HKG_E_CTR C1 CPT](https://forums.vatsim.net/topic/30076-december-12-2020-1200z-1400z-hkg_e_ctr-c1-cpt/?do=findComment&comment=172650)
 - [#CoffeeWithVatsim](https://forums.vatsim.net/topic/30118-coffeewithvatsim/?do=findComment&comment=172649)
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=172648)
-- [[Official VA Partner] ColStar Alliance (Colombia)](https://forums.vatsim.net/topic/30117-official-va-partner-colstar-alliance-colombia/?do=findComment&comment=172647)
-- [Aircraft labels VATSpy/SimAware](https://forums.vatsim.net/topic/30095-aircraft-labels-vatspysimaware/?do=findComment&comment=172646)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
