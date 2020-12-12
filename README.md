@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CSL Incorrect Aircraft Paint Schemes for ICAO Codes](https://forums.vatsim.net/topic/30124-csl-incorrect-aircraft-paint-schemes-for-icao-codes/?do=findComment&comment=172669)
+- [CSL Incorrect Aircraft Paint Schemes for ICAO Codes](https://forums.vatsim.net/topic/30124-csl-incorrect-aircraft-paint-schemes-for-icao-codes/?do=findComment&comment=172668)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172667)
 - [Cannot hear Comm 2 in v-pilot flying C150 MSFS2020](https://forums.vatsim.net/topic/30125-cannot-hear-comm-2-in-v-pilot-flying-c150-msfs2020/?do=findComment&comment=172666)
 - [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172665)
@@ -61,8 +63,6 @@
 - [[ACCIND1] Director India vACC Vacancy](https://forums.vatsim.net/topic/30122-accind1-director-india-vacc-vacancy/?do=findComment&comment=172662)
 - [I  cant go to my exams page.](https://forums.vatsim.net/topic/30116-i-cant-go-to-my-exams-page/?do=findComment&comment=172661)
 - [I  cant go to my exams page.](https://forums.vatsim.net/topic/30116-i-cant-go-to-my-exams-page/?do=findComment&comment=172660)
-- [VATSIM Indicators... Indicators (?)](https://forums.vatsim.net/topic/30120-vatsim-indicators-indicators/?do=findComment&comment=172659)
-- [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172658)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
