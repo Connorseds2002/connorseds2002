@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[December 12 2020 12:00z - 14:00z] HKG_E_CTR C1 CPT](https://forums.vatsim.net/topic/30076-december-12-2020-1200z-1400z-hkg_e_ctr-c1-cpt/?do=findComment&comment=172650)
 - [#CoffeeWithVatsim](https://forums.vatsim.net/topic/30118-coffeewithvatsim/?do=findComment&comment=172649)
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=172648)
 - [[Official VA Partner] ColStar Alliance (Colombia)](https://forums.vatsim.net/topic/30117-official-va-partner-colstar-alliance-colombia/?do=findComment&comment=172647)
@@ -62,7 +63,6 @@
 - [Aircraft labels VATSpy/SimAware](https://forums.vatsim.net/topic/30095-aircraft-labels-vatspysimaware/?do=findComment&comment=172643)
 - [I didn’t go to my exams page.](https://forums.vatsim.net/topic/30116-i-didn%E2%80%99t-go-to-my-exams-page/?do=findComment&comment=172642)
 - [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172641)
-- [Data Download Error](https://forums.vatsim.net/topic/30109-data-download-error/?do=findComment&comment=172640)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
