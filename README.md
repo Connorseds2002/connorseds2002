@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Official VA Partner] ColStar Alliance (Colombia)](https://forums.vatsim.net/topic/30117-official-va-partner-colstar-alliance-colombia/?do=findComment&comment=172647)
 - [Aircraft labels VATSpy/SimAware](https://forums.vatsim.net/topic/30095-aircraft-labels-vatspysimaware/?do=findComment&comment=172646)
 - [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172645)
 - [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172644)
@@ -62,7 +63,6 @@
 - [Data Download Error](https://forums.vatsim.net/topic/30109-data-download-error/?do=findComment&comment=172640)
 - [I didn’t go to my exams page.](https://forums.vatsim.net/topic/30116-i-didn%E2%80%99t-go-to-my-exams-page/?do=findComment&comment=172639)
 - [Data Download Error](https://forums.vatsim.net/topic/30109-data-download-error/?do=findComment&comment=172637)
-- [Appointment of ACCIND5 - Director Events & Marketing India vACC](https://forums.vatsim.net/topic/30097-appointment-of-accind5-director-events-marketing-india-vacc/?do=findComment&comment=172636)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
