@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/calendar/event/1579-10jan21-transcon-shuttle-sydney/)
+- [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130437)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/)
 - [15JAN21 | Port Macquarie to Maitland via the "Worm"](https://forums.vatpac.org/calendar/event/1576-15jan21-port-macquarie-to-maitland-via-the-worm/)
 - [ATC Training - Christmas & New Year Period](https://forums.vatpac.org/topic/18481-atc-training-christmas-new-year-period/?do=findComment&comment=130421)
@@ -47,8 +49,6 @@
 - [ENR Controller - Luke Maynard](https://forums.vatpac.org/topic/18479-enr-controller-luke-maynard/?do=findComment&comment=130407)
 - [16DEC20 World Discovery Canada Great Lakes Tour](https://forums.vatpac.org/calendar/event/1569-16dec20-world-discovery-canada-great-lakes-tour/)
 - [23DEC20 World Discovery Canada Great Lakes Tour](https://forums.vatpac.org/calendar/event/1568-23dec20-world-discovery-canada-great-lakes-tour/)
-- [09DEC20 World Discovery Canada Great Lakes](https://forums.vatpac.org/calendar/event/1565-09dec20-world-discovery-canada-great-lakes/)
-- [03JAN21 | Ernabella to Ayres Rock](https://forums.vatpac.org/calendar/event/1562-03jan21-ernabella-to-ayres-rock/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
