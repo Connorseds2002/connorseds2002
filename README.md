@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[12 Dec, 17-23z] Fly and See Santa 2020](https://forums.vatsim.net/topic/29942-12-dec-17-23z-fly-and-see-santa-2020/?do=findComment&comment=172652)
+- [India vACC New Website Launched!!](https://forums.vatsim.net/topic/30119-india-vacc-new-website-launched/?do=findComment&comment=172651)
 - [[December 12 2020 12:00z - 14:00z] HKG_E_CTR C1 CPT](https://forums.vatsim.net/topic/30076-december-12-2020-1200z-1400z-hkg_e_ctr-c1-cpt/?do=findComment&comment=172650)
 - [#CoffeeWithVatsim](https://forums.vatsim.net/topic/30118-coffeewithvatsim/?do=findComment&comment=172649)
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=172648)
@@ -61,8 +63,6 @@
 - [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172645)
 - [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=172644)
 - [Aircraft labels VATSpy/SimAware](https://forums.vatsim.net/topic/30095-aircraft-labels-vatspysimaware/?do=findComment&comment=172643)
-- [I didn’t go to my exams page.](https://forums.vatsim.net/topic/30116-i-didn%E2%80%99t-go-to-my-exams-page/?do=findComment&comment=172642)
-- [Failed to create aircraft... then disconnected](https://forums.vatsim.net/topic/30108-failed-to-create-aircraft-then-disconnected/?do=findComment&comment=172641)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
