@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172674)
+- [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172673)
 - [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172672)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172671)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172670)
@@ -61,8 +63,6 @@
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172667)
 - [Cannot hear Comm 2 in v-pilot flying C150 MSFS2020](https://forums.vatsim.net/topic/30125-cannot-hear-comm-2-in-v-pilot-flying-c150-msfs2020/?do=findComment&comment=172666)
 - [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172665)
-- [CSL Incorrect Aircraft Paint Schemes for ICAO Codes](https://forums.vatsim.net/topic/30124-csl-incorrect-aircraft-paint-schemes-for-icao-codes/?do=findComment&comment=172664)
-- [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172663)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
