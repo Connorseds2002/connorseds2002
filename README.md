@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [A Thank You From the Division!](https://forums.vatsim.net/topic/30134-a-thank-you-from-the-division/?do=findComment&comment=172688)
 - [Lebanon vACC Deputy Director Announcement!](https://forums.vatsim.net/topic/29807-lebanon-vacc-deputy-director-announcement/?do=findComment&comment=172687)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=172686)
 - [vatspy crashing when clicking on map tab](https://forums.vatsim.net/topic/30133-vatspy-crashing-when-clicking-on-map-tab/?do=findComment&comment=172685)
@@ -62,7 +63,6 @@
 - [#YourStoryOurVoice](https://forums.vatsim.net/topic/30129-yourstoryourvoice/?do=findComment&comment=172681)
 - [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172680)
 - [[FSX] PMDG 777](https://forums.vatsim.net/topic/30128-fsx-pmdg-777/?do=findComment&comment=172679)
-- [Plugin List](https://forums.vatsim.net/topic/25606-plugin-list/?do=findComment&comment=172677)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
