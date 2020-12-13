@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM MEME at its BEST.](https://forums.vatsim.net/topic/30135-vatsim-meme-at-its-best/?do=findComment&comment=172693)
 - [AFV downloader says "More recent version of AFV" when trying to download](https://forums.vatsim.net/topic/30127-afv-downloader-says-more-recent-version-of-afv-when-trying-to-download/?do=findComment&comment=172692)
 - [[VATWA3] VATWA Training Director vacancy announcement](https://forums.vatsim.net/topic/22032-vatwa3-vatwa-training-director-vacancy-announcement/?do=findComment&comment=172691)
 - [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172690)
@@ -62,7 +63,6 @@
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=172686)
 - [vatspy crashing when clicking on map tab](https://forums.vatsim.net/topic/30133-vatspy-crashing-when-clicking-on-map-tab/?do=findComment&comment=172685)
 - [Need help unlinking my discord account](https://forums.vatsim.net/topic/30132-need-help-unlinking-my-discord-account/?do=findComment&comment=172684)
-- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172683)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
