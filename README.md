@@ -66,6 +66,9 @@
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
+<!-- IVAO.AERO:START -->
+<!-- IVAO.AERO:END -->
+➡️ [more blog posts](https://forum.ivao.areo/)
 ---
 
 <details>
