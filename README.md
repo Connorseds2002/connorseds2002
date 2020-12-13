@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[FSX] PMDG 777](https://forums.vatsim.net/topic/30128-fsx-pmdg-777/?do=findComment&comment=172679)
+- [[ACCIND1] Director India vACC Vacancy](https://forums.vatsim.net/topic/30122-accind1-director-india-vacc-vacancy/?do=findComment&comment=172678)
+- [Plugin List](https://forums.vatsim.net/topic/25606-plugin-list/?do=findComment&comment=172677)
 - [Vpilot Delay in opening](https://forums.vatsim.net/topic/23927-vpilot-delay-in-opening/?do=findComment&comment=172676)
 - [AFV downloader says "More recent version of AFV" when trying to download](https://forums.vatsim.net/topic/30127-afv-downloader-says-more-recent-version-of-afv-when-trying-to-download/?do=findComment&comment=172675)
 - [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172674)
@@ -60,9 +63,6 @@
 - [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172672)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172671)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172670)
-- [CSL Incorrect Aircraft Paint Schemes for ICAO Codes](https://forums.vatsim.net/topic/30124-csl-incorrect-aircraft-paint-schemes-for-icao-codes/?do=findComment&comment=172669)
-- [CSL Incorrect Aircraft Paint Schemes for ICAO Codes](https://forums.vatsim.net/topic/30124-csl-incorrect-aircraft-paint-schemes-for-icao-codes/?do=findComment&comment=172668)
-- [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172667)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
