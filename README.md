@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [#YourStoryOurVoice](https://forums.vatsim.net/topic/30129-yourstoryourvoice/?do=findComment&comment=172681)
+- [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172680)
 - [[FSX] PMDG 777](https://forums.vatsim.net/topic/30128-fsx-pmdg-777/?do=findComment&comment=172679)
 - [[ACCIND1] Director India vACC Vacancy](https://forums.vatsim.net/topic/30122-accind1-director-india-vacc-vacancy/?do=findComment&comment=172678)
 - [Plugin List](https://forums.vatsim.net/topic/25606-plugin-list/?do=findComment&comment=172677)
@@ -61,8 +63,6 @@
 - [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172674)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172673)
 - [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172672)
-- [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172671)
-- [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172670)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
