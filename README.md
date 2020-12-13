@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172697)
 - [VATSIM UK Training Department 2020 Summary](https://forums.vatsim.net/topic/30136-vatsim-uk-training-department-2020-summary/?do=findComment&comment=172696)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=172695)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172694)
@@ -62,7 +63,6 @@
 - [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172690)
 - [vatspy crashing when clicking on map tab](https://forums.vatsim.net/topic/30133-vatspy-crashing-when-clicking-on-map-tab/?do=findComment&comment=172689)
 - [A Thank You From the Division!](https://forums.vatsim.net/topic/30134-a-thank-you-from-the-division/?do=findComment&comment=172688)
-- [Lebanon vACC Deputy Director Announcement!](https://forums.vatsim.net/topic/29807-lebanon-vacc-deputy-director-announcement/?do=findComment&comment=172687)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
