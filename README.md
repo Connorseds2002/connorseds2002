@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Lebanon vACC Deputy Director Announcement!](https://forums.vatsim.net/topic/29807-lebanon-vacc-deputy-director-announcement/?do=findComment&comment=172687)
+- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=172686)
 - [vatspy crashing when clicking on map tab](https://forums.vatsim.net/topic/30133-vatspy-crashing-when-clicking-on-map-tab/?do=findComment&comment=172685)
 - [Need help unlinking my discord account](https://forums.vatsim.net/topic/30132-need-help-unlinking-my-discord-account/?do=findComment&comment=172684)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172683)
@@ -61,8 +63,6 @@
 - [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172680)
 - [[FSX] PMDG 777](https://forums.vatsim.net/topic/30128-fsx-pmdg-777/?do=findComment&comment=172679)
 - [Plugin List](https://forums.vatsim.net/topic/25606-plugin-list/?do=findComment&comment=172677)
-- [Vpilot Delay in opening](https://forums.vatsim.net/topic/23927-vpilot-delay-in-opening/?do=findComment&comment=172676)
-- [AFV downloader says "More recent version of AFV" when trying to download](https://forums.vatsim.net/topic/30127-afv-downloader-says-more-recent-version-of-afv-when-trying-to-download/?do=findComment&comment=172675)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
