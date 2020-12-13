@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/topic/18490-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=130442)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/calendar/event/1579-10jan21-transcon-shuttle-sydney/)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130437)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/)
@@ -48,7 +49,6 @@
 - [08JAN21 | North Shore Return via Auckland CBD](https://forums.vatpac.org/calendar/event/1574-08jan21-north-shore-return-via-auckland-cbd/)
 - [ENR Controller - Luke Maynard](https://forums.vatpac.org/topic/18479-enr-controller-luke-maynard/?do=findComment&comment=130407)
 - [16DEC20 World Discovery Canada Great Lakes Tour](https://forums.vatpac.org/calendar/event/1569-16dec20-world-discovery-canada-great-lakes-tour/)
-- [23DEC20 World Discovery Canada Great Lakes Tour](https://forums.vatpac.org/calendar/event/1568-23dec20-world-discovery-canada-great-lakes-tour/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
