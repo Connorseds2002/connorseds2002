@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vatspy crashing when clicking on map tab](https://forums.vatsim.net/topic/30133-vatspy-crashing-when-clicking-on-map-tab/?do=findComment&comment=172685)
 - [Need help unlinking my discord account](https://forums.vatsim.net/topic/30132-need-help-unlinking-my-discord-account/?do=findComment&comment=172684)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172683)
 - [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172682)
@@ -62,7 +63,6 @@
 - [Plugin List](https://forums.vatsim.net/topic/25606-plugin-list/?do=findComment&comment=172677)
 - [Vpilot Delay in opening](https://forums.vatsim.net/topic/23927-vpilot-delay-in-opening/?do=findComment&comment=172676)
 - [AFV downloader says "More recent version of AFV" when trying to download](https://forums.vatsim.net/topic/30127-afv-downloader-says-more-recent-version-of-afv-when-trying-to-download/?do=findComment&comment=172675)
-- [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172674)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
