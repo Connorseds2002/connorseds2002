@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [VATSIM MEME at its BEST.](https://forums.vatsim.net/topic/30135-vatsim-meme-at-its-best/?do=findComment&comment=172693)
+- [VATSIM UK Training Department 2020 Summary](https://forums.vatsim.net/topic/30136-vatsim-uk-training-department-2020-summary/?do=findComment&comment=172696)
+- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=172695)
+- [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172694)
+- [Charts](https://forums.vatsim.net/topic/30135-charts/?do=findComment&comment=172693)
 - [AFV downloader says "More recent version of AFV" when trying to download](https://forums.vatsim.net/topic/30127-afv-downloader-says-more-recent-version-of-afv-when-trying-to-download/?do=findComment&comment=172692)
 - [[VATWA3] VATWA Training Director vacancy announcement](https://forums.vatsim.net/topic/22032-vatwa3-vatwa-training-director-vacancy-announcement/?do=findComment&comment=172691)
 - [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172690)
 - [vatspy crashing when clicking on map tab](https://forums.vatsim.net/topic/30133-vatspy-crashing-when-clicking-on-map-tab/?do=findComment&comment=172689)
 - [A Thank You From the Division!](https://forums.vatsim.net/topic/30134-a-thank-you-from-the-division/?do=findComment&comment=172688)
 - [Lebanon vACC Deputy Director Announcement!](https://forums.vatsim.net/topic/29807-lebanon-vacc-deputy-director-announcement/?do=findComment&comment=172687)
-- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=172686)
-- [vatspy crashing when clicking on map tab](https://forums.vatsim.net/topic/30133-vatspy-crashing-when-clicking-on-map-tab/?do=findComment&comment=172685)
-- [Need help unlinking my discord account](https://forums.vatsim.net/topic/30132-need-help-unlinking-my-discord-account/?do=findComment&comment=172684)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
