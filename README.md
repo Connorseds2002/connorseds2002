@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172699)
+- [Charts](https://forums.vatsim.net/topic/30135-charts/?do=findComment&comment=172698)
 - [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172697)
 - [VATSIM UK Training Department 2020 Summary](https://forums.vatsim.net/topic/30136-vatsim-uk-training-department-2020-summary/?do=findComment&comment=172696)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=172695)
@@ -61,8 +63,6 @@
 - [AFV downloader says "More recent version of AFV" when trying to download](https://forums.vatsim.net/topic/30127-afv-downloader-says-more-recent-version-of-afv-when-trying-to-download/?do=findComment&comment=172692)
 - [[VATWA3] VATWA Training Director vacancy announcement](https://forums.vatsim.net/topic/22032-vatwa3-vatwa-training-director-vacancy-announcement/?do=findComment&comment=172691)
 - [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172690)
-- [vatspy crashing when clicking on map tab](https://forums.vatsim.net/topic/30133-vatspy-crashing-when-clicking-on-map-tab/?do=findComment&comment=172689)
-- [A Thank You From the Division!](https://forums.vatsim.net/topic/30134-a-thank-you-from-the-division/?do=findComment&comment=172688)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
