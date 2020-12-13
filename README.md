@@ -53,10 +53,10 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172682)
 - [#YourStoryOurVoice](https://forums.vatsim.net/topic/30129-yourstoryourvoice/?do=findComment&comment=172681)
 - [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172680)
 - [[FSX] PMDG 777](https://forums.vatsim.net/topic/30128-fsx-pmdg-777/?do=findComment&comment=172679)
-- [[ACCIND1] Director India vACC Vacancy](https://forums.vatsim.net/topic/30122-accind1-director-india-vacc-vacancy/?do=findComment&comment=172678)
 - [Plugin List](https://forums.vatsim.net/topic/25606-plugin-list/?do=findComment&comment=172677)
 - [Vpilot Delay in opening](https://forums.vatsim.net/topic/23927-vpilot-delay-in-opening/?do=findComment&comment=172676)
 - [AFV downloader says "More recent version of AFV" when trying to download](https://forums.vatsim.net/topic/30127-afv-downloader-says-more-recent-version-of-afv-when-trying-to-download/?do=findComment&comment=172675)
