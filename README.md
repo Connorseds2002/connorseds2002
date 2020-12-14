@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[December 20th 17z-20z] Sofia-Istanbul Citylink](https://forums.vatsim.net/topic/30143-december-20th-17z-20z-sofia-istanbul-citylink/?do=findComment&comment=172727)
+- [[December 26, 2020] Fly and See Santa 2020 RCTP <-> ZSAM](https://forums.vatsim.net/topic/30142-december-26-2020-fly-and-see-santa-2020-rctp-zsam/?do=findComment&comment=172726)
+- [[FSX] PMDG 777](https://forums.vatsim.net/topic/30128-fsx-pmdg-777/?do=findComment&comment=172725)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172724)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172723)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172722)
@@ -60,9 +63,6 @@
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172720)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172719)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172718)
-- [New VATITA Logo](https://forums.vatsim.net/topic/29700-new-vatita-logo/?do=findComment&comment=172717)
-- [VATSIM UK Training Department 2020 Summary](https://forums.vatsim.net/topic/30136-vatsim-uk-training-department-2020-summary/?do=findComment&comment=172716)
-- [Philippines, arrival on airports without procedures](https://forums.vatsim.net/topic/30140-philippines-arrival-on-airports-without-procedures/?do=findComment&comment=172715)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
