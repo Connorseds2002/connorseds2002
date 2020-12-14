@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I'm receiving this error once i want to file a flight plan](https://forums.vatsim.net/topic/30139-im-receiving-this-error-once-i-want-to-file-a-flight-plan/?do=findComment&comment=172709)
+- [Charts](https://forums.vatsim.net/topic/30135-charts/?do=findComment&comment=172708)
 - [2.6.10 from Dec 6 installed but not working](https://forums.vatsim.net/topic/30138-2610-from-dec-6-installed-but-not-working/?do=findComment&comment=172707)
 - [2.6.10 from Dec 6 installed but not working](https://forums.vatsim.net/topic/30138-2610-from-dec-6-installed-but-not-working/?do=findComment&comment=172706)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172705)
@@ -61,8 +63,6 @@
 - [AFV Controller Client Unusable](https://forums.vatsim.net/topic/30137-afv-controller-client-unusable/?do=findComment&comment=172702)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172701)
 - [Charts](https://forums.vatsim.net/topic/30135-charts/?do=findComment&comment=172700)
-- [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172699)
-- [Charts](https://forums.vatsim.net/topic/30135-charts/?do=findComment&comment=172698)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
