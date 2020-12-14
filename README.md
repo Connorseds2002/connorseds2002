@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [[December 20th 17z-20z] Sofia-Istanbul Citylink](https://forums.vatsim.net/topic/30143-december-20th-17z-20z-sofia-istanbul-citylink/?do=findComment&comment=172727)
+- [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172731)
+- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172730)
+- [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=172729)
+- [[December 18, 18z-21z] Bucharest Friday Online](https://forums.vatsim.net/topic/30144-december-18-18z-21z-bucharest-friday-online/?do=findComment&comment=172728)
+- [[December 20th 18z-20z] Sofia-Istanbul Citylink](https://forums.vatsim.net/topic/30143-december-20th-18z-20z-sofia-istanbul-citylink/?do=findComment&comment=172727)
 - [[December 26, 2020] Fly and See Santa 2020 RCTP <-> ZSAM](https://forums.vatsim.net/topic/30142-december-26-2020-fly-and-see-santa-2020-rctp-zsam/?do=findComment&comment=172726)
 - [[FSX] PMDG 777](https://forums.vatsim.net/topic/30128-fsx-pmdg-777/?do=findComment&comment=172725)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172724)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172723)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172722)
-- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172721)
-- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172720)
-- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172719)
-- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172718)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
