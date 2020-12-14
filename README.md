@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [2.6.10 from Dec 6 installed but not working](https://forums.vatsim.net/topic/30138-2610-from-dec-6-installed-but-not-working/?do=findComment&comment=172733)
+- [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172732)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172731)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172730)
 - [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=172729)
@@ -61,8 +63,6 @@
 - [[December 26, 2020] Fly and See Santa 2020 RCTP <-> ZSAM](https://forums.vatsim.net/topic/30142-december-26-2020-fly-and-see-santa-2020-rctp-zsam/?do=findComment&comment=172726)
 - [[FSX] PMDG 777](https://forums.vatsim.net/topic/30128-fsx-pmdg-777/?do=findComment&comment=172725)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172724)
-- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172723)
-- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172722)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
