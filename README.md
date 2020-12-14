@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172724)
+- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172723)
+- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172722)
+- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172721)
+- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172720)
+- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172719)
+- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172718)
 - [New VATITA Logo](https://forums.vatsim.net/topic/29700-new-vatita-logo/?do=findComment&comment=172717)
 - [VATSIM UK Training Department 2020 Summary](https://forums.vatsim.net/topic/30136-vatsim-uk-training-department-2020-summary/?do=findComment&comment=172716)
 - [Philippines, arrival on airports without procedures](https://forums.vatsim.net/topic/30140-philippines-arrival-on-airports-without-procedures/?do=findComment&comment=172715)
-- [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172714)
-- [Philippines, arrival on airports without procedures](https://forums.vatsim.net/topic/30140-philippines-arrival-on-airports-without-procedures/?do=findComment&comment=172713)
-- [Philippines, arrival on airports without procedures](https://forums.vatsim.net/topic/30140-philippines-arrival-on-airports-without-procedures/?do=findComment&comment=172712)
-- [I'm receiving this error once i want to file a flight plan](https://forums.vatsim.net/topic/30139-im-receiving-this-error-once-i-want-to-file-a-flight-plan/?do=findComment&comment=172711)
-- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=172710)
-- [I'm receiving this error once i want to file a flight plan](https://forums.vatsim.net/topic/30139-im-receiving-this-error-once-i-want-to-file-a-flight-plan/?do=findComment&comment=172709)
-- [Charts](https://forums.vatsim.net/topic/30135-charts/?do=findComment&comment=172708)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
