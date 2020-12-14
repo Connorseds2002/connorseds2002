@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172714)
+- [Philippines, arrival on airports without procedures](https://forums.vatsim.net/topic/30140-philippines-arrival-on-airports-without-procedures/?do=findComment&comment=172713)
 - [Philippines, arrival on airports without procedures](https://forums.vatsim.net/topic/30140-philippines-arrival-on-airports-without-procedures/?do=findComment&comment=172712)
 - [I'm receiving this error once i want to file a flight plan](https://forums.vatsim.net/topic/30139-im-receiving-this-error-once-i-want-to-file-a-flight-plan/?do=findComment&comment=172711)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=172710)
@@ -61,8 +63,6 @@
 - [2.6.10 from Dec 6 installed but not working](https://forums.vatsim.net/topic/30138-2610-from-dec-6-installed-but-not-working/?do=findComment&comment=172707)
 - [2.6.10 from Dec 6 installed but not working](https://forums.vatsim.net/topic/30138-2610-from-dec-6-installed-but-not-working/?do=findComment&comment=172706)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172705)
-- [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172704)
-- [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=172703)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
