@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AFV Controller Client Unusable](https://forums.vatsim.net/topic/30137-afv-controller-client-unusable/?do=findComment&comment=172702)
+- [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172701)
+- [Charts](https://forums.vatsim.net/topic/30135-charts/?do=findComment&comment=172700)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172699)
 - [Charts](https://forums.vatsim.net/topic/30135-charts/?do=findComment&comment=172698)
 - [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172697)
@@ -60,9 +63,6 @@
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=172695)
 - [vPilot memory and CPU usage higher, causing performance issues in P3Dv5](https://forums.vatsim.net/topic/30123-vpilot-memory-and-cpu-usage-higher-causing-performance-issues-in-p3dv5/?do=findComment&comment=172694)
 - [Charts](https://forums.vatsim.net/topic/30135-charts/?do=findComment&comment=172693)
-- [AFV downloader says "More recent version of AFV" when trying to download](https://forums.vatsim.net/topic/30127-afv-downloader-says-more-recent-version-of-afv-when-trying-to-download/?do=findComment&comment=172692)
-- [[VATWA3] VATWA Training Director vacancy announcement](https://forums.vatsim.net/topic/22032-vatwa3-vatwa-training-director-vacancy-announcement/?do=findComment&comment=172691)
-- [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172690)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
