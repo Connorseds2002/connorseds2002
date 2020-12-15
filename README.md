@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TMA Controller - Jesse Isaac](https://forums.vatpac.org/topic/18495-tma-controller-jesse-isaac/?do=findComment&comment=130460)
 - [TWR Controller - Will Menzies](https://forums.vatpac.org/topic/18491-twr-controller-will-menzies/?do=findComment&comment=130454)
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/topic/18490-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=130442)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/calendar/event/1579-10jan21-transcon-shuttle-sydney/)
@@ -48,7 +49,6 @@
 - [ATC Training - Christmas & New Year Period](https://forums.vatpac.org/topic/18481-atc-training-christmas-new-year-period/?do=findComment&comment=130421)
 - [10JAN21 | North Shore Return via Ardmore](https://forums.vatpac.org/calendar/event/1575-10jan21-north-shore-return-via-ardmore/)
 - [08JAN21 | North Shore Return via Auckland CBD](https://forums.vatpac.org/calendar/event/1574-08jan21-north-shore-return-via-auckland-cbd/)
-- [ENR Controller - Luke Maynard](https://forums.vatpac.org/topic/18479-enr-controller-luke-maynard/?do=findComment&comment=130407)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
