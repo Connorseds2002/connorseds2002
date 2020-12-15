@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Feature Request] NAT & PACOTS Tracks download.](https://forums.vatsim.net/topic/30147-feature-request-nat-pacots-tracks-download/?do=findComment&comment=172779)
 - [[Official VA Partner] ColStar Alliance (Colombia)](https://forums.vatsim.net/topic/30117-official-va-partner-colstar-alliance-colombia/?do=findComment&comment=172778)
 - [Last Name Change](https://forums.vatsim.net/topic/30160-last-name-change/?do=findComment&comment=172777)
 - [[01 ENE21 2200Z - 02 ENE21 0030Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30156-01-ene21-2200z-02-ene21-0030z-santiago-afternoons-scel/?do=findComment&comment=172776)
@@ -62,7 +63,6 @@
 - [[December 26, 2020] Fly and See Santa 2020 RCTP <-> ZSAM](https://forums.vatsim.net/topic/30142-december-26-2020-fly-and-see-santa-2020-rctp-zsam/?do=findComment&comment=172772)
 - [Delete records from vatsim.net/events](https://forums.vatsim.net/topic/30103-delete-records-from-vatsimnetevents/?do=findComment&comment=172771)
 - [[VACANCY] VATSIM Kuwait Training Director](https://forums.vatsim.net/topic/30159-vacancy-vatsim-kuwait-training-director/?do=findComment&comment=172770)
-- [[VACANCY] VATSIM Kuwait Training Director](https://forums.vatsim.net/topic/30158-vacancy-vatsim-kuwait-training-director/?do=findComment&comment=172769)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
