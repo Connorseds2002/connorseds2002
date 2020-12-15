@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172748)
 - [Cyprus' Aphrodite Night | Friday 18/12/2020 , 1800z - 2100z](https://forums.vatsim.net/topic/30104-cyprus-aphrodite-night-friday-18122020-1800z-2100z/?do=findComment&comment=172747)
 - [[December 16, 18z-21z] Slovak Online Day](https://forums.vatsim.net/topic/30112-december-16-18z-21z-slovak-online-day/?do=findComment&comment=172746)
 - [[December 20th 18z-20z] Sofia-Istanbul Citylink](https://forums.vatsim.net/topic/30143-december-20th-18z-20z-sofia-istanbul-citylink/?do=findComment&comment=172745)
@@ -62,7 +63,6 @@
 - [vATIS Not Transmitting Audio on Frequency](https://forums.vatsim.net/topic/26418-vatis-not-transmitting-audio-on-frequency/?do=findComment&comment=172741)
 - [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172740)
 - [[Feature Request] NAT & PACOTS Tracks download.](https://forums.vatsim.net/topic/30147-feature-request-nat-pacots-tracks-download/?do=findComment&comment=172739)
-- [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172738)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
