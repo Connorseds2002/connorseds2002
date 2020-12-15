@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172753)
+- [New Staff Positions Filled in VATCAR: Curacao DATM and Facility Engineer](https://forums.vatsim.net/topic/30146-new-staff-positions-filled-in-vatcar-curacao-datm-and-facility-engineer/?do=findComment&comment=172752)
+- [Unable to hear or receive, tried everything](https://forums.vatsim.net/topic/30149-unable-to-hear-or-receive-tried-everything/?do=findComment&comment=172751)
 - [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172750)
 - [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=172749)
 - [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172748)
@@ -60,9 +63,6 @@
 - [[December 16, 18z-21z] Slovak Online Day](https://forums.vatsim.net/topic/30112-december-16-18z-21z-slovak-online-day/?do=findComment&comment=172746)
 - [[December 20th 18z-20z] Sofia-Istanbul Citylink](https://forums.vatsim.net/topic/30143-december-20th-18z-20z-sofia-istanbul-citylink/?do=findComment&comment=172745)
 - [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=172744)
-- [[December 18, 18z-21z] Bucharest Friday Online](https://forums.vatsim.net/topic/30144-december-18-18z-21z-bucharest-friday-online/?do=findComment&comment=172743)
-- [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172742)
-- [vATIS Not Transmitting Audio on Frequency](https://forums.vatsim.net/topic/26418-vatis-not-transmitting-audio-on-frequency/?do=findComment&comment=172741)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
