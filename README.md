@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[01 ENE21 2200Z - 02 ENE21 0030Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30156-01-ene21-2200z-02-ene21-0030z-santiago-afternoons-scel/?do=findComment&comment=172765)
+- [[25 DIC20 2200Z - 26 DIC20 0030Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30155-25-dic20-2200z-26-dic20-0030z-santiago-afternoons-scel/?do=findComment&comment=172764)
+- [[18 DIC20 2200Z - 19 DIC20 0030Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30154-18-dic20-2200z-19-dic20-0030z-santiago-afternoons-scel/?do=findComment&comment=172763)
+- [North Atlantic seeks ....](https://forums.vatsim.net/topic/30153-north-atlantic-seeks/?do=findComment&comment=172762)
+- [North Atlantic VA say welcome](https://forums.vatsim.net/topic/30152-north-atlantic-va-say-welcome/?do=findComment&comment=172761)
 - [GROUP FLIGHT ALERT : 17th December 2020 : 1330Z to 1530Z](https://forums.vatsim.net/topic/30151-group-flight-alert-17th-december-2020-1330z-to-1530z/?do=findComment&comment=172760)
 - [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172759)
 - [After last w10 update I can speak, but I am not visible + fplan not received](https://forums.vatsim.net/topic/30150-after-last-w10-update-i-can-speak-but-i-am-not-visible-fplan-not-received/?do=findComment&comment=172758)
 - [Unable to receive audio](https://forums.vatsim.net/topic/29330-unable-to-receive-audio/?do=findComment&comment=172757)
 - [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172756)
-- [After last w10 update I can speak, but I am not visible + fplan not received](https://forums.vatsim.net/topic/30150-after-last-w10-update-i-can-speak-but-i-am-not-visible-fplan-not-received/?do=findComment&comment=172755)
-- [After last w10 update I can speak, but I am not visible + fplan not received](https://forums.vatsim.net/topic/30150-after-last-w10-update-i-can-speak-but-i-am-not-visible-fplan-not-received/?do=findComment&comment=172754)
-- [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172753)
-- [New Staff Positions Filled in VATCAR: Curacao DATM and Facility Engineer](https://forums.vatsim.net/topic/30146-new-staff-positions-filled-in-vatcar-curacao-datm-and-facility-engineer/?do=findComment&comment=172752)
-- [Unable to hear or receive, tried everything](https://forums.vatsim.net/topic/30149-unable-to-hear-or-receive-tried-everything/?do=findComment&comment=172751)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
