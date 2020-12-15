@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cyprus' Aphrodite Night | Friday 18/12/2020 , 1800z - 2100z](https://forums.vatsim.net/topic/30104-cyprus-aphrodite-night-friday-18122020-1800z-2100z/?do=findComment&comment=172747)
+- [[December 16, 18z-21z] Slovak Online Day](https://forums.vatsim.net/topic/30112-december-16-18z-21z-slovak-online-day/?do=findComment&comment=172746)
+- [[December 20th 18z-20z] Sofia-Istanbul Citylink](https://forums.vatsim.net/topic/30143-december-20th-18z-20z-sofia-istanbul-citylink/?do=findComment&comment=172745)
+- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=172744)
+- [[December 18, 18z-21z] Bucharest Friday Online](https://forums.vatsim.net/topic/30144-december-18-18z-21z-bucharest-friday-online/?do=findComment&comment=172743)
 - [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172742)
 - [vATIS Not Transmitting Audio on Frequency](https://forums.vatsim.net/topic/26418-vatis-not-transmitting-audio-on-frequency/?do=findComment&comment=172741)
 - [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172740)
 - [[Feature Request] NAT & PACOTS Tracks download.](https://forums.vatsim.net/topic/30147-feature-request-nat-pacots-tracks-download/?do=findComment&comment=172739)
 - [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172738)
-- [New Staff Positions Filled in VATCAR: Curacao DATM and Facility Engineer](https://forums.vatsim.net/topic/30146-new-staff-positions-filled-in-vatcar-curacao-datm-and-facility-engineer/?do=findComment&comment=172737)
-- [2.6.10 from Dec 6 installed but not working](https://forums.vatsim.net/topic/30138-2610-from-dec-6-installed-but-not-working/?do=findComment&comment=172736)
-- [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172735)
-- [2.6.10 from Dec 6 installed but not working](https://forums.vatsim.net/topic/30138-2610-from-dec-6-installed-but-not-working/?do=findComment&comment=172734)
-- [2.6.10 from Dec 6 installed but not working](https://forums.vatsim.net/topic/30138-2610-from-dec-6-installed-but-not-working/?do=findComment&comment=172733)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
