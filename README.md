@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172750)
 - [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=172749)
 - [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172748)
 - [Cyprus' Aphrodite Night | Friday 18/12/2020 , 1800z - 2100z](https://forums.vatsim.net/topic/30104-cyprus-aphrodite-night-friday-18122020-1800z-2100z/?do=findComment&comment=172747)
@@ -62,7 +63,6 @@
 - [[December 18, 18z-21z] Bucharest Friday Online](https://forums.vatsim.net/topic/30144-december-18-18z-21z-bucharest-friday-online/?do=findComment&comment=172743)
 - [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172742)
 - [vATIS Not Transmitting Audio on Frequency](https://forums.vatsim.net/topic/26418-vatis-not-transmitting-audio-on-frequency/?do=findComment&comment=172741)
-- [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172740)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
