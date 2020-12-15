@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Feature Request] NAT & PACOTS Tracks download.](https://forums.vatsim.net/topic/30147-feature-request-nat-pacots-tracks-download/?do=findComment&comment=172739)
+- [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172738)
 - [New Staff Positions Filled in VATCAR: Curacao DATM and Facility Engineer](https://forums.vatsim.net/topic/30146-new-staff-positions-filled-in-vatcar-curacao-datm-and-facility-engineer/?do=findComment&comment=172737)
 - [2.6.10 from Dec 6 installed but not working](https://forums.vatsim.net/topic/30138-2610-from-dec-6-installed-but-not-working/?do=findComment&comment=172736)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172735)
@@ -61,8 +63,6 @@
 - [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172732)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172731)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172730)
-- [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=172729)
-- [[December 18, 18z-21z] Bucharest Friday Online](https://forums.vatsim.net/topic/30144-december-18-18z-21z-bucharest-friday-online/?do=findComment&comment=172728)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
