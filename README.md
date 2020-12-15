@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid Protocol Revision Error](https://forums.vatsim.net/topic/30126-invalid-protocol-revision-error/?do=findComment&comment=172740)
 - [[Feature Request] NAT & PACOTS Tracks download.](https://forums.vatsim.net/topic/30147-feature-request-nat-pacots-tracks-download/?do=findComment&comment=172739)
 - [Latest release won't open.](https://forums.vatsim.net/topic/30130-latest-release-wont-open/?do=findComment&comment=172738)
 - [New Staff Positions Filled in VATCAR: Curacao DATM and Facility Engineer](https://forums.vatsim.net/topic/30146-new-staff-positions-filled-in-vatcar-curacao-datm-and-facility-engineer/?do=findComment&comment=172737)
@@ -62,7 +63,6 @@
 - [2.6.10 from Dec 6 installed but not working](https://forums.vatsim.net/topic/30138-2610-from-dec-6-installed-but-not-working/?do=findComment&comment=172733)
 - [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172732)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172731)
-- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172730)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
