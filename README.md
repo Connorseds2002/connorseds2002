@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Police/medevac operations](https://forums.vatsim.net/topic/30169-policemedevac-operations/?do=findComment&comment=172811)
+- [Loss of ATIS while connected to x-pilot](https://forums.vatsim.net/topic/30170-loss-of-atis-while-connected-to-x-pilot/?do=findComment&comment=172810)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172809)
 - [Police/medevac operations](https://forums.vatsim.net/topic/30169-policemedevac-operations/?do=findComment&comment=172808)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172807)
@@ -61,8 +63,6 @@
 - [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172804)
 - [xPilot Vulkan Device Loss Errors](https://forums.vatsim.net/topic/30168-xpilot-vulkan-device-loss-errors/?do=findComment&comment=172803)
 - [xPilot Vulkan Device Loss Errors](https://forums.vatsim.net/topic/30168-xpilot-vulkan-device-loss-errors/?do=findComment&comment=172802)
-- [xPilot Vulkan Device Loss Errors](https://forums.vatsim.net/topic/30168-xpilot-vulkan-device-loss-errors/?do=findComment&comment=172801)
-- [Server Error](https://forums.vatsim.net/topic/26899-server-error/?do=findComment&comment=172800)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
