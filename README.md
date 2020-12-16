@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot Vulkan Device Loss Errors](https://forums.vatsim.net/topic/30168-xpilot-vulkan-device-loss-errors/?do=findComment&comment=172802)
+- [xPilot Vulkan Device Loss Errors](https://forums.vatsim.net/topic/30168-xpilot-vulkan-device-loss-errors/?do=findComment&comment=172801)
+- [Server Error](https://forums.vatsim.net/topic/26899-server-error/?do=findComment&comment=172800)
 - [(ACCNPL2) Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30166-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=172799)
 - [vpilot issues with vca and voicemeeter potato](https://forums.vatsim.net/topic/30167-vpilot-issues-with-vca-and-voicemeeter-potato/?do=findComment&comment=172798)
 - [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172797)
@@ -60,9 +63,6 @@
 - [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172795)
 - [Download Link not working](https://forums.vatsim.net/topic/30164-download-link-not-working/?do=findComment&comment=172794)
 - [Server Error](https://forums.vatsim.net/topic/26899-server-error/?do=findComment&comment=172793)
-- [Swift Authentification failed](https://forums.vatsim.net/topic/30163-swift-authentification-failed/?do=findComment&comment=172792)
-- [Swift Authentification failed](https://forums.vatsim.net/topic/30163-swift-authentification-failed/?do=findComment&comment=172791)
-- [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172790)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
