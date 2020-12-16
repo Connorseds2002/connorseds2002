@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Server Error](https://forums.vatsim.net/topic/26899-server-error/?do=findComment&comment=172793)
+- [Swift Authentification failed](https://forums.vatsim.net/topic/30163-swift-authentification-failed/?do=findComment&comment=172792)
 - [Swift Authentification failed](https://forums.vatsim.net/topic/30163-swift-authentification-failed/?do=findComment&comment=172791)
 - [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172790)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172789)
@@ -61,8 +63,6 @@
 - [[Dec 27 12:00Z-14:00Z] RPLL_TWR (Manila Tower) S2 CPT](https://forums.vatsim.net/topic/30162-dec-27-1200z-1400z-rpll_twr-manila-tower-s2-cpt/?do=findComment&comment=172786)
 - [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172785)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172784)
-- [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172783)
-- [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172782)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
