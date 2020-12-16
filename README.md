@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172790)
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172789)
 - [Last Name Change](https://forums.vatsim.net/topic/30160-last-name-change/?do=findComment&comment=172788)
 - [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172787)
 - [[Dec 27 12:00Z-14:00Z] RPLL_TWR (Manila Tower) S2 CPT](https://forums.vatsim.net/topic/30162-dec-27-1200z-1400z-rpll_twr-manila-tower-s2-cpt/?do=findComment&comment=172786)
@@ -61,8 +63,6 @@
 - [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172783)
 - [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172782)
 - [Unable to hear or receive, tried everything](https://forums.vatsim.net/topic/30149-unable-to-hear-or-receive-tried-everything/?do=findComment&comment=172781)
-- [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172780)
-- [[Feature Request] NAT & PACOTS Tracks download.](https://forums.vatsim.net/topic/30147-feature-request-nat-pacots-tracks-download/?do=findComment&comment=172779)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
