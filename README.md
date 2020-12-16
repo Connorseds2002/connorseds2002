@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172806)
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172805)
 - [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172804)
 - [xPilot Vulkan Device Loss Errors](https://forums.vatsim.net/topic/30168-xpilot-vulkan-device-loss-errors/?do=findComment&comment=172803)
 - [xPilot Vulkan Device Loss Errors](https://forums.vatsim.net/topic/30168-xpilot-vulkan-device-loss-errors/?do=findComment&comment=172802)
@@ -61,8 +63,6 @@
 - [(ACCNPL2) Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30166-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=172799)
 - [vpilot issues with vca and voicemeeter potato](https://forums.vatsim.net/topic/30167-vpilot-issues-with-vca-and-voicemeeter-potato/?do=findComment&comment=172798)
 - [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172797)
-- [(ACCNPL2) Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30166-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=172796)
-- [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172795)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
