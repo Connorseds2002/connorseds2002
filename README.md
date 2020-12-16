@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [(ACCNPL2) Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30166-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=172799)
+- [vpilot issues with vca and voicemeeter potato](https://forums.vatsim.net/topic/30167-vpilot-issues-with-vca-and-voicemeeter-potato/?do=findComment&comment=172798)
+- [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172797)
 - [(ACCNPL2) Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30166-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=172796)
 - [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172795)
 - [Download Link not working](https://forums.vatsim.net/topic/30164-download-link-not-working/?do=findComment&comment=172794)
@@ -60,9 +63,6 @@
 - [Swift Authentification failed](https://forums.vatsim.net/topic/30163-swift-authentification-failed/?do=findComment&comment=172792)
 - [Swift Authentification failed](https://forums.vatsim.net/topic/30163-swift-authentification-failed/?do=findComment&comment=172791)
 - [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172790)
-- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172789)
-- [Last Name Change](https://forums.vatsim.net/topic/30160-last-name-change/?do=findComment&comment=172788)
-- [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172787)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
