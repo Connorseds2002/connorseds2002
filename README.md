@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172784)
+- [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172783)
+- [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172782)
+- [Unable to hear or receive, tried everything](https://forums.vatsim.net/topic/30149-unable-to-hear-or-receive-tried-everything/?do=findComment&comment=172781)
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172780)
 - [[Feature Request] NAT & PACOTS Tracks download.](https://forums.vatsim.net/topic/30147-feature-request-nat-pacots-tracks-download/?do=findComment&comment=172779)
 - [[Official VA Partner] ColStar Alliance (Colombia)](https://forums.vatsim.net/topic/30117-official-va-partner-colstar-alliance-colombia/?do=findComment&comment=172778)
 - [Last Name Change](https://forums.vatsim.net/topic/30160-last-name-change/?do=findComment&comment=172777)
 - [[01 ENE21 2200Z - 02 ENE21 0030Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30156-01-ene21-2200z-02-ene21-0030z-santiago-afternoons-scel/?do=findComment&comment=172776)
 - [[25 DIC20 2200Z - 26 DIC20 0030Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30155-25-dic20-2200z-26-dic20-0030z-santiago-afternoons-scel/?do=findComment&comment=172775)
-- [[18 DIC20 2200Z - 19 DIC20 0030Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30154-18-dic20-2200z-19-dic20-0030z-santiago-afternoons-scel/?do=findComment&comment=172774)
-- [[December 26, 2020] Fly and See Santa 2020 RCTP <-> ZSAM](https://forums.vatsim.net/topic/30142-december-26-2020-fly-and-see-santa-2020-rctp-zsam/?do=findComment&comment=172773)
-- [[December 26, 2020] Fly and See Santa 2020 RCTP <-> ZSAM](https://forums.vatsim.net/topic/30142-december-26-2020-fly-and-see-santa-2020-rctp-zsam/?do=findComment&comment=172772)
-- [Delete records from vatsim.net/events](https://forums.vatsim.net/topic/30103-delete-records-from-vatsimnetevents/?do=findComment&comment=172771)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
