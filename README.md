@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172787)
+- [[Dec 27 12:00Z-14:00Z] RPLL_TWR (Manila Tower) S2 CPT](https://forums.vatsim.net/topic/30162-dec-27-1200z-1400z-rpll_twr-manila-tower-s2-cpt/?do=findComment&comment=172786)
+- [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172785)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172784)
 - [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172783)
 - [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172782)
@@ -60,9 +63,6 @@
 - [Server error 308](https://forums.vatsim.net/topic/30089-server-error-308/?do=findComment&comment=172780)
 - [[Feature Request] NAT & PACOTS Tracks download.](https://forums.vatsim.net/topic/30147-feature-request-nat-pacots-tracks-download/?do=findComment&comment=172779)
 - [[Official VA Partner] ColStar Alliance (Colombia)](https://forums.vatsim.net/topic/30117-official-va-partner-colstar-alliance-colombia/?do=findComment&comment=172778)
-- [Last Name Change](https://forums.vatsim.net/topic/30160-last-name-change/?do=findComment&comment=172777)
-- [[01 ENE21 2200Z - 02 ENE21 0030Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30156-01-ene21-2200z-02-ene21-0030z-santiago-afternoons-scel/?do=findComment&comment=172776)
-- [[25 DIC20 2200Z - 26 DIC20 0030Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30155-25-dic20-2200z-26-dic20-0030z-santiago-afternoons-scel/?do=findComment&comment=172775)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
