@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift Authentification failed](https://forums.vatsim.net/topic/30163-swift-authentification-failed/?do=findComment&comment=172791)
 - [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172790)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172789)
 - [Last Name Change](https://forums.vatsim.net/topic/30160-last-name-change/?do=findComment&comment=172788)
@@ -62,7 +63,6 @@
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172784)
 - [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172783)
 - [no sound on vpilot](https://forums.vatsim.net/topic/30027-no-sound-on-vpilot/?do=findComment&comment=172782)
-- [Unable to hear or receive, tried everything](https://forums.vatsim.net/topic/30149-unable-to-hear-or-receive-tried-everything/?do=findComment&comment=172781)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
