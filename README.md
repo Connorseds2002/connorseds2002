@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172804)
+- [xPilot Vulkan Device Loss Errors](https://forums.vatsim.net/topic/30168-xpilot-vulkan-device-loss-errors/?do=findComment&comment=172803)
 - [xPilot Vulkan Device Loss Errors](https://forums.vatsim.net/topic/30168-xpilot-vulkan-device-loss-errors/?do=findComment&comment=172802)
 - [xPilot Vulkan Device Loss Errors](https://forums.vatsim.net/topic/30168-xpilot-vulkan-device-loss-errors/?do=findComment&comment=172801)
 - [Server Error](https://forums.vatsim.net/topic/26899-server-error/?do=findComment&comment=172800)
@@ -61,8 +63,6 @@
 - [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172797)
 - [(ACCNPL2) Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30166-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=172796)
 - [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172795)
-- [Download Link not working](https://forums.vatsim.net/topic/30164-download-link-not-working/?do=findComment&comment=172794)
-- [Server Error](https://forums.vatsim.net/topic/26899-server-error/?do=findComment&comment=172793)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
