@@ -41,14 +41,14 @@
 <!-- BLOG-POST-LIST:START -->
 - [TMA Controller - Jesse Isaac](https://forums.vatpac.org/topic/18495-tma-controller-jesse-isaac/?do=findComment&comment=130460)
 - [TWR Controller - Will Menzies](https://forums.vatpac.org/topic/18491-twr-controller-will-menzies/?do=findComment&comment=130454)
+- [Appointment of IT Systems and Support Manager, Marketing Manager](https://forums.vatpac.org/topic/18483-appointment-of-it-systems-and-support-manager-marketing-manager/?do=findComment&comment=130443)
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/topic/18490-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=130442)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/calendar/event/1579-10jan21-transcon-shuttle-sydney/)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130437)
+- [Appointment of IT Systems and Support Manager, Marketing Manager](https://forums.vatpac.org/topic/18483-appointment-of-it-systems-and-support-manager-marketing-manager/?do=findComment&comment=130424)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/)
 - [15JAN21 | Port Macquarie to Maitland via the "Worm"](https://forums.vatpac.org/calendar/event/1576-15jan21-port-macquarie-to-maitland-via-the-worm/)
 - [ATC Training - Christmas & New Year Period](https://forums.vatpac.org/topic/18481-atc-training-christmas-new-year-period/?do=findComment&comment=130421)
-- [10JAN21 | North Shore Return via Ardmore](https://forums.vatpac.org/calendar/event/1575-10jan21-north-shore-return-via-ardmore/)
-- [08JAN21 | North Shore Return via Auckland CBD](https://forums.vatpac.org/calendar/event/1574-08jan21-north-shore-return-via-auckland-cbd/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
