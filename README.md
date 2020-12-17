@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Passed by a Queen at FL390 DLH987B](https://forums.vatsim.net/topic/30176-passed-by-a-queen-at-fl390-dlh987b/?do=findComment&comment=172835)
+- [Passed by a Queen at FL390 DLH987B](https://forums.vatsim.net/topic/30176-passed-by-a-queen-at-fl390-dlh987b/?do=findComment&comment=172834)
+- [Passed by a Queen at FL390 DLH987B](https://forums.vatsim.net/topic/30176-passed-by-a-queen-at-fl390-dlh987b/?do=findComment&comment=172833)
 - [Organization approval](https://forums.vatsim.net/topic/30171-organization-approval/?do=findComment&comment=172832)
 - [GROUP FLIGHT ALERT : 17th December 2020 : 1330Z to 1530Z](https://forums.vatsim.net/topic/30151-group-flight-alert-17th-december-2020-1330z-to-1530z/?do=findComment&comment=172831)
 - [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172830)
@@ -60,9 +63,6 @@
 - [ATC Schedule?](https://forums.vatsim.net/topic/30061-atc-schedule/?do=findComment&comment=172828)
 - [Police/medevac operations](https://forums.vatsim.net/topic/30169-policemedevac-operations/?do=findComment&comment=172827)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172826)
-- [(ACCNPL5) Event and Marketing Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30175-accnpl5-event-and-marketing-director-nepal-vacc-vacancy/?do=findComment&comment=172825)
-- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172824)
-- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172823)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
