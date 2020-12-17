@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dec 18, 1300-1500z I VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30107-dec-18-1300-1500z-i-vvts-twr-s2-cpt/?do=findComment&comment=172821)
 - [Unable to hear or receive, tried everything](https://forums.vatsim.net/topic/30149-unable-to-hear-or-receive-tried-everything/?do=findComment&comment=172820)
 - [Unable to transmit on Bose QC 35 II Gaming Headset](https://forums.vatsim.net/topic/30172-unable-to-transmit-on-bose-qc-35-ii-gaming-headset/?do=findComment&comment=172819)
 - [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172818)
@@ -62,7 +63,6 @@
 - [Unable to transmit on Bose QC 35 II Gaming Headset](https://forums.vatsim.net/topic/30172-unable-to-transmit-on-bose-qc-35-ii-gaming-headset/?do=findComment&comment=172814)
 - [Police/medevac operations](https://forums.vatsim.net/topic/30169-policemedevac-operations/?do=findComment&comment=172813)
 - [Organization approval](https://forums.vatsim.net/topic/30171-organization-approval/?do=findComment&comment=172812)
-- [Police/medevac operations](https://forums.vatsim.net/topic/30169-policemedevac-operations/?do=findComment&comment=172811)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
