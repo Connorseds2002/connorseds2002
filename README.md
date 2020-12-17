@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172844)
+- [Pilot Orientation](https://forums.vatsim.net/topic/30178-pilot-orientation/?do=findComment&comment=172843)
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172842)
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172841)
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172840)
@@ -61,8 +63,6 @@
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172837)
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172836)
 - [Passed by a Queen at FL390 DLH987B](https://forums.vatsim.net/topic/30176-passed-by-a-queen-at-fl390-dlh987b/?do=findComment&comment=172835)
-- [Passed by a Queen at FL390 DLH987B](https://forums.vatsim.net/topic/30176-passed-by-a-queen-at-fl390-dlh987b/?do=findComment&comment=172834)
-- [Passed by a Queen at FL390 DLH987B](https://forums.vatsim.net/topic/30176-passed-by-a-queen-at-fl390-dlh987b/?do=findComment&comment=172833)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
