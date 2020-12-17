@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172826)
 - [(ACCNPL5) Event and Marketing Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30175-accnpl5-event-and-marketing-director-nepal-vacc-vacancy/?do=findComment&comment=172825)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172824)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172823)
@@ -62,7 +63,6 @@
 - [Unable to transmit on Bose QC 35 II Gaming Headset](https://forums.vatsim.net/topic/30172-unable-to-transmit-on-bose-qc-35-ii-gaming-headset/?do=findComment&comment=172819)
 - [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172818)
 - [[23rd December 2020 1300z-1500z] S3 CPT Lumpur Approach (WMKK_APP)](https://forums.vatsim.net/topic/30173-23rd-december-2020-1300z-1500z-s3-cpt-lumpur-approach-wmkk_app/?do=findComment&comment=172817)
-- [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172816)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
