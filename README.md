@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172818)
+- [[23rd December 2020 1300z-1500z] S3 CPT Lumpur Approach (WMKK_APP)](https://forums.vatsim.net/topic/30173-23rd-december-2020-1300z-1500z-s3-cpt-lumpur-approach-wmkk_app/?do=findComment&comment=172817)
+- [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172816)
 - [Organization approval](https://forums.vatsim.net/topic/30171-organization-approval/?do=findComment&comment=172815)
 - [Unable to transmit on Bose QC 35 II Gaming Headset](https://forums.vatsim.net/topic/30172-unable-to-transmit-on-bose-qc-35-ii-gaming-headset/?do=findComment&comment=172814)
 - [Police/medevac operations](https://forums.vatsim.net/topic/30169-policemedevac-operations/?do=findComment&comment=172813)
@@ -60,9 +63,6 @@
 - [Police/medevac operations](https://forums.vatsim.net/topic/30169-policemedevac-operations/?do=findComment&comment=172811)
 - [Loss of ATIS while connected to x-pilot](https://forums.vatsim.net/topic/30170-loss-of-atis-while-connected-to-x-pilot/?do=findComment&comment=172810)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172809)
-- [Police/medevac operations](https://forums.vatsim.net/topic/30169-policemedevac-operations/?do=findComment&comment=172808)
-- [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172807)
-- [Flight plan filed before connecting, or after?!](https://forums.vatsim.net/topic/30165-flight-plan-filed-before-connecting-or-after/?do=findComment&comment=172806)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
