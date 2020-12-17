@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172824)
+- [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172823)
+- [[ATC Examination] CPT C1 Pazhani Ragunathan (VABF) - 18.12.2020 16z](https://forums.vatsim.net/topic/30174-atc-examination-cpt-c1-pazhani-ragunathan-vabf-18122020-16z/?do=findComment&comment=172822)
 - [Dec 18, 1300-1500z I VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30107-dec-18-1300-1500z-i-vvts-twr-s2-cpt/?do=findComment&comment=172821)
 - [Unable to hear or receive, tried everything](https://forums.vatsim.net/topic/30149-unable-to-hear-or-receive-tried-everything/?do=findComment&comment=172820)
 - [Unable to transmit on Bose QC 35 II Gaming Headset](https://forums.vatsim.net/topic/30172-unable-to-transmit-on-bose-qc-35-ii-gaming-headset/?do=findComment&comment=172819)
@@ -60,9 +63,6 @@
 - [[23rd December 2020 1300z-1500z] S3 CPT Lumpur Approach (WMKK_APP)](https://forums.vatsim.net/topic/30173-23rd-december-2020-1300z-1500z-s3-cpt-lumpur-approach-wmkk_app/?do=findComment&comment=172817)
 - [MSFS2020 flight plans and potential changes from VATSIM ATC](https://forums.vatsim.net/topic/30081-msfs2020-flight-plans-and-potential-changes-from-vatsim-atc/?do=findComment&comment=172816)
 - [Organization approval](https://forums.vatsim.net/topic/30171-organization-approval/?do=findComment&comment=172815)
-- [Unable to transmit on Bose QC 35 II Gaming Headset](https://forums.vatsim.net/topic/30172-unable-to-transmit-on-bose-qc-35-ii-gaming-headset/?do=findComment&comment=172814)
-- [Police/medevac operations](https://forums.vatsim.net/topic/30169-policemedevac-operations/?do=findComment&comment=172813)
-- [Organization approval](https://forums.vatsim.net/topic/30171-organization-approval/?do=findComment&comment=172812)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
