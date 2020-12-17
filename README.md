@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Organization approval](https://forums.vatsim.net/topic/30171-organization-approval/?do=findComment&comment=172832)
 - [GROUP FLIGHT ALERT : 17th December 2020 : 1330Z to 1530Z](https://forums.vatsim.net/topic/30151-group-flight-alert-17th-december-2020-1330z-to-1530z/?do=findComment&comment=172831)
 - [[ACCNPL1] Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30145-accnpl1-director-nepal-vacc-appointed/?do=findComment&comment=172830)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172829)
@@ -62,7 +63,6 @@
 - [(ACCNPL5) Event and Marketing Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30175-accnpl5-event-and-marketing-director-nepal-vacc-vacancy/?do=findComment&comment=172825)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172824)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172823)
-- [[ATC Examination] CPT C1 Pazhani Ragunathan (VABF) - 18.12.2020 16z](https://forums.vatsim.net/topic/30174-atc-examination-cpt-c1-pazhani-ragunathan-vabf-18122020-16z/?do=findComment&comment=172822)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
