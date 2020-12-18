@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pilot Orientation](https://forums.vatsim.net/topic/30178-pilot-orientation/?do=findComment&comment=172869)
+- [vPilot Model Matching not working in msfs2020](https://forums.vatsim.net/topic/30180-vpilot-model-matching-not-working-in-msfs2020/?do=findComment&comment=172868)
 - [ES v3.2.a(r25) Departure List Sequencing](https://forums.vatsim.net/topic/30179-es-v32ar25-departure-list-sequencing/?do=findComment&comment=172867)
 - [Pilot Orientation](https://forums.vatsim.net/topic/30178-pilot-orientation/?do=findComment&comment=172866)
 - [vPilot Model Matching not working in msfs2020](https://forums.vatsim.net/topic/30180-vpilot-model-matching-not-working-in-msfs2020/?do=findComment&comment=172865)
@@ -61,8 +63,6 @@
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172862)
 - [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172861)
 - [Dec 18, 1300-1500z I VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30107-dec-18-1300-1500z-i-vvts-twr-s2-cpt/?do=findComment&comment=172860)
-- [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172859)
-- [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172858)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
