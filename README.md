@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172861)
 - [Dec 18, 1300-1500z I VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30107-dec-18-1300-1500z-i-vvts-twr-s2-cpt/?do=findComment&comment=172860)
 - [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172859)
 - [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172858)
@@ -62,7 +63,6 @@
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172854)
 - [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172853)
 - [Unable to hear or receive, tried everything](https://forums.vatsim.net/topic/30149-unable-to-hear-or-receive-tried-everything/?do=findComment&comment=172852)
-- [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172851)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
