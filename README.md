@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172875)
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172874)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172873)
 - [Passed by a Queen at FL390 DLH987B](https://forums.vatsim.net/topic/30176-passed-by-a-queen-at-fl390-dlh987b/?do=findComment&comment=172872)
 - [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172871)
@@ -61,8 +63,6 @@
 - [vPilot Model Matching not working in msfs2020](https://forums.vatsim.net/topic/30180-vpilot-model-matching-not-working-in-msfs2020/?do=findComment&comment=172868)
 - [ES v3.2.a(r25) Departure List Sequencing](https://forums.vatsim.net/topic/30179-es-v32ar25-departure-list-sequencing/?do=findComment&comment=172867)
 - [Pilot Orientation](https://forums.vatsim.net/topic/30178-pilot-orientation/?do=findComment&comment=172866)
-- [vPilot Model Matching not working in msfs2020](https://forums.vatsim.net/topic/30180-vpilot-model-matching-not-working-in-msfs2020/?do=findComment&comment=172865)
-- [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172864)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
