@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Model Matching not working in msfs2020](https://forums.vatsim.net/topic/30180-vpilot-model-matching-not-working-in-msfs2020/?do=findComment&comment=172865)
+- [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172864)
 - [Passed by a Queen at FL390 DLH987B](https://forums.vatsim.net/topic/30176-passed-by-a-queen-at-fl390-dlh987b/?do=findComment&comment=172863)
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172862)
 - [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172861)
@@ -61,8 +63,6 @@
 - [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172858)
 - [ES v3.2.a(r25) Departure List Sequencing](https://forums.vatsim.net/topic/30179-es-v32ar25-departure-list-sequencing/?do=findComment&comment=172857)
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172856)
-- [Loss of ATIS while connected to x-pilot](https://forums.vatsim.net/topic/30170-loss-of-atis-while-connected-to-x-pilot/?do=findComment&comment=172855)
-- [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172854)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
