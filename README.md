@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dec 18, 1300-1500z I VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30107-dec-18-1300-1500z-i-vvts-twr-s2-cpt/?do=findComment&comment=172860)
 - [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172859)
 - [xPilot causing crashes in xplane 11.50 final](https://forums.vatsim.net/topic/29422-xpilot-causing-crashes-in-xplane-1150-final/?do=findComment&comment=172858)
 - [ES v3.2.a(r25) Departure List Sequencing](https://forums.vatsim.net/topic/30179-es-v32ar25-departure-list-sequencing/?do=findComment&comment=172857)
@@ -62,7 +63,6 @@
 - [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172853)
 - [Unable to hear or receive, tried everything](https://forums.vatsim.net/topic/30149-unable-to-hear-or-receive-tried-everything/?do=findComment&comment=172852)
 - [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172851)
-- [Pilot Orientation](https://forums.vatsim.net/topic/30178-pilot-orientation/?do=findComment&comment=172850)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
