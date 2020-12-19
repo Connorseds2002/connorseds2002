@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172899)
+- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172898)
 - [Color Crytheria of Euroscope: how it work?](https://forums.vatsim.net/topic/29977-color-crytheria-of-euroscope-how-it-work/?do=findComment&comment=172897)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172896)
 - [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172894)
@@ -61,8 +63,6 @@
 - [VAT-Spy not working](https://forums.vatsim.net/topic/30053-vat-spy-not-working/?do=findComment&comment=172891)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172890)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172889)
-- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172888)
-- [[Preview] Vatsim Connect for Moodle](https://forums.vatsim.net/topic/29211-preview-vatsim-connect-for-moodle/?do=findComment&comment=172887)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
