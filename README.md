@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [24JAN21 | Snowies - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1586-24jan21-snowies-aerial-fire-suppression-exercise/)
+- [22JAN21 | Canberra - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1585-22jan21-canberra-aerial-fire-suppression-exercise/)
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/)
 - [20DEC20 | Real Ops Perth](https://forums.vatpac.org/topic/18418-20dec20-real-ops-perth/?do=findComment&comment=130488)
 - [NOTAM 20DEC20: Positions Reserved for Real Ops Perth](https://forums.vatpac.org/topic/18506-notam-20dec20-positions-reserved-for-real-ops-perth/?do=findComment&comment=130487)
@@ -47,8 +49,6 @@
 - [Appointment of IT Systems and Support Manager, Marketing Manager](https://forums.vatpac.org/topic/18483-appointment-of-it-systems-and-support-manager-marketing-manager/?do=findComment&comment=130443)
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/topic/18490-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=130442)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/calendar/event/1579-10jan21-transcon-shuttle-sydney/)
-- [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130437)
-- [Appointment of IT Systems and Support Manager, Marketing Manager](https://forums.vatpac.org/topic/18483-appointment-of-it-systems-and-support-manager-marketing-manager/?do=findComment&comment=130424)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
