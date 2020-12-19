@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/)
 - [20DEC20 | Real Ops Perth](https://forums.vatpac.org/topic/18418-20dec20-real-ops-perth/?do=findComment&comment=130488)
 - [NOTAM 20DEC20: Positions Reserved for Real Ops Perth](https://forums.vatpac.org/topic/18506-notam-20dec20-positions-reserved-for-real-ops-perth/?do=findComment&comment=130487)
 - [TMA Controller - Jesse Isaac](https://forums.vatpac.org/topic/18495-tma-controller-jesse-isaac/?do=findComment&comment=130460)
@@ -48,7 +49,6 @@
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/calendar/event/1579-10jan21-transcon-shuttle-sydney/)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130437)
 - [Appointment of IT Systems and Support Manager, Marketing Manager](https://forums.vatpac.org/topic/18483-appointment-of-it-systems-and-support-manager-marketing-manager/?do=findComment&comment=130424)
-- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
