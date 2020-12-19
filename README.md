@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172889)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172888)
 - [[Preview] Vatsim Connect for Moodle](https://forums.vatsim.net/topic/29211-preview-vatsim-connect-for-moodle/?do=findComment&comment=172887)
 - [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172886)
@@ -62,7 +63,6 @@
 - [ES v3.2.a(r25) Departure List Sequencing](https://forums.vatsim.net/topic/30179-es-v32ar25-departure-list-sequencing/?do=findComment&comment=172882)
 - [Frequency not matching POF file](https://forums.vatsim.net/topic/22055-frequency-not-matching-pof-file/?do=findComment&comment=172881)
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172880)
-- [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172879)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
