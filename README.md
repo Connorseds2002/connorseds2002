@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172886)
 - [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172885)
 - [ES v3.2.a(r25) Departure List Sequencing](https://forums.vatsim.net/topic/30179-es-v32ar25-departure-list-sequencing/?do=findComment&comment=172884)
 - [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172883)
@@ -62,7 +63,6 @@
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=172879)
 - [**EVENT** Aviators Time for You to Get Ready](https://forums.vatsim.net/topic/30131-event-aviators-time-for-you-to-get-ready/?do=findComment&comment=172878)
 - [Unicom](https://forums.vatsim.net/topic/24909-unicom/?do=findComment&comment=172877)
-- [[December 26, 2020] Fly and See Santa 2020 RCTP <-> ZSAM](https://forums.vatsim.net/topic/30142-december-26-2020-fly-and-see-santa-2020-rctp-zsam/?do=findComment&comment=172876)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
