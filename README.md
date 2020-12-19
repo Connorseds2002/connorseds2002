@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172894)
+- [Shared Cockpit experience on Vatsim?](https://forums.vatsim.net/topic/30018-shared-cockpit-experience-on-vatsim/?do=findComment&comment=172893)
 - [vPilot Asus Realtek Audio Drivers](https://forums.vatsim.net/topic/26981-vpilot-asus-realtek-audio-drivers/?do=findComment&comment=172892)
 - [VAT-Spy not working](https://forums.vatsim.net/topic/30053-vat-spy-not-working/?do=findComment&comment=172891)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172890)
@@ -61,8 +63,6 @@
 - [[Preview] Vatsim Connect for Moodle](https://forums.vatsim.net/topic/29211-preview-vatsim-connect-for-moodle/?do=findComment&comment=172887)
 - [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172886)
 - [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172885)
-- [ES v3.2.a(r25) Departure List Sequencing](https://forums.vatsim.net/topic/30179-es-v32ar25-departure-list-sequencing/?do=findComment&comment=172884)
-- [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172883)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
