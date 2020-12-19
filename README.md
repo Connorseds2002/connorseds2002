@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172902)
+- [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172901)
+- [You Wil Not Find In P3D or XP-11 or MS2020!!!](https://forums.vatsim.net/topic/30184-you-wil-not-find-in-p3d-or-xp-11-or-ms2020/?do=findComment&comment=172900)
 - [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172899)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172898)
 - [Color Crytheria of Euroscope: how it work?](https://forums.vatsim.net/topic/29977-color-crytheria-of-euroscope-how-it-work/?do=findComment&comment=172897)
@@ -60,9 +63,6 @@
 - [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172894)
 - [Shared Cockpit experience on Vatsim?](https://forums.vatsim.net/topic/30018-shared-cockpit-experience-on-vatsim/?do=findComment&comment=172893)
 - [vPilot Asus Realtek Audio Drivers](https://forums.vatsim.net/topic/26981-vpilot-asus-realtek-audio-drivers/?do=findComment&comment=172892)
-- [VAT-Spy not working](https://forums.vatsim.net/topic/30053-vat-spy-not-working/?do=findComment&comment=172891)
-- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172890)
-- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172889)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
