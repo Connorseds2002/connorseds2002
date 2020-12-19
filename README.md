@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Color Crytheria of Euroscope: how it work?](https://forums.vatsim.net/topic/29977-color-crytheria-of-euroscope-how-it-work/?do=findComment&comment=172897)
+- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172896)
 - [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172894)
 - [Shared Cockpit experience on Vatsim?](https://forums.vatsim.net/topic/30018-shared-cockpit-experience-on-vatsim/?do=findComment&comment=172893)
 - [vPilot Asus Realtek Audio Drivers](https://forums.vatsim.net/topic/26981-vpilot-asus-realtek-audio-drivers/?do=findComment&comment=172892)
@@ -61,8 +63,6 @@
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172889)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172888)
 - [[Preview] Vatsim Connect for Moodle](https://forums.vatsim.net/topic/29211-preview-vatsim-connect-for-moodle/?do=findComment&comment=172887)
-- [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172886)
-- [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172885)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
