@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Asus Realtek Audio Drivers](https://forums.vatsim.net/topic/26981-vpilot-asus-realtek-audio-drivers/?do=findComment&comment=172892)
+- [VAT-Spy not working](https://forums.vatsim.net/topic/30053-vat-spy-not-working/?do=findComment&comment=172891)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172890)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172889)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172888)
@@ -61,8 +63,6 @@
 - [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172885)
 - [ES v3.2.a(r25) Departure List Sequencing](https://forums.vatsim.net/topic/30179-es-v32ar25-departure-list-sequencing/?do=findComment&comment=172884)
 - [VC10 missing](https://forums.vatsim.net/topic/30181-vc10-missing/?do=findComment&comment=172883)
-- [ES v3.2.a(r25) Departure List Sequencing](https://forums.vatsim.net/topic/30179-es-v32ar25-departure-list-sequencing/?do=findComment&comment=172882)
-- [Frequency not matching POF file](https://forums.vatsim.net/topic/22055-frequency-not-matching-pof-file/?do=findComment&comment=172881)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
