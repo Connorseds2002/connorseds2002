@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Preview] Vatsim Connect for Moodle](https://forums.vatsim.net/topic/29211-preview-vatsim-connect-for-moodle/?do=findComment&comment=172909)
 - [Shared Cockpit experience on Vatsim?](https://forums.vatsim.net/topic/30018-shared-cockpit-experience-on-vatsim/?do=findComment&comment=172908)
 - [Frequency not matching POF file](https://forums.vatsim.net/topic/22055-frequency-not-matching-pof-file/?do=findComment&comment=172907)
 - [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172906)
@@ -62,7 +63,6 @@
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172902)
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172901)
 - [You Wil Not Find In P3D or XP-11 or MS2020!!!](https://forums.vatsim.net/topic/30184-you-wil-not-find-in-p3d-or-xp-11-or-ms2020/?do=findComment&comment=172900)
-- [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172899)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
