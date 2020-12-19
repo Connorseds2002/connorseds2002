@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172905)
+- [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172904)
+- [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172903)
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172902)
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172901)
 - [You Wil Not Find In P3D or XP-11 or MS2020!!!](https://forums.vatsim.net/topic/30184-you-wil-not-find-in-p3d-or-xp-11-or-ms2020/?do=findComment&comment=172900)
@@ -60,9 +63,6 @@
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172898)
 - [Color Crytheria of Euroscope: how it work?](https://forums.vatsim.net/topic/29977-color-crytheria-of-euroscope-how-it-work/?do=findComment&comment=172897)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172896)
-- [Cancal direct in A320?](https://forums.vatsim.net/topic/30157-cancal-direct-in-a320/?do=findComment&comment=172894)
-- [Shared Cockpit experience on Vatsim?](https://forums.vatsim.net/topic/30018-shared-cockpit-experience-on-vatsim/?do=findComment&comment=172893)
-- [vPilot Asus Realtek Audio Drivers](https://forums.vatsim.net/topic/26981-vpilot-asus-realtek-audio-drivers/?do=findComment&comment=172892)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
