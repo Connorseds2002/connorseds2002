@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TWR Controller - Flynn Starr](https://forums.vatpac.org/topic/18508-twr-controller-flynn-starr/?do=findComment&comment=130495)
+- [TWR Controller - Luke Withington](https://forums.vatpac.org/topic/18507-twr-controller-luke-withington/?do=findComment&comment=130494)
 - [20DEC20 | Real Ops Perth](https://forums.vatpac.org/calendar/event/1524-20dec20-real-ops-perth/?do=findComment&comment=214&tab=comments)
 - [24JAN21 | Snowies - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1586-24jan21-snowies-aerial-fire-suppression-exercise/)
 - [22JAN21 | Canberra - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1585-22jan21-canberra-aerial-fire-suppression-exercise/)
@@ -47,8 +49,6 @@
 - [NOTAM 20DEC20: Positions Reserved for Real Ops Perth](https://forums.vatpac.org/topic/18506-notam-20dec20-positions-reserved-for-real-ops-perth/?do=findComment&comment=130487)
 - [TMA Controller - Jesse Isaac](https://forums.vatpac.org/topic/18495-tma-controller-jesse-isaac/?do=findComment&comment=130460)
 - [TWR Controller - Will Menzies](https://forums.vatpac.org/topic/18491-twr-controller-will-menzies/?do=findComment&comment=130454)
-- [Appointment of IT Systems and Support Manager, Marketing Manager](https://forums.vatpac.org/topic/18483-appointment-of-it-systems-and-support-manager-marketing-manager/?do=findComment&comment=130443)
-- [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/topic/18490-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=130442)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
