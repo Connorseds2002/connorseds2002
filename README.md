@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20DEC20 | Real Ops Perth](https://forums.vatpac.org/calendar/event/1524-20dec20-real-ops-perth/?do=findComment&comment=214&tab=comments)
 - [24JAN21 | Snowies - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1586-24jan21-snowies-aerial-fire-suppression-exercise/)
 - [22JAN21 | Canberra - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1585-22jan21-canberra-aerial-fire-suppression-exercise/)
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/)
@@ -48,7 +49,6 @@
 - [TWR Controller - Will Menzies](https://forums.vatpac.org/topic/18491-twr-controller-will-menzies/?do=findComment&comment=130454)
 - [Appointment of IT Systems and Support Manager, Marketing Manager](https://forums.vatpac.org/topic/18483-appointment-of-it-systems-and-support-manager-marketing-manager/?do=findComment&comment=130443)
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/topic/18490-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=130442)
-- [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/calendar/event/1579-10jan21-transcon-shuttle-sydney/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
