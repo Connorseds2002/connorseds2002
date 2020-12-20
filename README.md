@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172922)
+- [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172921)
+- [[VACANCY] VATEUD ATC Training Department Deputy Director](https://forums.vatsim.net/topic/30110-vacancy-vateud-atc-training-department-deputy-director/?do=findComment&comment=172920)
 - [SimBrief Flight Plans Not Downloading To VATSIM](https://forums.vatsim.net/topic/28801-simbrief-flight-plans-not-downloading-to-vatsim/?do=findComment&comment=172919)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172918)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172917)
@@ -60,9 +63,6 @@
 - [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=172915)
 - [Logitech flight panels](https://forums.vatsim.net/topic/30186-logitech-flight-panels/?do=findComment&comment=172914)
 - [[Preview] Vatsim Connect for Moodle](https://forums.vatsim.net/topic/29211-preview-vatsim-connect-for-moodle/?do=findComment&comment=172913)
-- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172912)
-- [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172911)
-- [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172910)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
