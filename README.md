@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATeir 24 Hour Event](https://forums.vatsim.net/topic/30188-vateir-24-hour-event/?do=findComment&comment=172933)
 - [Unable to select Microphone Device on set up](https://forums.vatsim.net/topic/30193-unable-to-select-microphone-device-on-set-up/?do=findComment&comment=172932)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172931)
 - [Happy Holidays from VATEUD](https://forums.vatsim.net/topic/30192-happy-holidays-from-vateud/?do=findComment&comment=172930)
@@ -62,7 +63,6 @@
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172926)
 - [FSX crashes as soon as i hit connect on vPilot.](https://forums.vatsim.net/topic/30189-fsx-crashes-as-soon-as-i-hit-connect-on-vpilot/?do=findComment&comment=172925)
 - [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172924)
-- [VATeir 24 Hour Event](https://forums.vatsim.net/topic/30188-vateir-24-hour-event/?do=findComment&comment=172923)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
