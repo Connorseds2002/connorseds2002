@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=172915)
 - [Logitech flight panels](https://forums.vatsim.net/topic/30186-logitech-flight-panels/?do=findComment&comment=172914)
 - [[Preview] Vatsim Connect for Moodle](https://forums.vatsim.net/topic/29211-preview-vatsim-connect-for-moodle/?do=findComment&comment=172913)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172912)
@@ -62,7 +63,6 @@
 - [Shared Cockpit experience on Vatsim?](https://forums.vatsim.net/topic/30018-shared-cockpit-experience-on-vatsim/?do=findComment&comment=172908)
 - [Frequency not matching POF file](https://forums.vatsim.net/topic/22055-frequency-not-matching-pof-file/?do=findComment&comment=172907)
 - [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172906)
-- [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172905)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
