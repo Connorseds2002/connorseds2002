@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FSX crashes as soon as i hit connect on vPilot.](https://forums.vatsim.net/topic/30189-fsx-crashes-as-soon-as-i-hit-connect-on-vpilot/?do=findComment&comment=172925)
+- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172924)
 - [VATeir 24 Hour Event](https://forums.vatsim.net/topic/30188-vateir-24-hour-event/?do=findComment&comment=172923)
 - [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172922)
 - [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172921)
@@ -61,8 +63,6 @@
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172918)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172917)
 - [Microphone doent work](https://forums.vatsim.net/topic/30121-microphone-doent-work/?do=findComment&comment=172916)
-- [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=172915)
-- [Logitech flight panels](https://forums.vatsim.net/topic/30186-logitech-flight-panels/?do=findComment&comment=172914)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
