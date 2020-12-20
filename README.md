@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to select Microphone Device on set up](https://forums.vatsim.net/topic/30193-unable-to-select-microphone-device-on-set-up/?do=findComment&comment=172932)
+- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172931)
+- [Happy Holidays from VATEUD](https://forums.vatsim.net/topic/30192-happy-holidays-from-vateud/?do=findComment&comment=172930)
 - [Does anyone know what happened to VATTASTIC?](https://forums.vatsim.net/topic/30190-does-anyone-know-what-happened-to-vattastic/?do=findComment&comment=172929)
 - [Some ATIS text not in text datafeed](https://forums.vatsim.net/topic/30191-some-atis-text-not-in-text-datafeed/?do=findComment&comment=172928)
 - [Does anyone know what happened to VATTASTIC?](https://forums.vatsim.net/topic/30190-does-anyone-know-what-happened-to-vattastic/?do=findComment&comment=172927)
@@ -60,9 +63,6 @@
 - [FSX crashes as soon as i hit connect on vPilot.](https://forums.vatsim.net/topic/30189-fsx-crashes-as-soon-as-i-hit-connect-on-vpilot/?do=findComment&comment=172925)
 - [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172924)
 - [VATeir 24 Hour Event](https://forums.vatsim.net/topic/30188-vateir-24-hour-event/?do=findComment&comment=172923)
-- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172922)
-- [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=172921)
-- [[VACANCY] VATEUD ATC Training Department Deputy Director](https://forums.vatsim.net/topic/30110-vacancy-vateud-atc-training-department-deputy-director/?do=findComment&comment=172920)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
