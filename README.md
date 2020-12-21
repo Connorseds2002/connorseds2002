@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172966)
 - [No audio output, mic works.       MSFS2020](https://forums.vatsim.net/topic/30204-no-audio-output-mic-works-msfs2020/?do=findComment&comment=172965)
 - [Event: Delhi CAT III Operation](https://forums.vatsim.net/topic/30198-event-delhi-cat-iii-operation/?do=findComment&comment=172959)
 - [IPboard SSO](https://forums.vatsim.net/topic/27429-ipboard-sso/?do=findComment&comment=172958)
@@ -62,7 +63,6 @@
 - [Primary, SSR? ASD-B?](https://forums.vatsim.net/topic/29520-primary-ssr-asd-b/?do=findComment&comment=172953)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172952)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172951)
-- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172950)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
