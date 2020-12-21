@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172943)
 - [Missing controller sessions in atcsessions API call](https://forums.vatsim.net/topic/29701-missing-controller-sessions-in-atcsessions-api-call/?do=findComment&comment=172942)
 - [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172941)
 - [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172940)
@@ -62,7 +63,6 @@
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172936)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172935)
 - [Group Flight into Leeds](https://forums.vatsim.net/topic/30194-group-flight-into-leeds/?do=findComment&comment=172934)
-- [VATeir 24 Hour Event](https://forums.vatsim.net/topic/30188-vateir-24-hour-event/?do=findComment&comment=172933)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
