@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Some ATIS text not in text datafeed](https://forums.vatsim.net/topic/30191-some-atis-text-not-in-text-datafeed/?do=findComment&comment=172970)
 - [atc VATUSA software](https://forums.vatsim.net/topic/30205-atc-vatusa-software/?do=findComment&comment=172969)
 - [See ATC text messages in VR](https://forums.vatsim.net/topic/27197-see-atc-text-messages-in-vr/?do=findComment&comment=172968)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172966)
@@ -62,7 +63,6 @@
 - [ATIS help](https://forums.vatsim.net/topic/30197-atis-help/?do=findComment&comment=172957)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172956)
 - [New swift ALPHA and BETA available now](https://forums.vatsim.net/topic/30196-new-swift-alpha-and-beta-available-now/?do=findComment&comment=172955)
-- [Primary, SSR? ASD-B?](https://forums.vatsim.net/topic/29520-primary-ssr-asd-b/?do=findComment&comment=172953)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
