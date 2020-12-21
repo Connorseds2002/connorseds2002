@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CountDown - New ES Plug-In - Released](https://forums.vatsim.net/topic/10212-countdown-new-es-plug-in-released/?do=findComment&comment=172944)
 - [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172943)
 - [Missing controller sessions in atcsessions API call](https://forums.vatsim.net/topic/29701-missing-controller-sessions-in-atcsessions-api-call/?do=findComment&comment=172942)
 - [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172941)
@@ -62,7 +63,6 @@
 - [Does anyone know what happened to VATTASTIC?](https://forums.vatsim.net/topic/30190-does-anyone-know-what-happened-to-vattastic/?do=findComment&comment=172937)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172936)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172935)
-- [Group Flight into Leeds](https://forums.vatsim.net/topic/30194-group-flight-into-leeds/?do=findComment&comment=172934)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
