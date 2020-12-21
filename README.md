@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172950)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172949)
 - [CountDown - New ES Plug-In - Released](https://forums.vatsim.net/topic/10212-countdown-new-es-plug-in-released/?do=findComment&comment=172948)
 - [Some ATIS text not in text datafeed](https://forums.vatsim.net/topic/30191-some-atis-text-not-in-text-datafeed/?do=findComment&comment=172947)
@@ -62,7 +63,6 @@
 - [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172943)
 - [Missing controller sessions in atcsessions API call](https://forums.vatsim.net/topic/29701-missing-controller-sessions-in-atcsessions-api-call/?do=findComment&comment=172942)
 - [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172941)
-- [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172940)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
