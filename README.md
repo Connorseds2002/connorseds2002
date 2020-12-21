@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172949)
+- [CountDown - New ES Plug-In - Released](https://forums.vatsim.net/topic/10212-countdown-new-es-plug-in-released/?do=findComment&comment=172948)
+- [Some ATIS text not in text datafeed](https://forums.vatsim.net/topic/30191-some-atis-text-not-in-text-datafeed/?do=findComment&comment=172947)
+- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172946)
+- [[Preview] Vatsim Connect for Moodle](https://forums.vatsim.net/topic/29211-preview-vatsim-connect-for-moodle/?do=findComment&comment=172945)
 - [CountDown - New ES Plug-In - Released](https://forums.vatsim.net/topic/10212-countdown-new-es-plug-in-released/?do=findComment&comment=172944)
 - [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172943)
 - [Missing controller sessions in atcsessions API call](https://forums.vatsim.net/topic/29701-missing-controller-sessions-in-atcsessions-api-call/?do=findComment&comment=172942)
 - [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172941)
 - [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172940)
-- [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172939)
-- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172938)
-- [Does anyone know what happened to VATTASTIC?](https://forums.vatsim.net/topic/30190-does-anyone-know-what-happened-to-vattastic/?do=findComment&comment=172937)
-- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172936)
-- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172935)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
