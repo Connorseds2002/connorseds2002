@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [See ATC text messages in VR](https://forums.vatsim.net/topic/27197-see-atc-text-messages-in-vr/?do=findComment&comment=172968)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172966)
 - [No audio output, mic works.       MSFS2020](https://forums.vatsim.net/topic/30204-no-audio-output-mic-works-msfs2020/?do=findComment&comment=172965)
 - [Event: Delhi CAT III Operation](https://forums.vatsim.net/topic/30198-event-delhi-cat-iii-operation/?do=findComment&comment=172959)
@@ -62,7 +63,6 @@
 - [New swift ALPHA and BETA available now](https://forums.vatsim.net/topic/30196-new-swift-alpha-and-beta-available-now/?do=findComment&comment=172955)
 - [Primary, SSR? ASD-B?](https://forums.vatsim.net/topic/29520-primary-ssr-asd-b/?do=findComment&comment=172953)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172952)
-- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172951)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
