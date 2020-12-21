@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resignation: Russell Diehl (VFR Ops)](https://forums.vatpac.org/topic/18511-resignation-russell-diehl-vfr-ops/?do=findComment&comment=130508)
 - [TWR Controller - Flynn Starr](https://forums.vatpac.org/topic/18508-twr-controller-flynn-starr/?do=findComment&comment=130495)
 - [TWR Controller - Luke Withington](https://forums.vatpac.org/topic/18507-twr-controller-luke-withington/?do=findComment&comment=130494)
 - [20DEC20 | Real Ops Perth](https://forums.vatpac.org/calendar/event/1524-20dec20-real-ops-perth/?do=findComment&comment=214&tab=comments)
@@ -47,8 +48,7 @@
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/)
 - [20DEC20 | Real Ops Perth](https://forums.vatpac.org/topic/18418-20dec20-real-ops-perth/?do=findComment&comment=130488)
 - [NOTAM 20DEC20: Positions Reserved for Real Ops Perth](https://forums.vatpac.org/topic/18506-notam-20dec20-positions-reserved-for-real-ops-perth/?do=findComment&comment=130487)
-- [TMA Controller - Jesse Isaac](https://forums.vatpac.org/topic/18495-tma-controller-jesse-isaac/?do=findComment&comment=130460)
-- [TWR Controller - Will Menzies](https://forums.vatpac.org/topic/18491-twr-controller-will-menzies/?do=findComment&comment=130454)
+- [Director of Australia Pacific](https://forums.vatpac.org/topic/18504-director-of-australia-pacific/?do=findComment&comment=130479)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
