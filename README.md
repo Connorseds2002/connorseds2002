@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No audio output, mic works.       MSFS2020](https://forums.vatsim.net/topic/30204-no-audio-output-mic-works-msfs2020/?do=findComment&comment=172965)
+- [Event: Delhi CAT III Operation](https://forums.vatsim.net/topic/30203-event-delhi-cat-iii-operation/?do=findComment&comment=172964)
+- [Event: Delhi CAT III Operation](https://forums.vatsim.net/topic/30202-event-delhi-cat-iii-operation/?do=findComment&comment=172963)
+- [Event: Delhi CAT III Operation](https://forums.vatsim.net/topic/30201-event-delhi-cat-iii-operation/?do=findComment&comment=172962)
+- [Event: Delhi CAT III Operation](https://forums.vatsim.net/topic/30200-event-delhi-cat-iii-operation/?do=findComment&comment=172961)
+- [Event: Delhi CAT III Operation](https://forums.vatsim.net/topic/30199-event-delhi-cat-iii-operation/?do=findComment&comment=172960)
+- [Event: Delhi CAT III Operation](https://forums.vatsim.net/topic/30198-event-delhi-cat-iii-operation/?do=findComment&comment=172959)
+- [IPboard SSO](https://forums.vatsim.net/topic/27429-ipboard-sso/?do=findComment&comment=172958)
 - [ATIS help](https://forums.vatsim.net/topic/30197-atis-help/?do=findComment&comment=172957)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172956)
-- [New swift ALPHA and BETA available now](https://forums.vatsim.net/topic/30196-new-swift-alpha-and-beta-available-now/?do=findComment&comment=172955)
-- [Primary, SSR? ASD-B?](https://forums.vatsim.net/topic/29520-primary-ssr-asd-b/?do=findComment&comment=172953)
-- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=172952)
-- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172951)
-- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172950)
-- [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172949)
-- [CountDown - New ES Plug-In - Released](https://forums.vatsim.net/topic/10212-countdown-new-es-plug-in-released/?do=findComment&comment=172948)
-- [Some ATIS text not in text datafeed](https://forums.vatsim.net/topic/30191-some-atis-text-not-in-text-datafeed/?do=findComment&comment=172947)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
