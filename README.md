@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Missing controller sessions in atcsessions API call](https://forums.vatsim.net/topic/29701-missing-controller-sessions-in-atcsessions-api-call/?do=findComment&comment=172942)
+- [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172941)
+- [Can't locate the vATIS Facility File?](https://forums.vatsim.net/topic/30195-cant-locate-the-vatis-facility-file/?do=findComment&comment=172940)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172939)
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172938)
 - [Does anyone know what happened to VATTASTIC?](https://forums.vatsim.net/topic/30190-does-anyone-know-what-happened-to-vattastic/?do=findComment&comment=172937)
@@ -60,9 +63,6 @@
 - [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172935)
 - [Group Flight into Leeds](https://forums.vatsim.net/topic/30194-group-flight-into-leeds/?do=findComment&comment=172934)
 - [VATeir 24 Hour Event](https://forums.vatsim.net/topic/30188-vateir-24-hour-event/?do=findComment&comment=172933)
-- [Unable to select Microphone Device on set up](https://forums.vatsim.net/topic/30193-unable-to-select-microphone-device-on-set-up/?do=findComment&comment=172932)
-- [vPilot CID/Password incorrect](https://forums.vatsim.net/topic/30182-vpilot-cidpassword-incorrect/?do=findComment&comment=172931)
-- [Happy Holidays from VATEUD](https://forums.vatsim.net/topic/30192-happy-holidays-from-vateud/?do=findComment&comment=172930)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
