@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[30 december 2020, 1930z 2100z] CPT S3 Nice Approach [LFMN_APP]](https://forums.vatsim.net/topic/30216-30-december-2020-1930z-2100z-cpt-s3-nice-approach-lfmn_app/?do=findComment&comment=173007)
+- [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=173006)
+- [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=173005)
+- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=173004)
+- [[Beta] Scratchpads in ASDE-X](https://forums.vatsim.net/topic/19413-beta-scratchpads-in-asde-x/?do=findComment&comment=173003)
+- [[Beta] vERAM style TDM](https://forums.vatsim.net/topic/19404-beta-veram-style-tdm/?do=findComment&comment=173002)
+- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=173001)
 - [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173000)
 - [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172999)
 - [Virgin Virtual Day After Christmas](https://forums.vatsim.net/topic/30214-virgin-virtual-day-after-christmas/?do=findComment&comment=172998)
-- [Group Flight In & Out Brussels](https://forums.vatsim.net/topic/30213-group-flight-in-out-brussels/?do=findComment&comment=172997)
-- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172996)
-- [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172995)
-- [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172994)
-- [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172993)
-- [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172992)
-- [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172991)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
