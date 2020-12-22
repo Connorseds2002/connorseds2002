@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=172971)
 - [Some ATIS text not in text datafeed](https://forums.vatsim.net/topic/30191-some-atis-text-not-in-text-datafeed/?do=findComment&comment=172970)
 - [atc VATUSA software](https://forums.vatsim.net/topic/30205-atc-vatusa-software/?do=findComment&comment=172969)
 - [See ATC text messages in VR](https://forums.vatsim.net/topic/27197-see-atc-text-messages-in-vr/?do=findComment&comment=172968)
@@ -62,7 +63,6 @@
 - [IPboard SSO](https://forums.vatsim.net/topic/27429-ipboard-sso/?do=findComment&comment=172958)
 - [ATIS help](https://forums.vatsim.net/topic/30197-atis-help/?do=findComment&comment=172957)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=172956)
-- [New swift ALPHA and BETA available now](https://forums.vatsim.net/topic/30196-new-swift-alpha-and-beta-available-now/?do=findComment&comment=172955)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
