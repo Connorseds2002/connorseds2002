@@ -39,6 +39,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [18JAN21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1589-18jan21-milk-run-monday/)
+- [11JAN21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1588-11jan21-milk-run-monday/)
+- [04JAN21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1587-04jan21-milk-run-monday/)
 - [Resignation: Russell Diehl (VFR Ops)](https://forums.vatpac.org/topic/18511-resignation-russell-diehl-vfr-ops/?do=findComment&comment=130508)
 - [TWR Controller - Flynn Starr](https://forums.vatpac.org/topic/18508-twr-controller-flynn-starr/?do=findComment&comment=130495)
 - [TWR Controller - Luke Withington](https://forums.vatpac.org/topic/18507-twr-controller-luke-withington/?do=findComment&comment=130494)
@@ -46,9 +49,6 @@
 - [24JAN21 | Snowies - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1586-24jan21-snowies-aerial-fire-suppression-exercise/)
 - [22JAN21 | Canberra - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1585-22jan21-canberra-aerial-fire-suppression-exercise/)
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/)
-- [20DEC20 | Real Ops Perth](https://forums.vatpac.org/topic/18418-20dec20-real-ops-perth/?do=findComment&comment=130488)
-- [NOTAM 20DEC20: Positions Reserved for Real Ops Perth](https://forums.vatpac.org/topic/18506-notam-20dec20-positions-reserved-for-real-ops-perth/?do=findComment&comment=130487)
-- [Director of Australia Pacific](https://forums.vatpac.org/topic/18504-director-of-australia-pacific/?do=findComment&comment=130479)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
