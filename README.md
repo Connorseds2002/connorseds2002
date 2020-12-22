@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Missing controller sessions in atcsessions API call](https://forums.vatsim.net/topic/29701-missing-controller-sessions-in-atcsessions-api-call/?do=findComment&comment=172979)
 - [VATeir 24 Hour Event](https://forums.vatsim.net/topic/30188-vateir-24-hour-event/?do=findComment&comment=172978)
 - [Ground Maps](https://forums.vatsim.net/topic/30207-ground-maps/?do=findComment&comment=172977)
 - [Ground Maps](https://forums.vatsim.net/topic/30208-ground-maps/?do=findComment&comment=172976)
@@ -62,7 +63,6 @@
 - [atc VATUSA software](https://forums.vatsim.net/topic/30205-atc-vatusa-software/?do=findComment&comment=172972)
 - [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=172971)
 - [Some ATIS text not in text datafeed](https://forums.vatsim.net/topic/30191-some-atis-text-not-in-text-datafeed/?do=findComment&comment=172970)
-- [atc VATUSA software](https://forums.vatsim.net/topic/30205-atc-vatusa-software/?do=findComment&comment=172969)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
