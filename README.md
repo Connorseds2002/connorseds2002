@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=172982)
 - [Does anyone know what happened to VATTASTIC?](https://forums.vatsim.net/topic/30190-does-anyone-know-what-happened-to-vattastic/?do=findComment&comment=172981)
 - [No audio output, mic works.       MSFS2020](https://forums.vatsim.net/topic/30204-no-audio-output-mic-works-msfs2020/?do=findComment&comment=172980)
 - [Missing controller sessions in atcsessions API call](https://forums.vatsim.net/topic/29701-missing-controller-sessions-in-atcsessions-api-call/?do=findComment&comment=172979)
@@ -62,7 +63,6 @@
 - [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172973)
 - [atc VATUSA software](https://forums.vatsim.net/topic/30205-atc-vatusa-software/?do=findComment&comment=172972)
 - [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=172971)
-- [Some ATIS text not in text datafeed](https://forums.vatsim.net/topic/30191-some-atis-text-not-in-text-datafeed/?do=findComment&comment=172970)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
