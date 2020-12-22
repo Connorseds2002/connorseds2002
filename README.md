@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173000)
+- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172999)
+- [Virgin Virtual Day After Christmas](https://forums.vatsim.net/topic/30214-virgin-virtual-day-after-christmas/?do=findComment&comment=172998)
+- [Group Flight In & Out Brussels](https://forums.vatsim.net/topic/30213-group-flight-in-out-brussels/?do=findComment&comment=172997)
+- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172996)
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172995)
 - [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172994)
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172993)
 - [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172992)
 - [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172991)
-- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=172990)
-- [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172989)
-- [[ATC Examination] S3 CPT VABB_APP - 02/01/2021 14:00z-1600Z](https://forums.vatsim.net/topic/30212-atc-examination-s3-cpt-vabb_app-02012021-1400z-1600z/?do=findComment&comment=172988)
-- [[ATC Examination] S3 CPT VABB_APP - 02/01/2021 14:00z-1600Z](https://forums.vatsim.net/topic/30211-atc-examination-s3-cpt-vabb_app-02012021-1400z-1600z/?do=findComment&comment=172987)
-- [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172986)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
