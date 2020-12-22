@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172995)
+- [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172994)
+- [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=172993)
 - [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172992)
 - [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172991)
 - [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=172990)
@@ -60,9 +63,6 @@
 - [[ATC Examination] S3 CPT VABB_APP - 02/01/2021 14:00z-1600Z](https://forums.vatsim.net/topic/30212-atc-examination-s3-cpt-vabb_app-02012021-1400z-1600z/?do=findComment&comment=172988)
 - [[ATC Examination] S3 CPT VABB_APP - 02/01/2021 14:00z-1600Z](https://forums.vatsim.net/topic/30211-atc-examination-s3-cpt-vabb_app-02012021-1400z-1600z/?do=findComment&comment=172987)
 - [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=172986)
-- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=172985)
-- [VatSpy will not load](https://forums.vatsim.net/topic/30209-vatspy-will-not-load/?do=findComment&comment=172984)
-- [VatSpy will not load](https://forums.vatsim.net/topic/30209-vatspy-will-not-load/?do=findComment&comment=172983)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
