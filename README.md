@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173030)
 - [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173029)
 - [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173028)
 - [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173027)
@@ -62,7 +63,6 @@
 - [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173023)
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=173022)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173021)
-- [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=173020)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
