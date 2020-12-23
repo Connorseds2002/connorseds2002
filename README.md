@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [What are you currently listening to?](https://forums.vatsim.net/topic/30225-what-are-you-currently-listening-to/?do=findComment&comment=173017)
+- [What are you currently listening to?](https://forums.vatsim.net/topic/30224-what-are-you-currently-listening-to/?do=findComment&comment=173016)
+- [What are you currently listening to?](https://forums.vatsim.net/topic/30223-what-are-you-currently-listening-to/?do=findComment&comment=173015)
+- [What are you currently listening to?](https://forums.vatsim.net/topic/30222-what-are-you-currently-listening-to/?do=findComment&comment=173014)
+- [What are you currently listening to?](https://forums.vatsim.net/topic/30221-what-are-you-currently-listening-to/?do=findComment&comment=173013)
+- [What are you currently listening to?](https://forums.vatsim.net/topic/30220-what-are-you-currently-listening-to/?do=findComment&comment=173012)
+- [What are you currently listening to?](https://forums.vatsim.net/topic/30219-what-are-you-currently-listening-to/?do=findComment&comment=173011)
+- [What are you currently listening to?](https://forums.vatsim.net/topic/30218-what-are-you-currently-listening-to/?do=findComment&comment=173010)
+- [What are your currently listening to?](https://forums.vatsim.net/topic/30217-what-are-your-currently-listening-to/?do=findComment&comment=173009)
 - [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173008)
-- [[30 december 2020, 1930z 2100z] CPT S3 Nice Approach [LFMN_APP]](https://forums.vatsim.net/topic/30216-30-december-2020-1930z-2100z-cpt-s3-nice-approach-lfmn_app/?do=findComment&comment=173007)
-- [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=173006)
-- [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=173005)
-- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=173004)
-- [[Beta] Scratchpads in ASDE-X](https://forums.vatsim.net/topic/19413-beta-scratchpads-in-asde-x/?do=findComment&comment=173003)
-- [[Beta] vERAM style TDM](https://forums.vatsim.net/topic/19404-beta-veram-style-tdm/?do=findComment&comment=173002)
-- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=173001)
-- [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173000)
-- [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172999)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
