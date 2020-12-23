@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173008)
 - [[30 december 2020, 1930z 2100z] CPT S3 Nice Approach [LFMN_APP]](https://forums.vatsim.net/topic/30216-30-december-2020-1930z-2100z-cpt-s3-nice-approach-lfmn_app/?do=findComment&comment=173007)
 - [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=173006)
 - [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=173005)
@@ -62,7 +63,6 @@
 - [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=173001)
 - [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173000)
 - [Pacific Oceanic Procedures - FNO Dec 18 - I gave up](https://forums.vatsim.net/topic/30187-pacific-oceanic-procedures-fno-dec-18-i-gave-up/?do=findComment&comment=172999)
-- [Virgin Virtual Day After Christmas](https://forums.vatsim.net/topic/30214-virgin-virtual-day-after-christmas/?do=findComment&comment=172998)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
