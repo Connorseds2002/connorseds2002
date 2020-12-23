@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=173022)
+- [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173021)
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=173020)
 - [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=173019)
 - [Virgin Virtual - Los Angeles to Las Vegas and back!](https://forums.vatsim.net/topic/30226-virgin-virtual-los-angeles-to-las-vegas-and-back/?do=findComment&comment=173018)
@@ -61,8 +63,6 @@
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30223-what-are-you-currently-listening-to/?do=findComment&comment=173015)
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30222-what-are-you-currently-listening-to/?do=findComment&comment=173014)
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30221-what-are-you-currently-listening-to/?do=findComment&comment=173013)
-- [What are you currently listening to?](https://forums.vatsim.net/topic/30220-what-are-you-currently-listening-to/?do=findComment&comment=173012)
-- [What are you currently listening to?](https://forums.vatsim.net/topic/30219-what-are-you-currently-listening-to/?do=findComment&comment=173011)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
