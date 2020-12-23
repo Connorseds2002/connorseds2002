@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173027)
+- [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=173026)
 - [Group Flight into Leeds](https://forums.vatsim.net/topic/30194-group-flight-into-leeds/?do=findComment&comment=173025)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173024)
 - [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173023)
@@ -61,8 +63,6 @@
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=173020)
 - [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=173019)
 - [Virgin Virtual - Los Angeles to Las Vegas and back!](https://forums.vatsim.net/topic/30226-virgin-virtual-los-angeles-to-las-vegas-and-back/?do=findComment&comment=173018)
-- [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173008)
-- [[30 december 2020, 1930z 2100z] CPT S3 Nice Approach [LFMN_APP]](https://forums.vatsim.net/topic/30216-30-december-2020-1930z-2100z-cpt-s3-nice-approach-lfmn_app/?do=findComment&comment=173007)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
