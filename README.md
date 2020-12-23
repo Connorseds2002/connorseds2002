@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173040)
+- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173039)
 - [Dev Mode](https://forums.vatsim.net/topic/30229-dev-mode/?do=findComment&comment=173038)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173037)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173036)
@@ -61,8 +63,6 @@
 - [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173033)
 - [[VATWA4] VATWA asst. Training Director vacancy announcement](https://forums.vatsim.net/topic/22034-vatwa4-vatwa-asst-training-director-vacancy-announcement/?do=findComment&comment=173032)
 - [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173031)
-- [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173030)
-- [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173029)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
