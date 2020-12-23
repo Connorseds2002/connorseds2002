@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=173019)
 - [Virgin Virtual - Los Angeles to Las Vegas and back!](https://forums.vatsim.net/topic/30226-virgin-virtual-los-angeles-to-las-vegas-and-back/?do=findComment&comment=173018)
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30225-what-are-you-currently-listening-to/?do=findComment&comment=173017)
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30224-what-are-you-currently-listening-to/?do=findComment&comment=173016)
@@ -62,7 +63,6 @@
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30220-what-are-you-currently-listening-to/?do=findComment&comment=173012)
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30219-what-are-you-currently-listening-to/?do=findComment&comment=173011)
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30218-what-are-you-currently-listening-to/?do=findComment&comment=173010)
-- [What are your currently listening to?](https://forums.vatsim.net/topic/30217-what-are-your-currently-listening-to/?do=findComment&comment=173009)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
