@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173034)
 - [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173033)
 - [[VATWA4] VATWA asst. Training Director vacancy announcement](https://forums.vatsim.net/topic/22034-vatwa4-vatwa-asst-training-director-vacancy-announcement/?do=findComment&comment=173032)
 - [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173031)
@@ -62,7 +63,6 @@
 - [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173027)
 - [rip the dash 8](https://forums.vatsim.net/topic/27529-rip-the-dash-8/?do=findComment&comment=173026)
 - [Group Flight into Leeds](https://forums.vatsim.net/topic/30194-group-flight-into-leeds/?do=findComment&comment=173025)
-- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173024)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
