@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Group Flight into Leeds](https://forums.vatsim.net/topic/30194-group-flight-into-leeds/?do=findComment&comment=173025)
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173024)
+- [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173023)
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=173022)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173021)
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=173020)
 - [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=173019)
 - [Virgin Virtual - Los Angeles to Las Vegas and back!](https://forums.vatsim.net/topic/30226-virgin-virtual-los-angeles-to-las-vegas-and-back/?do=findComment&comment=173018)
-- [What are you currently listening to?](https://forums.vatsim.net/topic/30225-what-are-you-currently-listening-to/?do=findComment&comment=173017)
-- [What are you currently listening to?](https://forums.vatsim.net/topic/30224-what-are-you-currently-listening-to/?do=findComment&comment=173016)
-- [What are you currently listening to?](https://forums.vatsim.net/topic/30223-what-are-you-currently-listening-to/?do=findComment&comment=173015)
-- [What are you currently listening to?](https://forums.vatsim.net/topic/30222-what-are-you-currently-listening-to/?do=findComment&comment=173014)
-- [What are you currently listening to?](https://forums.vatsim.net/topic/30221-what-are-you-currently-listening-to/?do=findComment&comment=173013)
+- [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173008)
+- [[30 december 2020, 1930z 2100z] CPT S3 Nice Approach [LFMN_APP]](https://forums.vatsim.net/topic/30216-30-december-2020-1930z-2100z-cpt-s3-nice-approach-lfmn_app/?do=findComment&comment=173007)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
