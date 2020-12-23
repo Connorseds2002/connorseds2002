@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dev Mode](https://forums.vatsim.net/topic/30229-dev-mode/?do=findComment&comment=173042)
 - [XPilot not recognizing X-Plane is running](https://forums.vatsim.net/topic/30231-xpilot-not-recognizing-x-plane-is-running/?do=findComment&comment=173041)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173040)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173039)
@@ -62,7 +63,6 @@
 - [Dev Mode](https://forums.vatsim.net/topic/30229-dev-mode/?do=findComment&comment=173035)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173034)
 - [Voice echo on Unicom](https://forums.vatsim.net/topic/30228-voice-echo-on-unicom/?do=findComment&comment=173033)
-- [[VATWA4] VATWA asst. Training Director vacancy announcement](https://forums.vatsim.net/topic/22034-vatwa4-vatwa-asst-training-director-vacancy-announcement/?do=findComment&comment=173032)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
