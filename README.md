@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Virgin Virtual - Los Angeles to Las Vegas and back!](https://forums.vatsim.net/topic/30226-virgin-virtual-los-angeles-to-las-vegas-and-back/?do=findComment&comment=173018)
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30225-what-are-you-currently-listening-to/?do=findComment&comment=173017)
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30224-what-are-you-currently-listening-to/?do=findComment&comment=173016)
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30223-what-are-you-currently-listening-to/?do=findComment&comment=173015)
@@ -62,7 +63,6 @@
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30219-what-are-you-currently-listening-to/?do=findComment&comment=173011)
 - [What are you currently listening to?](https://forums.vatsim.net/topic/30218-what-are-you-currently-listening-to/?do=findComment&comment=173010)
 - [What are your currently listening to?](https://forums.vatsim.net/topic/30217-what-are-your-currently-listening-to/?do=findComment&comment=173009)
-- [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173008)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
