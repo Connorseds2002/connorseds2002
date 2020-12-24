@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173047)
 - [Virgin Virtual Joining the Shuttle Service](https://forums.vatsim.net/topic/30232-virgin-virtual-joining-the-shuttle-service/?do=findComment&comment=173046)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173045)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173044)
@@ -62,7 +63,6 @@
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173040)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173039)
 - [Dev Mode](https://forums.vatsim.net/topic/30229-dev-mode/?do=findComment&comment=173038)
-- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173037)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
