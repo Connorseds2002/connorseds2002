@@ -54,7 +54,7 @@
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173047)
-- [Virgin Virtual Joining the Shuttle Service](https://forums.vatsim.net/topic/30232-virgin-virtual-joining-the-shuttle-service/?do=findComment&comment=173046)
+- [Virgin Virtual Joining the Shuttle Service (28 Dec 2020)](https://forums.vatsim.net/topic/30232-virgin-virtual-joining-the-shuttle-service-28-dec-2020/?do=findComment&comment=173046)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173045)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173044)
 - [XPilot not recognizing X-Plane is running](https://forums.vatsim.net/topic/30231-xpilot-not-recognizing-x-plane-is-running/?do=findComment&comment=173043)
