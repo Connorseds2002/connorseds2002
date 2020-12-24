@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173065)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173064)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173063)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173062)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173061)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173060)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173059)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173058)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173057)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173056)
+- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173079)
+- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173078)
+- [[APPOINTMENT] Polish vACC Director](https://forums.vatsim.net/topic/30242-appointment-polish-vacc-director/?do=findComment&comment=173077)
+- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173076)
+- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173075)
+- [Merry Christmas](https://forums.vatsim.net/topic/30243-merry-christmas/?do=findComment&comment=173074)
+- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173073)
+- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173072)
+- [[APPOINTMENT] Polish vACC Director](https://forums.vatsim.net/topic/30242-appointment-polish-vacc-director/?do=findComment&comment=173071)
+- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173070)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
