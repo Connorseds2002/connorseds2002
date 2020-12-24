@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30238-era-alaska-virtual-group-flight/?do=findComment&comment=173053)
+- [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30237-era-alaska-virtual-group-flight/?do=findComment&comment=173052)
 - [AirweGOLD : Africa Tour](https://forums.vatsim.net/topic/30236-airwegold-africa-tour/?do=findComment&comment=173051)
 - [AirweGOLD : Africa Tour](https://forums.vatsim.net/topic/30235-airwegold-africa-tour/?do=findComment&comment=173050)
 - [AirweGOLD : Africa Tour](https://forums.vatsim.net/topic/30234-airwegold-africa-tour/?do=findComment&comment=173049)
@@ -61,8 +63,6 @@
 - [Virgin Virtual Joining the Shuttle Service (28 Dec 2020)](https://forums.vatsim.net/topic/30232-virgin-virtual-joining-the-shuttle-service-28-dec-2020/?do=findComment&comment=173046)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173045)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173044)
-- [XPilot not recognizing X-Plane is running](https://forums.vatsim.net/topic/30231-xpilot-not-recognizing-x-plane-is-running/?do=findComment&comment=173043)
-- [Dev Mode](https://forums.vatsim.net/topic/30229-dev-mode/?do=findComment&comment=173042)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
