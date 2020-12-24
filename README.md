@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173056)
+- [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30240-era-alaska-virtual-group-flight/?do=findComment&comment=173055)
+- [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30239-era-alaska-virtual-group-flight/?do=findComment&comment=173054)
 - [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30238-era-alaska-virtual-group-flight/?do=findComment&comment=173053)
 - [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30237-era-alaska-virtual-group-flight/?do=findComment&comment=173052)
 - [AirweGOLD : Africa Tour](https://forums.vatsim.net/topic/30236-airwegold-africa-tour/?do=findComment&comment=173051)
@@ -60,9 +63,6 @@
 - [AirweGOLD : Africa Tour](https://forums.vatsim.net/topic/30234-airwegold-africa-tour/?do=findComment&comment=173049)
 - [I cant unlink my discord account from the community hub](https://forums.vatsim.net/topic/30233-i-cant-unlink-my-discord-account-from-the-community-hub/?do=findComment&comment=173048)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/30230-accind1-director-india-vacc-appointed/?do=findComment&comment=173047)
-- [Virgin Virtual Joining the Shuttle Service (28 Dec 2020)](https://forums.vatsim.net/topic/30232-virgin-virtual-joining-the-shuttle-service-28-dec-2020/?do=findComment&comment=173046)
-- [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173045)
-- [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173044)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
