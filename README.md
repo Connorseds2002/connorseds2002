@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173096)
 - [Voice server disconnected multiple times today dec 24 2020 around 20h00z](https://forums.vatsim.net/topic/30247-voice-server-disconnected-multiple-times-today-dec-24-2020-around-20h00z/?do=findComment&comment=173095)
 - [Can You Fix My Vatsim Radar In My Aircraft?](https://forums.vatsim.net/topic/30245-can-you-fix-my-vatsim-radar-in-my-aircraft/?do=findComment&comment=173094)
 - [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=173093)
@@ -62,7 +63,6 @@
 - [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173088)
 - [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173087)
 - [[APPOINTMENT] Polish vACC Director](https://forums.vatsim.net/topic/30242-appointment-polish-vacc-director/?do=findComment&comment=173086)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173084)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
