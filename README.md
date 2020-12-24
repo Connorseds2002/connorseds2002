@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can You Fix My Vatsim Radar In My Aircraft?](https://forums.vatsim.net/topic/30246-can-you-fix-my-vatsim-radar-in-my-aircraft/?do=findComment&comment=173091)
+- [Can You Fix My Vatsim Radar In My Aircraft?](https://forums.vatsim.net/topic/30245-can-you-fix-my-vatsim-radar-in-my-aircraft/?do=findComment&comment=173090)
+- [vBaltic selection](https://forums.vatsim.net/topic/30244-vbaltic-selection/?do=findComment&comment=173089)
 - [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173088)
 - [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173087)
 - [[APPOINTMENT] Polish vACC Director](https://forums.vatsim.net/topic/30242-appointment-polish-vacc-director/?do=findComment&comment=173086)
@@ -60,9 +63,6 @@
 - [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173083)
 - [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173081)
 - [[APPOINTMENT] Polish vACC Director](https://forums.vatsim.net/topic/30242-appointment-polish-vacc-director/?do=findComment&comment=173080)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173079)
-- [Northern Cyprus ATC Coverage in VATSIM](https://forums.vatsim.net/topic/30241-northern-cyprus-atc-coverage-in-vatsim/?do=findComment&comment=173078)
-- [[APPOINTMENT] Polish vACC Director](https://forums.vatsim.net/topic/30242-appointment-polish-vacc-director/?do=findComment&comment=173077)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
