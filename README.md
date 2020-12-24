@@ -44,7 +44,7 @@
 - [1FEB21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1591-1feb21-milk-run-monday/)
 - [25JAN21 | Spilled Milk Run - Cairns & Darwin](https://forums.vatpac.org/calendar/event/1590-25jan21-spilled-milk-run-cairns-darwin/)
 - [25JAN21 | Spilled Milk Run - Cairns & Darwin](https://forums.vatpac.org/topic/18520-25jan21-spilled-milk-run-cairns-darwin/?do=findComment&comment=130527)
-- [Applications Open: Event Coordinator](https://forums.vatpac.org/topic/18519-applications-open-event-coordinator/?do=findComment&comment=130526)
+- [Applications Open: Events Coordinator](https://forums.vatpac.org/topic/18519-applications-open-events-coordinator/?do=findComment&comment=130526)
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=215&tab=comments)
 - [18JAN21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1589-18jan21-milk-run-monday/)
 - [11JAN21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1588-11jan21-milk-run-monday/)
