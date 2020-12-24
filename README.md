@@ -39,16 +39,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15FEB21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1593-15feb21-milk-run-monday/)
+- [8FEB21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1592-8feb21-milk-run-monday/)
+- [1FEB21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1591-1feb21-milk-run-monday/)
+- [25JAN21 | Spilled Milk Run - Cairns & Darwin](https://forums.vatpac.org/calendar/event/1590-25jan21-spilled-milk-run-cairns-darwin/)
+- [25JAN21 | Spilled Milk Run - Cairns & Darwin](https://forums.vatpac.org/topic/18520-25jan21-spilled-milk-run-cairns-darwin/?do=findComment&comment=130527)
+- [Applications Open: Event Coordinator](https://forums.vatpac.org/topic/18519-applications-open-event-coordinator/?do=findComment&comment=130526)
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=215&tab=comments)
 - [18JAN21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1589-18jan21-milk-run-monday/)
 - [11JAN21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1588-11jan21-milk-run-monday/)
 - [04JAN21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1587-04jan21-milk-run-monday/)
-- [Resignation: Russell Diehl (VFR Ops)](https://forums.vatpac.org/topic/18511-resignation-russell-diehl-vfr-ops/?do=findComment&comment=130508)
-- [TWR Controller - Flynn Starr](https://forums.vatpac.org/topic/18508-twr-controller-flynn-starr/?do=findComment&comment=130495)
-- [TWR Controller - Luke Withington](https://forums.vatpac.org/topic/18507-twr-controller-luke-withington/?do=findComment&comment=130494)
-- [20DEC20 | Real Ops Perth](https://forums.vatpac.org/calendar/event/1524-20dec20-real-ops-perth/?do=findComment&comment=214&tab=comments)
-- [24JAN21 | Snowies - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1586-24jan21-snowies-aerial-fire-suppression-exercise/)
-- [22JAN21 | Canberra - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1585-22jan21-canberra-aerial-fire-suppression-exercise/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
