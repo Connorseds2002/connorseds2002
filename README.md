@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173105)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173104)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173103)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173102)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173101)
 - [Unable to connect](https://forums.vatsim.net/topic/30250-unable-to-connect/?do=findComment&comment=173100)
@@ -60,9 +63,6 @@
 - [Cannot activate the gl rendering client" error](https://forums.vatsim.net/topic/30249-cannot-activate-the-gl-rendering-client-error/?do=findComment&comment=173098)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173097)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173096)
-- [Voice server disconnected multiple times today dec 24 2020 around 20h00z](https://forums.vatsim.net/topic/30247-voice-server-disconnected-multiple-times-today-dec-24-2020-around-20h00z/?do=findComment&comment=173095)
-- [Can You Fix My Vatsim Radar In My Aircraft?](https://forums.vatsim.net/topic/30245-can-you-fix-my-vatsim-radar-in-my-aircraft/?do=findComment&comment=173094)
-- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=173093)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
