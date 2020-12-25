@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cant connect with vPilot. Error: Invalid CID/password](https://forums.vatsim.net/topic/30256-cant-connect-with-vpilot-error-invalid-cidpassword/?do=findComment&comment=173125)
+- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30254-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=173124)
+- [Can You Fix My Vatsim Radar In My Aircraft?](https://forums.vatsim.net/topic/30245-can-you-fix-my-vatsim-radar-in-my-aircraft/?do=findComment&comment=173123)
+- [[ACCIND3] India vACC ATC Training Director VACANCY Announced](https://forums.vatsim.net/topic/30255-accind3-india-vacc-atc-training-director-vacancy-announced/?do=findComment&comment=173122)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173121)
+- [VAT-Spy version 1.1.0-beta.3 available for download](https://forums.vatsim.net/topic/29916-vat-spy-version-110-beta3-available-for-download/?do=findComment&comment=173120)
+- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30254-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=173119)
+- [When pressing &quot;Setup audio&quot; in XSquawkBox tab, X-plane crash](https://forums.vatsim.net/topic/18961-when-pressing-quotsetup-audioquot-in-xsquawkbox-tab-x-plane-crash/?do=findComment&comment=173118)
+- [VAT-Spy version 1.1.0-beta.3 available for download](https://forums.vatsim.net/topic/29916-vat-spy-version-110-beta3-available-for-download/?do=findComment&comment=173117)
 - [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30254-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=173116)
-- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30254-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=173115)
-- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30254-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=173114)
-- [[APPOINTMENT] Polish vACC Director](https://forums.vatsim.net/topic/30242-appointment-polish-vacc-director/?do=findComment&comment=173113)
-- [[APPOINTMENT] Polish vACC Director](https://forums.vatsim.net/topic/30242-appointment-polish-vacc-director/?do=findComment&comment=173112)
-- [[25th-Dec-13:00z-15:30z]On the Sledge with Santa](https://forums.vatsim.net/topic/30253-25th-dec-1300z-1530zon-the-sledge-with-santa/?do=findComment&comment=173111)
-- [[25th-Dec-13:00z-15:00z]On the Sledge with Santa](https://forums.vatsim.net/topic/30252-25th-dec-1300z-1500zon-the-sledge-with-santa/?do=findComment&comment=173110)
-- [[25th-Dec-13:00z-15:00z]On the Sledge with Santa](https://forums.vatsim.net/topic/30251-25th-dec-1300z-1500zon-the-sledge-with-santa/?do=findComment&comment=173109)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173108)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173107)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
