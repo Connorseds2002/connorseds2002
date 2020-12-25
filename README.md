@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30254-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=173116)
+- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30254-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=173115)
+- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30254-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=173114)
 - [[APPOINTMENT] Polish vACC Director](https://forums.vatsim.net/topic/30242-appointment-polish-vacc-director/?do=findComment&comment=173113)
 - [[APPOINTMENT] Polish vACC Director](https://forums.vatsim.net/topic/30242-appointment-polish-vacc-director/?do=findComment&comment=173112)
 - [[25th-Dec-13:00z-15:30z]On the Sledge with Santa](https://forums.vatsim.net/topic/30253-25th-dec-1300z-1530zon-the-sledge-with-santa/?do=findComment&comment=173111)
@@ -60,9 +63,6 @@
 - [[25th-Dec-13:00z-15:00z]On the Sledge with Santa](https://forums.vatsim.net/topic/30251-25th-dec-1300z-1500zon-the-sledge-with-santa/?do=findComment&comment=173109)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173108)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173107)
-- [[Preview] Vatsim Connect for Moodle](https://forums.vatsim.net/topic/29211-preview-vatsim-connect-for-moodle/?do=findComment&comment=173106)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173105)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173104)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
