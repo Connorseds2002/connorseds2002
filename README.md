@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I cant unlink my discord account from the community hub](https://forums.vatsim.net/topic/30233-i-cant-unlink-my-discord-account-from-the-community-hub/?do=findComment&comment=173140)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173139)
 - [Flying as observer](https://forums.vatsim.net/topic/30259-flying-as-observer/?do=findComment&comment=173138)
 - [Flying as observer](https://forums.vatsim.net/topic/30259-flying-as-observer/?do=findComment&comment=173137)
@@ -62,7 +63,6 @@
 - [Flying as observer](https://forums.vatsim.net/topic/30259-flying-as-observer/?do=findComment&comment=173133)
 - [I cant unlink my discord account from the community hub](https://forums.vatsim.net/topic/30233-i-cant-unlink-my-discord-account-from-the-community-hub/?do=findComment&comment=173132)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173131)
-- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30254-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=173129)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
