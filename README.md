@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Error connecting to voice server: Connect failed (Forbidden - ) <--- Why?](https://forums.vatsim.net/topic/30266-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=173172)
 - [Can You Fix My Vatsim Radar In My Aircraft?](https://forums.vatsim.net/topic/30245-can-you-fix-my-vatsim-radar-in-my-aircraft/?do=findComment&comment=173171)
 - [Error connecting to voice server: Connect failed (Forbidden - ) <--- Why?](https://forums.vatsim.net/topic/30266-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=173170)
 - [Event: SALAM NAMASTE](https://forums.vatsim.net/topic/30265-event-salam-namaste/?do=findComment&comment=173169)
@@ -62,7 +63,6 @@
 - [Still unable to log into VatSim](https://forums.vatsim.net/topic/30263-still-unable-to-log-into-vatsim/?do=findComment&comment=173165)
 - [Still unable to log into VatSim](https://forums.vatsim.net/topic/30263-still-unable-to-log-into-vatsim/?do=findComment&comment=173164)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173163)
-- [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=173162)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
