@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ANNOUNCEMENT] Nepal vACC Social Media](https://forums.vatsim.net/topic/30264-announcement-nepal-vacc-social-media/?do=findComment&comment=173166)
+- [Still unable to log into VatSim](https://forums.vatsim.net/topic/30263-still-unable-to-log-into-vatsim/?do=findComment&comment=173165)
+- [Still unable to log into VatSim](https://forums.vatsim.net/topic/30263-still-unable-to-log-into-vatsim/?do=findComment&comment=173164)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173163)
 - [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=173162)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173161)
@@ -60,9 +63,6 @@
 - [One position over 2 terminal area](https://forums.vatsim.net/topic/30262-one-position-over-2-terminal-area/?do=findComment&comment=173159)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173158)
 - [(ACCNPL2) Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30261-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=173157)
-- [Hear me even though I do not press PTT](https://forums.vatsim.net/topic/30260-hear-me-even-though-i-do-not-press-ptt/?do=findComment&comment=173156)
-- [(ACCNPL2) Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30261-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=173155)
-- [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173154)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
