@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Event: SALAM NAMASTE](https://forums.vatsim.net/topic/30265-event-salam-namaste/?do=findComment&comment=173169)
+- [Still unable to log into VatSim](https://forums.vatsim.net/topic/30263-still-unable-to-log-into-vatsim/?do=findComment&comment=173168)
 - [Still unable to log into VatSim](https://forums.vatsim.net/topic/30263-still-unable-to-log-into-vatsim/?do=findComment&comment=173167)
 - [[ANNOUNCEMENT] Nepal vACC Social Media](https://forums.vatsim.net/topic/30264-announcement-nepal-vacc-social-media/?do=findComment&comment=173166)
 - [Still unable to log into VatSim](https://forums.vatsim.net/topic/30263-still-unable-to-log-into-vatsim/?do=findComment&comment=173165)
@@ -61,8 +63,6 @@
 - [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=173162)
 - [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173161)
 - [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=173160)
-- [One position over 2 terminal area](https://forums.vatsim.net/topic/30262-one-position-over-2-terminal-area/?do=findComment&comment=173159)
-- [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173158)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
