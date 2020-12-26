@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173143)
+- [Cannot activate the gl rendering client" error](https://forums.vatsim.net/topic/30249-cannot-activate-the-gl-rendering-client-error/?do=findComment&comment=173142)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173141)
 - [I cant unlink my discord account from the community hub](https://forums.vatsim.net/topic/30233-i-cant-unlink-my-discord-account-from-the-community-hub/?do=findComment&comment=173140)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173139)
 - [Flying as observer](https://forums.vatsim.net/topic/30259-flying-as-observer/?do=findComment&comment=173138)
@@ -60,9 +63,6 @@
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173136)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173135)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173134)
-- [Flying as observer](https://forums.vatsim.net/topic/30259-flying-as-observer/?do=findComment&comment=173133)
-- [I cant unlink my discord account from the community hub](https://forums.vatsim.net/topic/30233-i-cant-unlink-my-discord-account-from-the-community-hub/?do=findComment&comment=173132)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173131)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
