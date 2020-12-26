@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Hear me even though I do not press PTT](https://forums.vatsim.net/topic/30260-hear-me-even-though-i-do-not-press-ptt/?do=findComment&comment=173153)
+- [Can You Fix My Vatsim Radar In My Aircraft?](https://forums.vatsim.net/topic/30245-can-you-fix-my-vatsim-radar-in-my-aircraft/?do=findComment&comment=173152)
 - [Hear me even though I do not press PTT](https://forums.vatsim.net/topic/30260-hear-me-even-though-i-do-not-press-ptt/?do=findComment&comment=173151)
 - [Hear me even though I do not press PTT](https://forums.vatsim.net/topic/30260-hear-me-even-though-i-do-not-press-ptt/?do=findComment&comment=173150)
 - [I cant unlink my discord account from the community hub](https://forums.vatsim.net/topic/30233-i-cant-unlink-my-discord-account-from-the-community-hub/?do=findComment&comment=173149)
@@ -61,8 +63,6 @@
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173146)
 - [Trouble Connecting to vPilot](https://forums.vatsim.net/topic/29831-trouble-connecting-to-vpilot/?do=findComment&comment=173145)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173144)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173143)
-- [Cannot activate the gl rendering client" error](https://forums.vatsim.net/topic/30249-cannot-activate-the-gl-rendering-client-error/?do=findComment&comment=173142)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
