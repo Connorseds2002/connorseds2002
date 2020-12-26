@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VATWA5] VATWA MEMBERSHIP DIRECTOR VACANCY](https://forums.vatsim.net/topic/29956-vatwa5-vatwa-membership-director-vacancy/?do=findComment&comment=173148)
+- [Hear me even though I do not press PTT](https://forums.vatsim.net/topic/30260-hear-me-even-though-i-do-not-press-ptt/?do=findComment&comment=173147)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173146)
 - [Trouble Connecting to vPilot](https://forums.vatsim.net/topic/29831-trouble-connecting-to-vpilot/?do=findComment&comment=173145)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173144)
@@ -61,8 +63,6 @@
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173141)
 - [I cant unlink my discord account from the community hub](https://forums.vatsim.net/topic/30233-i-cant-unlink-my-discord-account-from-the-community-hub/?do=findComment&comment=173140)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173139)
-- [Flying as observer](https://forums.vatsim.net/topic/30259-flying-as-observer/?do=findComment&comment=173138)
-- [Flying as observer](https://forums.vatsim.net/topic/30259-flying-as-observer/?do=findComment&comment=173137)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
