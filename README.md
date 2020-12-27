@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCIND6] India vACC Webmaster Vacancy Released](https://forums.vatsim.net/topic/30272-accind6-india-vacc-webmaster-vacancy-released/?do=findComment&comment=173189)
+- [(ACCNPL2) Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30261-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=173188)
 - [How do you tune radios in MSFS2020 quickly enough to not be a problem to ATC?](https://forums.vatsim.net/topic/30269-how-do-you-tune-radios-in-msfs2020-quickly-enough-to-not-be-a-problem-to-atc/?do=findComment&comment=173187)
 - [No ATC Night.](https://forums.vatsim.net/topic/30271-no-atc-night/?do=findComment&comment=173186)
 - [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173185)
@@ -61,8 +63,6 @@
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173182)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173181)
 - [How do you tune radios in MSFS2020 quickly enough to not be a problem to ATC?](https://forums.vatsim.net/topic/30269-how-do-you-tune-radios-in-msfs2020-quickly-enough-to-not-be-a-problem-to-atc/?do=findComment&comment=173180)
-- [Flight level between VHHH and ZGGG (CHINA)](https://forums.vatsim.net/topic/30030-flight-level-between-vhhh-and-zggg-china/?do=findComment&comment=173179)
-- [[23-JAN-21 0900Z-1800Z] The Venture | Milan - Hamad](https://forums.vatsim.net/topic/30268-23-jan-21-0900z-1800z-the-venture-milan-hamad/?do=findComment&comment=173178)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
