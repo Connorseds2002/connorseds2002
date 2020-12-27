@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173214)
+- [Audio Range](https://forums.vatsim.net/topic/28346-audio-range/?do=findComment&comment=173213)
+- [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173212)
+- [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=173211)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173210)
 - [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=173209)
 - [No ATC Night.](https://forums.vatsim.net/topic/30271-no-atc-night/?do=findComment&comment=173208)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173207)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173206)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173205)
-- [vERAM Zoom - Thank you.....](https://forums.vatsim.net/topic/30274-veram-zoom-thank-you/?do=findComment&comment=173204)
-- [No ATC Night.](https://forums.vatsim.net/topic/30271-no-atc-night/?do=findComment&comment=173203)
-- [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=173202)
-- [No ATC Night.](https://forums.vatsim.net/topic/30271-no-atc-night/?do=findComment&comment=173201)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
