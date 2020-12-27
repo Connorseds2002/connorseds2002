@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173185)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173184)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173183)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173182)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173181)
 - [How do you tune radios in MSFS2020 quickly enough to not be a problem to ATC?](https://forums.vatsim.net/topic/30269-how-do-you-tune-radios-in-msfs2020-quickly-enough-to-not-be-a-problem-to-atc/?do=findComment&comment=173180)
 - [Flight level between VHHH and ZGGG (CHINA)](https://forums.vatsim.net/topic/30030-flight-level-between-vhhh-and-zggg-china/?do=findComment&comment=173179)
 - [[23-JAN-21 0900Z-1800Z] The Venture | Milan - Hamad](https://forums.vatsim.net/topic/30268-23-jan-21-0900z-1800z-the-venture-milan-hamad/?do=findComment&comment=173178)
 - [Error connecting to voice server: Connect failed (Forbidden - ) <--- Why?](https://forums.vatsim.net/topic/30266-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=173177)
 - [[January 2th 18z-21z] Exploring Turkey: Antalya](https://forums.vatsim.net/topic/30267-january-2th-18z-21z-exploring-turkey-antalya/?do=findComment&comment=173176)
-- [Activesky Unable To Download VATSIM metars](https://forums.vatsim.net/topic/28610-activesky-unable-to-download-vatsim-metars/?do=findComment&comment=173175)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173174)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173173)
-- [Error connecting to voice server: Connect failed (Forbidden - ) <--- Why?](https://forums.vatsim.net/topic/30266-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=173172)
-- [Can You Fix My Vatsim Radar In My Aircraft?](https://forums.vatsim.net/topic/30245-can-you-fix-my-vatsim-radar-in-my-aircraft/?do=findComment&comment=173171)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
