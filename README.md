@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [30DEC20 World Discovery Canadian Great Lakes](https://forums.vatpac.org/calendar/event/1595-30dec20-world-discovery-canadian-great-lakes/)
 - [15JAN21 | QVirtual 10th Birthday Bash](https://forums.vatpac.org/calendar/event/1594-15jan21-qvirtual-10th-birthday-bash/)
 - [15JAN21 | QVirtual 10th Birthday Bash](https://forums.vatpac.org/topic/18524-15jan21-qvirtual-10th-birthday-bash/?do=findComment&comment=130537)
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=216&tab=comments)
@@ -48,7 +49,6 @@
 - [25JAN21 | Spilled Milk Run - Cairns & Darwin](https://forums.vatpac.org/calendar/event/1590-25jan21-spilled-milk-run-cairns-darwin/)
 - [25JAN21 | Spilled Milk Run - Cairns & Darwin](https://forums.vatpac.org/topic/18520-25jan21-spilled-milk-run-cairns-darwin/?do=findComment&comment=130527)
 - [Applications Open: Events Coordinator](https://forums.vatpac.org/topic/18519-applications-open-events-coordinator/?do=findComment&comment=130526)
-- [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=215&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
