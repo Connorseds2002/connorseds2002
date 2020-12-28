@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=173234)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173233)
 - [Any recommendations for an absolute new SimPilot on how to get started with VATSIM?](https://forums.vatsim.net/topic/30279-any-recommendations-for-an-absolute-new-simpilot-on-how-to-get-started-with-vatsim/?do=findComment&comment=173232)
 - [[January 2nd 18z-21z] Exploring Turkey: Antalya](https://forums.vatsim.net/topic/30267-january-2nd-18z-21z-exploring-turkey-antalya/?do=findComment&comment=173231)
@@ -62,7 +63,6 @@
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173227)
 - [Any recommendations for an absolute new SimPilot on how to get started with VATSIM?](https://forums.vatsim.net/topic/30279-any-recommendations-for-an-absolute-new-simpilot-on-how-to-get-started-with-vatsim/?do=findComment&comment=173225)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173224)
-- [[January 2nd 18z-21z] Exploring Turkey: Antalya](https://forums.vatsim.net/topic/30267-january-2nd-18z-21z-exploring-turkey-antalya/?do=findComment&comment=173223)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
