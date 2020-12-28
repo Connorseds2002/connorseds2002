@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173227)
 - [Why do some countries dominate IVAO, while others fly mainly on VATSIM?](https://forums.vatsim.net/topic/30280-why-do-some-countries-dominate-ivao-while-others-fly-mainly-on-vatsim/?do=findComment&comment=173226)
 - [Any recommendations for an absolute new SimPilot on how to get started with VATSIM?](https://forums.vatsim.net/topic/30279-any-recommendations-for-an-absolute-new-simpilot-on-how-to-get-started-with-vatsim/?do=findComment&comment=173225)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173224)
@@ -62,7 +63,6 @@
 - [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173220)
 - [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173219)
 - [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=173218)
-- [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=173217)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
