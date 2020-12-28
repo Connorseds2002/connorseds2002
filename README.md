@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Divisional Instructor] VATWA Divisional Instructor Vacancy Released](https://forums.vatsim.net/topic/30282-divisional-instructor-vatwa-divisional-instructor-vacancy-released/?do=findComment&comment=173237)
+- ["Escaping" spaces in alias file](https://forums.vatsim.net/topic/30281-escaping-spaces-in-alias-file/?do=findComment&comment=173236)
 - [No audio output, mic works.       MSFS2020](https://forums.vatsim.net/topic/30204-no-audio-output-mic-works-msfs2020/?do=findComment&comment=173235)
 - [Learning programming](https://forums.vatsim.net/topic/30161-learning-programming/?do=findComment&comment=173234)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173233)
@@ -61,8 +63,6 @@
 - [Can You Fix My Vatsim Radar In My Aircraft?](https://forums.vatsim.net/topic/30245-can-you-fix-my-vatsim-radar-in-my-aircraft/?do=findComment&comment=173230)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173229)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173228)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173227)
-- [Any recommendations for an absolute new SimPilot on how to get started with VATSIM?](https://forums.vatsim.net/topic/30279-any-recommendations-for-an-absolute-new-simpilot-on-how-to-get-started-with-vatsim/?do=findComment&comment=173225)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
