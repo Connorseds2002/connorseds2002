@@ -40,6 +40,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [13JAN21](https://forums.vatpac.org/calendar/event/1597-13jan21/)
+- [VATPAC Appoints New Directors](https://forums.vatpac.org/topic/18525-vatpac-appoints-new-directors/?do=findComment&comment=130540)
 - [06JAN21 World Discovery Canadian Great Lakes](https://forums.vatpac.org/calendar/event/1596-06jan21-world-discovery-canadian-great-lakes/)
 - [30DEC20 World Discovery Canadian Great Lakes](https://forums.vatpac.org/calendar/event/1595-30dec20-world-discovery-canadian-great-lakes/)
 - [15JAN21 | QVirtual 10th Birthday Bash](https://forums.vatpac.org/calendar/event/1594-15jan21-qvirtual-10th-birthday-bash/)
@@ -48,7 +49,6 @@
 - [15FEB21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1593-15feb21-milk-run-monday/)
 - [8FEB21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1592-8feb21-milk-run-monday/)
 - [1FEB21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1591-1feb21-milk-run-monday/)
-- [25JAN21 | Spilled Milk Run - Cairns & Darwin](https://forums.vatpac.org/calendar/event/1590-25jan21-spilled-milk-run-cairns-darwin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
