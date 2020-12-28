@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can You Fix My Vatsim Radar In My Aircraft?](https://forums.vatsim.net/topic/30245-can-you-fix-my-vatsim-radar-in-my-aircraft/?do=findComment&comment=173230)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173229)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173228)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173227)
@@ -62,7 +63,6 @@
 - [[23-JAN-21 0900Z-1800Z] The Venture | Milan - Hamad](https://forums.vatsim.net/topic/30268-23-jan-21-0900z-1800z-the-venture-milan-hamad/?do=findComment&comment=173222)
 - [(ACCNPL2) Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30261-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=173221)
 - [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173220)
-- [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173219)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
