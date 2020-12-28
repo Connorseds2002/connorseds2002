@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173220)
+- [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173219)
 - [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=173218)
 - [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=173217)
 - [VatsimPHP updated to support new data feed JSON v3](https://forums.vatsim.net/topic/30278-vatsimphp-updated-to-support-new-data-feed-json-v3/?do=findComment&comment=173216)
@@ -61,8 +63,6 @@
 - [Audio Range](https://forums.vatsim.net/topic/28346-audio-range/?do=findComment&comment=173213)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173212)
 - [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=173211)
-- [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173210)
-- [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=173209)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
