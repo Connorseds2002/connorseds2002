@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [(ACCNPL2) Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30261-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=173221)
 - [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173220)
 - [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173219)
 - [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=173218)
@@ -62,7 +63,6 @@
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173214)
 - [Audio Range](https://forums.vatsim.net/topic/28346-audio-range/?do=findComment&comment=173213)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=173212)
-- [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=173211)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
