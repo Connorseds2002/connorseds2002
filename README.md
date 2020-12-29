@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173260)
 - [Turkish vACC - TRvACC Seeking Web services Director](https://forums.vatsim.net/topic/30289-turkish-vacc-trvacc-seeking-web-services-director/?do=findComment&comment=173259)
 - [Turkish vACC - TRvACC Seeking Web Services Director](https://forums.vatsim.net/topic/30288-turkish-vacc-trvacc-seeking-web-services-director/?do=findComment&comment=173258)
 - [Newbie questions](https://forums.vatsim.net/topic/30286-newbie-questions/?do=findComment&comment=173257)
@@ -62,7 +63,6 @@
 - [Newbie questions](https://forums.vatsim.net/topic/30286-newbie-questions/?do=findComment&comment=173253)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173252)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173251)
-- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173250)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
