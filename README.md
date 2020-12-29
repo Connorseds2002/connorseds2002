@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173269)
+- [Any recommendations for an absolute new SimPilot on how to get started with VATSIM?](https://forums.vatsim.net/topic/30279-any-recommendations-for-an-absolute-new-simpilot-on-how-to-get-started-with-vatsim/?do=findComment&comment=173268)
+- [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=173267)
+- [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=173266)
+- [CSL used by vPilot](https://forums.vatsim.net/topic/30290-csl-used-by-vpilot/?do=findComment&comment=173265)
+- [No audio output, mic works.       MSFS2020](https://forums.vatsim.net/topic/30204-no-audio-output-mic-works-msfs2020/?do=findComment&comment=173264)
 - [CSL used by vPilot](https://forums.vatsim.net/topic/30290-csl-used-by-vpilot/?do=findComment&comment=173263)
 - [[VATWA3] Director Training ATC VATWA Appointed](https://forums.vatsim.net/topic/30185-vatwa3-director-training-atc-vatwa-appointed/?do=findComment&comment=173262)
 - [CSL used by vPilot](https://forums.vatsim.net/topic/30290-csl-used-by-vpilot/?do=findComment&comment=173261)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173260)
-- [Turkish vACC - TRvACC Seeking Web services Director](https://forums.vatsim.net/topic/30289-turkish-vacc-trvacc-seeking-web-services-director/?do=findComment&comment=173259)
-- [Turkish vACC - TRvACC Seeking Web Services Director](https://forums.vatsim.net/topic/30288-turkish-vacc-trvacc-seeking-web-services-director/?do=findComment&comment=173258)
-- [Newbie questions](https://forums.vatsim.net/topic/30286-newbie-questions/?do=findComment&comment=173257)
-- [This will keep us going!!](https://forums.vatsim.net/topic/30287-this-will-keep-us-going/?do=findComment&comment=173256)
-- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173255)
-- [Newbie questions](https://forums.vatsim.net/topic/30286-newbie-questions/?do=findComment&comment=173254)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
