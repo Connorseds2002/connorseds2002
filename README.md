@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Newbie questions](https://forums.vatsim.net/topic/30286-newbie-questions/?do=findComment&comment=173257)
+- [This will keep us going!!](https://forums.vatsim.net/topic/30287-this-will-keep-us-going/?do=findComment&comment=173256)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173255)
 - [Newbie questions](https://forums.vatsim.net/topic/30286-newbie-questions/?do=findComment&comment=173254)
 - [Newbie questions](https://forums.vatsim.net/topic/30286-newbie-questions/?do=findComment&comment=173253)
@@ -61,8 +63,6 @@
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173250)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173249)
 - [XPilot not recognizing X-Plane is running](https://forums.vatsim.net/topic/30231-xpilot-not-recognizing-x-plane-is-running/?do=findComment&comment=173248)
-- [Forcibly disconnetcted from the network](https://forums.vatsim.net/topic/30285-forcibly-disconnetcted-from-the-network/?do=findComment&comment=173247)
-- ["Escaping" spaces in alias file](https://forums.vatsim.net/topic/30281-escaping-spaces-in-alias-file/?do=findComment&comment=173246)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
