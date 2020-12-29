@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [unable to hear ATC](https://forums.vatsim.net/topic/30293-unable-to-hear-atc/?do=findComment&comment=173289)
+- [[ATC Examination] S2 CPT VNKT_TWR - 01/01/2021 12:00z-1400Z](https://forums.vatsim.net/topic/30296-atc-examination-s2-cpt-vnkt_twr-01012021-1200z-1400z/?do=findComment&comment=173288)
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173287)
 - [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=173286)
 - [Audio Range](https://forums.vatsim.net/topic/28346-audio-range/?do=findComment&comment=173285)
 - [unable to hear ATC](https://forums.vatsim.net/topic/30293-unable-to-hear-atc/?do=findComment&comment=173284)
@@ -60,9 +63,6 @@
 - [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=173282)
 - [double planes](https://forums.vatsim.net/topic/30295-double-planes/?do=findComment&comment=173281)
 - [double planes](https://forums.vatsim.net/topic/30295-double-planes/?do=findComment&comment=173280)
-- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173279)
-- [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=173278)
-- [CSL used by vPilot](https://forums.vatsim.net/topic/30290-csl-used-by-vpilot/?do=findComment&comment=173277)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
