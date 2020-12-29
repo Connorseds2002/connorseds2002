@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173252)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173251)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173250)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173249)
@@ -62,7 +63,6 @@
 - [ATIS help](https://forums.vatsim.net/topic/30197-atis-help/?do=findComment&comment=173245)
 - [How do you tune radios in MSFS2020 quickly enough to not be a problem to ATC?](https://forums.vatsim.net/topic/30269-how-do-you-tune-radios-in-msfs2020-quickly-enough-to-not-be-a-problem-to-atc/?do=findComment&comment=173244)
 - [How do you tune radios in MSFS2020 quickly enough to not be a problem to ATC?](https://forums.vatsim.net/topic/30269-how-do-you-tune-radios-in-msfs2020-quickly-enough-to-not-be-a-problem-to-atc/?do=findComment&comment=173243)
-- [Any recommendations for an absolute new SimPilot on how to get started with VATSIM?](https://forums.vatsim.net/topic/30279-any-recommendations-for-an-absolute-new-simpilot-on-how-to-get-started-with-vatsim/?do=findComment&comment=173242)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
