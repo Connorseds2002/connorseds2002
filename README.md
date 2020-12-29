@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=173286)
+- [Audio Range](https://forums.vatsim.net/topic/28346-audio-range/?do=findComment&comment=173285)
+- [unable to hear ATC](https://forums.vatsim.net/topic/30293-unable-to-hear-atc/?do=findComment&comment=173284)
+- [ATIS help](https://forums.vatsim.net/topic/30197-atis-help/?do=findComment&comment=173283)
 - [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=173282)
 - [double planes](https://forums.vatsim.net/topic/30295-double-planes/?do=findComment&comment=173281)
 - [double planes](https://forums.vatsim.net/topic/30295-double-planes/?do=findComment&comment=173280)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173279)
 - [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=173278)
 - [CSL used by vPilot](https://forums.vatsim.net/topic/30290-csl-used-by-vpilot/?do=findComment&comment=173277)
-- [double planes](https://forums.vatsim.net/topic/30295-double-planes/?do=findComment&comment=173276)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173275)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173274)
-- [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=173273)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
