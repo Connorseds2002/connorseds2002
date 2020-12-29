@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Newbie questions](https://forums.vatsim.net/topic/30286-newbie-questions/?do=findComment&comment=173253)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173252)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173251)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173250)
@@ -62,7 +63,6 @@
 - ["Escaping" spaces in alias file](https://forums.vatsim.net/topic/30281-escaping-spaces-in-alias-file/?do=findComment&comment=173246)
 - [ATIS help](https://forums.vatsim.net/topic/30197-atis-help/?do=findComment&comment=173245)
 - [How do you tune radios in MSFS2020 quickly enough to not be a problem to ATC?](https://forums.vatsim.net/topic/30269-how-do-you-tune-radios-in-msfs2020-quickly-enough-to-not-be-a-problem-to-atc/?do=findComment&comment=173244)
-- [How do you tune radios in MSFS2020 quickly enough to not be a problem to ATC?](https://forums.vatsim.net/topic/30269-how-do-you-tune-radios-in-msfs2020-quickly-enough-to-not-be-a-problem-to-atc/?do=findComment&comment=173243)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
