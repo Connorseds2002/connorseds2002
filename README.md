@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=173282)
+- [double planes](https://forums.vatsim.net/topic/30295-double-planes/?do=findComment&comment=173281)
+- [double planes](https://forums.vatsim.net/topic/30295-double-planes/?do=findComment&comment=173280)
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173279)
+- [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=173278)
+- [CSL used by vPilot](https://forums.vatsim.net/topic/30290-csl-used-by-vpilot/?do=findComment&comment=173277)
 - [double planes](https://forums.vatsim.net/topic/30295-double-planes/?do=findComment&comment=173276)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173275)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173274)
 - [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=173273)
-- [unable to hear ATC](https://forums.vatsim.net/topic/30293-unable-to-hear-atc/?do=findComment&comment=173272)
-- [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=173271)
-- [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=173270)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173269)
-- [Any recommendations for an absolute new SimPilot on how to get started with VATSIM?](https://forums.vatsim.net/topic/30279-any-recommendations-for-an-absolute-new-simpilot-on-how-to-get-started-with-vatsim/?do=findComment&comment=173268)
-- [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=173267)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
