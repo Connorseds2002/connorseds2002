@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173251)
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173250)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=173249)
 - [XPilot not recognizing X-Plane is running](https://forums.vatsim.net/topic/30231-xpilot-not-recognizing-x-plane-is-running/?do=findComment&comment=173248)
 - [Forcibly disconnetcted from the network](https://forums.vatsim.net/topic/30285-forcibly-disconnetcted-from-the-network/?do=findComment&comment=173247)
@@ -61,8 +63,6 @@
 - [How do you tune radios in MSFS2020 quickly enough to not be a problem to ATC?](https://forums.vatsim.net/topic/30269-how-do-you-tune-radios-in-msfs2020-quickly-enough-to-not-be-a-problem-to-atc/?do=findComment&comment=173244)
 - [How do you tune radios in MSFS2020 quickly enough to not be a problem to ATC?](https://forums.vatsim.net/topic/30269-how-do-you-tune-radios-in-msfs2020-quickly-enough-to-not-be-a-problem-to-atc/?do=findComment&comment=173243)
 - [Any recommendations for an absolute new SimPilot on how to get started with VATSIM?](https://forums.vatsim.net/topic/30279-any-recommendations-for-an-absolute-new-simpilot-on-how-to-get-started-with-vatsim/?do=findComment&comment=173242)
-- [Sweatbox](https://forums.vatsim.net/topic/30283-sweatbox/?do=findComment&comment=173241)
-- [account inactive](https://forums.vatsim.net/topic/30284-account-inactive/?do=findComment&comment=173240)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
