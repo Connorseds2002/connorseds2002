@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173300)
+- [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=173299)
+- [All other sounds become very quiet](https://forums.vatsim.net/topic/29994-all-other-sounds-become-very-quiet/?do=findComment&comment=173298)
+- [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=173297)
+- [Pilot Hours not updating](https://forums.vatsim.net/topic/30297-pilot-hours-not-updating/?do=findComment&comment=173296)
 - [Pilot Hours not updating](https://forums.vatsim.net/topic/30297-pilot-hours-not-updating/?do=findComment&comment=173295)
 - [Forcibly disconnetcted from the network](https://forums.vatsim.net/topic/30285-forcibly-disconnetcted-from-the-network/?do=findComment&comment=173294)
 - [Forcibly disconnetcted from the network](https://forums.vatsim.net/topic/30285-forcibly-disconnetcted-from-the-network/?do=findComment&comment=173293)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173292)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173291)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173290)
-- [unable to hear ATC](https://forums.vatsim.net/topic/30293-unable-to-hear-atc/?do=findComment&comment=173289)
-- [[ATC Examination] S2 CPT VNKT_TWR - 01/01/2021 12:00z-1400Z](https://forums.vatsim.net/topic/30296-atc-examination-s2-cpt-vnkt_twr-01012021-1200z-1400z/?do=findComment&comment=173288)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173287)
-- [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=173286)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
