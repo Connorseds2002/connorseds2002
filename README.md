@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Welcome to VATSIM! Remember, you must complete the New Member Orientation process before being able to connect to the network. Please proceed to the New Member Orientation Course section to learn the basics about VATSIM.](https://forums.vatsim.net/topic/30299-welcome-to-vatsim-remember-you-must-complete-the-new-member-orientation-process-before-being-able-to-connect-to-the-network-please-proceed-to-the-new-member-orientation-course-section-to-learn-the-basics-about-vatsim/?do=findComment&comment=173318)
+- [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=173314)
+- [Welcome to VATSIM! Remember, you must complete the New Member Orientation process before being able to connect to the network. Please proceed to the New Member Orientation Course section to learn the basics about VATSIM.](https://forums.vatsim.net/topic/30299-welcome-to-vatsim-remember-you-must-complete-the-new-member-orientation-process-before-being-able-to-connect-to-the-network-please-proceed-to-the-new-member-orientation-course-section-to-learn-the-basics-about-vatsim/?do=findComment&comment=173312)
+- [Welcome to VATSIM! Remember, you must complete the New Member Orientation process before being able to connect to the network. Please proceed to the New Member Orientation Course section to learn the basics about VATSIM.](https://forums.vatsim.net/topic/30299-welcome-to-vatsim-remember-you-must-complete-the-new-member-orientation-process-before-being-able-to-connect-to-the-network-please-proceed-to-the-new-member-orientation-course-section-to-learn-the-basics-about-vatsim/?do=findComment&comment=173311)
+- [Issues with Connection - Invalid CID/password](https://forums.vatsim.net/topic/30087-issues-with-connection-invalid-cidpassword/?do=findComment&comment=173310)
 - [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=173309)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173308)
 - [Backtracking ATC procedure?](https://forums.vatsim.net/topic/30298-backtracking-atc-procedure/?do=findComment&comment=173307)
 - [Backtracking ATC procedure?](https://forums.vatsim.net/topic/30298-backtracking-atc-procedure/?do=findComment&comment=173306)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173305)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173304)
-- [(ACCNPL2) Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30261-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=173303)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173302)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173301)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173300)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
