@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173305)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173304)
 - [(ACCNPL2) Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/30261-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=173303)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173302)
@@ -62,7 +63,6 @@
 - [All other sounds become very quiet](https://forums.vatsim.net/topic/29994-all-other-sounds-become-very-quiet/?do=findComment&comment=173298)
 - [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=173297)
 - [Pilot Hours not updating](https://forums.vatsim.net/topic/30297-pilot-hours-not-updating/?do=findComment&comment=173296)
-- [Pilot Hours not updating](https://forums.vatsim.net/topic/30297-pilot-hours-not-updating/?do=findComment&comment=173295)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
