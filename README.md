@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [06OCT | James Hennell](https://forums.vatpac.org/topic/18350-06oct-james-hennell/?do=findComment&comment=130554)
 - [13JAN21](https://forums.vatpac.org/calendar/event/1597-13jan21/)
 - [VATPAC Appoints New Directors](https://forums.vatpac.org/topic/18525-vatpac-appoints-new-directors/?do=findComment&comment=130540)
 - [06JAN21 World Discovery Canadian Great Lakes](https://forums.vatpac.org/calendar/event/1596-06jan21-world-discovery-canadian-great-lakes/)
@@ -48,7 +49,6 @@
 - [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=216&tab=comments)
 - [15FEB21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1593-15feb21-milk-run-monday/)
 - [8FEB21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1592-8feb21-milk-run-monday/)
-- [1FEB21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1591-1feb21-milk-run-monday/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
