@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [06OCT | James Hennell](https://forums.vatpac.org/topic/18350-06oct-james-hennell/?do=findComment&comment=130562)
 - [06OCT | James Hennell](https://forums.vatpac.org/topic/18350-06oct-james-hennell/?do=findComment&comment=130558)
 - [AIRAC 2014](https://forums.vatpac.org/topic/18529-airac-2014/?do=findComment&comment=130555)
 - [06OCT | James Hennell](https://forums.vatpac.org/topic/18350-06oct-james-hennell/?do=findComment&comment=130554)
@@ -48,7 +49,6 @@
 - [30DEC20 World Discovery Canadian Great Lakes](https://forums.vatpac.org/calendar/event/1595-30dec20-world-discovery-canadian-great-lakes/)
 - [15JAN21 | QVirtual 10th Birthday Bash](https://forums.vatpac.org/calendar/event/1594-15jan21-qvirtual-10th-birthday-bash/)
 - [15JAN21 | QVirtual 10th Birthday Bash](https://forums.vatpac.org/topic/18524-15jan21-qvirtual-10th-birthday-bash/?do=findComment&comment=130537)
-- [28DEC20 | Spilled Milk Run - Adelaide & Canberra](https://forums.vatpac.org/calendar/event/1584-28dec20-spilled-milk-run-adelaide-canberra/?do=findComment&comment=216&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
