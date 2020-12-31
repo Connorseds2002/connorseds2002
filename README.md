@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[FEAT REQ] Dark Mode](https://forums.vatsim.net/topic/30301-feat-req-dark-mode/?do=findComment&comment=173328)
 - [[FEAT REQ] Dark Mode](https://forums.vatsim.net/topic/30301-feat-req-dark-mode/?do=findComment&comment=173327)
 - [Backtracking ATC procedure?](https://forums.vatsim.net/topic/30298-backtracking-atc-procedure/?do=findComment&comment=173326)
 - [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173325)
@@ -62,7 +63,6 @@
 - [Noticed massive Frame drop with VPILOT and FLAI in P3DV5](https://forums.vatsim.net/topic/30300-noticed-massive-frame-drop-with-vpilot-and-flai-in-p3dv5/?do=findComment&comment=173321)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173320)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173319)
-- [Welcome to VATSIM! Remember, you must complete the New Member Orientation process before being able to connect to the network. Please proceed to the New Member Orientation Course section to learn the basics about VATSIM.](https://forums.vatsim.net/topic/30299-welcome-to-vatsim-remember-you-must-complete-the-new-member-orientation-process-before-being-able-to-connect-to-the-network-please-proceed-to-the-new-member-orientation-course-section-to-learn-the-basics-about-vatsim/?do=findComment&comment=173318)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
