@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=173353)
+- [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=173352)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=173351)
 - [Lost audio](https://forums.vatsim.net/topic/28394-lost-audio/?do=findComment&comment=173350)
 - [N313GM](https://forums.vatsim.net/topic/30309-n313gm/?do=findComment&comment=173349)
@@ -61,8 +63,6 @@
 - [Noticed massive Frame drop with VPILOT and FLAI in P3DV5](https://forums.vatsim.net/topic/30300-noticed-massive-frame-drop-with-vpilot-and-flai-in-p3dv5/?do=findComment&comment=173346)
 - [Backtracking ATC procedure?](https://forums.vatsim.net/topic/30298-backtracking-atc-procedure/?do=findComment&comment=173345)
 - [No ATC Night.](https://forums.vatsim.net/topic/30271-no-atc-night/?do=findComment&comment=173344)
-- [737-800 Cargo Model Selection](https://forums.vatsim.net/topic/30305-737-800-cargo-model-selection/?do=findComment&comment=173343)
-- [737-800 Cargo Model Selection](https://forums.vatsim.net/topic/30305-737-800-cargo-model-selection/?do=findComment&comment=173342)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
