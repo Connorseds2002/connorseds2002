@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 2nd 1200z-1430z] Bangkok fully staffed](https://forums.vatsim.net/topic/30303-january-2nd-1200z-1430z-bangkok-fully-staffed/?do=findComment&comment=173333)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30302-invalid-cidpassword/?do=findComment&comment=173332)
 - [No ATC Night.](https://forums.vatsim.net/topic/30271-no-atc-night/?do=findComment&comment=173331)
 - [No ATC Night.](https://forums.vatsim.net/topic/30271-no-atc-night/?do=findComment&comment=173330)
@@ -62,7 +63,6 @@
 - [Backtracking ATC procedure?](https://forums.vatsim.net/topic/30298-backtracking-atc-procedure/?do=findComment&comment=173326)
 - [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173325)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173324)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173323)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
