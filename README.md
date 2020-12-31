@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [737-800 Cargo Model Selection](https://forums.vatsim.net/topic/30305-737-800-cargo-model-selection/?do=findComment&comment=173343)
+- [737-800 Cargo Model Selection](https://forums.vatsim.net/topic/30305-737-800-cargo-model-selection/?do=findComment&comment=173342)
 - [Account got suspended, Don't know why.](https://forums.vatsim.net/topic/30306-account-got-suspended-dont-know-why/?do=findComment&comment=173341)
 - [Receive audio stops](https://forums.vatsim.net/topic/30307-receive-audio-stops/?do=findComment&comment=173340)
 - [Account got suspended, Don't know why.](https://forums.vatsim.net/topic/30306-account-got-suspended-dont-know-why/?do=findComment&comment=173339)
@@ -61,8 +63,6 @@
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30302-invalid-cidpassword/?do=findComment&comment=173336)
 - [Season Greetings! Happy New Year!](https://forums.vatsim.net/topic/30304-season-greetings-happy-new-year/?do=findComment&comment=173335)
 - [No ATC Night.](https://forums.vatsim.net/topic/30271-no-atc-night/?do=findComment&comment=173334)
-- [[January 2nd 1200z-1430z] Bangkok fully staffed](https://forums.vatsim.net/topic/30303-january-2nd-1200z-1430z-bangkok-fully-staffed/?do=findComment&comment=173333)
-- [Invalid CID/Password](https://forums.vatsim.net/topic/30302-invalid-cidpassword/?do=findComment&comment=173332)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
