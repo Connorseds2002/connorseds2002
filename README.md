@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Trying to reach Nestor Perez on email](https://forums.vatsim.net/topic/30315-trying-to-reach-nestor-perez-on-email/?do=findComment&comment=173376)
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173375)
+- [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=173374)
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173373)
 - [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=173372)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173371)
 - [[January 2nd 1200z-1430z] Bangkok fully staffed](https://forums.vatsim.net/topic/30303-january-2nd-1200z-1430z-bangkok-fully-staffed/?do=findComment&comment=173370)
 - [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173369)
 - [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173368)
 - [All other sounds become very quiet](https://forums.vatsim.net/topic/29994-all-other-sounds-become-very-quiet/?do=findComment&comment=173367)
-- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173366)
-- [Lost audio](https://forums.vatsim.net/topic/28394-lost-audio/?do=findComment&comment=173365)
-- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173364)
-- [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=173363)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
