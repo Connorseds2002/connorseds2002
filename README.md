@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173362)
 - [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173361)
 - [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173360)
 - [VatsimPHP updated to support new data feed JSON v3](https://forums.vatsim.net/topic/30278-vatsimphp-updated-to-support-new-data-feed-json-v3/?do=findComment&comment=173359)
@@ -62,7 +63,6 @@
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173355)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173354)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=173353)
-- [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=173352)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
