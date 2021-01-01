@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VatsimPHP updated to support new data feed JSON v3](https://forums.vatsim.net/topic/30278-vatsimphp-updated-to-support-new-data-feed-json-v3/?do=findComment&comment=173359)
+- [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173358)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173357)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173356)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173355)
@@ -61,8 +63,6 @@
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=173352)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=173351)
 - [Lost audio](https://forums.vatsim.net/topic/28394-lost-audio/?do=findComment&comment=173350)
-- [N313GM](https://forums.vatsim.net/topic/30309-n313gm/?do=findComment&comment=173349)
-- [Backtracking ATC procedure?](https://forums.vatsim.net/topic/30298-backtracking-atc-procedure/?do=findComment&comment=173348)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
