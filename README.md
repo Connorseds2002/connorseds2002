@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ATC Examination] S2 CPT VNKT_TWR - 01/01/2021 12:00z-1400Z](https://forums.vatsim.net/topic/30296-atc-examination-s2-cpt-vnkt_twr-01012021-1200z-1400z/?do=findComment&comment=173379)
+- [Trying to reach Nestor Perez on email](https://forums.vatsim.net/topic/30315-trying-to-reach-nestor-perez-on-email/?do=findComment&comment=173378)
+- [[ATC Examination] S2 CPT VNKT_TWR - 01/01/2021 12:00z-1400Z](https://forums.vatsim.net/topic/30296-atc-examination-s2-cpt-vnkt_twr-01012021-1200z-1400z/?do=findComment&comment=173377)
 - [Trying to reach Nestor Perez on email](https://forums.vatsim.net/topic/30315-trying-to-reach-nestor-perez-on-email/?do=findComment&comment=173376)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173375)
 - [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=173374)
@@ -60,9 +63,6 @@
 - [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=173372)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173371)
 - [[January 2nd 1200z-1430z] Bangkok fully staffed](https://forums.vatsim.net/topic/30303-january-2nd-1200z-1430z-bangkok-fully-staffed/?do=findComment&comment=173370)
-- [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173369)
-- [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173368)
-- [All other sounds become very quiet](https://forums.vatsim.net/topic/29994-all-other-sounds-become-very-quiet/?do=findComment&comment=173367)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
