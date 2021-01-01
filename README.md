@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173369)
+- [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173368)
+- [All other sounds become very quiet](https://forums.vatsim.net/topic/29994-all-other-sounds-become-very-quiet/?do=findComment&comment=173367)
+- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173366)
 - [Lost audio](https://forums.vatsim.net/topic/28394-lost-audio/?do=findComment&comment=173365)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173364)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=173363)
 - [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173362)
 - [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173361)
 - [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173360)
-- [VatsimPHP updated to support new data feed JSON v3](https://forums.vatsim.net/topic/30278-vatsimphp-updated-to-support-new-data-feed-json-v3/?do=findComment&comment=173359)
-- [4th Line Free Form Text & Scratch data overwrite each other](https://forums.vatsim.net/topic/30227-4th-line-free-form-text-scratch-data-overwrite-each-other/?do=findComment&comment=173358)
-- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173357)
-- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173356)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
