@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 2nd 1200z-1430z] Bangkok fully staffed](https://forums.vatsim.net/topic/30303-january-2nd-1200z-1430z-bangkok-fully-staffed/?do=findComment&comment=173370)
 - [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173369)
 - [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173368)
 - [All other sounds become very quiet](https://forums.vatsim.net/topic/29994-all-other-sounds-become-very-quiet/?do=findComment&comment=173367)
@@ -62,7 +63,6 @@
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=173363)
 - [Hot Load Changes / Local Sweatbox](https://forums.vatsim.net/topic/30313-hot-load-changes-local-sweatbox/?do=findComment&comment=173362)
 - [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173361)
-- [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173360)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
