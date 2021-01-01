@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flygsm Virtual | Scotland’s Low Cost Virtual Airline](https://forums.vatsim.net/topic/30317-flygsm-virtual-scotland%E2%80%99s-low-cost-virtual-airline/?do=findComment&comment=173389)
 - [Backtracking ATC procedure?](https://forums.vatsim.net/topic/30298-backtracking-atc-procedure/?do=findComment&comment=173388)
 - [Vpilot im FSX Hauptmenu](https://forums.vatsim.net/topic/30316-vpilot-im-fsx-hauptmenu/?do=findComment&comment=173387)
 - [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173386)
@@ -62,7 +63,6 @@
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173382)
 - [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173381)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173380)
-- [[ATC Examination] S2 CPT VNKT_TWR - 01/01/2021 12:00z-1400Z](https://forums.vatsim.net/topic/30296-atc-examination-s2-cpt-vnkt_twr-01012021-1200z-1400z/?do=findComment&comment=173379)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
