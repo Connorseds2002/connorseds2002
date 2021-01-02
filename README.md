@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Maps Menu Feature Request](https://forums.vatsim.net/topic/30323-maps-menu-feature-request/?do=findComment&comment=173413)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173411)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173410)
 - [not able to speak](https://forums.vatsim.net/topic/30321-not-able-to-speak/?do=findComment&comment=173409)
@@ -62,7 +63,6 @@
 - [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=173405)
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173404)
 - [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173403)
-- [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=173402)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
