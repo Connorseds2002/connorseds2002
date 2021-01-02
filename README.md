@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=173393)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=173392)
 - [New Years Message from VATSIM](https://forums.vatsim.net/topic/30319-new-years-message-from-vatsim/?do=findComment&comment=173391)
 - [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=173390)
@@ -62,7 +63,6 @@
 - [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173386)
 - [Vpilot im FSX Hauptmenu](https://forums.vatsim.net/topic/30316-vpilot-im-fsx-hauptmenu/?do=findComment&comment=173385)
 - [Noticed massive Frame drop with VPILOT and FLAI in P3DV5](https://forums.vatsim.net/topic/30300-noticed-massive-frame-drop-with-vpilot-and-flai-in-p3dv5/?do=findComment&comment=173384)
-- [All other sounds become very quiet](https://forums.vatsim.net/topic/29994-all-other-sounds-become-very-quiet/?do=findComment&comment=173383)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
