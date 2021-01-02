@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173417)
+- [[January 9th 13:00-19:00 UTC] Tel Aviv - Zagreb Visit](https://forums.vatsim.net/topic/30325-january-9th-1300-1900-utc-tel-aviv-zagreb-visit/?do=findComment&comment=173416)
+- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173415)
+- [[8th Jan. 2021, 1300-1600Z] Taipei FIR Fly-in](https://forums.vatsim.net/topic/30324-8th-jan-2021-1300-1600z-taipei-fir-fly-in/?do=findComment&comment=173414)
 - [Maps Menu Feature Request](https://forums.vatsim.net/topic/30323-maps-menu-feature-request/?do=findComment&comment=173413)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173411)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173410)
 - [not able to speak](https://forums.vatsim.net/topic/30321-not-able-to-speak/?do=findComment&comment=173409)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173408)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173407)
-- [[VACANCY] VATSIM Middle East & North Africa - Operations Director](https://forums.vatsim.net/topic/30063-vacancy-vatsim-middle-east-north-africa-operations-director/?do=findComment&comment=173406)
-- [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=173405)
-- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173404)
-- [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173403)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
