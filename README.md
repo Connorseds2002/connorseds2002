@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] VATSIM Middle East & North Africa - Operations Director](https://forums.vatsim.net/topic/30063-vacancy-vatsim-middle-east-north-africa-operations-director/?do=findComment&comment=173406)
+- [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=173405)
+- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173404)
+- [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173403)
 - [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=173402)
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173401)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173400)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173399)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173398)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173397)
-- [Updated heavy aircraft](https://forums.vatsim.net/topic/28339-updated-heavy-aircraft/?do=findComment&comment=173396)
-- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173395)
-- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173394)
-- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=173393)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
