@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173395)
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173394)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=173393)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=173392)
 - [New Years Message from VATSIM](https://forums.vatsim.net/topic/30319-new-years-message-from-vatsim/?do=findComment&comment=173391)
@@ -61,8 +63,6 @@
 - [Backtracking ATC procedure?](https://forums.vatsim.net/topic/30298-backtracking-atc-procedure/?do=findComment&comment=173388)
 - [Vpilot im FSX Hauptmenu](https://forums.vatsim.net/topic/30316-vpilot-im-fsx-hauptmenu/?do=findComment&comment=173387)
 - [bad news I failed New Member Orientation Test](https://forums.vatsim.net/topic/30312-bad-news-i-failed-new-member-orientation-test/?do=findComment&comment=173386)
-- [Vpilot im FSX Hauptmenu](https://forums.vatsim.net/topic/30316-vpilot-im-fsx-hauptmenu/?do=findComment&comment=173385)
-- [Noticed massive Frame drop with VPILOT and FLAI in P3DV5](https://forums.vatsim.net/topic/30300-noticed-massive-frame-drop-with-vpilot-and-flai-in-p3dv5/?do=findComment&comment=173384)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
