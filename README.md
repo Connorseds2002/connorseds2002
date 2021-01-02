@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173399)
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173398)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173397)
 - [Updated heavy aircraft](https://forums.vatsim.net/topic/28339-updated-heavy-aircraft/?do=findComment&comment=173396)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173395)
@@ -61,8 +63,6 @@
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=173392)
 - [New Years Message from VATSIM](https://forums.vatsim.net/topic/30319-new-years-message-from-vatsim/?do=findComment&comment=173391)
 - [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=173390)
-- [Flygsm Virtual | Scotland’s Low Cost Virtual Airline](https://forums.vatsim.net/topic/30317-flygsm-virtual-scotland%E2%80%99s-low-cost-virtual-airline/?do=findComment&comment=173389)
-- [Backtracking ATC procedure?](https://forums.vatsim.net/topic/30298-backtracking-atc-procedure/?do=findComment&comment=173388)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
