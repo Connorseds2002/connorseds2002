@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Changing Frequencies in MSFS 2020](https://forums.vatsim.net/topic/30334-changing-frequencies-in-msfs-2020/?do=findComment&comment=173440)
+- [VatSpy window disappears on minify, process still running](https://forums.vatsim.net/topic/30333-vatspy-window-disappears-on-minify-process-still-running/?do=findComment&comment=173439)
+- [VatSpy window disappears on minify, process still running](https://forums.vatsim.net/topic/30333-vatspy-window-disappears-on-minify-process-still-running/?do=findComment&comment=173438)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=173437)
 - [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173436)
 - [Zusammenführen von 3 Softwareprog. FSX,Vpilot und Navmap](https://forums.vatsim.net/topic/30332-zusammenf%C3%BChren-von-3-softwareprog-fsxvpilot-und-navmap/?do=findComment&comment=173435)
@@ -60,9 +63,6 @@
 - [Zusammenführen von 3 Softwareprog. FSX,Vpilot und Navmap](https://forums.vatsim.net/topic/30332-zusammenf%C3%BChren-von-3-softwareprog-fsxvpilot-und-navmap/?do=findComment&comment=173433)
 - [Understanding sector coverage](https://forums.vatsim.net/topic/30331-understanding-sector-coverage/?do=findComment&comment=173432)
 - [[8th January 2020, 1930Z] CPT S2 Provence Tower [LFML_TWR]](https://forums.vatsim.net/topic/30330-8th-january-2020-1930z-cpt-s2-provence-tower-lfml_twr/?do=findComment&comment=173431)
-- [[ATC Promotion] S3 CPT at VABB_APP | PASSED](https://forums.vatsim.net/topic/30329-atc-promotion-s3-cpt-at-vabb_app-passed/?do=findComment&comment=173430)
-- [[January 9th 13:00-19:00 UTC] Tel Aviv - Zagreb Visit](https://forums.vatsim.net/topic/30325-january-9th-1300-1900-utc-tel-aviv-zagreb-visit/?do=findComment&comment=173429)
-- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173428)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
