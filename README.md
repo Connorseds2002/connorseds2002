@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ATC Promotion] S3 CPT at VABB_APP | PASSED](https://forums.vatsim.net/topic/30329-atc-promotion-s3-cpt-at-vabb_app-passed/?do=findComment&comment=173430)
 - [[January 9th 13:00-19:00 UTC] Tel Aviv - Zagreb Visit](https://forums.vatsim.net/topic/30325-january-9th-1300-1900-utc-tel-aviv-zagreb-visit/?do=findComment&comment=173429)
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173428)
 - [[8th Jan. 2021, 1300-1600Z] Taipei FIR Fly-in](https://forums.vatsim.net/topic/30324-8th-jan-2021-1300-1600z-taipei-fir-fly-in/?do=findComment&comment=173427)
@@ -62,7 +63,6 @@
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173423)
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173422)
 - [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173421)
-- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173420)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
