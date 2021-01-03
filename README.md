@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 9th 13:00-19:00 UTC] Tel Aviv - Zagreb Visit](https://forums.vatsim.net/topic/30325-january-9th-1300-1900-utc-tel-aviv-zagreb-visit/?do=findComment&comment=173429)
+- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30327-hp-reverb-g2-microphone-issue/?do=findComment&comment=173428)
+- [[8th Jan. 2021, 1300-1600Z] Taipei FIR Fly-in](https://forums.vatsim.net/topic/30324-8th-jan-2021-1300-1600z-taipei-fir-fly-in/?do=findComment&comment=173427)
+- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173426)
+- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173425)
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173424)
+- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173423)
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173422)
 - [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173421)
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173420)
-- [Lost audio](https://forums.vatsim.net/topic/28394-lost-audio/?do=findComment&comment=173419)
-- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173418)
-- [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173417)
-- [[January 9th 13:00-19:00 UTC] Tel Aviv - Zagreb Visit](https://forums.vatsim.net/topic/30325-january-9th-1300-1900-utc-tel-aviv-zagreb-visit/?do=findComment&comment=173416)
-- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173415)
-- [[8th Jan. 2021, 1300-1600Z] Taipei FIR Fly-in](https://forums.vatsim.net/topic/30324-8th-jan-2021-1300-1600z-taipei-fir-fly-in/?do=findComment&comment=173414)
-- [Maps Menu Feature Request](https://forums.vatsim.net/topic/30323-maps-menu-feature-request/?do=findComment&comment=173413)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
