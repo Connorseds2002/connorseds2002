@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Understanding sector coverage](https://forums.vatsim.net/topic/30331-understanding-sector-coverage/?do=findComment&comment=173432)
 - [[8th January 2020, 1930Z] CPT S2 Provence Tower [LFML_TWR]](https://forums.vatsim.net/topic/30330-8th-january-2020-1930z-cpt-s2-provence-tower-lfml_twr/?do=findComment&comment=173431)
 - [[ATC Promotion] S3 CPT at VABB_APP | PASSED](https://forums.vatsim.net/topic/30329-atc-promotion-s3-cpt-at-vabb_app-passed/?do=findComment&comment=173430)
 - [[January 9th 13:00-19:00 UTC] Tel Aviv - Zagreb Visit](https://forums.vatsim.net/topic/30325-january-9th-1300-1900-utc-tel-aviv-zagreb-visit/?do=findComment&comment=173429)
@@ -62,7 +63,6 @@
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173425)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173424)
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173423)
-- [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173422)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
