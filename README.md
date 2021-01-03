@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173446)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173445)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173444)
+- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173443)
+- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173442)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173441)
 - [Changing Frequencies in MSFS 2020](https://forums.vatsim.net/topic/30334-changing-frequencies-in-msfs-2020/?do=findComment&comment=173440)
 - [VatSpy window disappears on minify, process still running](https://forums.vatsim.net/topic/30333-vatspy-window-disappears-on-minify-process-still-running/?do=findComment&comment=173439)
 - [VatSpy window disappears on minify, process still running](https://forums.vatsim.net/topic/30333-vatspy-window-disappears-on-minify-process-still-running/?do=findComment&comment=173438)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=173437)
-- [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173436)
-- [Zusammenführen von 3 Softwareprog. FSX,Vpilot und Navmap](https://forums.vatsim.net/topic/30332-zusammenf%C3%BChren-von-3-softwareprog-fsxvpilot-und-navmap/?do=findComment&comment=173435)
-- [Zusammenführen von 3 Softwareprog. FSX,Vpilot und Navmap](https://forums.vatsim.net/topic/30332-zusammenf%C3%BChren-von-3-softwareprog-fsxvpilot-und-navmap/?do=findComment&comment=173434)
-- [Zusammenführen von 3 Softwareprog. FSX,Vpilot und Navmap](https://forums.vatsim.net/topic/30332-zusammenf%C3%BChren-von-3-softwareprog-fsxvpilot-und-navmap/?do=findComment&comment=173433)
-- [Understanding sector coverage](https://forums.vatsim.net/topic/30331-understanding-sector-coverage/?do=findComment&comment=173432)
-- [[8th January 2020, 1930Z] CPT S2 Provence Tower [LFML_TWR]](https://forums.vatsim.net/topic/30330-8th-january-2020-1930z-cpt-s2-provence-tower-lfml_twr/?do=findComment&comment=173431)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
