@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Zusammenführen von 3 Softwareprog. FSX,Vpilot und Navmap](https://forums.vatsim.net/topic/30332-zusammenf%C3%BChren-von-3-softwareprog-fsxvpilot-und-navmap/?do=findComment&comment=173434)
 - [Zusammenführen von 3 Softwareprog. FSX,Vpilot und Navmap](https://forums.vatsim.net/topic/30332-zusammenf%C3%BChren-von-3-softwareprog-fsxvpilot-und-navmap/?do=findComment&comment=173433)
 - [Understanding sector coverage](https://forums.vatsim.net/topic/30331-understanding-sector-coverage/?do=findComment&comment=173432)
 - [[8th January 2020, 1930Z] CPT S2 Provence Tower [LFML_TWR]](https://forums.vatsim.net/topic/30330-8th-january-2020-1930z-cpt-s2-provence-tower-lfml_twr/?do=findComment&comment=173431)
@@ -62,7 +63,6 @@
 - [[8th Jan. 2021, 1300-1600Z] Taipei FIR Fly-in](https://forums.vatsim.net/topic/30324-8th-jan-2021-1300-1600z-taipei-fir-fly-in/?do=findComment&comment=173427)
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173426)
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173425)
-- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173424)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
