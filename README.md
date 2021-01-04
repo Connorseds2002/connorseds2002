@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173495)
+- [Error Connecting to AFV](https://forums.vatsim.net/topic/30342-error-connecting-to-afv/?do=findComment&comment=173494)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173493)
 - [Error Connecting to AFV](https://forums.vatsim.net/topic/30342-error-connecting-to-afv/?do=findComment&comment=173492)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173491)
@@ -61,8 +63,6 @@
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173488)
 - [not able to speak](https://forums.vatsim.net/topic/30321-not-able-to-speak/?do=findComment&comment=173487)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173486)
-- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173485)
-- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173484)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
