@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 8th, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30346-january-8th-18z-21z-bucharest-online/?do=findComment&comment=173499)
+- [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173498)
+- [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173497)
 - [not able to speak](https://forums.vatsim.net/topic/30321-not-able-to-speak/?do=findComment&comment=173496)
 - [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173495)
 - [Error Connecting to AFV](https://forums.vatsim.net/topic/30342-error-connecting-to-afv/?do=findComment&comment=173494)
@@ -60,9 +63,6 @@
 - [Error Connecting to AFV](https://forums.vatsim.net/topic/30342-error-connecting-to-afv/?do=findComment&comment=173492)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173491)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173490)
-- [[7th Jan, 18-21Z] Helsinki in Sight](https://forums.vatsim.net/topic/30341-7th-jan-18-21z-helsinki-in-sight/?do=findComment&comment=173489)
-- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173488)
-- [not able to speak](https://forums.vatsim.net/topic/30321-not-able-to-speak/?do=findComment&comment=173487)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
