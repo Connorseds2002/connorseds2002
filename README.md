@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173505)
+- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=173504)
+- [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173503)
+- [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173502)
+- [[January 8th, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30346-january-8th-18z-21z-bucharest-online/?do=findComment&comment=173501)
+- [[7th Jan, 18-21Z] Helsinki in Sight](https://forums.vatsim.net/topic/30341-7th-jan-18-21z-helsinki-in-sight/?do=findComment&comment=173500)
 - [[January 8th, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30346-january-8th-18z-21z-bucharest-online/?do=findComment&comment=173499)
 - [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173498)
 - [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173497)
 - [not able to speak](https://forums.vatsim.net/topic/30321-not-able-to-speak/?do=findComment&comment=173496)
-- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173495)
-- [Error Connecting to AFV](https://forums.vatsim.net/topic/30342-error-connecting-to-afv/?do=findComment&comment=173494)
-- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173493)
-- [Error Connecting to AFV](https://forums.vatsim.net/topic/30342-error-connecting-to-afv/?do=findComment&comment=173492)
-- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173491)
-- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173490)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
