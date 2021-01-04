@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173518)
+- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173517)
+- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173516)
+- [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173515)
+- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173514)
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173513)
+- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173512)
+- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173511)
 - [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173510)
 - [Not closed border lines error when loading ESE file](https://forums.vatsim.net/topic/25800-not-closed-border-lines-error-when-loading-ese-file/?do=findComment&comment=173509)
-- [Loss of ATIS while connected to x-pilot](https://forums.vatsim.net/topic/30170-loss-of-atis-while-connected-to-x-pilot/?do=findComment&comment=173508)
-- [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=173507)
-- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173506)
-- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173505)
-- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=173504)
-- [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173503)
-- [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173502)
-- [[January 8th, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30346-january-8th-18z-21z-bucharest-online/?do=findComment&comment=173501)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
