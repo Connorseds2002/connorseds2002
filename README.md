@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173510)
+- [Not closed border lines error when loading ESE file](https://forums.vatsim.net/topic/25800-not-closed-border-lines-error-when-loading-ese-file/?do=findComment&comment=173509)
+- [Loss of ATIS while connected to x-pilot](https://forums.vatsim.net/topic/30170-loss-of-atis-while-connected-to-x-pilot/?do=findComment&comment=173508)
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=173507)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173506)
 - [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173505)
@@ -60,9 +63,6 @@
 - [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173503)
 - [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173502)
 - [[January 8th, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30346-january-8th-18z-21z-bucharest-online/?do=findComment&comment=173501)
-- [[7th Jan, 18-21Z] Helsinki in Sight](https://forums.vatsim.net/topic/30341-7th-jan-18-21z-helsinki-in-sight/?do=findComment&comment=173500)
-- [[January 8th, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30346-january-8th-18z-21z-bucharest-online/?do=findComment&comment=173499)
-- [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173498)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
