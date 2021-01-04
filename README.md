@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Jan 09, 2021- 03-05z VVTS_TWR Tan Son Nhat/ Ho Chi Minh S2 CPT](https://forums.vatsim.net/topic/30338-jan-09-2021-03-05z-vvts_twr-tan-son-nhat-ho-chi-minh-s2-cpt/?do=findComment&comment=173467)
+- [How to give Props to an amazing controller!!](https://forums.vatsim.net/topic/30337-how-to-give-props-to-an-amazing-controller/?do=findComment&comment=173466)
+- [Tracked Target Mis-information](https://forums.vatsim.net/topic/30335-tracked-target-mis-information/?do=findComment&comment=173465)
+- [How to give Props to an amazing controller!!](https://forums.vatsim.net/topic/30337-how-to-give-props-to-an-amazing-controller/?do=findComment&comment=173464)
 - [Tracked Target Mis-information](https://forums.vatsim.net/topic/30335-tracked-target-mis-information/?do=findComment&comment=173463)
 - [Audio Range](https://forums.vatsim.net/topic/28346-audio-range/?do=findComment&comment=173462)
 - [Virtual NATO Ops](https://forums.vatsim.net/topic/29846-virtual-nato-ops/?do=findComment&comment=173461)
 - [Tracked Target Mis-information](https://forums.vatsim.net/topic/30335-tracked-target-mis-information/?do=findComment&comment=173460)
 - [Virtual NATO Ops](https://forums.vatsim.net/topic/29846-virtual-nato-ops/?do=findComment&comment=173459)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=173458)
-- [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=173457)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173456)
-- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=173455)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173454)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
