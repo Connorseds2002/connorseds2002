@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173493)
+- [Error Connecting to AFV](https://forums.vatsim.net/topic/30342-error-connecting-to-afv/?do=findComment&comment=173492)
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173491)
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173490)
+- [[7th Jan, 18-21Z] Helsinki in Sight](https://forums.vatsim.net/topic/30341-7th-jan-18-21z-helsinki-in-sight/?do=findComment&comment=173489)
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173488)
 - [not able to speak](https://forums.vatsim.net/topic/30321-not-able-to-speak/?do=findComment&comment=173487)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173486)
 - [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173485)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173484)
-- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173483)
-- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=173482)
-- [VatSpy window disappears on minify, process still running](https://forums.vatsim.net/topic/30333-vatspy-window-disappears-on-minify-process-still-running/?do=findComment&comment=173481)
-- [Zusammenführen von 3 Softwareprog. FSX,Vpilot und Navmap](https://forums.vatsim.net/topic/30332-zusammenf%C3%BChren-von-3-softwareprog-fsxvpilot-und-navmap/?do=findComment&comment=173480)
-- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173479)
-- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173478)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
