@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173476)
+- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173475)
+- [VatSpy window disappears on minify, process still running](https://forums.vatsim.net/topic/30333-vatspy-window-disappears-on-minify-process-still-running/?do=findComment&comment=173474)
 - [Changing Frequencies in MSFS 2020](https://forums.vatsim.net/topic/30334-changing-frequencies-in-msfs-2020/?do=findComment&comment=173473)
 - [Jan 16 2021. 1200z-1400z :: VVTS_TWR Tan Son Nhat/ Ho Chi Minh Tower S2 CPT](https://forums.vatsim.net/topic/30340-jan-16-2021-1200z-1400z-vvts_twr-tan-son-nhat-ho-chi-minh-tower-s2-cpt/?do=findComment&comment=173472)
 - [Jan 16 2021. 1200z-1400z :: VVTS_TWR Tan Son Nhat/ Ho Chi Minh Tower S2 CPT](https://forums.vatsim.net/topic/30340-jan-16-2021-1200z-1400z-vvts_twr-tan-son-nhat-ho-chi-minh-tower-s2-cpt/?do=findComment&comment=173471)
@@ -60,9 +63,6 @@
 - [not able to speak](https://forums.vatsim.net/topic/30321-not-able-to-speak/?do=findComment&comment=173469)
 - [Jan 09, 2021- 03-05z VVTS_TWR Tan Son Nhat/ Ho Chi Minh S2 CPT](https://forums.vatsim.net/topic/30338-jan-09-2021-03-05z-vvts_twr-tan-son-nhat-ho-chi-minh-s2-cpt/?do=findComment&comment=173468)
 - [Jan 09, 2021- 03-05z VVTS_TWR Tan Son Nhat/ Ho Chi Minh S2 CPT](https://forums.vatsim.net/topic/30338-jan-09-2021-03-05z-vvts_twr-tan-son-nhat-ho-chi-minh-s2-cpt/?do=findComment&comment=173467)
-- [How to give Props to an amazing controller!!](https://forums.vatsim.net/topic/30337-how-to-give-props-to-an-amazing-controller/?do=findComment&comment=173466)
-- [Tracked Target Mis-information](https://forums.vatsim.net/topic/30335-tracked-target-mis-information/?do=findComment&comment=173465)
-- [How to give Props to an amazing controller!!](https://forums.vatsim.net/topic/30337-how-to-give-props-to-an-amazing-controller/?do=findComment&comment=173464)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
