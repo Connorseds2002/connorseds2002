@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173483)
+- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=173482)
+- [VatSpy window disappears on minify, process still running](https://forums.vatsim.net/topic/30333-vatspy-window-disappears-on-minify-process-still-running/?do=findComment&comment=173481)
+- [Zusammenführen von 3 Softwareprog. FSX,Vpilot und Navmap](https://forums.vatsim.net/topic/30332-zusammenf%C3%BChren-von-3-softwareprog-fsxvpilot-und-navmap/?do=findComment&comment=173480)
+- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173479)
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173478)
+- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=173477)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=173476)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173475)
 - [VatSpy window disappears on minify, process still running](https://forums.vatsim.net/topic/30333-vatspy-window-disappears-on-minify-process-still-running/?do=findComment&comment=173474)
-- [Changing Frequencies in MSFS 2020](https://forums.vatsim.net/topic/30334-changing-frequencies-in-msfs-2020/?do=findComment&comment=173473)
-- [Jan 16 2021. 1200z-1400z :: VVTS_TWR Tan Son Nhat/ Ho Chi Minh Tower S2 CPT](https://forums.vatsim.net/topic/30340-jan-16-2021-1200z-1400z-vvts_twr-tan-son-nhat-ho-chi-minh-tower-s2-cpt/?do=findComment&comment=173472)
-- [Jan 16 2021. 1200z-1400z :: VVTS_TWR Tan Son Nhat/ Ho Chi Minh Tower S2 CPT](https://forums.vatsim.net/topic/30340-jan-16-2021-1200z-1400z-vvts_twr-tan-son-nhat-ho-chi-minh-tower-s2-cpt/?do=findComment&comment=173471)
-- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173470)
-- [not able to speak](https://forums.vatsim.net/topic/30321-not-able-to-speak/?do=findComment&comment=173469)
-- [Jan 09, 2021- 03-05z VVTS_TWR Tan Son Nhat/ Ho Chi Minh S2 CPT](https://forums.vatsim.net/topic/30338-jan-09-2021-03-05z-vvts_twr-tan-son-nhat-ho-chi-minh-s2-cpt/?do=findComment&comment=173468)
-- [Jan 09, 2021- 03-05z VVTS_TWR Tan Son Nhat/ Ho Chi Minh S2 CPT](https://forums.vatsim.net/topic/30338-jan-09-2021-03-05z-vvts_twr-tan-son-nhat-ho-chi-minh-s2-cpt/?do=findComment&comment=173467)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
