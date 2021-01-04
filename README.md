@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Tracked Target Mis-information](https://forums.vatsim.net/topic/30335-tracked-target-mis-information/?do=findComment&comment=173463)
+- [Audio Range](https://forums.vatsim.net/topic/28346-audio-range/?do=findComment&comment=173462)
+- [Virtual NATO Ops](https://forums.vatsim.net/topic/29846-virtual-nato-ops/?do=findComment&comment=173461)
 - [Tracked Target Mis-information](https://forums.vatsim.net/topic/30335-tracked-target-mis-information/?do=findComment&comment=173460)
 - [Virtual NATO Ops](https://forums.vatsim.net/topic/29846-virtual-nato-ops/?do=findComment&comment=173459)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=173458)
@@ -60,9 +63,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173456)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=173455)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173454)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173453)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173452)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=173451)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
