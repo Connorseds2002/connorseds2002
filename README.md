@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173565)
+- [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173564)
+- [Changing Frequencies in MSFS 2020](https://forums.vatsim.net/topic/30334-changing-frequencies-in-msfs-2020/?do=findComment&comment=173563)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173562)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173561)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173560)
@@ -60,9 +63,6 @@
 - [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173558)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173557)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173556)
-- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173554)
-- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173553)
-- [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173552)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
