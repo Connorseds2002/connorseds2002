@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173553)
+- [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173552)
 - [Turkish vACC - TRvACC Seeking Web services Director](https://forums.vatsim.net/topic/30289-turkish-vacc-trvacc-seeking-web-services-director/?do=findComment&comment=173551)
 - [vPilot - Can't hear any sound](https://forums.vatsim.net/topic/30352-vpilot-cant-hear-any-sound/?do=findComment&comment=173550)
 - [[Appointment] Turkish vACC - TRvACC  Web Services Director](https://forums.vatsim.net/topic/30351-appointment-turkish-vacc-trvacc-web-services-director/?do=findComment&comment=173549)
@@ -61,8 +63,6 @@
 - [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173546)
 - [not connecting to vpilot](https://forums.vatsim.net/topic/30349-not-connecting-to-vpilot/?do=findComment&comment=173545)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173544)
-- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173543)
-- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173542)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
