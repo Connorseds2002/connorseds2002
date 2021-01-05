@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 Pilots and Flight Plans](https://forums.vatsim.net/topic/30314-p0-pilots-and-flight-plans/?do=findComment&comment=173527)
 - [Virtual NATO Ops](https://forums.vatsim.net/topic/29846-virtual-nato-ops/?do=findComment&comment=173526)
 - [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173525)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173524)
@@ -62,7 +63,6 @@
 - [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173520)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173519)
 - [[January 8th, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30345-january-8th-18z-21z-sofia-friday-night/?do=findComment&comment=173518)
-- [FLAi is temporarily offline](https://forums.vatsim.net/topic/30343-flai-is-temporarily-offline/?do=findComment&comment=173517)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
