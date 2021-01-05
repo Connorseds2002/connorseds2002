@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173556)
+- [[REQUEST] .trackatis](https://forums.vatsim.net/topic/30353-request-trackatis/?do=findComment&comment=173555)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173554)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173553)
 - [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173552)
@@ -61,8 +63,6 @@
 - [[Appointment] Turkish vACC - TRvACC  Web Services Director](https://forums.vatsim.net/topic/30351-appointment-turkish-vacc-trvacc-web-services-director/?do=findComment&comment=173549)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173548)
 - [vBaltic selection](https://forums.vatsim.net/topic/30244-vbaltic-selection/?do=findComment&comment=173547)
-- [Proper etiquette for a new pilot to just observe and listen](https://forums.vatsim.net/topic/30344-proper-etiquette-for-a-new-pilot-to-just-observe-and-listen/?do=findComment&comment=173546)
-- [not connecting to vpilot](https://forums.vatsim.net/topic/30349-not-connecting-to-vpilot/?do=findComment&comment=173545)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
