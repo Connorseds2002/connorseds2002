@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=173588)
+- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173587)
 - [HP Reverb G2 microphone issue](https://forums.vatsim.net/topic/30320-hp-reverb-g2-microphone-issue/?do=findComment&comment=173586)
 - [Green and Black nameplates for other vatsim traffic in MSFS](https://forums.vatsim.net/topic/30358-green-and-black-nameplates-for-other-vatsim-traffic-in-msfs/?do=findComment&comment=173585)
 - [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=173584)
@@ -61,8 +63,6 @@
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173581)
 - [Zusammenführen von 3 Softwareprog. FSX,Vpilot und Navmap](https://forums.vatsim.net/topic/30332-zusammenf%C3%BChren-von-3-softwareprog-fsxvpilot-und-navmap/?do=findComment&comment=173580)
 - [Nueva Posición: LIM_CTR- FIR LIMA](https://forums.vatsim.net/topic/30355-nueva-posici%C3%B3n-lim_ctr-fir-lima/?do=findComment&comment=173579)
-- [vPilot - Can't hear any sound](https://forums.vatsim.net/topic/30352-vpilot-cant-hear-any-sound/?do=findComment&comment=173578)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173577)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
