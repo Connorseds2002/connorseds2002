@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173652)
 - [Gear making extra noise when i put it down!](https://forums.vatsim.net/topic/30364-gear-making-extra-noise-when-i-put-it-down/?do=findComment&comment=173651)
 - [Whom to Call via Top Down](https://forums.vatsim.net/topic/30363-whom-to-call-via-top-down/?do=findComment&comment=173650)
 - [Handoff frequency](https://forums.vatsim.net/topic/30366-handoff-frequency/?do=findComment&comment=173649)
@@ -62,7 +63,6 @@
 - [Broken Discord link..](https://forums.vatsim.net/topic/30359-broken-discord-link/?do=findComment&comment=173645)
 - [Black mouse pointer when it's within the borders of the radar screen](https://forums.vatsim.net/topic/30365-black-mouse-pointer-when-its-within-the-borders-of-the-radar-screen/?do=findComment&comment=173644)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173643)
-- [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173642)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
