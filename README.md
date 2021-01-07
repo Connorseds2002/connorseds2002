@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot - Can't hear any sound](https://forums.vatsim.net/topic/30352-vpilot-cant-hear-any-sound/?do=findComment&comment=173618)
+- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173617)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173616)
 - [India vACC Knowledge Digest | Issue 1](https://forums.vatsim.net/topic/30360-india-vacc-knowledge-digest-issue-1/?do=findComment&comment=173615)
 - [Green and Black nameplates for other vatsim traffic in MSFS](https://forums.vatsim.net/topic/30358-green-and-black-nameplates-for-other-vatsim-traffic-in-msfs/?do=findComment&comment=173614)
@@ -61,8 +63,6 @@
 - [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173611)
 - [New VATSIM Dataserver](https://forums.vatsim.net/topic/26920-new-vatsim-dataserver/?do=findComment&comment=173610)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173609)
-- [New VATSIM Dataserver](https://forums.vatsim.net/topic/26920-new-vatsim-dataserver/?do=findComment&comment=173608)
-- [New VATSIM Dataserver](https://forums.vatsim.net/topic/26920-new-vatsim-dataserver/?do=findComment&comment=173607)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
