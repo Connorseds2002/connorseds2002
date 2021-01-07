@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173623)
+- [[ACCIND6] India vACC Webmaster Vacancy Released](https://forums.vatsim.net/topic/30272-accind6-india-vacc-webmaster-vacancy-released/?do=findComment&comment=173622)
 - [New VATSIM Dataserver](https://forums.vatsim.net/topic/26920-new-vatsim-dataserver/?do=findComment&comment=173621)
 - [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173620)
 - [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173619)
@@ -61,8 +63,6 @@
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173616)
 - [India vACC Knowledge Digest | Issue 1](https://forums.vatsim.net/topic/30360-india-vacc-knowledge-digest-issue-1/?do=findComment&comment=173615)
 - [Green and Black nameplates for other vatsim traffic in MSFS](https://forums.vatsim.net/topic/30358-green-and-black-nameplates-for-other-vatsim-traffic-in-msfs/?do=findComment&comment=173614)
-- [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173613)
-- [Broken Discord link..](https://forums.vatsim.net/topic/30359-broken-discord-link/?do=findComment&comment=173612)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
