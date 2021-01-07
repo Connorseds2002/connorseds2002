@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173611)
+- [New VATSIM Dataserver](https://forums.vatsim.net/topic/26920-new-vatsim-dataserver/?do=findComment&comment=173610)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173609)
 - [New VATSIM Dataserver](https://forums.vatsim.net/topic/26920-new-vatsim-dataserver/?do=findComment&comment=173608)
 - [New VATSIM Dataserver](https://forums.vatsim.net/topic/26920-new-vatsim-dataserver/?do=findComment&comment=173607)
@@ -61,8 +63,6 @@
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173604)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173603)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173602)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173601)
-- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173600)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
