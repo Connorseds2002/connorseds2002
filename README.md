@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Handoff frequency](https://forums.vatsim.net/topic/30366-handoff-frequency/?do=findComment&comment=173647)
+- [Black mouse pointer when it's within the borders of the radar screen](https://forums.vatsim.net/topic/30365-black-mouse-pointer-when-its-within-the-borders-of-the-radar-screen/?do=findComment&comment=173646)
+- [Broken Discord link..](https://forums.vatsim.net/topic/30359-broken-discord-link/?do=findComment&comment=173645)
+- [Black mouse pointer when it's within the borders of the radar screen](https://forums.vatsim.net/topic/30365-black-mouse-pointer-when-its-within-the-borders-of-the-radar-screen/?do=findComment&comment=173644)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173643)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173642)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173641)
 - [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173640)
 - [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173639)
 - [[Appointment] Head of IT- APAC Region](https://forums.vatsim.net/topic/30361-appointment-head-of-it-apac-region/?do=findComment&comment=173638)
-- [[Appointment] Head of IT- APAC Region](https://forums.vatsim.net/topic/30361-appointment-head-of-it-apac-region/?do=findComment&comment=173637)
-- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173636)
-- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173635)
-- [Gear making extra noise when i put it down!](https://forums.vatsim.net/topic/30364-gear-making-extra-noise-when-i-put-it-down/?do=findComment&comment=173634)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
