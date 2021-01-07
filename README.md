@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Appointment] Head of IT- APAC Region](https://forums.vatsim.net/topic/30361-appointment-head-of-it-apac-region/?do=findComment&comment=173625)
 - [[January 8th, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30346-january-8th-18z-21z-bucharest-online/?do=findComment&comment=173624)
 - [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173623)
 - [[ACCIND6] India vACC Webmaster Vacancy Released](https://forums.vatsim.net/topic/30272-accind6-india-vacc-webmaster-vacancy-released/?do=findComment&comment=173622)
@@ -62,7 +63,6 @@
 - [vPilot - Can't hear any sound](https://forums.vatsim.net/topic/30352-vpilot-cant-hear-any-sound/?do=findComment&comment=173618)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173617)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=173616)
-- [India vACC Knowledge Digest | Issue 1](https://forums.vatsim.net/topic/30360-india-vacc-knowledge-digest-issue-1/?do=findComment&comment=173615)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
