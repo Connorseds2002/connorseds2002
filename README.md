@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [India vACC Knowledge Digest | Issue 1](https://forums.vatsim.net/topic/30360-india-vacc-knowledge-digest-issue-1/?do=findComment&comment=173615)
 - [Green and Black nameplates for other vatsim traffic in MSFS](https://forums.vatsim.net/topic/30358-green-and-black-nameplates-for-other-vatsim-traffic-in-msfs/?do=findComment&comment=173614)
 - [Vatspy Won't Work](https://forums.vatsim.net/topic/30326-vatspy-wont-work/?do=findComment&comment=173613)
 - [Broken Discord link..](https://forums.vatsim.net/topic/30359-broken-discord-link/?do=findComment&comment=173612)
@@ -62,7 +63,6 @@
 - [New VATSIM Dataserver](https://forums.vatsim.net/topic/26920-new-vatsim-dataserver/?do=findComment&comment=173608)
 - [New VATSIM Dataserver](https://forums.vatsim.net/topic/26920-new-vatsim-dataserver/?do=findComment&comment=173607)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173606)
-- [default model for P3d V5 was not found ?!](https://forums.vatsim.net/topic/30354-default-model-for-p3d-v5-was-not-found/?do=findComment&comment=173605)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
