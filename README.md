@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173685)
+- [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173684)
+- [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173683)
 - [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173681)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173680)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173679)
@@ -60,9 +63,6 @@
 - [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=173677)
 - [VAT-Spy loading everything slowed down](https://forums.vatsim.net/topic/30372-vat-spy-loading-everything-slowed-down/?do=findComment&comment=173676)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173675)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173674)
-- [EveryAir Virtual Airlines](https://forums.vatsim.net/topic/30371-everyair-virtual-airlines/?do=findComment&comment=173673)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173672)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
