@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NOTAM 10JAN21: Positions Reserved for Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18539-notam-10jan21-positions-reserved-for-transcon-shuttle-sydney/?do=findComment&comment=130607)
 - [13FEB21 | Light Up Western Australia](https://forums.vatpac.org/calendar/event/1604-13feb21-light-up-western-australia/)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130605)
 - [Vacancy: ATC Training Mentor](https://forums.vatpac.org/topic/18538-vacancy-atc-training-mentor/?do=findComment&comment=130598)
@@ -48,7 +49,6 @@
 - [06OCT | James Hennell](https://forums.vatpac.org/topic/18350-06oct-james-hennell/?do=findComment&comment=130558)
 - [AIRAC 2014](https://forums.vatpac.org/topic/18529-airac-2014/?do=findComment&comment=130555)
 - [06OCT | James Hennell](https://forums.vatpac.org/topic/18350-06oct-james-hennell/?do=findComment&comment=130554)
-- [13JAN21 World Discovery Canada Great Lakes](https://forums.vatpac.org/calendar/event/1597-13jan21-world-discovery-canada-great-lakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
