@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Error starting voice server client - Xpilot 1.3.32, Win10 64bit, Xplane 11.51](https://forums.vatsim.net/topic/30369-error-starting-voice-server-client-xpilot-1332-win10-64bit-xplane-1151/?do=findComment&comment=173667)
 - [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=173666)
 - [Whom to Call via Top Down](https://forums.vatsim.net/topic/30363-whom-to-call-via-top-down/?do=findComment&comment=173665)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173664)
@@ -62,7 +63,6 @@
 - [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173660)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173659)
 - [Broken Discord link..](https://forums.vatsim.net/topic/30359-broken-discord-link/?do=findComment&comment=173658)
-- [[ANNOUNCEMENT] VATEUD Helpdesk](https://forums.vatsim.net/topic/30368-announcement-vateud-helpdesk/?do=findComment&comment=173657)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
