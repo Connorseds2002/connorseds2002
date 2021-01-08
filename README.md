@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173662)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173661)
+- [Why do we have Vertical Separation if ATC acts like we are on a highway?](https://forums.vatsim.net/topic/30270-why-do-we-have-vertical-separation-if-atc-acts-like-we-are-on-a-highway/?do=findComment&comment=173660)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173659)
 - [Broken Discord link..](https://forums.vatsim.net/topic/30359-broken-discord-link/?do=findComment&comment=173658)
 - [[ANNOUNCEMENT] VATEUD Helpdesk](https://forums.vatsim.net/topic/30368-announcement-vateud-helpdesk/?do=findComment&comment=173657)
@@ -60,9 +63,6 @@
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173652)
 - [Gear making extra noise when i put it down!](https://forums.vatsim.net/topic/30364-gear-making-extra-noise-when-i-put-it-down/?do=findComment&comment=173651)
 - [Whom to Call via Top Down](https://forums.vatsim.net/topic/30363-whom-to-call-via-top-down/?do=findComment&comment=173650)
-- [Handoff frequency](https://forums.vatsim.net/topic/30366-handoff-frequency/?do=findComment&comment=173649)
-- [Handoff frequency](https://forums.vatsim.net/topic/30366-handoff-frequency/?do=findComment&comment=173648)
-- [Handoff frequency](https://forums.vatsim.net/topic/30366-handoff-frequency/?do=findComment&comment=173647)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
