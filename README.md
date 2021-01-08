@@ -45,7 +45,7 @@
 - [06OCT | James Hennell](https://forums.vatpac.org/topic/18350-06oct-james-hennell/?do=findComment&comment=130558)
 - [AIRAC 2014](https://forums.vatpac.org/topic/18529-airac-2014/?do=findComment&comment=130555)
 - [06OCT | James Hennell](https://forums.vatpac.org/topic/18350-06oct-james-hennell/?do=findComment&comment=130554)
-- [13JAN21](https://forums.vatpac.org/calendar/event/1597-13jan21/)
+- [13JAN21 World Discovery Canada Great Lakes](https://forums.vatpac.org/calendar/event/1597-13jan21-world-discovery-canada-great-lakes/)
 - [VATPAC Appoints New Directors](https://forums.vatpac.org/topic/18525-vatpac-appoints-new-directors/?do=findComment&comment=130540)
 - [06JAN21 World Discovery Canadian Great Lakes](https://forums.vatpac.org/calendar/event/1596-06jan21-world-discovery-canadian-great-lakes/)
 - [30DEC20 World Discovery Canadian Great Lakes](https://forums.vatpac.org/calendar/event/1595-30dec20-world-discovery-canadian-great-lakes/)
