@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How many ground vehicles at an airport?](https://forums.vatsim.net/topic/30210-how-many-ground-vehicles-at-an-airport/?do=findComment&comment=173677)
+- [VAT-Spy loading everything slowed down](https://forums.vatsim.net/topic/30372-vat-spy-loading-everything-slowed-down/?do=findComment&comment=173676)
+- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173675)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173674)
 - [EveryAir Virtual Airlines](https://forums.vatsim.net/topic/30371-everyair-virtual-airlines/?do=findComment&comment=173673)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173672)
@@ -60,9 +63,6 @@
 - [Annoying Buzz Sound](https://forums.vatsim.net/topic/28760-annoying-buzz-sound/?do=findComment&comment=173670)
 - [CTD after 40 seconds](https://forums.vatsim.net/topic/30370-ctd-after-40-seconds/?do=findComment&comment=173669)
 - [Annoying Buzz Sound](https://forums.vatsim.net/topic/28760-annoying-buzz-sound/?do=findComment&comment=173668)
-- [Error starting voice server client - Xpilot 1.3.32, Win10 64bit, Xplane 11.51](https://forums.vatsim.net/topic/30369-error-starting-voice-server-client-xpilot-1332-win10-64bit-xplane-1151/?do=findComment&comment=173667)
-- [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=173666)
-- [Whom to Call via Top Down](https://forums.vatsim.net/topic/30363-whom-to-call-via-top-down/?do=findComment&comment=173665)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
