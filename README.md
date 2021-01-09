@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 9th 13:00-19:00 UTC] Tel Aviv - Zagreb Visit](https://forums.vatsim.net/topic/30325-january-9th-1300-1900-utc-tel-aviv-zagreb-visit/?do=findComment&comment=173694)
+- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173693)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173692)
+- [VAT-Spy loading everything slowed down](https://forums.vatsim.net/topic/30372-vat-spy-loading-everything-slowed-down/?do=findComment&comment=173691)
 - [Inactive Account to be reactivated](https://forums.vatsim.net/topic/30374-inactive-account-to-be-reactivated/?do=findComment&comment=173690)
 - [VAT-Spy loading everything slowed down](https://forums.vatsim.net/topic/30372-vat-spy-loading-everything-slowed-down/?do=findComment&comment=173689)
 - [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173688)
 - [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173687)
 - [Inactive Account to be reactivated](https://forums.vatsim.net/topic/30374-inactive-account-to-be-reactivated/?do=findComment&comment=173686)
 - [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173685)
-- [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173684)
-- [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173683)
-- [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173681)
-- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173680)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
