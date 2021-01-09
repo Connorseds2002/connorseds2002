@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is VatSpy Dangerous?](https://forums.vatsim.net/topic/30375-is-vatspy-dangerous/?do=findComment&comment=173705)
+- [[January 9th 13:00-19:00 UTC] Tel Aviv - Zagreb Visit](https://forums.vatsim.net/topic/30325-january-9th-1300-1900-utc-tel-aviv-zagreb-visit/?do=findComment&comment=173704)
 - [Broken Discord link..](https://forums.vatsim.net/topic/30359-broken-discord-link/?do=findComment&comment=173703)
 - [[Appointment] Head of IT- APAC Region](https://forums.vatsim.net/topic/30361-appointment-head-of-it-apac-region/?do=findComment&comment=173702)
 - [Broken Discord link..](https://forums.vatsim.net/topic/30359-broken-discord-link/?do=findComment&comment=173701)
@@ -61,8 +63,6 @@
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173698)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173697)
 - [Is VatSpy Dangerous?](https://forums.vatsim.net/topic/30375-is-vatspy-dangerous/?do=findComment&comment=173696)
-- [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173695)
-- [[January 9th 13:00-19:00 UTC] Tel Aviv - Zagreb Visit](https://forums.vatsim.net/topic/30325-january-9th-1300-1900-utc-tel-aviv-zagreb-visit/?do=findComment&comment=173694)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
