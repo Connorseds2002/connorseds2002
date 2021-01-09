@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPILOTs locks P3dv4.5](https://forums.vatsim.net/topic/30376-vpilots-locks-p3dv45/?do=findComment&comment=173699)
+- [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173698)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173697)
 - [Is VatSpy Dangerous?](https://forums.vatsim.net/topic/30375-is-vatspy-dangerous/?do=findComment&comment=173696)
 - [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173695)
@@ -61,8 +63,6 @@
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173692)
 - [VAT-Spy loading everything slowed down](https://forums.vatsim.net/topic/30372-vat-spy-loading-everything-slowed-down/?do=findComment&comment=173691)
 - [Inactive Account to be reactivated](https://forums.vatsim.net/topic/30374-inactive-account-to-be-reactivated/?do=findComment&comment=173690)
-- [VAT-Spy loading everything slowed down](https://forums.vatsim.net/topic/30372-vat-spy-loading-everything-slowed-down/?do=findComment&comment=173689)
-- [Struggling to get VPilot connected to FS2020](https://forums.vatsim.net/topic/30373-struggling-to-get-vpilot-connected-to-fs2020/?do=findComment&comment=173688)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
