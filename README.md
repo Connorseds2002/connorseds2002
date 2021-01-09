@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unhandled exception vpilot](https://forums.vatsim.net/topic/30378-unhandled-exception-vpilot/?do=findComment&comment=173715)
+- [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173714)
+- [Understanding sector coverage](https://forums.vatsim.net/topic/30331-understanding-sector-coverage/?do=findComment&comment=173713)
+- [VPILOTs locks P3dv4.5](https://forums.vatsim.net/topic/30376-vpilots-locks-p3dv45/?do=findComment&comment=173712)
 - [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=173711)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173710)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173709)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173708)
 - [VPILOTs locks P3dv4.5](https://forums.vatsim.net/topic/30376-vpilots-locks-p3dv45/?do=findComment&comment=173707)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173706)
-- [Is VatSpy Dangerous?](https://forums.vatsim.net/topic/30375-is-vatspy-dangerous/?do=findComment&comment=173705)
-- [[January 9th 13:00-19:00 UTC] Tel Aviv - Zagreb Visit](https://forums.vatsim.net/topic/30325-january-9th-1300-1900-utc-tel-aviv-zagreb-visit/?do=findComment&comment=173704)
-- [Broken Discord link..](https://forums.vatsim.net/topic/30359-broken-discord-link/?do=findComment&comment=173703)
-- [[Appointment] Head of IT- APAC Region](https://forums.vatsim.net/topic/30361-appointment-head-of-it-apac-region/?do=findComment&comment=173702)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
