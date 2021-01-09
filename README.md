@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is VatSpy Dangerous?](https://forums.vatsim.net/topic/30375-is-vatspy-dangerous/?do=findComment&comment=173700)
 - [VPILOTs locks P3dv4.5](https://forums.vatsim.net/topic/30376-vpilots-locks-p3dv45/?do=findComment&comment=173699)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173698)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173697)
@@ -62,7 +63,6 @@
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173693)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173692)
 - [VAT-Spy loading everything slowed down](https://forums.vatsim.net/topic/30372-vat-spy-loading-everything-slowed-down/?do=findComment&comment=173691)
-- [Inactive Account to be reactivated](https://forums.vatsim.net/topic/30374-inactive-account-to-be-reactivated/?do=findComment&comment=173690)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
