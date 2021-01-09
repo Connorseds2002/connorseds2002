@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173724)
+- [MTL vatsim](https://forums.vatsim.net/topic/30381-mtl-vatsim/?do=findComment&comment=173723)
 - [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173722)
 - [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173721)
 - [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173720)
@@ -61,8 +63,6 @@
 - [[January 15th, 1130Z] Ayubowan Nepal](https://forums.vatsim.net/topic/30379-january-15th-1130z-ayubowan-nepal/?do=findComment&comment=173717)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173716)
 - [Unhandled exception vpilot](https://forums.vatsim.net/topic/30378-unhandled-exception-vpilot/?do=findComment&comment=173715)
-- [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173714)
-- [Understanding sector coverage](https://forums.vatsim.net/topic/30331-understanding-sector-coverage/?do=findComment&comment=173713)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
