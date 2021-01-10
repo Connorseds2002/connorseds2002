@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot issue after FS2020 update?](https://forums.vatsim.net/topic/30382-vpilot-issue-after-fs2020-update/?do=findComment&comment=173745)
+- [Let's fly into Sharjah across the Arabian Sea with PIA Virtual](https://forums.vatsim.net/topic/30388-lets-fly-into-sharjah-across-the-arabian-sea-with-pia-virtual/?do=findComment&comment=173744)
 - [Trying to connect to vatsim.](https://forums.vatsim.net/topic/30386-trying-to-connect-to-vatsim/?do=findComment&comment=173743)
 - [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=13)
 - [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173742)
@@ -61,8 +63,6 @@
 - [Trying to connect to vatsim.](https://forums.vatsim.net/topic/30386-trying-to-connect-to-vatsim/?do=findComment&comment=173739)
 - [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173738)
 - [Understanding sector coverage](https://forums.vatsim.net/topic/30331-understanding-sector-coverage/?do=findComment&comment=173737)
-- [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173736)
-- [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173735)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
