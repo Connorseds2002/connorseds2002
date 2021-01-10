@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173733)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173732)
 - [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173731)
 - [VATSIM Statement on FLAI Model Matching Package Discontinuation](https://forums.vatsim.net/topic/30384-vatsim-statement-on-flai-model-matching-package-discontinuation/?do=findComment&comment=173730)
@@ -62,7 +63,6 @@
 - [Vpilot issue after FS2020 update?](https://forums.vatsim.net/topic/30382-vpilot-issue-after-fs2020-update/?do=findComment&comment=173726)
 - [MTL vatsim](https://forums.vatsim.net/topic/30381-mtl-vatsim/?do=findComment&comment=173725)
 - [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173724)
-- [MTL vatsim](https://forums.vatsim.net/topic/30381-mtl-vatsim/?do=findComment&comment=173723)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
