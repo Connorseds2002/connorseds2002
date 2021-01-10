@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173757)
 - [OpenGL out of memory error](https://forums.vatsim.net/topic/30248-opengl-out-of-memory-error/?do=findComment&comment=173756)
 - [[14th Jan, 18-21Z] Helsinki in Sight](https://forums.vatsim.net/topic/30389-14th-jan-18-21z-helsinki-in-sight/?do=findComment&comment=173755)
 - [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173754)
@@ -62,7 +63,6 @@
 - [Could not find any model matching to download to P3d!](https://forums.vatsim.net/topic/30387-could-not-find-any-model-matching-to-download-to-p3d/?do=findComment&comment=173749)
 - [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173748)
 - [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173747)
-- [FP SID STAR changes seem endless](https://forums.vatsim.net/topic/30348-fp-sid-star-changes-seem-endless/?do=findComment&comment=173746)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
