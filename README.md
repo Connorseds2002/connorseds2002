@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173732)
+- [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173731)
 - [VATSIM Statement on FLAI Model Matching Package Discontinuation](https://forums.vatsim.net/topic/30384-vatsim-statement-on-flai-model-matching-package-discontinuation/?do=findComment&comment=173730)
 - [Open Source](https://forums.vatsim.net/topic/30383-open-source/?do=findComment&comment=173729)
 - [Datafeed URLs](https://forums.vatsim.net/topic/29914-datafeed-urls/?do=findComment&comment=173728)
@@ -61,8 +63,6 @@
 - [MTL vatsim](https://forums.vatsim.net/topic/30381-mtl-vatsim/?do=findComment&comment=173725)
 - [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173724)
 - [MTL vatsim](https://forums.vatsim.net/topic/30381-mtl-vatsim/?do=findComment&comment=173723)
-- [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173722)
-- [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=173721)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
