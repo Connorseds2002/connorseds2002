@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [b738 showed as embraer 170/190 and floating on ground with gear up..](https://forums.vatsim.net/topic/30394-b738-showed-as-embraer-170190-and-floating-on-ground-with-gear-up/?do=findComment&comment=173779)
+- [b738 showed as embraer 170/190 and floating on ground with gear up..](https://forums.vatsim.net/topic/30394-b738-showed-as-embraer-170190-and-floating-on-ground-with-gear-up/?do=findComment&comment=173778)
 - [b738 showed as embraer 170/190 and floating on ground with gear up..](https://forums.vatsim.net/topic/30394-b738-showed-as-embraer-170190-and-floating-on-ground-with-gear-up/?do=findComment&comment=173777)
 - [b738 showed as embraer 170/190 and floating on ground with gear up..](https://forums.vatsim.net/topic/30394-b738-showed-as-embraer-170190-and-floating-on-ground-with-gear-up/?do=findComment&comment=173776)
 - [b738 showed as embraer 170/190 and floating on ground with gear up..](https://forums.vatsim.net/topic/30394-b738-showed-as-embraer-170190-and-floating-on-ground-with-gear-up/?do=findComment&comment=173775)
@@ -61,8 +63,6 @@
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173772)
 - [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173771)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173770)
-- [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173769)
-- [I finally did it!](https://forums.vatsim.net/topic/30391-i-finally-did-it/?do=findComment&comment=173768)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
