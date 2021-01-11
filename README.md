@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130630)
 - [ATC Controlling Positions during Milk Run Monday](https://forums.vatpac.org/topic/18543-atc-controlling-positions-during-milk-run-monday/?do=findComment&comment=130628)
 - [ATC Positions - Milk Run Monday](https://forums.vatpac.org/topic/15096-atc-positions-milk-run-monday/?do=findComment&comment=130627)
 - [TWR Controller - James Walker](https://forums.vatpac.org/topic/18542-twr-controller-james-walker/?do=findComment&comment=130624)
@@ -48,7 +49,6 @@
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130605)
 - [Vacancy: ATC Training Mentor](https://forums.vatpac.org/topic/18538-vacancy-atc-training-mentor/?do=findComment&comment=130598)
 - [13FEB21 | Light Up Western Australia](https://forums.vatpac.org/topic/18537-13feb21-light-up-western-australia/?do=findComment&comment=130597)
-- [06OCT | James Hennell](https://forums.vatpac.org/topic/18350-06oct-james-hennell/?do=findComment&comment=130569)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
