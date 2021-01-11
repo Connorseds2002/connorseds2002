@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173793)
+- [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173792)
+- [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173791)
 - [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173790)
 - [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173789)
 - [Help please p3dv5](https://forums.vatsim.net/topic/30396-help-please-p3dv5/?do=findComment&comment=173788)
@@ -60,9 +63,6 @@
 - [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=173786)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173785)
 - [Help please p3dv5](https://forums.vatsim.net/topic/30396-help-please-p3dv5/?do=findComment&comment=173784)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173783)
-- [Audio setup](https://forums.vatsim.net/topic/30395-audio-setup/?do=findComment&comment=173782)
-- [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=173781)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
