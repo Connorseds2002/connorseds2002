@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=173786)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173785)
 - [Help please p3dv5](https://forums.vatsim.net/topic/30396-help-please-p3dv5/?do=findComment&comment=173784)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173783)
@@ -62,7 +63,6 @@
 - [b738 showed as embraer 170/190 and floating on ground with gear up..](https://forums.vatsim.net/topic/30394-b738-showed-as-embraer-170190-and-floating-on-ground-with-gear-up/?do=findComment&comment=173779)
 - [b738 showed as embraer 170/190 and floating on ground with gear up..](https://forums.vatsim.net/topic/30394-b738-showed-as-embraer-170190-and-floating-on-ground-with-gear-up/?do=findComment&comment=173778)
 - [b738 showed as embraer 170/190 and floating on ground with gear up..](https://forums.vatsim.net/topic/30394-b738-showed-as-embraer-170190-and-floating-on-ground-with-gear-up/?do=findComment&comment=173777)
-- [b738 showed as embraer 170/190 and floating on ground with gear up..](https://forums.vatsim.net/topic/30394-b738-showed-as-embraer-170190-and-floating-on-ground-with-gear-up/?do=findComment&comment=173776)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
