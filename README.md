@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=173799)
 - [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=173798)
 - [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=173797)
 - [Last Name Change](https://forums.vatsim.net/topic/30160-last-name-change/?do=findComment&comment=173796)
@@ -62,7 +63,6 @@
 - [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173792)
 - [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173791)
 - [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173790)
-- [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173789)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
