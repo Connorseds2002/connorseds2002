@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [27JAN21 World Discovery Colorado Rockies Leg 2](https://forums.vatpac.org/calendar/event/1610-27jan21-world-discovery-colorado-rockies-leg-2/)
+- [20JAN21 World Discovery Colorado Rockies](https://forums.vatpac.org/calendar/event/1609-20jan21-world-discovery-colorado-rockies/)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130630)
 - [ATC Controlling Positions during Milk Run Monday](https://forums.vatpac.org/topic/18543-atc-controlling-positions-during-milk-run-monday/?do=findComment&comment=130628)
 - [ATC Positions - Milk Run Monday](https://forums.vatpac.org/topic/15096-atc-positions-milk-run-monday/?do=findComment&comment=130627)
@@ -47,8 +49,6 @@
 - [NOTAM 10JAN21: Positions Reserved for Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18539-notam-10jan21-positions-reserved-for-transcon-shuttle-sydney/?do=findComment&comment=130607)
 - [13FEB21 | Light Up Western Australia](https://forums.vatpac.org/calendar/event/1604-13feb21-light-up-western-australia/)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130605)
-- [Vacancy: ATC Training Mentor](https://forums.vatpac.org/topic/18538-vacancy-atc-training-mentor/?do=findComment&comment=130598)
-- [13FEB21 | Light Up Western Australia](https://forums.vatpac.org/topic/18537-13feb21-light-up-western-australia/?do=findComment&comment=130597)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
