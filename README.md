@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Audio setup](https://forums.vatsim.net/topic/30395-audio-setup/?do=findComment&comment=173801)
 - [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173800)
 - [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=173799)
 - [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=173798)
@@ -62,7 +63,6 @@
 - [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173794)
 - [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173793)
 - [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173792)
-- [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173791)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
