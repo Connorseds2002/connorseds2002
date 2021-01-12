@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=173804)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173803)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173802)
 - [Audio setup](https://forums.vatsim.net/topic/30395-audio-setup/?do=findComment&comment=173801)
@@ -62,7 +63,6 @@
 - [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=173797)
 - [Last Name Change](https://forums.vatsim.net/topic/30160-last-name-change/?do=findComment&comment=173796)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173795)
-- [V pilot 'The parameter is incorrect'](https://forums.vatsim.net/topic/30397-v-pilot-the-parameter-is-incorrect/?do=findComment&comment=173794)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
