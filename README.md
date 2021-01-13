@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/24843-unspecifiederror-calling-waveinopen/?do=findComment&comment=173839)
+- [vPilot bug?](https://forums.vatsim.net/topic/30406-vpilot-bug/?do=findComment&comment=173838)
 - [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173837)
 - [[15th January 2021 | 1330z Onwards] Friday Night Live](https://forums.vatsim.net/topic/30405-15th-january-2021-1330z-onwards-friday-night-live/?do=findComment&comment=173836)
 - [N313GM](https://forums.vatsim.net/topic/30309-n313gm/?do=findComment&comment=173835)
@@ -61,8 +63,6 @@
 - [[January 15, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30400-january-15-18z-21z-bucharest-online/?do=findComment&comment=173832)
 - [[January 15, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30399-january-15-18z-21z-sofia-friday-night/?do=findComment&comment=173831)
 - [Logitech keyboard profile](https://forums.vatsim.net/topic/30404-logitech-keyboard-profile/?do=findComment&comment=173830)
-- [Link new Discord Account](https://forums.vatsim.net/topic/30403-link-new-discord-account/?do=findComment&comment=173829)
-- [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173828)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
