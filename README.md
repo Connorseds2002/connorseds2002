@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 16, 17z-21z] Ski Tour](https://forums.vatsim.net/topic/30416-january-16-17z-21z-ski-tour/?do=findComment&comment=173873)
+- [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173872)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173871)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173870)
 - [[ACCIND2] India vACC Deputy Director VACANCY Announced](https://forums.vatsim.net/topic/30415-accind2-india-vacc-deputy-director-vacancy-announced/?do=findComment&comment=173869)
@@ -61,8 +63,6 @@
 - [Audio setup](https://forums.vatsim.net/topic/30395-audio-setup/?do=findComment&comment=173866)
 - [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173865)
 - [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173864)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173863)
-- [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173862)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
