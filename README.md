@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173833)
+- [[January 15, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30400-january-15-18z-21z-bucharest-online/?do=findComment&comment=173832)
+- [[January 15, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30399-january-15-18z-21z-sofia-friday-night/?do=findComment&comment=173831)
+- [Logitech keyboard profile](https://forums.vatsim.net/topic/30404-logitech-keyboard-profile/?do=findComment&comment=173830)
 - [Link new Discord Account](https://forums.vatsim.net/topic/30403-link-new-discord-account/?do=findComment&comment=173829)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173828)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173827)
 - [Link new Discord Account](https://forums.vatsim.net/topic/30403-link-new-discord-account/?do=findComment&comment=173826)
 - [AI Traffic sound](https://forums.vatsim.net/topic/30401-ai-traffic-sound/?do=findComment&comment=173825)
 - [Link new Discord Account](https://forums.vatsim.net/topic/30403-link-new-discord-account/?do=findComment&comment=173824)
-- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173823)
-- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173822)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173821)
-- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173820)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
