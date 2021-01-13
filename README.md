@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173871)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173870)
+- [[ACCIND2] India vACC Deputy Director VACANCY Announced](https://forums.vatsim.net/topic/30415-accind2-india-vacc-deputy-director-vacancy-announced/?do=findComment&comment=173869)
+- [vPilot bug?](https://forums.vatsim.net/topic/30406-vpilot-bug/?do=findComment&comment=173868)
+- [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173867)
+- [Audio setup](https://forums.vatsim.net/topic/30395-audio-setup/?do=findComment&comment=173866)
+- [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173865)
+- [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173864)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173863)
 - [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173862)
-- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173861)
-- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173860)
-- [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173859)
-- [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173858)
-- [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173857)
-- [New Discord Server of VATPRC](https://forums.vatsim.net/topic/30412-new-discord-server-of-vatprc/?do=findComment&comment=173856)
-- [ZSAM (Xiamen China) - RCQC (Magong China)  route](https://forums.vatsim.net/topic/30091-zsam-xiamen-china-rcqc-magong-china-route/?do=findComment&comment=173855)
-- [[January 30, 21:00 to 01:00 Z] ARUBA & BOGOTA CROSS FIRE](https://forums.vatsim.net/topic/30411-january-30-2100-to-0100-z-aruba-bogota-cross-fire/?do=findComment&comment=173854)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
