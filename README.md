@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173875)
+- [Royal Air Maroc Virtual | Route Launch To Tel Aviv](https://forums.vatsim.net/topic/30417-royal-air-maroc-virtual-route-launch-to-tel-aviv/?do=findComment&comment=173874)
 - [[January 16, 17z-21z] Ski Tour](https://forums.vatsim.net/topic/30416-january-16-17z-21z-ski-tour/?do=findComment&comment=173873)
 - [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173872)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173871)
@@ -61,8 +63,6 @@
 - [vPilot bug?](https://forums.vatsim.net/topic/30406-vpilot-bug/?do=findComment&comment=173868)
 - [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173867)
 - [Audio setup](https://forums.vatsim.net/topic/30395-audio-setup/?do=findComment&comment=173866)
-- [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173865)
-- [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173864)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
