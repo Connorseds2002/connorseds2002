@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[15th January 2021 | 1330z Onwards] Friday Night Live](https://forums.vatsim.net/topic/30405-15th-january-2021-1330z-onwards-friday-night-live/?do=findComment&comment=173836)
 - [N313GM](https://forums.vatsim.net/topic/30309-n313gm/?do=findComment&comment=173835)
 - [[Appointment] Head of IT- APAC Region](https://forums.vatsim.net/topic/30361-appointment-head-of-it-apac-region/?do=findComment&comment=173834)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173833)
@@ -62,7 +63,6 @@
 - [Link new Discord Account](https://forums.vatsim.net/topic/30403-link-new-discord-account/?do=findComment&comment=173829)
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173828)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173827)
-- [Link new Discord Account](https://forums.vatsim.net/topic/30403-link-new-discord-account/?do=findComment&comment=173826)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
