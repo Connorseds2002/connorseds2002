@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ATC Examination] CPT C3 VIDF_CTR - 15.01.21 1330z - 1530z](https://forums.vatsim.net/topic/30407-atc-examination-cpt-c3-vidf_ctr-150121-1330z-1530z/?do=findComment&comment=173844)
 - [[15th January 2021 | 1330z Onwards] Friday Night Live](https://forums.vatsim.net/topic/30408-15th-january-2021-1330z-onwards-friday-night-live/?do=findComment&comment=173843)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173842)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173841)
@@ -62,7 +63,6 @@
 - [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173837)
 - [[15th January 2021 | 1330z Onwards] Friday Night Live](https://forums.vatsim.net/topic/30405-15th-january-2021-1330z-onwards-friday-night-live/?do=findComment&comment=173836)
 - [N313GM](https://forums.vatsim.net/topic/30309-n313gm/?do=findComment&comment=173835)
-- [[Appointment] Head of IT- APAC Region](https://forums.vatsim.net/topic/30361-appointment-head-of-it-apac-region/?do=findComment&comment=173834)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
