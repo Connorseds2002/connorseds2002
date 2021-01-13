@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [N313GM](https://forums.vatsim.net/topic/30309-n313gm/?do=findComment&comment=173835)
+- [[Appointment] Head of IT- APAC Region](https://forums.vatsim.net/topic/30361-appointment-head-of-it-apac-region/?do=findComment&comment=173834)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173833)
 - [[January 15, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30400-january-15-18z-21z-bucharest-online/?do=findComment&comment=173832)
 - [[January 15, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30399-january-15-18z-21z-sofia-friday-night/?do=findComment&comment=173831)
@@ -61,8 +63,6 @@
 - [Searching for a VA for use with PMDG GFO ACARS](https://forums.vatsim.net/topic/30377-searching-for-a-va-for-use-with-pmdg-gfo-acars/?do=findComment&comment=173828)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173827)
 - [Link new Discord Account](https://forums.vatsim.net/topic/30403-link-new-discord-account/?do=findComment&comment=173826)
-- [AI Traffic sound](https://forums.vatsim.net/topic/30401-ai-traffic-sound/?do=findComment&comment=173825)
-- [Link new Discord Account](https://forums.vatsim.net/topic/30403-link-new-discord-account/?do=findComment&comment=173824)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
