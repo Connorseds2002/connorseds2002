@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 30, 21:00 to 01:00 Z] ARUBA & BOGOTA CROSS FIRE](https://forums.vatsim.net/topic/30411-january-30-2100-to-0100-z-aruba-bogota-cross-fire/?do=findComment&comment=173854)
+- [come si fa un piano di volo e come ci si conette con vplanet?](https://forums.vatsim.net/topic/30410-come-si-fa-un-piano-di-volo-e-come-ci-si-conette-con-vplanet/?do=findComment&comment=173853)
+- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173852)
 - [POSITION VACANCY - DIVISONAL TRAINING ADMINISTRATOR (VATCAR3)](https://forums.vatsim.net/topic/30409-position-vacancy-divisonal-training-administrator-vatcar3/?do=findComment&comment=173851)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173850)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173849)
@@ -60,9 +63,6 @@
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173847)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173846)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173845)
-- [[ATC Examination] CPT C3 VIDF_CTR - 15.01.21 1330z - 1530z](https://forums.vatsim.net/topic/30407-atc-examination-cpt-c3-vidf_ctr-150121-1330z-1530z/?do=findComment&comment=173844)
-- [[15th January 2021 | 1330z Onwards] Friday Night Live](https://forums.vatsim.net/topic/30408-15th-january-2021-1330z-onwards-friday-night-live/?do=findComment&comment=173843)
-- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173842)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
