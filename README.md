@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173849)
+- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173848)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173847)
+- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173846)
+- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173845)
 - [[ATC Examination] CPT C3 VIDF_CTR - 15.01.21 1330z - 1530z](https://forums.vatsim.net/topic/30407-atc-examination-cpt-c3-vidf_ctr-150121-1330z-1530z/?do=findComment&comment=173844)
 - [[15th January 2021 | 1330z Onwards] Friday Night Live](https://forums.vatsim.net/topic/30408-15th-january-2021-1330z-onwards-friday-night-live/?do=findComment&comment=173843)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173842)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173841)
 - [[ATC Examination] CPT C3 VIDF_CTR - 15.01.21 1330z - 1530z](https://forums.vatsim.net/topic/30407-atc-examination-cpt-c3-vidf_ctr-150121-1330z-1530z/?do=findComment&comment=173840)
-- [UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/24843-unspecifiederror-calling-waveinopen/?do=findComment&comment=173839)
-- [vPilot bug?](https://forums.vatsim.net/topic/30406-vpilot-bug/?do=findComment&comment=173838)
-- [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173837)
-- [[15th January 2021 | 1330z Onwards] Friday Night Live](https://forums.vatsim.net/topic/30405-15th-january-2021-1330z-onwards-friday-night-live/?do=findComment&comment=173836)
-- [N313GM](https://forums.vatsim.net/topic/30309-n313gm/?do=findComment&comment=173835)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
