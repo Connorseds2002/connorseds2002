@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid CID/password](https://forums.vatsim.net/topic/30420-invalid-cidpassword/?do=findComment&comment=173886)
+- [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173885)
+- [[January 30, 21:00 to 01:00 Z] ARUBA & BOGOTA CROSS FIRE](https://forums.vatsim.net/topic/30411-january-30-2100-to-0100-z-aruba-bogota-cross-fire/?do=findComment&comment=173884)
+- [[January 16, 17z-21z] Ski Tour](https://forums.vatsim.net/topic/30416-january-16-17z-21z-ski-tour/?do=findComment&comment=173883)
+- [Invalid CID/password](https://forums.vatsim.net/topic/30420-invalid-cidpassword/?do=findComment&comment=173881)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173880)
 - [[VAA Program] VIR Virtual (United Kingdom)](https://forums.vatsim.net/topic/30419-vaa-program-vir-virtual-united-kingdom/?do=findComment&comment=173879)
 - [[Official VA Partner] EuroExpress Virtual (Latvia)](https://forums.vatsim.net/topic/30418-official-va-partner-euroexpress-virtual-latvia/?do=findComment&comment=173878)
 - [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173877)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173876)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173875)
-- [Royal Air Maroc Virtual | Route Launch To Tel Aviv](https://forums.vatsim.net/topic/30417-royal-air-maroc-virtual-route-launch-to-tel-aviv/?do=findComment&comment=173874)
-- [[January 16, 17z-21z] Ski Tour](https://forums.vatsim.net/topic/30416-january-16-17z-21z-ski-tour/?do=findComment&comment=173873)
-- [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173872)
-- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173871)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
