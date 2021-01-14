@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173891)
 - [Trying to connect to vatsim.](https://forums.vatsim.net/topic/30386-trying-to-connect-to-vatsim/?do=findComment&comment=173890)
 - [come si fa un piano di volo e come ci si conette con vplanet?](https://forums.vatsim.net/topic/30410-come-si-fa-un-piano-di-volo-e-come-ci-si-conette-con-vplanet/?do=findComment&comment=173889)
 - [vPilot bug?](https://forums.vatsim.net/topic/30406-vpilot-bug/?do=findComment&comment=173888)
@@ -62,7 +63,6 @@
 - [[January 16, 17z-21z] Ski Tour](https://forums.vatsim.net/topic/30416-january-16-17z-21z-ski-tour/?do=findComment&comment=173883)
 - [Invalid CID/password](https://forums.vatsim.net/topic/30420-invalid-cidpassword/?do=findComment&comment=173881)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173880)
-- [[VAA Program] VIR Virtual (United Kingdom)](https://forums.vatsim.net/topic/30419-vaa-program-vir-virtual-united-kingdom/?do=findComment&comment=173879)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
