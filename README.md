@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173908)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173907)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173906)
+- [Open Mic Incident & Resolution](https://forums.vatsim.net/topic/30423-open-mic-incident-resolution/?do=findComment&comment=173905)
 - [Open Mic Incident & Resolution](https://forums.vatsim.net/topic/30423-open-mic-incident-resolution/?do=findComment&comment=173904)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173903)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173902)
 - [Cannot hear ATIS](https://forums.vatsim.net/topic/30424-cannot-hear-atis/?do=findComment&comment=173901)
 - [[15th January 2021 | 1330z Onwards] Friday Night Live](https://forums.vatsim.net/topic/30408-15th-january-2021-1330z-onwards-friday-night-live/?do=findComment&comment=173900)
 - [Open Mic Incident & Resolution](https://forums.vatsim.net/topic/30423-open-mic-incident-resolution/?do=findComment&comment=173899)
-- [Trying to connect to vatsim.](https://forums.vatsim.net/topic/30386-trying-to-connect-to-vatsim/?do=findComment&comment=173898)
-- [vPilot bug?](https://forums.vatsim.net/topic/30406-vpilot-bug/?do=findComment&comment=173897)
-- [Staff Required at The EKv Group](https://forums.vatsim.net/topic/30422-staff-required-at-the-ekv-group/?do=findComment&comment=173895)
-- [[VATWA7] VATWA EVENTS DIRECTOR VACANCY ANNOUNCEMENT](https://forums.vatsim.net/topic/22639-vatwa7-vatwa-events-director-vacancy-announcement/?do=findComment&comment=173894)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
