@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VATWA7] VATWA EVENTS DIRECTOR VACANCY ANNOUNCEMENT](https://forums.vatsim.net/topic/22639-vatwa7-vatwa-events-director-vacancy-announcement/?do=findComment&comment=173894)
+- [[VACANCY ANNOUNCEMENTs CLOSED] Divisional and vACC](https://forums.vatsim.net/topic/26400-vacancy-announcements-closed-divisional-and-vacc/?do=findComment&comment=173893)
+- [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173892)
 - [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=173891)
 - [Trying to connect to vatsim.](https://forums.vatsim.net/topic/30386-trying-to-connect-to-vatsim/?do=findComment&comment=173890)
 - [come si fa un piano di volo e come ci si conette con vplanet?](https://forums.vatsim.net/topic/30410-come-si-fa-un-piano-di-volo-e-come-ci-si-conette-con-vplanet/?do=findComment&comment=173889)
@@ -60,9 +63,6 @@
 - [Invalid CID/password](https://forums.vatsim.net/topic/30420-invalid-cidpassword/?do=findComment&comment=173886)
 - [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173885)
 - [[January 30, 21:00 to 01:00 Z] ARUBA & BOGOTA CROSS FIRE](https://forums.vatsim.net/topic/30411-january-30-2100-to-0100-z-aruba-bogota-cross-fire/?do=findComment&comment=173884)
-- [[January 16, 17z-21z] Ski Tour](https://forums.vatsim.net/topic/30416-january-16-17z-21z-ski-tour/?do=findComment&comment=173883)
-- [Invalid CID/password](https://forums.vatsim.net/topic/30420-invalid-cidpassword/?do=findComment&comment=173881)
-- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173880)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
