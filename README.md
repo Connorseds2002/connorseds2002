@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Trying to connect to vatsim.](https://forums.vatsim.net/topic/30386-trying-to-connect-to-vatsim/?do=findComment&comment=173890)
 - [come si fa un piano di volo e come ci si conette con vplanet?](https://forums.vatsim.net/topic/30410-come-si-fa-un-piano-di-volo-e-come-ci-si-conette-con-vplanet/?do=findComment&comment=173889)
 - [vPilot bug?](https://forums.vatsim.net/topic/30406-vpilot-bug/?do=findComment&comment=173888)
 - [Invalid CID/password](https://forums.vatsim.net/topic/30420-invalid-cidpassword/?do=findComment&comment=173886)
@@ -62,7 +63,6 @@
 - [Invalid CID/password](https://forums.vatsim.net/topic/30420-invalid-cidpassword/?do=findComment&comment=173881)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173880)
 - [[VAA Program] VIR Virtual (United Kingdom)](https://forums.vatsim.net/topic/30419-vaa-program-vir-virtual-united-kingdom/?do=findComment&comment=173879)
-- [[Official VA Partner] EuroExpress Virtual (Latvia)](https://forums.vatsim.net/topic/30418-official-va-partner-euroexpress-virtual-latvia/?do=findComment&comment=173878)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
