@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VAA Program] VIR Virtual (United Kingdom)](https://forums.vatsim.net/topic/30419-vaa-program-vir-virtual-united-kingdom/?do=findComment&comment=173879)
+- [[Official VA Partner] EuroExpress Virtual (Latvia)](https://forums.vatsim.net/topic/30418-official-va-partner-euroexpress-virtual-latvia/?do=findComment&comment=173878)
+- [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173877)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173876)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173875)
 - [Royal Air Maroc Virtual | Route Launch To Tel Aviv](https://forums.vatsim.net/topic/30417-royal-air-maroc-virtual-route-launch-to-tel-aviv/?do=findComment&comment=173874)
@@ -60,9 +63,6 @@
 - [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173872)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173871)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173870)
-- [[ACCIND2] India vACC Deputy Director VACANCY Announced](https://forums.vatsim.net/topic/30415-accind2-india-vacc-deputy-director-vacancy-announced/?do=findComment&comment=173869)
-- [vPilot bug?](https://forums.vatsim.net/topic/30406-vpilot-bug/?do=findComment&comment=173868)
-- [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173867)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
