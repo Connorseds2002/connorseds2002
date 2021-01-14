@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=173880)
 - [[VAA Program] VIR Virtual (United Kingdom)](https://forums.vatsim.net/topic/30419-vaa-program-vir-virtual-united-kingdom/?do=findComment&comment=173879)
 - [[Official VA Partner] EuroExpress Virtual (Latvia)](https://forums.vatsim.net/topic/30418-official-va-partner-euroexpress-virtual-latvia/?do=findComment&comment=173878)
 - [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173877)
@@ -62,7 +63,6 @@
 - [[January 16, 17z-21z] Ski Tour](https://forums.vatsim.net/topic/30416-january-16-17z-21z-ski-tour/?do=findComment&comment=173873)
 - [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173872)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=173871)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173870)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
