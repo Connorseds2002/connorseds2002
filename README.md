@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NOTAM 15JAN21: Positions Reserved For QVirtual 10th Birthday Bash](https://forums.vatpac.org/topic/18550-notam-15jan21-positions-reserved-for-qvirtual-10th-birthday-bash/?do=findComment&comment=130662)
 - [15JAN21 | Port Macquarie to Maitland via the "Worm"](https://forums.vatpac.org/calendar/event/1576-15jan21-port-macquarie-to-maitland-via-the-worm/?do=findComment&comment=217&tab=comments)
 - [27JAN21 World Discovery Colorado Rockies Leg 2](https://forums.vatpac.org/calendar/event/1610-27jan21-world-discovery-colorado-rockies-leg-2/)
 - [20JAN21 World Discovery Colorado Rockies](https://forums.vatpac.org/calendar/event/1609-20jan21-world-discovery-colorado-rockies/)
@@ -48,7 +49,6 @@
 - [TWR Controller - James Walker](https://forums.vatpac.org/topic/18542-twr-controller-james-walker/?do=findComment&comment=130624)
 - [Vacancy: Manager ATC Standards](https://forums.vatpac.org/topic/18541-vacancy-manager-atc-standards/?do=findComment&comment=130621)
 - [NOTAM 10JAN21: Positions Reserved for Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18539-notam-10jan21-positions-reserved-for-transcon-shuttle-sydney/?do=findComment&comment=130607)
-- [13FEB21 | Light Up Western Australia](https://forums.vatpac.org/calendar/event/1604-13feb21-light-up-western-australia/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
