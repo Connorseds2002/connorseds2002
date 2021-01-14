@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot bug?](https://forums.vatsim.net/topic/30406-vpilot-bug/?do=findComment&comment=173888)
 - [Invalid CID/password](https://forums.vatsim.net/topic/30420-invalid-cidpassword/?do=findComment&comment=173886)
 - [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173885)
 - [[January 30, 21:00 to 01:00 Z] ARUBA & BOGOTA CROSS FIRE](https://forums.vatsim.net/topic/30411-january-30-2100-to-0100-z-aruba-bogota-cross-fire/?do=findComment&comment=173884)
@@ -62,7 +63,6 @@
 - [[VAA Program] VIR Virtual (United Kingdom)](https://forums.vatsim.net/topic/30419-vaa-program-vir-virtual-united-kingdom/?do=findComment&comment=173879)
 - [[Official VA Partner] EuroExpress Virtual (Latvia)](https://forums.vatsim.net/topic/30418-official-va-partner-euroexpress-virtual-latvia/?do=findComment&comment=173878)
 - [Military Ops](https://forums.vatsim.net/topic/30414-military-ops/?do=findComment&comment=173877)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173876)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
