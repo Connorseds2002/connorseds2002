@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [12FEB21 | Halls Creek to Fitzroy Crossing via Great Northern Highway](https://forums.vatpac.org/calendar/event/1617-12feb21-halls-creek-to-fitzroy-crossing-via-great-northern-highway/)
 - [07FEB21 | Swan Hill to Mildura via Willandra Lakes](https://forums.vatpac.org/calendar/event/1616-07feb21-swan-hill-to-mildura-via-willandra-lakes/)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=218&tab=comments)
@@ -48,7 +49,6 @@
 - [20JAN21 World Discovery Colorado Rockies](https://forums.vatpac.org/calendar/event/1609-20jan21-world-discovery-colorado-rockies/)
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130630)
 - [ATC Controlling Positions during Milk Run Monday](https://forums.vatpac.org/topic/18543-atc-controlling-positions-during-milk-run-monday/?do=findComment&comment=130628)
-- [ATC Positions - Milk Run Monday](https://forums.vatpac.org/topic/15096-atc-positions-milk-run-monday/?do=findComment&comment=130627)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
