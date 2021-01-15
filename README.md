@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [[VATWA5] VATWA MEMBERSHIP DIRECTOR VACANCY](https://forums.vatsim.net/topic/29956-vatwa5-vatwa-membership-director-vacancy/?do=findComment&comment=173948)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173947)
-- [Airwego - Flying the Compass since 2000](https://forums.vatsim.net/topic/30433-airwego-flying-the-compass-since-2000/?do=findComment&comment=173946)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173945)
-- [[DIVISION APPOINTMENT] VATWA7 Events Director, West Asia Division](https://forums.vatsim.net/topic/30431-division-appointment-vatwa7-events-director-west-asia-division/?do=findComment&comment=173944)
-- [[DIVISION APPOINTMENT] VATWA8 Deputy Events Director, West Asia Division](https://forums.vatsim.net/topic/30432-division-appointment-vatwa8-deputy-events-director-west-asia-division/?do=findComment&comment=173943)
-- [[DIVISION APPOINTMENT] VATWA8 Deputy Events Director, West Asia Division](https://forums.vatsim.net/topic/30432-division-appointment-vatwa8-deputy-events-director-west-asia-division/?do=findComment&comment=173942)
-- [[DIVISION APPOINTMENT] VATWA7 Events Director, West Asia Division](https://forums.vatsim.net/topic/30431-division-appointment-vatwa7-events-director-west-asia-division/?do=findComment&comment=173941)
-- [Can't log in to my old account](https://forums.vatsim.net/topic/30428-cant-log-in-to-my-old-account/?do=findComment&comment=173940)
-- [Cannot hear ATIS](https://forums.vatsim.net/topic/30424-cannot-hear-atis/?do=findComment&comment=173939)
+- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173962)
+- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173961)
+- [AFV too good sound](https://forums.vatsim.net/topic/30439-afv-too-good-sound/?do=findComment&comment=173960)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173959)
+- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173958)
+- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173957)
+- [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173956)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173955)
+- [Cannot hear ATIS](https://forums.vatsim.net/topic/30424-cannot-hear-atis/?do=findComment&comment=173954)
+- [[29th Jan 16:30z - 1st Feb 11:30z] SWISS Virtual Island Hopper Weekend](https://forums.vatsim.net/topic/30437-29th-jan-1630z-1st-feb-1130z-swiss-virtual-island-hopper-weekend/?do=findComment&comment=173953)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
