@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [joystick](https://forums.vatsim.net/topic/30427-joystick/?do=findComment&comment=173918)
 - [New VATSIM Dataserver](https://forums.vatsim.net/topic/26920-new-vatsim-dataserver/?do=findComment&comment=173916)
 - [Cannot hear ATIS](https://forums.vatsim.net/topic/30424-cannot-hear-atis/?do=findComment&comment=173914)
 - [Open Mic Incident & Resolution](https://forums.vatsim.net/topic/30423-open-mic-incident-resolution/?do=findComment&comment=173912)
@@ -62,7 +63,6 @@
 - [Impossible to manoeuvre the vatsim community for new pilots](https://forums.vatsim.net/topic/30413-impossible-to-manoeuvre-the-vatsim-community-for-new-pilots/?do=findComment&comment=173908)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173907)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173906)
-- [Open Mic Incident & Resolution](https://forums.vatsim.net/topic/30423-open-mic-incident-resolution/?do=findComment&comment=173905)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
