@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=173976)
+- [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173975)
+- [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173974)
+- [VatsimPHP updated to support new data feed JSON v3](https://forums.vatsim.net/topic/30278-vatsimphp-updated-to-support-new-data-feed-json-v3/?do=findComment&comment=173973)
+- [How long does it take to do the  exam again if you have failed](https://forums.vatsim.net/topic/30444-how-long-does-it-take-to-do-the-exam-again-if-you-have-failed/?do=findComment&comment=173972)
 - [How long does it take to do the  exam again if you have failed](https://forums.vatsim.net/topic/30444-how-long-does-it-take-to-do-the-exam-again-if-you-have-failed/?do=findComment&comment=173971)
 - [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173970)
 - [Friday Night Live: 22-01-2021: Fly IN/OUT of Kolkata (VECC)](https://forums.vatsim.net/topic/30443-friday-night-live-22-01-2021-fly-inout-of-kolkata-vecc/?do=findComment&comment=173969)
 - [Audio dropping out](https://forums.vatsim.net/topic/30442-audio-dropping-out/?do=findComment&comment=173968)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173967)
-- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173966)
-- [Help in sector making](https://forums.vatsim.net/topic/30441-help-in-sector-making/?do=findComment&comment=173965)
-- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173963)
-- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173962)
-- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173961)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
