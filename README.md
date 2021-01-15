@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [07FEB21 | Swan Hill to Mildura via Willandra Lakes](https://forums.vatpac.org/calendar/event/1616-07feb21-swan-hill-to-mildura-via-willandra-lakes/)
+- [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=218&tab=comments)
 - [NOTAM 15JAN21: Positions Reserved For QVirtual 10th Birthday Bash](https://forums.vatpac.org/topic/18550-notam-15jan21-positions-reserved-for-qvirtual-10th-birthday-bash/?do=findComment&comment=130662)
 - [15JAN21 | Port Macquarie to Maitland via the "Worm"](https://forums.vatpac.org/calendar/event/1576-15jan21-port-macquarie-to-maitland-via-the-worm/?do=findComment&comment=217&tab=comments)
@@ -47,8 +49,6 @@
 - [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130630)
 - [ATC Controlling Positions during Milk Run Monday](https://forums.vatpac.org/topic/18543-atc-controlling-positions-during-milk-run-monday/?do=findComment&comment=130628)
 - [ATC Positions - Milk Run Monday](https://forums.vatpac.org/topic/15096-atc-positions-milk-run-monday/?do=findComment&comment=130627)
-- [TWR Controller - James Walker](https://forums.vatpac.org/topic/18542-twr-controller-james-walker/?do=findComment&comment=130624)
-- [Vacancy: Manager ATC Standards](https://forums.vatpac.org/topic/18541-vacancy-manager-atc-standards/?do=findComment&comment=130621)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
