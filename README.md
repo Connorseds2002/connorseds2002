@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173935)
+- [Rainy evening in Buffalo earlier this week](https://forums.vatsim.net/topic/30430-rainy-evening-in-buffalo-earlier-this-week/?do=findComment&comment=173934)
 - [RESOLVED: Disconnection from Vatsim with FSD socket errors](https://forums.vatsim.net/topic/28727-resolved-disconnection-from-vatsim-with-fsd-socket-errors/?do=findComment&comment=173933)
 - [Brauche Hilfe beim einrichten!](https://forums.vatsim.net/topic/30429-brauche-hilfe-beim-einrichten/?do=findComment&comment=173932)
 - [Cannot hear ATIS](https://forums.vatsim.net/topic/30424-cannot-hear-atis/?do=findComment&comment=173931)
@@ -61,8 +63,6 @@
 - [Can't log in to my old account! WHY!!](https://forums.vatsim.net/topic/30428-cant-log-in-to-my-old-account-why/?do=findComment&comment=173928)
 - [Brauche Hilfe beim einrichten!](https://forums.vatsim.net/topic/30429-brauche-hilfe-beim-einrichten/?do=findComment&comment=173927)
 - [Can't log in to my old account! WHY!!](https://forums.vatsim.net/topic/30428-cant-log-in-to-my-old-account-why/?do=findComment&comment=173926)
-- [Brauche Hilfe beim einrichten!](https://forums.vatsim.net/topic/30429-brauche-hilfe-beim-einrichten/?do=findComment&comment=173925)
-- [Can't log in to my old account! WHY!!](https://forums.vatsim.net/topic/30428-cant-log-in-to-my-old-account-why/?do=findComment&comment=173924)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
