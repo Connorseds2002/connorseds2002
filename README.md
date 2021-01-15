@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173970)
+- [Friday Night Live: 22-01-2021: Fly IN/OUT of Kolkata (VECC)](https://forums.vatsim.net/topic/30443-friday-night-live-22-01-2021-fly-inout-of-kolkata-vecc/?do=findComment&comment=173969)
+- [Audio dropping out](https://forums.vatsim.net/topic/30442-audio-dropping-out/?do=findComment&comment=173968)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173967)
+- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173966)
+- [Help in sector making](https://forums.vatsim.net/topic/30441-help-in-sector-making/?do=findComment&comment=173965)
+- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173963)
 - [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173962)
 - [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173961)
 - [AFV too good sound](https://forums.vatsim.net/topic/30439-afv-too-good-sound/?do=findComment&comment=173960)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173959)
-- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173958)
-- [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173957)
-- [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173956)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=173955)
-- [Cannot hear ATIS](https://forums.vatsim.net/topic/30424-cannot-hear-atis/?do=findComment&comment=173954)
-- [[29th Jan 16:30z - 1st Feb 11:30z] SWISS Virtual Island Hopper Weekend](https://forums.vatsim.net/topic/30437-29th-jan-1630z-1st-feb-1130z-swiss-virtual-island-hopper-weekend/?do=findComment&comment=173953)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
