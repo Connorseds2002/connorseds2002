@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[DIVISION APPOINTMENT] VATWA8 Assistant Events Director, West Asia Division](https://forums.vatsim.net/topic/30432-division-appointment-vatwa8-assistant-events-director-west-asia-division/?do=findComment&comment=173943)
+- [[DIVISION APPOINTMENT] VATWA8 Assistant Events Director, West Asia Division](https://forums.vatsim.net/topic/30432-division-appointment-vatwa8-assistant-events-director-west-asia-division/?do=findComment&comment=173942)
+- [[DIVISION APPOINTMENT] VATWA7 Events Director, West Asia Division](https://forums.vatsim.net/topic/30431-division-appointment-vatwa7-events-director-west-asia-division/?do=findComment&comment=173941)
+- [Can't log in to my old account! WHY!!](https://forums.vatsim.net/topic/30428-cant-log-in-to-my-old-account-why/?do=findComment&comment=173940)
+- [Cannot hear ATIS](https://forums.vatsim.net/topic/30424-cannot-hear-atis/?do=findComment&comment=173939)
+- [[DIVISION APPOINTMENT] VATWA7 Events Director, West Asia Division](https://forums.vatsim.net/topic/30431-division-appointment-vatwa7-events-director-west-asia-division/?do=findComment&comment=173938)
+- [Rainy evening in Buffalo earlier this week](https://forums.vatsim.net/topic/30430-rainy-evening-in-buffalo-earlier-this-week/?do=findComment&comment=173937)
+- [You Wil Not Find In P3D or XP-11 or MS2020!!!](https://forums.vatsim.net/topic/30184-you-wil-not-find-in-p3d-or-xp-11-or-ms2020/?do=findComment&comment=173936)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173935)
 - [Rainy evening in Buffalo earlier this week](https://forums.vatsim.net/topic/30430-rainy-evening-in-buffalo-earlier-this-week/?do=findComment&comment=173934)
-- [RESOLVED: Disconnection from Vatsim with FSD socket errors](https://forums.vatsim.net/topic/28727-resolved-disconnection-from-vatsim-with-fsd-socket-errors/?do=findComment&comment=173933)
-- [Brauche Hilfe beim einrichten!](https://forums.vatsim.net/topic/30429-brauche-hilfe-beim-einrichten/?do=findComment&comment=173932)
-- [Cannot hear ATIS](https://forums.vatsim.net/topic/30424-cannot-hear-atis/?do=findComment&comment=173931)
-- [joystick](https://forums.vatsim.net/topic/30427-joystick/?do=findComment&comment=173930)
-- [Can't log in to my old account! WHY!!](https://forums.vatsim.net/topic/30428-cant-log-in-to-my-old-account-why/?do=findComment&comment=173929)
-- [Can't log in to my old account! WHY!!](https://forums.vatsim.net/topic/30428-cant-log-in-to-my-old-account-why/?do=findComment&comment=173928)
-- [Brauche Hilfe beim einrichten!](https://forums.vatsim.net/topic/30429-brauche-hilfe-beim-einrichten/?do=findComment&comment=173927)
-- [Can't log in to my old account! WHY!!](https://forums.vatsim.net/topic/30428-cant-log-in-to-my-old-account-why/?do=findComment&comment=173926)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
