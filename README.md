@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How long does it take to do the  exam again if you have failed](https://forums.vatsim.net/topic/30444-how-long-does-it-take-to-do-the-exam-again-if-you-have-failed/?do=findComment&comment=173971)
 - [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173970)
 - [Friday Night Live: 22-01-2021: Fly IN/OUT of Kolkata (VECC)](https://forums.vatsim.net/topic/30443-friday-night-live-22-01-2021-fly-inout-of-kolkata-vecc/?do=findComment&comment=173969)
 - [Audio dropping out](https://forums.vatsim.net/topic/30442-audio-dropping-out/?do=findComment&comment=173968)
@@ -62,7 +63,6 @@
 - [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173963)
 - [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173962)
 - [CID/Password is wrong](https://forums.vatsim.net/topic/30438-cidpassword-is-wrong/?do=findComment&comment=173961)
-- [AFV too good sound](https://forums.vatsim.net/topic/30439-afv-too-good-sound/?do=findComment&comment=173960)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
