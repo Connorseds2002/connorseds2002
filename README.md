@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Introducing SunWest Airlines - A High-Fidelity Virtual Airline Experience](https://forums.vatsim.net/topic/30447-introducing-sunwest-airlines-a-high-fidelity-virtual-airline-experience/?do=findComment&comment=173986)
+- [vERAM Vis Ranges](https://forums.vatsim.net/topic/30446-veram-vis-ranges/?do=findComment&comment=173985)
+- [Nametags/Nameplates/Labels not working in MSFS with V-Pilot, etc.](https://forums.vatsim.net/topic/30445-nametagsnameplateslabels-not-working-in-msfs-with-v-pilot-etc/?do=findComment&comment=173984)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173983)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173982)
 - [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=173981)
@@ -60,9 +63,6 @@
 - [vPilot version 2.6.9 mic problem](https://forums.vatsim.net/topic/29936-vpilot-version-269-mic-problem/?do=findComment&comment=173979)
 - [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173978)
 - [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173977)
-- [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=173976)
-- [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173975)
-- [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173974)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
