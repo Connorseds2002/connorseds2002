@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Appointment of Divisional ATC Training Deputy Director](https://forums.vatsim.net/topic/30455-appointment-of-divisional-atc-training-deputy-director/?do=findComment&comment=174017)
+- [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174016)
 - [VATspy not working](https://forums.vatsim.net/topic/30454-vatspy-not-working/?do=findComment&comment=174015)
 - [I finally did it!](https://forums.vatsim.net/topic/30391-i-finally-did-it/?do=findComment&comment=174014)
 - [Appointment of Divisional ATC Training Deputy Director](https://forums.vatsim.net/topic/30455-appointment-of-divisional-atc-training-deputy-director/?do=findComment&comment=174013)
@@ -61,8 +63,6 @@
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174010)
 - [AFV too good sound](https://forums.vatsim.net/topic/30439-afv-too-good-sound/?do=findComment&comment=174009)
 - [VATspy not working](https://forums.vatsim.net/topic/30454-vatspy-not-working/?do=findComment&comment=174008)
-- [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174007)
-- [You Wil Not Find In P3D or XP-11 or MS2020!!!](https://forums.vatsim.net/topic/30184-you-wil-not-find-in-p3d-or-xp-11-or-ms2020/?do=findComment&comment=174006)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
