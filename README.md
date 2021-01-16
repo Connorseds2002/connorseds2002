@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174024)
+- [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174023)
+- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174022)
 - [groupflight Visby friday 15januari](https://forums.vatsim.net/topic/30458-groupflight-visby-friday-15januari/?do=findComment&comment=174020)
 - [VRC "version check failed. HTTP error" "Could not retrieve list from network. Using the cached server list and user defined servers."](https://forums.vatsim.net/topic/30457-vrc-version-check-failed-http-error-could-not-retrieve-list-from-network-using-the-cached-server-list-and-user-defined-servers/?do=findComment&comment=174019)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174018)
@@ -60,9 +63,6 @@
 - [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174016)
 - [VATspy not working](https://forums.vatsim.net/topic/30454-vatspy-not-working/?do=findComment&comment=174015)
 - [I finally did it!](https://forums.vatsim.net/topic/30391-i-finally-did-it/?do=findComment&comment=174014)
-- [Appointment of Divisional ATC Training Deputy Director](https://forums.vatsim.net/topic/30455-appointment-of-divisional-atc-training-deputy-director/?do=findComment&comment=174013)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174012)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174011)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
