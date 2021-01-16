@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSpy not starting up](https://forums.vatsim.net/topic/30448-vatspy-not-starting-up/?do=findComment&comment=173992)
+- [Friday Night Live: 22-01-2021: Fly IN/OUT of Kolkata (VECC)](https://forums.vatsim.net/topic/30443-friday-night-live-22-01-2021-fly-inout-of-kolkata-vecc/?do=findComment&comment=173991)
+- [Nametags/Nameplates/Labels not working in MSFS with V-Pilot, etc.](https://forums.vatsim.net/topic/30445-nametagsnameplateslabels-not-working-in-msfs-with-v-pilot-etc/?do=findComment&comment=173990)
+- [Nametags/Nameplates/Labels not working in MSFS with V-Pilot, etc.](https://forums.vatsim.net/topic/30445-nametagsnameplateslabels-not-working-in-msfs-with-v-pilot-etc/?do=findComment&comment=173989)
+- [CTD caused by xpilot](https://forums.vatsim.net/topic/30215-ctd-caused-by-xpilot/?do=findComment&comment=173988)
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173987)
 - [Introducing SunWest Airlines - A High-Fidelity Virtual Airline Experience](https://forums.vatsim.net/topic/30447-introducing-sunwest-airlines-a-high-fidelity-virtual-airline-experience/?do=findComment&comment=173986)
-- [vERAM Vis Ranges](https://forums.vatsim.net/topic/30446-veram-vis-ranges/?do=findComment&comment=173985)
 - [Nametags/Nameplates/Labels not working in MSFS with V-Pilot, etc.](https://forums.vatsim.net/topic/30445-nametagsnameplateslabels-not-working-in-msfs-with-v-pilot-etc/?do=findComment&comment=173984)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173983)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=173982)
-- [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=173981)
-- [AFV too good sound](https://forums.vatsim.net/topic/30439-afv-too-good-sound/?do=findComment&comment=173980)
-- [vPilot version 2.6.9 mic problem](https://forums.vatsim.net/topic/29936-vpilot-version-269-mic-problem/?do=findComment&comment=173979)
-- [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173978)
-- [Message saying Cannot connect network.](https://forums.vatsim.net/topic/30436-message-saying-cannot-connect-network/?do=findComment&comment=173977)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
