@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Weather Radar possible?](https://forums.vatsim.net/topic/16253-weather-radar-possible/?do=findComment&comment=174000)
+- [AFV too good sound](https://forums.vatsim.net/topic/30439-afv-too-good-sound/?do=findComment&comment=173999)
 - [VATSpy not starting up](https://forums.vatsim.net/topic/30448-vatspy-not-starting-up/?do=findComment&comment=173998)
 - [Can You Fly the 737 Max in X-Plane 11 With Vatsim??](https://forums.vatsim.net/topic/30449-can-you-fly-the-737-max-in-x-plane-11-with-vatsim/?do=findComment&comment=173997)
 - [Can You Fly the 737 Max in X-Plane 11 With Vatsim??](https://forums.vatsim.net/topic/30449-can-you-fly-the-737-max-in-x-plane-11-with-vatsim/?do=findComment&comment=173996)
@@ -61,8 +63,6 @@
 - [Nametags/Nameplates/Labels not working in MSFS with V-Pilot, etc.](https://forums.vatsim.net/topic/30445-nametagsnameplateslabels-not-working-in-msfs-with-v-pilot-etc/?do=findComment&comment=173993)
 - [VATSpy not starting up](https://forums.vatsim.net/topic/30448-vatspy-not-starting-up/?do=findComment&comment=173992)
 - [Friday Night Live: 22-01-2021: Fly IN/OUT of Kolkata (VECC)](https://forums.vatsim.net/topic/30443-friday-night-live-22-01-2021-fly-inout-of-kolkata-vecc/?do=findComment&comment=173991)
-- [Nametags/Nameplates/Labels not working in MSFS with V-Pilot, etc.](https://forums.vatsim.net/topic/30445-nametagsnameplateslabels-not-working-in-msfs-with-v-pilot-etc/?do=findComment&comment=173990)
-- [Nametags/Nameplates/Labels not working in MSFS with V-Pilot, etc.](https://forums.vatsim.net/topic/30445-nametagsnameplateslabels-not-working-in-msfs-with-v-pilot-etc/?do=findComment&comment=173989)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
