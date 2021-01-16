@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174005)
+- [Agenda: VATSIM Board of Governors Meeting Q4-2020 - 16JAN21](https://forums.vatsim.net/topic/30452-agenda-vatsim-board-of-governors-meeting-q4-2020-16jan21/?do=findComment&comment=174004)
 - [Wrong departure airport displayed on startup](https://forums.vatsim.net/topic/30451-wrong-departure-airport-displayed-on-startup/?do=findComment&comment=174003)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174002)
 - [(ACCNPL3) Director Training ATC  Nepal vACC Vacancy](https://forums.vatsim.net/topic/30450-accnpl3-director-training-atc-nepal-vacc-vacancy/?do=findComment&comment=174001)
@@ -61,8 +63,6 @@
 - [VATSpy not starting up](https://forums.vatsim.net/topic/30448-vatspy-not-starting-up/?do=findComment&comment=173998)
 - [Can You Fly the 737 Max in X-Plane 11 With Vatsim??](https://forums.vatsim.net/topic/30449-can-you-fly-the-737-max-in-x-plane-11-with-vatsim/?do=findComment&comment=173997)
 - [Can You Fly the 737 Max in X-Plane 11 With Vatsim??](https://forums.vatsim.net/topic/30449-can-you-fly-the-737-max-in-x-plane-11-with-vatsim/?do=findComment&comment=173996)
-- [Nametags/Nameplates/Labels not working in MSFS with V-Pilot, etc.](https://forums.vatsim.net/topic/30445-nametagsnameplateslabels-not-working-in-msfs-with-v-pilot-etc/?do=findComment&comment=173995)
-- [VATSpy not starting up](https://forums.vatsim.net/topic/30448-vatspy-not-starting-up/?do=findComment&comment=173994)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
