@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=219&tab=comments)
 - [14FEB21 | Fitzroy Crossing to Halls Creek](https://forums.vatpac.org/calendar/event/1618-14feb21-fitzroy-crossing-to-halls-creek/)
 - [12FEB21 | Halls Creek to Fitzroy Crossing via Great Northern Highway](https://forums.vatpac.org/calendar/event/1617-12feb21-halls-creek-to-fitzroy-crossing-via-great-northern-highway/)
 - [07FEB21 | Swan Hill to Mildura via Willandra Lakes](https://forums.vatpac.org/calendar/event/1616-07feb21-swan-hill-to-mildura-via-willandra-lakes/)
@@ -48,7 +49,6 @@
 - [15JAN21 | Port Macquarie to Maitland via the "Worm"](https://forums.vatpac.org/calendar/event/1576-15jan21-port-macquarie-to-maitland-via-the-worm/?do=findComment&comment=217&tab=comments)
 - [27JAN21 World Discovery Colorado Rockies Leg 2](https://forums.vatpac.org/calendar/event/1610-27jan21-world-discovery-colorado-rockies-leg-2/)
 - [20JAN21 World Discovery Colorado Rockies](https://forums.vatpac.org/calendar/event/1609-20jan21-world-discovery-colorado-rockies/)
-- [10JAN21 | Transcon Shuttle Sydney](https://forums.vatpac.org/topic/18488-10jan21-transcon-shuttle-sydney/?do=findComment&comment=130630)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
