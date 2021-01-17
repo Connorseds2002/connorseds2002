@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Applications Open: Events Coordinator](https://forums.vatpac.org/topic/18519-applications-open-events-coordinator/?do=findComment&comment=130687)
 - [26FEB21 | Kangaroo Island to Port Lincoln via Investigator Strait](https://forums.vatpac.org/calendar/event/1624-26feb21-kangaroo-island-to-port-lincoln-via-investigator-strait/)
 - [21FEB2021 | Gympie to Archerfield via Moreton Bay Islands](https://forums.vatpac.org/calendar/event/1623-21feb2021-gympie-to-archerfield-via-moreton-bay-islands/)
 - [22FEB21 | Spilled Milk Run - Canberra & Gold Coast](https://forums.vatpac.org/calendar/event/1622-22feb21-spilled-milk-run-canberra-gold-coast/)
@@ -48,7 +49,6 @@
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=221&tab=comments)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=220&tab=comments)
 - [19FEB21 | Archerfield to Gympie via Moreton Bay Islands](https://forums.vatpac.org/calendar/event/1621-19feb21-archerfield-to-gympie-via-moreton-bay-islands/)
-- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=219&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
