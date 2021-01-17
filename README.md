@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174047)
+- [VATspy not working](https://forums.vatsim.net/topic/30454-vatspy-not-working/?do=findComment&comment=174046)
 - [Getting Network error: Invalid CID/password](https://forums.vatsim.net/topic/30461-getting-network-error-invalid-cidpassword/?do=findComment&comment=174045)
 - [POSITION VACANCY - DIVISONAL EVENTS COORDINATOR](https://forums.vatsim.net/topic/30468-position-vacancy-divisonal-events-coordinator/?do=findComment&comment=174044)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174043)
@@ -61,8 +63,6 @@
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=174034)
 - [VATSpy not starting up](https://forums.vatsim.net/topic/30448-vatspy-not-starting-up/?do=findComment&comment=174033)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174032)
-- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174031)
-- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174030)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
