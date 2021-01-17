@@ -39,16 +39,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [19FEB21 | Archerfield to Gympie via Moreton Bay](https://forums.vatpac.org/calendar/event/1621-19feb21-archerfield-to-gympie-via-moreton-bay/)
+- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=222&tab=comments)
+- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=221&tab=comments)
+- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=220&tab=comments)
+- [19FEB21 | Archerfield to Gympie via Moreton Bay Islands](https://forums.vatpac.org/calendar/event/1621-19feb21-archerfield-to-gympie-via-moreton-bay-islands/)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=219&tab=comments)
 - [14FEB21 | Fitzroy Crossing to Halls Creek](https://forums.vatpac.org/calendar/event/1618-14feb21-fitzroy-crossing-to-halls-creek/)
 - [12FEB21 | Halls Creek to Fitzroy Crossing via Great Northern Highway](https://forums.vatpac.org/calendar/event/1617-12feb21-halls-creek-to-fitzroy-crossing-via-great-northern-highway/)
 - [07FEB21 | Swan Hill to Mildura via Willandra Lakes](https://forums.vatpac.org/calendar/event/1616-07feb21-swan-hill-to-mildura-via-willandra-lakes/)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=218&tab=comments)
-- [NOTAM 15JAN21: Positions Reserved For QVirtual 10th Birthday Bash](https://forums.vatpac.org/topic/18550-notam-15jan21-positions-reserved-for-qvirtual-10th-birthday-bash/?do=findComment&comment=130662)
-- [15JAN21 | Port Macquarie to Maitland via the "Worm"](https://forums.vatpac.org/calendar/event/1576-15jan21-port-macquarie-to-maitland-via-the-worm/?do=findComment&comment=217&tab=comments)
-- [27JAN21 World Discovery Colorado Rockies Leg 2](https://forums.vatpac.org/calendar/event/1610-27jan21-world-discovery-colorado-rockies-leg-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
