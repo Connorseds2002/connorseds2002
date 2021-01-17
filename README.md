@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Getting Network error: Invalid CID/password](https://forums.vatsim.net/topic/30461-getting-network-error-invalid-cidpassword/?do=findComment&comment=174062)
+- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174061)
+- [groupflight Visby friday 15januari](https://forums.vatsim.net/topic/30458-groupflight-visby-friday-15januari/?do=findComment&comment=174060)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174059)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174058)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174057)
@@ -60,9 +63,6 @@
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174055)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174054)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174053)
-- [[ACCIND2] India vACC Deputy Director  Appointed](https://forums.vatsim.net/topic/30471-accind2-india-vacc-deputy-director-appointed/?do=findComment&comment=174052)
-- [[ACCIND2] India vACC Deputy Director VACANCY Announced](https://forums.vatsim.net/topic/30415-accind2-india-vacc-deputy-director-vacancy-announced/?do=findComment&comment=174051)
-- [Appointment of Divisional ATC Training Deputy Director](https://forums.vatsim.net/topic/30455-appointment-of-divisional-atc-training-deputy-director/?do=findComment&comment=174050)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
