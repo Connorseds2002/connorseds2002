@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=174111)
+- [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=174110)
 - [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=174109)
 - [[21th Jan, 18-21Z] Helsinki in Sight](https://forums.vatsim.net/topic/30487-21th-jan-18-21z-helsinki-in-sight/?do=findComment&comment=174108)
 - [vPilot making the right model matching but injecting the wrong model in the sim (MSFS)](https://forums.vatsim.net/topic/30474-vpilot-making-the-right-model-matching-but-injecting-the-wrong-model-in-the-sim-msfs/?do=findComment&comment=174106)
@@ -61,8 +63,6 @@
 - [Nametags/Nameplates/Labels not working in MSFS with V-Pilot, etc.](https://forums.vatsim.net/topic/30445-nametagsnameplateslabels-not-working-in-msfs-with-v-pilot-etc/?do=findComment&comment=174103)
 - [Getting Network error: Invalid CID/password](https://forums.vatsim.net/topic/30461-getting-network-error-invalid-cidpassword/?do=findComment&comment=174102)
 - [Offering my services](https://forums.vatsim.net/topic/30485-offering-my-services/?do=findComment&comment=174101)
-- [Pilot Hours not updating](https://forums.vatsim.net/topic/30297-pilot-hours-not-updating/?do=findComment&comment=174100)
-- [[Jan 30] Canadian Xpress January Fly-In - Over the Rockies](https://forums.vatsim.net/topic/30484-jan-30-canadian-xpress-january-fly-in-over-the-rockies/?do=findComment&comment=174099)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
