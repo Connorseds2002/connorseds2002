@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Jan 24 06:00Z-08:00Z] RPLL_APP (Manila Approach) S3 CPT](https://forums.vatsim.net/topic/30490-jan-24-0600z-0800z-rpll_app-manila-approach-s3-cpt/?do=findComment&comment=174127)
 - [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174126)
 - [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174125)
 - [vPilot 2.7.0 Released in Beta Updates Channel](https://forums.vatsim.net/topic/30489-vpilot-270-released-in-beta-updates-channel/?do=findComment&comment=174124)
@@ -62,7 +63,6 @@
 - [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174120)
 - [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174119)
 - [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174118)
-- [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174117)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
