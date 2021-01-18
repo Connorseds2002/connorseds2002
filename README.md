@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174144)
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174143)
 - [[21th Jan, 18-21Z] Helsinki in Sight](https://forums.vatsim.net/topic/30487-21th-jan-18-21z-helsinki-in-sight/?do=findComment&comment=174142)
 - [MSFS 2020 Transponder ON does not switch Mode C in vPilot](https://forums.vatsim.net/topic/29069-msfs-2020-transponder-on-does-not-switch-mode-c-in-vpilot/?do=findComment&comment=174141)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174140)
@@ -61,8 +63,6 @@
 - [Pilot Hours not updating](https://forums.vatsim.net/topic/30297-pilot-hours-not-updating/?do=findComment&comment=174137)
 - [Electronic voices in vatsim](https://forums.vatsim.net/topic/30492-electronic-voices-in-vatsim/?do=findComment&comment=174136)
 - [Electronic voices in vatsim](https://forums.vatsim.net/topic/30492-electronic-voices-in-vatsim/?do=findComment&comment=174135)
-- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174134)
-- [Pilot Hours not updating](https://forums.vatsim.net/topic/30297-pilot-hours-not-updating/?do=findComment&comment=174133)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
