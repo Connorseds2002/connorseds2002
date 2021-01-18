@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How do I get a IFR clearance at an uncontrolled airport.](https://forums.vatsim.net/topic/26962-how-do-i-get-a-ifr-clearance-at-an-uncontrolled-airport/?do=findComment&comment=174161)
+- [How do I get a IFR clearance at an uncontrolled airport.](https://forums.vatsim.net/topic/26962-how-do-i-get-a-ifr-clearance-at-an-uncontrolled-airport/?do=findComment&comment=174160)
 - [Only one of tree monitor shows other traffic - dangerous when taxing.](https://forums.vatsim.net/topic/29315-only-one-of-tree-monitor-shows-other-traffic-dangerous-when-taxing/?do=findComment&comment=174159)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174158)
 - [MSFS 2020 Transponder ON does not switch Mode C in vPilot](https://forums.vatsim.net/topic/29069-msfs-2020-transponder-on-does-not-switch-mode-c-in-vpilot/?do=findComment&comment=174157)
@@ -61,8 +63,6 @@
 - [Which Flight Level to file?](https://forums.vatsim.net/topic/30495-which-flight-level-to-file/?do=findComment&comment=174154)
 - [Which Flight Level to file?](https://forums.vatsim.net/topic/30495-which-flight-level-to-file/?do=findComment&comment=174153)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174152)
-- [Getting Network error: Invalid CID/password](https://forums.vatsim.net/topic/30461-getting-network-error-invalid-cidpassword/?do=findComment&comment=174151)
-- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=174150)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
