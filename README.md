@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I finally did it!](https://forums.vatsim.net/topic/30391-i-finally-did-it/?do=findComment&comment=174156)
+- [I finally did it!](https://forums.vatsim.net/topic/30391-i-finally-did-it/?do=findComment&comment=174155)
 - [Which Flight Level to file?](https://forums.vatsim.net/topic/30495-which-flight-level-to-file/?do=findComment&comment=174154)
 - [Which Flight Level to file?](https://forums.vatsim.net/topic/30495-which-flight-level-to-file/?do=findComment&comment=174153)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174152)
@@ -61,8 +63,6 @@
 - [You Think P3D, XP-11, and MS2020 Can Beat FSX?](https://forums.vatsim.net/topic/30494-you-think-p3d-xp-11-and-ms2020-can-beat-fsx/?do=findComment&comment=174149)
 - [MSFS 2020 Transponder ON does not switch Mode C in vPilot](https://forums.vatsim.net/topic/29069-msfs-2020-transponder-on-does-not-switch-mode-c-in-vpilot/?do=findComment&comment=174148)
 - [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=174147)
-- [You Wil Not Find In P3D or XP-11 or MS2020!!!](https://forums.vatsim.net/topic/30184-you-wil-not-find-in-p3d-or-xp-11-or-ms2020/?do=findComment&comment=174145)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174144)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
