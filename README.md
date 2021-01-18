@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Member Orientation exam failed](https://forums.vatsim.net/topic/30491-member-orientation-exam-failed/?do=findComment&comment=174131)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174130)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174129)
 - [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174128)
@@ -62,7 +63,6 @@
 - [vPilot 2.7.0 Released in Beta Updates Channel](https://forums.vatsim.net/topic/30489-vpilot-270-released-in-beta-updates-channel/?do=findComment&comment=174124)
 - [MSFS 2020 Transponder ON does not switch Mode C in vPilot](https://forums.vatsim.net/topic/29069-msfs-2020-transponder-on-does-not-switch-mode-c-in-vpilot/?do=findComment&comment=174123)
 - [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174122)
-- [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174121)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
