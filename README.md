@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174140)
+- [MSFS 2020 Transponder ON does not switch Mode C in vPilot](https://forums.vatsim.net/topic/29069-msfs-2020-transponder-on-does-not-switch-mode-c-in-vpilot/?do=findComment&comment=174139)
 - [Electronic voices in vatsim](https://forums.vatsim.net/topic/30492-electronic-voices-in-vatsim/?do=findComment&comment=174138)
 - [Pilot Hours not updating](https://forums.vatsim.net/topic/30297-pilot-hours-not-updating/?do=findComment&comment=174137)
 - [Electronic voices in vatsim](https://forums.vatsim.net/topic/30492-electronic-voices-in-vatsim/?do=findComment&comment=174136)
@@ -61,8 +63,6 @@
 - [Pilot Hours not updating](https://forums.vatsim.net/topic/30297-pilot-hours-not-updating/?do=findComment&comment=174133)
 - [Member Orientation exam failed](https://forums.vatsim.net/topic/30491-member-orientation-exam-failed/?do=findComment&comment=174132)
 - [Member Orientation exam failed](https://forums.vatsim.net/topic/30491-member-orientation-exam-failed/?do=findComment&comment=174131)
-- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174130)
-- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174129)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
