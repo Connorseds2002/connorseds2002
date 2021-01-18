@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174158)
+- [MSFS 2020 Transponder ON does not switch Mode C in vPilot](https://forums.vatsim.net/topic/29069-msfs-2020-transponder-on-does-not-switch-mode-c-in-vpilot/?do=findComment&comment=174157)
 - [I finally did it!](https://forums.vatsim.net/topic/30391-i-finally-did-it/?do=findComment&comment=174156)
 - [I finally did it!](https://forums.vatsim.net/topic/30391-i-finally-did-it/?do=findComment&comment=174155)
 - [Which Flight Level to file?](https://forums.vatsim.net/topic/30495-which-flight-level-to-file/?do=findComment&comment=174154)
@@ -61,8 +63,6 @@
 - [Getting Network error: Invalid CID/password](https://forums.vatsim.net/topic/30461-getting-network-error-invalid-cidpassword/?do=findComment&comment=174151)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=174150)
 - [You Think P3D, XP-11, and MS2020 Can Beat FSX?](https://forums.vatsim.net/topic/30494-you-think-p3d-xp-11-and-ms2020-can-beat-fsx/?do=findComment&comment=174149)
-- [MSFS 2020 Transponder ON does not switch Mode C in vPilot](https://forums.vatsim.net/topic/29069-msfs-2020-transponder-on-does-not-switch-mode-c-in-vpilot/?do=findComment&comment=174148)
-- [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=174147)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
