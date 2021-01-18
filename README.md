@@ -39,16 +39,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://forums.vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=223&tab=comments)
 - [Applications Open: Events Coordinator](https://forums.vatpac.org/topic/18519-applications-open-events-coordinator/?do=findComment&comment=130687)
-- [26FEB21 | Kangaroo Island to Port Lincoln via Investigator Strait](https://forums.vatpac.org/calendar/event/1624-26feb21-kangaroo-island-to-port-lincoln-via-investigator-strait/)
+- [26FEB21 | Kangaroo Island to Port Lincoln via Gambier Islands](https://forums.vatpac.org/calendar/event/1624-26feb21-kangaroo-island-to-port-lincoln-via-gambier-islands/)
 - [21FEB2021 | Gympie to Archerfield via Moreton Bay Islands](https://forums.vatpac.org/calendar/event/1623-21feb2021-gympie-to-archerfield-via-moreton-bay-islands/)
 - [22FEB21 | Spilled Milk Run - Canberra & Gold Coast](https://forums.vatpac.org/calendar/event/1622-22feb21-spilled-milk-run-canberra-gold-coast/)
 - [22FEB21 | Spilled Milk Run - Canberra & Gold Coast](https://forums.vatpac.org/topic/18557-22feb21-spilled-milk-run-canberra-gold-coast/?do=findComment&comment=130686)
 - [TWR Controller - Adam Hammond](https://forums.vatpac.org/topic/18556-twr-controller-adam-hammond/?do=findComment&comment=130685)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=222&tab=comments)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=221&tab=comments)
-- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=220&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
