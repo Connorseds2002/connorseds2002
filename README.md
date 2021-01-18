@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174130)
+- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174129)
+- [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174128)
 - [[Jan 24 06:00Z-08:00Z] RPLL_APP (Manila Approach) S3 CPT](https://forums.vatsim.net/topic/30490-jan-24-0600z-0800z-rpll_app-manila-approach-s3-cpt/?do=findComment&comment=174127)
 - [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174126)
 - [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174125)
@@ -60,9 +63,6 @@
 - [MSFS 2020 Transponder ON does not switch Mode C in vPilot](https://forums.vatsim.net/topic/29069-msfs-2020-transponder-on-does-not-switch-mode-c-in-vpilot/?do=findComment&comment=174123)
 - [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174122)
 - [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174121)
-- [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174120)
-- [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174119)
-- [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174118)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
