@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174126)
+- [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174125)
+- [vPilot 2.7.0 Released in Beta Updates Channel](https://forums.vatsim.net/topic/30489-vpilot-270-released-in-beta-updates-channel/?do=findComment&comment=174124)
+- [MSFS 2020 Transponder ON does not switch Mode C in vPilot](https://forums.vatsim.net/topic/29069-msfs-2020-transponder-on-does-not-switch-mode-c-in-vpilot/?do=findComment&comment=174123)
 - [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174122)
 - [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174121)
 - [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174120)
 - [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174119)
 - [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174118)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174117)
-- [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174116)
-- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=174114)
-- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174113)
-- [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174112)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
