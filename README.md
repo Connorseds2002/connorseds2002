@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174122)
+- [[January 18th, 0230z] Join us to fly through Venezuela](https://forums.vatsim.net/topic/30488-january-18th-0230z-join-us-to-fly-through-venezuela/?do=findComment&comment=174121)
+- [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174120)
 - [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174119)
 - [Looking forward to trying vatSys!](https://forums.vatsim.net/topic/30475-looking-forward-to-trying-vatsys/?do=findComment&comment=174118)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174117)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174116)
-- [DOES ANYONE HAVE THE FLAI FILES/INSTALLER](https://forums.vatsim.net/topic/30477-does-anyone-have-the-flai-filesinstaller/?do=findComment&comment=174115)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=174114)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174113)
 - [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174112)
-- [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=174111)
-- [Landing VATSIM traffic anomaly](https://forums.vatsim.net/topic/30177-landing-vatsim-traffic-anomaly/?do=findComment&comment=174110)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
