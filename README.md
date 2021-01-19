@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Notice of deprecation - Events forum](https://forums.vatsim.net/topic/30505-notice-of-deprecation-events-forum/?do=findComment&comment=174195)
 - [[VACANCY] VATEUD Community Director](https://forums.vatsim.net/topic/30501-vacancy-vateud-community-director/?do=findComment&comment=174191)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174190)
 - [AFV Controller Client Unusable](https://forums.vatsim.net/topic/30137-afv-controller-client-unusable/?do=findComment&comment=174189)
@@ -62,7 +63,6 @@
 - [[January 23, 13z-16z] Bucharest - Iasi City Link](https://forums.vatsim.net/topic/30499-january-23-13z-16z-bucharest-iasi-city-link/?do=findComment&comment=174185)
 - [[January 22, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30497-january-22-18z-21z-sofia-friday-night/?do=findComment&comment=174184)
 - [[January 23, 13z-16z] Bucharest - Iasi City Link](https://forums.vatsim.net/topic/30499-january-23-13z-16z-bucharest-iasi-city-link/?do=findComment&comment=174183)
-- [[January 23, 13z-16z] Bucharest - Iasi City Link](https://forums.vatsim.net/topic/30499-january-23-13z-16z-bucharest-iasi-city-link/?do=findComment&comment=174182)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
