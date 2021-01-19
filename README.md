@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 22, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30498-january-22-18z-21z-bucharest-online/?do=findComment&comment=174186)
+- [[January 23, 13z-16z] Bucharest - Iasi City Link](https://forums.vatsim.net/topic/30499-january-23-13z-16z-bucharest-iasi-city-link/?do=findComment&comment=174185)
+- [[January 22, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30497-january-22-18z-21z-sofia-friday-night/?do=findComment&comment=174184)
 - [[January 23, 13z-16z] Bucharest - Iasi City Link](https://forums.vatsim.net/topic/30499-january-23-13z-16z-bucharest-iasi-city-link/?do=findComment&comment=174183)
 - [[January 23, 13z-16z] Bucharest - Iasi City Link](https://forums.vatsim.net/topic/30499-january-23-13z-16z-bucharest-iasi-city-link/?do=findComment&comment=174182)
 - [[January 22, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30498-january-22-18z-21z-bucharest-online/?do=findComment&comment=174181)
@@ -60,9 +63,6 @@
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=174179)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=174178)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=174177)
-- [[January 22, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30498-january-22-18z-21z-bucharest-online/?do=findComment&comment=174176)
-- [[January 23, 13z-16z] Bucharest - Iasi City Link](https://forums.vatsim.net/topic/30499-january-23-13z-16z-bucharest-iasi-city-link/?do=findComment&comment=174175)
-- [[January 22, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30497-january-22-18z-21z-sofia-friday-night/?do=findComment&comment=174174)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
