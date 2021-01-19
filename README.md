@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 23, 13z-16z] Bucharest - Iasi City Link](https://forums.vatsim.net/topic/30499-january-23-13z-16z-bucharest-iasi-city-link/?do=findComment&comment=174172)
+- [[January 22, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30498-january-22-18z-21z-bucharest-online/?do=findComment&comment=174171)
+- [[January 22, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30497-january-22-18z-21z-sofia-friday-night/?do=findComment&comment=174170)
+- [Which Flight Level to file?](https://forums.vatsim.net/topic/30495-which-flight-level-to-file/?do=findComment&comment=174169)
 - [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=174168)
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=174167)
 - [Which Flight Level to file?](https://forums.vatsim.net/topic/30495-which-flight-level-to-file/?do=findComment&comment=174166)
 - [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174165)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174164)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174163)
-- [How do I get a IFR clearance at an uncontrolled airport.](https://forums.vatsim.net/topic/26962-how-do-i-get-a-ifr-clearance-at-an-uncontrolled-airport/?do=findComment&comment=174162)
-- [How do I get a IFR clearance at an uncontrolled airport.](https://forums.vatsim.net/topic/26962-how-do-i-get-a-ifr-clearance-at-an-uncontrolled-airport/?do=findComment&comment=174161)
-- [How do I get a IFR clearance at an uncontrolled airport.](https://forums.vatsim.net/topic/26962-how-do-i-get-a-ifr-clearance-at-an-uncontrolled-airport/?do=findComment&comment=174160)
-- [Only one of tree monitor shows other traffic - dangerous when taxing.](https://forums.vatsim.net/topic/29315-only-one-of-tree-monitor-shows-other-traffic-dangerous-when-taxing/?do=findComment&comment=174159)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
