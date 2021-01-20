@@ -39,6 +39,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [05MAR21 | Gunnedah to Walgett](https://forums.vatpac.org/calendar/event/1629-05mar21-gunnedah-to-walgett/)
+- [31JAN21 | Goolwa to Parafield via River Murray](https://forums.vatpac.org/calendar/event/1628-31jan21-goolwa-to-parafield-via-river-murray/)
+- [29JAN21 | Parafield to Goolwa via Fleurieu Peninsula](https://forums.vatpac.org/calendar/event/1627-29jan21-parafield-to-goolwa-via-fleurieu-peninsula/)
 - [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://forums.vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/)
 - [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=223&tab=comments)
 - [Applications Open: Events Coordinator](https://forums.vatpac.org/topic/18519-applications-open-events-coordinator/?do=findComment&comment=130687)
@@ -46,9 +49,6 @@
 - [21FEB21 | Gympie to Archerfield via Moreton Bay Islands](https://forums.vatpac.org/calendar/event/1623-21feb21-gympie-to-archerfield-via-moreton-bay-islands/)
 - [22FEB21 | Spilled Milk Run - Canberra & Gold Coast](https://forums.vatpac.org/calendar/event/1622-22feb21-spilled-milk-run-canberra-gold-coast/)
 - [22FEB21 | Spilled Milk Run - Canberra & Gold Coast](https://forums.vatpac.org/topic/18557-22feb21-spilled-milk-run-canberra-gold-coast/?do=findComment&comment=130686)
-- [TWR Controller - Adam Hammond](https://forums.vatpac.org/topic/18556-twr-controller-adam-hammond/?do=findComment&comment=130685)
-- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=222&tab=comments)
-- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=221&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
