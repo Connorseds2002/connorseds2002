@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [About the virtual airline staff positions?](https://forums.vatsim.net/topic/29993-about-the-virtual-airline-staff-positions/?do=findComment&comment=174267)
 - [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174266)
 - [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174265)
 - [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174264)
@@ -62,7 +63,6 @@
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174257)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174256)
 - [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174254)
-- [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174253)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
