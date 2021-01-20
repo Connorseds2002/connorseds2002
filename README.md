@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [About the virtual airline staff positions?](https://forums.vatsim.net/topic/29993-about-the-virtual-airline-staff-positions/?do=findComment&comment=174249)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174245)
 - [[January 24th, 00z-16z] Operation Polynesian Vikings](https://forums.vatsim.net/topic/30525-january-24th-00z-16z-operation-polynesian-vikings/?do=findComment&comment=174244)
 - [Which Flight Level to file?](https://forums.vatsim.net/topic/30495-which-flight-level-to-file/?do=findComment&comment=174242)
@@ -62,7 +63,6 @@
 - [POSITION VACANCY - SAN JUAN CERAP (ZSU) DEPUTY AIR TRAFFIC MANAGER](https://forums.vatsim.net/topic/30523-position-vacancy-san-juan-cerap-zsu-deputy-air-traffic-manager/?do=findComment&comment=174238)
 - [Frequency won't change](https://forums.vatsim.net/topic/30522-frequency-wont-change/?do=findComment&comment=174237)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174236)
-- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174234)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
