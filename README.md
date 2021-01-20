@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unhandled exception error](https://forums.vatsim.net/topic/30528-unhandled-exception-error/?do=findComment&comment=174271)
+- [Unhandled exception error](https://forums.vatsim.net/topic/30528-unhandled-exception-error/?do=findComment&comment=174270)
 - [Unhandled exception error](https://forums.vatsim.net/topic/30528-unhandled-exception-error/?do=findComment&comment=174269)
 - [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174266)
 - [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174265)
@@ -61,8 +63,6 @@
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174259)
 - [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=174258)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174257)
-- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174256)
-- [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174254)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
