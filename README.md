@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174236)
+- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174234)
+- [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174233)
+- [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174232)
+- [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174231)
 - [Comms freeze in A320N in FS2020](https://forums.vatsim.net/topic/30521-comms-freeze-in-a320n-in-fs2020/?do=findComment&comment=174230)
 - [simbrief, Vpilot and Vatsim with P3Dv4.5](https://forums.vatsim.net/topic/30520-simbrief-vpilot-and-vatsim-with-p3dv45/?do=findComment&comment=174229)
 - [Which Flight Level to file?](https://forums.vatsim.net/topic/30495-which-flight-level-to-file/?do=findComment&comment=174228)
 - [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174227)
 - [Getting Network error: Invalid CID/password](https://forums.vatsim.net/topic/30461-getting-network-error-invalid-cidpassword/?do=findComment&comment=174226)
-- [To show somehow for the controller that I am beginner...](https://forums.vatsim.net/topic/30398-to-show-somehow-for-the-controller-that-i-am-beginner/?do=findComment&comment=174225)
-- [No flight plan was found on the server.](https://forums.vatsim.net/topic/30519-no-flight-plan-was-found-on-the-server/?do=findComment&comment=174222)
-- [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174221)
-- [No flight plan was found on the server.](https://forums.vatsim.net/topic/30519-no-flight-plan-was-found-on-the-server/?do=findComment&comment=174220)
-- [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174219)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
