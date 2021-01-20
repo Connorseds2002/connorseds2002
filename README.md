@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174266)
+- [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174265)
 - [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174264)
 - [Inquiry about when to open any radar](https://forums.vatsim.net/topic/30526-inquiry-about-when-to-open-any-radar/?do=findComment&comment=174260)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174259)
@@ -61,8 +63,6 @@
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174256)
 - [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174254)
 - [Would ATC accommodate being towed?](https://forums.vatsim.net/topic/30496-would-atc-accommodate-being-towed/?do=findComment&comment=174253)
-- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174252)
-- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174251)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
