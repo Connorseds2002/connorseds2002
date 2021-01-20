@@ -39,8 +39,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [07MAR21 | Walgett to Gunnedah](https://forums.vatpac.org/calendar/event/1630-07mar21-walgett-to-gunnedah/)
 - [Appointment of Event Coordinator(s)](https://forums.vatpac.org/topic/18563-appointment-of-event-coordinators/?do=findComment&comment=130709)
-- [05MAR21 | Gunnedah to Walgett](https://forums.vatpac.org/calendar/event/1629-05mar21-gunnedah-to-walgett/)
+- [05MAR21 | Gunnedah to Walgett via Kamilaroi Highway](https://forums.vatpac.org/calendar/event/1629-05mar21-gunnedah-to-walgett-via-kamilaroi-highway/)
 - [31JAN21 | Goolwa to Parafield via River Murray](https://forums.vatpac.org/calendar/event/1628-31jan21-goolwa-to-parafield-via-river-murray/)
 - [29JAN21 | Parafield to Goolwa via Fleurieu Peninsula](https://forums.vatpac.org/calendar/event/1627-29jan21-parafield-to-goolwa-via-fleurieu-peninsula/)
 - [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://forums.vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/)
@@ -48,7 +49,6 @@
 - [Applications Open: Events Coordinator](https://forums.vatpac.org/topic/18519-applications-open-events-coordinator/?do=findComment&comment=130687)
 - [26FEB21 | Kangaroo Island to Port Lincoln via Gambier Islands](https://forums.vatpac.org/calendar/event/1624-26feb21-kangaroo-island-to-port-lincoln-via-gambier-islands/)
 - [21FEB21 | Gympie to Archerfield via Moreton Bay Islands](https://forums.vatpac.org/calendar/event/1623-21feb21-gympie-to-archerfield-via-moreton-bay-islands/)
-- [22FEB21 | Spilled Milk Run - Canberra & Gold Coast](https://forums.vatpac.org/calendar/event/1622-22feb21-spilled-milk-run-canberra-gold-coast/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
