@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174309)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174308)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174307)
 - [Vpilot](https://forums.vatsim.net/topic/30534-vpilot/?do=findComment&comment=174306)
@@ -62,7 +63,6 @@
 - [[VACANCY] Assistant to the VP Europe, Middle East and Africa](https://forums.vatsim.net/topic/30533-vacancy-assistant-to-the-vp-europe-middle-east-and-africa/?do=findComment&comment=174302)
 - [Inquiry about when to open any radar](https://forums.vatsim.net/topic/30526-inquiry-about-when-to-open-any-radar/?do=findComment&comment=174301)
 - [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=174300)
-- [window not shown after switching monitors](https://forums.vatsim.net/topic/30532-window-not-shown-after-switching-monitors/?do=findComment&comment=174299)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
