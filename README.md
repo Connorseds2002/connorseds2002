@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174312)
+- [Visit Senegal | Road To Dakar](https://forums.vatsim.net/topic/30536-visit-senegal-road-to-dakar/?do=findComment&comment=174311)
+- [Perú and Bolivia´s VATSIM Event: The Inca´s Path](https://forums.vatsim.net/topic/30538-per%C3%BA-and-bolivia%C2%B4s-vatsim-event-the-inca%C2%B4s-path/?do=findComment&comment=174310)
 - [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174309)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174308)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174307)
@@ -60,9 +63,6 @@
 - [Visit Senegal | Road To Dakar](https://forums.vatsim.net/topic/30536-visit-senegal-road-to-dakar/?do=findComment&comment=174305)
 - [India vACC Official Discord Server](https://forums.vatsim.net/topic/30535-india-vacc-official-discord-server/?do=findComment&comment=174304)
 - [Vpilot](https://forums.vatsim.net/topic/30534-vpilot/?do=findComment&comment=174303)
-- [[VACANCY] Assistant to the VP Europe, Middle East and Africa](https://forums.vatsim.net/topic/30533-vacancy-assistant-to-the-vp-europe-middle-east-and-africa/?do=findComment&comment=174302)
-- [Inquiry about when to open any radar](https://forums.vatsim.net/topic/30526-inquiry-about-when-to-open-any-radar/?do=findComment&comment=174301)
-- [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=174300)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
