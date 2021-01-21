@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=174294)
 - [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=174293)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174292)
 - [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=174291)
@@ -62,7 +63,6 @@
 - [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174287)
 - [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174286)
 - [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174285)
-- [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174284)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
