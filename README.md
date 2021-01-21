@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174298)
 - [vPilot performance hit [MSFS2020]](https://forums.vatsim.net/topic/30531-vpilot-performance-hit-msfs2020/?do=findComment&comment=174297)
 - [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=174295)
 - [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=174294)
@@ -62,7 +63,6 @@
 - [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174290)
 - [Which Flight Level to file?](https://forums.vatsim.net/topic/30495-which-flight-level-to-file/?do=findComment&comment=174289)
 - [Inquiry about when to open any radar](https://forums.vatsim.net/topic/30526-inquiry-about-when-to-open-any-radar/?do=findComment&comment=174288)
-- [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174287)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
