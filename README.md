@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot](https://forums.vatsim.net/topic/30534-vpilot/?do=findComment&comment=174306)
+- [Visit Senegal | Road To Dakar](https://forums.vatsim.net/topic/30536-visit-senegal-road-to-dakar/?do=findComment&comment=174305)
 - [India vACC Official Discord Server](https://forums.vatsim.net/topic/30535-india-vacc-official-discord-server/?do=findComment&comment=174304)
 - [Vpilot](https://forums.vatsim.net/topic/30534-vpilot/?do=findComment&comment=174303)
 - [[VACANCY] Assistant to the VP Europe, Middle East and Africa](https://forums.vatsim.net/topic/30533-vacancy-assistant-to-the-vp-europe-middle-east-and-africa/?do=findComment&comment=174302)
@@ -61,8 +63,6 @@
 - [window not shown after switching monitors](https://forums.vatsim.net/topic/30532-window-not-shown-after-switching-monitors/?do=findComment&comment=174299)
 - [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174298)
 - [vPilot performance hit [MSFS2020]](https://forums.vatsim.net/topic/30531-vpilot-performance-hit-msfs2020/?do=findComment&comment=174297)
-- [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=174295)
-- [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=174294)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
