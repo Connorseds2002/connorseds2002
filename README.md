@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inquiry about when to open any radar](https://forums.vatsim.net/topic/30526-inquiry-about-when-to-open-any-radar/?do=findComment&comment=174279)
 - [Unhandled exception error](https://forums.vatsim.net/topic/30528-unhandled-exception-error/?do=findComment&comment=174275)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=174274)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174273)
@@ -62,7 +63,6 @@
 - [Unhandled exception error](https://forums.vatsim.net/topic/30528-unhandled-exception-error/?do=findComment&comment=174269)
 - [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174266)
 - [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174265)
-- [Error: Indicates two revision levels are incompatible when tring to open vpilot](https://forums.vatsim.net/topic/30527-error-indicates-two-revision-levels-are-incompatible-when-tring-to-open-vpilot/?do=findComment&comment=174264)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
