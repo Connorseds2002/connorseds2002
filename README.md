@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Should I contact center](https://forums.vatsim.net/topic/30542-should-i-contact-center/?do=findComment&comment=174329)
+- [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174328)
+- [Euroscope Beta Crashing to Desktop upon startup](https://forums.vatsim.net/topic/30470-euroscope-beta-crashing-to-desktop-upon-startup/?do=findComment&comment=174327)
 - [Should I contact center](https://forums.vatsim.net/topic/30542-should-i-contact-center/?do=findComment&comment=174326)
 - [Perú and Bolivia´s VATSIM Event: The Inca´s Path](https://forums.vatsim.net/topic/30538-per%C3%BA-and-bolivia%C2%B4s-vatsim-event-the-inca%C2%B4s-path/?do=findComment&comment=174325)
 - [AfV keeps getting stuck in a reconnecting loop](https://forums.vatsim.net/topic/30541-afv-keeps-getting-stuck-in-a-reconnecting-loop/?do=findComment&comment=174324)
@@ -60,9 +63,6 @@
 - [Fly the Canadian Xpress USA Capitals Tour](https://forums.vatsim.net/topic/30539-fly-the-canadian-xpress-usa-capitals-tour/?do=findComment&comment=174322)
 - [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174321)
 - [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174320)
-- [Cant transmit in xPilot](https://forums.vatsim.net/topic/25897-cant-transmit-in-xpilot/?do=findComment&comment=174318)
-- [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174317)
-- [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174316)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
