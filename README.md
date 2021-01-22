@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174340)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174339)
 - [Friday Night Live: 29-01-2021 : Fly Between Mumbai(VABB) and Delhi(VIDP) [Bi Directional]](https://forums.vatsim.net/topic/30545-friday-night-live-29-01-2021-fly-between-mumbaivabb-and-delhividp-bi-directional/?do=findComment&comment=174338)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174337)
@@ -62,7 +63,6 @@
 - [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174333)
 - [Can't connect to VATSIM (invalid CID/Password error)](https://forums.vatsim.net/topic/30540-cant-connect-to-vatsim-invalid-cidpassword-error/?do=findComment&comment=174332)
 - [Euroscope Beta Crashing to Desktop upon startup](https://forums.vatsim.net/topic/30470-euroscope-beta-crashing-to-desktop-upon-startup/?do=findComment&comment=174331)
-- [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=174330)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
