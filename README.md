@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot not receiving microphone](https://forums.vatsim.net/topic/30543-xpilot-not-receiving-microphone/?do=findComment&comment=174335)
+- [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=174334)
+- [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174333)
+- [Can't connect to VATSIM (invalid CID/Password error)](https://forums.vatsim.net/topic/30540-cant-connect-to-vatsim-invalid-cidpassword-error/?do=findComment&comment=174332)
 - [Euroscope Beta Crashing to Desktop upon startup](https://forums.vatsim.net/topic/30470-euroscope-beta-crashing-to-desktop-upon-startup/?do=findComment&comment=174331)
 - [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=174330)
 - [Should I contact center](https://forums.vatsim.net/topic/30542-should-i-contact-center/?do=findComment&comment=174329)
 - [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174328)
 - [Euroscope Beta Crashing to Desktop upon startup](https://forums.vatsim.net/topic/30470-euroscope-beta-crashing-to-desktop-upon-startup/?do=findComment&comment=174327)
 - [Should I contact center](https://forums.vatsim.net/topic/30542-should-i-contact-center/?do=findComment&comment=174326)
-- [Perú and Bolivia´s VATSIM Event: The Inca´s Path](https://forums.vatsim.net/topic/30538-per%C3%BA-and-bolivia%C2%B4s-vatsim-event-the-inca%C2%B4s-path/?do=findComment&comment=174325)
-- [AfV keeps getting stuck in a reconnecting loop](https://forums.vatsim.net/topic/30541-afv-keeps-getting-stuck-in-a-reconnecting-loop/?do=findComment&comment=174324)
-- [Can't connect to VATSIM (invalid CID/Password error)](https://forums.vatsim.net/topic/30540-cant-connect-to-vatsim-invalid-cidpassword-error/?do=findComment&comment=174323)
-- [Fly the Canadian Xpress USA Capitals Tour](https://forums.vatsim.net/topic/30539-fly-the-canadian-xpress-usa-capitals-tour/?do=findComment&comment=174322)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
