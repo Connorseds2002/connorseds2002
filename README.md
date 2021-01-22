@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AfV keeps getting stuck in a reconnecting loop](https://forums.vatsim.net/topic/30541-afv-keeps-getting-stuck-in-a-reconnecting-loop/?do=findComment&comment=174324)
+- [Can't connect to VATSIM (invalid CID/Password error)](https://forums.vatsim.net/topic/30540-cant-connect-to-vatsim-invalid-cidpassword-error/?do=findComment&comment=174323)
 - [Fly the Canadian Xpress USA Capitals Tour](https://forums.vatsim.net/topic/30539-fly-the-canadian-xpress-usa-capitals-tour/?do=findComment&comment=174322)
 - [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174321)
 - [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174320)
@@ -61,8 +63,6 @@
 - [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174316)
 - [Vpilot](https://forums.vatsim.net/topic/30534-vpilot/?do=findComment&comment=174313)
 - [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174312)
-- [Visit Senegal | Road To Dakar](https://forums.vatsim.net/topic/30536-visit-senegal-road-to-dakar/?do=findComment&comment=174311)
-- [Perú and Bolivia´s VATSIM Event: The Inca´s Path](https://forums.vatsim.net/topic/30538-per%C3%BA-and-bolivia%C2%B4s-vatsim-event-the-inca%C2%B4s-path/?do=findComment&comment=174310)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
