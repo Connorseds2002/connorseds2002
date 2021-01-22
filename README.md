@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Fly the Canadian Xpress USA Capitals Tour](https://forums.vatsim.net/topic/30539-fly-the-canadian-xpress-usa-capitals-tour/?do=findComment&comment=174322)
+- [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174321)
+- [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174320)
+- [Cant transmit in xPilot](https://forums.vatsim.net/topic/25897-cant-transmit-in-xpilot/?do=findComment&comment=174318)
+- [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174317)
+- [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174316)
+- [Vpilot](https://forums.vatsim.net/topic/30534-vpilot/?do=findComment&comment=174313)
 - [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174312)
 - [Visit Senegal | Road To Dakar](https://forums.vatsim.net/topic/30536-visit-senegal-road-to-dakar/?do=findComment&comment=174311)
 - [Perú and Bolivia´s VATSIM Event: The Inca´s Path](https://forums.vatsim.net/topic/30538-per%C3%BA-and-bolivia%C2%B4s-vatsim-event-the-inca%C2%B4s-path/?do=findComment&comment=174310)
-- [ATC/Airspace Question](https://forums.vatsim.net/topic/30537-atcairspace-question/?do=findComment&comment=174309)
-- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174308)
-- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174307)
-- [Vpilot](https://forums.vatsim.net/topic/30534-vpilot/?do=findComment&comment=174306)
-- [Visit Senegal | Road To Dakar](https://forums.vatsim.net/topic/30536-visit-senegal-road-to-dakar/?do=findComment&comment=174305)
-- [India vACC Official Discord Server](https://forums.vatsim.net/topic/30535-india-vacc-official-discord-server/?do=findComment&comment=174304)
-- [Vpilot](https://forums.vatsim.net/topic/30534-vpilot/?do=findComment&comment=174303)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
