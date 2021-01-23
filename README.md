@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174349)
+- [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174348)
 - [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174347)
 - [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174346)
 - [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174345)
@@ -61,8 +63,6 @@
 - [vPilot performance hit [MSFS2020]](https://forums.vatsim.net/topic/30531-vpilot-performance-hit-msfs2020/?do=findComment&comment=174342)
 - [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174341)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174340)
-- [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174339)
-- [Friday Night Live: 29-01-2021 : Fly Between Mumbai(VABB) and Delhi(VIDP) [Bi Directional]](https://forums.vatsim.net/topic/30545-friday-night-live-29-01-2021-fly-between-mumbaivabb-and-delhividp-bi-directional/?do=findComment&comment=174338)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
