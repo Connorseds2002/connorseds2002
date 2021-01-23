@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174375)
+- [Luis Henrique steps down](https://forums.vatsim.net/topic/30551-luis-henrique-steps-down/?do=findComment&comment=174374)
 - [Schedule of CPT's](https://forums.vatsim.net/topic/30550-schedule-of-cpts/?do=findComment&comment=174373)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174372)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174371)
@@ -61,8 +63,6 @@
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174368)
 - [[OPEN POSITION] VATBRZ DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/30552-open-position-vatbrz-divisional-director/?do=findComment&comment=174367)
 - [Luis Henrique steps down](https://forums.vatsim.net/topic/30551-luis-henrique-steps-down/?do=findComment&comment=174366)
-- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174365)
-- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174364)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
