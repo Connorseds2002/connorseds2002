@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174347)
 - [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174346)
 - [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174345)
 - [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174344)
@@ -62,7 +63,6 @@
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174340)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174339)
 - [Friday Night Live: 29-01-2021 : Fly Between Mumbai(VABB) and Delhi(VIDP) [Bi Directional]](https://forums.vatsim.net/topic/30545-friday-night-live-29-01-2021-fly-between-mumbaivabb-and-delhividp-bi-directional/?do=findComment&comment=174338)
-- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174337)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
