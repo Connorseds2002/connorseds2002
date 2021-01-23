@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Schedule of CPT's](https://forums.vatsim.net/topic/30550-schedule-of-cpts/?do=findComment&comment=174370)
+- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174369)
+- [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174368)
+- [[OPEN POSITION] VATBRZ DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/30552-open-position-vatbrz-divisional-director/?do=findComment&comment=174367)
+- [Luis Henrique steps down](https://forums.vatsim.net/topic/30551-luis-henrique-steps-down/?do=findComment&comment=174366)
+- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174365)
+- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174364)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174363)
 - [Schedule of CPT's](https://forums.vatsim.net/topic/30550-schedule-of-cpts/?do=findComment&comment=174362)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174361)
-- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174360)
-- [Schedule of CPT's](https://forums.vatsim.net/topic/30550-schedule-of-cpts/?do=findComment&comment=174359)
-- [Schedule of CPT's](https://forums.vatsim.net/topic/30550-schedule-of-cpts/?do=findComment&comment=174358)
-- [Audio setup](https://forums.vatsim.net/topic/30395-audio-setup/?do=findComment&comment=174357)
-- [Schedule of CPT's](https://forums.vatsim.net/topic/30550-schedule-of-cpts/?do=findComment&comment=174356)
-- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174355)
-- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174354)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
