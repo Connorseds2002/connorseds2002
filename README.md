@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174343)
+- [vPilot performance hit [MSFS2020]](https://forums.vatsim.net/topic/30531-vpilot-performance-hit-msfs2020/?do=findComment&comment=174342)
+- [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174341)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174340)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174339)
 - [Friday Night Live: 29-01-2021 : Fly Between Mumbai(VABB) and Delhi(VIDP) [Bi Directional]](https://forums.vatsim.net/topic/30545-friday-night-live-29-01-2021-fly-between-mumbaivabb-and-delhividp-bi-directional/?do=findComment&comment=174338)
@@ -60,9 +63,6 @@
 - [No flight plan was found on the server.](https://forums.vatsim.net/topic/30519-no-flight-plan-was-found-on-the-server/?do=findComment&comment=174336)
 - [Xpilot not receiving microphone](https://forums.vatsim.net/topic/30543-xpilot-not-receiving-microphone/?do=findComment&comment=174335)
 - [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=174334)
-- [vPilot crashes after entering credentials in settings](https://forums.vatsim.net/topic/30530-vpilot-crashes-after-entering-credentials-in-settings/?do=findComment&comment=174333)
-- [Can't connect to VATSIM (invalid CID/Password error)](https://forums.vatsim.net/topic/30540-cant-connect-to-vatsim-invalid-cidpassword-error/?do=findComment&comment=174332)
-- [Euroscope Beta Crashing to Desktop upon startup](https://forums.vatsim.net/topic/30470-euroscope-beta-crashing-to-desktop-upon-startup/?do=findComment&comment=174331)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
