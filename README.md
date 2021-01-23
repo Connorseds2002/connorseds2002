@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10FEB21 Bahamas Island Hop](https://forums.vatpac.org/calendar/event/1633-10feb21-bahamas-island-hop/)
+- [03FEB21 World Discovery Bahamas Island Hop](https://forums.vatpac.org/calendar/event/1632-03feb21-world-discovery-bahamas-island-hop/)
 - [22JAN21 | Canberra - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1585-22jan21-canberra-aerial-fire-suppression-exercise/?do=findComment&comment=224&tab=comments)
 - [12JAN | James Larkin](https://forums.vatpac.org/topic/18571-12jan-james-larkin/?do=findComment&comment=130738)
 - [07MAR21 | Walgett to Gunnedah](https://forums.vatpac.org/calendar/event/1630-07mar21-walgett-to-gunnedah/)
@@ -47,8 +49,6 @@
 - [31JAN21 | Goolwa to Parafield via River Murray](https://forums.vatpac.org/calendar/event/1628-31jan21-goolwa-to-parafield-via-river-murray/)
 - [29JAN21 | Parafield to Goolwa via Fleurieu Peninsula](https://forums.vatpac.org/calendar/event/1627-29jan21-parafield-to-goolwa-via-fleurieu-peninsula/)
 - [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://forums.vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/)
-- [17JAN21 | Maitland to Port Macquarie Coastal](https://forums.vatpac.org/calendar/event/1577-17jan21-maitland-to-port-macquarie-coastal/?do=findComment&comment=223&tab=comments)
-- [Applications Open: Events Coordinator](https://forums.vatpac.org/topic/18519-applications-open-events-coordinator/?do=findComment&comment=130687)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
