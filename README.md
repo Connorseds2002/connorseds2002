@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174360)
+- [Schedule of CPT's](https://forums.vatsim.net/topic/30550-schedule-of-cpts/?do=findComment&comment=174359)
+- [Schedule of CPT's](https://forums.vatsim.net/topic/30550-schedule-of-cpts/?do=findComment&comment=174358)
 - [Audio setup](https://forums.vatsim.net/topic/30395-audio-setup/?do=findComment&comment=174357)
 - [Schedule of CPT's](https://forums.vatsim.net/topic/30550-schedule-of-cpts/?do=findComment&comment=174356)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174355)
@@ -60,9 +63,6 @@
 - [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174353)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174352)
 - [Jan 31st 2021 / 1200-1400z Ho Chi Minh radar C1 CPT](https://forums.vatsim.net/topic/30549-jan-31st-2021-1200-1400z-ho-chi-minh-radar-c1-cpt/?do=findComment&comment=174351)
-- [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174350)
-- [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174349)
-- [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174348)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
