@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I cant unlink my discord account from the community hub](https://forums.vatsim.net/topic/30233-i-cant-unlink-my-discord-account-from-the-community-hub/?do=findComment&comment=174396)
 - [[January 29, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30559-january-29-18z-21z-bucharest-online/?do=findComment&comment=174395)
 - [[January 29, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30558-january-29-18z-21z-sofia-friday-night/?do=findComment&comment=174394)
 - [X-Plane, N313GM](https://forums.vatsim.net/topic/30309-x-plane-n313gm/?do=findComment&comment=174393)
@@ -62,7 +63,6 @@
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174389)
 - [STAFF VACANCY - ACCSAF](https://forums.vatsim.net/topic/30555-staff-vacancy-accsaf/?do=findComment&comment=174388)
 - [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=174387)
-- [Appointment of Divisional ATC Training Deputy Director](https://forums.vatsim.net/topic/30455-appointment-of-divisional-atc-training-deputy-director/?do=findComment&comment=174386)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
