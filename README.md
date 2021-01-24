@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[January 29, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30559-january-29-18z-21z-bucharest-online/?do=findComment&comment=174395)
+- [[January 29, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30558-january-29-18z-21z-sofia-friday-night/?do=findComment&comment=174394)
+- [X-Plane, N313GM](https://forums.vatsim.net/topic/30309-x-plane-n313gm/?do=findComment&comment=174393)
 - [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174392)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174391)
 - [Error Xpilot](https://forums.vatsim.net/topic/30556-error-xpilot/?do=findComment&comment=174390)
@@ -60,9 +63,6 @@
 - [STAFF VACANCY - ACCSAF](https://forums.vatsim.net/topic/30555-staff-vacancy-accsaf/?do=findComment&comment=174388)
 - [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=174387)
 - [Appointment of Divisional ATC Training Deputy Director](https://forums.vatsim.net/topic/30455-appointment-of-divisional-atc-training-deputy-director/?do=findComment&comment=174386)
-- [[ACCIND3] India vACC Training Director Appointed](https://forums.vatsim.net/topic/30554-accind3-india-vacc-training-director-appointed/?do=findComment&comment=174385)
-- [Royal Air Maroc Joining vAMSYS [vRAM]](https://forums.vatsim.net/topic/30553-royal-air-maroc-joining-vamsys-vram/?do=findComment&comment=174384)
-- [Royal Air Maroc Joining vAMSYS [vRAM]](https://forums.vatsim.net/topic/30553-royal-air-maroc-joining-vamsys-vram/?do=findComment&comment=174383)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
