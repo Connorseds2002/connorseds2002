@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174382)
 - [AfV keeps getting stuck in a reconnecting loop](https://forums.vatsim.net/topic/30541-afv-keeps-getting-stuck-in-a-reconnecting-loop/?do=findComment&comment=174381)
 - [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174379)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174378)
@@ -62,7 +63,6 @@
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174372)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174371)
 - [Schedule of CPT's](https://forums.vatsim.net/topic/30550-schedule-of-cpts/?do=findComment&comment=174370)
-- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=174369)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
