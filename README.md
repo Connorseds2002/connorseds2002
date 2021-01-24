@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174392)
+- [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174391)
 - [Error Xpilot](https://forums.vatsim.net/topic/30556-error-xpilot/?do=findComment&comment=174390)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174389)
 - [STAFF VACANCY - ACCSAF](https://forums.vatsim.net/topic/30555-staff-vacancy-accsaf/?do=findComment&comment=174388)
@@ -61,8 +63,6 @@
 - [[ACCIND3] India vACC Training Director Appointed](https://forums.vatsim.net/topic/30554-accind3-india-vacc-training-director-appointed/?do=findComment&comment=174385)
 - [Royal Air Maroc Joining vAMSYS [vRAM]](https://forums.vatsim.net/topic/30553-royal-air-maroc-joining-vamsys-vram/?do=findComment&comment=174384)
 - [Royal Air Maroc Joining vAMSYS [vRAM]](https://forums.vatsim.net/topic/30553-royal-air-maroc-joining-vamsys-vram/?do=findComment&comment=174383)
-- [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174382)
-- [AfV keeps getting stuck in a reconnecting loop](https://forums.vatsim.net/topic/30541-afv-keeps-getting-stuck-in-a-reconnecting-loop/?do=findComment&comment=174381)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
