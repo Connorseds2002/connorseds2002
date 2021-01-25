@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174407)
+- [[January 29, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30558-january-29-18z-21z-sofia-friday-night/?do=findComment&comment=174406)
+- [[January 29, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30559-january-29-18z-21z-bucharest-online/?do=findComment&comment=174405)
 - [Error Xpilot](https://forums.vatsim.net/topic/30556-error-xpilot/?do=findComment&comment=174404)
 - [Jan 30 14-16z - Tan Son Nhat Tower VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30561-jan-30-14-16z-tan-son-nhat-tower-vvts-twr-s2-cpt/?do=findComment&comment=174403)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174402)
@@ -60,9 +63,6 @@
 - [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=174400)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174399)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174398)
-- [I cant unlink my discord account from the community hub](https://forums.vatsim.net/topic/30233-i-cant-unlink-my-discord-account-from-the-community-hub/?do=findComment&comment=174396)
-- [[January 29, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30559-january-29-18z-21z-bucharest-online/?do=findComment&comment=174395)
-- [[January 29, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30558-january-29-18z-21z-sofia-friday-night/?do=findComment&comment=174394)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
