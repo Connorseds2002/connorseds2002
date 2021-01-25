@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [X-Plane, N313GM](https://forums.vatsim.net/topic/30309-x-plane-n313gm/?do=findComment&comment=174412)
+- [FSD licence expired....](https://forums.vatsim.net/topic/30562-fsd-licence-expired/?do=findComment&comment=174411)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174410)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174409)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174408)
@@ -61,8 +63,6 @@
 - [[January 29, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30559-january-29-18z-21z-bucharest-online/?do=findComment&comment=174405)
 - [Error Xpilot](https://forums.vatsim.net/topic/30556-error-xpilot/?do=findComment&comment=174404)
 - [Jan 30 14-16z - Tan Son Nhat Tower VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30561-jan-30-14-16z-tan-son-nhat-tower-vvts-twr-s2-cpt/?do=findComment&comment=174403)
-- [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174402)
-- [Get controller location](https://forums.vatsim.net/topic/30560-get-controller-location/?do=findComment&comment=174401)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
