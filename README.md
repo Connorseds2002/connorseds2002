@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot performance hit [MSFS2020]](https://forums.vatsim.net/topic/30531-vpilot-performance-hit-msfs2020/?do=findComment&comment=174415)
 - [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=174413)
 - [X-Plane, N313GM](https://forums.vatsim.net/topic/30309-x-plane-n313gm/?do=findComment&comment=174412)
 - [FSD licence expired....](https://forums.vatsim.net/topic/30562-fsd-licence-expired/?do=findComment&comment=174411)
@@ -62,7 +63,6 @@
 - [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174407)
 - [[January 29, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30558-january-29-18z-21z-sofia-friday-night/?do=findComment&comment=174406)
 - [[January 29, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30559-january-29-18z-21z-bucharest-online/?do=findComment&comment=174405)
-- [Error Xpilot](https://forums.vatsim.net/topic/30556-error-xpilot/?do=findComment&comment=174404)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
