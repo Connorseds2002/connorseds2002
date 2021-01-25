@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174410)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174409)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174408)
 - [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174407)
@@ -62,7 +63,6 @@
 - [Jan 30 14-16z - Tan Son Nhat Tower VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30561-jan-30-14-16z-tan-son-nhat-tower-vvts-twr-s2-cpt/?do=findComment&comment=174403)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174402)
 - [Get controller location](https://forums.vatsim.net/topic/30560-get-controller-location/?do=findComment&comment=174401)
-- [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=174400)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
