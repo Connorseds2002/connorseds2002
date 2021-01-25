@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174409)
+- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174408)
 - [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174407)
 - [[January 29, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30558-january-29-18z-21z-sofia-friday-night/?do=findComment&comment=174406)
 - [[January 29, 18z-21z] Bucharest Online](https://forums.vatsim.net/topic/30559-january-29-18z-21z-bucharest-online/?do=findComment&comment=174405)
@@ -61,8 +63,6 @@
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174402)
 - [Get controller location](https://forums.vatsim.net/topic/30560-get-controller-location/?do=findComment&comment=174401)
 - [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=174400)
-- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174399)
-- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174398)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
