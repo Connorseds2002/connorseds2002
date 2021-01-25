@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Visit Nepal - 2021 (CPT Event )](https://forums.vatsim.net/topic/30563-visit-nepal-2021-cpt-event/?do=findComment&comment=174419)
 - [Help Required - Are you getting disconnected from voice?](https://forums.vatsim.net/topic/24808-help-required-are-you-getting-disconnected-from-voice/?do=findComment&comment=174418)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174417)
 - [vPilot performance hit [MSFS2020]](https://forums.vatsim.net/topic/30531-vpilot-performance-hit-msfs2020/?do=findComment&comment=174415)
@@ -62,7 +63,6 @@
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174410)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174409)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174408)
-- [Vpilot suddenly close when open the vpilot version V2.6.10](https://forums.vatsim.net/topic/30547-vpilot-suddenly-close-when-open-the-vpilot-version-v2610/?do=findComment&comment=174407)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
