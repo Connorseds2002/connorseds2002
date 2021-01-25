@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174402)
+- [Get controller location](https://forums.vatsim.net/topic/30560-get-controller-location/?do=findComment&comment=174401)
+- [Total hours flying](https://forums.vatsim.net/topic/30294-total-hours-flying/?do=findComment&comment=174400)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174399)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174398)
 - [I cant unlink my discord account from the community hub](https://forums.vatsim.net/topic/30233-i-cant-unlink-my-discord-account-from-the-community-hub/?do=findComment&comment=174396)
@@ -60,9 +63,6 @@
 - [[January 29, 18z-21z] Sofia Friday Night](https://forums.vatsim.net/topic/30558-january-29-18z-21z-sofia-friday-night/?do=findComment&comment=174394)
 - [X-Plane, N313GM](https://forums.vatsim.net/topic/30309-x-plane-n313gm/?do=findComment&comment=174393)
 - [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174392)
-- [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174391)
-- [Error Xpilot](https://forums.vatsim.net/topic/30556-error-xpilot/?do=findComment&comment=174390)
-- [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174389)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
