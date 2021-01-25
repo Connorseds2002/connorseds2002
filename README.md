@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[SOLVED] Service Unavailable error in files.aero-nav.com](https://forums.vatsim.net/topic/30564-solved-service-unavailable-error-in-filesaero-navcom/?do=findComment&comment=174421)
 - [Visit Nepal - 2021 (CPT Event )](https://forums.vatsim.net/topic/30563-visit-nepal-2021-cpt-event/?do=findComment&comment=174419)
 - [Help Required - Are you getting disconnected from voice?](https://forums.vatsim.net/topic/24808-help-required-are-you-getting-disconnected-from-voice/?do=findComment&comment=174418)
 - [Using FLAI](https://forums.vatsim.net/topic/30546-using-flai/?do=findComment&comment=174417)
@@ -62,7 +63,6 @@
 - [FSD Server licence expired 2021....](https://forums.vatsim.net/topic/30562-fsd-server-licence-expired-2021/?do=findComment&comment=174411)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174410)
 - [Invitation to all from the Worldflight Team](https://forums.vatsim.net/topic/30453-invitation-to-all-from-the-worldflight-team/?do=findComment&comment=174409)
-- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174408)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
