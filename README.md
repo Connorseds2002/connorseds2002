@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174446)
+- [Live Traffic in vSTARS](https://forums.vatsim.net/topic/30570-live-traffic-in-vstars/?do=findComment&comment=174445)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=174444)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174443)
 - [Royal Air Maroc Joining vAMSYS [vRAM]](https://forums.vatsim.net/topic/30553-royal-air-maroc-joining-vamsys-vram/?do=findComment&comment=174442)
@@ -61,8 +63,6 @@
 - [unknown pilot tag](https://forums.vatsim.net/topic/30569-unknown-pilot-tag/?do=findComment&comment=174439)
 - [unknown pilot tag](https://forums.vatsim.net/topic/30569-unknown-pilot-tag/?do=findComment&comment=174438)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174437)
-- [Call Sign Proctocol](https://forums.vatsim.net/topic/30568-call-sign-proctocol/?do=findComment&comment=174436)
-- [Call Sign Proctocol](https://forums.vatsim.net/topic/30568-call-sign-proctocol/?do=findComment&comment=174435)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
