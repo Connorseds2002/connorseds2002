@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AFV installer keeps downloading an old version and it won't work](https://forums.vatsim.net/topic/30574-afv-installer-keeps-downloading-an-old-version-and-it-wont-work/?do=findComment&comment=174459)
+- [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=174458)
+- [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174457)
+- [Vpilot error](https://forums.vatsim.net/topic/30572-vpilot-error/?do=findComment&comment=174456)
 - [Vpilot error](https://forums.vatsim.net/topic/30572-vpilot-error/?do=findComment&comment=174455)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174454)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174453)
 - [Vatspy error loading config](https://forums.vatsim.net/topic/27504-vatspy-error-loading-config/?do=findComment&comment=174452)
 - [Live Traffic in vSTARS](https://forums.vatsim.net/topic/30570-live-traffic-in-vstars/?do=findComment&comment=174451)
 - [Live Traffic in vSTARS](https://forums.vatsim.net/topic/30570-live-traffic-in-vstars/?do=findComment&comment=174450)
-- [Luis Henrique steps down](https://forums.vatsim.net/topic/30551-luis-henrique-steps-down/?do=findComment&comment=174449)
-- [Help Required - Are you getting disconnected from voice?](https://forums.vatsim.net/topic/24808-help-required-are-you-getting-disconnected-from-voice/?do=findComment&comment=174448)
-- [AIRCRAFT not showing up in Simaware anymore.](https://forums.vatsim.net/topic/30571-aircraft-not-showing-up-in-simaware-anymore/?do=findComment&comment=174447)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174446)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
