@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Live Traffic in vSTARS](https://forums.vatsim.net/topic/30570-live-traffic-in-vstars/?do=findComment&comment=174450)
+- [Luis Henrique steps down](https://forums.vatsim.net/topic/30551-luis-henrique-steps-down/?do=findComment&comment=174449)
 - [Help Required - Are you getting disconnected from voice?](https://forums.vatsim.net/topic/24808-help-required-are-you-getting-disconnected-from-voice/?do=findComment&comment=174448)
 - [AIRCRAFT not showing up in Simaware anymore.](https://forums.vatsim.net/topic/30571-aircraft-not-showing-up-in-simaware-anymore/?do=findComment&comment=174447)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174446)
@@ -61,8 +63,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174443)
 - [Royal Air Maroc Joining vAMSYS [vRAM]](https://forums.vatsim.net/topic/30553-royal-air-maroc-joining-vamsys-vram/?do=findComment&comment=174442)
 - [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174441)
-- [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=174440)
-- [unknown pilot tag](https://forums.vatsim.net/topic/30569-unknown-pilot-tag/?do=findComment&comment=174439)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
