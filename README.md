@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [unknown pilot tag](https://forums.vatsim.net/topic/30569-unknown-pilot-tag/?do=findComment&comment=174439)
+- [unknown pilot tag](https://forums.vatsim.net/topic/30569-unknown-pilot-tag/?do=findComment&comment=174438)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174437)
 - [Call Sign Proctocol](https://forums.vatsim.net/topic/30568-call-sign-proctocol/?do=findComment&comment=174436)
 - [Call Sign Proctocol](https://forums.vatsim.net/topic/30568-call-sign-proctocol/?do=findComment&comment=174435)
@@ -61,8 +63,6 @@
 - [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174432)
 - [Call Sign Proctocol](https://forums.vatsim.net/topic/30568-call-sign-proctocol/?do=findComment&comment=174431)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174430)
-- [Private Sweatbox Server](https://forums.vatsim.net/topic/23767-private-sweatbox-server/?do=findComment&comment=174429)
-- [Remote Host IP Address?](https://forums.vatsim.net/topic/29099-remote-host-ip-address/?do=findComment&comment=174428)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
