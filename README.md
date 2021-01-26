@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Royal Air Maroc Joining vAMSYS [vRAM]](https://forums.vatsim.net/topic/30553-royal-air-maroc-joining-vamsys-vram/?do=findComment&comment=174442)
+- [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174441)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=174440)
 - [unknown pilot tag](https://forums.vatsim.net/topic/30569-unknown-pilot-tag/?do=findComment&comment=174439)
 - [unknown pilot tag](https://forums.vatsim.net/topic/30569-unknown-pilot-tag/?do=findComment&comment=174438)
@@ -61,8 +63,6 @@
 - [Call Sign Proctocol](https://forums.vatsim.net/topic/30568-call-sign-proctocol/?do=findComment&comment=174435)
 - [Call Sign Proctocol](https://forums.vatsim.net/topic/30568-call-sign-proctocol/?do=findComment&comment=174434)
 - [Call Sign Proctocol](https://forums.vatsim.net/topic/30568-call-sign-proctocol/?do=findComment&comment=174433)
-- [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174432)
-- [Call Sign Proctocol](https://forums.vatsim.net/topic/30568-call-sign-proctocol/?do=findComment&comment=174431)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
