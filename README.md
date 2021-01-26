@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Help Required - Are you getting disconnected from voice?](https://forums.vatsim.net/topic/24808-help-required-are-you-getting-disconnected-from-voice/?do=findComment&comment=174448)
+- [AIRCRAFT not showing up in Simaware anymore.](https://forums.vatsim.net/topic/30571-aircraft-not-showing-up-in-simaware-anymore/?do=findComment&comment=174447)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174446)
 - [Live Traffic in vSTARS](https://forums.vatsim.net/topic/30570-live-traffic-in-vstars/?do=findComment&comment=174445)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=174444)
@@ -61,8 +63,6 @@
 - [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174441)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=174440)
 - [unknown pilot tag](https://forums.vatsim.net/topic/30569-unknown-pilot-tag/?do=findComment&comment=174439)
-- [unknown pilot tag](https://forums.vatsim.net/topic/30569-unknown-pilot-tag/?do=findComment&comment=174438)
-- [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174437)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
