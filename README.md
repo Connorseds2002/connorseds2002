@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174453)
 - [Vatspy error loading config](https://forums.vatsim.net/topic/27504-vatspy-error-loading-config/?do=findComment&comment=174452)
 - [Live Traffic in vSTARS](https://forums.vatsim.net/topic/30570-live-traffic-in-vstars/?do=findComment&comment=174451)
 - [Live Traffic in vSTARS](https://forums.vatsim.net/topic/30570-live-traffic-in-vstars/?do=findComment&comment=174450)
@@ -62,7 +63,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174446)
 - [Live Traffic in vSTARS](https://forums.vatsim.net/topic/30570-live-traffic-in-vstars/?do=findComment&comment=174445)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=174444)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174443)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
