@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174466)
+- [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174465)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174464)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174462)
 - [Xpilot not receiving microphone](https://forums.vatsim.net/topic/30543-xpilot-not-receiving-microphone/?do=findComment&comment=174461)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174460)
@@ -60,9 +63,6 @@
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=174458)
 - [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174457)
 - [Vpilot error](https://forums.vatsim.net/topic/30572-vpilot-error/?do=findComment&comment=174456)
-- [Vpilot error](https://forums.vatsim.net/topic/30572-vpilot-error/?do=findComment&comment=174455)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174454)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174453)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
