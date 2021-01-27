@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Can't connect to VATSIM (invalid CID/Password error)](https://forums.vatsim.net/topic/30540-cant-connect-to-vatsim-invalid-cidpassword-error/?do=findComment&comment=174497)
-- [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=174496)
-- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174495)
-- [Only one of tree monitor shows other traffic - dangerous when taxing.](https://forums.vatsim.net/topic/29315-only-one-of-tree-monitor-shows-other-traffic-dangerous-when-taxing/?do=findComment&comment=174494)
-- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174493)
-- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174492)
-- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174491)
-- [Question regarding instruction from Manchester approach](https://forums.vatsim.net/topic/30577-question-regarding-instruction-from-manchester-approach/?do=findComment&comment=174490)
-- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174489)
-- [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174488)
+- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174508)
+- [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174507)
+- [Question regarding instruction from Manchester approach](https://forums.vatsim.net/topic/30577-question-regarding-instruction-from-manchester-approach/?do=findComment&comment=174506)
+- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=174505)
+- [MSFS 2020 Transponder ON does not switch Mode C in vPilot](https://forums.vatsim.net/topic/29069-msfs-2020-transponder-on-does-not-switch-mode-c-in-vpilot/?do=findComment&comment=174504)
+- [Nametags/Nameplates/Labels not working in MSFS with V-Pilot, etc.](https://forums.vatsim.net/topic/30445-nametagsnameplateslabels-not-working-in-msfs-with-v-pilot-etc/?do=findComment&comment=174503)
+- [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174502)
+- [Only one of tree monitor shows other traffic - dangerous when taxing.](https://forums.vatsim.net/topic/29315-only-one-of-tree-monitor-shows-other-traffic-dangerous-when-taxing/?do=findComment&comment=174501)
+- [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174500)
+- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174499)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
