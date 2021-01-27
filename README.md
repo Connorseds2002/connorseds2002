@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174488)
+- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174487)
+- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174486)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174485)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174484)
 - [Can't connect to VATSIM (invalid CID/Password error)](https://forums.vatsim.net/topic/30540-cant-connect-to-vatsim-invalid-cidpassword-error/?do=findComment&comment=174483)
@@ -60,9 +63,6 @@
 - [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174481)
 - [Question regarding instruction from Manchester approach](https://forums.vatsim.net/topic/30577-question-regarding-instruction-from-manchester-approach/?do=findComment&comment=174480)
 - [Question regarding instruction from Manchester approach](https://forums.vatsim.net/topic/30577-question-regarding-instruction-from-manchester-approach/?do=findComment&comment=174479)
-- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174478)
-- [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174477)
-- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174476)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
