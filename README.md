@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [28FEB21 | South East Asia Connect](https://forums.vatpac.org/calendar/event/1635-28feb21-south-east-asia-connect/)
+- [28FEB21 | South East Asia Connect](https://forums.vatpac.org/topic/18579-28feb21-south-east-asia-connect/?do=findComment&comment=130823)
 - [27JAN21 World Discovery Colorado Rockies Leg 2](https://forums.vatpac.org/calendar/event/1610-27jan21-world-discovery-colorado-rockies-leg-2/?do=findComment&comment=225&tab=comments)
 - [Enjoying looking through my feed?](https://forums.vatpac.org/profile/2133-cameron-wilbraham/?status=9&type=status)
 - [10FEB21 Bahamas Island Hop](https://forums.vatpac.org/calendar/event/1633-10feb21-bahamas-island-hop/)
@@ -47,8 +49,6 @@
 - [12JAN | James Larkin](https://forums.vatpac.org/topic/18571-12jan-james-larkin/?do=findComment&comment=130738)
 - [07MAR21 | Walgett to Gunnedah](https://forums.vatpac.org/calendar/event/1630-07mar21-walgett-to-gunnedah/)
 - [Appointment of Event Coordinator(s)](https://forums.vatpac.org/topic/18563-appointment-of-event-coordinators/?do=findComment&comment=130709)
-- [05MAR21 | Gunnedah to Walgett via Kamilaroi Highway](https://forums.vatpac.org/calendar/event/1629-05mar21-gunnedah-to-walgett-via-kamilaroi-highway/)
-- [31JAN21 | Goolwa to Parafield via River Murray](https://forums.vatpac.org/calendar/event/1628-31jan21-goolwa-to-parafield-via-river-murray/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
