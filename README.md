@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174518)
+- [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=174517)
+- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174516)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174515)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174514)
 - [Cross The Pond - HELP WANTED](https://forums.vatsim.net/topic/30579-cross-the-pond-help-wanted/?do=findComment&comment=174513)
@@ -60,9 +63,6 @@
 - [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=174511)
 - [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=174510)
 - [Vpilot error](https://forums.vatsim.net/topic/30572-vpilot-error/?do=findComment&comment=174509)
-- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174508)
-- [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174507)
-- [Question regarding instruction from Manchester approach](https://forums.vatsim.net/topic/30577-question-regarding-instruction-from-manchester-approach/?do=findComment&comment=174506)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
