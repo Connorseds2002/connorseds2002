@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174476)
+- [Wrong Discord Account](https://forums.vatsim.net/topic/30007-wrong-discord-account/?do=findComment&comment=174475)
+- [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174474)
 - [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174471)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174470)
 - [[ACCLB7] vACC Web Services Director Opportunity!](https://forums.vatsim.net/topic/30576-acclb7-vacc-web-services-director-opportunity/?do=findComment&comment=174469)
@@ -60,9 +63,6 @@
 - [vPilot plugin development/debugging](https://forums.vatsim.net/topic/24636-vpilot-plugin-developmentdebugging/?do=findComment&comment=174467)
 - [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174466)
 - [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174465)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174464)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174462)
-- [Xpilot not receiving microphone](https://forums.vatsim.net/topic/30543-xpilot-not-receiving-microphone/?do=findComment&comment=174461)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
