@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174468)
+- [vPilot plugin development/debugging](https://forums.vatsim.net/topic/24636-vpilot-plugin-developmentdebugging/?do=findComment&comment=174467)
 - [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174466)
 - [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174465)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174464)
@@ -61,8 +63,6 @@
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174460)
 - [AFV installer keeps downloading an old version and it won't work](https://forums.vatsim.net/topic/30574-afv-installer-keeps-downloading-an-old-version-and-it-wont-work/?do=findComment&comment=174459)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=174458)
-- [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174457)
-- [Vpilot error](https://forums.vatsim.net/topic/30572-vpilot-error/?do=findComment&comment=174456)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
