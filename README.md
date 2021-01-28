@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174572)
+- [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174571)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174569)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174567)
 - [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174566)
@@ -61,8 +63,6 @@
 - [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174561)
 - [ROKR Kerama , water mask check](https://forums.vatsim.net/topic/30587-rokr-kerama-water-mask-check/?do=findComment&comment=174560)
 - [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174559)
-- [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174555)
-- [Is there a way to run Audio for Vatsim .msi file without admin privileges when installing?](https://forums.vatsim.net/topic/30586-is-there-a-way-to-run-audio-for-vatsim-msi-file-without-admin-privileges-when-installing/?do=findComment&comment=174554)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
