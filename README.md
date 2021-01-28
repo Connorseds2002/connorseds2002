@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vatsim network error invalid cid/password](https://forums.vatsim.net/topic/30590-vatsim-network-error-invalid-cidpassword/?do=findComment&comment=174588)
 - [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174587)
 - [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174585)
 - [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174584)
@@ -62,7 +63,6 @@
 - [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174576)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174574)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174572)
-- [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174571)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
