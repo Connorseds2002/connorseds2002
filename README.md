@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vSTARS vATIS Track](https://forums.vatsim.net/topic/30581-vstars-vatis-track/?do=findComment&comment=174522)
 - [How to create a private network like Vatsim?](https://forums.vatsim.net/topic/30582-how-to-create-a-private-network-like-vatsim/?do=findComment&comment=174521)
 - [vSTARS vATIS Track](https://forums.vatsim.net/topic/30581-vstars-vatis-track/?do=findComment&comment=174520)
 - [Status of Stream Deck support](https://forums.vatsim.net/topic/30580-status-of-stream-deck-support/?do=findComment&comment=174519)
@@ -62,7 +63,6 @@
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174515)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174514)
 - [Cross The Pond - HELP WANTED](https://forums.vatsim.net/topic/30579-cross-the-pond-help-wanted/?do=findComment&comment=174513)
-- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174512)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
