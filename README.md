@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Use of Nattrack for Oceanic flights](https://forums.vatsim.net/topic/30544-use-of-nattrack-for-oceanic-flights/?do=findComment&comment=174584)
 - [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174581)
 - [vSTARS vATIS Track](https://forums.vatsim.net/topic/30581-vstars-vatis-track/?do=findComment&comment=174580)
 - [VPilot and Voicemeeter - Mic Feedback](https://forums.vatsim.net/topic/30589-vpilot-and-voicemeeter-mic-feedback/?do=findComment&comment=174579)
@@ -62,7 +63,6 @@
 - [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174571)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174569)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174567)
-- [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174566)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
