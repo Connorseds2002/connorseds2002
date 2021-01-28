@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Group Flight Feedback from BayJet Team : India vACC](https://forums.vatsim.net/topic/30583-group-flight-feedback-from-bayjet-team-india-vacc/?do=findComment&comment=174543)
 - [1.3.30 version problems](https://forums.vatsim.net/topic/28673-1330-version-problems/?do=findComment&comment=174541)
 - [1.3.30 version problems](https://forums.vatsim.net/topic/28673-1330-version-problems/?do=findComment&comment=174540)
 - [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=174536)
@@ -62,7 +63,6 @@
 - [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174528)
 - [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174527)
 - [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174525)
-- [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=174524)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
