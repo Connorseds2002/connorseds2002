@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NOTAM: AIRAC 2101](https://forums.vatpac.org/topic/18580-notam-airac-2101/?do=findComment&comment=130826)
 - [28FEB21 | South East Asia Connect](https://forums.vatpac.org/calendar/event/1635-28feb21-south-east-asia-connect/)
 - [28FEB21 | South East Asia Connect](https://forums.vatpac.org/topic/18579-28feb21-south-east-asia-connect/?do=findComment&comment=130823)
 - [27JAN21 World Discovery Colorado Rockies Leg 2](https://forums.vatpac.org/calendar/event/1610-27jan21-world-discovery-colorado-rockies-leg-2/?do=findComment&comment=225&tab=comments)
@@ -48,7 +49,6 @@
 - [22JAN21 | Canberra - Aerial Fire Suppression Exercise](https://forums.vatpac.org/calendar/event/1585-22jan21-canberra-aerial-fire-suppression-exercise/?do=findComment&comment=224&tab=comments)
 - [12JAN | James Larkin](https://forums.vatpac.org/topic/18571-12jan-james-larkin/?do=findComment&comment=130738)
 - [07MAR21 | Walgett to Gunnedah](https://forums.vatpac.org/calendar/event/1630-07mar21-walgett-to-gunnedah/)
-- [Appointment of Event Coordinator(s)](https://forums.vatpac.org/topic/18563-appointment-of-event-coordinators/?do=findComment&comment=130709)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
