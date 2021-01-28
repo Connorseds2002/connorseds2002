@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174576)
+- [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174574)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174572)
 - [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174571)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174569)
@@ -61,8 +63,6 @@
 - [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=174565)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174563)
 - [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174561)
-- [ROKR Kerama , water mask check](https://forums.vatsim.net/topic/30587-rokr-kerama-water-mask-check/?do=findComment&comment=174560)
-- [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174559)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
