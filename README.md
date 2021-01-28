@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [How to create a private network like Vatsim?](https://forums.vatsim.net/topic/30582-how-to-create-a-private-network-like-vatsim/?do=findComment&comment=174542)
 - [1.3.30 version problems](https://forums.vatsim.net/topic/28673-1330-version-problems/?do=findComment&comment=174541)
 - [1.3.30 version problems](https://forums.vatsim.net/topic/28673-1330-version-problems/?do=findComment&comment=174540)
-- [How to create a private network like Vatsim?](https://forums.vatsim.net/topic/30582-how-to-create-a-private-network-like-vatsim/?do=findComment&comment=174539)
-- [How to create a private network like Vatsim?](https://forums.vatsim.net/topic/30582-how-to-create-a-private-network-like-vatsim/?do=findComment&comment=174538)
-- [How to create a private network like Vatsim?](https://forums.vatsim.net/topic/30582-how-to-create-a-private-network-like-vatsim/?do=findComment&comment=174537)
 - [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=174536)
-- [How to create a private network like Vatsim?](https://forums.vatsim.net/topic/30582-how-to-create-a-private-network-like-vatsim/?do=findComment&comment=174535)
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=174534)
-- [How to create a private network like Vatsim?](https://forums.vatsim.net/topic/30582-how-to-create-a-private-network-like-vatsim/?do=findComment&comment=174533)
+- [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174531)
+- [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174529)
+- [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174528)
+- [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174527)
+- [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174525)
+- [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=174524)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
