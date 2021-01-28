@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174581)
+- [vSTARS vATIS Track](https://forums.vatsim.net/topic/30581-vstars-vatis-track/?do=findComment&comment=174580)
+- [VPilot and Voicemeeter - Mic Feedback](https://forums.vatsim.net/topic/30589-vpilot-and-voicemeeter-mic-feedback/?do=findComment&comment=174579)
 - [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174576)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174574)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174572)
@@ -60,9 +63,6 @@
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174569)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174567)
 - [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174566)
-- [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=174565)
-- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=174563)
-- [How to completely delete a vatsim account](https://forums.vatsim.net/topic/30584-how-to-completely-delete-a-vatsim-account/?do=findComment&comment=174561)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
