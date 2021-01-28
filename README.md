@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174531)
+- [How to create a private network like Vatsim?](https://forums.vatsim.net/topic/30582-how-to-create-a-private-network-like-vatsim/?do=findComment&comment=174530)
+- [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174529)
 - [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174528)
 - [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174527)
 - [How to create a private network like Vatsim?](https://forums.vatsim.net/topic/30582-how-to-create-a-private-network-like-vatsim/?do=findComment&comment=174526)
@@ -60,9 +63,6 @@
 - [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=174524)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174523)
 - [vSTARS vATIS Track](https://forums.vatsim.net/topic/30581-vstars-vatis-track/?do=findComment&comment=174522)
-- [How to create a private network like Vatsim?](https://forums.vatsim.net/topic/30582-how-to-create-a-private-network-like-vatsim/?do=findComment&comment=174521)
-- [vSTARS vATIS Track](https://forums.vatsim.net/topic/30581-vstars-vatis-track/?do=findComment&comment=174520)
-- [Status of Stream Deck support](https://forums.vatsim.net/topic/30580-status-of-stream-deck-support/?do=findComment&comment=174519)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
