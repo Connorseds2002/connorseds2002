@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FIR/ARTCC Tab](https://forums.vatsim.net/topic/30596-firartcc-tab/?do=findComment&comment=174616)
+- [FIR/ARTCC Tab](https://forums.vatsim.net/topic/30596-firartcc-tab/?do=findComment&comment=174615)
+- [Private Sweatbox Server](https://forums.vatsim.net/topic/23767-private-sweatbox-server/?do=findComment&comment=174614)
 - [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=174613)
 - [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=174612)
 - [Question about zooming](https://forums.vatsim.net/topic/30595-question-about-zooming/?do=findComment&comment=174611)
@@ -60,9 +63,6 @@
 - [Question about zooming](https://forums.vatsim.net/topic/30595-question-about-zooming/?do=findComment&comment=174609)
 - [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=174608)
 - [Is VatSpy Dangerous?](https://forums.vatsim.net/topic/30375-is-vatspy-dangerous/?do=findComment&comment=174607)
-- [Question about zooming](https://forums.vatsim.net/topic/30595-question-about-zooming/?do=findComment&comment=174606)
-- [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=174605)
-- [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=174604)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
