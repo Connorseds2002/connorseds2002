@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174597)
 - [Nepal vACC Discord Released[1-29-2021]](https://forums.vatsim.net/topic/30592-nepal-vacc-discord-released1-29-2021/?do=findComment&comment=174596)
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=174595)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174594)
@@ -62,7 +63,6 @@
 - [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=174590)
 - [vatsim network error invalid cid/password](https://forums.vatsim.net/topic/30590-vatsim-network-error-invalid-cidpassword/?do=findComment&comment=174588)
 - [VATSIM Forum account deletion](https://forums.vatsim.net/topic/30557-vatsim-forum-account-deletion/?do=findComment&comment=174587)
-- [Joining Swift](https://forums.vatsim.net/topic/30573-joining-swift/?do=findComment&comment=174585)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
