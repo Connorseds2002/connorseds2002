@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vatsim network error invalid cid/password](https://forums.vatsim.net/topic/30590-vatsim-network-error-invalid-cidpassword/?do=findComment&comment=174592)
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=174591)
 - [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=174590)
 - [vatsim network error invalid cid/password](https://forums.vatsim.net/topic/30590-vatsim-network-error-invalid-cidpassword/?do=findComment&comment=174588)
@@ -62,7 +63,6 @@
 - [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174581)
 - [vSTARS vATIS Track](https://forums.vatsim.net/topic/30581-vstars-vatis-track/?do=findComment&comment=174580)
 - [VPilot and Voicemeeter - Mic Feedback](https://forums.vatsim.net/topic/30589-vpilot-and-voicemeeter-mic-feedback/?do=findComment&comment=174579)
-- [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174576)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
