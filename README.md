@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174603)
+- [Is there a way to run Audio for Vatsim .msi file without admin privileges when installing?](https://forums.vatsim.net/topic/30586-is-there-a-way-to-run-audio-for-vatsim-msi-file-without-admin-privileges-when-installing/?do=findComment&comment=174602)
+- [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=174601)
 - [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174600)
 - [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=174599)
 - [Models](https://forums.vatsim.net/topic/30318-models/?do=findComment&comment=174598)
@@ -60,9 +63,6 @@
 - [Nepal vACC Discord Released[1-29-2021]](https://forums.vatsim.net/topic/30592-nepal-vacc-discord-released1-29-2021/?do=findComment&comment=174596)
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=174595)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=174594)
-- [Are you looking for a new VA?](https://forums.vatsim.net/topic/30591-are-you-looking-for-a-new-va/?do=findComment&comment=174593)
-- [vatsim network error invalid cid/password](https://forums.vatsim.net/topic/30590-vatsim-network-error-invalid-cidpassword/?do=findComment&comment=174592)
-- [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=174591)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
