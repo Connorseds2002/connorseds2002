@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=174640)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174639)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174638)
 - [Flai model matching](https://forums.vatsim.net/topic/30380-flai-model-matching/?do=findComment&comment=174637)
@@ -62,7 +63,6 @@
 - [Open Mic Incident & Resolution](https://forums.vatsim.net/topic/30423-open-mic-incident-resolution/?do=findComment&comment=174630)
 - [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=174629)
 - [Open Mic Incident & Resolution](https://forums.vatsim.net/topic/30423-open-mic-incident-resolution/?do=findComment&comment=174627)
-- [New NatTrack](https://forums.vatsim.net/topic/30599-new-nattrack/?do=findComment&comment=174625)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
