@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174677)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174674)
 - [Unreadable Text in XSquawkbox window](https://forums.vatsim.net/topic/30611-unreadable-text-in-xsquawkbox-window/?do=findComment&comment=174671)
 - [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174670)
@@ -62,7 +63,6 @@
 - [(ACCNPL3) Director Training ATC  Nepal vACC Vacancy](https://forums.vatsim.net/topic/30450-accnpl3-director-training-atc-nepal-vacc-vacancy/?do=findComment&comment=174666)
 - [Changes in Divisional Marketing Staff](https://forums.vatsim.net/topic/30609-changes-in-divisional-marketing-staff/?do=findComment&comment=174665)
 - [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174664)
-- [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=174663)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
