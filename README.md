@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174662)
+- [Friday Night Live: 05-02-2021: Fly IN/OUT of Hyderabad (VOHS)](https://forums.vatsim.net/topic/30608-friday-night-live-05-02-2021-fly-inout-of-hyderabad-vohs/?do=findComment&comment=174661)
 - [Invalid Coordinate Defined](https://forums.vatsim.net/topic/30605-invalid-coordinate-defined/?do=findComment&comment=174660)
 - [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=174659)
 - [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174658)
@@ -61,8 +63,6 @@
 - [VPILOT COM Problem](https://forums.vatsim.net/topic/30603-vpilot-com-problem/?do=findComment&comment=174655)
 - [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174653)
 - [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174652)
-- [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174651)
-- [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174650)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
