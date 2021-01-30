@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174687)
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174686)
+- [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174685)
+- [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174684)
+- [Invalid CID/PASSWORD](https://forums.vatsim.net/topic/30612-invalid-cidpassword/?do=findComment&comment=174683)
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174682)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174681)
 - [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174680)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174679)
 - [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=174678)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174677)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174674)
-- [Unreadable Text in XSquawkbox window](https://forums.vatsim.net/topic/30611-unreadable-text-in-xsquawkbox-window/?do=findComment&comment=174671)
-- [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174670)
-- [ixeg 737 and xpilot no comms issue](https://forums.vatsim.net/topic/30610-ixeg-737-and-xpilot-no-comms-issue/?do=findComment&comment=174669)
-- [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174668)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
