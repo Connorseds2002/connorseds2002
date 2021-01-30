@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unreadable Text in XSquawkbox window](https://forums.vatsim.net/topic/30611-unreadable-text-in-xsquawkbox-window/?do=findComment&comment=174671)
+- [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174670)
+- [ixeg 737 and xpilot no comms issue](https://forums.vatsim.net/topic/30610-ixeg-737-and-xpilot-no-comms-issue/?do=findComment&comment=174669)
+- [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174668)
+- [(ACCNPL5) Event and Marketing Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30175-accnpl5-event-and-marketing-director-nepal-vacc-vacancy/?do=findComment&comment=174667)
 - [(ACCNPL3) Director Training ATC  Nepal vACC Vacancy](https://forums.vatsim.net/topic/30450-accnpl3-director-training-atc-nepal-vacc-vacancy/?do=findComment&comment=174666)
 - [Changes in Divisional Marketing Staff](https://forums.vatsim.net/topic/30609-changes-in-divisional-marketing-staff/?do=findComment&comment=174665)
 - [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174664)
 - [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=174663)
 - [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174662)
-- [Friday Night Live: 05-02-2021: Fly IN/OUT of Hyderabad (VOHS)](https://forums.vatsim.net/topic/30608-friday-night-live-05-02-2021-fly-inout-of-hyderabad-vohs/?do=findComment&comment=174661)
-- [Invalid Coordinate Defined](https://forums.vatsim.net/topic/30605-invalid-coordinate-defined/?do=findComment&comment=174660)
-- [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=174659)
-- [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174658)
-- [Invalid Coordinate Defined](https://forums.vatsim.net/topic/30605-invalid-coordinate-defined/?do=findComment&comment=174657)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
