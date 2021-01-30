@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [(ACCNPL3) Director Training ATC  Nepal vACC Vacancy](https://forums.vatsim.net/topic/30450-accnpl3-director-training-atc-nepal-vacc-vacancy/?do=findComment&comment=174666)
+- [Changes in Divisional Marketing Staff](https://forums.vatsim.net/topic/30609-changes-in-divisional-marketing-staff/?do=findComment&comment=174665)
+- [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174664)
+- [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=174663)
 - [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174662)
 - [Friday Night Live: 05-02-2021: Fly IN/OUT of Hyderabad (VOHS)](https://forums.vatsim.net/topic/30608-friday-night-live-05-02-2021-fly-inout-of-hyderabad-vohs/?do=findComment&comment=174661)
 - [Invalid Coordinate Defined](https://forums.vatsim.net/topic/30605-invalid-coordinate-defined/?do=findComment&comment=174660)
 - [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=174659)
 - [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174658)
 - [Invalid Coordinate Defined](https://forums.vatsim.net/topic/30605-invalid-coordinate-defined/?do=findComment&comment=174657)
-- [[DUPLICATE - DELETE] Invalid Coordinate Defined](https://forums.vatsim.net/topic/30604-duplicate-delete-invalid-coordinate-defined/?do=findComment&comment=174656)
-- [VPILOT COM Problem](https://forums.vatsim.net/topic/30603-vpilot-com-problem/?do=findComment&comment=174655)
-- [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174653)
-- [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174652)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
