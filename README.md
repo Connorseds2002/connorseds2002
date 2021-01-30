@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174681)
+- [Events with no or nearly no ATC](https://forums.vatsim.net/topic/30460-events-with-no-or-nearly-no-atc/?do=findComment&comment=174680)
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174679)
+- [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=174678)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174677)
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174674)
 - [Unreadable Text in XSquawkbox window](https://forums.vatsim.net/topic/30611-unreadable-text-in-xsquawkbox-window/?do=findComment&comment=174671)
 - [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=174670)
 - [ixeg 737 and xpilot no comms issue](https://forums.vatsim.net/topic/30610-ixeg-737-and-xpilot-no-comms-issue/?do=findComment&comment=174669)
 - [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174668)
-- [(ACCNPL5) Event and Marketing Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30175-accnpl5-event-and-marketing-director-nepal-vacc-vacancy/?do=findComment&comment=174667)
-- [(ACCNPL3) Director Training ATC  Nepal vACC Vacancy](https://forums.vatsim.net/topic/30450-accnpl3-director-training-atc-nepal-vacc-vacancy/?do=findComment&comment=174666)
-- [Changes in Divisional Marketing Staff](https://forums.vatsim.net/topic/30609-changes-in-divisional-marketing-staff/?do=findComment&comment=174665)
-- [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174664)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
