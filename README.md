@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [After years of inactivity, fresh start and no exam](https://forums.vatsim.net/topic/30624-after-years-of-inactivity-fresh-start-and-no-exam/?do=findComment&comment=174756)
+- [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174755)
 - [After years of inactivity, fresh start and no exam](https://forums.vatsim.net/topic/30624-after-years-of-inactivity-fresh-start-and-no-exam/?do=findComment&comment=174754)
 - [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=174753)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174750)
@@ -61,8 +63,6 @@
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174747)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174746)
 - [Headset set up advice please](https://forums.vatsim.net/topic/30623-headset-set-up-advice-please/?do=findComment&comment=174745)
-- [[VACANCY] VATEUD Community Director](https://forums.vatsim.net/topic/30501-vacancy-vateud-community-director/?do=findComment&comment=174744)
-- [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=174742)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
