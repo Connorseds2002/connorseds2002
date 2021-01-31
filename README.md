@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174726)
+- [New Staff Position Filled in VATCAR: Hit Squad Director](https://forums.vatsim.net/topic/30620-new-staff-position-filled-in-vatcar-hit-squad-director/?do=findComment&comment=174725)
+- [New Staff Positions Filled in VATCAR: Training Director and Assistant Director](https://forums.vatsim.net/topic/30619-new-staff-positions-filled-in-vatcar-training-director-and-assistant-director/?do=findComment&comment=174724)
+- [Account suspended for 12yo duplicate](https://forums.vatsim.net/topic/30618-account-suspended-for-12yo-duplicate/?do=findComment&comment=174723)
+- [Account suspended for 12yo duplicate](https://forums.vatsim.net/topic/30618-account-suspended-for-12yo-duplicate/?do=findComment&comment=174722)
 - [Account suspended for 12yo duplicate](https://forums.vatsim.net/topic/30618-account-suspended-for-12yo-duplicate/?do=findComment&comment=174721)
 - [vPilot error](https://forums.vatsim.net/topic/30614-vpilot-error/?do=findComment&comment=174720)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174719)
 - [The Flight Booking System - a simgoodies.app](https://forums.vatsim.net/topic/28948-the-flight-booking-system-a-simgoodiesapp/?do=findComment&comment=174718)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174717)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174716)
-- [Can not find exam in "My Exams" section](https://forums.vatsim.net/topic/30617-can-not-find-exam-in-my-exams-section/?do=findComment&comment=174715)
-- [Invalid CID/PASSWORD](https://forums.vatsim.net/topic/30612-invalid-cidpassword/?do=findComment&comment=174714)
-- [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=174713)
-- [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174712)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
