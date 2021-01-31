@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174716)
+- [Can not find exam in "My Exams" section](https://forums.vatsim.net/topic/30617-can-not-find-exam-in-my-exams-section/?do=findComment&comment=174715)
 - [Invalid CID/PASSWORD](https://forums.vatsim.net/topic/30612-invalid-cidpassword/?do=findComment&comment=174714)
 - [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=174713)
 - [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174712)
@@ -61,8 +63,6 @@
 - [[ACCIND4] India vACC Membership Director Vacancy](https://forums.vatsim.net/topic/30616-accind4-india-vacc-membership-director-vacancy/?do=findComment&comment=174708)
 - [Error downloading simconnect library](https://forums.vatsim.net/topic/30615-error-downloading-simconnect-library/?do=findComment&comment=174707)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174706)
-- [Error downloading simconnect library](https://forums.vatsim.net/topic/30615-error-downloading-simconnect-library/?do=findComment&comment=174705)
-- [Error downloading simconnect library](https://forums.vatsim.net/topic/30615-error-downloading-simconnect-library/?do=findComment&comment=174704)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
