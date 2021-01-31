@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=229&tab=comments)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=228&tab=comments)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=227&tab=comments)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=226&tab=comments)
@@ -48,7 +49,6 @@
 - [28FEB21 | South East Asia Connect](https://forums.vatpac.org/calendar/event/1635-28feb21-south-east-asia-connect/)
 - [28FEB21 | South East Asia Connect](https://forums.vatpac.org/topic/18579-28feb21-south-east-asia-connect/?do=findComment&comment=130823)
 - [27JAN21 World Discovery Colorado Rockies Leg 2](https://forums.vatpac.org/calendar/event/1610-27jan21-world-discovery-colorado-rockies-leg-2/?do=findComment&comment=225&tab=comments)
-- [Enjoying looking through my feed?](https://forums.vatpac.org/profile/2133-cameron-wilbraham/?status=9&type=status)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
