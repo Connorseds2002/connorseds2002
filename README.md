@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VATPAC Resources Upgrade](https://forums.vatpac.org/topic/18584-vatpac-resources-upgrade/?do=findComment&comment=130844)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=229&tab=comments)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=228&tab=comments)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=227&tab=comments)
@@ -48,7 +49,6 @@
 - [NOTAM: AIRAC 2101](https://forums.vatpac.org/topic/18580-notam-airac-2101/?do=findComment&comment=130826)
 - [28FEB21 | South East Asia Connect](https://forums.vatpac.org/calendar/event/1635-28feb21-south-east-asia-connect/)
 - [28FEB21 | South East Asia Connect](https://forums.vatpac.org/topic/18579-28feb21-south-east-asia-connect/?do=findComment&comment=130823)
-- [27JAN21 World Discovery Colorado Rockies Leg 2](https://forums.vatpac.org/calendar/event/1610-27jan21-world-discovery-colorado-rockies-leg-2/?do=findComment&comment=225&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
