@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174750)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174749)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174748)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174747)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174746)
+- [Headset set up advice please](https://forums.vatsim.net/topic/30623-headset-set-up-advice-please/?do=findComment&comment=174745)
+- [[VACANCY] VATEUD Community Director](https://forums.vatsim.net/topic/30501-vacancy-vateud-community-director/?do=findComment&comment=174744)
+- [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=174742)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174741)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174739)
-- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174738)
-- [Cross The Pond - HELP WANTED](https://forums.vatsim.net/topic/30579-cross-the-pond-help-wanted/?do=findComment&comment=174737)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174736)
-- [Error downloading simconnect library](https://forums.vatsim.net/topic/30615-error-downloading-simconnect-library/?do=findComment&comment=174735)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174734)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174733)
-- [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174732)
-- [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=174731)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
