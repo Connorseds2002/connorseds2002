@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [The Flight Booking System - a simgoodies.app](https://forums.vatsim.net/topic/28948-the-flight-booking-system-a-simgoodiesapp/?do=findComment&comment=174709)
 - [[ACCIND4] India vACC Membership Director Vacancy](https://forums.vatsim.net/topic/30616-accind4-india-vacc-membership-director-vacancy/?do=findComment&comment=174708)
 - [Error downloading simconnect library](https://forums.vatsim.net/topic/30615-error-downloading-simconnect-library/?do=findComment&comment=174707)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174706)
@@ -62,7 +63,6 @@
 - [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174702)
 - [Error loading profile](https://forums.vatsim.net/topic/30606-error-loading-profile/?do=findComment&comment=174701)
 - [vPilot error](https://forums.vatsim.net/topic/30614-vpilot-error/?do=findComment&comment=174700)
-- [Invalid CID/PASSWORD](https://forums.vatsim.net/topic/30612-invalid-cidpassword/?do=findComment&comment=174699)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
