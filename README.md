@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Error downloading simconnect library](https://forums.vatsim.net/topic/30615-error-downloading-simconnect-library/?do=findComment&comment=174735)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174734)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174733)
+- [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174732)
+- [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=174731)
+- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174730)
+- [Canadian Xpress February 2021 Challenge: Scenic Approaches IV - Kahului](https://forums.vatsim.net/topic/30622-canadian-xpress-february-2021-challenge-scenic-approaches-iv-kahului/?do=findComment&comment=174729)
+- [New Staff Position Filled in VATCAR: Hit Squad Director](https://forums.vatsim.net/topic/30620-new-staff-position-filled-in-vatcar-hit-squad-director/?do=findComment&comment=174728)
 - [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174726)
 - [New Staff Position Filled in VATCAR: Hit Squad Director](https://forums.vatsim.net/topic/30620-new-staff-position-filled-in-vatcar-hit-squad-director/?do=findComment&comment=174725)
-- [New Staff Positions Filled in VATCAR: Training Director and Assistant Director](https://forums.vatsim.net/topic/30619-new-staff-positions-filled-in-vatcar-training-director-and-assistant-director/?do=findComment&comment=174724)
-- [Account suspended for 12yo duplicate](https://forums.vatsim.net/topic/30618-account-suspended-for-12yo-duplicate/?do=findComment&comment=174723)
-- [Account suspended for 12yo duplicate](https://forums.vatsim.net/topic/30618-account-suspended-for-12yo-duplicate/?do=findComment&comment=174722)
-- [Account suspended for 12yo duplicate](https://forums.vatsim.net/topic/30618-account-suspended-for-12yo-duplicate/?do=findComment&comment=174721)
-- [vPilot error](https://forums.vatsim.net/topic/30614-vpilot-error/?do=findComment&comment=174720)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174719)
-- [The Flight Booking System - a simgoodies.app](https://forums.vatsim.net/topic/28948-the-flight-booking-system-a-simgoodiesapp/?do=findComment&comment=174718)
-- [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174717)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
