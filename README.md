@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174741)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174739)
+- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174738)
+- [Cross The Pond - HELP WANTED](https://forums.vatsim.net/topic/30579-cross-the-pond-help-wanted/?do=findComment&comment=174737)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174736)
 - [Error downloading simconnect library](https://forums.vatsim.net/topic/30615-error-downloading-simconnect-library/?do=findComment&comment=174735)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174734)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174733)
 - [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174732)
 - [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=174731)
-- [Events getting too unrealistic](https://forums.vatsim.net/topic/30277-events-getting-too-unrealistic/?do=findComment&comment=174730)
-- [Canadian Xpress February 2021 Challenge: Scenic Approaches IV - Kahului](https://forums.vatsim.net/topic/30622-canadian-xpress-february-2021-challenge-scenic-approaches-iv-kahului/?do=findComment&comment=174729)
-- [New Staff Position Filled in VATCAR: Hit Squad Director](https://forums.vatsim.net/topic/30620-new-staff-position-filled-in-vatcar-hit-squad-director/?do=findComment&comment=174728)
-- [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174726)
-- [New Staff Position Filled in VATCAR: Hit Squad Director](https://forums.vatsim.net/topic/30620-new-staff-position-filled-in-vatcar-hit-squad-director/?do=findComment&comment=174725)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
