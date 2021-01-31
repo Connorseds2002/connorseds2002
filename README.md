@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Account suspended for 12yo duplicate](https://forums.vatsim.net/topic/30618-account-suspended-for-12yo-duplicate/?do=findComment&comment=174721)
+- [vPilot error](https://forums.vatsim.net/topic/30614-vpilot-error/?do=findComment&comment=174720)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174719)
 - [The Flight Booking System - a simgoodies.app](https://forums.vatsim.net/topic/28948-the-flight-booking-system-a-simgoodiesapp/?do=findComment&comment=174718)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174717)
@@ -61,8 +63,6 @@
 - [Invalid CID/PASSWORD](https://forums.vatsim.net/topic/30612-invalid-cidpassword/?do=findComment&comment=174714)
 - [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=174713)
 - [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174712)
-- [Only one of tree monitor shows other traffic - dangerous when taxing.](https://forums.vatsim.net/topic/29315-only-one-of-tree-monitor-shows-other-traffic-dangerous-when-taxing/?do=findComment&comment=174711)
-- [The Flight Booking System - a simgoodies.app](https://forums.vatsim.net/topic/28948-the-flight-booking-system-a-simgoodiesapp/?do=findComment&comment=174709)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
