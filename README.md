@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174774)
+- [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174773)
 - [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174772)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174771)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174770)
@@ -61,8 +63,6 @@
 - [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174767)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174766)
 - [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174765)
-- [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174764)
-- [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174763)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
