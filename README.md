@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174789)
+- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174788)
 - [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174786)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174785)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174784)
@@ -61,8 +63,6 @@
 - [I can´t connect to the server at X Plane](https://forums.vatsim.net/topic/30627-i-can%C2%B4t-connect-to-the-server-at-x-plane/?do=findComment&comment=174777)
 - [After years of inactivity, fresh start and no exam](https://forums.vatsim.net/topic/30624-after-years-of-inactivity-fresh-start-and-no-exam/?do=findComment&comment=174776)
 - [[ACCIND6] India vACC Webmaster Vacancy Released](https://forums.vatsim.net/topic/30272-accind6-india-vacc-webmaster-vacancy-released/?do=findComment&comment=174775)
-- [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174774)
-- [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174773)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
