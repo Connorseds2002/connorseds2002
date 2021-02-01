@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174770)
+- [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174769)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174768)
 - [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174767)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174766)
@@ -61,8 +63,6 @@
 - [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174763)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174762)
 - [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174761)
-- [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174760)
-- [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174759)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
