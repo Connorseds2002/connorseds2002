@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Observer Mode Question - One user flying, observer running comms](https://forums.vatsim.net/topic/30630-observer-mode-question-one-user-flying-observer-running-comms/?do=findComment&comment=174801)
+- [How to leave a discord server?](https://forums.vatsim.net/topic/28604-how-to-leave-a-discord-server/?do=findComment&comment=174800)
+- [Observer Mode Question - One user flying, observer running comms](https://forums.vatsim.net/topic/30630-observer-mode-question-one-user-flying-observer-running-comms/?do=findComment&comment=174799)
+- [Observer Mode Question - One user flying, observer running comms](https://forums.vatsim.net/topic/30630-observer-mode-question-one-user-flying-observer-running-comms/?do=findComment&comment=174798)
+- [Observer Mode Question - One user flying, observer running comms](https://forums.vatsim.net/topic/30630-observer-mode-question-one-user-flying-observer-running-comms/?do=findComment&comment=174797)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174796)
 - [Status name change](https://forums.vatsim.net/topic/30629-status-name-change/?do=findComment&comment=174792)
 - [Status name change](https://forums.vatsim.net/topic/30629-status-name-change/?do=findComment&comment=174790)
 - [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174789)
 - [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174788)
-- [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174786)
-- [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174785)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174784)
-- [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174779)
-- [Error Connecting to voice server](https://forums.vatsim.net/topic/30628-error-connecting-to-voice-server/?do=findComment&comment=174778)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
