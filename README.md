@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I can´t connect to the server at X Plane](https://forums.vatsim.net/topic/30627-i-can%C2%B4t-connect-to-the-server-at-x-plane/?do=findComment&comment=174777)
+- [After years of inactivity, fresh start and no exam](https://forums.vatsim.net/topic/30624-after-years-of-inactivity-fresh-start-and-no-exam/?do=findComment&comment=174776)
+- [[ACCIND6] India vACC Webmaster Vacancy Released](https://forums.vatsim.net/topic/30272-accind6-india-vacc-webmaster-vacancy-released/?do=findComment&comment=174775)
 - [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174774)
 - [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174773)
 - [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174772)
@@ -60,9 +63,6 @@
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174770)
 - [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174769)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174768)
-- [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174767)
-- [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174766)
-- [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174765)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
