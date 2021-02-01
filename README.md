@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174768)
+- [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174767)
+- [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174766)
+- [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174765)
+- [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174764)
 - [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174763)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174762)
 - [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174761)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174760)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174759)
-- [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174757)
-- [After years of inactivity, fresh start and no exam](https://forums.vatsim.net/topic/30624-after-years-of-inactivity-fresh-start-and-no-exam/?do=findComment&comment=174756)
-- [vPilot error: Command failed.](https://forums.vatsim.net/topic/30621-vpilot-error-command-failed/?do=findComment&comment=174755)
-- [After years of inactivity, fresh start and no exam](https://forums.vatsim.net/topic/30624-after-years-of-inactivity-fresh-start-and-no-exam/?do=findComment&comment=174754)
-- [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=174753)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
