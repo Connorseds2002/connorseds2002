@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174898)
+- [Root FSX folder opens on game startup](https://forums.vatsim.net/topic/30641-root-fsx-folder-opens-on-game-startup/?do=findComment&comment=174894)
+- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174892)
+- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174891)
+- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174890)
 - [Virtual USA Flying Club](https://forums.vatsim.net/topic/25770-virtual-usa-flying-club/?do=findComment&comment=174888)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174887)
 - [Where's China Southern?](https://forums.vatsim.net/topic/23300-wheres-china-southern/?do=findComment&comment=174886)
 - [Where's China Southern?](https://forums.vatsim.net/topic/23300-wheres-china-southern/?do=findComment&comment=174885)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174884)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174883)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174882)
-- [Where's China Southern?](https://forums.vatsim.net/topic/23300-wheres-china-southern/?do=findComment&comment=174881)
-- [Where's China Southern?](https://forums.vatsim.net/topic/23300-wheres-china-southern/?do=findComment&comment=174880)
-- [AFV too good sound](https://forums.vatsim.net/topic/30439-afv-too-good-sound/?do=findComment&comment=174879)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
