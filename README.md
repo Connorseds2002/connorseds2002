@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How do I delete favourites in Vat-spy Toolbar?](https://forums.vatsim.net/topic/30633-how-do-i-delete-favourites-in-vat-spy-toolbar/?do=findComment&comment=174831)
+- [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174830)
+- [How do I delete favourites in Vat-spy Toolbar?](https://forums.vatsim.net/topic/30633-how-do-i-delete-favourites-in-vat-spy-toolbar/?do=findComment&comment=174829)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174828)
+- [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174827)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174826)
 - [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174823)
 - [I can´t connect to the server at X Plane](https://forums.vatsim.net/topic/30627-i-can%C2%B4t-connect-to-the-server-at-x-plane/?do=findComment&comment=174822)
 - [Observer Mode Question - One user flying, observer running comms](https://forums.vatsim.net/topic/30630-observer-mode-question-one-user-flying-observer-running-comms/?do=findComment&comment=174821)
 - [No communication in vPilot - MSFS 2020](https://forums.vatsim.net/topic/30625-no-communication-in-vpilot-msfs-2020/?do=findComment&comment=174820)
-- [New Virtual Airport KPVD Help Wanted](https://forums.vatsim.net/topic/30631-new-virtual-airport-kpvd-help-wanted/?do=findComment&comment=174819)
-- [Invalid CID/Password](https://forums.vatsim.net/topic/30613-invalid-cidpassword/?do=findComment&comment=174818)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174817)
-- [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174813)
-- [New Virtual Airport KPVD Help Wanted](https://forums.vatsim.net/topic/30631-new-virtual-airport-kpvd-help-wanted/?do=findComment&comment=174808)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
