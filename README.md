@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174878)
+- [Appointment of Divisional Operations Director](https://forums.vatsim.net/topic/30640-appointment-of-divisional-operations-director/?do=findComment&comment=174877)
+- [Creating an API?](https://forums.vatsim.net/topic/30637-creating-an-api/?do=findComment&comment=174876)
+- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174875)
+- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174874)
+- [Luis Henrique steps down](https://forums.vatsim.net/topic/30551-luis-henrique-steps-down/?do=findComment&comment=174873)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174872)
+- [VATSpy not loading properly](https://forums.vatsim.net/topic/30639-vatspy-not-loading-properly/?do=findComment&comment=174870)
 - [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174869)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174866)
-- [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174865)
-- [POSITION FILLED! - SAN JUAN CERAP (ZSU) DEPUTY AIR TRAFFIC MANAGER](https://forums.vatsim.net/topic/30634-position-filled-san-juan-cerap-zsu-deputy-air-traffic-manager/?do=findComment&comment=174864)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174863)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174862)
-- [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=174861)
-- [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=174860)
-- [Data-Export to EuroScope Plugins](https://forums.vatsim.net/topic/27644-data-export-to-euroscope-plugins/?do=findComment&comment=174859)
-- [AFV Controller Client Unusable](https://forums.vatsim.net/topic/30137-afv-controller-client-unusable/?do=findComment&comment=174858)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
