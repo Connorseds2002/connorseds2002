@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Data-Export to EuroScope Plugins](https://forums.vatsim.net/topic/27644-data-export-to-euroscope-plugins/?do=findComment&comment=174859)
+- [AFV Controller Client Unusable](https://forums.vatsim.net/topic/30137-afv-controller-client-unusable/?do=findComment&comment=174858)
+- [Feature Request: Secondary PTT key](https://forums.vatsim.net/topic/30206-feature-request-secondary-ptt-key/?do=findComment&comment=174857)
+- [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=174856)
+- [AFV too good sound](https://forums.vatsim.net/topic/30439-afv-too-good-sound/?do=findComment&comment=174855)
+- [Documentation for the AFV Text2Speech ATIS?](https://forums.vatsim.net/topic/30636-documentation-for-the-afv-text2speech-atis/?do=findComment&comment=174854)
 - [Creating an API?](https://forums.vatsim.net/topic/30637-creating-an-api/?do=findComment&comment=174853)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=174852)
 - [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174851)
 - [Documentation for the AFV Text2Speech ATIS?](https://forums.vatsim.net/topic/30636-documentation-for-the-afv-text2speech-atis/?do=findComment&comment=174850)
-- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174849)
-- [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=174848)
-- [[CLOSED] VATSIM Middle East & North Africa - Operations Director](https://forums.vatsim.net/topic/30063-closed-vatsim-middle-east-north-africa-operations-director/?do=findComment&comment=174847)
-- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174846)
-- [Clearance received flag not working](https://forums.vatsim.net/topic/30626-clearance-received-flag-not-working/?do=findComment&comment=174845)
-- [British Airways Concorde flies again!](https://forums.vatsim.net/topic/30635-british-airways-concorde-flies-again/?do=findComment&comment=174844)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
