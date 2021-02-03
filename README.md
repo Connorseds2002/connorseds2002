@@ -39,7 +39,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [20FEB21 | Newbie Night (Coffs Harbour to Sydney)](https://forums.vatpac.org/calendar/event/1640-20feb21-newbie-night-coffs-harbour-to-sydney/)
 - [Living the cotton candy dream](https://forums.vatpac.org/profile/1440-joshua-micallef/?status=10&type=status)
 - [VATPAC Resources Upgrade](https://forums.vatpac.org/topic/18584-vatpac-resources-upgrade/?do=findComment&comment=130844)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=229&tab=comments)
@@ -49,6 +48,7 @@
 - [ATC Controlling Positions during Milk Run Monday](https://forums.vatpac.org/topic/18543-atc-controlling-positions-during-milk-run-monday/?do=findComment&comment=130833)
 - [Major Events List 2021](https://forums.vatpac.org/topic/18457-major-events-list-2021/?do=findComment&comment=130832)
 - [NOTAM: AIRAC 2101](https://forums.vatpac.org/topic/18580-notam-airac-2101/?do=findComment&comment=130826)
+- [28FEB21 | South East Asia Connect](https://forums.vatpac.org/calendar/event/1635-28feb21-south-east-asia-connect/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
