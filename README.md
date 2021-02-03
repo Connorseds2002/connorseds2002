@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174934)
+- [VMR Generator](https://forums.vatsim.net/topic/30649-vmr-generator/?do=findComment&comment=174933)
+- [Globe Cargo Virtual Airlines is proud to present our new website](https://forums.vatsim.net/topic/30646-globe-cargo-virtual-airlines-is-proud-to-present-our-new-website/?do=findComment&comment=174932)
+- [[2-10-2021]Swagatam Nepal](https://forums.vatsim.net/topic/30648-2-10-2021swagatam-nepal/?do=findComment&comment=174931)
+- [VPilot and VR](https://forums.vatsim.net/topic/30647-vpilot-and-vr/?do=findComment&comment=174930)
 - [Help in sector making](https://forums.vatsim.net/topic/30441-help-in-sector-making/?do=findComment&comment=174929)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174928)
 - [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174927)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174926)
 - [Globe Cargo Virtual Airlines is proud to present our new website](https://forums.vatsim.net/topic/30646-globe-cargo-virtual-airlines-is-proud-to-present-our-new-website/?do=findComment&comment=174925)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174924)
-- [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=174922)
-- [Get controller location](https://forums.vatsim.net/topic/30560-get-controller-location/?do=findComment&comment=174921)
-- [Resolution restrictions](https://forums.vatsim.net/topic/30644-resolution-restrictions/?do=findComment&comment=174920)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174919)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
