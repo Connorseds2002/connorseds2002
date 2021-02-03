@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174907)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174906)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174905)
+- [Appointment of Divisional Operations Director](https://forums.vatsim.net/topic/30640-appointment-of-divisional-operations-director/?do=findComment&comment=174904)
+- [British Airways Concorde flies again!](https://forums.vatsim.net/topic/30635-british-airways-concorde-flies-again/?do=findComment&comment=174903)
+- [POSITION FILLED! - SAN JUAN CERAP (ZSU) DEPUTY AIR TRAFFIC MANAGER](https://forums.vatsim.net/topic/30634-position-filled-san-juan-cerap-zsu-deputy-air-traffic-manager/?do=findComment&comment=174902)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174901)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174900)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174898)
 - [Root FSX folder opens on game startup](https://forums.vatsim.net/topic/30641-root-fsx-folder-opens-on-game-startup/?do=findComment&comment=174894)
-- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174892)
-- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174891)
-- [Troubleshooting feedback: 1.3.37 seems to be a step backward in terms of stability](https://forums.vatsim.net/topic/30597-troubleshooting-feedback-1337-seems-to-be-a-step-backward-in-terms-of-stability/?do=findComment&comment=174890)
-- [Virtual USA Flying Club](https://forums.vatsim.net/topic/25770-virtual-usa-flying-club/?do=findComment&comment=174888)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174887)
-- [Where's China Southern?](https://forums.vatsim.net/topic/23300-wheres-china-southern/?do=findComment&comment=174886)
-- [Where's China Southern?](https://forums.vatsim.net/topic/23300-wheres-china-southern/?do=findComment&comment=174885)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
