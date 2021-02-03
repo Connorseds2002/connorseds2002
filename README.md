@@ -39,7 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Newbie Night (Coffs Harbour to Sydney)](https://forums.vatpac.org/calendar/event/1640-newbie-night-coffs-harbour-to-sydney/)
+- [20FEB21 | Newbie Night (Coffs Harbour to Sydney)](https://forums.vatpac.org/calendar/event/1640-20feb21-newbie-night-coffs-harbour-to-sydney/)
 - [Living the cotton candy dream](https://forums.vatpac.org/profile/1440-joshua-micallef/?status=10&type=status)
 - [VATPAC Resources Upgrade](https://forums.vatpac.org/topic/18584-vatpac-resources-upgrade/?do=findComment&comment=130844)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=229&tab=comments)
