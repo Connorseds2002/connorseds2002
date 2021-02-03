@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=174944)
+- [VMR Generator](https://forums.vatsim.net/topic/30649-vmr-generator/?do=findComment&comment=174943)
 - [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174942)
 - [[2-10-2021]Swagatam Nepal](https://forums.vatsim.net/topic/30648-2-10-2021swagatam-nepal/?do=findComment&comment=174939)
 - [[Region Report Q2,2020]-VATSIM Asia](https://forums.vatsim.net/topic/28662-region-report-q22020-vatsim-asia/?do=findComment&comment=174937)
@@ -61,8 +63,6 @@
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174934)
 - [VMR Generator](https://forums.vatsim.net/topic/30649-vmr-generator/?do=findComment&comment=174933)
 - [Globe Cargo Virtual Airlines is proud to present our new website](https://forums.vatsim.net/topic/30646-globe-cargo-virtual-airlines-is-proud-to-present-our-new-website/?do=findComment&comment=174932)
-- [[2-10-2021]Swagatam Nepal](https://forums.vatsim.net/topic/30648-2-10-2021swagatam-nepal/?do=findComment&comment=174931)
-- [VPilot and VR](https://forums.vatsim.net/topic/30647-vpilot-and-vr/?do=findComment&comment=174930)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
