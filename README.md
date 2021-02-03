@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174947)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174946)
 - [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=174944)
 - [VMR Generator](https://forums.vatsim.net/topic/30649-vmr-generator/?do=findComment&comment=174943)
 - [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174942)
@@ -61,8 +63,6 @@
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174936)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174935)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174934)
-- [VMR Generator](https://forums.vatsim.net/topic/30649-vmr-generator/?do=findComment&comment=174933)
-- [Globe Cargo Virtual Airlines is proud to present our new website](https://forums.vatsim.net/topic/30646-globe-cargo-virtual-airlines-is-proud-to-present-our-new-website/?do=findComment&comment=174932)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
