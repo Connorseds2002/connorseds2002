@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=174928)
 - [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174927)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174926)
 - [Globe Cargo Virtual Airlines is proud to present our new website](https://forums.vatsim.net/topic/30646-globe-cargo-virtual-airlines-is-proud-to-present-our-new-website/?do=findComment&comment=174925)
@@ -62,7 +63,6 @@
 - [Resolution restrictions](https://forums.vatsim.net/topic/30644-resolution-restrictions/?do=findComment&comment=174920)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174919)
 - [New Website: Asia Pacific Region](https://forums.vatsim.net/topic/30643-new-website-asia-pacific-region/?do=findComment&comment=174918)
-- [How to change Euroscope send packet rate?](https://forums.vatsim.net/topic/30642-how-to-change-euroscope-send-packet-rate/?do=findComment&comment=174917)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
