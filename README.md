@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Had to start a website...](https://forums.vatsim.net/topic/30653-had-to-start-a-website/?do=findComment&comment=174973)
+- [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=174972)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174970)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174969)
 - [Sub-Sahara Africa Division](https://forums.vatsim.net/topic/30652-sub-sahara-africa-division/?do=findComment&comment=174968)
 - [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174967)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174966)
-- [Recent callsign and aircraft drop down gone in latest update?](https://forums.vatsim.net/topic/30651-recent-callsign-and-aircraft-drop-down-gone-in-latest-update/?do=findComment&comment=174965)
 - [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174964)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174963)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174962)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174961)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
