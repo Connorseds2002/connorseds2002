@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [.NET Framework error](https://forums.vatsim.net/topic/30654-net-framework-error/?do=findComment&comment=174976)
 - [.NET Framework error](https://forums.vatsim.net/topic/30654-net-framework-error/?do=findComment&comment=174975)
 - [.NET Framework error](https://forums.vatsim.net/topic/30654-net-framework-error/?do=findComment&comment=174974)
 - [Had to start a website...](https://forums.vatsim.net/topic/30653-had-to-start-a-website/?do=findComment&comment=174973)
@@ -62,7 +63,6 @@
 - [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174967)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174966)
 - [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174964)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174963)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
