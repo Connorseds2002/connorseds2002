@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=175004)
+- [Feature request: transmit on two freq at one time](https://forums.vatsim.net/topic/30656-feature-request-transmit-on-two-freq-at-one-time/?do=findComment&comment=175003)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175001)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175000)
 - [AFV Controller Client Unusable](https://forums.vatsim.net/topic/30137-afv-controller-client-unusable/?do=findComment&comment=174998)
@@ -61,8 +63,6 @@
 - [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30657-era-alaska-virtual-group-flight/?do=findComment&comment=174994)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174993)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174992)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174991)
-- [Feature request: transmit on two freq at one time](https://forums.vatsim.net/topic/30656-feature-request-transmit-on-two-freq-at-one-time/?do=findComment&comment=174990)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
