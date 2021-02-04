@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Discord streaming and voice comms](https://forums.vatsim.net/topic/30658-discord-streaming-and-voice-comms/?do=findComment&comment=175026)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175025)
+- [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175024)
+- [How do I delete favourites in Vat-spy Toolbar?](https://forums.vatsim.net/topic/30633-how-do-i-delete-favourites-in-vat-spy-toolbar/?do=findComment&comment=175023)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175022)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175021)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175020)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=175019)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=175018)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175016)
-- [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175015)
-- [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175013)
-- [How to change Euroscope send packet rate?](https://forums.vatsim.net/topic/30642-how-to-change-euroscope-send-packet-rate/?do=findComment&comment=175010)
-- [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=175008)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
