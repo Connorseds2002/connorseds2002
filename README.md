@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Request Transfer](https://forums.vatsim.net/topic/30548-request-transfer/?do=findComment&comment=174967)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=174966)
+- [Recent callsign and aircraft drop down gone in latest update?](https://forums.vatsim.net/topic/30651-recent-callsign-and-aircraft-drop-down-gone-in-latest-update/?do=findComment&comment=174965)
+- [ZIBO B737- 700U - 800x - 900U - Alternative checklist adapted for flight on VATSIM and faster “take off”.](https://forums.vatsim.net/topic/30456-zibo-b737-700u-800x-900u-alternative-checklist-adapted-for-flight-on-vatsim-and-faster-%E2%80%9Ctake-off%E2%80%9D/?do=findComment&comment=174964)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174963)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174962)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174961)
 - [ATIS with no ATC](https://forums.vatsim.net/topic/30566-atis-with-no-atc/?do=findComment&comment=174960)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174959)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174958)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174957)
-- [Canno Start](https://forums.vatsim.net/topic/30650-canno-start/?do=findComment&comment=174956)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=174955)
-- [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=174954)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
