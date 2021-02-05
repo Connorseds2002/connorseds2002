@@ -39,16 +39,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20FEB21 | Newbie Night - Coffs Harbour to Sydney](https://forums.vatpac.org/topic/18587-20feb21-newbie-night-coffs-harbour-to-sydney/?do=findComment&comment=130856)
+- [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=233&tab=comments)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=232&tab=comments)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=231&tab=comments)
 - [Looking to get more involved with Virtual ATC/Piloting.](https://forums.vatpac.org/profile/2725-david-duff/?status=11&type=status)
 - [NOTAM 13FEB21: Positions Reserved for Light Up Western Australia](https://forums.vatpac.org/topic/18586-notam-13feb21-positions-reserved-for-light-up-western-australia/?do=findComment&comment=130853)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=230&tab=comments)
+- [20FEB21 | Newbie Night (Coffs Harbour to Sydney)](https://forums.vatpac.org/calendar/event/1640-20feb21-newbie-night-coffs-harbour-to-sydney/)
 - [Living the cotton candy dream](https://forums.vatpac.org/profile/1440-joshua-micallef/?status=10&type=status)
 - [VATPAC Resources Upgrade](https://forums.vatpac.org/topic/18584-vatpac-resources-upgrade/?do=findComment&comment=130844)
-- [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=229&tab=comments)
-- [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=228&tab=comments)
-- [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=227&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
