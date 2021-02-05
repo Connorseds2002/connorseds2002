@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=175072)
+- [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=175071)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175070)
 - [Reverb G2 and vPilot - mic wont work..](https://forums.vatsim.net/topic/30663-reverb-g2-and-vpilot-mic-wont-work/?do=findComment&comment=175069)
 - [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=175068)
 - [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=175067)
@@ -60,9 +63,6 @@
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=175065)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=175064)
 - [Error connecting to voice server: Connect failed (Forbidden - )](https://forums.vatsim.net/topic/30588-error-connecting-to-voice-server-connect-failed-forbidden/?do=findComment&comment=175062)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175055)
-- [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=175054)
-- [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=175053)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
