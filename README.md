@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=231&tab=comments)
 - [Looking to get more involved with Virtual ATC/Piloting.](https://forums.vatpac.org/profile/2725-david-duff/?status=11&type=status)
 - [NOTAM 13FEB21: Positions Reserved for Light Up Western Australia](https://forums.vatpac.org/topic/18586-notam-13feb21-positions-reserved-for-light-up-western-australia/?do=findComment&comment=130853)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=230&tab=comments)
@@ -48,7 +49,6 @@
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=228&tab=comments)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=227&tab=comments)
 - [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=226&tab=comments)
-- [ATC Controlling Positions during Milk Run Monday](https://forums.vatpac.org/topic/18543-atc-controlling-positions-during-milk-run-monday/?do=findComment&comment=130833)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
