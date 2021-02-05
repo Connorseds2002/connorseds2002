@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Globe Cargo Virtual Airlines is proud to present our new website](https://forums.vatsim.net/topic/30646-globe-cargo-virtual-airlines-is-proud-to-present-our-new-website/?do=findComment&comment=175031)
+- [NEW VATBRZ DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/30659-new-vatbrz-divisional-director/?do=findComment&comment=175030)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175029)
 - [NEW VATBRZ DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/30659-new-vatbrz-divisional-director/?do=findComment&comment=175028)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=175027)
@@ -61,8 +63,6 @@
 - [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175024)
 - [How do I delete favourites in Vat-spy Toolbar?](https://forums.vatsim.net/topic/30633-how-do-i-delete-favourites-in-vat-spy-toolbar/?do=findComment&comment=175023)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175022)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175021)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175020)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
