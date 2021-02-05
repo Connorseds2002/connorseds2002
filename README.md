@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Call Sign questions](https://forums.vatsim.net/topic/30660-call-sign-questions/?do=findComment&comment=175040)
 - [British Airways Concorde flies again!](https://forums.vatsim.net/topic/30635-british-airways-concorde-flies-again/?do=findComment&comment=175039)
 - [Call Sign questions](https://forums.vatsim.net/topic/30660-call-sign-questions/?do=findComment&comment=175038)
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=175035)
@@ -62,7 +63,6 @@
 - [NEW VATBRZ DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/30659-new-vatbrz-divisional-director/?do=findComment&comment=175030)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175029)
 - [NEW VATBRZ DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/30659-new-vatbrz-divisional-director/?do=findComment&comment=175028)
-- [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=175027)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
