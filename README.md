@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175082)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175081)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175080)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175079)
@@ -62,7 +63,6 @@
 - [Question regarding instruction from Manchester approach](https://forums.vatsim.net/topic/30577-question-regarding-instruction-from-manchester-approach/?do=findComment&comment=175075)
 - [Question regarding instruction from Manchester approach](https://forums.vatsim.net/topic/30577-question-regarding-instruction-from-manchester-approach/?do=findComment&comment=175074)
 - [Question regarding instruction from Manchester approach](https://forums.vatsim.net/topic/30577-question-regarding-instruction-from-manchester-approach/?do=findComment&comment=175073)
-- [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=175072)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
