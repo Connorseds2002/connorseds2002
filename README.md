@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to connect to voice](https://forums.vatsim.net/topic/30664-unable-to-connect-to-voice/?do=findComment&comment=175122)
 - [Call Sign questions](https://forums.vatsim.net/topic/30660-call-sign-questions/?do=findComment&comment=175118)
 - [Call Sign questions](https://forums.vatsim.net/topic/30660-call-sign-questions/?do=findComment&comment=175115)
 - [Monarch Flies Again](https://forums.vatsim.net/topic/30671-monarch-flies-again/?do=findComment&comment=175114)
@@ -62,7 +63,6 @@
 - [[12 FEB21 2200Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30670-12-feb21-2200z-santiago-afternoons-scel/?do=findComment&comment=175108)
 - [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175107)
 - [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175106)
-- [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175105)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
