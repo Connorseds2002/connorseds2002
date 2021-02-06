@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Call Sign questions](https://forums.vatsim.net/topic/30660-call-sign-questions/?do=findComment&comment=175115)
+- [Monarch Flies Again](https://forums.vatsim.net/topic/30671-monarch-flies-again/?do=findComment&comment=175114)
 - [Unable to connect to voice](https://forums.vatsim.net/topic/30664-unable-to-connect-to-voice/?do=findComment&comment=175112)
 - [Root FSX folder opens on game startup](https://forums.vatsim.net/topic/30641-root-fsx-folder-opens-on-game-startup/?do=findComment&comment=175110)
 - [Voice audio not recording](https://forums.vatsim.net/topic/30668-voice-audio-not-recording/?do=findComment&comment=175109)
@@ -61,8 +63,6 @@
 - [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175106)
 - [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175105)
 - [Voice audio not recording](https://forums.vatsim.net/topic/30668-voice-audio-not-recording/?do=findComment&comment=175104)
-- [Voice audio not recording](https://forums.vatsim.net/topic/30668-voice-audio-not-recording/?do=findComment&comment=175103)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175102)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
