@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Root FSX folder opens on game startup](https://forums.vatsim.net/topic/30641-root-fsx-folder-opens-on-game-startup/?do=findComment&comment=175110)
+- [Voice audio not recording](https://forums.vatsim.net/topic/30668-voice-audio-not-recording/?do=findComment&comment=175109)
+- [[12 FEB21 2200Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30670-12-feb21-2200z-santiago-afternoons-scel/?do=findComment&comment=175108)
 - [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175107)
 - [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175106)
 - [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175105)
@@ -60,9 +63,6 @@
 - [Voice audio not recording](https://forums.vatsim.net/topic/30668-voice-audio-not-recording/?do=findComment&comment=175103)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175102)
 - [Event: Spice Run : India vACC and SRM vACC](https://forums.vatsim.net/topic/30667-event-spice-run-india-vacc-and-srm-vacc/?do=findComment&comment=175101)
-- [FIR/ARTCC Tab](https://forums.vatsim.net/topic/30596-firartcc-tab/?do=findComment&comment=175100)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175099)
-- [FIR/ARTCC Tab](https://forums.vatsim.net/topic/30596-firartcc-tab/?do=findComment&comment=175098)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
