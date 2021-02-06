@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175090)
+- [Friday Night Live: 12-02-2021: Fly IN/OUT of Calicut International Airport (VOCL)](https://forums.vatsim.net/topic/30665-friday-night-live-12-02-2021-fly-inout-of-calicut-international-airport-vocl/?do=findComment&comment=175089)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175088)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175087)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175086)
 - [Unable to connect to voice](https://forums.vatsim.net/topic/30664-unable-to-connect-to-voice/?do=findComment&comment=175085)
 - [Reverb G2 and vPilot - mic wont work..](https://forums.vatsim.net/topic/30663-reverb-g2-and-vpilot-mic-wont-work/?do=findComment&comment=175084)
 - [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=175083)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175082)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175081)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175080)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175079)
-- [Question regarding instruction from Manchester approach](https://forums.vatsim.net/topic/30577-question-regarding-instruction-from-manchester-approach/?do=findComment&comment=175078)
-- [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=175077)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
