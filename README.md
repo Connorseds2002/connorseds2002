@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=175093)
 - [Unable to connect to voice](https://forums.vatsim.net/topic/30664-unable-to-connect-to-voice/?do=findComment&comment=175091)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175090)
 - [Friday Night Live: 12-02-2021: Fly IN/OUT of Calicut International Airport (VOCL)](https://forums.vatsim.net/topic/30665-friday-night-live-12-02-2021-fly-inout-of-calicut-international-airport-vocl/?do=findComment&comment=175089)
@@ -62,7 +63,6 @@
 - [Unable to connect to voice](https://forums.vatsim.net/topic/30664-unable-to-connect-to-voice/?do=findComment&comment=175085)
 - [Reverb G2 and vPilot - mic wont work..](https://forums.vatsim.net/topic/30663-reverb-g2-and-vpilot-mic-wont-work/?do=findComment&comment=175084)
 - [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=175083)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175082)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
