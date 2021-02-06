@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Call Sign questions](https://forums.vatsim.net/topic/30660-call-sign-questions/?do=findComment&comment=175118)
 - [Call Sign questions](https://forums.vatsim.net/topic/30660-call-sign-questions/?do=findComment&comment=175115)
 - [Monarch Flies Again](https://forums.vatsim.net/topic/30671-monarch-flies-again/?do=findComment&comment=175114)
 - [Unable to connect to voice](https://forums.vatsim.net/topic/30664-unable-to-connect-to-voice/?do=findComment&comment=175112)
@@ -62,7 +63,6 @@
 - [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175107)
 - [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175106)
 - [Network error: CID/PID Suspended](https://forums.vatsim.net/topic/30669-network-error-cidpid-suspended/?do=findComment&comment=175105)
-- [Voice audio not recording](https://forums.vatsim.net/topic/30668-voice-audio-not-recording/?do=findComment&comment=175104)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
