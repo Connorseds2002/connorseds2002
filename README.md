@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Event: Spice Run : India vACC and SRM vACC](https://forums.vatsim.net/topic/30667-event-spice-run-india-vacc-and-srm-vacc/?do=findComment&comment=175101)
+- [FIR/ARTCC Tab](https://forums.vatsim.net/topic/30596-firartcc-tab/?do=findComment&comment=175100)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175099)
 - [FIR/ARTCC Tab](https://forums.vatsim.net/topic/30596-firartcc-tab/?do=findComment&comment=175098)
 - [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=175097)
@@ -61,8 +63,6 @@
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175094)
 - [Unable to connect](https://forums.vatsim.net/topic/30638-unable-to-connect/?do=findComment&comment=175093)
 - [Unable to connect to voice](https://forums.vatsim.net/topic/30664-unable-to-connect-to-voice/?do=findComment&comment=175091)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175090)
-- [Friday Night Live: 12-02-2021: Fly IN/OUT of Calicut International Airport (VOCL)](https://forums.vatsim.net/topic/30665-friday-night-live-12-02-2021-fly-inout-of-calicut-international-airport-vocl/?do=findComment&comment=175089)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
