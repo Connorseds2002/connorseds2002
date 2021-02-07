@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175133)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175126)
 - [FIR/ARTCC Tab](https://forums.vatsim.net/topic/30596-firartcc-tab/?do=findComment&comment=175125)
 - [FIR/ARTCC Tab](https://forums.vatsim.net/topic/30596-firartcc-tab/?do=findComment&comment=175124)
@@ -62,7 +63,6 @@
 - [Call Sign questions](https://forums.vatsim.net/topic/30660-call-sign-questions/?do=findComment&comment=175115)
 - [Monarch Flies Again](https://forums.vatsim.net/topic/30671-monarch-flies-again/?do=findComment&comment=175114)
 - [Unable to connect to voice](https://forums.vatsim.net/topic/30664-unable-to-connect-to-voice/?do=findComment&comment=175112)
-- [Root FSX folder opens on game startup](https://forums.vatsim.net/topic/30641-root-fsx-folder-opens-on-game-startup/?do=findComment&comment=175110)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
