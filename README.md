@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Saved Callsigns, aircraft types](https://forums.vatsim.net/topic/30680-saved-callsigns-aircraft-types/?do=findComment&comment=175196)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175194)
 - [Flight Plan Filing with ATC at origin airport](https://forums.vatsim.net/topic/30675-flight-plan-filing-with-atc-at-origin-airport/?do=findComment&comment=175192)
 - [Flight Plan Filing with ATC at origin airport](https://forums.vatsim.net/topic/30675-flight-plan-filing-with-atc-at-origin-airport/?do=findComment&comment=175191)
 - [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175189)
@@ -61,8 +63,6 @@
 - [Everyone is an Airbus A321](https://forums.vatsim.net/topic/30679-everyone-is-an-airbus-a321/?do=findComment&comment=175186)
 - [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175183)
 - [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175182)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175181)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175178)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
