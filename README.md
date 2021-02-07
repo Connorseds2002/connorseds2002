@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175158)
+- [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175157)
 - [Flight Plan Filing with ATC at origin airport](https://forums.vatsim.net/topic/30675-flight-plan-filing-with-atc-at-origin-airport/?do=findComment&comment=175156)
 - [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=175155)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175154)
@@ -61,8 +63,6 @@
 - [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=175151)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175150)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175149)
-- [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175148)
-- [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175147)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
