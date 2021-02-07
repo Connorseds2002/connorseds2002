@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=175155)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175154)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175153)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175152)
 - [[13-FEB-21] Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/29886-13-feb-21-cross-the-land-westbound-2021/?do=findComment&comment=175151)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175150)
@@ -60,9 +63,6 @@
 - [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175148)
 - [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175147)
 - [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175146)
-- [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175145)
-- [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=175144)
-- [Should I contact center](https://forums.vatsim.net/topic/30542-should-i-contact-center/?do=findComment&comment=175143)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
