@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175126)
+- [FIR/ARTCC Tab](https://forums.vatsim.net/topic/30596-firartcc-tab/?do=findComment&comment=175125)
 - [FIR/ARTCC Tab](https://forums.vatsim.net/topic/30596-firartcc-tab/?do=findComment&comment=175124)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175123)
 - [Unable to connect to voice](https://forums.vatsim.net/topic/30664-unable-to-connect-to-voice/?do=findComment&comment=175122)
@@ -61,8 +63,6 @@
 - [Monarch Flies Again](https://forums.vatsim.net/topic/30671-monarch-flies-again/?do=findComment&comment=175114)
 - [Unable to connect to voice](https://forums.vatsim.net/topic/30664-unable-to-connect-to-voice/?do=findComment&comment=175112)
 - [Root FSX folder opens on game startup](https://forums.vatsim.net/topic/30641-root-fsx-folder-opens-on-game-startup/?do=findComment&comment=175110)
-- [Voice audio not recording](https://forums.vatsim.net/topic/30668-voice-audio-not-recording/?do=findComment&comment=175109)
-- [[12 FEB21 2200Z] SANTIAGO AFTERNOONS (SCEL)](https://forums.vatsim.net/topic/30670-12-feb21-2200z-santiago-afternoons-scel/?do=findComment&comment=175108)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
