@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175146)
+- [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175145)
 - [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=175144)
 - [Should I contact center](https://forums.vatsim.net/topic/30542-should-i-contact-center/?do=findComment&comment=175143)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175142)
@@ -61,8 +63,6 @@
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175139)
 - [Weather engine](https://forums.vatsim.net/topic/30673-weather-engine/?do=findComment&comment=175138)
 - [Weather engine](https://forums.vatsim.net/topic/30673-weather-engine/?do=findComment&comment=175136)
-- [Bug reporting topic: Invisible planes in MSFS](https://forums.vatsim.net/topic/29439-bug-reporting-topic-invisible-planes-in-msfs/?do=findComment&comment=175135)
-- [SimAware issues with my ID #](https://forums.vatsim.net/topic/30672-simaware-issues-with-my-id/?do=findComment&comment=175134)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
