@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flight Plan Filing with ATC at origin airport](https://forums.vatsim.net/topic/30675-flight-plan-filing-with-atc-at-origin-airport/?do=findComment&comment=175156)
 - [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=175155)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175154)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175153)
@@ -62,7 +63,6 @@
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175149)
 - [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175148)
 - [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175147)
-- [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175146)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
