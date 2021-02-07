@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175149)
+- [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175148)
+- [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175147)
 - [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175146)
 - [download warning](https://forums.vatsim.net/topic/30674-download-warning/?do=findComment&comment=175145)
 - [KHPN to KBOS Flight Planning Newbie Questions](https://forums.vatsim.net/topic/30291-khpn-to-kbos-flight-planning-newbie-questions/?do=findComment&comment=175144)
@@ -60,9 +63,6 @@
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175142)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175141)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175140)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175139)
-- [Weather engine](https://forums.vatsim.net/topic/30673-weather-engine/?do=findComment&comment=175138)
-- [Weather engine](https://forums.vatsim.net/topic/30673-weather-engine/?do=findComment&comment=175136)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
