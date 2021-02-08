@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Higher HZ support](https://forums.vatsim.net/topic/30684-higher-hz-support/?do=findComment&comment=175219)
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175218)
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175217)
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175216)
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175215)
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175214)
+- [Mark Richards retires from the VATSIM Board of Governors](https://forums.vatsim.net/topic/30683-mark-richards-retires-from-the-vatsim-board-of-governors/?do=findComment&comment=175213)
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175212)
 - [Saved Callsigns, aircraft types](https://forums.vatsim.net/topic/30680-saved-callsigns-aircraft-types/?do=findComment&comment=175210)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175209)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175207)
-- [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175206)
-- [MFS2020 vPilot Model Matching Error](https://forums.vatsim.net/topic/30681-mfs2020-vpilot-model-matching-error/?do=findComment&comment=175205)
-- [MFS2020 vPilot Model Matching Error](https://forums.vatsim.net/topic/30681-mfs2020-vpilot-model-matching-error/?do=findComment&comment=175202)
-- [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175201)
-- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=175200)
-- [Saved Callsigns, aircraft types](https://forums.vatsim.net/topic/30680-saved-callsigns-aircraft-types/?do=findComment&comment=175199)
-- [MSFS vPilot. Controller says all they hear is static](https://forums.vatsim.net/topic/29484-msfs-vpilot-controller-says-all-they-hear-is-static/?do=findComment&comment=175198)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
