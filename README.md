@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Everyone is an Airbus A321](https://forums.vatsim.net/topic/30679-everyone-is-an-airbus-a321/?do=findComment&comment=175220)
 - [Higher HZ support](https://forums.vatsim.net/topic/30684-higher-hz-support/?do=findComment&comment=175219)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175218)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175217)
@@ -62,7 +63,6 @@
 - [Mark Richards retires from the VATSIM Board of Governors](https://forums.vatsim.net/topic/30683-mark-richards-retires-from-the-vatsim-board-of-governors/?do=findComment&comment=175213)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175212)
 - [Saved Callsigns, aircraft types](https://forums.vatsim.net/topic/30680-saved-callsigns-aircraft-types/?do=findComment&comment=175210)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175209)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
