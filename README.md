@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175236)
+- [ATC Flight Plan amendment as to requirements](https://forums.vatsim.net/topic/30685-atc-flight-plan-amendment-as-to-requirements/?do=findComment&comment=175235)
+- [ATC Flight Plan amendment as to requirements](https://forums.vatsim.net/topic/30685-atc-flight-plan-amendment-as-to-requirements/?do=findComment&comment=175234)
 - [Weather engine](https://forums.vatsim.net/topic/30673-weather-engine/?do=findComment&comment=175233)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175232)
 - [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=175231)
@@ -60,9 +63,6 @@
 - [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=175229)
 - [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=175228)
 - [MFS2020 vPilot Model Matching Error](https://forums.vatsim.net/topic/30681-mfs2020-vpilot-model-matching-error/?do=findComment&comment=175227)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175226)
-- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=175225)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175224)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
