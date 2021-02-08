@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175226)
+- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=175225)
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175224)
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175223)
 - [ATC Flight Plan amendment as to requirements](https://forums.vatsim.net/topic/30685-atc-flight-plan-amendment-as-to-requirements/?do=findComment&comment=175222)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175221)
 - [Everyone is an Airbus A321](https://forums.vatsim.net/topic/30679-everyone-is-an-airbus-a321/?do=findComment&comment=175220)
 - [Higher HZ support](https://forums.vatsim.net/topic/30684-higher-hz-support/?do=findComment&comment=175219)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175218)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175217)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175216)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175215)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175214)
-- [Mark Richards retires from the VATSIM Board of Governors](https://forums.vatsim.net/topic/30683-mark-richards-retires-from-the-vatsim-board-of-governors/?do=findComment&comment=175213)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
