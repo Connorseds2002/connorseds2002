@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=175228)
+- [MFS2020 vPilot Model Matching Error](https://forums.vatsim.net/topic/30681-mfs2020-vpilot-model-matching-error/?do=findComment&comment=175227)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175226)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=175225)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175224)
@@ -61,8 +63,6 @@
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175221)
 - [Everyone is an Airbus A321](https://forums.vatsim.net/topic/30679-everyone-is-an-airbus-a321/?do=findComment&comment=175220)
 - [Higher HZ support](https://forums.vatsim.net/topic/30684-higher-hz-support/?do=findComment&comment=175219)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175218)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175217)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
