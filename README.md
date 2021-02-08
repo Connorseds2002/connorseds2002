@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175270)
+- [Weather engine](https://forums.vatsim.net/topic/30673-weather-engine/?do=findComment&comment=175269)
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175265)
 - [How VATSIM Controllers Should ACTUALLY Handle New Pilots](https://forums.vatsim.net/topic/30687-how-vatsim-controllers-should-actually-handle-new-pilots/?do=findComment&comment=175263)
 - [NEW VATBRZ DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/30659-new-vatbrz-divisional-director/?do=findComment&comment=175262)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175260)
@@ -60,9 +63,6 @@
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175254)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175253)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175252)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175251)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175248)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175245)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
