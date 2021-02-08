@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175274)
+- [Error Connecting to voice server](https://forums.vatsim.net/topic/30628-error-connecting-to-voice-server/?do=findComment&comment=175273)
+- [Weather engine](https://forums.vatsim.net/topic/30673-weather-engine/?do=findComment&comment=175271)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175270)
 - [Weather engine](https://forums.vatsim.net/topic/30673-weather-engine/?do=findComment&comment=175269)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175265)
@@ -60,9 +63,6 @@
 - [NEW VATBRZ DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/30659-new-vatbrz-divisional-director/?do=findComment&comment=175262)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175260)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175256)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175254)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175253)
-- [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175252)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
