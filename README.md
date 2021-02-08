@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175245)
+- [NEW VATBRZ DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/30659-new-vatbrz-divisional-director/?do=findComment&comment=175244)
+- [Event: Spice Run : India vACC and SRM vACC](https://forums.vatsim.net/topic/30667-event-spice-run-india-vacc-and-srm-vacc/?do=findComment&comment=175243)
+- [ES Scenario Editor](https://forums.vatsim.net/topic/30686-es-scenario-editor/?do=findComment&comment=175242)
 - [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175241)
 - [NEW VATBRZ DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/30659-new-vatbrz-divisional-director/?do=findComment&comment=175240)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175238)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=175237)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175236)
 - [ATC Flight Plan amendment as to requirements](https://forums.vatsim.net/topic/30685-atc-flight-plan-amendment-as-to-requirements/?do=findComment&comment=175235)
-- [ATC Flight Plan amendment as to requirements](https://forums.vatsim.net/topic/30685-atc-flight-plan-amendment-as-to-requirements/?do=findComment&comment=175234)
-- [Weather engine](https://forums.vatsim.net/topic/30673-weather-engine/?do=findComment&comment=175233)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175232)
-- [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=175231)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
