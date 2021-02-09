@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MFS2020 vPilot Model Matching Error](https://forums.vatsim.net/topic/30681-mfs2020-vpilot-model-matching-error/?do=findComment&comment=175299)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=175298)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175297)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175296)
@@ -62,7 +63,6 @@
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175291)
 - [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175290)
 - [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175289)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175288)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
