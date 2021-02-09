@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175359)
+- [Supervisors no longer respond?](https://forums.vatsim.net/topic/30693-supervisors-no-longer-respond/?do=findComment&comment=175358)
 - [vpilot doesn't see the frequency](https://forums.vatsim.net/topic/30694-vpilot-doesnt-see-the-frequency/?do=findComment&comment=175357)
 - [Supervisors no longer respond?](https://forums.vatsim.net/topic/30693-supervisors-no-longer-respond/?do=findComment&comment=175356)
 - [Can't get mic to work in vpilot](https://forums.vatsim.net/topic/30695-cant-get-mic-to-work-in-vpilot/?do=findComment&comment=175355)
@@ -61,8 +63,6 @@
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175352)
 - [Supervisors no longer respond?](https://forums.vatsim.net/topic/30693-supervisors-no-longer-respond/?do=findComment&comment=175351)
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175350)
-- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175349)
-- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175348)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
