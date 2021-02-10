@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175398)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175397)
-- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=175396)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175395)
-- [Can't Install update](https://forums.vatsim.net/topic/30697-cant-install-update/?do=findComment&comment=175394)
-- [vpilot doesn't see the frequency](https://forums.vatsim.net/topic/30694-vpilot-doesnt-see-the-frequency/?do=findComment&comment=175393)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175392)
-- [Can't get mic to work in vpilot](https://forums.vatsim.net/topic/30695-cant-get-mic-to-work-in-vpilot/?do=findComment&comment=175388)
-- [1.3.38 double click ATC frequency](https://forums.vatsim.net/topic/30700-1338-double-click-atc-frequency/?do=findComment&comment=175383)
-- [No flight plan found...](https://forums.vatsim.net/topic/30699-no-flight-plan-found/?do=findComment&comment=175382)
+- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175419)
+- [New member course and exam](https://forums.vatsim.net/topic/30703-new-member-course-and-exam/?do=findComment&comment=175418)
+- [New member course and exam](https://forums.vatsim.net/topic/30703-new-member-course-and-exam/?do=findComment&comment=175417)
+- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=175416)
+- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175415)
+- [CID/Password Error, no P0 Exam Assigned](https://forums.vatsim.net/topic/30702-cidpassword-error-no-p0-exam-assigned/?do=findComment&comment=175414)
+- [New member course and exam](https://forums.vatsim.net/topic/30703-new-member-course-and-exam/?do=findComment&comment=175413)
+- [New member course and exam](https://forums.vatsim.net/topic/30703-new-member-course-and-exam/?do=findComment&comment=175412)
+- [CID/Password Error, no P0 Exam Assigned](https://forums.vatsim.net/topic/30702-cidpassword-error-no-p0-exam-assigned/?do=findComment&comment=175411)
+- [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=175410)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
