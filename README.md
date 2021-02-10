@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can't get mic to work in vpilot](https://forums.vatsim.net/topic/30695-cant-get-mic-to-work-in-vpilot/?do=findComment&comment=175388)
 - [1.3.38 double click ATC frequency](https://forums.vatsim.net/topic/30700-1338-double-click-atc-frequency/?do=findComment&comment=175383)
 - [No flight plan found...](https://forums.vatsim.net/topic/30699-no-flight-plan-found/?do=findComment&comment=175382)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175381)
@@ -62,7 +63,6 @@
 - [VATSIM medium term roadmap](https://forums.vatsim.net/topic/30698-vatsim-medium-term-roadmap/?do=findComment&comment=175377)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175376)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175375)
-- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175374)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
