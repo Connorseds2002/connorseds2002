@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175436)
+- [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=175435)
+- [CID/Password Error, no P0 Exam Assigned](https://forums.vatsim.net/topic/30702-cidpassword-error-no-p0-exam-assigned/?do=findComment&comment=175434)
+- [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175433)
+- [[14th Feb] Punta Arenas Overload](https://forums.vatsim.net/topic/30706-14th-feb-punta-arenas-overload/?do=findComment&comment=175432)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175431)
 - [CID/Password Error, no P0 Exam Assigned](https://forums.vatsim.net/topic/30702-cidpassword-error-no-p0-exam-assigned/?do=findComment&comment=175429)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=175428)
 - [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175427)
 - [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175426)
-- [vPilot audio stuttering](https://forums.vatsim.net/topic/30705-vpilot-audio-stuttering/?do=findComment&comment=175424)
-- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=175423)
-- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=175422)
-- [Vpilot model matching issue](https://forums.vatsim.net/topic/30689-vpilot-model-matching-issue/?do=findComment&comment=175421)
-- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175420)
-- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175419)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
