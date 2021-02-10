@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CID/Password Error, no P0 Exam Assigned](https://forums.vatsim.net/topic/30702-cidpassword-error-no-p0-exam-assigned/?do=findComment&comment=175429)
+- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=175428)
+- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175427)
+- [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175426)
 - [vPilot audio stuttering](https://forums.vatsim.net/topic/30705-vpilot-audio-stuttering/?do=findComment&comment=175424)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=175423)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=175422)
 - [Vpilot model matching issue](https://forums.vatsim.net/topic/30689-vpilot-model-matching-issue/?do=findComment&comment=175421)
 - [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175420)
 - [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175419)
-- [New member course and exam](https://forums.vatsim.net/topic/30703-new-member-course-and-exam/?do=findComment&comment=175418)
-- [New member course and exam](https://forums.vatsim.net/topic/30703-new-member-course-and-exam/?do=findComment&comment=175417)
-- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=175416)
-- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175415)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
