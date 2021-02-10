@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175369)
+- [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175368)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175367)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175365)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175364)
 - [vPilot audio stuttering](https://forums.vatsim.net/topic/30696-vpilot-audio-stuttering/?do=findComment&comment=175363)
@@ -60,9 +63,6 @@
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175361)
 - [(Another) Model Matching issue.](https://forums.vatsim.net/topic/30500-another-model-matching-issue/?do=findComment&comment=175360)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175359)
-- [Supervisors no longer respond?](https://forums.vatsim.net/topic/30693-supervisors-no-longer-respond/?do=findComment&comment=175358)
-- [vpilot doesn't see the frequency](https://forums.vatsim.net/topic/30694-vpilot-doesnt-see-the-frequency/?do=findComment&comment=175357)
-- [Supervisors no longer respond?](https://forums.vatsim.net/topic/30693-supervisors-no-longer-respond/?do=findComment&comment=175356)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
