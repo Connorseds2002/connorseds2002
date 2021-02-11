@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175498)
+- [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175497)
+- [Vpilot models identified but only white a321 visible](https://forums.vatsim.net/topic/30710-vpilot-models-identified-but-only-white-a321-visible/?do=findComment&comment=175496)
 - [Vpilot models identified but only white a321 visible](https://forums.vatsim.net/topic/30710-vpilot-models-identified-but-only-white-a321-visible/?do=findComment&comment=175495)
 - [vPilot not connected to network](https://forums.vatsim.net/topic/30707-vpilot-not-connected-to-network/?do=findComment&comment=175494)
 - [Vpilot models identified but only white a321 visible](https://forums.vatsim.net/topic/30710-vpilot-models-identified-but-only-white-a321-visible/?do=findComment&comment=175493)
@@ -60,9 +63,6 @@
 - [vPilot not connected to network](https://forums.vatsim.net/topic/30707-vpilot-not-connected-to-network/?do=findComment&comment=175491)
 - [Svalbard AWG7703](https://forums.vatsim.net/topic/30709-svalbard-awg7703/?do=findComment&comment=175490)
 - [Controlling voice audio level](https://forums.vatsim.net/topic/30708-controlling-voice-audio-level/?do=findComment&comment=175489)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175488)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175487)
-- [vPilot not connected to network](https://forums.vatsim.net/topic/30707-vpilot-not-connected-to-network/?do=findComment&comment=175486)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
