@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175510)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175509)
+- [Can't Install update](https://forums.vatsim.net/topic/30697-cant-install-update/?do=findComment&comment=175508)
+- [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175507)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175506)
 - [Not working/I have a screenshot](https://forums.vatsim.net/topic/30712-not-workingi-have-a-screenshot/?do=findComment&comment=175505)
 - [Can't Install update](https://forums.vatsim.net/topic/30697-cant-install-update/?do=findComment&comment=175504)
 - [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175503)
 - [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175502)
 - [Can't Install update](https://forums.vatsim.net/topic/30697-cant-install-update/?do=findComment&comment=175501)
-- [Vpilot models identified but only white a321 visible](https://forums.vatsim.net/topic/30710-vpilot-models-identified-but-only-white-a321-visible/?do=findComment&comment=175499)
-- [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175498)
-- [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175497)
-- [Vpilot models identified but only white a321 visible](https://forums.vatsim.net/topic/30710-vpilot-models-identified-but-only-white-a321-visible/?do=findComment&comment=175496)
-- [Vpilot models identified but only white a321 visible](https://forums.vatsim.net/topic/30710-vpilot-models-identified-but-only-white-a321-visible/?do=findComment&comment=175495)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
