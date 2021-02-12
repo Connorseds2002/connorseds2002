@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175537)
 - [Sound problems](https://forums.vatsim.net/topic/30714-sound-problems/?do=findComment&comment=175536)
 - [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175535)
 - [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175534)
@@ -62,7 +63,6 @@
 - [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=175530)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175526)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175525)
-- [Can't Install update](https://forums.vatsim.net/topic/30697-cant-install-update/?do=findComment&comment=175524)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
