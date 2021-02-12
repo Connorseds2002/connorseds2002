@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175544)
+- [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175543)
+- [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175542)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175541)
+- [Error Msg in FSX on Startup](https://forums.vatsim.net/topic/30715-error-msg-in-fsx-on-startup/?do=findComment&comment=175540)
+- [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175539)
+- [Sound problems](https://forums.vatsim.net/topic/30714-sound-problems/?do=findComment&comment=175538)
 - [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175537)
 - [Sound problems](https://forums.vatsim.net/topic/30714-sound-problems/?do=findComment&comment=175536)
 - [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175535)
-- [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175534)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175533)
-- [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175532)
-- [Scope scrolls sideways when zooming](https://forums.vatsim.net/topic/24348-scope-scrolls-sideways-when-zooming/?do=findComment&comment=175531)
-- [Feature request: mute AfV](https://forums.vatsim.net/topic/30275-feature-request-mute-afv/?do=findComment&comment=175530)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175526)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175525)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
