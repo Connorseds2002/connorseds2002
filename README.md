@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Enroute ATC for Cross the Land!](https://forums.vatsim.net/topic/30678-enroute-atc-for-cross-the-land/?do=findComment&comment=175547)
+- [Rest in Peace - Richard "RG" Green](https://forums.vatsim.net/topic/30717-rest-in-peace-richard-rg-green/?do=findComment&comment=175546)
+- [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175545)
 - [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175544)
 - [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175543)
 - [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175542)
@@ -60,9 +63,6 @@
 - [Error Msg in FSX on Startup](https://forums.vatsim.net/topic/30715-error-msg-in-fsx-on-startup/?do=findComment&comment=175540)
 - [FSDT FSinn and FSCopilot not Totally Uninstalled](https://forums.vatsim.net/topic/30711-fsdt-fsinn-and-fscopilot-not-totally-uninstalled/?do=findComment&comment=175539)
 - [Sound problems](https://forums.vatsim.net/topic/30714-sound-problems/?do=findComment&comment=175538)
-- [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175537)
-- [Sound problems](https://forums.vatsim.net/topic/30714-sound-problems/?do=findComment&comment=175536)
-- [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175535)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
