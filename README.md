@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Altitude Accuracy](https://forums.vatsim.net/topic/30724-altitude-accuracy/?do=findComment&comment=175602)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175601)
+- [Error when launching vatsys](https://forums.vatsim.net/topic/30727-error-when-launching-vatsys/?do=findComment&comment=175600)
+- [Altitude Accuracy](https://forums.vatsim.net/topic/30724-altitude-accuracy/?do=findComment&comment=175599)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175598)
 - [Updated Country Prefixes for tail numbers](https://forums.vatsim.net/topic/30726-updated-country-prefixes-for-tail-numbers/?do=findComment&comment=175597)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175596)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175595)
 - [Panama Hub Hours](https://forums.vatsim.net/topic/30725-panama-hub-hours/?do=findComment&comment=175594)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175593)
-- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=175592)
-- [Altitude Accuracy](https://forums.vatsim.net/topic/30724-altitude-accuracy/?do=findComment&comment=175591)
-- [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175590)
-- [Altitude Accuracy](https://forums.vatsim.net/topic/30724-altitude-accuracy/?do=findComment&comment=175589)
-- [Altitude Accuracy](https://forums.vatsim.net/topic/30724-altitude-accuracy/?do=findComment&comment=175588)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
