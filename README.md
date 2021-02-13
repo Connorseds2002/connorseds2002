@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175608)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175607)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175606)
 - [[Feb 27] Canadian Xpress February Fly-In - Ski Vacation](https://forums.vatsim.net/topic/30728-feb-27-canadian-xpress-february-fly-in-ski-vacation/?do=findComment&comment=175605)
@@ -62,7 +63,6 @@
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175601)
 - [Error when launching vatsys](https://forums.vatsim.net/topic/30727-error-when-launching-vatsys/?do=findComment&comment=175600)
 - [Altitude, weather generator vs SimAware](https://forums.vatsim.net/topic/30724-altitude-weather-generator-vs-simaware/?do=findComment&comment=175599)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175598)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
