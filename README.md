@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Altitude Accuracy](https://forums.vatsim.net/topic/30724-altitude-accuracy/?do=findComment&comment=175587)
+- [Gate Numbers](https://forums.vatsim.net/topic/30602-gate-numbers/?do=findComment&comment=175586)
 - [C1 CPT | 19th FEB 2021, 13:30z-15:30z](https://forums.vatsim.net/topic/30723-c1-cpt-19th-feb-2021-1330z-1530z/?do=findComment&comment=175585)
 - [Flying from airport used in an event?](https://forums.vatsim.net/topic/30722-flying-from-airport-used-in-an-event/?do=findComment&comment=175584)
 - [Flying from airport used in an event?](https://forums.vatsim.net/topic/30722-flying-from-airport-used-in-an-event/?do=findComment&comment=175583)
@@ -61,8 +63,6 @@
 - [Flying from airport used in an event?](https://forums.vatsim.net/topic/30722-flying-from-airport-used-in-an-event/?do=findComment&comment=175580)
 - [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175579)
 - [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175578)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175577)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175576)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
