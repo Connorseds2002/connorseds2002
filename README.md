@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175577)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175576)
 - [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175575)
 - [Friday Night Live: 19-02-2021: Fly IN/OUT of Mumbai (VABB)](https://forums.vatsim.net/topic/30721-friday-night-live-19-02-2021-fly-inout-of-mumbai-vabb/?do=findComment&comment=175574)
@@ -62,7 +63,6 @@
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175570)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175569)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175568)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175567)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
