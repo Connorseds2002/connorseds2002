@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thank you from the Cross the Land Planning Team!](https://forums.vatsim.net/topic/30730-thank-you-from-the-cross-the-land-planning-team/?do=findComment&comment=175618)
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175617)
 - [Error when launching vatsys](https://forums.vatsim.net/topic/30727-error-when-launching-vatsys/?do=findComment&comment=175616)
 - [Answered: Altitude, weather generator vs SimAware](https://forums.vatsim.net/topic/30724-answered-altitude-weather-generator-vs-simaware/?do=findComment&comment=175615)
 - [It's blue](https://forums.vatsim.net/topic/30729-its-blue/?do=findComment&comment=175614)
@@ -61,8 +63,6 @@
 - [It's blue](https://forums.vatsim.net/topic/30729-its-blue/?do=findComment&comment=175611)
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175610)
 - [Answered: Altitude, weather generator vs SimAware](https://forums.vatsim.net/topic/30724-answered-altitude-weather-generator-vs-simaware/?do=findComment&comment=175609)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175608)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175607)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
