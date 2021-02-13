@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175557)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175556)
+- [ATIS Editor not parsing METAR cloud strings correctly](https://forums.vatsim.net/topic/30662-atis-editor-not-parsing-metar-cloud-strings-correctly/?do=findComment&comment=175555)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175554)
+- [How to Run a (TX/RX) Master VatSim Client with (RX Only) Slave Client?](https://forums.vatsim.net/topic/30719-how-to-run-a-txrx-master-vatsim-client-with-rx-only-slave-client/?do=findComment&comment=175553)
+- [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175552)
 - [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175551)
 - [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175550)
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175549)
 - [Rest in Peace - Richard "RG" Green](https://forums.vatsim.net/topic/30717-rest-in-peace-richard-rg-green/?do=findComment&comment=175548)
-- [Enroute ATC for Cross the Land!](https://forums.vatsim.net/topic/30678-enroute-atc-for-cross-the-land/?do=findComment&comment=175547)
-- [Rest in Peace - Richard "RG" Green](https://forums.vatsim.net/topic/30717-rest-in-peace-richard-rg-green/?do=findComment&comment=175546)
-- [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175545)
-- [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175544)
-- [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175543)
-- [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175542)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
