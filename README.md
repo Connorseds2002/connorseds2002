@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [C1 CPT | 19th FEB 2021, 13:30z-15:30z](https://forums.vatsim.net/topic/30723-c1-cpt-19th-feb-2021-1330z-1530z/?do=findComment&comment=175585)
+- [Flying from airport used in an event?](https://forums.vatsim.net/topic/30722-flying-from-airport-used-in-an-event/?do=findComment&comment=175584)
 - [Flying from airport used in an event?](https://forums.vatsim.net/topic/30722-flying-from-airport-used-in-an-event/?do=findComment&comment=175583)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175582)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175581)
@@ -61,8 +63,6 @@
 - [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175578)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175577)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175576)
-- [CLR flag symbol missing.](https://forums.vatsim.net/topic/30716-clr-flag-symbol-missing/?do=findComment&comment=175575)
-- [Friday Night Live: 19-02-2021: Fly IN/OUT of Mumbai (VABB)](https://forums.vatsim.net/topic/30721-friday-night-live-19-02-2021-fly-inout-of-mumbai-vabb/?do=findComment&comment=175574)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
