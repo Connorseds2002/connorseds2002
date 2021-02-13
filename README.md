@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thank you from the Cross the Land Planning Team!](https://forums.vatsim.net/topic/30730-thank-you-from-the-cross-the-land-planning-team/?do=findComment&comment=175622)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175621)
+- [New Pilot (EGGK-EGPH)](https://forums.vatsim.net/topic/30732-new-pilot-eggk-egph/?do=findComment&comment=175620)
+- [Dev: OpenPopupList strange behaviour](https://forums.vatsim.net/topic/30731-dev-openpopuplist-strange-behaviour/?do=findComment&comment=175619)
 - [Thank you from the Cross the Land Planning Team!](https://forums.vatsim.net/topic/30730-thank-you-from-the-cross-the-land-planning-team/?do=findComment&comment=175618)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175617)
 - [Error when launching vatsys](https://forums.vatsim.net/topic/30727-error-when-launching-vatsys/?do=findComment&comment=175616)
 - [Answered: Altitude, weather generator vs SimAware](https://forums.vatsim.net/topic/30724-answered-altitude-weather-generator-vs-simaware/?do=findComment&comment=175615)
 - [It's blue](https://forums.vatsim.net/topic/30729-its-blue/?do=findComment&comment=175614)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175613)
-- [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175612)
-- [It's blue](https://forums.vatsim.net/topic/30729-its-blue/?do=findComment&comment=175611)
-- [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175610)
-- [Answered: Altitude, weather generator vs SimAware](https://forums.vatsim.net/topic/30724-answered-altitude-weather-generator-vs-simaware/?do=findComment&comment=175609)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
