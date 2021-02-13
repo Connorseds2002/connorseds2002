@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175562)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175561)
+- [Terminals](https://forums.vatsim.net/topic/30720-terminals/?do=findComment&comment=175560)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175559)
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175558)
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175557)
@@ -60,9 +63,6 @@
 - [ATIS Editor not parsing METAR cloud strings correctly](https://forums.vatsim.net/topic/30662-atis-editor-not-parsing-metar-cloud-strings-correctly/?do=findComment&comment=175555)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175554)
 - [How to Run a (TX/RX) Master VatSim Client with (RX Only) Slave Client?](https://forums.vatsim.net/topic/30719-how-to-run-a-txrx-master-vatsim-client-with-rx-only-slave-client/?do=findComment&comment=175553)
-- [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175552)
-- [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175551)
-- [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175550)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
