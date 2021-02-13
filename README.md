@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175559)
+- [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175558)
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175557)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175556)
 - [ATIS Editor not parsing METAR cloud strings correctly](https://forums.vatsim.net/topic/30662-atis-editor-not-parsing-metar-cloud-strings-correctly/?do=findComment&comment=175555)
@@ -61,8 +63,6 @@
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175552)
 - [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175551)
 - [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175550)
-- [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175549)
-- [Rest in Peace - Richard "RG" Green](https://forums.vatsim.net/topic/30717-rest-in-peace-richard-rg-green/?do=findComment&comment=175548)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
