@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=175653)
+- [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=175652)
 - [vPilot v 2.8.1 error](https://forums.vatsim.net/topic/30735-vpilot-v-281-error/?do=findComment&comment=175651)
 - [vPilot v 2.8.1 error](https://forums.vatsim.net/topic/30735-vpilot-v-281-error/?do=findComment&comment=175650)
 - [vPilot v 2.8.1 error](https://forums.vatsim.net/topic/30735-vpilot-v-281-error/?do=findComment&comment=175649)
@@ -61,8 +63,6 @@
 - [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=175646)
 - [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175645)
 - [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=175644)
-- [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175643)
-- [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175642)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
