@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Panama Hub Hours](https://forums.vatsim.net/topic/30733-panama-hub-hours/?do=findComment&comment=175631)
+- [New Pilot (EGGK-EGPH)](https://forums.vatsim.net/topic/30732-new-pilot-eggk-egph/?do=findComment&comment=175630)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175629)
 - [New Pilot (EGGK-EGPH)](https://forums.vatsim.net/topic/30732-new-pilot-eggk-egph/?do=findComment&comment=175628)
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175627)
@@ -61,8 +63,6 @@
 - [New Pilot (EGGK-EGPH)](https://forums.vatsim.net/topic/30732-new-pilot-eggk-egph/?do=findComment&comment=175624)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175623)
 - [Thank you from the Cross the Land Planning Team!](https://forums.vatsim.net/topic/30730-thank-you-from-the-cross-the-land-planning-team/?do=findComment&comment=175622)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175621)
-- [New Pilot (EGGK-EGPH)](https://forums.vatsim.net/topic/30732-new-pilot-eggk-egph/?do=findComment&comment=175620)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
