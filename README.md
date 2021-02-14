@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Connect - list of recently used callsings is missing](https://forums.vatsim.net/topic/30676-connect-list-of-recently-used-callsings-is-missing/?do=findComment&comment=175645)
+- [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=175644)
+- [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175643)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175642)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175641)
 - [Altimeter Setting - standard unit?](https://forums.vatsim.net/topic/30734-altimeter-setting-standard-unit/?do=findComment&comment=175640)
@@ -60,9 +63,6 @@
 - [Altimeter Setting - standard unit?](https://forums.vatsim.net/topic/30734-altimeter-setting-standard-unit/?do=findComment&comment=175638)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175637)
 - [Altimeter Setting - standard unit?](https://forums.vatsim.net/topic/30734-altimeter-setting-standard-unit/?do=findComment&comment=175636)
-- [Altimeter Setting - standard unit?](https://forums.vatsim.net/topic/30734-altimeter-setting-standard-unit/?do=findComment&comment=175635)
-- [New Pilot (EGGK-EGPH)](https://forums.vatsim.net/topic/30732-new-pilot-eggk-egph/?do=findComment&comment=175634)
-- [Thank you from the Cross the Land Planning Team!](https://forums.vatsim.net/topic/30730-thank-you-from-the-cross-the-land-planning-team/?do=findComment&comment=175633)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
