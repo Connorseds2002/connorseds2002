@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=175632)
 - [Panama Hub Hours](https://forums.vatsim.net/topic/30733-panama-hub-hours/?do=findComment&comment=175631)
 - [New Pilot (EGGK-EGPH)](https://forums.vatsim.net/topic/30732-new-pilot-eggk-egph/?do=findComment&comment=175630)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175629)
@@ -62,7 +63,6 @@
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175625)
 - [New Pilot (EGGK-EGPH)](https://forums.vatsim.net/topic/30732-new-pilot-eggk-egph/?do=findComment&comment=175624)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175623)
-- [Thank you from the Cross the Land Planning Team!](https://forums.vatsim.net/topic/30730-thank-you-from-the-cross-the-land-planning-team/?do=findComment&comment=175622)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
