@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot v 2.8.1 error](https://forums.vatsim.net/topic/30735-vpilot-v-281-error/?do=findComment&comment=175651)
+- [vPilot v 2.8.1 error](https://forums.vatsim.net/topic/30735-vpilot-v-281-error/?do=findComment&comment=175650)
+- [vPilot v 2.8.1 error](https://forums.vatsim.net/topic/30735-vpilot-v-281-error/?do=findComment&comment=175649)
 - [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=175648)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175647)
 - [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=175646)
@@ -60,9 +63,6 @@
 - [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=175644)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175643)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175642)
-- [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175641)
-- [Altimeter Setting - standard unit?](https://forums.vatsim.net/topic/30734-altimeter-setting-standard-unit/?do=findComment&comment=175640)
-- [Updated Country Prefixes for tail numbers](https://forums.vatsim.net/topic/30726-updated-country-prefixes-for-tail-numbers/?do=findComment&comment=175639)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
