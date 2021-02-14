@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Pilot (EGGK-EGPH)](https://forums.vatsim.net/topic/30732-new-pilot-eggk-egph/?do=findComment&comment=175628)
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175627)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175626)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175625)
@@ -62,7 +63,6 @@
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=175621)
 - [New Pilot (EGGK-EGPH)](https://forums.vatsim.net/topic/30732-new-pilot-eggk-egph/?do=findComment&comment=175620)
 - [Dev: OpenPopupList strange behaviour](https://forums.vatsim.net/topic/30731-dev-openpopuplist-strange-behaviour/?do=findComment&comment=175619)
-- [Thank you from the Cross the Land Planning Team!](https://forums.vatsim.net/topic/30730-thank-you-from-the-cross-the-land-planning-team/?do=findComment&comment=175618)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
