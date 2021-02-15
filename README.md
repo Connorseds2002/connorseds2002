@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pilot Rating Transfer](https://forums.vatsim.net/topic/30737-pilot-rating-transfer/?do=findComment&comment=175668)
 - [Pilot Rating Transfer](https://forums.vatsim.net/topic/30737-pilot-rating-transfer/?do=findComment&comment=175659)
 - [Rest In Peace Richard Green (810012)](https://forums.vatsim.net/topic/30736-rest-in-peace-richard-green-810012/?do=findComment&comment=175658)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=175657)
@@ -62,7 +63,6 @@
 - [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=175653)
 - [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=175652)
 - [vPilot v 2.8.1 error](https://forums.vatsim.net/topic/30735-vpilot-v-281-error/?do=findComment&comment=175651)
-- [vPilot v 2.8.1 error](https://forums.vatsim.net/topic/30735-vpilot-v-281-error/?do=findComment&comment=175650)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
