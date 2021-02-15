@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175673)
 - [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=175671)
 - [Pilot Rating Transfer](https://forums.vatsim.net/topic/30737-pilot-rating-transfer/?do=findComment&comment=175668)
 - [Pilot Rating Transfer](https://forums.vatsim.net/topic/30737-pilot-rating-transfer/?do=findComment&comment=175659)
@@ -62,7 +63,6 @@
 - [Deixe a sua print de Controle na rede!](https://forums.vatsim.net/topic/30085-deixe-a-sua-print-de-controle-na-rede/?do=findComment&comment=175655)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175654)
 - [MSFS 2020 Radio Issue](https://forums.vatsim.net/topic/28825-msfs-2020-radio-issue/?do=findComment&comment=175653)
-- [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=175652)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
