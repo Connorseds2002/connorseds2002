@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Audio Quality Reduced in my PC](https://forums.vatsim.net/topic/30743-audio-quality-reduced-in-my-pc/?do=findComment&comment=175693)
+- [VFR Circuits](https://forums.vatsim.net/topic/30742-vfr-circuits/?do=findComment&comment=175692)
 - [It's blue](https://forums.vatsim.net/topic/30729-its-blue/?do=findComment&comment=175690)
 - [Volotea Virtual Airlines welcomes you !](https://forums.vatsim.net/topic/30741-volotea-virtual-airlines-welcomes-you/?do=findComment&comment=175687)
 - [Route draw/visualization](https://forums.vatsim.net/topic/30740-route-drawvisualization/?do=findComment&comment=175684)
@@ -61,8 +63,6 @@
 - [VPilot Model Matching (Using ES Proxy for Tower View](https://forums.vatsim.net/topic/22317-vpilot-model-matching-using-es-proxy-for-tower-view/?do=findComment&comment=175681)
 - [VPilot Model Matching (Using ES Proxy for Tower View](https://forums.vatsim.net/topic/22317-vpilot-model-matching-using-es-proxy-for-tower-view/?do=findComment&comment=175680)
 - ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175679)
-- ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175677)
-- ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175676)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
