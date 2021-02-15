@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPilot Model Matching (Using ES Proxy for Tower View](https://forums.vatsim.net/topic/22317-vpilot-model-matching-using-es-proxy-for-tower-view/?do=findComment&comment=175680)
 - ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175679)
 - ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175677)
 - ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175676)
@@ -62,7 +63,6 @@
 - [Pilot Rating Transfer](https://forums.vatsim.net/topic/30737-pilot-rating-transfer/?do=findComment&comment=175668)
 - [Pilot Rating Transfer](https://forums.vatsim.net/topic/30737-pilot-rating-transfer/?do=findComment&comment=175659)
 - [Rest In Peace Richard Green (810012)](https://forums.vatsim.net/topic/30736-rest-in-peace-richard-green-810012/?do=findComment&comment=175658)
-- [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=175657)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
