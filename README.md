@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [It's blue](https://forums.vatsim.net/topic/30729-its-blue/?do=findComment&comment=175690)
+- [Volotea Virtual Airlines welcomes you !](https://forums.vatsim.net/topic/30741-volotea-virtual-airlines-welcomes-you/?do=findComment&comment=175687)
 - [Route draw/visualization](https://forums.vatsim.net/topic/30740-route-drawvisualization/?do=findComment&comment=175684)
 - [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175683)
 - [Route draw/visualization](https://forums.vatsim.net/topic/30740-route-drawvisualization/?do=findComment&comment=175682)
@@ -61,8 +63,6 @@
 - ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175679)
 - ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175677)
 - ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175676)
-- [MSFS2020 - Cannot see VATSIM airplanes when connected through Vpilot](https://forums.vatsim.net/topic/30739-msfs2020-cannot-see-vatsim-airplanes-when-connected-through-vpilot/?do=findComment&comment=175674)
-- ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175673)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
