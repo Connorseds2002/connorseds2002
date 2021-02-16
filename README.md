@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=175715)
+- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175714)
+- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175713)
+- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175712)
+- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175711)
 - [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=175710)
 - [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175709)
 - [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175708)
 - [Unsure of some procedures](https://forums.vatsim.net/topic/30744-unsure-of-some-procedures/?do=findComment&comment=175707)
 - [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175706)
-- [Unsure of some procedures](https://forums.vatsim.net/topic/30744-unsure-of-some-procedures/?do=findComment&comment=175705)
-- [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=175704)
-- [Get controller location](https://forums.vatsim.net/topic/30560-get-controller-location/?do=findComment&comment=175703)
-- [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=175702)
-- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175701)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
