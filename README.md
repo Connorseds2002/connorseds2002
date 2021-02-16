@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR Circuits](https://forums.vatsim.net/topic/30742-vfr-circuits/?do=findComment&comment=175695)
+- [Do I need to contact ATC](https://forums.vatsim.net/topic/30310-do-i-need-to-contact-atc/?do=findComment&comment=175694)
 - [Audio Quality Reduced in my PC](https://forums.vatsim.net/topic/30743-audio-quality-reduced-in-my-pc/?do=findComment&comment=175693)
 - [VFR Circuits](https://forums.vatsim.net/topic/30742-vfr-circuits/?do=findComment&comment=175692)
 - [It's blue](https://forums.vatsim.net/topic/30729-its-blue/?do=findComment&comment=175690)
@@ -61,8 +63,6 @@
 - [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175683)
 - [Route draw/visualization](https://forums.vatsim.net/topic/30740-route-drawvisualization/?do=findComment&comment=175682)
 - [VPilot Model Matching (Using ES Proxy for Tower View](https://forums.vatsim.net/topic/22317-vpilot-model-matching-using-es-proxy-for-tower-view/?do=findComment&comment=175681)
-- [VPilot Model Matching (Using ES Proxy for Tower View](https://forums.vatsim.net/topic/22317-vpilot-model-matching-using-es-proxy-for-tower-view/?do=findComment&comment=175680)
-- ["vPilot Notifications" by Gerard Beekmans no longer working since updating to 2.8.1?](https://forums.vatsim.net/topic/30738-vpilot-notifications-by-gerard-beekmans-no-longer-working-since-updating-to-281/?do=findComment&comment=175679)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
