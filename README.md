@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=175710)
+- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175709)
+- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175708)
+- [Unsure of some procedures](https://forums.vatsim.net/topic/30744-unsure-of-some-procedures/?do=findComment&comment=175707)
+- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175706)
 - [Unsure of some procedures](https://forums.vatsim.net/topic/30744-unsure-of-some-procedures/?do=findComment&comment=175705)
 - [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=175704)
 - [Get controller location](https://forums.vatsim.net/topic/30560-get-controller-location/?do=findComment&comment=175703)
 - [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=175702)
 - [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175701)
-- [Sun Country Virtual Airlines (SCX Virtual)](https://forums.vatsim.net/topic/30745-sun-country-virtual-airlines-scx-virtual/?do=findComment&comment=175700)
-- [vSTARS vATIS Track](https://forums.vatsim.net/topic/30581-vstars-vatis-track/?do=findComment&comment=175699)
-- [All other sounds become very quiet](https://forums.vatsim.net/topic/29994-all-other-sounds-become-very-quiet/?do=findComment&comment=175698)
-- [Unsure of some procedures](https://forums.vatsim.net/topic/30744-unsure-of-some-procedures/?do=findComment&comment=175697)
-- [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175696)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
