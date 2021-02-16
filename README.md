@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175744)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175743)
 - [How VATSIM Controllers Should ACTUALLY Handle New Pilots](https://forums.vatsim.net/topic/30687-how-vatsim-controllers-should-actually-handle-new-pilots/?do=findComment&comment=175742)
 - [A320NX changes automatically the Nav's Frencuencies](https://forums.vatsim.net/topic/30750-a320nx-changes-automatically-the-navs-frencuencies/?do=findComment&comment=175741)
@@ -62,7 +63,6 @@
 - [SECTORFILE](https://forums.vatsim.net/topic/30751-sectorfile/?do=findComment&comment=175736)
 - [A320NX changes automatically the Nav's Frencuencies](https://forums.vatsim.net/topic/30750-a320nx-changes-automatically-the-navs-frencuencies/?do=findComment&comment=175735)
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175733)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175729)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
