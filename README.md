@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [A320NX changes automatically the Nav's Frencuencies](https://forums.vatsim.net/topic/30750-a320nx-changes-automatically-the-navs-frencuencies/?do=findComment&comment=175740)
+- [A320NX changes automatically the Nav's Frencuencies](https://forums.vatsim.net/topic/30750-a320nx-changes-automatically-the-navs-frencuencies/?do=findComment&comment=175739)
+- [SECTORFILE](https://forums.vatsim.net/topic/30751-sectorfile/?do=findComment&comment=175737)
+- [SECTORFILE](https://forums.vatsim.net/topic/30751-sectorfile/?do=findComment&comment=175736)
+- [A320NX changes automatically the Nav's Frencuencies](https://forums.vatsim.net/topic/30750-a320nx-changes-automatically-the-navs-frencuencies/?do=findComment&comment=175735)
 - [MSFS 2020 Real World Weather Options](https://forums.vatsim.net/topic/30718-msfs-2020-real-world-weather-options/?do=findComment&comment=175733)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175729)
 - [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175728)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175727)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175726)
-- [How VATSIM Controllers Should ACTUALLY Handle New Pilots](https://forums.vatsim.net/topic/30687-how-vatsim-controllers-should-actually-handle-new-pilots/?do=findComment&comment=175725)
-- [[EVENT] Hrudayada Badita Bengaluru: My Heart is Beating For You Bengaluru](https://forums.vatsim.net/topic/30749-event-hrudayada-badita-bengaluru-my-heart-is-beating-for-you-bengaluru/?do=findComment&comment=175721)
-- [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=175720)
-- [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=175719)
-- [Turkish vACC - TRvACC Seeking Events and PR Director](https://forums.vatsim.net/topic/30748-turkish-vacc-trvacc-seeking-events-and-pr-director/?do=findComment&comment=175718)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
