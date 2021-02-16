@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175728)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175727)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175726)
 - [How VATSIM Controllers Should ACTUALLY Handle New Pilots](https://forums.vatsim.net/topic/30687-how-vatsim-controllers-should-actually-handle-new-pilots/?do=findComment&comment=175725)
@@ -62,7 +63,6 @@
 - [Turkish vACC - TRvACC Seeking Events and PR Director](https://forums.vatsim.net/topic/30748-turkish-vacc-trvacc-seeking-events-and-pr-director/?do=findComment&comment=175718)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175717)
 - [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175716)
-- [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=175715)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
