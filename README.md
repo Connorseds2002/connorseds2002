@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[EVENT] Hrudayada Badita Bengaluru: My Heart is Beating For You Bengaluru](https://forums.vatsim.net/topic/30749-event-hrudayada-badita-bengaluru-my-heart-is-beating-for-you-bengaluru/?do=findComment&comment=175721)
+- [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=175720)
+- [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=175719)
 - [Turkish vACC - TRvACC Seeking Events and PR Director](https://forums.vatsim.net/topic/30748-turkish-vacc-trvacc-seeking-events-and-pr-director/?do=findComment&comment=175718)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175717)
 - [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175716)
@@ -60,9 +63,6 @@
 - [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175714)
 - [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175713)
 - [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175712)
-- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175711)
-- [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=175710)
-- [Vatsim Exam](https://forums.vatsim.net/topic/30746-vatsim-exam/?do=findComment&comment=175709)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
