@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [All other sounds become very quiet](https://forums.vatsim.net/topic/29994-all-other-sounds-become-very-quiet/?do=findComment&comment=175698)
 - [Unsure of some procedures](https://forums.vatsim.net/topic/30744-unsure-of-some-procedures/?do=findComment&comment=175697)
 - [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175696)
 - [VFR Circuits](https://forums.vatsim.net/topic/30742-vfr-circuits/?do=findComment&comment=175695)
@@ -62,7 +63,6 @@
 - [It's blue](https://forums.vatsim.net/topic/30729-its-blue/?do=findComment&comment=175690)
 - [Volotea Virtual Airlines welcomes you !](https://forums.vatsim.net/topic/30741-volotea-virtual-airlines-welcomes-you/?do=findComment&comment=175687)
 - [Route draw/visualization](https://forums.vatsim.net/topic/30740-route-drawvisualization/?do=findComment&comment=175684)
-- [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175683)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
