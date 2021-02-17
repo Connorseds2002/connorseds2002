@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cross The Pond - HELP WANTED](https://forums.vatsim.net/topic/30579-cross-the-pond-help-wanted/?do=findComment&comment=175755)
 - [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=175754)
 - [Nametags/Nameplates/Labels Vote to Fix for MSFS with V-Pilot](https://forums.vatsim.net/topic/30754-nametagsnameplateslabels-vote-to-fix-for-msfs-with-v-pilot/?do=findComment&comment=175753)
 - [xPilot should override &quot;Contact ATC&quot; command in X-Plane](https://forums.vatsim.net/topic/26090-xpilot-should-override-quotcontact-atcquot-command-in-x-plane/?do=findComment&comment=175752)
@@ -62,7 +63,6 @@
 - [Resize "ATC Details" window?](https://forums.vatsim.net/topic/30752-resize-atc-details-window/?do=findComment&comment=175746)
 - [How VATSIM Controllers Should ACTUALLY Handle New Pilots](https://forums.vatsim.net/topic/30687-how-vatsim-controllers-should-actually-handle-new-pilots/?do=findComment&comment=175745)
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175744)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175743)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
