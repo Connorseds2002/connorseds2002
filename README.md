@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Nametags/Nameplates/Labels Vote to Fix for MSFS with V-Pilot](https://forums.vatsim.net/topic/30754-nametagsnameplateslabels-vote-to-fix-for-msfs-with-v-pilot/?do=findComment&comment=175753)
 - [xPilot should override &quot;Contact ATC&quot; command in X-Plane](https://forums.vatsim.net/topic/26090-xpilot-should-override-quotcontact-atcquot-command-in-x-plane/?do=findComment&comment=175752)
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175751)
 - [Happy to announce vspirit](https://forums.vatsim.net/topic/30753-happy-to-announce-vspirit/?do=findComment&comment=175750)
@@ -62,7 +63,6 @@
 - [Thank you Mark](https://forums.vatsim.net/topic/30682-thank-you-mark/?do=findComment&comment=175744)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175743)
 - [How VATSIM Controllers Should ACTUALLY Handle New Pilots](https://forums.vatsim.net/topic/30687-how-vatsim-controllers-should-actually-handle-new-pilots/?do=findComment&comment=175742)
-- [A320NX changes automatically the Nav's Frencuencies](https://forums.vatsim.net/topic/30750-a320nx-changes-automatically-the-navs-frencuencies/?do=findComment&comment=175741)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
