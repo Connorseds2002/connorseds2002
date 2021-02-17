@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Happy to announce vspirit](https://forums.vatsim.net/topic/30753-happy-to-announce-vspirit/?do=findComment&comment=175750)
 - [VATPRC (People's Republic of China Division](https://forums.vatsim.net/topic/11225-vatprc-peoples-republic-of-china-division/?do=findComment&comment=175749)
 - [VATPRC (People's Republic of China Division](https://forums.vatsim.net/topic/11225-vatprc-peoples-republic-of-china-division/?do=findComment&comment=175748)
 - [Activesky Unable To Download VATSIM metars](https://forums.vatsim.net/topic/28610-activesky-unable-to-download-vatsim-metars/?do=findComment&comment=175747)
@@ -62,7 +63,6 @@
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=175743)
 - [How VATSIM Controllers Should ACTUALLY Handle New Pilots](https://forums.vatsim.net/topic/30687-how-vatsim-controllers-should-actually-handle-new-pilots/?do=findComment&comment=175742)
 - [A320NX changes automatically the Nav's Frencuencies](https://forums.vatsim.net/topic/30750-a320nx-changes-automatically-the-navs-frencuencies/?do=findComment&comment=175741)
-- [A320NX changes automatically the Nav's Frencuencies](https://forums.vatsim.net/topic/30750-a320nx-changes-automatically-the-navs-frencuencies/?do=findComment&comment=175740)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
