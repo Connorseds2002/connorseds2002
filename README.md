@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P3D essentials](https://forums.vatsim.net/topic/30764-p3d-essentials/?do=findComment&comment=175790)
+- [11.51 Vulkan & Xpilot 1.3.38 - No TCAS-Objects](https://forums.vatsim.net/topic/30765-1151-vulkan-xpilot-1338-no-tcas-objects/?do=findComment&comment=175789)
 - [P3D essentials](https://forums.vatsim.net/topic/30764-p3d-essentials/?do=findComment&comment=175788)
 - [MSFS2020 - Cannot see VATSIM airplanes when connected through Vpilot](https://forums.vatsim.net/topic/29937-msfs2020-cannot-see-vatsim-airplanes-when-connected-through-vpilot/?do=findComment&comment=175787)
 - [Bug reporting topic: Invisible planes in MSFS](https://forums.vatsim.net/topic/29439-bug-reporting-topic-invisible-planes-in-msfs/?do=findComment&comment=175786)
@@ -61,8 +63,6 @@
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175783)
 - [Resignation of the Lebanese vACC Membership Director](https://forums.vatsim.net/topic/30762-resignation-of-the-lebanese-vacc-membership-director/?do=findComment&comment=175782)
 - [VATSIM medium term roadmap](https://forums.vatsim.net/topic/30698-vatsim-medium-term-roadmap/?do=findComment&comment=175780)
-- [VATSIM medium term roadmap](https://forums.vatsim.net/topic/30698-vatsim-medium-term-roadmap/?do=findComment&comment=175779)
-- [Appointment of Bahrain vACC Director](https://forums.vatsim.net/topic/30761-appointment-of-bahrain-vacc-director/?do=findComment&comment=175778)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
