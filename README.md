@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175774)
+- [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175773)
 - [First impressions and controller thanks](https://forums.vatsim.net/topic/30756-first-impressions-and-controller-thanks/?do=findComment&comment=175772)
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175771)
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175770)
@@ -61,8 +63,6 @@
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175767)
 - [(ACCNPL5) Event and Marketing Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30175-accnpl5-event-and-marketing-director-nepal-vacc-vacancy/?do=findComment&comment=175766)
 - [Say Hi to Royal Air Maroc Virtual !](https://forums.vatsim.net/topic/30758-say-hi-to-royal-air-maroc-virtual/?do=findComment&comment=175765)
-- [[Feb 19th 2021] KDEN Denver ATRCC Friday Fly In](https://forums.vatsim.net/topic/30757-feb-19th-2021-kden-denver-atrcc-friday-fly-in/?do=findComment&comment=175764)
-- [First impressions and controller thanks](https://forums.vatsim.net/topic/30756-first-impressions-and-controller-thanks/?do=findComment&comment=175763)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
