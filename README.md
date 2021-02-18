@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dev: OpenPopupList strange behaviour](https://forums.vatsim.net/topic/30731-dev-openpopuplist-strange-behaviour/?do=findComment&comment=175784)
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175783)
 - [Resignation of the Lebanese vACC Membership Director](https://forums.vatsim.net/topic/30762-resignation-of-the-lebanese-vacc-membership-director/?do=findComment&comment=175782)
 - [VATSIM medium term roadmap](https://forums.vatsim.net/topic/30698-vatsim-medium-term-roadmap/?do=findComment&comment=175780)
@@ -62,7 +63,6 @@
 - [vatSys CTD (crash to desktop) attempting to connect to the network (Version 0.1.7719.33834)](https://forums.vatsim.net/topic/30760-vatsys-ctd-crash-to-desktop-attempting-to-connect-to-the-network-version-01771933834/?do=findComment&comment=175776)
 - [vatSys CTD (crash to desktop) attempting to connect to the network (Version 0.1.7719.33834)](https://forums.vatsim.net/topic/30760-vatsys-ctd-crash-to-desktop-attempting-to-connect-to-the-network-version-01771933834/?do=findComment&comment=175775)
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175774)
-- [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175773)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
