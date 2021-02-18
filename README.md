@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Bug reporting topic: Invisible planes in MSFS](https://forums.vatsim.net/topic/29439-bug-reporting-topic-invisible-planes-in-msfs/?do=findComment&comment=175786)
 - [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30763-era-alaska-virtual-group-flight/?do=findComment&comment=175785)
 - [Dev: OpenPopupList strange behaviour](https://forums.vatsim.net/topic/30731-dev-openpopuplist-strange-behaviour/?do=findComment&comment=175784)
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175783)
@@ -62,7 +63,6 @@
 - [Appointment of Bahrain vACC Director](https://forums.vatsim.net/topic/30761-appointment-of-bahrain-vacc-director/?do=findComment&comment=175778)
 - [vatSys CTD (crash to desktop) attempting to connect to the network (Version 0.1.7719.33834)](https://forums.vatsim.net/topic/30760-vatsys-ctd-crash-to-desktop-attempting-to-connect-to-the-network-version-01771933834/?do=findComment&comment=175777)
 - [vatSys CTD (crash to desktop) attempting to connect to the network (Version 0.1.7719.33834)](https://forums.vatsim.net/topic/30760-vatsys-ctd-crash-to-desktop-attempting-to-connect-to-the-network-version-01771933834/?do=findComment&comment=175776)
-- [vatSys CTD (crash to desktop) attempting to connect to the network (Version 0.1.7719.33834)](https://forums.vatsim.net/topic/30760-vatsys-ctd-crash-to-desktop-attempting-to-connect-to-the-network-version-01771933834/?do=findComment&comment=175775)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
