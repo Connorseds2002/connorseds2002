@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vatSys CTD (crash to desktop) attempting to connect to the network (Version 0.1.7719.33834)](https://forums.vatsim.net/topic/30760-vatsys-ctd-crash-to-desktop-attempting-to-connect-to-the-network-version-01771933834/?do=findComment&comment=175777)
 - [vatSys CTD (crash to desktop) attempting to connect to the network (Version 0.1.7719.33834)](https://forums.vatsim.net/topic/30760-vatsys-ctd-crash-to-desktop-attempting-to-connect-to-the-network-version-01771933834/?do=findComment&comment=175776)
 - [vatSys CTD (crash to desktop) attempting to connect to the network (Version 0.1.7719.33834)](https://forums.vatsim.net/topic/30760-vatsys-ctd-crash-to-desktop-attempting-to-connect-to-the-network-version-01771933834/?do=findComment&comment=175775)
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175774)
@@ -62,7 +63,6 @@
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175770)
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175769)
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175768)
-- [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175767)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
