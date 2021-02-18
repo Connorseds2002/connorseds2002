@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vatSys CTD (crash to desktop) attempting to connect to the network (Version 0.1.7719.33834)](https://forums.vatsim.net/topic/30760-vatsys-ctd-crash-to-desktop-attempting-to-connect-to-the-network-version-01771933834/?do=findComment&comment=175776)
+- [vatSys CTD (crash to desktop) attempting to connect to the network (Version 0.1.7719.33834)](https://forums.vatsim.net/topic/30760-vatsys-ctd-crash-to-desktop-attempting-to-connect-to-the-network-version-01771933834/?do=findComment&comment=175775)
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175774)
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175773)
 - [First impressions and controller thanks](https://forums.vatsim.net/topic/30756-first-impressions-and-controller-thanks/?do=findComment&comment=175772)
@@ -61,8 +63,6 @@
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175769)
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175768)
 - [[19th-Feb] Swagatam Bhutan](https://forums.vatsim.net/topic/30759-19th-feb-swagatam-bhutan/?do=findComment&comment=175767)
-- [(ACCNPL5) Event and Marketing Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30175-accnpl5-event-and-marketing-director-nepal-vacc-vacancy/?do=findComment&comment=175766)
-- [Say Hi to Royal Air Maroc Virtual !](https://forums.vatsim.net/topic/30758-say-hi-to-royal-air-maroc-virtual/?do=findComment&comment=175765)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
