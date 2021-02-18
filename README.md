@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Say Hi to Royal Air Maroc Virtual !](https://forums.vatsim.net/topic/30758-say-hi-to-royal-air-maroc-virtual/?do=findComment&comment=175765)
+- [[Feb 19th 2021] KDEN Denver ATRCC Friday Fly In](https://forums.vatsim.net/topic/30757-feb-19th-2021-kden-denver-atrcc-friday-fly-in/?do=findComment&comment=175764)
 - [First impressions and controller thanks](https://forums.vatsim.net/topic/30756-first-impressions-and-controller-thanks/?do=findComment&comment=175763)
 - [MSFS2020 - Cannot see VATSIM airplanes when connected through Vpilot](https://forums.vatsim.net/topic/29937-msfs2020-cannot-see-vatsim-airplanes-when-connected-through-vpilot/?do=findComment&comment=175762)
 - [Low draw distance (MSFS)](https://forums.vatsim.net/topic/30065-low-draw-distance-msfs/?do=findComment&comment=175761)
@@ -61,8 +63,6 @@
 - [MSFS2020 - Cannot see VATSIM airplanes when connected through Vpilot](https://forums.vatsim.net/topic/30739-msfs2020-cannot-see-vatsim-airplanes-when-connected-through-vpilot/?do=findComment&comment=175758)
 - [Nametags/Nameplates/Labels Vote to Fix for MSFS with V-Pilot](https://forums.vatsim.net/topic/30754-nametagsnameplateslabels-vote-to-fix-for-msfs-with-v-pilot/?do=findComment&comment=175757)
 - [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=175756)
-- [Cross The Pond - HELP WANTED](https://forums.vatsim.net/topic/30579-cross-the-pond-help-wanted/?do=findComment&comment=175755)
-- [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=175754)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
