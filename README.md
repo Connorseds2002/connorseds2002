@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [First impressions and controller thanks](https://forums.vatsim.net/topic/30756-first-impressions-and-controller-thanks/?do=findComment&comment=175763)
+- [MSFS2020 - Cannot see VATSIM airplanes when connected through Vpilot](https://forums.vatsim.net/topic/29937-msfs2020-cannot-see-vatsim-airplanes-when-connected-through-vpilot/?do=findComment&comment=175762)
+- [Low draw distance (MSFS)](https://forums.vatsim.net/topic/30065-low-draw-distance-msfs/?do=findComment&comment=175761)
+- [Transpoder doesn't work sending the status (mode C) - Flight Simulator](https://forums.vatsim.net/topic/30148-transpoder-doesnt-work-sending%C2%A0the-status-mode-c-flight-simulator/?do=findComment&comment=175760)
+- [Controlling voice audio level](https://forums.vatsim.net/topic/30708-controlling-voice-audio-level/?do=findComment&comment=175759)
+- [MSFS2020 - Cannot see VATSIM airplanes when connected through Vpilot](https://forums.vatsim.net/topic/30739-msfs2020-cannot-see-vatsim-airplanes-when-connected-through-vpilot/?do=findComment&comment=175758)
+- [Nametags/Nameplates/Labels Vote to Fix for MSFS with V-Pilot](https://forums.vatsim.net/topic/30754-nametagsnameplateslabels-vote-to-fix-for-msfs-with-v-pilot/?do=findComment&comment=175757)
 - [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=175756)
 - [Cross The Pond - HELP WANTED](https://forums.vatsim.net/topic/30579-cross-the-pond-help-wanted/?do=findComment&comment=175755)
 - [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=175754)
-- [Nametags/Nameplates/Labels Vote to Fix for MSFS with V-Pilot](https://forums.vatsim.net/topic/30754-nametagsnameplateslabels-vote-to-fix-for-msfs-with-v-pilot/?do=findComment&comment=175753)
-- [xPilot should override &quot;Contact ATC&quot; command in X-Plane](https://forums.vatsim.net/topic/26090-xpilot-should-override-quotcontact-atcquot-command-in-x-plane/?do=findComment&comment=175752)
-- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175751)
-- [Happy to announce vspirit](https://forums.vatsim.net/topic/30753-happy-to-announce-vspirit/?do=findComment&comment=175750)
-- [Activesky Unable To Download VATSIM metars](https://forums.vatsim.net/topic/28610-activesky-unable-to-download-vatsim-metars/?do=findComment&comment=175747)
-- [Resize "ATC Details" window?](https://forums.vatsim.net/topic/30752-resize-atc-details-window/?do=findComment&comment=175746)
-- [How VATSIM Controllers Should ACTUALLY Handle New Pilots](https://forums.vatsim.net/topic/30687-how-vatsim-controllers-should-actually-handle-new-pilots/?do=findComment&comment=175745)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
