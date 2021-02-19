@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175791)
 - [P3D essentials](https://forums.vatsim.net/topic/30764-p3d-essentials/?do=findComment&comment=175790)
 - [11.51 Vulkan & Xpilot 1.3.38 - No TCAS-Objects](https://forums.vatsim.net/topic/30765-1151-vulkan-xpilot-1338-no-tcas-objects/?do=findComment&comment=175789)
 - [P3D essentials](https://forums.vatsim.net/topic/30764-p3d-essentials/?do=findComment&comment=175788)
@@ -62,7 +63,6 @@
 - [Dev: OpenPopupList strange behaviour](https://forums.vatsim.net/topic/30731-dev-openpopuplist-strange-behaviour/?do=findComment&comment=175784)
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175783)
 - [Resignation of the Lebanese vACC Membership Director](https://forums.vatsim.net/topic/30762-resignation-of-the-lebanese-vacc-membership-director/?do=findComment&comment=175782)
-- [VATSIM medium term roadmap](https://forums.vatsim.net/topic/30698-vatsim-medium-term-roadmap/?do=findComment&comment=175780)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
