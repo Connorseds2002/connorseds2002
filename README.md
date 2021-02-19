@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Activesky Unable To Download VATSIM metars](https://forums.vatsim.net/topic/28610-activesky-unable-to-download-vatsim-metars/?do=findComment&comment=175831)
 - [MSFS2020 - Cannot see VATSIM airplanes when connected through Vpilot](https://forums.vatsim.net/topic/29937-msfs2020-cannot-see-vatsim-airplanes-when-connected-through-vpilot/?do=findComment&comment=175830)
 - [Activesky Unable To Download VATSIM metars](https://forums.vatsim.net/topic/28610-activesky-unable-to-download-vatsim-metars/?do=findComment&comment=175829)
 - [Problem with VPilot](https://forums.vatsim.net/topic/30775-problem-with-vpilot/?do=findComment&comment=175828)
@@ -62,7 +63,6 @@
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175824)
 - [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175823)
 - [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175822)
-- [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175821)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
