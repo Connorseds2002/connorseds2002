@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] VATSIM Middle East & North Africa Deputy Membership Director](https://forums.vatsim.net/topic/30769-vacancy-vatsim-middle-east-north-africa-deputy-membership-director/?do=findComment&comment=175805)
+- [MSFS2020 - Cannot see VATSIM airplanes when connected through Vpilot](https://forums.vatsim.net/topic/29937-msfs2020-cannot-see-vatsim-airplanes-when-connected-through-vpilot/?do=findComment&comment=175804)
 - [ATIS??](https://forums.vatsim.net/topic/30768-atis/?do=findComment&comment=175803)
 - [ATIS??](https://forums.vatsim.net/topic/30768-atis/?do=findComment&comment=175802)
 - [Controlling voice audio level](https://forums.vatsim.net/topic/30708-controlling-voice-audio-level/?do=findComment&comment=175801)
@@ -61,8 +63,6 @@
 - [VATSIM medium term roadmap](https://forums.vatsim.net/topic/30698-vatsim-medium-term-roadmap/?do=findComment&comment=175798)
 - [ATIS??](https://forums.vatsim.net/topic/30768-atis/?do=findComment&comment=175797)
 - [ATIS??](https://forums.vatsim.net/topic/30767-atis/?do=findComment&comment=175796)
-- [[VATWA5] VATWA MEMBERSHIP DIRECTOR VACANCY](https://forums.vatsim.net/topic/29956-vatwa5-vatwa-membership-director-vacancy/?do=findComment&comment=175795)
-- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175794)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
