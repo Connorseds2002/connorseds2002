@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Steering the A32NX in MSFS during taxi](https://forums.vatsim.net/topic/30771-steering-the-a32nx-in-msfs-during-taxi/?do=findComment&comment=175812)
+- [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175811)
+- [VatSpy startup error](https://forums.vatsim.net/topic/30772-vatspy-startup-error/?do=findComment&comment=175810)
+- [VATSIM medium term roadmap](https://forums.vatsim.net/topic/30698-vatsim-medium-term-roadmap/?do=findComment&comment=175809)
 - [Steering the A32NX in MSFS during taxi](https://forums.vatsim.net/topic/30771-steering-the-a32nx-in-msfs-during-taxi/?do=findComment&comment=175808)
 - [Steering the A32NX in MSFS during taxi](https://forums.vatsim.net/topic/30771-steering-the-a32nx-in-msfs-during-taxi/?do=findComment&comment=175807)
 - [Audio For Vatsim not launching](https://forums.vatsim.net/topic/30770-audio-for-vatsim-not-launching/?do=findComment&comment=175806)
 - [[VACANCY] VATSIM Middle East & North Africa Deputy Membership Director](https://forums.vatsim.net/topic/30769-vacancy-vatsim-middle-east-north-africa-deputy-membership-director/?do=findComment&comment=175805)
 - [MSFS2020 - Cannot see VATSIM airplanes when connected through Vpilot](https://forums.vatsim.net/topic/29937-msfs2020-cannot-see-vatsim-airplanes-when-connected-through-vpilot/?do=findComment&comment=175804)
 - [ATIS??](https://forums.vatsim.net/topic/30768-atis/?do=findComment&comment=175803)
-- [ATIS??](https://forums.vatsim.net/topic/30768-atis/?do=findComment&comment=175802)
-- [Controlling voice audio level](https://forums.vatsim.net/topic/30708-controlling-voice-audio-level/?do=findComment&comment=175801)
-- [ATIS??](https://forums.vatsim.net/topic/30767-atis/?do=findComment&comment=175800)
-- [ATIS??](https://forums.vatsim.net/topic/30768-atis/?do=findComment&comment=175799)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
