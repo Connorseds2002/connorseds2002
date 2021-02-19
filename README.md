@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Com1 & Com2 both rx simultaneously](https://forums.vatsim.net/topic/30773-com1-com2-both-rx-simultaneously/?do=findComment&comment=175816)
+- [Feature Request: COM1 and COM2 separate audio devices](https://forums.vatsim.net/topic/30766-feature-request-com1-and-com2-separate-audio-devices/?do=findComment&comment=175815)
 - [Feature Request: COM1 and COM2 separate audio devices](https://forums.vatsim.net/topic/30766-feature-request-com1-and-com2-separate-audio-devices/?do=findComment&comment=175814)
 - [Feature Request: COM1 and COM2 separate audio devices](https://forums.vatsim.net/topic/30766-feature-request-com1-and-com2-separate-audio-devices/?do=findComment&comment=175813)
 - [Steering the A32NX in MSFS during taxi](https://forums.vatsim.net/topic/30771-steering-the-a32nx-in-msfs-during-taxi/?do=findComment&comment=175812)
@@ -61,8 +63,6 @@
 - [VATSIM medium term roadmap](https://forums.vatsim.net/topic/30698-vatsim-medium-term-roadmap/?do=findComment&comment=175809)
 - [Steering the A32NX in MSFS during taxi](https://forums.vatsim.net/topic/30771-steering-the-a32nx-in-msfs-during-taxi/?do=findComment&comment=175808)
 - [Steering the A32NX in MSFS during taxi](https://forums.vatsim.net/topic/30771-steering-the-a32nx-in-msfs-during-taxi/?do=findComment&comment=175807)
-- [Audio For Vatsim not launching](https://forums.vatsim.net/topic/30770-audio-for-vatsim-not-launching/?do=findComment&comment=175806)
-- [[VACANCY] VATSIM Middle East & North Africa Deputy Membership Director](https://forums.vatsim.net/topic/30769-vacancy-vatsim-middle-east-north-africa-deputy-membership-director/?do=findComment&comment=175805)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
