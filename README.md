@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Com1 & Com2 both rx simultaneously](https://forums.vatsim.net/topic/30773-com1-com2-both-rx-simultaneously/?do=findComment&comment=175827)
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175826)
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175825)
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175824)
@@ -62,7 +63,6 @@
 - [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175820)
 - [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175819)
 - [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175818)
-- [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175817)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
