@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175826)
+- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175825)
+- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175824)
+- [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175823)
+- [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175822)
+- [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175821)
+- [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175820)
+- [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175819)
+- [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175818)
 - [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175817)
-- [Com1 & Com2 both rx simultaneously](https://forums.vatsim.net/topic/30773-com1-com2-both-rx-simultaneously/?do=findComment&comment=175816)
-- [Feature Request: COM1 and COM2 separate audio devices](https://forums.vatsim.net/topic/30766-feature-request-com1-and-com2-separate-audio-devices/?do=findComment&comment=175815)
-- [Feature Request: COM1 and COM2 separate audio devices](https://forums.vatsim.net/topic/30766-feature-request-com1-and-com2-separate-audio-devices/?do=findComment&comment=175814)
-- [Feature Request: COM1 and COM2 separate audio devices](https://forums.vatsim.net/topic/30766-feature-request-com1-and-com2-separate-audio-devices/?do=findComment&comment=175813)
-- [Steering the A32NX in MSFS during taxi](https://forums.vatsim.net/topic/30771-steering-the-a32nx-in-msfs-during-taxi/?do=findComment&comment=175812)
-- [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=175811)
-- [VatSpy startup error](https://forums.vatsim.net/topic/30772-vatspy-startup-error/?do=findComment&comment=175810)
-- [VATSIM medium term roadmap](https://forums.vatsim.net/topic/30698-vatsim-medium-term-roadmap/?do=findComment&comment=175809)
-- [Steering the A32NX in MSFS during taxi](https://forums.vatsim.net/topic/30771-steering-the-a32nx-in-msfs-during-taxi/?do=findComment&comment=175808)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
