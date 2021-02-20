@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Push to talk not working in Xpilot](https://forums.vatsim.net/topic/27443-push-to-talk-not-working-in-xpilot/?do=findComment&comment=175856)
+- [Missing Links](https://forums.vatsim.net/topic/30782-missing-links/?do=findComment&comment=175855)
 - [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175854)
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175853)
 - [Missing Links](https://forums.vatsim.net/topic/30782-missing-links/?do=findComment&comment=175852)
@@ -61,8 +63,6 @@
 - [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=175849)
 - [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=175848)
 - [Problem with VPilot](https://forums.vatsim.net/topic/30775-problem-with-vpilot/?do=findComment&comment=175847)
-- [Problem with VPilot](https://forums.vatsim.net/topic/30775-problem-with-vpilot/?do=findComment&comment=175846)
-- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175845)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
