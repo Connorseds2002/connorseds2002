@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175836)
+- [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175835)
 - [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175834)
 - [Steering the A32NX in MSFS during taxi](https://forums.vatsim.net/topic/30771-steering-the-a32nx-in-msfs-during-taxi/?do=findComment&comment=175833)
 - [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175832)
@@ -61,8 +63,6 @@
 - [Activesky Unable To Download VATSIM metars](https://forums.vatsim.net/topic/28610-activesky-unable-to-download-vatsim-metars/?do=findComment&comment=175829)
 - [Problem with VPilot](https://forums.vatsim.net/topic/30775-problem-with-vpilot/?do=findComment&comment=175828)
 - [Com1 & Com2 both rx simultaneously](https://forums.vatsim.net/topic/30773-com1-com2-both-rx-simultaneously/?do=findComment&comment=175827)
-- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175826)
-- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175825)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
