@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175853)
 - [Missing Links](https://forums.vatsim.net/topic/30782-missing-links/?do=findComment&comment=175852)
 - [.NET Framework error](https://forums.vatsim.net/topic/30654-net-framework-error/?do=findComment&comment=175851)
 - [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=175850)
@@ -62,7 +63,6 @@
 - [Problem with VPilot](https://forums.vatsim.net/topic/30775-problem-with-vpilot/?do=findComment&comment=175846)
 - [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175845)
 - [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=175844)
-- [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=175843)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
