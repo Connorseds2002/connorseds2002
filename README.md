@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [EGKK](https://forums.vatsim.net/topic/30713-egkk/?do=findComment&comment=175842)
 - [Looking for help to convert autocad file to a euroscope sector](https://forums.vatsim.net/topic/30778-looking-for-help-to-convert-autocad-file-to-a-euroscope-sector/?do=findComment&comment=175841)
 - [(ACCNPL5) Event and Marketing Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/30175-accnpl5-event-and-marketing-director-nepal-vacc-vacancy/?do=findComment&comment=175840)
 - [Friday Night Live: 26-02-2021: Fly IN/OUT of Trivandrum(VOTV)](https://forums.vatsim.net/topic/30779-friday-night-live-26-02-2021-fly-inout-of-trivandrumvotv/?do=findComment&comment=175839)
@@ -62,7 +63,6 @@
 - [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175835)
 - [Obtaining Clearance in Absence of Available Clearance/Ground/Tower Controller](https://forums.vatsim.net/topic/30774-obtaining-clearance-in-absence-of-available-clearancegroundtower-controller/?do=findComment&comment=175834)
 - [Steering the A32NX in MSFS during taxi](https://forums.vatsim.net/topic/30771-steering-the-a32nx-in-msfs-during-taxi/?do=findComment&comment=175833)
-- [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175832)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
