@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175868)
 - [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175867)
 - [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175866)
 - [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175864)
@@ -62,7 +63,6 @@
 - [Filter on Remarks?](https://forums.vatsim.net/topic/30786-filter-on-remarks/?do=findComment&comment=175860)
 - [Denver ARTCC Center Vatsim Live on Twitch](https://forums.vatsim.net/topic/30785-denver-artcc-center-vatsim-live-on-twitch/?do=findComment&comment=175859)
 - [Conversion of Real-World Pilot Ratings](https://forums.vatsim.net/topic/30784-conversion-of-real-world-pilot-ratings/?do=findComment&comment=175858)
-- [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=175857)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
