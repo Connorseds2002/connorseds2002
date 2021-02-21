@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature Request: COM1 and COM2 separate audio devices](https://forums.vatsim.net/topic/30766-feature-request-com1-and-com2-separate-audio-devices/?do=findComment&comment=175877)
+- [Feature Request: COM1 and COM2 separate audio devices](https://forums.vatsim.net/topic/30766-feature-request-com1-and-com2-separate-audio-devices/?do=findComment&comment=175876)
+- [CTD after 40 seconds](https://forums.vatsim.net/topic/30370-ctd-after-40-seconds/?do=findComment&comment=175875)
 - [Conversion of Real-World Pilot Ratings](https://forums.vatsim.net/topic/30784-conversion-of-real-world-pilot-ratings/?do=findComment&comment=175874)
 - [Conversion of Real-World Pilot Ratings](https://forums.vatsim.net/topic/30784-conversion-of-real-world-pilot-ratings/?do=findComment&comment=175873)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=175872)
@@ -60,9 +63,6 @@
 - [vPilot and PSU 1.7.11](https://forums.vatsim.net/topic/30791-vpilot-and-psu-1711/?do=findComment&comment=175870)
 - [Can't Hear ATC](https://forums.vatsim.net/topic/30790-cant-hear-atc/?do=findComment&comment=175869)
 - [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175868)
-- [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175867)
-- [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175866)
-- [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175864)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
