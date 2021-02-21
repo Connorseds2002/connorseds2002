@@ -53,7 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [[Feb 20th 2021 22:00-00:30Z] Cenamer Control CPT C1](https://forums.vatsim.net/topic/30788-feb-20th-2021-2200-0030z-cenamer-control-cpt-c1/?do=findComment&comment=175863)
+- [[Feb 25th 2021 23:00z -01:00z] Cenamer Control CPT C1](https://forums.vatsim.net/topic/30788-feb-25th-2021-2300z-0100z-cenamer-control-cpt-c1/?do=findComment&comment=175863)
 - [[Feb 21th 2021 2300Z] Panama CPT S2](https://forums.vatsim.net/topic/30787-feb-21th-2021-2300z-panama-cpt-s2/?do=findComment&comment=175862)
 - [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175861)
 - [Filter on Remarks?](https://forums.vatsim.net/topic/30786-filter-on-remarks/?do=findComment&comment=175860)
