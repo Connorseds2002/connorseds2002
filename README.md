@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [not viewable CTR on map](https://forums.vatsim.net/topic/30793-not-viewable-ctr-on-map/?do=findComment&comment=175894)
+- [not viewable CTR on map](https://forums.vatsim.net/topic/30793-not-viewable-ctr-on-map/?do=findComment&comment=175893)
 - [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=175892)
 - [vPilot and PSU 1.7.11](https://forums.vatsim.net/topic/30791-vpilot-and-psu-1711/?do=findComment&comment=175891)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=175890)
@@ -61,8 +63,6 @@
 - [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=175887)
 - [First impressions and controller thanks](https://forums.vatsim.net/topic/30756-first-impressions-and-controller-thanks/?do=findComment&comment=175886)
 - [Rest In Peace Richard Green (810012)](https://forums.vatsim.net/topic/30736-rest-in-peace-richard-green-810012/?do=findComment&comment=175885)
-- [vPilot and PSU 1.7.11](https://forums.vatsim.net/topic/30791-vpilot-and-psu-1711/?do=findComment&comment=175884)
-- [Turkish vACC - TRvACC Seeking Events and PR Director](https://forums.vatsim.net/topic/30748-turkish-vacc-trvacc-seeking-events-and-pr-director/?do=findComment&comment=175883)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
