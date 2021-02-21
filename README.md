@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Feb 20th 2021 22:00-00:30Z] Cenamer Control CPT C1](https://forums.vatsim.net/topic/30788-feb-20th-2021-2200-0030z-cenamer-control-cpt-c1/?do=findComment&comment=175863)
+- [[Feb 21th 2021 2300Z] Panama CPT S2](https://forums.vatsim.net/topic/30787-feb-21th-2021-2300z-panama-cpt-s2/?do=findComment&comment=175862)
 - [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175861)
 - [Filter on Remarks?](https://forums.vatsim.net/topic/30786-filter-on-remarks/?do=findComment&comment=175860)
 - [Denver ARTCC Center Vatsim Live on Twitch](https://forums.vatsim.net/topic/30785-denver-artcc-center-vatsim-live-on-twitch/?do=findComment&comment=175859)
@@ -61,8 +63,6 @@
 - [Push to talk not working in Xpilot](https://forums.vatsim.net/topic/27443-push-to-talk-not-working-in-xpilot/?do=findComment&comment=175856)
 - [Missing Links](https://forums.vatsim.net/topic/30782-missing-links/?do=findComment&comment=175855)
 - [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175854)
-- [I can´t hear the ATC](https://forums.vatsim.net/topic/30690-i-can%C2%B4t-hear-the-atc/?do=findComment&comment=175853)
-- [Missing Links](https://forums.vatsim.net/topic/30782-missing-links/?do=findComment&comment=175852)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
