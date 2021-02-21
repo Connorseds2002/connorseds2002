@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175867)
 - [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175866)
 - [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175864)
 - [[Feb 25th 2021 23:00z -01:00z] Cenamer Control CPT C1](https://forums.vatsim.net/topic/30788-feb-25th-2021-2300z-0100z-cenamer-control-cpt-c1/?do=findComment&comment=175863)
@@ -62,7 +63,6 @@
 - [Denver ARTCC Center Vatsim Live on Twitch](https://forums.vatsim.net/topic/30785-denver-artcc-center-vatsim-live-on-twitch/?do=findComment&comment=175859)
 - [Conversion of Real-World Pilot Ratings](https://forums.vatsim.net/topic/30784-conversion-of-real-world-pilot-ratings/?do=findComment&comment=175858)
 - [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=175857)
-- [Push to talk not working in Xpilot](https://forums.vatsim.net/topic/27443-push-to-talk-not-working-in-xpilot/?do=findComment&comment=175856)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
