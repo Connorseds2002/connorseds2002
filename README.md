@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Conversion of Real-World Pilot Ratings](https://forums.vatsim.net/topic/30784-conversion-of-real-world-pilot-ratings/?do=findComment&comment=175873)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=175872)
 - [ATIS??](https://forums.vatsim.net/topic/30768-atis/?do=findComment&comment=175871)
 - [vPilot and PSU 1.7.11](https://forums.vatsim.net/topic/30791-vpilot-and-psu-1711/?do=findComment&comment=175870)
@@ -62,7 +63,6 @@
 - [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175866)
 - [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175864)
 - [[Feb 25th 2021 23:00z -01:00z] Cenamer Control CPT C1](https://forums.vatsim.net/topic/30788-feb-25th-2021-2300z-0100z-cenamer-control-cpt-c1/?do=findComment&comment=175863)
-- [[Feb 21th 2021 2300Z] Panama CPT S2](https://forums.vatsim.net/topic/30787-feb-21th-2021-2300z-panama-cpt-s2/?do=findComment&comment=175862)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
