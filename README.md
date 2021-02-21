@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vpilot changing radio frequency to 118.8](https://forums.vatsim.net/topic/30789-vpilot-changing-radio-frequency-to-1188/?do=findComment&comment=175864)
 - [[Feb 25th 2021 23:00z -01:00z] Cenamer Control CPT C1](https://forums.vatsim.net/topic/30788-feb-25th-2021-2300z-0100z-cenamer-control-cpt-c1/?do=findComment&comment=175863)
 - [[Feb 21th 2021 2300Z] Panama CPT S2](https://forums.vatsim.net/topic/30787-feb-21th-2021-2300z-panama-cpt-s2/?do=findComment&comment=175862)
 - [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175861)
@@ -62,7 +63,6 @@
 - [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=175857)
 - [Push to talk not working in Xpilot](https://forums.vatsim.net/topic/27443-push-to-talk-not-working-in-xpilot/?do=findComment&comment=175856)
 - [Missing Links](https://forums.vatsim.net/topic/30782-missing-links/?do=findComment&comment=175855)
-- [Crash to Desktop, X-Plane 11.52 and xPilot 1.3.38...](https://forums.vatsim.net/topic/30776-crash-to-desktop-x-plane-1152-and-xpilot-1338/?do=findComment&comment=175854)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
