@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175923)
+- [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175922)
 - [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175921)
 - [Europe GA IFR](https://forums.vatsim.net/topic/30800-europe-ga-ifr/?do=findComment&comment=175920)
 - [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175919)
@@ -61,8 +63,6 @@
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175916)
 - [swetting up my acount](https://forums.vatsim.net/topic/30796-swetting-up-my-acount/?do=findComment&comment=175915)
 - [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=175914)
-- [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175913)
-- [SECTORFILE](https://forums.vatsim.net/topic/30751-sectorfile/?do=findComment&comment=175912)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
