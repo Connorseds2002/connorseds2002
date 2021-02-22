@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Europe GA IFR](https://forums.vatsim.net/topic/30800-europe-ga-ifr/?do=findComment&comment=175920)
+- [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175919)
 - [Europe GA IFR](https://forums.vatsim.net/topic/30800-europe-ga-ifr/?do=findComment&comment=175918)
 - [Europe GA IFR](https://forums.vatsim.net/topic/30800-europe-ga-ifr/?do=findComment&comment=175917)
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175916)
@@ -61,8 +63,6 @@
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175913)
 - [SECTORFILE](https://forums.vatsim.net/topic/30751-sectorfile/?do=findComment&comment=175912)
 - [26 Feb 2021 - 13z:15z - VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30799-26-feb-2021-13z15z-vvts-twr-s2-cpt/?do=findComment&comment=175911)
-- [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175910)
-- [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175909)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
