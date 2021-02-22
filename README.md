@@ -54,7 +54,7 @@
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
 - [SECTORFILE](https://forums.vatsim.net/topic/30751-sectorfile/?do=findComment&comment=175912)
-- [26 Feb 2020 - 13z:15z - VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30799-26-feb-2020-13z15z-vvts-twr-s2-cpt/?do=findComment&comment=175911)
+- [26 Feb 2021 - 13z:15z - VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30799-26-feb-2021-13z15z-vvts-twr-s2-cpt/?do=findComment&comment=175911)
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175910)
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175909)
 - [Can't Hear ATC](https://forums.vatsim.net/topic/30790-cant-hear-atc/?do=findComment&comment=175908)
