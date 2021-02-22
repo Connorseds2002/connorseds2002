@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SECTORFILE](https://forums.vatsim.net/topic/30751-sectorfile/?do=findComment&comment=175912)
+- [26 Feb 2020 - 13z:15z - VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30799-26-feb-2020-13z15z-vvts-twr-s2-cpt/?do=findComment&comment=175911)
+- [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175910)
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175909)
 - [Can't Hear ATC](https://forums.vatsim.net/topic/30790-cant-hear-atc/?do=findComment&comment=175908)
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175907)
@@ -60,9 +63,6 @@
 - [Vpilot lag and Windows 10 Microphone Monitoring](https://forums.vatsim.net/topic/30797-vpilot-lag-and-windows-10-microphone-monitoring/?do=findComment&comment=175905)
 - [swetting up my acount](https://forums.vatsim.net/topic/30796-swetting-up-my-acount/?do=findComment&comment=175904)
 - [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=175903)
-- [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175902)
-- [Terminals](https://forums.vatsim.net/topic/30720-terminals/?do=findComment&comment=175901)
-- [vSTARS 1.3.0 PTT](https://forums.vatsim.net/topic/30792-vstars-130-ptt/?do=findComment&comment=175900)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
