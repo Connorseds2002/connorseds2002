@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Europe GA IFR](https://forums.vatsim.net/topic/30800-europe-ga-ifr/?do=findComment&comment=175918)
+- [Europe GA IFR](https://forums.vatsim.net/topic/30800-europe-ga-ifr/?do=findComment&comment=175917)
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175916)
 - [swetting up my acount](https://forums.vatsim.net/topic/30796-swetting-up-my-acount/?do=findComment&comment=175915)
 - [vATIS: Intermittent Voice Broadcast & Outdated METAR Information](https://forums.vatsim.net/topic/29517-vatis-intermittent-voice-broadcast-outdated-metar-information/?do=findComment&comment=175914)
@@ -61,8 +63,6 @@
 - [26 Feb 2021 - 13z:15z - VVTS TWR S2 CPT](https://forums.vatsim.net/topic/30799-26-feb-2021-13z15z-vvts-twr-s2-cpt/?do=findComment&comment=175911)
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175910)
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175909)
-- [Can't Hear ATC](https://forums.vatsim.net/topic/30790-cant-hear-atc/?do=findComment&comment=175908)
-- [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175907)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
