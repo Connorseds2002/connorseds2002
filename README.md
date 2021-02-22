@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [swetting up my acount](https://forums.vatsim.net/topic/30796-swetting-up-my-acount/?do=findComment&comment=175904)
+- [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=175903)
+- [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175902)
+- [Terminals](https://forums.vatsim.net/topic/30720-terminals/?do=findComment&comment=175901)
 - [vSTARS 1.3.0 PTT](https://forums.vatsim.net/topic/30792-vstars-130-ptt/?do=findComment&comment=175900)
 - [vSTARS 1.3.0 PTT](https://forums.vatsim.net/topic/30792-vstars-130-ptt/?do=findComment&comment=175899)
 - [vSTARS 1.3.0 PTT](https://forums.vatsim.net/topic/30792-vstars-130-ptt/?do=findComment&comment=175898)
 - [vSTARS 1.3.0 PTT](https://forums.vatsim.net/topic/30792-vstars-130-ptt/?do=findComment&comment=175897)
 - [First impressions and controller thanks](https://forums.vatsim.net/topic/30756-first-impressions-and-controller-thanks/?do=findComment&comment=175896)
 - [not viewable CTR on map](https://forums.vatsim.net/topic/30793-not-viewable-ctr-on-map/?do=findComment&comment=175895)
-- [not viewable CTR on map](https://forums.vatsim.net/topic/30793-not-viewable-ctr-on-map/?do=findComment&comment=175894)
-- [not viewable CTR on map](https://forums.vatsim.net/topic/30793-not-viewable-ctr-on-map/?do=findComment&comment=175893)
-- [What is the best way to get into VATSIM?](https://forums.vatsim.net/topic/30035-what-is-the-best-way-to-get-into-vatsim/?do=findComment&comment=175892)
-- [vPilot and PSU 1.7.11](https://forums.vatsim.net/topic/30791-vpilot-and-psu-1711/?do=findComment&comment=175891)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
