@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175909)
+- [Can't Hear ATC](https://forums.vatsim.net/topic/30790-cant-hear-atc/?do=findComment&comment=175908)
 - [a320neo type](https://forums.vatsim.net/topic/30798-a320neo-type/?do=findComment&comment=175907)
 - [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175906)
 - [Vpilot lag and Windows 10 Microphone Monitoring](https://forums.vatsim.net/topic/30797-vpilot-lag-and-windows-10-microphone-monitoring/?do=findComment&comment=175905)
@@ -61,8 +63,6 @@
 - [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175902)
 - [Terminals](https://forums.vatsim.net/topic/30720-terminals/?do=findComment&comment=175901)
 - [vSTARS 1.3.0 PTT](https://forums.vatsim.net/topic/30792-vstars-130-ptt/?do=findComment&comment=175900)
-- [vSTARS 1.3.0 PTT](https://forums.vatsim.net/topic/30792-vstars-130-ptt/?do=findComment&comment=175899)
-- [vSTARS 1.3.0 PTT](https://forums.vatsim.net/topic/30792-vstars-130-ptt/?do=findComment&comment=175898)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
