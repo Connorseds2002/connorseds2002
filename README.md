@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=175942)
+- [Global Ratings Policy](https://forums.vatsim.net/topic/30806-global-ratings-policy/?do=findComment&comment=175941)
 - [swetting up my acount](https://forums.vatsim.net/topic/30796-swetting-up-my-acount/?do=findComment&comment=175940)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=175939)
 - [Get controller location](https://forums.vatsim.net/topic/30560-get-controller-location/?do=findComment&comment=175938)
@@ -61,8 +63,6 @@
 - [swetting up my acount](https://forums.vatsim.net/topic/30796-swetting-up-my-acount/?do=findComment&comment=175935)
 - [model matching Vatsim](https://forums.vatsim.net/topic/30805-model-matching-vatsim/?do=findComment&comment=175934)
 - [[Feb 27th 2021 22:00-00:30Z] Panama Hub Hours](https://forums.vatsim.net/topic/30804-feb-27th-2021-2200-0030z-panama-hub-hours/?do=findComment&comment=175933)
-- [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=175932)
-- [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=175931)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
