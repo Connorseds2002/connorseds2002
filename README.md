@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [swetting up my acount](https://forums.vatsim.net/topic/30796-swetting-up-my-acount/?do=findComment&comment=175940)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=175939)
 - [Get controller location](https://forums.vatsim.net/topic/30560-get-controller-location/?do=findComment&comment=175938)
 - [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=175937)
@@ -62,7 +63,6 @@
 - [[Feb 27th 2021 22:00-00:30Z] Panama Hub Hours](https://forums.vatsim.net/topic/30804-feb-27th-2021-2200-0030z-panama-hub-hours/?do=findComment&comment=175933)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=175932)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=175931)
-- [How to make a donation](https://forums.vatsim.net/topic/30803-how-to-make-a-donation/?do=findComment&comment=175930)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
