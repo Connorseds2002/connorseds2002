@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175936)
 - [swetting up my acount](https://forums.vatsim.net/topic/30796-swetting-up-my-acount/?do=findComment&comment=175935)
 - [model matching Vatsim](https://forums.vatsim.net/topic/30805-model-matching-vatsim/?do=findComment&comment=175934)
 - [[Feb 27th 2021 22:00-00:30Z] Panama Hub Hours](https://forums.vatsim.net/topic/30804-feb-27th-2021-2200-0030z-panama-hub-hours/?do=findComment&comment=175933)
@@ -62,7 +63,6 @@
 - [How to make a donation](https://forums.vatsim.net/topic/30803-how-to-make-a-donation/?do=findComment&comment=175929)
 - [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175928)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=175927)
-- [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=175926)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
