@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to make a donation](https://forums.vatsim.net/topic/30803-how-to-make-a-donation/?do=findComment&comment=175930)
 - [How to make a donation](https://forums.vatsim.net/topic/30803-how-to-make-a-donation/?do=findComment&comment=175929)
 - [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175928)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=175927)
@@ -62,7 +63,6 @@
 - [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175923)
 - [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175922)
 - [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175921)
-- [Europe GA IFR](https://forums.vatsim.net/topic/30800-europe-ga-ifr/?do=findComment&comment=175920)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
