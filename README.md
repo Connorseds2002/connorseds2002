@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=175939)
+- [Get controller location](https://forums.vatsim.net/topic/30560-get-controller-location/?do=findComment&comment=175938)
 - [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=175937)
 - [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175936)
 - [swetting up my acount](https://forums.vatsim.net/topic/30796-swetting-up-my-acount/?do=findComment&comment=175935)
@@ -61,8 +63,6 @@
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=175932)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=175931)
 - [How to make a donation](https://forums.vatsim.net/topic/30803-how-to-make-a-donation/?do=findComment&comment=175930)
-- [How to make a donation](https://forums.vatsim.net/topic/30803-how-to-make-a-donation/?do=findComment&comment=175929)
-- [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175928)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
