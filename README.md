@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=175937)
 - [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175936)
 - [swetting up my acount](https://forums.vatsim.net/topic/30796-swetting-up-my-acount/?do=findComment&comment=175935)
 - [model matching Vatsim](https://forums.vatsim.net/topic/30805-model-matching-vatsim/?do=findComment&comment=175934)
@@ -62,7 +63,6 @@
 - [How to make a donation](https://forums.vatsim.net/topic/30803-how-to-make-a-donation/?do=findComment&comment=175930)
 - [How to make a donation](https://forums.vatsim.net/topic/30803-how-to-make-a-donation/?do=findComment&comment=175929)
 - [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175928)
-- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=175927)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
