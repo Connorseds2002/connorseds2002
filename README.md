@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SIM crashes during IFR Flight.](https://forums.vatsim.net/topic/30801-sim-crashes-during-ifr-flight/?do=findComment&comment=175928)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=175927)
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=175926)
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=175925)
@@ -62,7 +63,6 @@
 - [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175921)
 - [Europe GA IFR](https://forums.vatsim.net/topic/30800-europe-ga-ifr/?do=findComment&comment=175920)
 - [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175919)
-- [Europe GA IFR](https://forums.vatsim.net/topic/30800-europe-ga-ifr/?do=findComment&comment=175918)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
