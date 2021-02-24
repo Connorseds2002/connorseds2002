@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175957)
+- [Global Ratings Policy](https://forums.vatsim.net/topic/30806-global-ratings-policy/?do=findComment&comment=175956)
+- [Global Ratings Policy](https://forums.vatsim.net/topic/30806-global-ratings-policy/?do=findComment&comment=175955)
+- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175954)
+- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=175953)
+- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175952)
 - [[Sat Feb 27] Islands🏝 to Mountains🏔 Maldives🇲🇻-Zurich🇨🇭 with full staffing and enroute ATC](https://forums.vatsim.net/topic/30808-sat-feb-27-islands%F0%9F%8F%9D-to-mountains%F0%9F%8F%94-maldives%F0%9F%87%B2%F0%9F%87%BB-zurich%F0%9F%87%A8%F0%9F%87%AD-with-full-staffing-and-enroute-atc/?do=findComment&comment=175951)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=175950)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=175949)
 - [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175948)
-- [ACCNPL5 - Events and Marketing Director Appointed!](https://forums.vatsim.net/topic/30807-accnpl5-events-and-marketing-director-appointed/?do=findComment&comment=175947)
-- [ACCNPL5 - Events and Marketing Director Appointed!](https://forums.vatsim.net/topic/30807-accnpl5-events-and-marketing-director-appointed/?do=findComment&comment=175946)
-- [LC/GC/CD Tracking once dropped](https://forums.vatsim.net/topic/30794-lcgccd-tracking-once-dropped/?do=findComment&comment=175945)
-- [How to make a donation](https://forums.vatsim.net/topic/30803-how-to-make-a-donation/?do=findComment&comment=175944)
-- [VatSpy startup error](https://forums.vatsim.net/topic/30772-vatspy-startup-error/?do=findComment&comment=175943)
-- [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=175942)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
