@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Que escenario para SAEZ](https://forums.vatsim.net/topic/30004-que-escenario-para-saez/?do=findComment&comment=175965)
+- [Que escenario para SAEZ](https://forums.vatsim.net/topic/30004-que-escenario-para-saez/?do=findComment&comment=175964)
 - [VatSpy startup error](https://forums.vatsim.net/topic/30772-vatspy-startup-error/?do=findComment&comment=175960)
 - [ACCNPL5 - Events and Marketing Director Appointed!](https://forums.vatsim.net/topic/30807-accnpl5-events-and-marketing-director-appointed/?do=findComment&comment=175959)
 - [First successful IFR flight](https://forums.vatsim.net/topic/30809-first-successful-ifr-flight/?do=findComment&comment=175958)
@@ -61,8 +63,6 @@
 - [Global Ratings Policy](https://forums.vatsim.net/topic/30806-global-ratings-policy/?do=findComment&comment=175955)
 - [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175954)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=175953)
-- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175952)
-- [[Sat Feb 27] Islands🏝 to Mountains🏔 Maldives🇲🇻-Zurich🇨🇭 with full staffing and enroute ATC](https://forums.vatsim.net/topic/30808-sat-feb-27-islands%F0%9F%8F%9D-to-mountains%F0%9F%8F%94-maldives%F0%9F%87%B2%F0%9F%87%BB-zurich%F0%9F%87%A8%F0%9F%87%AD-with-full-staffing-and-enroute-atc/?do=findComment&comment=175951)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
