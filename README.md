@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175982)
+- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175981)
+- [Departure from JFK](https://forums.vatsim.net/topic/30814-departure-from-jfk/?do=findComment&comment=175980)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175979)
 - [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175978)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175977)
@@ -60,9 +63,6 @@
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175975)
 - [Global Ratings Policy](https://forums.vatsim.net/topic/30806-global-ratings-policy/?do=findComment&comment=175974)
 - [Global Ratings Policy](https://forums.vatsim.net/topic/30806-global-ratings-policy/?do=findComment&comment=175973)
-- [[Sat Feb 27] Islands🏝 to Mountains🏔 Maldives🇲🇻-Zurich🇨🇭 with full staffing and enroute ATC](https://forums.vatsim.net/topic/30808-sat-feb-27-islands%F0%9F%8F%9D-to-mountains%F0%9F%8F%94-maldives%F0%9F%87%B2%F0%9F%87%BB-zurich%F0%9F%87%A8%F0%9F%87%AD-with-full-staffing-and-enroute-atc/?do=findComment&comment=175972)
-- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175971)
-- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175970)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
