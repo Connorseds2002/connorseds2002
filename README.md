@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175971)
+- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175970)
 - [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=175969)
 - [Laravel login problem](https://forums.vatsim.net/topic/30812-laravel-login-problem/?do=findComment&comment=175968)
 - [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175967)
@@ -61,8 +63,6 @@
 - [Que escenario para SAEZ](https://forums.vatsim.net/topic/30004-que-escenario-para-saez/?do=findComment&comment=175964)
 - [VatSpy startup error](https://forums.vatsim.net/topic/30772-vatspy-startup-error/?do=findComment&comment=175960)
 - [ACCNPL5 - Events and Marketing Director Appointed!](https://forums.vatsim.net/topic/30807-accnpl5-events-and-marketing-director-appointed/?do=findComment&comment=175959)
-- [First successful IFR flight](https://forums.vatsim.net/topic/30809-first-successful-ifr-flight/?do=findComment&comment=175958)
-- [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175957)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
