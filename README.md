@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176023)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176022)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176016)
 - [Que escenario para SAEZ](https://forums.vatsim.net/topic/30004-que-escenario-para-saez/?do=findComment&comment=176014)
 - [Que escenario para SAEZ](https://forums.vatsim.net/topic/30004-que-escenario-para-saez/?do=findComment&comment=176012)
@@ -61,8 +63,6 @@
 - [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176009)
 - [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176008)
 - [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176007)
-- [Que escenario para SAEZ](https://forums.vatsim.net/topic/30004-que-escenario-para-saez/?do=findComment&comment=176006)
-- [xPilot issues with model matching](https://forums.vatsim.net/topic/30816-xpilot-issues-with-model-matching/?do=findComment&comment=176005)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
