@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Que escenario para SAEZ](https://forums.vatsim.net/topic/30004-que-escenario-para-saez/?do=findComment&comment=176012)
 - [[MAR 06, 2021 | 1200-1600Z] Sea Shuttle: Ho Chi Minh - Hong Kong](https://forums.vatsim.net/topic/30819-mar-06-2021-1200-1600z-sea-shuttle-ho-chi-minh-hong-kong/?do=findComment&comment=176011)
 - [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176010)
 - [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176009)
@@ -62,7 +63,6 @@
 - [xPilot issues with model matching](https://forums.vatsim.net/topic/30816-xpilot-issues-with-model-matching/?do=findComment&comment=176005)
 - [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176004)
 - [Departure from JFK](https://forums.vatsim.net/topic/30814-departure-from-jfk/?do=findComment&comment=176003)
-- [Private Simulator Sessions](https://forums.vatsim.net/topic/15857-private-simulator-sessions/?do=findComment&comment=176002)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
