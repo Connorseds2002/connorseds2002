@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [V PILOT PROBS](https://forums.vatsim.net/topic/29248-v-pilot-probs/?do=findComment&comment=176025)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176023)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176022)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176016)
@@ -62,7 +63,6 @@
 - [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176010)
 - [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176009)
 - [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176008)
-- [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176007)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
