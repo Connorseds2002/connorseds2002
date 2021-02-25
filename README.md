@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176001)
 - [VatSpy startup error](https://forums.vatsim.net/topic/30772-vatspy-startup-error/?do=findComment&comment=175998)
 - [xPilot issues with model matching](https://forums.vatsim.net/topic/30816-xpilot-issues-with-model-matching/?do=findComment&comment=175997)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175996)
@@ -62,7 +63,6 @@
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175990)
 - [TNT waypoint](https://forums.vatsim.net/topic/30704-tnt-waypoint/?do=findComment&comment=175987)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175986)
-- [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175985)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
