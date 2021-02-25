@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176030)
+- [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176029)
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176028)
 - [V PILOT PROBS](https://forums.vatsim.net/topic/29248-v-pilot-probs/?do=findComment&comment=176025)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176023)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176022)
@@ -60,9 +63,6 @@
 - [Que escenario para SAEZ](https://forums.vatsim.net/topic/30004-que-escenario-para-saez/?do=findComment&comment=176014)
 - [Que escenario para SAEZ](https://forums.vatsim.net/topic/30004-que-escenario-para-saez/?do=findComment&comment=176012)
 - [[MAR 06, 2021 | 1200-1600Z] Sea Shuttle: Ho Chi Minh - Hong Kong](https://forums.vatsim.net/topic/30819-mar-06-2021-1200-1600z-sea-shuttle-ho-chi-minh-hong-kong/?do=findComment&comment=176011)
-- [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176010)
-- [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176009)
-- [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176008)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
