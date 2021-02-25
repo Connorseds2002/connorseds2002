@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176004)
 - [Departure from JFK](https://forums.vatsim.net/topic/30814-departure-from-jfk/?do=findComment&comment=176003)
 - [Private Simulator Sessions](https://forums.vatsim.net/topic/15857-private-simulator-sessions/?do=findComment&comment=176002)
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176001)
@@ -62,7 +63,6 @@
 - [[Sat Feb 27] Islands🏝 to Mountains🏔 Maldives🇲🇻-Zurich🇨🇭 with full staffing and enroute ATC](https://forums.vatsim.net/topic/30808-sat-feb-27-islands%F0%9F%8F%9D-to-mountains%F0%9F%8F%94-maldives%F0%9F%87%B2%F0%9F%87%BB-zurich%F0%9F%87%A8%F0%9F%87%AD-with-full-staffing-and-enroute-atc/?do=findComment&comment=175993)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175992)
 - [[Sat Feb 27] Islands🏝 to Mountains🏔 Maldives🇲🇻-Zurich🇨🇭 with full staffing and enroute ATC](https://forums.vatsim.net/topic/30808-sat-feb-27-islands%F0%9F%8F%9D-to-mountains%F0%9F%8F%94-maldives%F0%9F%87%B2%F0%9F%87%BB-zurich%F0%9F%87%A8%F0%9F%87%AD-with-full-staffing-and-enroute-atc/?do=findComment&comment=175991)
-- [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175990)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
