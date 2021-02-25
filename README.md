@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Known Issue: FPS Drop with MSFS](https://forums.vatsim.net/topic/28681-known-issue-fps-drop-with-msfs/?do=findComment&comment=176035)
+- [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176034)
 - [Updated Country Prefixes for tail numbers](https://forums.vatsim.net/topic/30726-updated-country-prefixes-for-tail-numbers/?do=findComment&comment=176033)
 - [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176032)
 - [Denver Center or Springs Traffic?](https://forums.vatsim.net/topic/30820-denver-center-or-springs-traffic/?do=findComment&comment=176031)
@@ -61,8 +63,6 @@
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176028)
 - [V PILOT PROBS](https://forums.vatsim.net/topic/29248-v-pilot-probs/?do=findComment&comment=176025)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176023)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176022)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176016)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
