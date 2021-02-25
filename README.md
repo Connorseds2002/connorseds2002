@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176036)
 - [Known Issue: FPS Drop with MSFS](https://forums.vatsim.net/topic/28681-known-issue-fps-drop-with-msfs/?do=findComment&comment=176035)
 - [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176034)
 - [Updated Country Prefixes for tail numbers](https://forums.vatsim.net/topic/30726-updated-country-prefixes-for-tail-numbers/?do=findComment&comment=176033)
@@ -62,7 +63,6 @@
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176029)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176028)
 - [V PILOT PROBS](https://forums.vatsim.net/topic/29248-v-pilot-probs/?do=findComment&comment=176025)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176023)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
