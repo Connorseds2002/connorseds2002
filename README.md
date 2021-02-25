@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[MAR 06, 2021 | 1200-1600Z] Sea Shuttle: Ho Chi Minh - Hong Kong](https://forums.vatsim.net/topic/30819-mar-06-2021-1200-1600z-sea-shuttle-ho-chi-minh-hong-kong/?do=findComment&comment=176011)
+- [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176010)
+- [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176009)
+- [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176008)
+- [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176007)
+- [Que escenario para SAEZ](https://forums.vatsim.net/topic/30004-que-escenario-para-saez/?do=findComment&comment=176006)
 - [xPilot issues with model matching](https://forums.vatsim.net/topic/30816-xpilot-issues-with-model-matching/?do=findComment&comment=176005)
 - [ATIS missing or inaudible](https://forums.vatsim.net/topic/30818-atis-missing-or-inaudible/?do=findComment&comment=176004)
 - [Departure from JFK](https://forums.vatsim.net/topic/30814-departure-from-jfk/?do=findComment&comment=176003)
 - [Private Simulator Sessions](https://forums.vatsim.net/topic/15857-private-simulator-sessions/?do=findComment&comment=176002)
-- [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176001)
-- [VatSpy startup error](https://forums.vatsim.net/topic/30772-vatspy-startup-error/?do=findComment&comment=175998)
-- [xPilot issues with model matching](https://forums.vatsim.net/topic/30816-xpilot-issues-with-model-matching/?do=findComment&comment=175997)
-- [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175996)
-- [[Sat Feb 27] Islands🏝 to Mountains🏔 Maldives🇲🇻-Zurich🇨🇭 with full staffing and enroute ATC](https://forums.vatsim.net/topic/30808-sat-feb-27-islands%F0%9F%8F%9D-to-mountains%F0%9F%8F%94-maldives%F0%9F%87%B2%F0%9F%87%BB-zurich%F0%9F%87%A8%F0%9F%87%AD-with-full-staffing-and-enroute-atc/?do=findComment&comment=175993)
-- [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=175992)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
