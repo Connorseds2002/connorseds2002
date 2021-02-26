@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Laravel login problem](https://forums.vatsim.net/topic/30812-laravel-login-problem/?do=findComment&comment=176058)
+- [Vacante: Asistente de Director de Eventos y RR.PP. de VATSUR](https://forums.vatsim.net/topic/30826-vacante-asistente-de-director-de-eventos-y-rrpp-de-vatsur/?do=findComment&comment=176057)
+- [Denver Center or Springs Traffic?](https://forums.vatsim.net/topic/30820-denver-center-or-springs-traffic/?do=findComment&comment=176056)
+- [Feature request: transmit on two freq at one time](https://forums.vatsim.net/topic/30656-feature-request-transmit-on-two-freq-at-one-time/?do=findComment&comment=176055)
 - [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176054)
 - [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176053)
 - [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176052)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176051)
 - [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176050)
 - [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176049)
-- [Ultimate Traffic & Active Sky & Setup](https://forums.vatsim.net/topic/30822-ultimate-traffic-active-sky-setup/?do=findComment&comment=176048)
-- [Ultimate Traffic & Active Sky & Setup](https://forums.vatsim.net/topic/30822-ultimate-traffic-active-sky-setup/?do=findComment&comment=176047)
-- [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176046)
-- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176045)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
