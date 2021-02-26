@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176050)
+- [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176049)
 - [Ultimate Traffic & Active Sky & Setup](https://forums.vatsim.net/topic/30822-ultimate-traffic-active-sky-setup/?do=findComment&comment=176048)
 - [Ultimate Traffic & Active Sky & Setup](https://forums.vatsim.net/topic/30822-ultimate-traffic-active-sky-setup/?do=findComment&comment=176047)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176046)
@@ -61,8 +63,6 @@
 - [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176043)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176042)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176041)
-- [Denver Center or Springs Traffic?](https://forums.vatsim.net/topic/30820-denver-center-or-springs-traffic/?do=findComment&comment=176040)
-- [Weekly events on Vatsim.net > Members > event](https://forums.vatsim.net/topic/30823-weekly-events-on-vatsimnet-members-event/?do=findComment&comment=176039)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
