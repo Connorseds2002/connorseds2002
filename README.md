@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176068)
+- [[March 20th 11:00z-17:00z] Salam Tel Aviv](https://forums.vatsim.net/topic/30832-march-20th-1100z-1700z-salam-tel-aviv/?do=findComment&comment=176067)
 - [Connecting to other countries VATSIM network](https://forums.vatsim.net/topic/30831-connecting-to-other-countries-vatsim-network/?do=findComment&comment=176066)
 - [Connecting to other countries VATSIM network](https://forums.vatsim.net/topic/30831-connecting-to-other-countries-vatsim-network/?do=findComment&comment=176065)
 - [Callsign Issue](https://forums.vatsim.net/topic/30827-callsign-issue/?do=findComment&comment=176064)
@@ -61,8 +63,6 @@
 - [ATC & Simulator Volume](https://forums.vatsim.net/topic/30828-atc-simulator-volume/?do=findComment&comment=176061)
 - [Callsign Issue](https://forums.vatsim.net/topic/30827-callsign-issue/?do=findComment&comment=176060)
 - [Callsign Issue](https://forums.vatsim.net/topic/30827-callsign-issue/?do=findComment&comment=176059)
-- [Laravel login problem](https://forums.vatsim.net/topic/30812-laravel-login-problem/?do=findComment&comment=176058)
-- [Vacante: Asistente de Director de Eventos y RR.PP. de VATSUR](https://forums.vatsim.net/topic/30826-vacante-asistente-de-director-de-eventos-y-rrpp-de-vatsur/?do=findComment&comment=176057)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
