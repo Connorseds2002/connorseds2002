@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [From Unicom to Center](https://forums.vatsim.net/topic/30830-from-unicom-to-center/?do=findComment&comment=176069)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176068)
 - [[March 20th 11:00z-17:00z] Salam Tel Aviv](https://forums.vatsim.net/topic/30832-march-20th-1100z-1700z-salam-tel-aviv/?do=findComment&comment=176067)
 - [Connecting to other countries VATSIM network](https://forums.vatsim.net/topic/30831-connecting-to-other-countries-vatsim-network/?do=findComment&comment=176066)
@@ -62,7 +63,6 @@
 - [Default Livery / Aircraft / Modelmatching](https://forums.vatsim.net/topic/30829-default-livery-aircraft-modelmatching/?do=findComment&comment=176062)
 - [ATC & Simulator Volume](https://forums.vatsim.net/topic/30828-atc-simulator-volume/?do=findComment&comment=176061)
 - [Callsign Issue](https://forums.vatsim.net/topic/30827-callsign-issue/?do=findComment&comment=176060)
-- [Callsign Issue](https://forums.vatsim.net/topic/30827-callsign-issue/?do=findComment&comment=176059)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
