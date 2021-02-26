@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176044)
+- [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176043)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176042)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176041)
 - [Denver Center or Springs Traffic?](https://forums.vatsim.net/topic/30820-denver-center-or-springs-traffic/?do=findComment&comment=176040)
@@ -61,8 +63,6 @@
 - [Ultimate Traffic & Active Sky & Setup](https://forums.vatsim.net/topic/30822-ultimate-traffic-active-sky-setup/?do=findComment&comment=176037)
 - [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176036)
 - [Known Issue: FPS Drop with MSFS](https://forums.vatsim.net/topic/28681-known-issue-fps-drop-with-msfs/?do=findComment&comment=176035)
-- [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176034)
-- [Updated Country Prefixes for tail numbers](https://forums.vatsim.net/topic/30726-updated-country-prefixes-for-tail-numbers/?do=findComment&comment=176033)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
