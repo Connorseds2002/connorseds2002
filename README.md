@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ultimate Traffic & Active Sky & Setup](https://forums.vatsim.net/topic/30822-ultimate-traffic-active-sky-setup/?do=findComment&comment=176047)
+- [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176046)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176045)
 - [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176044)
 - [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176043)
@@ -61,8 +63,6 @@
 - [Denver Center or Springs Traffic?](https://forums.vatsim.net/topic/30820-denver-center-or-springs-traffic/?do=findComment&comment=176040)
 - [Weekly events on Vatsim.net > Members > event](https://forums.vatsim.net/topic/30823-weekly-events-on-vatsimnet-members-event/?do=findComment&comment=176039)
 - [Weekly events on Vatsim.net > Members > event](https://forums.vatsim.net/topic/30823-weekly-events-on-vatsimnet-members-event/?do=findComment&comment=176038)
-- [Ultimate Traffic & Active Sky & Setup](https://forums.vatsim.net/topic/30822-ultimate-traffic-active-sky-setup/?do=findComment&comment=176037)
-- [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176036)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
