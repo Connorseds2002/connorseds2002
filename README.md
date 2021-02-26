@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Callsign Issue](https://forums.vatsim.net/topic/30827-callsign-issue/?do=findComment&comment=176060)
+- [Callsign Issue](https://forums.vatsim.net/topic/30827-callsign-issue/?do=findComment&comment=176059)
 - [Laravel login problem](https://forums.vatsim.net/topic/30812-laravel-login-problem/?do=findComment&comment=176058)
 - [Vacante: Asistente de Director de Eventos y RR.PP. de VATSUR](https://forums.vatsim.net/topic/30826-vacante-asistente-de-director-de-eventos-y-rrpp-de-vatsur/?do=findComment&comment=176057)
 - [Denver Center or Springs Traffic?](https://forums.vatsim.net/topic/30820-denver-center-or-springs-traffic/?do=findComment&comment=176056)
@@ -61,8 +63,6 @@
 - [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176053)
 - [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176052)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176051)
-- [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176050)
-- [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176049)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
