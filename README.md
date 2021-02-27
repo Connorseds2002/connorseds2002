@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Help for VA'S](https://forums.vatsim.net/topic/30837-help-for-vas/?do=findComment&comment=176092)
 - [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176091)
 - [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=176090)
 - [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=176089)
@@ -62,7 +63,6 @@
 - [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176085)
 - [Thank you!](https://forums.vatsim.net/topic/30833-thank-you/?do=findComment&comment=176084)
 - [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176083)
-- [Known Issue: FPS Drop with MSFS](https://forums.vatsim.net/topic/28681-known-issue-fps-drop-with-msfs/?do=findComment&comment=176082)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
