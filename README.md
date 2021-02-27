@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=176089)
+- [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176088)
+- [Known Issue: FPS Drop with MSFS](https://forums.vatsim.net/topic/28681-known-issue-fps-drop-with-msfs/?do=findComment&comment=176087)
+- [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176086)
 - [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176085)
 - [Thank you!](https://forums.vatsim.net/topic/30833-thank-you/?do=findComment&comment=176084)
 - [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176083)
 - [Known Issue: FPS Drop with MSFS](https://forums.vatsim.net/topic/28681-known-issue-fps-drop-with-msfs/?do=findComment&comment=176082)
 - [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176081)
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176080)
-- [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176079)
-- [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176078)
-- [Feature request: transmit on two freq at one time](https://forums.vatsim.net/topic/30656-feature-request-transmit-on-two-freq-at-one-time/?do=findComment&comment=176077)
-- [Huge Altitude Discrepancy?](https://forums.vatsim.net/topic/30835-huge-altitude-discrepancy/?do=findComment&comment=176076)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
