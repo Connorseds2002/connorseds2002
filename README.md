@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Bug reporting topic: Invisible planes in MSFS](https://forums.vatsim.net/topic/29439-bug-reporting-topic-invisible-planes-in-msfs/?do=findComment&comment=176073)
+- [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=176072)
 - [From Unicom to Center](https://forums.vatsim.net/topic/30830-from-unicom-to-center/?do=findComment&comment=176071)
 - [Thank you!](https://forums.vatsim.net/topic/30833-thank-you/?do=findComment&comment=176070)
 - [From Unicom to Center](https://forums.vatsim.net/topic/30830-from-unicom-to-center/?do=findComment&comment=176069)
@@ -61,8 +63,6 @@
 - [Connecting to other countries VATSIM network](https://forums.vatsim.net/topic/30831-connecting-to-other-countries-vatsim-network/?do=findComment&comment=176066)
 - [Connecting to other countries VATSIM network](https://forums.vatsim.net/topic/30831-connecting-to-other-countries-vatsim-network/?do=findComment&comment=176065)
 - [Callsign Issue](https://forums.vatsim.net/topic/30827-callsign-issue/?do=findComment&comment=176064)
-- [From Unicom to Center](https://forums.vatsim.net/topic/30830-from-unicom-to-center/?do=findComment&comment=176063)
-- [Default Livery / Aircraft / Modelmatching](https://forums.vatsim.net/topic/30829-default-livery-aircraft-modelmatching/?do=findComment&comment=176062)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
