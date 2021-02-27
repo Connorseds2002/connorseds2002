@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176074)
 - [Bug reporting topic: Invisible planes in MSFS](https://forums.vatsim.net/topic/29439-bug-reporting-topic-invisible-planes-in-msfs/?do=findComment&comment=176073)
 - [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=176072)
 - [From Unicom to Center](https://forums.vatsim.net/topic/30830-from-unicom-to-center/?do=findComment&comment=176071)
@@ -62,7 +63,6 @@
 - [[March 20th 11:00z-17:00z] Salam Tel Aviv](https://forums.vatsim.net/topic/30832-march-20th-1100z-1700z-salam-tel-aviv/?do=findComment&comment=176067)
 - [Connecting to other countries VATSIM network](https://forums.vatsim.net/topic/30831-connecting-to-other-countries-vatsim-network/?do=findComment&comment=176066)
 - [Connecting to other countries VATSIM network](https://forums.vatsim.net/topic/30831-connecting-to-other-countries-vatsim-network/?do=findComment&comment=176065)
-- [Callsign Issue](https://forums.vatsim.net/topic/30827-callsign-issue/?do=findComment&comment=176064)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
