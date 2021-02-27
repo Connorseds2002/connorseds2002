@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176081)
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176080)
 - [Local Procedures](https://forums.vatsim.net/topic/30825-local-procedures/?do=findComment&comment=176079)
 - [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176078)
@@ -62,7 +63,6 @@
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176074)
 - [Bug reporting topic: Invisible planes in MSFS](https://forums.vatsim.net/topic/29439-bug-reporting-topic-invisible-planes-in-msfs/?do=findComment&comment=176073)
 - [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=176072)
-- [From Unicom to Center](https://forums.vatsim.net/topic/30830-from-unicom-to-center/?do=findComment&comment=176071)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
