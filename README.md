@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature request: transmit on two freq at one time](https://forums.vatsim.net/topic/30656-feature-request-transmit-on-two-freq-at-one-time/?do=findComment&comment=176077)
 - [Huge Altitude Discrepancy?](https://forums.vatsim.net/topic/30835-huge-altitude-discrepancy/?do=findComment&comment=176076)
 - [Iterate through flight plans](https://forums.vatsim.net/topic/30834-iterate-through-flight-plans/?do=findComment&comment=176075)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176074)
@@ -62,7 +63,6 @@
 - [Thank you!](https://forums.vatsim.net/topic/30833-thank-you/?do=findComment&comment=176070)
 - [From Unicom to Center](https://forums.vatsim.net/topic/30830-from-unicom-to-center/?do=findComment&comment=176069)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176068)
-- [[March 20th 11:00z-17:00z] Salam Tel Aviv](https://forums.vatsim.net/topic/30832-march-20th-1100z-1700z-salam-tel-aviv/?do=findComment&comment=176067)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
