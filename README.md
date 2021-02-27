@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FLAI replacement suggestion for P3Dv5?](https://forums.vatsim.net/topic/30839-flai-replacement-suggestion-for-p3dv5/?do=findComment&comment=176100)
+- [FLAI replacement suggestion for P3Dv5?](https://forums.vatsim.net/topic/30839-flai-replacement-suggestion-for-p3dv5/?do=findComment&comment=176099)
 - [I don't know what to do.](https://forums.vatsim.net/topic/30838-i-dont-know-what-to-do/?do=findComment&comment=176098)
 - [I don't know what to do.](https://forums.vatsim.net/topic/30838-i-dont-know-what-to-do/?do=findComment&comment=176097)
 - [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176096)
@@ -61,8 +63,6 @@
 - [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176091)
 - [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=176090)
 - [Invalid CID / Password](https://forums.vatsim.net/topic/30755-invalid-cid-password/?do=findComment&comment=176089)
-- [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176088)
-- [Known Issue: FPS Drop with MSFS](https://forums.vatsim.net/topic/28681-known-issue-fps-drop-with-msfs/?do=findComment&comment=176087)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
