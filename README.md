@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Huge Altitude Discrepancy?](https://forums.vatsim.net/topic/30835-huge-altitude-discrepancy/?do=findComment&comment=176076)
 - [Iterate through flight plans](https://forums.vatsim.net/topic/30834-iterate-through-flight-plans/?do=findComment&comment=176075)
 - [Is it time to abandon /t?](https://forums.vatsim.net/topic/30632-is-it-time-to-abandon-t/?do=findComment&comment=176074)
 - [Bug reporting topic: Invisible planes in MSFS](https://forums.vatsim.net/topic/29439-bug-reporting-topic-invisible-planes-in-msfs/?do=findComment&comment=176073)
@@ -62,7 +63,6 @@
 - [From Unicom to Center](https://forums.vatsim.net/topic/30830-from-unicom-to-center/?do=findComment&comment=176069)
 - [Doing a Mayday call](https://forums.vatsim.net/topic/30813-doing-a-mayday-call/?do=findComment&comment=176068)
 - [[March 20th 11:00z-17:00z] Salam Tel Aviv](https://forums.vatsim.net/topic/30832-march-20th-1100z-1700z-salam-tel-aviv/?do=findComment&comment=176067)
-- [Connecting to other countries VATSIM network](https://forums.vatsim.net/topic/30831-connecting-to-other-countries-vatsim-network/?do=findComment&comment=176066)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
