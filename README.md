@@ -62,7 +62,7 @@
 - [Known Issue: FPS Drop with MSFS](https://forums.vatsim.net/topic/28681-known-issue-fps-drop-with-msfs/?do=findComment&comment=176087)
 - [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176086)
 - [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176085)
-- [Thank you!](https://forums.vatsim.net/topic/30833-thank-you/?do=findComment&comment=176084)
+- [how to get post landing taxi/parking instructions?](https://forums.vatsim.net/topic/30836-how-to-get-post-landing-taxiparking-instructions/?do=findComment&comment=176083)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
