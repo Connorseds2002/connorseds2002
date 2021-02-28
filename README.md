@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176122)
+- [wish: add aircraft type column to the pilot list views](https://forums.vatsim.net/topic/30019-wish-add-aircraft-type-column-to-the-pilot-list-views/?do=findComment&comment=176121)
+- [Missing Aircraft (Ground Movement)](https://forums.vatsim.net/topic/30845-missing-aircraft-ground-movement/?do=findComment&comment=176120)
+- [Event: Vizag Rush: India vACC](https://forums.vatsim.net/topic/30844-event-vizag-rush-india-vacc/?do=findComment&comment=176119)
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176118)
 - [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176117)
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176116)
 - [Friday Night Live: 05-03-2021: Fly IN/OUT of Delhi(VIDP)](https://forums.vatsim.net/topic/30843-friday-night-live-05-03-2021-fly-inout-of-delhividp/?do=findComment&comment=176115)
 - [Mic issue with Audio for Vatsim, xPilot, and vPilot](https://forums.vatsim.net/topic/30842-mic-issue-with-audio-for-vatsim-xpilot-and-vpilot/?do=findComment&comment=176114)
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=176113)
-- [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=176112)
-- [I don't know what to do.](https://forums.vatsim.net/topic/30838-i-dont-know-what-to-do/?do=findComment&comment=176111)
-- [vPilot Download Not Working](https://forums.vatsim.net/topic/30840-vpilot-download-not-working/?do=findComment&comment=176110)
-- [wish: add aircraft type column to the pilot list views](https://forums.vatsim.net/topic/30019-wish-add-aircraft-type-column-to-the-pilot-list-views/?do=findComment&comment=176109)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
