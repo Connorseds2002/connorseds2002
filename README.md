@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176118)
 - [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176117)
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176116)
 - [Friday Night Live: 05-03-2021: Fly IN/OUT of Delhi(VIDP)](https://forums.vatsim.net/topic/30843-friday-night-live-05-03-2021-fly-inout-of-delhividp/?do=findComment&comment=176115)
@@ -62,7 +63,6 @@
 - [I don't know what to do.](https://forums.vatsim.net/topic/30838-i-dont-know-what-to-do/?do=findComment&comment=176111)
 - [vPilot Download Not Working](https://forums.vatsim.net/topic/30840-vpilot-download-not-working/?do=findComment&comment=176110)
 - [wish: add aircraft type column to the pilot list views](https://forums.vatsim.net/topic/30019-wish-add-aircraft-type-column-to-the-pilot-list-views/?do=findComment&comment=176109)
-- [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176108)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
