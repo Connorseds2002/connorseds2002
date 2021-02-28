@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy small FIR update for LBSR](https://forums.vatsim.net/topic/30847-vat-spy-small-fir-update-for-lbsr/?do=findComment&comment=176131)
+- [VAT-Spy small FIR update for LBSR](https://forums.vatsim.net/topic/30847-vat-spy-small-fir-update-for-lbsr/?do=findComment&comment=176130)
+- [VAT-Spy small FIR update for LBSR](https://forums.vatsim.net/topic/30847-vat-spy-small-fir-update-for-lbsr/?do=findComment&comment=176129)
 - [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176128)
 - [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176127)
 - [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=176126)
@@ -60,9 +63,6 @@
 - [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=176124)
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176122)
 - [wish: add aircraft type column to the pilot list views](https://forums.vatsim.net/topic/30019-wish-add-aircraft-type-column-to-the-pilot-list-views/?do=findComment&comment=176121)
-- [Missing Aircraft (Ground Movement)](https://forums.vatsim.net/topic/30845-missing-aircraft-ground-movement/?do=findComment&comment=176120)
-- [Event: Vizag Rush: India vACC](https://forums.vatsim.net/topic/30844-event-vizag-rush-india-vacc/?do=findComment&comment=176119)
-- [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176118)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
