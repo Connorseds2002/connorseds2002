@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=176112)
 - [I don't know what to do.](https://forums.vatsim.net/topic/30838-i-dont-know-what-to-do/?do=findComment&comment=176111)
 - [vPilot Download Not Working](https://forums.vatsim.net/topic/30840-vpilot-download-not-working/?do=findComment&comment=176110)
 - [wish: add aircraft type column to the pilot list views](https://forums.vatsim.net/topic/30019-wish-add-aircraft-type-column-to-the-pilot-list-views/?do=findComment&comment=176109)
@@ -62,7 +63,6 @@
 - [VAT-Spy version 1.2.0-beta.1 available for download](https://forums.vatsim.net/topic/30841-vat-spy-version-120-beta1-available-for-download/?do=findComment&comment=176105)
 - [vPilot Download Not Working](https://forums.vatsim.net/topic/30840-vpilot-download-not-working/?do=findComment&comment=176104)
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176103)
-- [FLAI replacement suggestion for P3Dv5?](https://forums.vatsim.net/topic/30839-flai-replacement-suggestion-for-p3dv5/?do=findComment&comment=176102)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
