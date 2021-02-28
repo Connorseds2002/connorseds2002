@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30851-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=176143)
+- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30851-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=176142)
 - [[ACCIND4] India vACC Membership Director Vacancy](https://forums.vatsim.net/topic/30616-accind4-india-vacc-membership-director-vacancy/?do=findComment&comment=176141)
 - [Dll file fail to load on other Controller's Euroscope?](https://forums.vatsim.net/topic/30850-dll-file-fail-to-load-on-other-controllers-euroscope/?do=findComment&comment=176140)
 - [PID/CID suspended upon login](https://forums.vatsim.net/topic/30848-pidcid-suspended-upon-login/?do=findComment&comment=176139)
@@ -61,8 +63,6 @@
 - [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176136)
 - [Activesky Unable To Download VATSIM metars](https://forums.vatsim.net/topic/28610-activesky-unable-to-download-vatsim-metars/?do=findComment&comment=176135)
 - [PID/CID suspended upon login](https://forums.vatsim.net/topic/30848-pidcid-suspended-upon-login/?do=findComment&comment=176134)
-- [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176133)
-- [PID/CID suspended upon login](https://forums.vatsim.net/topic/30848-pidcid-suspended-upon-login/?do=findComment&comment=176132)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
