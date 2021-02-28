@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176127)
 - [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=176126)
 - [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=176125)
 - [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=176124)
@@ -62,7 +63,6 @@
 - [Event: Vizag Rush: India vACC](https://forums.vatsim.net/topic/30844-event-vizag-rush-india-vacc/?do=findComment&comment=176119)
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176118)
 - [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176117)
-- [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176116)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
