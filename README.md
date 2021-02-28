@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Friday Night Live: 05-03-2021: Fly IN/OUT of Delhi(VIDP)](https://forums.vatsim.net/topic/30843-friday-night-live-05-03-2021-fly-inout-of-delhividp/?do=findComment&comment=176115)
 - [Mic issue with Audio for Vatsim, xPilot, and vPilot](https://forums.vatsim.net/topic/30842-mic-issue-with-audio-for-vatsim-xpilot-and-vpilot/?do=findComment&comment=176114)
 - [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=176113)
 - [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=176112)
@@ -62,7 +63,6 @@
 - [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176108)
 - [VatSpy startup error](https://forums.vatsim.net/topic/30772-vatspy-startup-error/?do=findComment&comment=176107)
 - [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=176106)
-- [VAT-Spy version 1.2.0-beta.1 available for download](https://forums.vatsim.net/topic/30841-vat-spy-version-120-beta1-available-for-download/?do=findComment&comment=176105)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
