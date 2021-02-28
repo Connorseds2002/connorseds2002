@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Mic issue with Audio for Vatsim, xPilot, and vPilot](https://forums.vatsim.net/topic/30842-mic-issue-with-audio-for-vatsim-xpilot-and-vpilot/?do=findComment&comment=176114)
+- [MSFS good enough yet?](https://forums.vatsim.net/topic/30074-msfs-good-enough-yet/?do=findComment&comment=176113)
 - [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=176112)
 - [I don't know what to do.](https://forums.vatsim.net/topic/30838-i-dont-know-what-to-do/?do=findComment&comment=176111)
 - [vPilot Download Not Working](https://forums.vatsim.net/topic/30840-vpilot-download-not-working/?do=findComment&comment=176110)
@@ -61,8 +63,6 @@
 - [VatSpy startup error](https://forums.vatsim.net/topic/30772-vatspy-startup-error/?do=findComment&comment=176107)
 - [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=176106)
 - [VAT-Spy version 1.2.0-beta.1 available for download](https://forums.vatsim.net/topic/30841-vat-spy-version-120-beta1-available-for-download/?do=findComment&comment=176105)
-- [vPilot Download Not Working](https://forums.vatsim.net/topic/30840-vpilot-download-not-working/?do=findComment&comment=176104)
-- [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176103)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
