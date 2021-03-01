@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176155)
 - [India vACC Events and Marketing Director Vacancy](https://forums.vatsim.net/topic/30853-india-vacc-events-and-marketing-director-vacancy/?do=findComment&comment=176154)
 - [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176153)
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176152)
@@ -62,7 +63,6 @@
 - [[Official VA Partner] SUR Air (Argentina)](https://forums.vatsim.net/topic/30852-official-va-partner-sur-air-argentina/?do=findComment&comment=176148)
 - [I don't know what to do.](https://forums.vatsim.net/topic/30838-i-dont-know-what-to-do/?do=findComment&comment=176147)
 - [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176146)
-- [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176145)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
