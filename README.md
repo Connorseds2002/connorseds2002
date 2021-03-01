@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176167)
+- [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176166)
+- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176165)
+- [Is a VFR flight plan required?](https://forums.vatsim.net/topic/30855-is-a-vfr-flight-plan-required/?do=findComment&comment=176164)
+- [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176163)
 - [Is a VFR flight plan required?](https://forums.vatsim.net/topic/30855-is-a-vfr-flight-plan-required/?do=findComment&comment=176162)
 - [Is a VFR flight plan required?](https://forums.vatsim.net/topic/30855-is-a-vfr-flight-plan-required/?do=findComment&comment=176161)
 - [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176160)
 - [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176159)
 - [A new Target Generator is coming!](https://forums.vatsim.net/topic/14355-a-new-target-generator-is-coming/?do=findComment&comment=176158)
-- [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176157)
-- [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176156)
-- [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176155)
-- [India vACC Events and Marketing Director Vacancy](https://forums.vatsim.net/topic/30853-india-vacc-events-and-marketing-director-vacancy/?do=findComment&comment=176154)
-- [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176153)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
