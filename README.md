@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [A new Target Generator is coming!](https://forums.vatsim.net/topic/14355-a-new-target-generator-is-coming/?do=findComment&comment=176158)
+- [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176157)
 - [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176156)
 - [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176155)
 - [India vACC Events and Marketing Director Vacancy](https://forums.vatsim.net/topic/30853-india-vacc-events-and-marketing-director-vacancy/?do=findComment&comment=176154)
@@ -61,8 +63,6 @@
 - [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176151)
 - [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176150)
 - [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30851-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=176149)
-- [[Official VA Partner] SUR Air (Argentina)](https://forums.vatsim.net/topic/30852-official-va-partner-sur-air-argentina/?do=findComment&comment=176148)
-- [I don't know what to do.](https://forums.vatsim.net/topic/30838-i-dont-know-what-to-do/?do=findComment&comment=176147)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
