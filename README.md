@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176150)
+- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30851-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=176149)
+- [[Official VA Partner] SUR Air (Argentina)](https://forums.vatsim.net/topic/30852-official-va-partner-sur-air-argentina/?do=findComment&comment=176148)
 - [I don't know what to do.](https://forums.vatsim.net/topic/30838-i-dont-know-what-to-do/?do=findComment&comment=176147)
 - [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176146)
 - [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176145)
@@ -60,9 +63,6 @@
 - [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30851-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=176143)
 - [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30851-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=176142)
 - [[ACCIND4] India vACC Membership Director Vacancy](https://forums.vatsim.net/topic/30616-accind4-india-vacc-membership-director-vacancy/?do=findComment&comment=176141)
-- [Dll file fail to load on other Controller's Euroscope?](https://forums.vatsim.net/topic/30850-dll-file-fail-to-load-on-other-controllers-euroscope/?do=findComment&comment=176140)
-- [PID/CID suspended upon login](https://forums.vatsim.net/topic/30848-pidcid-suspended-upon-login/?do=findComment&comment=176139)
-- [Missing Aircraft (Ground Movement)](https://forums.vatsim.net/topic/30845-missing-aircraft-ground-movement/?do=findComment&comment=176138)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
