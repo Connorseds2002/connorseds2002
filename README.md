@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is a VFR flight plan required?](https://forums.vatsim.net/topic/30855-is-a-vfr-flight-plan-required/?do=findComment&comment=176162)
 - [Is a VFR flight plan required?](https://forums.vatsim.net/topic/30855-is-a-vfr-flight-plan-required/?do=findComment&comment=176161)
 - [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176160)
 - [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176159)
@@ -62,7 +63,6 @@
 - [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176155)
 - [India vACC Events and Marketing Director Vacancy](https://forums.vatsim.net/topic/30853-india-vacc-events-and-marketing-director-vacancy/?do=findComment&comment=176154)
 - [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176153)
-- [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176152)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
