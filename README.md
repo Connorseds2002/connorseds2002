@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176159)
 - [A new Target Generator is coming!](https://forums.vatsim.net/topic/14355-a-new-target-generator-is-coming/?do=findComment&comment=176158)
 - [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176157)
 - [Output vpilot text to file](https://forums.vatsim.net/topic/30824-output-vpilot-text-to-file/?do=findComment&comment=176156)
@@ -62,7 +63,6 @@
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176152)
 - [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176151)
 - [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176150)
-- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30851-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=176149)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
