@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [India vACC Events and Marketing Director Vacancy](https://forums.vatsim.net/topic/30853-india-vacc-events-and-marketing-director-vacancy/?do=findComment&comment=176154)
 - [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176153)
 - [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176152)
 - [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176151)
@@ -62,7 +63,6 @@
 - [I don't know what to do.](https://forums.vatsim.net/topic/30838-i-dont-know-what-to-do/?do=findComment&comment=176147)
 - [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176146)
 - [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176145)
-- [Dll file fail to load on other Controller's Euroscope?](https://forums.vatsim.net/topic/30850-dll-file-fail-to-load-on-other-controllers-euroscope/?do=findComment&comment=176144)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
