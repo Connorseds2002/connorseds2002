@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176153)
+- [Unable to hear audio when using AFV, and pilot clients.](https://forums.vatsim.net/topic/30817-unable-to-hear-audio-when-using-afv-and-pilot-clients/?do=findComment&comment=176152)
+- [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176151)
 - [Can't connect](https://forums.vatsim.net/topic/30849-cant-connect/?do=findComment&comment=176150)
 - [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30851-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=176149)
 - [[Official VA Partner] SUR Air (Argentina)](https://forums.vatsim.net/topic/30852-official-va-partner-sur-air-argentina/?do=findComment&comment=176148)
@@ -60,9 +63,6 @@
 - [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176146)
 - [Clarity needed for when only center is on](https://forums.vatsim.net/topic/30821-clarity-needed-for-when-only-center-is-on/?do=findComment&comment=176145)
 - [Dll file fail to load on other Controller's Euroscope?](https://forums.vatsim.net/topic/30850-dll-file-fail-to-load-on-other-controllers-euroscope/?do=findComment&comment=176144)
-- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30851-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=176143)
-- [Appointment of ACCIND4- India vACC Membership Director](https://forums.vatsim.net/topic/30851-appointment-of-accind4-india-vacc-membership-director/?do=findComment&comment=176142)
-- [[ACCIND4] India vACC Membership Director Vacancy](https://forums.vatsim.net/topic/30616-accind4-india-vacc-membership-director-vacancy/?do=findComment&comment=176141)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
