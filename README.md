@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176179)
+- [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176178)
 - [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176177)
 - [[VAA Program] vspirit (USA)](https://forums.vatsim.net/topic/30860-vaa-program-vspirit-usa/?do=findComment&comment=176176)
 - [Is a VFR flight plan required?](https://forums.vatsim.net/topic/30855-is-a-vfr-flight-plan-required/?do=findComment&comment=176175)
@@ -61,8 +63,6 @@
 - [ATC can hear me but i cannot recieve any voice](https://forums.vatsim.net/topic/30857-atc-can-hear-me-but-i-cannot-recieve-any-voice/?do=findComment&comment=176171)
 - [Is a VFR flight plan required?](https://forums.vatsim.net/topic/30855-is-a-vfr-flight-plan-required/?do=findComment&comment=176169)
 - [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176167)
-- [New Member Orientation Exam not registering.](https://forums.vatsim.net/topic/30854-new-member-orientation-exam-not-registering/?do=findComment&comment=176166)
-- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176165)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
