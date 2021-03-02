@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176182)
 - [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=176181)
 - [Is a VFR flight plan required?](https://forums.vatsim.net/topic/30855-is-a-vfr-flight-plan-required/?do=findComment&comment=176180)
 - [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176179)
@@ -62,7 +63,6 @@
 - [Is a VFR flight plan required?](https://forums.vatsim.net/topic/30855-is-a-vfr-flight-plan-required/?do=findComment&comment=176175)
 - [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=176174)
 - [xpilot in x-plane disconnect from server](https://forums.vatsim.net/topic/30858-xpilot-in-x-plane-disconnect-from-server/?do=findComment&comment=176173)
-- [ATC can hear me but i cannot recieve any voice](https://forums.vatsim.net/topic/30857-atc-can-hear-me-but-i-cannot-recieve-any-voice/?do=findComment&comment=176171)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
