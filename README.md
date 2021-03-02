@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Bhalo Bashi Kolkata City Link](https://forums.vatsim.net/topic/30865-bhalo-bashi-kolkata-city-link/?do=findComment&comment=176196)
+- [Bhalo Bashi Kolkata City Link](https://forums.vatsim.net/topic/30864-bhalo-bashi-kolkata-city-link/?do=findComment&comment=176195)
+- [Bhalo Bashi Kolkata City Link](https://forums.vatsim.net/topic/30863-bhalo-bashi-kolkata-city-link/?do=findComment&comment=176194)
 - [Vpilot 2.8.1 kills my FPS](https://forums.vatsim.net/topic/30862-vpilot-281-kills-my-fps/?do=findComment&comment=176193)
 - [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=176192)
 - [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=176191)
@@ -60,9 +63,6 @@
 - [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176189)
 - [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176188)
 - [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176187)
-- [VAT-spy feature request: customize mouse button controls](https://forums.vatsim.net/topic/29976-vat-spy-feature-request-customize-mouse-button-controls/?do=findComment&comment=176186)
-- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176185)
-- [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=176184)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
