@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Infill Assistance](https://forums.vatsim.net/topic/30872-infill-assistance/?do=findComment&comment=176224)
+- [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176223)
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176222)
 - [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176221)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176220)
 - [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176219)
@@ -60,9 +63,6 @@
 - [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176217)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176216)
 - [Incorrect Password/CID](https://forums.vatsim.net/topic/30866-incorrect-passwordcid/?do=findComment&comment=176215)
-- [SimConnect Error: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/15739-simconnect-error-version_mismatch-5/?do=findComment&comment=176214)
-- [Infill Assistance](https://forums.vatsim.net/topic/30872-infill-assistance/?do=findComment&comment=176213)
-- [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=176212)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
