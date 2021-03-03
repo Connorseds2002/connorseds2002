@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Canadian Xpress March 2021 Monthly Challenge: Scenic Approaches V - Bora Bora](https://forums.vatsim.net/topic/30868-canadian-xpress-march-2021-monthly-challenge-scenic-approaches-v-bora-bora/?do=findComment&comment=176201)
 - [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=176200)
 - [xpilot in x-plane disconnect from server](https://forums.vatsim.net/topic/30867-xpilot-in-x-plane-disconnect-from-server/?do=findComment&comment=176199)
 - [Incorrect Password/CID](https://forums.vatsim.net/topic/30866-incorrect-passwordcid/?do=findComment&comment=176198)
@@ -62,7 +63,6 @@
 - [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=176191)
 - [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=176190)
 - [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176189)
-- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176188)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
