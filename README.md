@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [We Are ACCSAF](https://forums.vatsim.net/topic/29626-we-are-accsaf/?do=findComment&comment=176208)
+- [We Are ACCSAF](https://forums.vatsim.net/topic/29626-we-are-accsaf/?do=findComment&comment=176207)
 - [Welcome to EuroExpress Virtual](https://forums.vatsim.net/topic/30871-welcome-to-euroexpress-virtual/?do=findComment&comment=176206)
 - [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=176204)
 - [RegioAir - Fly where you want. Fly what you want.](https://forums.vatsim.net/topic/30869-regioair-fly-where-you-want-fly-what-you-want/?do=findComment&comment=176203)
@@ -61,8 +63,6 @@
 - [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=176200)
 - [xpilot in x-plane disconnect from server](https://forums.vatsim.net/topic/30867-xpilot-in-x-plane-disconnect-from-server/?do=findComment&comment=176199)
 - [Incorrect Password/CID](https://forums.vatsim.net/topic/30866-incorrect-passwordcid/?do=findComment&comment=176198)
-- [Bhalo Bashi Kolkata City Link](https://forums.vatsim.net/topic/30863-bhalo-bashi-kolkata-city-link/?do=findComment&comment=176194)
-- [Vpilot 2.8.1 kills my FPS](https://forums.vatsim.net/topic/30862-vpilot-281-kills-my-fps/?do=findComment&comment=176193)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
