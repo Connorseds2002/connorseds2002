@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176221)
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176220)
 - [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176219)
 - [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176218)
 - [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176217)
@@ -61,8 +63,6 @@
 - [SimConnect Error: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/15739-simconnect-error-version_mismatch-5/?do=findComment&comment=176214)
 - [Infill Assistance](https://forums.vatsim.net/topic/30872-infill-assistance/?do=findComment&comment=176213)
 - [Microsoft Flight Simulator X: Steam Edition](https://forums.vatsim.net/topic/30524-microsoft-flight-simulator-x-steam-edition/?do=findComment&comment=176212)
-- [SimConnect Error: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/15739-simconnect-error-version_mismatch-5/?do=findComment&comment=176211)
-- [SimConnect Error: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/15739-simconnect-error-version_mismatch-5/?do=findComment&comment=176210)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
