@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SimConnect Error: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/15739-simconnect-error-version_mismatch-5/?do=findComment&comment=176211)
+- [SimConnect Error: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/15739-simconnect-error-version_mismatch-5/?do=findComment&comment=176210)
+- [SimConnect Error: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/15739-simconnect-error-version_mismatch-5/?do=findComment&comment=176209)
 - [We Are ACCSAF](https://forums.vatsim.net/topic/29626-we-are-accsaf/?do=findComment&comment=176208)
 - [We Are ACCSAF](https://forums.vatsim.net/topic/29626-we-are-accsaf/?do=findComment&comment=176207)
 - [Welcome to EuroExpress Virtual](https://forums.vatsim.net/topic/30871-welcome-to-euroexpress-virtual/?do=findComment&comment=176206)
@@ -60,9 +63,6 @@
 - [RegioAir - Fly where you want. Fly what you want.](https://forums.vatsim.net/topic/30869-regioair-fly-where-you-want-fly-what-you-want/?do=findComment&comment=176203)
 - [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=176202)
 - [Canadian Xpress March 2021 Monthly Challenge: Scenic Approaches V - Bora Bora](https://forums.vatsim.net/topic/30868-canadian-xpress-march-2021-monthly-challenge-scenic-approaches-v-bora-bora/?do=findComment&comment=176201)
-- [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=176200)
-- [xpilot in x-plane disconnect from server](https://forums.vatsim.net/topic/30867-xpilot-in-x-plane-disconnect-from-server/?do=findComment&comment=176199)
-- [Incorrect Password/CID](https://forums.vatsim.net/topic/30866-incorrect-passwordcid/?do=findComment&comment=176198)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
