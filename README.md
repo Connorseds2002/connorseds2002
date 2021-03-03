@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=176204)
 - [RegioAir - Fly where you want. Fly what you want.](https://forums.vatsim.net/topic/30869-regioair-fly-where-you-want-fly-what-you-want/?do=findComment&comment=176203)
 - [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=176202)
 - [Canadian Xpress March 2021 Monthly Challenge: Scenic Approaches V - Bora Bora](https://forums.vatsim.net/topic/30868-canadian-xpress-march-2021-monthly-challenge-scenic-approaches-v-bora-bora/?do=findComment&comment=176201)
@@ -62,7 +63,6 @@
 - [Bhalo Bashi Kolkata City Link](https://forums.vatsim.net/topic/30863-bhalo-bashi-kolkata-city-link/?do=findComment&comment=176194)
 - [Vpilot 2.8.1 kills my FPS](https://forums.vatsim.net/topic/30862-vpilot-281-kills-my-fps/?do=findComment&comment=176193)
 - [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=176192)
-- [Sound issue vPilot MSFS2020](https://forums.vatsim.net/topic/30593-sound-issue-vpilot-msfs2020/?do=findComment&comment=176191)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
