@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Welcome to EuroExpress Virtual](https://forums.vatsim.net/topic/30871-welcome-to-euroexpress-virtual/?do=findComment&comment=176206)
 - [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=176204)
 - [RegioAir - Fly where you want. Fly what you want.](https://forums.vatsim.net/topic/30869-regioair-fly-where-you-want-fly-what-you-want/?do=findComment&comment=176203)
 - [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=176202)
@@ -62,7 +63,6 @@
 - [Incorrect Password/CID](https://forums.vatsim.net/topic/30866-incorrect-passwordcid/?do=findComment&comment=176198)
 - [Bhalo Bashi Kolkata City Link](https://forums.vatsim.net/topic/30863-bhalo-bashi-kolkata-city-link/?do=findComment&comment=176194)
 - [Vpilot 2.8.1 kills my FPS](https://forums.vatsim.net/topic/30862-vpilot-281-kills-my-fps/?do=findComment&comment=176193)
-- [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=176192)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
