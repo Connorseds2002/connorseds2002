@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176216)
 - [Incorrect Password/CID](https://forums.vatsim.net/topic/30866-incorrect-passwordcid/?do=findComment&comment=176215)
 - [SimConnect Error: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/15739-simconnect-error-version_mismatch-5/?do=findComment&comment=176214)
 - [Infill Assistance](https://forums.vatsim.net/topic/30872-infill-assistance/?do=findComment&comment=176213)
@@ -62,7 +63,6 @@
 - [SimConnect Error: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/15739-simconnect-error-version_mismatch-5/?do=findComment&comment=176209)
 - [We Are ACCSAF](https://forums.vatsim.net/topic/29626-we-are-accsaf/?do=findComment&comment=176208)
 - [We Are ACCSAF](https://forums.vatsim.net/topic/29626-we-are-accsaf/?do=findComment&comment=176207)
-- [Welcome to EuroExpress Virtual](https://forums.vatsim.net/topic/30871-welcome-to-euroexpress-virtual/?do=findComment&comment=176206)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
