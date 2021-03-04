@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How VATSIM Controllers Should ACTUALLY Handle New Pilots](https://forums.vatsim.net/topic/30687-how-vatsim-controllers-should-actually-handle-new-pilots/?do=findComment&comment=176236)
+- [vPilot Aircraft Type Code Suggestion](https://forums.vatsim.net/topic/20869-vpilot-aircraft-type-code-suggestion/?do=findComment&comment=176235)
 - [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30877-era-alaska-virtual-group-flight/?do=findComment&comment=176234)
 - [Mic issue with Audio for Vatsim, xPilot, and vPilot](https://forums.vatsim.net/topic/30842-mic-issue-with-audio-for-vatsim-xpilot-and-vpilot/?do=findComment&comment=176233)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176232)
@@ -61,8 +63,6 @@
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176229)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176228)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176227)
-- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176226)
-- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176225)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
