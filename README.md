@@ -54,7 +54,6 @@
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
 - [Euroscope Microsoft Speech Object Library 5.1](https://forums.vatsim.net/topic/30878-euroscope-microsoft-speech-object-library-51/?do=findComment&comment=176237)
-- [How VATSIM Controllers Should ACTUALLY Handle New Pilots](https://forums.vatsim.net/topic/30687-how-vatsim-controllers-should-actually-handle-new-pilots/?do=findComment&comment=176236)
 - [vPilot Aircraft Type Code Suggestion](https://forums.vatsim.net/topic/20869-vpilot-aircraft-type-code-suggestion/?do=findComment&comment=176235)
 - [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30877-era-alaska-virtual-group-flight/?do=findComment&comment=176234)
 - [Mic issue with Audio for Vatsim, xPilot, and vPilot](https://forums.vatsim.net/topic/30842-mic-issue-with-audio-for-vatsim-xpilot-and-vpilot/?do=findComment&comment=176233)
@@ -63,6 +62,7 @@
 - [Lat/Long's shift?](https://forums.vatsim.net/topic/30876-latlongs-shift/?do=findComment&comment=176230)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176229)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176228)
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176227)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
