@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30877-era-alaska-virtual-group-flight/?do=findComment&comment=176234)
 - [Mic issue with Audio for Vatsim, xPilot, and vPilot](https://forums.vatsim.net/topic/30842-mic-issue-with-audio-for-vatsim-xpilot-and-vpilot/?do=findComment&comment=176233)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176232)
 - [Infill Assistance](https://forums.vatsim.net/topic/30872-infill-assistance/?do=findComment&comment=176231)
@@ -62,7 +63,6 @@
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176227)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176226)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176225)
-- [Infill Assistance](https://forums.vatsim.net/topic/30872-infill-assistance/?do=findComment&comment=176224)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
