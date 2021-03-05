@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176249)
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176248)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176247)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176246)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176245)
@@ -61,8 +63,6 @@
 - [vPilot Aircraft Type Code Suggestion](https://forums.vatsim.net/topic/20869-vpilot-aircraft-type-code-suggestion/?do=findComment&comment=176239)
 - [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176238)
 - [Euroscope Microsoft Speech Object Library 5.1](https://forums.vatsim.net/topic/30878-euroscope-microsoft-speech-object-library-51/?do=findComment&comment=176237)
-- [vPilot Aircraft Type Code Suggestion](https://forums.vatsim.net/topic/20869-vpilot-aircraft-type-code-suggestion/?do=findComment&comment=176235)
-- [Era Alaska Virtual Group Flight](https://forums.vatsim.net/topic/30877-era-alaska-virtual-group-flight/?do=findComment&comment=176234)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
