@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [HOLDING info on charts (EGKK)](https://forums.vatsim.net/topic/30887-holding-info-on-charts-egkk/?do=findComment&comment=176275)
+- [Moving Navigraph Taxi stand maps in Avitab](https://forums.vatsim.net/topic/30889-moving-navigraph-taxi-stand-maps-in-avitab/?do=findComment&comment=176274)
+- [Some questions](https://forums.vatsim.net/topic/30885-some-questions/?do=findComment&comment=176273)
+- [Bug or set up issue?](https://forums.vatsim.net/topic/30888-bug-or-set-up-issue/?do=findComment&comment=176272)
 - [Bug or set up issue?](https://forums.vatsim.net/topic/30888-bug-or-set-up-issue/?do=findComment&comment=176271)
 - [Moving Navigraph Taxi stand maps in Avitab](https://forums.vatsim.net/topic/30889-moving-navigraph-taxi-stand-maps-in-avitab/?do=findComment&comment=176270)
 - [Bug or set up issue?](https://forums.vatsim.net/topic/30888-bug-or-set-up-issue/?do=findComment&comment=176269)
 - [HOLDING info on charts (EGKK)](https://forums.vatsim.net/topic/30887-holding-info-on-charts-egkk/?do=findComment&comment=176268)
 - [MAP Groups](https://forums.vatsim.net/topic/30886-map-groups/?do=findComment&comment=176267)
 - [Some questions](https://forums.vatsim.net/topic/30885-some-questions/?do=findComment&comment=176266)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=176265)
-- [Android app for VATSIM](https://forums.vatsim.net/topic/19823-android-app-for-vatsim/?do=findComment&comment=176264)
-- [Tegal](https://forums.vatsim.net/topic/30884-tegal/?do=findComment&comment=176263)
-- [Tegal](https://forums.vatsim.net/topic/30884-tegal/?do=findComment&comment=176262)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
