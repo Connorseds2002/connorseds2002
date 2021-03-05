@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS for FIMP](https://forums.vatsim.net/topic/30882-vatis-for-fimp/?do=findComment&comment=176254)
 - [[March 14th 12:00z-16:00z] vNPT - West Atlantic Virtual Group Flight](https://forums.vatsim.net/topic/30881-march-14th-1200z-1600z-vnpt-west-atlantic-virtual-group-flight/?do=findComment&comment=176253)
 - [China Division - VATPRC](https://forums.vatsim.net/topic/10991-china-division-vatprc/?do=findComment&comment=176252)
 - [vPilot Disables Sound Output](https://forums.vatsim.net/topic/30783-vpilot-disables-sound-output/?do=findComment&comment=176251)
@@ -62,7 +63,6 @@
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176247)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176246)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176245)
-- [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176244)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
