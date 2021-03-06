@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [T2:Controller Radar Client on VATSIM?](https://forums.vatsim.net/topic/30897-t2controller-radar-client-on-vatsim/?do=findComment&comment=176300)
+- [I have to click into the Vpilot window to talk - any ideas?](https://forums.vatsim.net/topic/30896-i-have-to-click-into-the-vpilot-window-to-talk-any-ideas/?do=findComment&comment=176299)
 - [HOLDING info on charts (EGKK)](https://forums.vatsim.net/topic/30887-holding-info-on-charts-egkk/?do=findComment&comment=176298)
 - [Friday Night Live: 12-03-2021: Fly IN/OUT of Ahmedabad International Airport (VAAH)](https://forums.vatsim.net/topic/30895-friday-night-live-12-03-2021-fly-inout-of-ahmedabad-international-airport-vaah/?do=findComment&comment=176297)
 - [[VACANCY] VATSIM Saudi Arabia (multiple positions)](https://forums.vatsim.net/topic/30894-vacancy-vatsim-saudi-arabia-multiple-positions/?do=findComment&comment=176296)
@@ -61,8 +63,6 @@
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176292)
 - [Xpilot not receiving microphone](https://forums.vatsim.net/topic/30543-xpilot-not-receiving-microphone/?do=findComment&comment=176291)
 - [Lat/Long's shift?](https://forums.vatsim.net/topic/30876-latlongs-shift/?do=findComment&comment=176289)
-- [MAP Groups](https://forums.vatsim.net/topic/30886-map-groups/?do=findComment&comment=176288)
-- [Sectors](https://forums.vatsim.net/topic/30892-sectors/?do=findComment&comment=176287)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
