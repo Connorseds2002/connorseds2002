@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176312)
 - [T2:Controller Radar Client on VATSIM?](https://forums.vatsim.net/topic/30897-t2controller-radar-client-on-vatsim/?do=findComment&comment=176311)
 - [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176310)
 - [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176309)
@@ -62,7 +63,6 @@
 - [Happy to announce vspirit](https://forums.vatsim.net/topic/30753-happy-to-announce-vspirit/?do=findComment&comment=176305)
 - [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176304)
 - [T2:Controller Radar Client on VATSIM?](https://forums.vatsim.net/topic/30897-t2controller-radar-client-on-vatsim/?do=findComment&comment=176303)
-- [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176302)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
