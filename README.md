@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MAP Groups](https://forums.vatsim.net/topic/30886-map-groups/?do=findComment&comment=176288)
+- [Sectors](https://forums.vatsim.net/topic/30892-sectors/?do=findComment&comment=176287)
+- [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176286)
 - [Happy to announce vspirit](https://forums.vatsim.net/topic/30753-happy-to-announce-vspirit/?do=findComment&comment=176285)
 - [Sectors](https://forums.vatsim.net/topic/30892-sectors/?do=findComment&comment=176283)
 - [problem to install FS2](https://forums.vatsim.net/topic/30891-problem-to-install-fs2/?do=findComment&comment=176282)
@@ -60,9 +63,6 @@
 - [HOLDING info on charts (EGKK)](https://forums.vatsim.net/topic/30887-holding-info-on-charts-egkk/?do=findComment&comment=176280)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176279)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176278)
-- [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176277)
-- [Bug or set up issue?](https://forums.vatsim.net/topic/30888-bug-or-set-up-issue/?do=findComment&comment=176276)
-- [HOLDING info on charts (EGKK)](https://forums.vatsim.net/topic/30887-holding-info-on-charts-egkk/?do=findComment&comment=176275)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
