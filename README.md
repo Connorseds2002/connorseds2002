@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176304)
 - [T2:Controller Radar Client on VATSIM?](https://forums.vatsim.net/topic/30897-t2controller-radar-client-on-vatsim/?do=findComment&comment=176303)
 - [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176302)
 - [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176301)
@@ -62,7 +63,6 @@
 - [Friday Night Live: 12-03-2021: Fly IN/OUT of Ahmedabad International Airport (VAAH)](https://forums.vatsim.net/topic/30895-friday-night-live-12-03-2021-fly-inout-of-ahmedabad-international-airport-vaah/?do=findComment&comment=176297)
 - [[VACANCY] VATSIM Saudi Arabia (multiple positions)](https://forums.vatsim.net/topic/30894-vacancy-vatsim-saudi-arabia-multiple-positions/?do=findComment&comment=176296)
 - [SECtoXML issues](https://forums.vatsim.net/topic/30893-sectoxml-issues/?do=findComment&comment=176294)
-- [MAP Groups](https://forums.vatsim.net/topic/30886-map-groups/?do=findComment&comment=176293)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
