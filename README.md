@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] VATSIM Saudi Arabia (multiple positions)](https://forums.vatsim.net/topic/30894-vacancy-vatsim-saudi-arabia-multiple-positions/?do=findComment&comment=176296)
+- [SECtoXML issues](https://forums.vatsim.net/topic/30893-sectoxml-issues/?do=findComment&comment=176294)
 - [MAP Groups](https://forums.vatsim.net/topic/30886-map-groups/?do=findComment&comment=176293)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176292)
 - [Xpilot not receiving microphone](https://forums.vatsim.net/topic/30543-xpilot-not-receiving-microphone/?do=findComment&comment=176291)
@@ -61,8 +63,6 @@
 - [Sectors](https://forums.vatsim.net/topic/30892-sectors/?do=findComment&comment=176287)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176286)
 - [Happy to announce vspirit](https://forums.vatsim.net/topic/30753-happy-to-announce-vspirit/?do=findComment&comment=176285)
-- [Sectors](https://forums.vatsim.net/topic/30892-sectors/?do=findComment&comment=176283)
-- [problem to install FS2](https://forums.vatsim.net/topic/30891-problem-to-install-fs2/?do=findComment&comment=176282)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
