@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176318)
+- [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176317)
+- [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176316)
+- [T2:Controller Radar Client on VATSIM?](https://forums.vatsim.net/topic/30897-t2controller-radar-client-on-vatsim/?do=findComment&comment=176315)
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176314)
 - [SECtoXML issues](https://forums.vatsim.net/topic/30893-sectoxml-issues/?do=findComment&comment=176313)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176312)
 - [T2:Controller Radar Client on VATSIM?](https://forums.vatsim.net/topic/30897-t2controller-radar-client-on-vatsim/?do=findComment&comment=176311)
 - [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176310)
 - [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176309)
-- [Error on xpilot login and FPL filing](https://forums.vatsim.net/topic/30901-error-on-xpilot-login-and-fpl-filing/?do=findComment&comment=176308)
-- [[25-03-2021] EDDS-EDDC Shuttle Event by RegioAir.eu](https://forums.vatsim.net/topic/30900-25-03-2021-edds-eddc-shuttle-event-by-regioaireu/?do=findComment&comment=176307)
-- [[25-03-2021] EDDS-EDDC Shuttle Event by RegioAir.eu](https://forums.vatsim.net/topic/30899-25-03-2021-edds-eddc-shuttle-event-by-regioaireu/?do=findComment&comment=176306)
-- [Happy to announce vspirit](https://forums.vatsim.net/topic/30753-happy-to-announce-vspirit/?do=findComment&comment=176305)
-- [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176304)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
