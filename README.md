@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sectors](https://forums.vatsim.net/topic/30892-sectors/?do=findComment&comment=176283)
 - [problem to install FS2](https://forums.vatsim.net/topic/30891-problem-to-install-fs2/?do=findComment&comment=176282)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176281)
 - [HOLDING info on charts (EGKK)](https://forums.vatsim.net/topic/30887-holding-info-on-charts-egkk/?do=findComment&comment=176280)
@@ -62,7 +63,6 @@
 - [Bug or set up issue?](https://forums.vatsim.net/topic/30888-bug-or-set-up-issue/?do=findComment&comment=176276)
 - [HOLDING info on charts (EGKK)](https://forums.vatsim.net/topic/30887-holding-info-on-charts-egkk/?do=findComment&comment=176275)
 - [Moving Navigraph Taxi stand maps in Avitab](https://forums.vatsim.net/topic/30889-moving-navigraph-taxi-stand-maps-in-avitab/?do=findComment&comment=176274)
-- [Some questions](https://forums.vatsim.net/topic/30885-some-questions/?do=findComment&comment=176273)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
