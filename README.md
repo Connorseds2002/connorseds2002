@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Adding a Zulu clock to vPilot](https://forums.vatsim.net/topic/30902-adding-a-zulu-clock-to-vpilot/?do=findComment&comment=176325)
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176324)
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176323)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176322)
 - [Xpilot not receiving microphone](https://forums.vatsim.net/topic/30543-xpilot-not-receiving-microphone/?do=findComment&comment=176321)
 - [Some questions](https://forums.vatsim.net/topic/30885-some-questions/?do=findComment&comment=176320)
@@ -60,9 +63,6 @@
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176318)
 - [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176317)
 - [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=176316)
-- [T2:Controller Radar Client on VATSIM?](https://forums.vatsim.net/topic/30897-t2controller-radar-client-on-vatsim/?do=findComment&comment=176315)
-- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176314)
-- [SECtoXML issues](https://forums.vatsim.net/topic/30893-sectoxml-issues/?do=findComment&comment=176313)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
