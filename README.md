@@ -39,16 +39,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [22MAR21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1644-22mar21-milk-run-monday/)
-- [15MAR21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1643-15mar21-milk-run-monday/)
-- [8MAR21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1642-8mar21-milk-run-monday/)
-- [1MAR21 | Milk Run Monday](https://forums.vatpac.org/calendar/event/1641-1mar21-milk-run-monday/)
-- [20FEB21 | Newbie Night - Coffs Harbour to Sydney](https://forums.vatpac.org/topic/18587-20feb21-newbie-night-coffs-harbour-to-sydney/?do=findComment&comment=130856)
-- [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=233&tab=comments)
-- [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=232&tab=comments)
-- [05FEB21 | Mildura to Swan Hill via Murray River](https://forums.vatpac.org/calendar/event/1615-05feb21-mildura-to-swan-hill-via-murray-river/?do=findComment&comment=231&tab=comments)
-- [Looking to get more involved with Virtual ATC/Piloting.](https://forums.vatpac.org/profile/2725-david-duff/?status=11&type=status)
-- [NOTAM 13FEB21: Positions Reserved for Light Up Western Australia](https://forums.vatpac.org/topic/18586-notam-13feb21-positions-reserved-for-light-up-western-australia/?do=findComment&comment=130853)
+- [04APR21 | Cloncurry to Mount Isa](https://vatpac.org/calendar/event/1681-04apr21-cloncurry-to-mount-isa/)
+- [02APR21 | Mount Isa to Cloncurry](https://vatpac.org/calendar/event/1680-02apr21-mount-isa-to-cloncurry/)
+- [Oceanic Controller - Luke Maynard](https://vatpac.org/forums/topic/18637-oceanic-controller-luke-maynard/?do=findComment&comment=131111)
+- [TMA Controller - Sam Wilson](https://vatpac.org/forums/topic/18636-tma-controller-sam-wilson/?do=findComment&comment=131110)
+- [10MAR21 World Discovery Machu Picchu, Peru](https://vatpac.org/calendar/event/1679-10mar21-world-discovery-machu-picchu-peru/)
+- [07MAR21 | Walgett to Gunnedah via Warrumbungles](https://vatpac.org/calendar/event/1630-07mar21-walgett-to-gunnedah-via-warrumbungles/?do=findComment&comment=241&tab=comments)
+- [1MAR21 | Milk Run Monday](https://vatpac.org/calendar/event/1641-1mar21-milk-run-monday/?do=findComment&comment=240&tab=comments)
+- [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/?do=findComment&comment=239&tab=comments)
+- [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/?do=findComment&comment=238&tab=comments)
+- [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/?do=findComment&comment=237&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
