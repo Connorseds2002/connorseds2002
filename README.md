@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176359)
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176358)
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176357)
+- [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176356)
+- [SECtoXML issues](https://forums.vatsim.net/topic/30893-sectoxml-issues/?do=findComment&comment=176355)
+- [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176354)
+- [Radar/Centers UK](https://forums.vatsim.net/topic/30905-radarcenters-uk/?do=findComment&comment=176353)
 - [VATEUD is looking for front end developers](https://forums.vatsim.net/topic/30908-vateud-is-looking-for-front-end-developers/?do=findComment&comment=176352)
 - [Lat/Long's shift?](https://forums.vatsim.net/topic/30876-latlongs-shift/?do=findComment&comment=176351)
 - [Radar/Centers UK](https://forums.vatsim.net/topic/30905-radarcenters-uk/?do=findComment&comment=176350)
-- [Radar/Centers UK](https://forums.vatsim.net/topic/30905-radarcenters-uk/?do=findComment&comment=176349)
-- [Looking for help to convert autocad file to a euroscope sector](https://forums.vatsim.net/topic/30778-looking-for-help-to-convert-autocad-file-to-a-euroscope-sector/?do=findComment&comment=176348)
-- [(ACCNPL3) Director Training ATC  Nepal vACC Vacancy](https://forums.vatsim.net/topic/30450-accnpl3-director-training-atc-nepal-vacc-vacancy/?do=findComment&comment=176347)
-- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176346)
-- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176345)
-- [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176344)
-- [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176343)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
