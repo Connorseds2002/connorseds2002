@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Looking for X-Plane / Oculus Rift S VR / VATSIM recommendations](https://forums.vatsim.net/topic/30907-looking-for-x-plane-oculus-rift-s-vr-vatsim-recommendations/?do=findComment&comment=176339)
 - [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176338)
 - [Radar/Centers UK](https://forums.vatsim.net/topic/30905-radarcenters-uk/?do=findComment&comment=176337)
 - [Model matching question msfs2020](https://forums.vatsim.net/topic/30906-model-matching-question-msfs2020/?do=findComment&comment=176336)
@@ -62,7 +63,6 @@
 - [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176332)
 - [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176331)
 - [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176330)
-- [T2:Controller Radar Client on VATSIM?](https://forums.vatsim.net/topic/30897-t2controller-radar-client-on-vatsim/?do=findComment&comment=176329)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
