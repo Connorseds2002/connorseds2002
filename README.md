@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176341)
 - [vATIS for FIMP](https://forums.vatsim.net/topic/30882-vatis-for-fimp/?do=findComment&comment=176340)
 - [Looking for X-Plane / Oculus Rift S VR / VATSIM recommendations](https://forums.vatsim.net/topic/30907-looking-for-x-plane-oculus-rift-s-vr-vatsim-recommendations/?do=findComment&comment=176339)
 - [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176338)
@@ -62,7 +63,6 @@
 - [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176334)
 - [Thanks Ross](https://forums.vatsim.net/topic/30904-thanks-ross/?do=findComment&comment=176333)
 - [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176332)
-- [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176331)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
