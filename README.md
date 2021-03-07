@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Radar/Centers UK](https://forums.vatsim.net/topic/30905-radarcenters-uk/?do=findComment&comment=176349)
+- [Looking for help to convert autocad file to a euroscope sector](https://forums.vatsim.net/topic/30778-looking-for-help-to-convert-autocad-file-to-a-euroscope-sector/?do=findComment&comment=176348)
+- [(ACCNPL3) Director Training ATC  Nepal vACC Vacancy](https://forums.vatsim.net/topic/30450-accnpl3-director-training-atc-nepal-vacc-vacancy/?do=findComment&comment=176347)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176346)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176345)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176344)
@@ -60,9 +63,6 @@
 - [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176342)
 - [Retrieve Mode C and TX status](https://forums.vatsim.net/topic/30875-retrieve-mode-c-and-tx-status/?do=findComment&comment=176341)
 - [vATIS for FIMP](https://forums.vatsim.net/topic/30882-vatis-for-fimp/?do=findComment&comment=176340)
-- [Looking for X-Plane / Oculus Rift S VR / VATSIM recommendations](https://forums.vatsim.net/topic/30907-looking-for-x-plane-oculus-rift-s-vr-vatsim-recommendations/?do=findComment&comment=176339)
-- [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176338)
-- [Radar/Centers UK](https://forums.vatsim.net/topic/30905-radarcenters-uk/?do=findComment&comment=176337)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
