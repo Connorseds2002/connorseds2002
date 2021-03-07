@@ -16,5 +16,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://forums.vatpac.org/discover/all.xml"
+          feed_list: "https://vatpac.org/discover/all.xml"
           max_post_count: 10
