@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Discord account was disabled - need to change it to another.](https://forums.vatsim.net/topic/30910-discord-account-was-disabled-need-to-change-it-to-another/?do=findComment&comment=176364)
+- [Radar/Centers UK](https://forums.vatsim.net/topic/30905-radarcenters-uk/?do=findComment&comment=176363)
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176362)
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176361)
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176360)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176359)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176358)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176357)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176356)
 - [SECtoXML issues](https://forums.vatsim.net/topic/30893-sectoxml-issues/?do=findComment&comment=176355)
-- [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176354)
-- [Radar/Centers UK](https://forums.vatsim.net/topic/30905-radarcenters-uk/?do=findComment&comment=176353)
-- [VATEUD is looking for front end developers](https://forums.vatsim.net/topic/30908-vateud-is-looking-for-front-end-developers/?do=findComment&comment=176352)
-- [Lat/Long's shift?](https://forums.vatsim.net/topic/30876-latlongs-shift/?do=findComment&comment=176351)
-- [Radar/Centers UK](https://forums.vatsim.net/topic/30905-radarcenters-uk/?do=findComment&comment=176350)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
