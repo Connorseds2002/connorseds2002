@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8MAR21 | Milk Run Monday](https://vatpac.org/calendar/event/1642-8mar21-milk-run-monday/?do=findComment&comment=242&tab=comments)
 - [04APR21 | Cloncurry to Mount Isa](https://vatpac.org/calendar/event/1681-04apr21-cloncurry-to-mount-isa/)
 - [02APR21 | Mount Isa to Cloncurry](https://vatpac.org/calendar/event/1680-02apr21-mount-isa-to-cloncurry/)
 - [Oceanic Controller - Luke Maynard](https://vatpac.org/forums/topic/18637-oceanic-controller-luke-maynard/?do=findComment&comment=131111)
@@ -48,7 +49,6 @@
 - [1MAR21 | Milk Run Monday](https://vatpac.org/calendar/event/1641-1mar21-milk-run-monday/?do=findComment&comment=240&tab=comments)
 - [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/?do=findComment&comment=239&tab=comments)
 - [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/?do=findComment&comment=238&tab=comments)
-- [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/?do=findComment&comment=237&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
