@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176391)
+- [HOLDING info on charts (EGKK)](https://forums.vatsim.net/topic/30887-holding-info-on-charts-egkk/?do=findComment&comment=176390)
+- [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176389)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176388)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176387)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176386)
@@ -60,9 +63,6 @@
 - [A320NX changes automatically the Nav's Frencuencies](https://forums.vatsim.net/topic/30750-a320nx-changes-automatically-the-navs-frencuencies/?do=findComment&comment=176384)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176383)
 - [Adding a Zulu clock to vPilot](https://forums.vatsim.net/topic/30902-adding-a-zulu-clock-to-vpilot/?do=findComment&comment=176382)
-- [Mega Event: Bhalo Bashi Kolkata (Translates to : We Love Kolkata)](https://forums.vatsim.net/topic/30913-mega-event-bhalo-bashi-kolkata-translates-to-we-love-kolkata/?do=findComment&comment=176381)
-- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176380)
-- [Discord account was disabled - need to change it to another.](https://forums.vatsim.net/topic/30910-discord-account-was-disabled-need-to-change-it-to-another/?do=findComment&comment=176379)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
