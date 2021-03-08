@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176414)
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176413)
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176412)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176411)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176410)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176409)
@@ -60,9 +63,6 @@
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176407)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176406)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176405)
-- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176404)
-- [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176403)
-- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176402)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
