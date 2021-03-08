@@ -39,6 +39,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [19APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1685-19apr21-milk-run-monday/)
+- [12APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1684-12apr21-milk-run-monday/)
+- [5APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1683-5apr21-milk-run-monday/)
 - [8MAR21 | Milk Run Monday](https://vatpac.org/calendar/event/1642-8mar21-milk-run-monday/?do=findComment&comment=242&tab=comments)
 - [04APR21 | Cloncurry to Mount Isa](https://vatpac.org/calendar/event/1681-04apr21-cloncurry-to-mount-isa/)
 - [02APR21 | Mount Isa to Cloncurry](https://vatpac.org/calendar/event/1680-02apr21-mount-isa-to-cloncurry/)
@@ -46,9 +49,6 @@
 - [TMA Controller - Sam Wilson](https://vatpac.org/forums/topic/18636-tma-controller-sam-wilson/?do=findComment&comment=131110)
 - [10MAR21 World Discovery Machu Picchu, Peru](https://vatpac.org/calendar/event/1679-10mar21-world-discovery-machu-picchu-peru/)
 - [07MAR21 | Walgett to Gunnedah via Warrumbungles](https://vatpac.org/calendar/event/1630-07mar21-walgett-to-gunnedah-via-warrumbungles/?do=findComment&comment=241&tab=comments)
-- [1MAR21 | Milk Run Monday](https://vatpac.org/calendar/event/1641-1mar21-milk-run-monday/?do=findComment&comment=240&tab=comments)
-- [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/?do=findComment&comment=239&tab=comments)
-- [28FEB21 | Port Lincoln to Kangaroo Island via Yorke Peninsula](https://vatpac.org/calendar/event/1625-28feb21-port-lincoln-to-kangaroo-island-via-yorke-peninsula/?do=findComment&comment=238&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
