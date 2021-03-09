@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176421)
 - [Adding a Zulu clock to vPilot](https://forums.vatsim.net/topic/30902-adding-a-zulu-clock-to-vpilot/?do=findComment&comment=176420)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176419)
 - [Help when downloading AFV (Audio for VATSIM)](https://forums.vatsim.net/topic/30916-help-when-downloading-afv-audio-for-vatsim/?do=findComment&comment=176416)
@@ -62,7 +63,6 @@
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176412)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176411)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176410)
-- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176409)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
