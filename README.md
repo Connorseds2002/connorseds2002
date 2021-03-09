@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Fsx servers](https://forums.vatsim.net/topic/30918-fsx-servers/?do=findComment&comment=176435)
+- [Teamspeak](https://forums.vatsim.net/topic/30920-teamspeak/?do=findComment&comment=176434)
+- [Teamspeak](https://forums.vatsim.net/topic/30920-teamspeak/?do=findComment&comment=176433)
 - [Fsx servers](https://forums.vatsim.net/topic/30918-fsx-servers/?do=findComment&comment=176431)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176430)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176429)
@@ -60,9 +63,6 @@
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176427)
 - [FSInn type model matching](https://forums.vatsim.net/topic/30912-fsinn-type-model-matching/?do=findComment&comment=176426)
 - [FSInn type model matching](https://forums.vatsim.net/topic/30912-fsinn-type-model-matching/?do=findComment&comment=176425)
-- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176424)
-- [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176423)
-- [vATIS Connection Bugged (Bot Stuck Transmitting on BIKF_ATIS)](https://forums.vatsim.net/topic/30917-vatis-connection-bugged-bot-stuck-transmitting-on-bikf_atis/?do=findComment&comment=176422)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
