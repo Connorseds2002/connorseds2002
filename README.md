@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Fsx servers](https://forums.vatsim.net/topic/30918-fsx-servers/?do=findComment&comment=176431)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176430)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176429)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176428)
@@ -62,7 +63,6 @@
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176424)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176423)
 - [vATIS Connection Bugged (Bot Stuck Transmitting on BIKF_ATIS)](https://forums.vatsim.net/topic/30917-vatis-connection-bugged-bot-stuck-transmitting-on-bikf_atis/?do=findComment&comment=176422)
-- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176421)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
