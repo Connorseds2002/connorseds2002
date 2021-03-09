@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thanks Ross](https://forums.vatsim.net/topic/30904-thanks-ross/?do=findComment&comment=176436)
 - [Fsx servers](https://forums.vatsim.net/topic/30918-fsx-servers/?do=findComment&comment=176435)
 - [Teamspeak](https://forums.vatsim.net/topic/30920-teamspeak/?do=findComment&comment=176434)
 - [Teamspeak](https://forums.vatsim.net/topic/30920-teamspeak/?do=findComment&comment=176433)
@@ -62,7 +63,6 @@
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176428)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176427)
 - [FSInn type model matching](https://forums.vatsim.net/topic/30912-fsinn-type-model-matching/?do=findComment&comment=176426)
-- [FSInn type model matching](https://forums.vatsim.net/topic/30912-fsinn-type-model-matching/?do=findComment&comment=176425)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
