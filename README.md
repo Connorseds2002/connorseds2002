@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SECTORFILE #2](https://forums.vatsim.net/topic/30921-sectorfile-2/?do=findComment&comment=176443)
+- [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176442)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176441)
 - [X-Squawk Box has no audio.](https://forums.vatsim.net/topic/30903-x-squawk-box-has-no-audio/?do=findComment&comment=176440)
 - [Adding a Zulu clock to vPilot](https://forums.vatsim.net/topic/30902-adding-a-zulu-clock-to-vpilot/?do=findComment&comment=176439)
@@ -61,8 +63,6 @@
 - [Thanks Ross](https://forums.vatsim.net/topic/30904-thanks-ross/?do=findComment&comment=176436)
 - [Fsx servers](https://forums.vatsim.net/topic/30918-fsx-servers/?do=findComment&comment=176435)
 - [Teamspeak](https://forums.vatsim.net/topic/30920-teamspeak/?do=findComment&comment=176434)
-- [Teamspeak](https://forums.vatsim.net/topic/30920-teamspeak/?do=findComment&comment=176433)
-- [Fsx servers](https://forums.vatsim.net/topic/30918-fsx-servers/?do=findComment&comment=176431)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
