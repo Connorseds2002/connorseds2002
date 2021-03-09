@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176427)
 - [FSInn type model matching](https://forums.vatsim.net/topic/30912-fsinn-type-model-matching/?do=findComment&comment=176426)
 - [FSInn type model matching](https://forums.vatsim.net/topic/30912-fsinn-type-model-matching/?do=findComment&comment=176425)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176424)
@@ -62,7 +63,6 @@
 - [Adding a Zulu clock to vPilot](https://forums.vatsim.net/topic/30902-adding-a-zulu-clock-to-vpilot/?do=findComment&comment=176420)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176419)
 - [Help when downloading AFV (Audio for VATSIM)](https://forums.vatsim.net/topic/30916-help-when-downloading-afv-audio-for-vatsim/?do=findComment&comment=176416)
-- [[20th March 0100z - 0400z] Flying the Line - Las Vegas](https://forums.vatsim.net/topic/30915-20th-march-0100z-0400z-flying-the-line-las-vegas/?do=findComment&comment=176415)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
