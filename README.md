@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Major Events List 2021](https://vatpac.org/forums/topic/18457-major-events-list-2021/?do=findComment&comment=131131)
 - [19APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1685-19apr21-milk-run-monday/)
 - [12APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1684-12apr21-milk-run-monday/)
 - [5APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1683-5apr21-milk-run-monday/)
@@ -48,7 +49,6 @@
 - [Oceanic Controller - Luke Maynard](https://vatpac.org/forums/topic/18637-oceanic-controller-luke-maynard/?do=findComment&comment=131111)
 - [TMA Controller - Sam Wilson](https://vatpac.org/forums/topic/18636-tma-controller-sam-wilson/?do=findComment&comment=131110)
 - [10MAR21 World Discovery Machu Picchu, Peru](https://vatpac.org/calendar/event/1679-10mar21-world-discovery-machu-picchu-peru/)
-- [07MAR21 | Walgett to Gunnedah via Warrumbungles](https://vatpac.org/calendar/event/1630-07mar21-walgett-to-gunnedah-via-warrumbungles/?do=findComment&comment=241&tab=comments)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
