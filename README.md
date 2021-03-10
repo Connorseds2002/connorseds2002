@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FSInn type model matching](https://forums.vatsim.net/topic/30912-fsinn-type-model-matching/?do=findComment&comment=176454)
+- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176453)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176452)
 - [Made A VATSIM Discord Bot](https://forums.vatsim.net/topic/28412-made-a-vatsim-discord-bot/?do=findComment&comment=176451)
 - [Change freq. without doing so in cockpit](https://forums.vatsim.net/topic/30923-change-freq-without-doing-so-in-cockpit/?do=findComment&comment=176450)
@@ -61,8 +63,6 @@
 - [[Mar 27] Canadian Xpress March Fly-In - Beach Time](https://forums.vatsim.net/topic/30922-mar-27-canadian-xpress-march-fly-in-beach-time/?do=findComment&comment=176447)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176446)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176445)
-- [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176444)
-- [SECTORFILE #2](https://forums.vatsim.net/topic/30921-sectorfile-2/?do=findComment&comment=176443)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
