@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[27 March 2021] FTXDes Moldova scenery release event](https://forums.vatsim.net/topic/30926-27-march-2021-ftxdes-moldova-scenery-release-event/?do=findComment&comment=176463)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176462)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176456)
 - [FSInn type model matching](https://forums.vatsim.net/topic/30912-fsinn-type-model-matching/?do=findComment&comment=176454)
@@ -62,7 +63,6 @@
 - [Change freq. without doing so in cockpit](https://forums.vatsim.net/topic/30923-change-freq-without-doing-so-in-cockpit/?do=findComment&comment=176450)
 - [Change freq. without doing so in cockpit](https://forums.vatsim.net/topic/30923-change-freq-without-doing-so-in-cockpit/?do=findComment&comment=176449)
 - [SECTORFILE #2](https://forums.vatsim.net/topic/30921-sectorfile-2/?do=findComment&comment=176448)
-- [[Mar 27] Canadian Xpress March Fly-In - Beach Time](https://forums.vatsim.net/topic/30922-mar-27-canadian-xpress-march-fly-in-beach-time/?do=findComment&comment=176447)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
