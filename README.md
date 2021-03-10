@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176446)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176445)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176444)
 - [SECTORFILE #2](https://forums.vatsim.net/topic/30921-sectorfile-2/?do=findComment&comment=176443)
@@ -62,7 +63,6 @@
 - [Adding a Zulu clock to vPilot](https://forums.vatsim.net/topic/30902-adding-a-zulu-clock-to-vpilot/?do=findComment&comment=176439)
 - [Radar/Centers UK](https://forums.vatsim.net/topic/30905-radarcenters-uk/?do=findComment&comment=176438)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176437)
-- [Thanks Ross](https://forums.vatsim.net/topic/30904-thanks-ross/?do=findComment&comment=176436)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
