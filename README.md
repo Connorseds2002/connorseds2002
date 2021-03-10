@@ -53,8 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [BUG: VAT-Spy on second monitor freezes on next start](https://forums.vatsim.net/topic/30924-bug-vat-spy-on-second-monitor-freezes-on-next-start/?do=findComment&comment=176461)
-- [BUG: VAT-Spy on second monitor freezes on next start](https://forums.vatsim.net/topic/30924-bug-vat-spy-on-second-monitor-freezes-on-next-start/?do=findComment&comment=176455)
+- [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176462)
+- [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176456)
 - [FSInn type model matching](https://forums.vatsim.net/topic/30912-fsinn-type-model-matching/?do=findComment&comment=176454)
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176453)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176452)
