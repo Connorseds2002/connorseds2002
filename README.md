@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [POSITION VACANCY - MULTIPLE - VATCAR WEB TEAM](https://forums.vatsim.net/topic/30927-position-vacancy-multiple-vatcar-web-team/?do=findComment&comment=176466)
+- [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=176465)
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=176464)
 - [[27 March 2021] FTXDes Moldova scenery release event](https://forums.vatsim.net/topic/30926-27-march-2021-ftxdes-moldova-scenery-release-event/?do=findComment&comment=176463)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176462)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176456)
@@ -60,9 +63,6 @@
 - [Eurocontrol Islands Removal](https://forums.vatsim.net/topic/30909-eurocontrol-islands-removal/?do=findComment&comment=176453)
 - [AIRAC *instead of* local](https://forums.vatsim.net/topic/30873-airac-instead-of-local/?do=findComment&comment=176452)
 - [Made A VATSIM Discord Bot](https://forums.vatsim.net/topic/28412-made-a-vatsim-discord-bot/?do=findComment&comment=176451)
-- [Change freq. without doing so in cockpit](https://forums.vatsim.net/topic/30923-change-freq-without-doing-so-in-cockpit/?do=findComment&comment=176450)
-- [Change freq. without doing so in cockpit](https://forums.vatsim.net/topic/30923-change-freq-without-doing-so-in-cockpit/?do=findComment&comment=176449)
-- [SECTORFILE #2](https://forums.vatsim.net/topic/30921-sectorfile-2/?do=findComment&comment=176448)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
