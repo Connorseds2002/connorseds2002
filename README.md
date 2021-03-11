@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=176477)
 - [Brand new to XPlane and VATSIM - need help](https://forums.vatsim.net/topic/30935-brand-new-to-xplane-and-vatsim-need-help/?do=findComment&comment=176476)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176475)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176474)
@@ -62,7 +63,6 @@
 - [Event: City Link Express](https://forums.vatsim.net/topic/30930-event-city-link-express/?do=findComment&comment=176470)
 - [[VACANCY] VATMENA Techincal Director](https://forums.vatsim.net/topic/30929-vacancy-vatmena-techincal-director/?do=findComment&comment=176469)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176468)
-- [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=176467)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
