@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [cant connect on vipolot after password chgange](https://forums.vatsim.net/topic/30931-cant-connect-on-vipolot-after-password-chgange/?do=findComment&comment=176471)
 - [Event: City Link Express](https://forums.vatsim.net/topic/30930-event-city-link-express/?do=findComment&comment=176470)
 - [[VACANCY] VATMENA Techincal Director](https://forums.vatsim.net/topic/30929-vacancy-vatmena-techincal-director/?do=findComment&comment=176469)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176468)
@@ -62,7 +63,6 @@
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=176464)
 - [[27 March 2021] FTXDes Moldova scenery release event](https://forums.vatsim.net/topic/30926-27-march-2021-ftxdes-moldova-scenery-release-event/?do=findComment&comment=176463)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176462)
-- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176460)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
