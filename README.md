@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Brand new to XPlane and VATSIM - need help](https://forums.vatsim.net/topic/30935-brand-new-to-xplane-and-vatsim-need-help/?do=findComment&comment=176476)
+- [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176475)
+- [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176474)
 - [Warning on my PC: Vatspy can harm your computer??](https://forums.vatsim.net/topic/30933-warning-on-my-pc-vatspy-can-harm-your-computer/?do=findComment&comment=176473)
 - [X-pilot don't connect with Xplane](https://forums.vatsim.net/topic/30932-x-pilot-dont-connect-with-xplane/?do=findComment&comment=176472)
 - [cant connect on vipolot after password chgange](https://forums.vatsim.net/topic/30931-cant-connect-on-vipolot-after-password-chgange/?do=findComment&comment=176471)
@@ -60,9 +63,6 @@
 - [[VACANCY] VATMENA Techincal Director](https://forums.vatsim.net/topic/30929-vacancy-vatmena-techincal-director/?do=findComment&comment=176469)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176468)
 - [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=176467)
-- [POSITION VACANCY - MULTIPLE - VATCAR WEB TEAM](https://forums.vatsim.net/topic/30927-position-vacancy-multiple-vatcar-web-team/?do=findComment&comment=176466)
-- [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=176465)
-- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=176464)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
