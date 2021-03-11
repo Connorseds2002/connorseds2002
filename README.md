@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Warning on my PC: Vatspy can harm your computer??](https://forums.vatsim.net/topic/30933-warning-on-my-pc-vatspy-can-harm-your-computer/?do=findComment&comment=176473)
 - [X-pilot don't connect with Xplane](https://forums.vatsim.net/topic/30932-x-pilot-dont-connect-with-xplane/?do=findComment&comment=176472)
 - [cant connect on vipolot after password chgange](https://forums.vatsim.net/topic/30931-cant-connect-on-vipolot-after-password-chgange/?do=findComment&comment=176471)
 - [Event: City Link Express](https://forums.vatsim.net/topic/30930-event-city-link-express/?do=findComment&comment=176470)
@@ -62,7 +63,6 @@
 - [POSITION VACANCY - MULTIPLE - VATCAR WEB TEAM](https://forums.vatsim.net/topic/30927-position-vacancy-multiple-vatcar-web-team/?do=findComment&comment=176466)
 - [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=176465)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=176464)
-- [[27 March 2021] FTXDes Moldova scenery release event](https://forums.vatsim.net/topic/30926-27-march-2021-ftxdes-moldova-scenery-release-event/?do=findComment&comment=176463)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
