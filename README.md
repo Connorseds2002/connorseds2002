@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=176485)
+- [[ACCIND6] India vACC Webmaster Appointed!!](https://forums.vatsim.net/topic/30936-accind6-india-vacc-webmaster-appointed/?do=findComment&comment=176484)
+- [[ACCIND6] India vACC Webmaster Vacancy Released](https://forums.vatsim.net/topic/30272-accind6-india-vacc-webmaster-vacancy-released/?do=findComment&comment=176483)
+- [Brand new to XPlane and VATSIM - need help](https://forums.vatsim.net/topic/30935-brand-new-to-xplane-and-vatsim-need-help/?do=findComment&comment=176482)
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=176481)
+- [cant connect on vipolot after password chgange](https://forums.vatsim.net/topic/30931-cant-connect-on-vipolot-after-password-chgange/?do=findComment&comment=176480)
+- [Warning on my PC: Vatspy can harm your computer??](https://forums.vatsim.net/topic/30933-warning-on-my-pc-vatspy-can-harm-your-computer/?do=findComment&comment=176479)
+- [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176478)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=176477)
 - [Brand new to XPlane and VATSIM - need help](https://forums.vatsim.net/topic/30935-brand-new-to-xplane-and-vatsim-need-help/?do=findComment&comment=176476)
-- [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176475)
-- [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176474)
-- [Warning on my PC: Vatspy can harm your computer??](https://forums.vatsim.net/topic/30933-warning-on-my-pc-vatspy-can-harm-your-computer/?do=findComment&comment=176473)
-- [X-pilot don't connect with Xplane](https://forums.vatsim.net/topic/30932-x-pilot-dont-connect-with-xplane/?do=findComment&comment=176472)
-- [cant connect on vipolot after password chgange](https://forums.vatsim.net/topic/30931-cant-connect-on-vipolot-after-password-chgange/?do=findComment&comment=176471)
-- [Event: City Link Express](https://forums.vatsim.net/topic/30930-event-city-link-express/?do=findComment&comment=176470)
-- [[VACANCY] VATMENA Techincal Director](https://forums.vatsim.net/topic/30929-vacancy-vatmena-techincal-director/?do=findComment&comment=176469)
-- [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176468)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
