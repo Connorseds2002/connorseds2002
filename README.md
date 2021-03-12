@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[20 MAR 2021 1200z-1400z] S3 CPT Hong Kong Approach (VHHH_APP)](https://forums.vatsim.net/topic/30940-20-mar-2021-1200z-1400z-s3-cpt-hong-kong-approach-vhhh_app/?do=findComment&comment=176503)
+- [Just joined or completed New Member Orientation and can't connect?  READ THIS!](https://forums.vatsim.net/topic/30939-just-joined-or-completed-new-member-orientation-and-cant-connect-read-this/?do=findComment&comment=176502)
+- [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176501)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176500)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=176499)
 - [Nametags/Nameplates/Labels Vote to Fix for MSFS with V-Pilot](https://forums.vatsim.net/topic/30754-nametagsnameplateslabels-vote-to-fix-for-msfs-with-v-pilot/?do=findComment&comment=176498)
@@ -60,9 +63,6 @@
 - [[ACCIND6] India vACC Webmaster Appointed!!](https://forums.vatsim.net/topic/30936-accind6-india-vacc-webmaster-appointed/?do=findComment&comment=176496)
 - [Label Item Database](https://forums.vatsim.net/topic/30938-label-item-database/?do=findComment&comment=176495)
 - [NO ATC Training Sessions !HELP!](https://forums.vatsim.net/topic/30937-no-atc-training-sessions-help/?do=findComment&comment=176494)
-- [Warning on my PC: Vatspy can harm your computer??](https://forums.vatsim.net/topic/30933-warning-on-my-pc-vatspy-can-harm-your-computer/?do=findComment&comment=176493)
-- [Warning on my PC: Vatspy can harm your computer??](https://forums.vatsim.net/topic/30933-warning-on-my-pc-vatspy-can-harm-your-computer/?do=findComment&comment=176492)
-- [VATITA Discord Server](https://forums.vatsim.net/topic/29989-vatita-discord-server/?do=findComment&comment=176491)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
