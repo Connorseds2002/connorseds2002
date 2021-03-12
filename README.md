@@ -52,6 +52,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Warning on my PC: Vatspy can harm your computer??](https://forums.vatsim.net/topic/30933-warning-on-my-pc-vatspy-can-harm-your-computer/?do=findComment&comment=176497)
 - [[ACCIND6] India vACC Webmaster Appointed!!](https://forums.vatsim.net/topic/30936-accind6-india-vacc-webmaster-appointed/?do=findComment&comment=176496)
 - [Label Item Database](https://forums.vatsim.net/topic/30938-label-item-database/?do=findComment&comment=176495)
 - [NO ATC Training Sessions !HELP!](https://forums.vatsim.net/topic/30937-no-atc-training-sessions-help/?do=findComment&comment=176494)
@@ -61,7 +62,6 @@
 - [NO ATC Training Sessions !HELP!](https://forums.vatsim.net/topic/30937-no-atc-training-sessions-help/?do=findComment&comment=176490)
 - [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=176489)
 - [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=176488)
-- [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176487)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
