@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176487)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176486)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=176485)
 - [[ACCIND6] India vACC Webmaster Appointed!!](https://forums.vatsim.net/topic/30936-accind6-india-vacc-webmaster-appointed/?do=findComment&comment=176484)
@@ -62,7 +63,6 @@
 - [cant connect on vipolot after password chgange](https://forums.vatsim.net/topic/30931-cant-connect-on-vipolot-after-password-chgange/?do=findComment&comment=176480)
 - [Warning on my PC: Vatspy can harm your computer??](https://forums.vatsim.net/topic/30933-warning-on-my-pc-vatspy-can-harm-your-computer/?do=findComment&comment=176479)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176478)
-- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=176477)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
