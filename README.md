@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=176489)
+- [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=176488)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176487)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=176486)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=176485)
@@ -61,8 +63,6 @@
 - [Brand new to XPlane and VATSIM - need help](https://forums.vatsim.net/topic/30935-brand-new-to-xplane-and-vatsim-need-help/?do=findComment&comment=176482)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=176481)
 - [cant connect on vipolot after password chgange](https://forums.vatsim.net/topic/30931-cant-connect-on-vipolot-after-password-chgange/?do=findComment&comment=176480)
-- [Warning on my PC: Vatspy can harm your computer??](https://forums.vatsim.net/topic/30933-warning-on-my-pc-vatspy-can-harm-your-computer/?do=findComment&comment=176479)
-- [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176478)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
