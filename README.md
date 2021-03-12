@@ -28,7 +28,6 @@
 
 <!-- YOUTUBE:START -->
 - [[ATC] Manchester Ground VATSIM EGCC_GND](https://www.youtube.com/watch?v=2gOB_NWOp2o)
-- [There is a motivation video that i had created fro you all](https://www.youtube.com/watch?v=cKzpUc_jYaw)
 - [Sedspvp Aviation #1](https://www.youtube.com/watch?v=6Z4TeOA4d0A)
 <!-- YOUTUBE:END -->
 
