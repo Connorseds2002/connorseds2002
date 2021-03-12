@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [17MAR21 World Discovery Torres Strait](https://vatpac.org/calendar/event/1692-17mar21-world-discovery-torres-strait/)
 - [14MAR21 | Panic Stations Canberra](https://vatpac.org/forums/topic/18597-14mar21-panic-stations-canberra/?do=findComment&comment=131155)
 - [NOTAM 14MAR21: Positions Reserved For Panic Stations Canberra](https://vatpac.org/forums/topic/18646-notam-14mar21-positions-reserved-for-panic-stations-canberra/?do=findComment&comment=131153)
 - [26APR21 | Spilled Milk Run Monday - Gold Coast & Rockhampton](https://vatpac.org/forums/topic/18645-26apr21-spilled-milk-run-monday-gold-coast-rockhampton/?do=findComment&comment=131149)
@@ -48,7 +49,6 @@
 - [12APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1684-12apr21-milk-run-monday/)
 - [5APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1683-5apr21-milk-run-monday/)
 - [8MAR21 | Milk Run Monday](https://vatpac.org/calendar/event/1642-8mar21-milk-run-monday/?do=findComment&comment=242&tab=comments)
-- [04APR21 | Cloncurry to Mount Isa](https://vatpac.org/calendar/event/1681-04apr21-cloncurry-to-mount-isa/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
