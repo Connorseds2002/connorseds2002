@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176536)
+- [CURSOR SNAPS TO ATIS MSG](https://forums.vatsim.net/topic/30948-cursor-snaps-to-atis-msg/?do=findComment&comment=176535)
 - [Velocity "Better" Explanation](https://forums.vatsim.net/topic/30950-velocity-better-explanation/?do=findComment&comment=176534)
 - [CURSOR SNAPS TO ATIS MSG](https://forums.vatsim.net/topic/30948-cursor-snaps-to-atis-msg/?do=findComment&comment=176533)
 - [Introducing VATSIM Velocity](https://forums.vatsim.net/topic/30949-introducing-vatsim-velocity/?do=findComment&comment=176532)
@@ -61,8 +63,6 @@
 - [Observer mode and flying](https://forums.vatsim.net/topic/30947-observer-mode-and-flying/?do=findComment&comment=176529)
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176528)
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176527)
-- [Observer mode and flying](https://forums.vatsim.net/topic/30947-observer-mode-and-flying/?do=findComment&comment=176526)
-- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176525)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
