@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176540)
 - [xpilot not working](https://forums.vatsim.net/topic/29887-xpilot-not-working/?do=findComment&comment=176539)
 - [XPilot not recognizing X-Plane is running](https://forums.vatsim.net/topic/30231-xpilot-not-recognizing-x-plane-is-running/?do=findComment&comment=176538)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176537)
@@ -62,7 +63,6 @@
 - [Introducing VATSIM Velocity](https://forums.vatsim.net/topic/30949-introducing-vatsim-velocity/?do=findComment&comment=176532)
 - [CURSOR SNAPS TO ATIS MSG](https://forums.vatsim.net/topic/30948-cursor-snaps-to-atis-msg/?do=findComment&comment=176531)
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176530)
-- [Observer mode and flying](https://forums.vatsim.net/topic/30947-observer-mode-and-flying/?do=findComment&comment=176529)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
