@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Observer mode and flying](https://forums.vatsim.net/topic/30947-observer-mode-and-flying/?do=findComment&comment=176526)
+- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176525)
+- [Friday Night Live: 19-03-2021: City Link VOBL to VABB](https://forums.vatsim.net/topic/30946-friday-night-live-19-03-2021-city-link-vobl-to-vabb/?do=findComment&comment=176524)
 - [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176523)
 - [Becoming ATC- easyJet Pilot](https://forums.vatsim.net/topic/30945-becoming-atc-easyjet-pilot/?do=findComment&comment=176522)
 - [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=176521)
@@ -60,9 +63,6 @@
 - [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=176519)
 - [Becoming ATC- easyJet Pilot](https://forums.vatsim.net/topic/30945-becoming-atc-easyjet-pilot/?do=findComment&comment=176518)
 - [Corrupt config?](https://forums.vatsim.net/topic/30944-corrupt-config/?do=findComment&comment=176517)
-- [Corrupt config?](https://forums.vatsim.net/topic/30944-corrupt-config/?do=findComment&comment=176516)
-- [Invalid CID](https://forums.vatsim.net/topic/30943-invalid-cid/?do=findComment&comment=176515)
-- [Invalid CID](https://forums.vatsim.net/topic/30943-invalid-cid/?do=findComment&comment=176514)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
