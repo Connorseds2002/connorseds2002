@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176557)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176556)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176555)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176554)
@@ -62,7 +63,6 @@
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176550)
 - [SCT Problem](https://forums.vatsim.net/topic/30952-sct-problem/?do=findComment&comment=176549)
 - [ILS gauge display fs2020](https://forums.vatsim.net/topic/30954-ils-gauge-display-fs2020/?do=findComment&comment=176548)
-- [Help with vpilot *URGENT*](https://forums.vatsim.net/topic/30953-help-with-vpilot-urgent/?do=findComment&comment=176547)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
