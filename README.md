@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [11APR21 | Lake Macquarie to Bankstown via Victor 1](https://vatpac.org/calendar/event/1695-11apr21-lake-macquarie-to-bankstown-via-victor-1/)
 - [09APR21 | Bankstown to Lake Macquarie](https://vatpac.org/calendar/event/1694-09apr21-bankstown-to-lake-macquarie/)
 - [17MAR21 World Discovery Torres Strait](https://vatpac.org/calendar/event/1692-17mar21-world-discovery-torres-strait/)
 - [14MAR21 | Panic Stations Canberra](https://vatpac.org/forums/topic/18597-14mar21-panic-stations-canberra/?do=findComment&comment=131155)
@@ -48,7 +49,6 @@
 - [Major Events List 2021](https://vatpac.org/forums/topic/18457-major-events-list-2021/?do=findComment&comment=131131)
 - [19APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1685-19apr21-milk-run-monday/)
 - [12APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1684-12apr21-milk-run-monday/)
-- [5APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1683-5apr21-milk-run-monday/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
