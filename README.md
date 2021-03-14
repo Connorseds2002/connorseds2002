@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [type code for the concorde](https://forums.vatsim.net/topic/30956-type-code-for-the-concorde/?do=findComment&comment=176566)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176565)
 - [[Official VA Partner] Fly Play Airlines (Portugal)](https://forums.vatsim.net/topic/30957-official-va-partner-fly-play-airlines-portugal/?do=findComment&comment=176564)
 - [type code for the concorde](https://forums.vatsim.net/topic/30956-type-code-for-the-concorde/?do=findComment&comment=176563)
@@ -62,7 +63,6 @@
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176559)
 - [Laravel login problem](https://forums.vatsim.net/topic/30812-laravel-login-problem/?do=findComment&comment=176558)
 - [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176557)
-- [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176556)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
