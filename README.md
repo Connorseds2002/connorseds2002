@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176559)
+- [Laravel login problem](https://forums.vatsim.net/topic/30812-laravel-login-problem/?do=findComment&comment=176558)
 - [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176557)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176556)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176555)
@@ -61,8 +63,6 @@
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176552)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176551)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176550)
-- [SCT Problem](https://forums.vatsim.net/topic/30952-sct-problem/?do=findComment&comment=176549)
-- [ILS gauge display fs2020](https://forums.vatsim.net/topic/30954-ils-gauge-display-fs2020/?do=findComment&comment=176548)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
