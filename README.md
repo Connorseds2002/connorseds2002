@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SCT Problem](https://forums.vatsim.net/topic/30952-sct-problem/?do=findComment&comment=176549)
+- [ILS gauge display fs2020](https://forums.vatsim.net/topic/30954-ils-gauge-display-fs2020/?do=findComment&comment=176548)
+- [Help with vpilot *URGENT*](https://forums.vatsim.net/topic/30953-help-with-vpilot-urgent/?do=findComment&comment=176547)
+- [Help with vpilot *URGENT*](https://forums.vatsim.net/topic/30953-help-with-vpilot-urgent/?do=findComment&comment=176546)
+- [Help with vpilot *URGENT*](https://forums.vatsim.net/topic/30953-help-with-vpilot-urgent/?do=findComment&comment=176545)
 - [Help with vpilot *URGENT*](https://forums.vatsim.net/topic/30953-help-with-vpilot-urgent/?do=findComment&comment=176544)
 - [SCT Problem](https://forums.vatsim.net/topic/30952-sct-problem/?do=findComment&comment=176543)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176542)
 - [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176541)
 - [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176540)
-- [xpilot not working](https://forums.vatsim.net/topic/29887-xpilot-not-working/?do=findComment&comment=176539)
-- [XPilot not recognizing X-Plane is running](https://forums.vatsim.net/topic/30231-xpilot-not-recognizing-x-plane-is-running/?do=findComment&comment=176538)
-- [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176537)
-- [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176536)
-- [CURSOR SNAPS TO ATIS MSG](https://forums.vatsim.net/topic/30948-cursor-snaps-to-atis-msg/?do=findComment&comment=176535)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
