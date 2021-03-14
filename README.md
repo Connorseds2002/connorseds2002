@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Help with vpilot *URGENT*](https://forums.vatsim.net/topic/30953-help-with-vpilot-urgent/?do=findComment&comment=176544)
 - [SCT Problem](https://forums.vatsim.net/topic/30952-sct-problem/?do=findComment&comment=176543)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176542)
 - [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176541)
@@ -62,7 +63,6 @@
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176537)
 - [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176536)
 - [CURSOR SNAPS TO ATIS MSG](https://forums.vatsim.net/topic/30948-cursor-snaps-to-atis-msg/?do=findComment&comment=176535)
-- [CURSOR SNAPS TO ATIS MSG](https://forums.vatsim.net/topic/30948-cursor-snaps-to-atis-msg/?do=findComment&comment=176533)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
