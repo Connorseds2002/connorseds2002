@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176556)
 - [What do you do for taxing if there is no airport diagram?](https://forums.vatsim.net/topic/30934-what-do-you-do-for-taxing-if-there-is-no-airport-diagram/?do=findComment&comment=176555)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176554)
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176553)
@@ -62,7 +63,6 @@
 - [SCT Problem](https://forums.vatsim.net/topic/30952-sct-problem/?do=findComment&comment=176549)
 - [ILS gauge display fs2020](https://forums.vatsim.net/topic/30954-ils-gauge-display-fs2020/?do=findComment&comment=176548)
 - [Help with vpilot *URGENT*](https://forums.vatsim.net/topic/30953-help-with-vpilot-urgent/?do=findComment&comment=176547)
-- [Help with vpilot *URGENT*](https://forums.vatsim.net/topic/30953-help-with-vpilot-urgent/?do=findComment&comment=176546)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
