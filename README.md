@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Procedure for connecting FS9 & Swift on multiple computers to the VATSIM Network](https://forums.vatsim.net/topic/30963-procedure-for-connecting-fs9-swift-on-multiple-computers-to-the-vatsim-network/?do=findComment&comment=176578)
+- [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176577)
+- [[VACANCY] VATSIM Middle East & North Africa - Deputy Division Director](https://forums.vatsim.net/topic/30435-vacancy-vatsim-middle-east-north-africa-deputy-division-director/?do=findComment&comment=176576)
 - [VACANCY: Winnipeg FIR Chief Instructor (ZWG3)](https://forums.vatsim.net/topic/30961-vacancy-winnipeg-fir-chief-instructor-zwg3/?do=findComment&comment=176575)
 - [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=176574)
 - [Preparing for VATSIM Velocity - Retirement of Legacy Clients](https://forums.vatsim.net/topic/30959-preparing-for-vatsim-velocity-retirement-of-legacy-clients/?do=findComment&comment=176573)
@@ -60,9 +63,6 @@
 - [vPilot - Unable to hear voice transmissions.](https://forums.vatsim.net/topic/30958-vpilot-unable-to-hear-voice-transmissions/?do=findComment&comment=176571)
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176570)
 - [B737 pilot question](https://forums.vatsim.net/topic/30955-b737-pilot-question/?do=findComment&comment=176569)
-- [vPilot - Unable to hear voice transmissions.](https://forums.vatsim.net/topic/30958-vpilot-unable-to-hear-voice-transmissions/?do=findComment&comment=176568)
-- [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176567)
-- [type code for the concorde](https://forums.vatsim.net/topic/30956-type-code-for-the-concorde/?do=findComment&comment=176566)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
