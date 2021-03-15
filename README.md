@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VACANCY: Winnipeg FIR Chief Instructor (ZWG3)](https://forums.vatsim.net/topic/30961-vacancy-winnipeg-fir-chief-instructor-zwg3/?do=findComment&comment=176575)
 - [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=176574)
 - [Preparing for VATSIM Velocity - Retirement of Legacy Clients](https://forums.vatsim.net/topic/30959-preparing-for-vatsim-velocity-retirement-of-legacy-clients/?do=findComment&comment=176573)
 - [Observer mode and flying](https://forums.vatsim.net/topic/30947-observer-mode-and-flying/?do=findComment&comment=176572)
@@ -62,7 +63,6 @@
 - [vPilot - Unable to hear voice transmissions.](https://forums.vatsim.net/topic/30958-vpilot-unable-to-hear-voice-transmissions/?do=findComment&comment=176568)
 - [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176567)
 - [type code for the concorde](https://forums.vatsim.net/topic/30956-type-code-for-the-concorde/?do=findComment&comment=176566)
-- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=176565)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
