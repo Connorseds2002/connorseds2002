@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/calendar/event/1697-17apr21-perth-singapore-shuttle/)
+- [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131217)
 - [14MAR21 | Panic Stations Canberra](https://vatpac.org/forums/topic/18597-14mar21-panic-stations-canberra/?do=findComment&comment=131206)
 - [11APR21 | Lake Macquarie to Bankstown via Victor 1](https://vatpac.org/calendar/event/1695-11apr21-lake-macquarie-to-bankstown-via-victor-1/)
 - [09APR21 | Bankstown to Lake Macquarie](https://vatpac.org/calendar/event/1694-09apr21-bankstown-to-lake-macquarie/)
@@ -47,8 +49,6 @@
 - [NOTAM 14MAR21: Positions Reserved For Panic Stations Canberra](https://vatpac.org/forums/topic/18646-notam-14mar21-positions-reserved-for-panic-stations-canberra/?do=findComment&comment=131153)
 - [26APR21 | Spilled Milk Run Monday - Gold Coast & Rockhampton](https://vatpac.org/forums/topic/18645-26apr21-spilled-milk-run-monday-gold-coast-rockhampton/?do=findComment&comment=131149)
 - [26APR21 | Spilled Milk Run - Gold Coast & Rockhampton](https://vatpac.org/calendar/event/1686-26apr21-spilled-milk-run-gold-coast-rockhampton/)
-- [Major Events List 2021](https://vatpac.org/forums/topic/18457-major-events-list-2021/?do=findComment&comment=131131)
-- [19APR21 | Milk Run Monday](https://vatpac.org/calendar/event/1685-19apr21-milk-run-monday/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
