@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vStrips for VATSYS?](https://forums.vatsim.net/topic/30964-vstrips-for-vatsys/?do=findComment&comment=176581)
+- [vStrips for VATSYS?](https://forums.vatsim.net/topic/30964-vstrips-for-vatsys/?do=findComment&comment=176580)
 - [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176579)
 - [Procedure for connecting FS9 & Swift on multiple computers to the VATSIM Network](https://forums.vatsim.net/topic/30963-procedure-for-connecting-fs9-swift-on-multiple-computers-to-the-vatsim-network/?do=findComment&comment=176578)
 - [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176577)
@@ -61,8 +63,6 @@
 - [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=176574)
 - [Preparing for VATSIM Velocity - Retirement of Legacy Clients](https://forums.vatsim.net/topic/30959-preparing-for-vatsim-velocity-retirement-of-legacy-clients/?do=findComment&comment=176573)
 - [Observer mode and flying](https://forums.vatsim.net/topic/30947-observer-mode-and-flying/?do=findComment&comment=176572)
-- [vPilot - Unable to hear voice transmissions.](https://forums.vatsim.net/topic/30958-vpilot-unable-to-hear-voice-transmissions/?do=findComment&comment=176571)
-- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176570)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
