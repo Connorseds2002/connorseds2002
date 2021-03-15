@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176597)
+- [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176596)
+- [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176595)
+- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=176594)
+- [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176593)
+- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=176592)
+- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=176591)
+- [Using xsqawkbox and connecting to ATC](https://forums.vatsim.net/topic/30968-using-xsqawkbox-and-connecting-to-atc/?do=findComment&comment=176590)
 - [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=176589)
 - [Help](https://forums.vatsim.net/topic/30966-help/?do=findComment&comment=176588)
-- [Help](https://forums.vatsim.net/topic/30966-help/?do=findComment&comment=176587)
-- [Procedure for connecting FS9 & Swift on multiple computers to the VATSIM Network](https://forums.vatsim.net/topic/30963-procedure-for-connecting-fs9-swift-on-multiple-computers-to-the-vatsim-network/?do=findComment&comment=176586)
-- [Procedure for connecting FS9 & Swift on multiple computers to the VATSIM Network](https://forums.vatsim.net/topic/30963-procedure-for-connecting-fs9-swift-on-multiple-computers-to-the-vatsim-network/?do=findComment&comment=176585)
-- [Procedure for connecting FS9 & Swift on multiple computers to the VATSIM Network](https://forums.vatsim.net/topic/30963-procedure-for-connecting-fs9-swift-on-multiple-computers-to-the-vatsim-network/?do=findComment&comment=176584)
-- [[VA Associate Program] SimSpa (Spain)](https://forums.vatsim.net/topic/30965-va-associate-program-simspa-spain/?do=findComment&comment=176583)
-- [vStrips for VATSYS?](https://forums.vatsim.net/topic/30964-vstrips-for-vatsys/?do=findComment&comment=176582)
-- [vStrips for VATSYS?](https://forums.vatsim.net/topic/30964-vstrips-for-vatsys/?do=findComment&comment=176581)
-- [vStrips for VATSYS?](https://forums.vatsim.net/topic/30964-vstrips-for-vatsys/?do=findComment&comment=176580)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
