@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176579)
 - [Procedure for connecting FS9 & Swift on multiple computers to the VATSIM Network](https://forums.vatsim.net/topic/30963-procedure-for-connecting-fs9-swift-on-multiple-computers-to-the-vatsim-network/?do=findComment&comment=176578)
 - [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176577)
 - [[VACANCY] VATSIM Middle East & North Africa - Deputy Division Director](https://forums.vatsim.net/topic/30435-vacancy-vatsim-middle-east-north-africa-deputy-division-director/?do=findComment&comment=176576)
@@ -62,7 +63,6 @@
 - [Observer mode and flying](https://forums.vatsim.net/topic/30947-observer-mode-and-flying/?do=findComment&comment=176572)
 - [vPilot - Unable to hear voice transmissions.](https://forums.vatsim.net/topic/30958-vpilot-unable-to-hear-voice-transmissions/?do=findComment&comment=176571)
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176570)
-- [B737 pilot question](https://forums.vatsim.net/topic/30955-b737-pilot-question/?do=findComment&comment=176569)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
