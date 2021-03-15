@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [OPPORTUNITY:  VATSIM MEMBERSHIP MANAGER](https://forums.vatsim.net/topic/30911-opportunity-vatsim-membership-manager/?do=findComment&comment=176603)
+- [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176602)
+- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176601)
 - [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=176599)
 - [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=176598)
 - [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176597)
@@ -60,9 +63,6 @@
 - [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176595)
 - [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=176594)
 - [Are ILS approaches filed in flight plans?](https://forums.vatsim.net/topic/30874-are-ils-approaches-filed-in-flight-plans/?do=findComment&comment=176593)
-- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=176592)
-- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=176591)
-- [Using xsqawkbox and connecting to ATC](https://forums.vatsim.net/topic/30968-using-xsqawkbox-and-connecting-to-atc/?do=findComment&comment=176590)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
