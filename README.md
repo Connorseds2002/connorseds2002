@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Region/Division Change](https://forums.vatsim.net/topic/30976-regiondivision-change/?do=findComment&comment=176621)
+- [First Flight - vPilot error](https://forums.vatsim.net/topic/30975-first-flight-vpilot-error/?do=findComment&comment=176620)
+- [First Flight - vPilot error](https://forums.vatsim.net/topic/30975-first-flight-vpilot-error/?do=findComment&comment=176619)
+- [Flight plans not loaded properly](https://forums.vatsim.net/topic/30974-flight-plans-not-loaded-properly/?do=findComment&comment=176618)
 - [Procedure for connecting FS9 & Swift on multiple computers to the VATSIM Network](https://forums.vatsim.net/topic/30963-procedure-for-connecting-fs9-swift-on-multiple-computers-to-the-vatsim-network/?do=findComment&comment=176617)
 - [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176616)
 - ["Another program is currently using this file" (fixed)](https://forums.vatsim.net/topic/30970-another-program-is-currently-using-this-file-fixed/?do=findComment&comment=176614)
 - [VRC Version 1.2.6 Released](https://forums.vatsim.net/topic/22881-vrc-version-126-released/?do=findComment&comment=176613)
 - [API call, how often](https://forums.vatsim.net/topic/30973-api-call-how-often/?do=findComment&comment=176612)
 - [VRC Version 1.2.6 Released](https://forums.vatsim.net/topic/22881-vrc-version-126-released/?do=findComment&comment=176611)
-- [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176610)
-- [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176609)
-- [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176607)
-- [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176606)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
