@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176616)
+- ["Another program is currently using this file" (fixed)](https://forums.vatsim.net/topic/30970-another-program-is-currently-using-this-file-fixed/?do=findComment&comment=176614)
+- [VRC Version 1.2.6 Released](https://forums.vatsim.net/topic/22881-vrc-version-126-released/?do=findComment&comment=176613)
+- [API call, how often](https://forums.vatsim.net/topic/30973-api-call-how-often/?do=findComment&comment=176612)
 - [VRC Version 1.2.6 Released](https://forums.vatsim.net/topic/22881-vrc-version-126-released/?do=findComment&comment=176611)
 - [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176610)
 - [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176609)
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176607)
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176606)
 - ["Another program is currently using this file" (fixed)](https://forums.vatsim.net/topic/30970-another-program-is-currently-using-this-file-fixed/?do=findComment&comment=176605)
-- ["Another program is currently using this file" (fixed)](https://forums.vatsim.net/topic/30970-another-program-is-currently-using-this-file-fixed/?do=findComment&comment=176604)
-- [OPPORTUNITY:  VATSIM MEMBERSHIP MANAGER](https://forums.vatsim.net/topic/30911-opportunity-vatsim-membership-manager/?do=findComment&comment=176603)
-- [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176602)
-- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176601)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
