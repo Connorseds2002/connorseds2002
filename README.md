@@ -39,16 +39,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [27FEB | Connor Sumner](https://vatpac.org/forums/topic/18670-27feb-connor-sumner/?do=findComment&comment=131231)
+- [22FEB | Joe Corrigan](https://vatpac.org/forums/topic/18669-22feb-joe-corrigan/?do=findComment&comment=131230)
+- [21FEB | James Larkin](https://vatpac.org/forums/topic/18668-21feb-james-larkin/?do=findComment&comment=131229)
+- [09FEB | Andrew Harle](https://vatpac.org/forums/topic/18667-09feb-andrew-harle/?do=findComment&comment=131228)
+- [02FEB | Kyle Varley](https://vatpac.org/forums/topic/18666-02feb-kyle-varley/?do=findComment&comment=131227)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/calendar/event/1697-17apr21-perth-singapore-shuttle/)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131217)
 - [14MAR21 | Panic Stations Canberra](https://vatpac.org/forums/topic/18597-14mar21-panic-stations-canberra/?do=findComment&comment=131206)
 - [11APR21 | Lake Macquarie to Bankstown via Victor 1](https://vatpac.org/calendar/event/1695-11apr21-lake-macquarie-to-bankstown-via-victor-1/)
 - [09APR21 | Bankstown to Lake Macquarie](https://vatpac.org/calendar/event/1694-09apr21-bankstown-to-lake-macquarie/)
-- [17MAR21 World Discovery Torres Strait](https://vatpac.org/calendar/event/1692-17mar21-world-discovery-torres-strait/)
-- [14MAR21 | Panic Stations Canberra](https://vatpac.org/forums/topic/18597-14mar21-panic-stations-canberra/?do=findComment&comment=131155)
-- [NOTAM 14MAR21: Positions Reserved For Panic Stations Canberra](https://vatpac.org/forums/topic/18646-notam-14mar21-positions-reserved-for-panic-stations-canberra/?do=findComment&comment=131153)
-- [26APR21 | Spilled Milk Run Monday - Gold Coast & Rockhampton](https://vatpac.org/forums/topic/18645-26apr21-spilled-milk-run-monday-gold-coast-rockhampton/?do=findComment&comment=131149)
-- [26APR21 | Spilled Milk Run - Gold Coast & Rockhampton](https://vatpac.org/calendar/event/1686-26apr21-spilled-milk-run-gold-coast-rockhampton/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
