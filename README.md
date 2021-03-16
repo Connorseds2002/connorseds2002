@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176606)
 - [vPilot--Another program is currently using this file!!!!!](https://forums.vatsim.net/topic/30970-vpilot-another-program-is-currently-using-this-file/?do=findComment&comment=176605)
 - [vPilot--Another program is currently using this file!!!!!](https://forums.vatsim.net/topic/30970-vpilot-another-program-is-currently-using-this-file/?do=findComment&comment=176604)
 - [OPPORTUNITY:  VATSIM MEMBERSHIP MANAGER](https://forums.vatsim.net/topic/30911-opportunity-vatsim-membership-manager/?do=findComment&comment=176603)
@@ -62,7 +63,6 @@
 - [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=176598)
 - [[APPOINTMENT] Community Director](https://forums.vatsim.net/topic/30951-appointment-community-director/?do=findComment&comment=176597)
 - [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176596)
-- [New VATSIM Middle East and North Africa Division Deputy Director](https://forums.vatsim.net/topic/30962-new-vatsim-middle-east-and-north-africa-division-deputy-director/?do=findComment&comment=176595)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
