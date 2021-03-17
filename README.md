@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS only showing "sweatbox" as servers](https://forums.vatsim.net/topic/30978-vatis-only-showing-sweatbox-as-servers/?do=findComment&comment=176635)
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176634)
 - [NO ATC Training Sessions !HELP!](https://forums.vatsim.net/topic/30937-no-atc-training-sessions-help/?do=findComment&comment=176633)
 - [datafeed limitation](https://forums.vatsim.net/topic/30977-datafeed-limitation/?do=findComment&comment=176632)
@@ -62,7 +63,6 @@
 - [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=176628)
 - [window not shown after switching monitors](https://forums.vatsim.net/topic/30532-window-not-shown-after-switching-monitors/?do=findComment&comment=176627)
 - [VATSpy not loading properly](https://forums.vatsim.net/topic/30639-vatspy-not-loading-properly/?do=findComment&comment=176626)
-- [VATSpy not starting up](https://forums.vatsim.net/topic/30448-vatspy-not-starting-up/?do=findComment&comment=176625)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
