@@ -39,7 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FIFO Friday | Pilbara & Kimberley](https://vatpac.org/calendar/event/1699-fifo-friday-pilbara-kimberley/)
+- [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/calendar/event/1699-02apr21-fifo-friday-pilbara-kimberley/)
 - [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/forums/topic/18671-02apr21-fifo-friday-pilbara-kimberley/?do=findComment&comment=131240)
 - [27FEB | Connor Sumner](https://vatpac.org/forums/topic/18670-27feb-connor-sumner/?do=findComment&comment=131231)
 - [22FEB | Joe Corrigan](https://vatpac.org/forums/topic/18669-22feb-joe-corrigan/?do=findComment&comment=131230)
