@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [XPilot VATSIM and audio](https://forums.vatsim.net/topic/30982-xpilot-vatsim-and-audio/?do=findComment&comment=176643)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176642)
 - [CTD after 40 seconds](https://forums.vatsim.net/topic/30370-ctd-after-40-seconds/?do=findComment&comment=176641)
 - [Voice ATIS](https://forums.vatsim.net/topic/30981-voice-atis/?do=findComment&comment=176640)
@@ -62,7 +63,6 @@
 - [ZBAA Beijing](https://forums.vatsim.net/topic/30979-zbaa-beijing/?do=findComment&comment=176636)
 - [vATIS only showing "sweatbox" as servers](https://forums.vatsim.net/topic/30978-vatis-only-showing-sweatbox-as-servers/?do=findComment&comment=176635)
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176634)
-- [NO ATC Training Sessions !HELP!](https://forums.vatsim.net/topic/30937-no-atc-training-sessions-help/?do=findComment&comment=176633)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
