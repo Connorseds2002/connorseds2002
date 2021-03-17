@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176638)
+- [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176637)
 - [ZBAA Beijing](https://forums.vatsim.net/topic/30979-zbaa-beijing/?do=findComment&comment=176636)
 - [vATIS only showing "sweatbox" as servers](https://forums.vatsim.net/topic/30978-vatis-only-showing-sweatbox-as-servers/?do=findComment&comment=176635)
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176634)
@@ -61,8 +63,6 @@
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176631)
 - [API call, how often](https://forums.vatsim.net/topic/30973-api-call-how-often/?do=findComment&comment=176630)
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176629)
-- [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=176628)
-- [window not shown after switching monitors](https://forums.vatsim.net/topic/30532-window-not-shown-after-switching-monitors/?do=findComment&comment=176627)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
