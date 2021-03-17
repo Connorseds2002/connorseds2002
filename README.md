@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CTD after 40 seconds](https://forums.vatsim.net/topic/30370-ctd-after-40-seconds/?do=findComment&comment=176641)
+- [Voice ATIS](https://forums.vatsim.net/topic/30981-voice-atis/?do=findComment&comment=176640)
+- [Integration of AFV](https://forums.vatsim.net/topic/30980-integration-of-afv/?do=findComment&comment=176639)
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176638)
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176637)
 - [ZBAA Beijing](https://forums.vatsim.net/topic/30979-zbaa-beijing/?do=findComment&comment=176636)
@@ -60,9 +63,6 @@
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176634)
 - [NO ATC Training Sessions !HELP!](https://forums.vatsim.net/topic/30937-no-atc-training-sessions-help/?do=findComment&comment=176633)
 - [datafeed limitation](https://forums.vatsim.net/topic/30977-datafeed-limitation/?do=findComment&comment=176632)
-- [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176631)
-- [API call, how often](https://forums.vatsim.net/topic/30973-api-call-how-often/?do=findComment&comment=176630)
-- [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176629)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
