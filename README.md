@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FIFO Friday | Pilbara & Kimberley](https://vatpac.org/calendar/event/1699-fifo-friday-pilbara-kimberley/)
+- [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/forums/topic/18671-02apr21-fifo-friday-pilbara-kimberley/?do=findComment&comment=131240)
 - [27FEB | Connor Sumner](https://vatpac.org/forums/topic/18670-27feb-connor-sumner/?do=findComment&comment=131231)
 - [22FEB | Joe Corrigan](https://vatpac.org/forums/topic/18669-22feb-joe-corrigan/?do=findComment&comment=131230)
 - [21FEB | James Larkin](https://vatpac.org/forums/topic/18668-21feb-james-larkin/?do=findComment&comment=131229)
@@ -47,8 +49,6 @@
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/calendar/event/1697-17apr21-perth-singapore-shuttle/)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131217)
 - [14MAR21 | Panic Stations Canberra](https://vatpac.org/forums/topic/18597-14mar21-panic-stations-canberra/?do=findComment&comment=131206)
-- [11APR21 | Lake Macquarie to Bankstown via Victor 1](https://vatpac.org/calendar/event/1695-11apr21-lake-macquarie-to-bankstown-via-victor-1/)
-- [09APR21 | Bankstown to Lake Macquarie](https://vatpac.org/calendar/event/1694-09apr21-bankstown-to-lake-macquarie/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
