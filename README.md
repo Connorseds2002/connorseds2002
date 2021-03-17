@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176631)
 - [API call, how often](https://forums.vatsim.net/topic/30973-api-call-how-often/?do=findComment&comment=176630)
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176629)
 - [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=176628)
@@ -62,7 +63,6 @@
 - [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176624)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176623)
 - [First Flight - vPilot error](https://forums.vatsim.net/topic/30975-first-flight-vpilot-error/?do=findComment&comment=176622)
-- [Region/Division Change](https://forums.vatsim.net/topic/30976-regiondivision-change/?do=findComment&comment=176621)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
