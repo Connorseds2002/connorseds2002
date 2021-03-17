@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=176645)
 - [How to become a pilot? How To get your CPL?](https://forums.vatsim.net/topic/30983-how-to-become-a-pilot-how-to-get-your-cpl/?do=findComment&comment=176644)
 - [XPilot VATSIM and audio](https://forums.vatsim.net/topic/30982-xpilot-vatsim-and-audio/?do=findComment&comment=176643)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176642)
@@ -62,7 +63,6 @@
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176638)
 - [Being Ignored By CYYZ Center](https://forums.vatsim.net/topic/30971-being-ignored-by-cyyz-center/?do=findComment&comment=176637)
 - [ZBAA Beijing](https://forums.vatsim.net/topic/30979-zbaa-beijing/?do=findComment&comment=176636)
-- [vATIS only showing "sweatbox" as servers](https://forums.vatsim.net/topic/30978-vatis-only-showing-sweatbox-as-servers/?do=findComment&comment=176635)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
