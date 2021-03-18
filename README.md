@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176676)
 - [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176675)
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176674)
 - [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176673)
@@ -62,7 +63,6 @@
 - [VATSIM Community - Link to Discord Account Glitched](https://forums.vatsim.net/topic/30985-vatsim-community-link-to-discord-account-glitched/?do=findComment&comment=176669)
 - [VATSIM Community - Link to Discord Account Glitched](https://forums.vatsim.net/topic/30985-vatsim-community-link-to-discord-account-glitched/?do=findComment&comment=176668)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176667)
-- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176666)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
