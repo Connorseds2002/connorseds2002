@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [HOLDING info on charts (EGKK)](https://forums.vatsim.net/topic/30887-holding-info-on-charts-egkk/?do=findComment&comment=176662)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176661)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176660)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176659)
@@ -62,7 +63,6 @@
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176655)
 - [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176654)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176653)
-- [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176652)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
