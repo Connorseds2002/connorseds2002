@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176653)
 - [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176652)
 - [NO ATC Training Sessions !HELP!](https://forums.vatsim.net/topic/30937-no-atc-training-sessions-help/?do=findComment&comment=176651)
 - [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=176650)
@@ -62,7 +63,6 @@
 - [How to become a pilot? How To get your CPL?](https://forums.vatsim.net/topic/30983-how-to-become-a-pilot-how-to-get-your-cpl/?do=findComment&comment=176646)
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=176645)
 - [How to become a pilot? How To get your CPL?](https://forums.vatsim.net/topic/30983-how-to-become-a-pilot-how-to-get-your-cpl/?do=findComment&comment=176644)
-- [XPilot VATSIM and audio](https://forums.vatsim.net/topic/30982-xpilot-vatsim-and-audio/?do=findComment&comment=176643)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
