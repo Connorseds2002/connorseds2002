@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176678)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/30987-waf-vacc-solo-validations/?do=findComment&comment=176677)
 - [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176676)
 - [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176675)
@@ -62,7 +63,6 @@
 - [datafeed limitation](https://forums.vatsim.net/topic/30977-datafeed-limitation/?do=findComment&comment=176671)
 - [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176670)
 - [VATSIM Community - Link to Discord Account Glitched](https://forums.vatsim.net/topic/30985-vatsim-community-link-to-discord-account-glitched/?do=findComment&comment=176669)
-- [VATSIM Community - Link to Discord Account Glitched](https://forums.vatsim.net/topic/30985-vatsim-community-link-to-discord-account-glitched/?do=findComment&comment=176668)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
