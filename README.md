@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176660)
+- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176659)
+- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176658)
+- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176657)
 - [XPilot VATSIM and audio](https://forums.vatsim.net/topic/30982-xpilot-vatsim-and-audio/?do=findComment&comment=176656)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176655)
 - [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176654)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176653)
 - [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176652)
 - [NO ATC Training Sessions !HELP!](https://forums.vatsim.net/topic/30937-no-atc-training-sessions-help/?do=findComment&comment=176651)
-- [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=176650)
-- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176649)
-- [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176648)
-- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=176647)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
