@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176661)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176660)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176659)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176658)
@@ -62,7 +63,6 @@
 - [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176654)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176653)
 - [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176652)
-- [NO ATC Training Sessions !HELP!](https://forums.vatsim.net/topic/30937-no-atc-training-sessions-help/?do=findComment&comment=176651)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
