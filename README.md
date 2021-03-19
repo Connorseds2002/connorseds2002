@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176685)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176684)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176683)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176682)
@@ -62,7 +63,6 @@
 - [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176678)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/30987-waf-vacc-solo-validations/?do=findComment&comment=176677)
 - [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176676)
-- [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176675)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
