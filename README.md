@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176708)
+- [Made a List of what to say to ATC on Vatsim, for beginners.](https://forums.vatsim.net/topic/19867-made-a-list-of-what-to-say-to-atc-on-vatsim-for-beginners/?do=findComment&comment=176707)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176706)
 - [I have to click into the Vpilot window to talk - any ideas?](https://forums.vatsim.net/topic/30896-i-have-to-click-into-the-vpilot-window-to-talk-any-ideas/?do=findComment&comment=176705)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176704)
@@ -61,8 +63,6 @@
 - [Firefox Extension: Notifications for online ATC](https://forums.vatsim.net/topic/30992-firefox-extension-notifications-for-online-atc/?do=findComment&comment=176701)
 - [Potential for aircraft lookup?](https://forums.vatsim.net/topic/30990-potential-for-aircraft-lookup/?do=findComment&comment=176700)
 - [Exam Issue](https://forums.vatsim.net/topic/30991-exam-issue/?do=findComment&comment=176699)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176698)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176697)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
