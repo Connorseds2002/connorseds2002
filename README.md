@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Potential for aircraft lookup?](https://forums.vatsim.net/topic/30990-potential-for-aircraft-lookup/?do=findComment&comment=176700)
 - [Exam Issue](https://forums.vatsim.net/topic/30991-exam-issue/?do=findComment&comment=176699)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176698)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176697)
@@ -62,7 +63,6 @@
 - [Exam Issue](https://forums.vatsim.net/topic/30991-exam-issue/?do=findComment&comment=176693)
 - [When opening VPilot I now get the below error.](https://forums.vatsim.net/topic/30988-when-opening-vpilot-i-now-get-the-below-error/?do=findComment&comment=176692)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176691)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176690)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
