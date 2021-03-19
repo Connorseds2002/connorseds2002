@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [When opening VPilot I now get the below error. If I hit continue, I have no audio, everything else seems to function.  VPilot had been functioning until 1 of two things; 1. windows did an update and 2. VPilot updated to a new version.](https://forums.vatsim.net/topic/30988-when-opening-vpilot-i-now-get-the-below-error-if-i-hit-continue-i-have-no-audio-everything-else-seems-to-function-vpilot-had-been-functioning-until-1-of-two-things-1-windows-did-an-update-and-2-vpilot-updated-to-a-new-version/?do=findComment&comment=176680)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176684)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176683)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176682)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176681)
+- [When opening VPilot I now get the below error.](https://forums.vatsim.net/topic/30988-when-opening-vpilot-i-now-get-the-below-error/?do=findComment&comment=176680)
 - [I have to click into the Vpilot window to talk - any ideas?](https://forums.vatsim.net/topic/30896-i-have-to-click-into-the-vpilot-window-to-talk-any-ideas/?do=findComment&comment=176679)
 - [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176678)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/30987-waf-vacc-solo-validations/?do=findComment&comment=176677)
 - [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176676)
 - [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176675)
-- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176674)
-- [Problems with joining to vatsim community server](https://forums.vatsim.net/topic/30984-problems-with-joining-to-vatsim-community-server/?do=findComment&comment=176673)
-- [VATSIM Community - Link to Discord Account Glitched](https://forums.vatsim.net/topic/30985-vatsim-community-link-to-discord-account-glitched/?do=findComment&comment=176672)
-- [datafeed limitation](https://forums.vatsim.net/topic/30977-datafeed-limitation/?do=findComment&comment=176671)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
