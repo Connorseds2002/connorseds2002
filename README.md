@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176704)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176703)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176702)
 - [Firefox Extension: Notifications for online ATC](https://forums.vatsim.net/topic/30992-firefox-extension-notifications-for-online-atc/?do=findComment&comment=176701)
 - [Potential for aircraft lookup?](https://forums.vatsim.net/topic/30990-potential-for-aircraft-lookup/?do=findComment&comment=176700)
@@ -61,8 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176697)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176696)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176695)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176694)
-- [Exam Issue](https://forums.vatsim.net/topic/30991-exam-issue/?do=findComment&comment=176693)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
