@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176690)
+- [When opening VPilot I now get the below error.](https://forums.vatsim.net/topic/30988-when-opening-vpilot-i-now-get-the-below-error/?do=findComment&comment=176689)
 - [Potential for aircraft lookup?](https://forums.vatsim.net/topic/30990-potential-for-aircraft-lookup/?do=findComment&comment=176688)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176687)
 - [Potential for aircraft lookup?](https://forums.vatsim.net/topic/30990-potential-for-aircraft-lookup/?do=findComment&comment=176686)
@@ -61,8 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176683)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176682)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176681)
-- [When opening VPilot I now get the below error.](https://forums.vatsim.net/topic/30988-when-opening-vpilot-i-now-get-the-below-error/?do=findComment&comment=176680)
-- [I have to click into the Vpilot window to talk - any ideas?](https://forums.vatsim.net/topic/30896-i-have-to-click-into-the-vpilot-window-to-talk-any-ideas/?do=findComment&comment=176679)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
