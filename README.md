@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Potential for aircraft lookup?](https://forums.vatsim.net/topic/30990-potential-for-aircraft-lookup/?do=findComment&comment=176688)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176687)
+- [Potential for aircraft lookup?](https://forums.vatsim.net/topic/30990-potential-for-aircraft-lookup/?do=findComment&comment=176686)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176685)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176684)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176683)
@@ -60,9 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176681)
 - [When opening VPilot I now get the below error.](https://forums.vatsim.net/topic/30988-when-opening-vpilot-i-now-get-the-below-error/?do=findComment&comment=176680)
 - [I have to click into the Vpilot window to talk - any ideas?](https://forums.vatsim.net/topic/30896-i-have-to-click-into-the-vpilot-window-to-talk-any-ideas/?do=findComment&comment=176679)
-- [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176678)
-- [WAF vACC solo validations](https://forums.vatsim.net/topic/30987-waf-vacc-solo-validations/?do=findComment&comment=176677)
-- [Wishlist: Flight rules columns and filters.](https://forums.vatsim.net/topic/30986-wishlist-flight-rules-columns-and-filters/?do=findComment&comment=176676)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
