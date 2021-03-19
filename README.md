@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Exam Issue](https://forums.vatsim.net/topic/30991-exam-issue/?do=findComment&comment=176699)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176698)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176697)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176696)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176695)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176694)
 - [Exam Issue](https://forums.vatsim.net/topic/30991-exam-issue/?do=findComment&comment=176693)
 - [When opening VPilot I now get the below error.](https://forums.vatsim.net/topic/30988-when-opening-vpilot-i-now-get-the-below-error/?do=findComment&comment=176692)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176691)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176690)
-- [When opening VPilot I now get the below error.](https://forums.vatsim.net/topic/30988-when-opening-vpilot-i-now-get-the-below-error/?do=findComment&comment=176689)
-- [Potential for aircraft lookup?](https://forums.vatsim.net/topic/30990-potential-for-aircraft-lookup/?do=findComment&comment=176688)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176687)
-- [Potential for aircraft lookup?](https://forums.vatsim.net/topic/30990-potential-for-aircraft-lookup/?do=findComment&comment=176686)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
