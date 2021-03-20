@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176740)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176739)
 - [Issue setting up region](https://forums.vatsim.net/topic/30998-issue-setting-up-region/?do=findComment&comment=176738)
 - [Issue setting up region](https://forums.vatsim.net/topic/30998-issue-setting-up-region/?do=findComment&comment=176737)
@@ -62,7 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176733)
 - [(ACCNPL3) Director Training ATC  Nepal vACC Vacancy](https://forums.vatsim.net/topic/30450-accnpl3-director-training-atc-nepal-vacc-vacancy/?do=findComment&comment=176732)
 - [AFCAD para o PREPAR 3D](https://forums.vatsim.net/topic/30997-afcad-para-o-prepar-3d/?do=findComment&comment=176731)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176730)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
