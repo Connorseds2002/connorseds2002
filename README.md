@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [24MAR21 World Discovery Venezuela and Brazil](https://vatpac.org/calendar/event/1701-24mar21-world-discovery-venezuela-and-brazil/)
 - [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/calendar/event/1699-02apr21-fifo-friday-pilbara-kimberley/)
 - [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/forums/topic/18671-02apr21-fifo-friday-pilbara-kimberley/?do=findComment&comment=131240)
 - [27FEB | Connor Sumner](https://vatpac.org/forums/topic/18670-27feb-connor-sumner/?do=findComment&comment=131231)
@@ -48,7 +49,6 @@
 - [02FEB | Kyle Varley](https://vatpac.org/forums/topic/18666-02feb-kyle-varley/?do=findComment&comment=131227)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/calendar/event/1697-17apr21-perth-singapore-shuttle/)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131217)
-- [14MAR21 | Panic Stations Canberra](https://vatpac.org/forums/topic/18597-14mar21-panic-stations-canberra/?do=findComment&comment=131206)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
