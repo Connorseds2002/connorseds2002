@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Starting my VATSIM adventure, got a few questions.](https://forums.vatsim.net/topic/30999-starting-my-vatsim-adventure-got-a-few-questions/?do=findComment&comment=176748)
+- [Installation aborted...](https://forums.vatsim.net/topic/30993-installation-aborted/?do=findComment&comment=176747)
+- [AFV ATC client not working](https://forums.vatsim.net/topic/27446-afv-atc-client-not-working/?do=findComment&comment=176746)
+- [Starting my VATSIM adventure, got a few questions.](https://forums.vatsim.net/topic/30999-starting-my-vatsim-adventure-got-a-few-questions/?do=findComment&comment=176745)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176744)
 - [VATSIM Cross The Pond: Westbound 2021](https://forums.vatsim.net/topic/30925-vatsim-cross-the-pond-westbound-2021/?do=findComment&comment=176743)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176742)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176741)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176740)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176739)
-- [Issue setting up region](https://forums.vatsim.net/topic/30998-issue-setting-up-region/?do=findComment&comment=176738)
-- [Issue setting up region](https://forums.vatsim.net/topic/30998-issue-setting-up-region/?do=findComment&comment=176737)
-- [Issue setting up region](https://forums.vatsim.net/topic/30998-issue-setting-up-region/?do=findComment&comment=176736)
-- [When opening VPilot I now get the below error.](https://forums.vatsim.net/topic/30988-when-opening-vpilot-i-now-get-the-below-error/?do=findComment&comment=176735)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
