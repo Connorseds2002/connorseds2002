@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176722)
+- [India vACC Events and Marketing Director Vacancy](https://forums.vatsim.net/topic/30853-india-vacc-events-and-marketing-director-vacancy/?do=findComment&comment=176721)
 - [[27th MAR 2021] Moldova VACC and FTXDes](https://forums.vatsim.net/topic/30994-27th-mar-2021-moldova-vacc-and-ftxdes/?do=findComment&comment=176720)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176719)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176718)
@@ -61,8 +63,6 @@
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176715)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176714)
 - [Installation aborted...](https://forums.vatsim.net/topic/30993-installation-aborted/?do=findComment&comment=176713)
-- [vStrips for VATSYS?](https://forums.vatsim.net/topic/30964-vstrips-for-vatsys/?do=findComment&comment=176712)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176711)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
