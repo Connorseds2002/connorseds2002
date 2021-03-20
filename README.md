@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176727)
 - [Right Click Menu Intermittent](https://forums.vatsim.net/topic/30996-right-click-menu-intermittent/?do=findComment&comment=176726)
 - [Open Sourced Training Administration System](https://forums.vatsim.net/topic/30692-open-sourced-training-administration-system/?do=findComment&comment=176725)
 - [VATSSA Presents VATRAC (vACC Région Afrique Centrale)](https://forums.vatsim.net/topic/30995-vatssa-presents-vatrac-vacc-r%C3%A9gion-afrique-centrale/?do=findComment&comment=176724)
@@ -62,7 +63,6 @@
 - [[27th MAR 2021] Moldova VACC and FTXDes](https://forums.vatsim.net/topic/30994-27th-mar-2021-moldova-vacc-and-ftxdes/?do=findComment&comment=176720)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176719)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176718)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176717)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
