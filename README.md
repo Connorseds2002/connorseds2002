@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Cross The Pond: Westbound 2021](https://forums.vatsim.net/topic/30925-vatsim-cross-the-pond-westbound-2021/?do=findComment&comment=176743)
+- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176742)
+- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176741)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176740)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176739)
 - [Issue setting up region](https://forums.vatsim.net/topic/30998-issue-setting-up-region/?do=findComment&comment=176738)
@@ -60,9 +63,6 @@
 - [Issue setting up region](https://forums.vatsim.net/topic/30998-issue-setting-up-region/?do=findComment&comment=176736)
 - [When opening VPilot I now get the below error.](https://forums.vatsim.net/topic/30988-when-opening-vpilot-i-now-get-the-below-error/?do=findComment&comment=176735)
 - [I have to click into the Vpilot window to talk - any ideas?](https://forums.vatsim.net/topic/30896-i-have-to-click-into-the-vpilot-window-to-talk-any-ideas/?do=findComment&comment=176734)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176733)
-- [(ACCNPL3) Director Training ATC  Nepal vACC Vacancy](https://forums.vatsim.net/topic/30450-accnpl3-director-training-atc-nepal-vacc-vacancy/?do=findComment&comment=176732)
-- [AFCAD para o PREPAR 3D](https://forums.vatsim.net/topic/30997-afcad-para-o-prepar-3d/?do=findComment&comment=176731)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
