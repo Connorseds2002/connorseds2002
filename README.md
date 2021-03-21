@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176751)
+- [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176750)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176749)
 - [Starting my VATSIM adventure, got a few questions.](https://forums.vatsim.net/topic/30999-starting-my-vatsim-adventure-got-a-few-questions/?do=findComment&comment=176748)
 - [Installation aborted...](https://forums.vatsim.net/topic/30993-installation-aborted/?do=findComment&comment=176747)
 - [AFV ATC client not working](https://forums.vatsim.net/topic/27446-afv-atc-client-not-working/?do=findComment&comment=176746)
@@ -60,9 +63,6 @@
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176744)
 - [VATSIM Cross The Pond: Westbound 2021](https://forums.vatsim.net/topic/30925-vatsim-cross-the-pond-westbound-2021/?do=findComment&comment=176743)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176742)
-- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176741)
-- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176740)
-- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176739)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
