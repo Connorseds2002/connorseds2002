@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [About the virtual airline staff positions?](https://forums.vatsim.net/topic/29993-about-the-virtual-airline-staff-positions/?do=findComment&comment=176754)
 - [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=176753)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176752)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176751)
@@ -62,7 +63,6 @@
 - [Installation aborted...](https://forums.vatsim.net/topic/30993-installation-aborted/?do=findComment&comment=176747)
 - [AFV ATC client not working](https://forums.vatsim.net/topic/27446-afv-atc-client-not-working/?do=findComment&comment=176746)
 - [Starting my VATSIM adventure, got a few questions.](https://forums.vatsim.net/topic/30999-starting-my-vatsim-adventure-got-a-few-questions/?do=findComment&comment=176745)
-- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=176744)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
