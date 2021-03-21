@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=176757)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176756)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176755)
 - [About the virtual airline staff positions?](https://forums.vatsim.net/topic/29993-about-the-virtual-airline-staff-positions/?do=findComment&comment=176754)
@@ -62,7 +63,6 @@
 - [[20th MAR 2021] Cross The Pacific: Eastbound 2021](https://forums.vatsim.net/topic/30846-20th-mar-2021-cross-the-pacific-eastbound-2021/?do=findComment&comment=176750)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176749)
 - [Starting my VATSIM adventure, got a few questions.](https://forums.vatsim.net/topic/30999-starting-my-vatsim-adventure-got-a-few-questions/?do=findComment&comment=176748)
-- [Installation aborted...](https://forums.vatsim.net/topic/30993-installation-aborted/?do=findComment&comment=176747)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
