@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176784)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176783)
 - [[Questions about callsigns]](https://forums.vatsim.net/topic/31006-questions-about-callsigns/?do=findComment&comment=176782)
 - [[Questions about callsigns]](https://forums.vatsim.net/topic/31006-questions-about-callsigns/?do=findComment&comment=176781)
@@ -62,7 +63,6 @@
 - [Problem with connecting VATSIM to Discord](https://forums.vatsim.net/topic/31000-problem-with-connecting-vatsim-to-discord/?do=findComment&comment=176777)
 - [Friday Night Live: VOHS(Shamshabad) to VABB(Mumbai)](https://forums.vatsim.net/topic/31005-friday-night-live-vohsshamshabad-to-vabbmumbai/?do=findComment&comment=176776)
 - [Chennai Cargo Run:  COVID Supplies](https://forums.vatsim.net/topic/31004-chennai-cargo-run-covid-supplies/?do=findComment&comment=176775)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176774)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
