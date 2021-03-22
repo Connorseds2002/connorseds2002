@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dúvida sobre call sight](https://forums.vatsim.net/topic/31006-d%C3%BAvida-sobre-call-sight/?do=findComment&comment=176778)
 - [Problem with connecting VATSIM to Discord](https://forums.vatsim.net/topic/31000-problem-with-connecting-vatsim-to-discord/?do=findComment&comment=176777)
 - [Friday Night Live: VOHS(Shamshabad) to VABB(Mumbai)](https://forums.vatsim.net/topic/31005-friday-night-live-vohsshamshabad-to-vabbmumbai/?do=findComment&comment=176776)
 - [Chennai Cargo Run:  COVID Supplies](https://forums.vatsim.net/topic/31004-chennai-cargo-run-covid-supplies/?do=findComment&comment=176775)
@@ -62,7 +63,6 @@
 - [Invaled Cid/Password](https://forums.vatsim.net/topic/31001-invaled-cidpassword/?do=findComment&comment=176771)
 - [Problem with connecting VATSIM to Discord](https://forums.vatsim.net/topic/31000-problem-with-connecting-vatsim-to-discord/?do=findComment&comment=176770)
 - [136.xxx frequencies](https://forums.vatsim.net/topic/31003-136xxx-frequencies/?do=findComment&comment=176769)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176768)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
