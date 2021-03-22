@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Friday Night Live: VOHS(Shamshabad) to VABB(Mumbai)](https://forums.vatsim.net/topic/31005-friday-night-live-vohsshamshabad-to-vabbmumbai/?do=findComment&comment=176776)
 - [Chennai Cargo Run:  COVID Supplies](https://forums.vatsim.net/topic/31004-chennai-cargo-run-covid-supplies/?do=findComment&comment=176775)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176774)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176773)
@@ -62,7 +63,6 @@
 - [136.xxx frequencies](https://forums.vatsim.net/topic/31003-136xxx-frequencies/?do=findComment&comment=176769)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176768)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176767)
-- [136.xxx frequencies](https://forums.vatsim.net/topic/31003-136xxx-frequencies/?do=findComment&comment=176766)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
