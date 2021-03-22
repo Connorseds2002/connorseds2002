@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invaled Cid/Password](https://forums.vatsim.net/topic/31001-invaled-cidpassword/?do=findComment&comment=176771)
+- [Problem with connecting VATSIM to Discord](https://forums.vatsim.net/topic/31000-problem-with-connecting-vatsim-to-discord/?do=findComment&comment=176770)
 - [136.xxx frequencies](https://forums.vatsim.net/topic/31003-136xxx-frequencies/?do=findComment&comment=176769)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176768)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176767)
@@ -61,8 +63,6 @@
 - [Invaled Cid/Password](https://forums.vatsim.net/topic/31001-invaled-cidpassword/?do=findComment&comment=176764)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176763)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176762)
-- [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176761)
-- [India vACC official website](https://forums.vatsim.net/topic/31002-india-vacc-official-website/?do=findComment&comment=176760)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
