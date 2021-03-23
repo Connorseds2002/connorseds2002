@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Consistently getting "CID/Password incorrect" error on attempt to connect.](https://forums.vatsim.net/topic/31011-consistently-getting-cidpassword-incorrect-error-on-attempt-to-connect/?do=findComment&comment=176811)
+- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176810)
+- [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176809)
 - [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176808)
 - [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176807)
 - [vatsim call](https://forums.vatsim.net/topic/31008-vatsim-call/?do=findComment&comment=176806)
@@ -60,9 +63,6 @@
 - [Is there a new website? https://vatame.vatme.net/fss](https://forums.vatsim.net/topic/31009-is-there-a-new-website-httpsvatamevatmenetfss/?do=findComment&comment=176804)
 - [Is there a new website? https://vatame.vatme.net/fss](https://forums.vatsim.net/topic/31009-is-there-a-new-website-httpsvatamevatmenetfss/?do=findComment&comment=176803)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176802)
-- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176801)
-- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176800)
-- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176799)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
