@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176808)
+- [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176807)
+- [vatsim call](https://forums.vatsim.net/topic/31008-vatsim-call/?do=findComment&comment=176806)
+- [Is there a new website? https://vatame.vatme.net/fss](https://forums.vatsim.net/topic/31009-is-there-a-new-website-httpsvatamevatmenetfss/?do=findComment&comment=176805)
+- [Is there a new website? https://vatame.vatme.net/fss](https://forums.vatsim.net/topic/31009-is-there-a-new-website-httpsvatamevatmenetfss/?do=findComment&comment=176804)
 - [Is there a new website? https://vatame.vatme.net/fss](https://forums.vatsim.net/topic/31009-is-there-a-new-website-httpsvatamevatmenetfss/?do=findComment&comment=176803)
 - [Go Around decision with B737](https://forums.vatsim.net/topic/30890-go-around-decision-with-b737/?do=findComment&comment=176802)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176801)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176800)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176799)
-- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176798)
-- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176797)
-- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176796)
-- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176795)
-- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176794)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
