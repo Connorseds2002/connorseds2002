@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=176792)
+- [window not shown after switching monitors](https://forums.vatsim.net/topic/30532-window-not-shown-after-switching-monitors/?do=findComment&comment=176791)
+- [VATSpy not loading properly](https://forums.vatsim.net/topic/30639-vatspy-not-loading-properly/?do=findComment&comment=176790)
+- [VATSpy not starting up](https://forums.vatsim.net/topic/30448-vatspy-not-starting-up/?do=findComment&comment=176789)
+- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=176788)
+- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176787)
+- [vatsim call](https://forums.vatsim.net/topic/31008-vatsim-call/?do=findComment&comment=176786)
+- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176785)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176784)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176783)
-- [[Questions about callsigns]](https://forums.vatsim.net/topic/31006-questions-about-callsigns/?do=findComment&comment=176782)
-- [[Questions about callsigns]](https://forums.vatsim.net/topic/31006-questions-about-callsigns/?do=findComment&comment=176781)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176780)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176779)
-- [[Questions about callsigns]](https://forums.vatsim.net/topic/31006-questions-about-callsigns/?do=findComment&comment=176778)
-- [Problem with connecting VATSIM to Discord](https://forums.vatsim.net/topic/31000-problem-with-connecting-vatsim-to-discord/?do=findComment&comment=176777)
-- [Friday Night Live: VOHS(Shamshabad) to VABB(Mumbai)](https://forums.vatsim.net/topic/31005-friday-night-live-vohsshamshabad-to-vabbmumbai/?do=findComment&comment=176776)
-- [Chennai Cargo Run:  COVID Supplies](https://forums.vatsim.net/topic/31004-chennai-cargo-run-covid-supplies/?do=findComment&comment=176775)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
