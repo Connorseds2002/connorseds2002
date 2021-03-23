@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vatsim call](https://forums.vatsim.net/topic/31008-vatsim-call/?do=findComment&comment=176793)
 - [Vatspy crashing](https://forums.vatsim.net/topic/30393-vatspy-crashing/?do=findComment&comment=176792)
 - [window not shown after switching monitors](https://forums.vatsim.net/topic/30532-window-not-shown-after-switching-monitors/?do=findComment&comment=176791)
 - [VATSpy not loading properly](https://forums.vatsim.net/topic/30639-vatspy-not-loading-properly/?do=findComment&comment=176790)
@@ -62,7 +63,6 @@
 - [vatsim call](https://forums.vatsim.net/topic/31008-vatsim-call/?do=findComment&comment=176786)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176785)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176784)
-- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176783)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
