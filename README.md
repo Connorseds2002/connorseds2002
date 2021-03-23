@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176819)
+- [Can't get anything to work.](https://forums.vatsim.net/topic/31013-cant-get-anything-to-work/?do=findComment&comment=176818)
+- [Can't get anything to work.](https://forums.vatsim.net/topic/31013-cant-get-anything-to-work/?do=findComment&comment=176817)
 - [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=176816)
 - [Consistently getting "CID/Password incorrect" error on attempt to connect.](https://forums.vatsim.net/topic/31011-consistently-getting-cidpassword-incorrect-error-on-attempt-to-connect/?do=findComment&comment=176815)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176814)
@@ -60,9 +63,6 @@
 - [vSMR Plugin](https://forums.vatsim.net/topic/17099-vsmr-plugin/?do=findComment&comment=176812)
 - [Consistently getting "CID/Password incorrect" error on attempt to connect.](https://forums.vatsim.net/topic/31011-consistently-getting-cidpassword-incorrect-error-on-attempt-to-connect/?do=findComment&comment=176811)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176810)
-- [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176809)
-- [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176808)
-- [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176807)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
