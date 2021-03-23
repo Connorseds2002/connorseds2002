@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=176816)
+- [Consistently getting "CID/Password incorrect" error on attempt to connect.](https://forums.vatsim.net/topic/31011-consistently-getting-cidpassword-incorrect-error-on-attempt-to-connect/?do=findComment&comment=176815)
+- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176814)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176813)
 - [vSMR Plugin](https://forums.vatsim.net/topic/17099-vsmr-plugin/?do=findComment&comment=176812)
 - [Consistently getting "CID/Password incorrect" error on attempt to connect.](https://forums.vatsim.net/topic/31011-consistently-getting-cidpassword-incorrect-error-on-attempt-to-connect/?do=findComment&comment=176811)
@@ -60,9 +63,6 @@
 - [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176809)
 - [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176808)
 - [VPilot Remote](https://forums.vatsim.net/topic/31010-vpilot-remote/?do=findComment&comment=176807)
-- [vatsim call](https://forums.vatsim.net/topic/31008-vatsim-call/?do=findComment&comment=176806)
-- [Is there a new website? https://vatame.vatme.net/fss](https://forums.vatsim.net/topic/31009-is-there-a-new-website-httpsvatamevatmenetfss/?do=findComment&comment=176805)
-- [Is there a new website? https://vatame.vatme.net/fss](https://forums.vatsim.net/topic/31009-is-there-a-new-website-httpsvatamevatmenetfss/?do=findComment&comment=176804)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
