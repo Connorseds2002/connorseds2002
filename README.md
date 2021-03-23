@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176823)
+- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176822)
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=176821)
 - [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176820)
 - [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176819)
@@ -61,8 +63,6 @@
 - [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=176816)
 - [Consistently getting "CID/Password incorrect" error on attempt to connect.](https://forums.vatsim.net/topic/31011-consistently-getting-cidpassword-incorrect-error-on-attempt-to-connect/?do=findComment&comment=176815)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176814)
-- [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=176813)
-- [vSMR Plugin](https://forums.vatsim.net/topic/17099-vsmr-plugin/?do=findComment&comment=176812)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
