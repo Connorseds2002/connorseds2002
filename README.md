@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=176825)
 - [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176824)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176823)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176822)
@@ -62,7 +63,6 @@
 - [Can't get anything to work.](https://forums.vatsim.net/topic/31013-cant-get-anything-to-work/?do=findComment&comment=176818)
 - [Can't get anything to work.](https://forums.vatsim.net/topic/31013-cant-get-anything-to-work/?do=findComment&comment=176817)
 - [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=176816)
-- [Consistently getting "CID/Password incorrect" error on attempt to connect.](https://forums.vatsim.net/topic/31011-consistently-getting-cidpassword-incorrect-error-on-attempt-to-connect/?do=findComment&comment=176815)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
