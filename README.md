@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Any better way to handle flight plan amendments?](https://forums.vatsim.net/topic/31017-any-better-way-to-handle-flight-plan-amendments/?do=findComment&comment=176834)
+- [Kuala Lumpur - Jakarta Capital City Pair](https://forums.vatsim.net/topic/31018-kuala-lumpur-jakarta-capital-city-pair/?do=findComment&comment=176833)
+- [Any better way to handle flight plan amendments?](https://forums.vatsim.net/topic/31017-any-better-way-to-handle-flight-plan-amendments/?do=findComment&comment=176832)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176831)
 - [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=176830)
 - [division](https://forums.vatsim.net/topic/31016-division/?do=findComment&comment=176829)
@@ -60,9 +63,6 @@
 - [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176827)
 - [AFV ATC client not working](https://forums.vatsim.net/topic/27446-afv-atc-client-not-working/?do=findComment&comment=176826)
 - [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=176825)
-- [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176824)
-- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176823)
-- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176822)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
