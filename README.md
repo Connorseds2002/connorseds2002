@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176827)
 - [AFV ATC client not working](https://forums.vatsim.net/topic/27446-afv-atc-client-not-working/?do=findComment&comment=176826)
 - [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=176825)
 - [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176824)
@@ -62,7 +63,6 @@
 - [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176820)
 - [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176819)
 - [Can't get anything to work.](https://forums.vatsim.net/topic/31013-cant-get-anything-to-work/?do=findComment&comment=176818)
-- [Can't get anything to work.](https://forums.vatsim.net/topic/31013-cant-get-anything-to-work/?do=findComment&comment=176817)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
