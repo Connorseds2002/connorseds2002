@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176831)
+- [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=176830)
 - [division](https://forums.vatsim.net/topic/31016-division/?do=findComment&comment=176829)
 - [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176828)
 - [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176827)
@@ -61,8 +63,6 @@
 - [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176824)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176823)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176822)
-- [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=176821)
-- [SweatBox Not Working?](https://forums.vatsim.net/topic/30861-sweatbox-not-working/?do=findComment&comment=176820)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
