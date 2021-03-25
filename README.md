@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=176853)
+- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=176852)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176851)
 - [division](https://forums.vatsim.net/topic/31016-division/?do=findComment&comment=176850)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176849)
@@ -61,8 +63,6 @@
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176846)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176845)
 - [[25-03-2021] EDDS-EDDC Shuttle Event by RegioAir.eu](https://forums.vatsim.net/topic/30900-25-03-2021-edds-eddc-shuttle-event-by-regioaireu/?do=findComment&comment=176844)
-- [[25-03-2021] EDDS-EDDC Shuttle Event by RegioAir.eu](https://forums.vatsim.net/topic/30899-25-03-2021-edds-eddc-shuttle-event-by-regioaireu/?do=findComment&comment=176843)
-- [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=176842)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
