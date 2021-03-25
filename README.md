@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[03 APR 2021 1300z-1500z] S2 CPT Tan Son Nhat/Ho Chi Minh Tower (VVTS_TWR)](https://forums.vatsim.net/topic/31020-03-apr-2021-1300z-1500z-s2-cpt-tan-son-nhatho-chi-minh-tower-vvts_twr/?do=findComment&comment=176856)
 - [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176855)
 - [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=176854)
 - [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=176853)
@@ -62,7 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176849)
 - [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176848)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176847)
-- [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176846)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
