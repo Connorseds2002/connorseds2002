@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176851)
 - [division](https://forums.vatsim.net/topic/31016-division/?do=findComment&comment=176850)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176849)
 - [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176848)
@@ -62,7 +63,6 @@
 - [[25-03-2021] EDDS-EDDC Shuttle Event by RegioAir.eu](https://forums.vatsim.net/topic/30900-25-03-2021-edds-eddc-shuttle-event-by-regioaireu/?do=findComment&comment=176844)
 - [[25-03-2021] EDDS-EDDC Shuttle Event by RegioAir.eu](https://forums.vatsim.net/topic/30899-25-03-2021-edds-eddc-shuttle-event-by-regioaireu/?do=findComment&comment=176843)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=176842)
-- [Streamdeck](https://forums.vatsim.net/topic/29971-streamdeck/?do=findComment&comment=176841)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
