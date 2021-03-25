@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Constant Interuptions](https://forums.vatsim.net/topic/31015-constant-interuptions/?do=findComment&comment=176848)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176847)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176846)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176845)
 - [[25-03-2021] EDDS-EDDC Shuttle Event by RegioAir.eu](https://forums.vatsim.net/topic/30900-25-03-2021-edds-eddc-shuttle-event-by-regioaireu/?do=findComment&comment=176844)
@@ -61,8 +63,6 @@
 - [Streamdeck](https://forums.vatsim.net/topic/29971-streamdeck/?do=findComment&comment=176841)
 - [OAuth 2 WordPress plugin](https://forums.vatsim.net/topic/26372-oauth-2-wordpress-plugin/?do=findComment&comment=176840)
 - [division](https://forums.vatsim.net/topic/31016-division/?do=findComment&comment=176839)
-- [Any better way to handle flight plan amendments?](https://forums.vatsim.net/topic/31017-any-better-way-to-handle-flight-plan-amendments/?do=findComment&comment=176838)
-- [Any better way to handle flight plan amendments?](https://forums.vatsim.net/topic/31017-any-better-way-to-handle-flight-plan-amendments/?do=findComment&comment=176837)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
