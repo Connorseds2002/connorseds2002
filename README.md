@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pre-file via javascript](https://forums.vatsim.net/topic/31026-pre-file-via-javascript/?do=findComment&comment=176877)
+- [How to just practice landing on VATSIM?](https://forums.vatsim.net/topic/31025-how-to-just-practice-landing-on-vatsim/?do=findComment&comment=176876)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176875)
 - [Xplane multiple headsets and mics](https://forums.vatsim.net/topic/31024-xplane-multiple-headsets-and-mics/?do=findComment&comment=176874)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176873)
@@ -61,8 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176870)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176869)
 - [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=176868)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176867)
-- [Can't see other live aircraft](https://forums.vatsim.net/topic/30020-cant-see-other-live-aircraft/?do=findComment&comment=176866)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
