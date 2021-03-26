@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176875)
+- [Xplane multiple headsets and mics](https://forums.vatsim.net/topic/31024-xplane-multiple-headsets-and-mics/?do=findComment&comment=176874)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176873)
 - [add on, program or browser extention to notify when controllers come online?](https://forums.vatsim.net/topic/31023-add-on-program-or-browser-extention-to-notify-when-controllers-come-online/?do=findComment&comment=176872)
 - [Can't see other live aircraft](https://forums.vatsim.net/topic/30020-cant-see-other-live-aircraft/?do=findComment&comment=176871)
@@ -61,8 +63,6 @@
 - [Error connecting to voice server: Connect failed](https://forums.vatsim.net/topic/30600-error-connecting-to-voice-server-connect-failed/?do=findComment&comment=176868)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176867)
 - [Can't see other live aircraft](https://forums.vatsim.net/topic/30020-cant-see-other-live-aircraft/?do=findComment&comment=176866)
-- [Can't see other live aircraft](https://forums.vatsim.net/topic/30020-cant-see-other-live-aircraft/?do=findComment&comment=176865)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176864)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
