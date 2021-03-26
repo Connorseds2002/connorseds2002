@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [add on, program or browser extention to notify when controllers come online?](https://forums.vatsim.net/topic/31023-add-on-program-or-browser-extention-to-notify-when-controllers-come-online/?do=findComment&comment=176903)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176902)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176901)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=176900)
@@ -62,7 +63,6 @@
 - [How to just practice landing on VATSIM?](https://forums.vatsim.net/topic/31025-how-to-just-practice-landing-on-vatsim/?do=findComment&comment=176896)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176895)
 - [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176894)
-- [Pre-file via javascript](https://forums.vatsim.net/topic/31026-pre-file-via-javascript/?do=findComment&comment=176893)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
