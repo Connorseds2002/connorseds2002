@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No ASDE on secondary display](https://forums.vatsim.net/topic/31029-no-asde-on-secondary-display/?do=findComment&comment=176910)
+- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176909)
+- [add on, program or browser extention to notify when controllers come online?](https://forums.vatsim.net/topic/31023-add-on-program-or-browser-extention-to-notify-when-controllers-come-online/?do=findComment&comment=176908)
+- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176907)
+- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176906)
+- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176905)
+- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176904)
 - [add on, program or browser extention to notify when controllers come online?](https://forums.vatsim.net/topic/31023-add-on-program-or-browser-extention-to-notify-when-controllers-come-online/?do=findComment&comment=176903)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176902)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176901)
-- [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=176900)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176899)
-- [How to just practice landing on VATSIM?](https://forums.vatsim.net/topic/31025-how-to-just-practice-landing-on-vatsim/?do=findComment&comment=176898)
-- [Euroscope not showing all COPX waypoints](https://forums.vatsim.net/topic/31031-euroscope-not-showing-all-copx-waypoints/?do=findComment&comment=176897)
-- [How to just practice landing on VATSIM?](https://forums.vatsim.net/topic/31025-how-to-just-practice-landing-on-vatsim/?do=findComment&comment=176896)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176895)
-- [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176894)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
