@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=176890)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176889)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176888)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176887)
 - [add on, program or browser extention to notify when controllers come online?](https://forums.vatsim.net/topic/31023-add-on-program-or-browser-extention-to-notify-when-controllers-come-online/?do=findComment&comment=176886)
@@ -61,8 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176883)
 - [I am not able to see the Aircraft Labels of the Online planes.](https://forums.vatsim.net/topic/31027-i-am-not-able-to-see-the-aircraft-labels-of-the-online-planes/?do=findComment&comment=176882)
 - [How to just practice landing on VATSIM?](https://forums.vatsim.net/topic/31025-how-to-just-practice-landing-on-vatsim/?do=findComment&comment=176881)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176880)
-- [I am not able to see the Aircraft Labels of the Online planes.](https://forums.vatsim.net/topic/31027-i-am-not-able-to-see-the-aircraft-labels-of-the-online-planes/?do=findComment&comment=176879)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
