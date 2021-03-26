@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176917)
+- [Pre-file via javascript](https://forums.vatsim.net/topic/31026-pre-file-via-javascript/?do=findComment&comment=176916)
+- [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=176915)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176914)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176913)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176912)
@@ -60,9 +63,6 @@
 - [No ASDE on secondary display](https://forums.vatsim.net/topic/31029-no-asde-on-secondary-display/?do=findComment&comment=176910)
 - [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176909)
 - [add on, program or browser extention to notify when controllers come online?](https://forums.vatsim.net/topic/31023-add-on-program-or-browser-extention-to-notify-when-controllers-come-online/?do=findComment&comment=176908)
-- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176907)
-- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176906)
-- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176905)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
