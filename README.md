@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to just practice landing on VATSIM?](https://forums.vatsim.net/topic/31025-how-to-just-practice-landing-on-vatsim/?do=findComment&comment=176896)
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176895)
 - [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176894)
 - [Pre-file via javascript](https://forums.vatsim.net/topic/31026-pre-file-via-javascript/?do=findComment&comment=176893)
 - [No ASDE on secondary display](https://forums.vatsim.net/topic/31029-no-asde-on-secondary-display/?do=findComment&comment=176892)
@@ -61,8 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176889)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176888)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176887)
-- [add on, program or browser extention to notify when controllers come online?](https://forums.vatsim.net/topic/31023-add-on-program-or-browser-extention-to-notify-when-controllers-come-online/?do=findComment&comment=176886)
-- [How to just practice landing on VATSIM?](https://forums.vatsim.net/topic/31025-how-to-just-practice-landing-on-vatsim/?do=findComment&comment=176885)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
