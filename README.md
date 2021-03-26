@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176873)
 - [add on, program or browser extention to notify when controllers come online?](https://forums.vatsim.net/topic/31023-add-on-program-or-browser-extention-to-notify-when-controllers-come-online/?do=findComment&comment=176872)
 - [Can't see other live aircraft](https://forums.vatsim.net/topic/30020-cant-see-other-live-aircraft/?do=findComment&comment=176871)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176870)
@@ -62,7 +63,6 @@
 - [Can't see other live aircraft](https://forums.vatsim.net/topic/30020-cant-see-other-live-aircraft/?do=findComment&comment=176866)
 - [Can't see other live aircraft](https://forums.vatsim.net/topic/30020-cant-see-other-live-aircraft/?do=findComment&comment=176865)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176864)
-- [Bristol Britannia](https://forums.vatsim.net/topic/31021-bristol-britannia/?do=findComment&comment=176863)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
