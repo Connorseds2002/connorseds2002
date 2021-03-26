@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176902)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176901)
 - [Euroscope ATIS Rollover](https://forums.vatsim.net/topic/30575-euroscope-atis-rollover/?do=findComment&comment=176900)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176899)
@@ -62,7 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176895)
 - [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176894)
 - [Pre-file via javascript](https://forums.vatsim.net/topic/31026-pre-file-via-javascript/?do=findComment&comment=176893)
-- [No ASDE on secondary display](https://forums.vatsim.net/topic/31029-no-asde-on-secondary-display/?do=findComment&comment=176892)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
