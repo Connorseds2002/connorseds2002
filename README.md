@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176935)
+- [AmendFlightPlan() kicks out of network after a few minutes](https://forums.vatsim.net/topic/31034-amendflightplan-kicks-out-of-network-after-a-few-minutes/?do=findComment&comment=176934)
 - [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176933)
 - [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176932)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176931)
@@ -60,9 +62,7 @@
 - [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=176929)
 - [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=176928)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176927)
-- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176926)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176925)
-- [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=176924)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
