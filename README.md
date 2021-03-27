@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176933)
 - [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176932)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176931)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176930)
@@ -62,7 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176926)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176925)
 - [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=176924)
-- [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=176923)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
