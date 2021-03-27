@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176920)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=176919)
 - [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=176918)
 - [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=176917)
@@ -62,7 +63,6 @@
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176913)
 - [Inclusivity at VATSIM](https://forums.vatsim.net/topic/30989-inclusivity-at-vatsim/?do=findComment&comment=176912)
 - [Xplane multiple headsets and mics](https://forums.vatsim.net/topic/31024-xplane-multiple-headsets-and-mics/?do=findComment&comment=176911)
-- [No ASDE on secondary display](https://forums.vatsim.net/topic/31029-no-asde-on-secondary-display/?do=findComment&comment=176910)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
