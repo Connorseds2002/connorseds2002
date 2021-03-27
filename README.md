@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problem with connecting VATSIM to Discord](https://forums.vatsim.net/topic/31000-problem-with-connecting-vatsim-to-discord/?do=findComment&comment=176953)
+- [I'm getting this error every time I fire up audio for VATSIM.](https://forums.vatsim.net/topic/31038-im-getting-this-error-every-time-i-fire-up-audio-for-vatsim/?do=findComment&comment=176952)
 - [Not being able to connect](https://forums.vatsim.net/topic/31037-not-being-able-to-connect/?do=findComment&comment=176951)
 - [I'm getting this error every time I fire up audio for VATSIM.](https://forums.vatsim.net/topic/31038-im-getting-this-error-every-time-i-fire-up-audio-for-vatsim/?do=findComment&comment=176950)
 - [Not being able to connect](https://forums.vatsim.net/topic/31037-not-being-able-to-connect/?do=findComment&comment=176949)
@@ -61,8 +63,6 @@
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176946)
 - [Not being able to connect](https://forums.vatsim.net/topic/31037-not-being-able-to-connect/?do=findComment&comment=176945)
 - [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=176944)
-- [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=176943)
-- [Model Matching](https://forums.vatsim.net/topic/31036-model-matching/?do=findComment&comment=176942)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
