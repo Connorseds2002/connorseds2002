@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176979)
+- [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=176978)
+- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176977)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176976)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176975)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=176974)
@@ -60,9 +63,6 @@
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176972)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176971)
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=176970)
-- [Voice ATIS](https://forums.vatsim.net/topic/30981-voice-atis/?do=findComment&comment=176969)
-- [Integration of AFV](https://forums.vatsim.net/topic/30980-integration-of-afv/?do=findComment&comment=176968)
-- [Flight plans not loaded properly](https://forums.vatsim.net/topic/30974-flight-plans-not-loaded-properly/?do=findComment&comment=176967)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
