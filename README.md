@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Not being able to connect](https://forums.vatsim.net/topic/31037-not-being-able-to-connect/?do=findComment&comment=176980)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176979)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=176978)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176977)
@@ -62,7 +63,6 @@
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176973)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176972)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176971)
-- [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=176970)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
