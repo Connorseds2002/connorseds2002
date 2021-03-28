@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=176994)
+- [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=176993)
 - [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176992)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176991)
 - [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=176990)
@@ -61,8 +63,6 @@
 - [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=176987)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176986)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176985)
-- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176984)
-- [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=176983)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
