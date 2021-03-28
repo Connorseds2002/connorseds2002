@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176966)
+- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176965)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176964)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176963)
 - [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=176962)
@@ -61,8 +63,6 @@
 - [xPilot crashes sim](https://forums.vatsim.net/topic/31041-xpilot-crashes-sim/?do=findComment&comment=176959)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176958)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=176957)
-- [Audio For Vatsim with Stream Deck](https://forums.vatsim.net/topic/31039-audio-for-vatsim-with-stream-deck/?do=findComment&comment=176956)
-- [I Can't transmit in VATSIM (I can recive) x-pilot ssg748v2.2](https://forums.vatsim.net/topic/31035-i-cant-transmit-in-vatsim-i-can-recive-x-pilot-ssg748v22/?do=findComment&comment=176955)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
