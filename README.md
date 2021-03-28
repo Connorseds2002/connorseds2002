@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176988)
 - [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=176987)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176986)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176985)
@@ -62,7 +63,6 @@
 - [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=176981)
 - [Not being able to connect](https://forums.vatsim.net/topic/31037-not-being-able-to-connect/?do=findComment&comment=176980)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176979)
-- [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=176978)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
