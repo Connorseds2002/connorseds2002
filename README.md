@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176992)
+- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176991)
+- [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=176990)
+- [[VACANCY] VATSIM Middle East & North Africa Marketing Director](https://forums.vatsim.net/topic/31045-vacancy-vatsim-middle-east-north-africa-marketing-director/?do=findComment&comment=176989)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176988)
 - [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=176987)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176986)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176985)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176984)
 - [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=176983)
-- [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=176982)
-- [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=176981)
-- [Not being able to connect](https://forums.vatsim.net/topic/31037-not-being-able-to-connect/?do=findComment&comment=176980)
-- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176979)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
