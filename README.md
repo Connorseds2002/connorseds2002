@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Lat/Long's shift?](https://forums.vatsim.net/topic/30876-latlongs-shift/?do=findComment&comment=176961)
+- [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=176960)
+- [xPilot crashes sim](https://forums.vatsim.net/topic/31041-xpilot-crashes-sim/?do=findComment&comment=176959)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176958)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=176957)
 - [Audio For Vatsim with Stream Deck](https://forums.vatsim.net/topic/31039-audio-for-vatsim-with-stream-deck/?do=findComment&comment=176956)
@@ -60,9 +63,6 @@
 - [AmendFlightPlan() kicks out of network after a few minutes](https://forums.vatsim.net/topic/31034-amendflightplan-kicks-out-of-network-after-a-few-minutes/?do=findComment&comment=176954)
 - [Problem with connecting VATSIM to Discord](https://forums.vatsim.net/topic/31000-problem-with-connecting-vatsim-to-discord/?do=findComment&comment=176953)
 - [I'm getting this error every time I fire up audio for VATSIM.](https://forums.vatsim.net/topic/31038-im-getting-this-error-every-time-i-fire-up-audio-for-vatsim/?do=findComment&comment=176952)
-- [Not being able to connect](https://forums.vatsim.net/topic/31037-not-being-able-to-connect/?do=findComment&comment=176951)
-- [I'm getting this error every time I fire up audio for VATSIM.](https://forums.vatsim.net/topic/31038-im-getting-this-error-every-time-i-fire-up-audio-for-vatsim/?do=findComment&comment=176950)
-- [Not being able to connect](https://forums.vatsim.net/topic/31037-not-being-able-to-connect/?do=findComment&comment=176949)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
