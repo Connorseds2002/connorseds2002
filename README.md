@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transponder code](https://forums.vatsim.net/topic/31047-transponder-code/?do=findComment&comment=176996)
+- [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=176995)
 - [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=176994)
 - [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=176993)
 - [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176992)
@@ -61,8 +63,6 @@
 - [[VACANCY] VATSIM Middle East & North Africa Marketing Director](https://forums.vatsim.net/topic/31045-vacancy-vatsim-middle-east-north-africa-marketing-director/?do=findComment&comment=176989)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176988)
 - [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=176987)
-- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176986)
-- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176985)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
