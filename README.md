@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176958)
+- [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=176957)
+- [Audio For Vatsim with Stream Deck](https://forums.vatsim.net/topic/31039-audio-for-vatsim-with-stream-deck/?do=findComment&comment=176956)
 - [I Can't transmit in VATSIM (I can recive) x-pilot ssg748v2.2](https://forums.vatsim.net/topic/31035-i-cant-transmit-in-vatsim-i-can-recive-x-pilot-ssg748v22/?do=findComment&comment=176955)
 - [AmendFlightPlan() kicks out of network after a few minutes](https://forums.vatsim.net/topic/31034-amendflightplan-kicks-out-of-network-after-a-few-minutes/?do=findComment&comment=176954)
 - [Problem with connecting VATSIM to Discord](https://forums.vatsim.net/topic/31000-problem-with-connecting-vatsim-to-discord/?do=findComment&comment=176953)
@@ -60,9 +63,6 @@
 - [Not being able to connect](https://forums.vatsim.net/topic/31037-not-being-able-to-connect/?do=findComment&comment=176951)
 - [I'm getting this error every time I fire up audio for VATSIM.](https://forums.vatsim.net/topic/31038-im-getting-this-error-every-time-i-fire-up-audio-for-vatsim/?do=findComment&comment=176950)
 - [Not being able to connect](https://forums.vatsim.net/topic/31037-not-being-able-to-connect/?do=findComment&comment=176949)
-- [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176948)
-- [add on, program or browser extention to notify when controllers come online?](https://forums.vatsim.net/topic/31023-add-on-program-or-browser-extention-to-notify-when-controllers-come-online/?do=findComment&comment=176947)
-- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176946)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
