@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Voice ATIS](https://forums.vatsim.net/topic/30981-voice-atis/?do=findComment&comment=176969)
+- [Integration of AFV](https://forums.vatsim.net/topic/30980-integration-of-afv/?do=findComment&comment=176968)
+- [Flight plans not loaded properly](https://forums.vatsim.net/topic/30974-flight-plans-not-loaded-properly/?do=findComment&comment=176967)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176966)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176965)
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176964)
@@ -60,9 +63,6 @@
 - [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=176962)
 - [Lat/Long's shift?](https://forums.vatsim.net/topic/30876-latlongs-shift/?do=findComment&comment=176961)
 - [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=176960)
-- [xPilot crashes sim](https://forums.vatsim.net/topic/31041-xpilot-crashes-sim/?do=findComment&comment=176959)
-- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=176958)
-- [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=176957)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
