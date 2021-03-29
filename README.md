@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xplane 11 crashes after loading. doesn't crash if xpilot plugin removed](https://forums.vatsim.net/topic/31052-xplane-11-crashes-after-loading-doesnt-crash-if-xpilot-plugin-removed/?do=findComment&comment=177022)
+- [xplane 11 crashes after loading. doesn't crash if xpilot plugin removed](https://forums.vatsim.net/topic/31052-xplane-11-crashes-after-loading-doesnt-crash-if-xpilot-plugin-removed/?do=findComment&comment=177021)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177020)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=177019)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177018)
@@ -61,8 +63,6 @@
 - [Transponder code](https://forums.vatsim.net/topic/31047-transponder-code/?do=findComment&comment=177015)
 - [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177014)
 - [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177013)
-- [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177012)
-- [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177011)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
