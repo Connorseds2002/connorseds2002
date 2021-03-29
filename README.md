@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177014)
+- [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177013)
 - [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177012)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177011)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=177010)
@@ -61,8 +63,6 @@
 - [Feature Request - Changable Transition Level](https://forums.vatsim.net/topic/31048-feature-request-changable-transition-level/?do=findComment&comment=177007)
 - [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=177006)
 - [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=177005)
-- [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=177004)
-- [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=177003)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
