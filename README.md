@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=177004)
+- [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=177003)
+- [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=177002)
+- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=177001)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=177000)
 - [Transponder code](https://forums.vatsim.net/topic/31047-transponder-code/?do=findComment&comment=176999)
 - [Transponder code](https://forums.vatsim.net/topic/31047-transponder-code/?do=findComment&comment=176998)
 - [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=176997)
 - [Transponder code](https://forums.vatsim.net/topic/31047-transponder-code/?do=findComment&comment=176996)
 - [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=176995)
-- [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=176994)
-- [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=176993)
-- [Pre file flight plan questions](https://forums.vatsim.net/topic/31030-pre-file-flight-plan-questions/?do=findComment&comment=176992)
-- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=176991)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
