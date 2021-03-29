@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177020)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=177019)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177018)
 - [[VACANCY] VATSIM  Sub-Saharan Africa Division Director](https://forums.vatsim.net/topic/31051-vacancy-vatsim-sub-saharan-africa-division-director/?do=findComment&comment=177017)
@@ -62,7 +63,6 @@
 - [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177013)
 - [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177012)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177011)
-- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=177010)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
