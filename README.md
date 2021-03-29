@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] VATSIM  Sub-Saharan Africa Division Director](https://forums.vatsim.net/topic/31051-vacancy-vatsim-sub-saharan-africa-division-director/?do=findComment&comment=177017)
 - [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177016)
 - [Transponder code](https://forums.vatsim.net/topic/31047-transponder-code/?do=findComment&comment=177015)
 - [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177014)
@@ -62,7 +63,6 @@
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=177010)
 - [Friday Night Live: 02-04-2021: Fly IN/OUT of Kolkata (VECC)](https://forums.vatsim.net/topic/31049-friday-night-live-02-04-2021-fly-inout-of-kolkata-vecc/?do=findComment&comment=177009)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177008)
-- [Feature Request - Changable Transition Level](https://forums.vatsim.net/topic/31048-feature-request-changable-transition-level/?do=findComment&comment=177007)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
