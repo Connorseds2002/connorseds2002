@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177011)
 - [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=177010)
 - [Friday Night Live: 02-04-2021: Fly IN/OUT of Kolkata (VECC)](https://forums.vatsim.net/topic/31049-friday-night-live-02-04-2021-fly-inout-of-kolkata-vecc/?do=findComment&comment=177009)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177008)
@@ -62,7 +63,6 @@
 - [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=177004)
 - [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=177003)
 - [ERRO: Not possible to convert an object of type 'System.String[]'](https://forums.vatsim.net/topic/31042-erro-not-possible-to-convert-an-object-of-type-systemstring/?do=findComment&comment=177002)
-- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=177001)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
