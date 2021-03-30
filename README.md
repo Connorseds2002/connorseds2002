@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Section for Training](https://forums.vatsim.net/topic/31055-section-for-training/?do=findComment&comment=177035)
+- [Section for Training](https://forums.vatsim.net/topic/31055-section-for-training/?do=findComment&comment=177034)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177033)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177032)
 - [Suggestion: Better ETA times and "supervisory" mode](https://forums.vatsim.net/topic/31054-suggestion-better-eta-times-and-supervisory-mode/?do=findComment&comment=177031)
@@ -61,8 +63,6 @@
 - [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=177028)
 - [FLAI replacement suggestion for P3Dv5?](https://forums.vatsim.net/topic/30839-flai-replacement-suggestion-for-p3dv5/?do=findComment&comment=177027)
 - [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=177026)
-- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177025)
-- [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=177024)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
