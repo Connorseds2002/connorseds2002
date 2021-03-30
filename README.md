@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Suggestion: Better ETA times and "supervisory" mode](https://forums.vatsim.net/topic/31054-suggestion-better-eta-times-and-supervisory-mode/?do=findComment&comment=177029)
 - [Javascript parser for v3 json help](https://forums.vatsim.net/topic/31046-javascript-parser-for-v3-json-help/?do=findComment&comment=177028)
 - [FLAI replacement suggestion for P3Dv5?](https://forums.vatsim.net/topic/30839-flai-replacement-suggestion-for-p3dv5/?do=findComment&comment=177027)
 - [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=177026)
@@ -62,7 +63,6 @@
 - [xplane 11 crashes after loading. doesn't crash if xpilot plugin removed](https://forums.vatsim.net/topic/31052-xplane-11-crashes-after-loading-doesnt-crash-if-xpilot-plugin-removed/?do=findComment&comment=177022)
 - [xplane 11 crashes after loading. doesn't crash if xpilot plugin removed](https://forums.vatsim.net/topic/31052-xplane-11-crashes-after-loading-doesnt-crash-if-xpilot-plugin-removed/?do=findComment&comment=177021)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177020)
-- [Permission to follow the flight plan?](https://forums.vatsim.net/topic/31043-permission-to-follow-the-flight-plan/?do=findComment&comment=177019)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
