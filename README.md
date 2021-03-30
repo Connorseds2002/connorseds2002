@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=177024)
+- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177023)
 - [xplane 11 crashes after loading. doesn't crash if xpilot plugin removed](https://forums.vatsim.net/topic/31052-xplane-11-crashes-after-loading-doesnt-crash-if-xpilot-plugin-removed/?do=findComment&comment=177022)
 - [xplane 11 crashes after loading. doesn't crash if xpilot plugin removed](https://forums.vatsim.net/topic/31052-xplane-11-crashes-after-loading-doesnt-crash-if-xpilot-plugin-removed/?do=findComment&comment=177021)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177020)
@@ -61,8 +63,6 @@
 - [[VACANCY] VATSIM  Sub-Saharan Africa Division Director](https://forums.vatsim.net/topic/31051-vacancy-vatsim-sub-saharan-africa-division-director/?do=findComment&comment=177017)
 - [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177016)
 - [Transponder code](https://forums.vatsim.net/topic/31047-transponder-code/?do=findComment&comment=177015)
-- [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177014)
-- [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177013)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
