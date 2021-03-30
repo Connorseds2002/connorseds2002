@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177033)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177032)
 - [Suggestion: Better ETA times and "supervisory" mode](https://forums.vatsim.net/topic/31054-suggestion-better-eta-times-and-supervisory-mode/?do=findComment&comment=177031)
 - [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=177030)
@@ -62,7 +63,6 @@
 - [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=177026)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177025)
 - [vSTARS Crash after System Shut Down](https://forums.vatsim.net/topic/31033-vstars-crash-after-system-shut-down/?do=findComment&comment=177024)
-- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177023)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
