@@ -39,16 +39,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [24MAR21 World Discovery Venezuela and Brazil](https://vatpac.org/calendar/event/1701-24mar21-world-discovery-venezuela-and-brazil/)
-- [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/calendar/event/1699-02apr21-fifo-friday-pilbara-kimberley/)
-- [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/forums/topic/18671-02apr21-fifo-friday-pilbara-kimberley/?do=findComment&comment=131240)
-- [27FEB | Connor Sumner](https://vatpac.org/forums/topic/18670-27feb-connor-sumner/?do=findComment&comment=131231)
-- [22FEB | Joe Corrigan](https://vatpac.org/forums/topic/18669-22feb-joe-corrigan/?do=findComment&comment=131230)
-- [21FEB | James Larkin](https://vatpac.org/forums/topic/18668-21feb-james-larkin/?do=findComment&comment=131229)
-- [09FEB | Andrew Harle](https://vatpac.org/forums/topic/18667-09feb-andrew-harle/?do=findComment&comment=131228)
-- [02FEB | Kyle Varley](https://vatpac.org/forums/topic/18666-02feb-kyle-varley/?do=findComment&comment=131227)
-- [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/calendar/event/1697-17apr21-perth-singapore-shuttle/)
-- [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131217)
+- [TWR Controller - Dominic Burjak](https://vatpac.org/forums/topic/18697-twr-controller-dominic-burjak/?do=findComment&comment=131348)
+- [31MAR21 World Discovery Indonesian West Papua](https://vatpac.org/calendar/event/1717-31mar21-world-discovery-indonesian-west-papua/)
+- [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131333)
+- [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131332)
+- [NOTAM: New Brisbane Local Instructions and amended MATS](https://vatpac.org/forums/topic/18692-notam-new-brisbane-local-instructions-and-amended-mats/?do=findComment&comment=131331)
+- [28MAR21 | Margaret River to Albany](https://vatpac.org/calendar/event/1674-28mar21-margaret-river-to-albany/?do=findComment&comment=243&tab=comments)
+- [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131330)
+- [22FEB | Joe Corrigan](https://vatpac.org/forums/topic/18669-22feb-joe-corrigan/?do=findComment&comment=131329)
+- [25APR21 | Yuendumu to Alice Springs](https://vatpac.org/calendar/event/1715-25apr21-yuendumu-to-alice-springs/)
+- [23APR21 | Alice Springs to Yuendumu via Tanami Road](https://vatpac.org/calendar/event/1714-23apr21-alice-springs-to-yuendumu-via-tanami-road/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
