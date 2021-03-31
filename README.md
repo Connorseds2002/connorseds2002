@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177076)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177075)
 - [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177074)
 - [Coming back](https://forums.vatsim.net/topic/31062-coming-back/?do=findComment&comment=177073)
@@ -62,7 +63,6 @@
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177070)
 - [Coming back](https://forums.vatsim.net/topic/31062-coming-back/?do=findComment&comment=177069)
 - [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177068)
-- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177067)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
