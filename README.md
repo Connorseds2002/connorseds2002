@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177075)
+- [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177074)
 - [Coming back](https://forums.vatsim.net/topic/31062-coming-back/?do=findComment&comment=177073)
 - [VATSIM Tech Blog, Q1 2021](https://forums.vatsim.net/blogs/entry/2-vatsim-tech-blog-q1-2021/)
 - [727 HD CSLs](https://forums.vatsim.net/topic/27230-727-hd-csls/?do=findComment&comment=177072)
@@ -61,8 +63,6 @@
 - [Coming back](https://forums.vatsim.net/topic/31062-coming-back/?do=findComment&comment=177069)
 - [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177068)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177067)
-- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177066)
-- [[03.04.2021] Baku Fly-In & Fly-Out](https://forums.vatsim.net/topic/31064-03042021-baku-fly-in-fly-out/?do=findComment&comment=177065)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
