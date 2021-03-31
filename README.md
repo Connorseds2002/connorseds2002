@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Coming back](https://forums.vatsim.net/topic/31062-coming-back/?do=findComment&comment=177073)
+- [VATSIM Tech Blog, Q1 2021](https://forums.vatsim.net/blogs/entry/2-vatsim-tech-blog-q1-2021/)
 - [727 HD CSLs](https://forums.vatsim.net/topic/27230-727-hd-csls/?do=findComment&comment=177072)
 - [FlightGear on VatSim](https://forums.vatsim.net/topic/19779-flightgear-on-vatsim/?do=findComment&comment=177071)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177070)
@@ -61,8 +63,6 @@
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177067)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177066)
 - [[03.04.2021] Baku Fly-In & Fly-Out](https://forums.vatsim.net/topic/31064-03042021-baku-fly-in-fly-out/?do=findComment&comment=177065)
-- [Minutes for BoG 2020 Q4 meeting?](https://forums.vatsim.net/topic/31061-minutes-for-bog-2020-q4-meeting/?do=findComment&comment=177064)
-- [Canadian Xpress April 2021 Monthly Challenge: Scenic Approaches VI - Ireland](https://forums.vatsim.net/topic/31063-canadian-xpress-april-2021-monthly-challenge-scenic-approaches-vi-ireland/?do=findComment&comment=177063)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
