@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177043)
 - [Section for Training](https://forums.vatsim.net/topic/31055-section-for-training/?do=findComment&comment=177042)
 - [[24th April 2021] Cross the Pond Westbound](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound/?do=findComment&comment=177041)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177040)
@@ -62,7 +63,6 @@
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177036)
 - [Section for Training](https://forums.vatsim.net/topic/31055-section-for-training/?do=findComment&comment=177035)
 - [Section for Training](https://forums.vatsim.net/topic/31055-section-for-training/?do=findComment&comment=177034)
-- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177033)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
