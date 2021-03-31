@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Minutes for BoG 2020 Q4 meeting?](https://forums.vatsim.net/topic/31061-minutes-for-bog-2020-q4-meeting/?do=findComment&comment=177064)
+- [Canadian Xpress April 2021 Monthly Challenge: Scenic Approaches VI - Ireland](https://forums.vatsim.net/topic/31063-canadian-xpress-april-2021-monthly-challenge-scenic-approaches-vi-ireland/?do=findComment&comment=177063)
 - [Coming back](https://forums.vatsim.net/topic/31062-coming-back/?do=findComment&comment=177062)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177061)
 - [Minutes for BoG 2020 Q4 meeting?](https://forums.vatsim.net/topic/31061-minutes-for-bog-2020-q4-meeting/?do=findComment&comment=177060)
@@ -61,8 +63,6 @@
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177057)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177056)
 - [Error HRESULT: 0x88890008](https://forums.vatsim.net/topic/31059-error-hresult-0x88890008/?do=findComment&comment=177055)
-- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177054)
-- [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177053)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
