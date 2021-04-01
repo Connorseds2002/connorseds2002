@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/forums/topic/18671-02apr21-fifo-friday-pilbara-kimberley/?do=findComment&comment=131358)
 - [TWR Controller - Dominic Burjak](https://vatpac.org/forums/topic/18697-twr-controller-dominic-burjak/?do=findComment&comment=131348)
 - [31MAR21 World Discovery Indonesian West Papua](https://vatpac.org/calendar/event/1717-31mar21-world-discovery-indonesian-west-papua/)
 - [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131333)
@@ -48,7 +49,6 @@
 - [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131330)
 - [22FEB | Joe Corrigan](https://vatpac.org/forums/topic/18669-22feb-joe-corrigan/?do=findComment&comment=131329)
 - [25APR21 | Yuendumu to Alice Springs](https://vatpac.org/calendar/event/1715-25apr21-yuendumu-to-alice-springs/)
-- [23APR21 | Alice Springs to Yuendumu via Tanami Road](https://vatpac.org/calendar/event/1714-23apr21-alice-springs-to-yuendumu-via-tanami-road/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
