@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSPY slow run.](https://forums.vatsim.net/topic/31073-vatspy-slow-run/?do=findComment&comment=177106)
 - [ATC from startup to shutdown :-)](https://forums.vatsim.net/topic/31072-atc-from-startup-to-shutdown/?do=findComment&comment=177105)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177104)
 - [Volume equalizer](https://forums.vatsim.net/topic/31069-volume-equalizer/?do=findComment&comment=177103)
@@ -62,7 +63,6 @@
 - [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=19)
 - [Volume equalizer](https://forums.vatsim.net/topic/31069-volume-equalizer/?do=findComment&comment=177099)
 - [VATSIM Tech Blog, Q1 2021](https://forums.vatsim.net/blogs/entry/2-vatsim-tech-blog-q1-2021/?do=findComment&comment=18)
-- [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177098)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
