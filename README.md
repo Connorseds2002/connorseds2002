@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177092)
 - [Suggestion: keyboard shortcuts (especially for zooming)](https://forums.vatsim.net/topic/31068-suggestion-keyboard-shortcuts-especially-for-zooming/?do=findComment&comment=177091)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177090)
 - [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177089)
@@ -62,7 +63,6 @@
 - [xpilot connect button is greyed out and in the text box it is constantly saying waiting for xplane connection](https://forums.vatsim.net/topic/31066-xpilot-connect-button-is-greyed-out-and-in-the-text-box-it-is-constantly-saying-waiting-for-xplane-connection/?do=findComment&comment=177085)
 - [xpilot connect button is greyed out and in the text box it is constantly saying waiting for xplane connection](https://forums.vatsim.net/topic/31066-xpilot-connect-button-is-greyed-out-and-in-the-text-box-it-is-constantly-saying-waiting-for-xplane-connection/?do=findComment&comment=177084)
 - [VATSIM Tech Blog, Q1 2021](https://forums.vatsim.net/blogs/entry/2-vatsim-tech-blog-q1-2021/?do=findComment&comment=17)
-- [1,700 hours and One year later - a thank you from a blind pilot](https://forums.vatsim.net/topic/30385-1700-hours-and-one-year-later-a-thank-you-from-a-blind-pilot/?do=findComment&comment=177083)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
