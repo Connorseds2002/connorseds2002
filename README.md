@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177088)
+- [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177087)
 - [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177086)
 - [xpilot connect button is greyed out and in the text box it is constantly saying waiting for xplane connection](https://forums.vatsim.net/topic/31066-xpilot-connect-button-is-greyed-out-and-in-the-text-box-it-is-constantly-saying-waiting-for-xplane-connection/?do=findComment&comment=177085)
 - [xpilot connect button is greyed out and in the text box it is constantly saying waiting for xplane connection](https://forums.vatsim.net/topic/31066-xpilot-connect-button-is-greyed-out-and-in-the-text-box-it-is-constantly-saying-waiting-for-xplane-connection/?do=findComment&comment=177084)
@@ -61,8 +63,6 @@
 - [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177082)
 - [VATSIM Tech Blog, Q1 2021](https://forums.vatsim.net/blogs/entry/2-vatsim-tech-blog-q1-2021/?do=findComment&comment=16)
 - [VATSIM Tech Blog, Q1 2021](https://forums.vatsim.net/blogs/entry/2-vatsim-tech-blog-q1-2021/?do=findComment&comment=15)
-- [Flightplan Prefile getting errors](https://forums.vatsim.net/topic/31065-flightplan-prefile-getting-errors/?do=findComment&comment=177081)
-- [Flightplan Prefile getting errors](https://forums.vatsim.net/topic/31065-flightplan-prefile-getting-errors/?do=findComment&comment=177080)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
