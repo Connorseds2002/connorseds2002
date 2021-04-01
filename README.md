@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177082)
+- [VATSIM Tech Blog, Q1 2021](https://forums.vatsim.net/blogs/entry/2-vatsim-tech-blog-q1-2021/?do=findComment&comment=16)
+- [VATSIM Tech Blog, Q1 2021](https://forums.vatsim.net/blogs/entry/2-vatsim-tech-blog-q1-2021/?do=findComment&comment=15)
 - [Flightplan Prefile getting errors](https://forums.vatsim.net/topic/31065-flightplan-prefile-getting-errors/?do=findComment&comment=177081)
 - [Flightplan Prefile getting errors](https://forums.vatsim.net/topic/31065-flightplan-prefile-getting-errors/?do=findComment&comment=177080)
 - [Error HRESULT: 0x88890008](https://forums.vatsim.net/topic/31059-error-hresult-0x88890008/?do=findComment&comment=177079)
@@ -60,9 +63,6 @@
 - [Coming back](https://forums.vatsim.net/topic/31062-coming-back/?do=findComment&comment=177077)
 - [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177076)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177075)
-- [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177074)
-- [Coming back](https://forums.vatsim.net/topic/31062-coming-back/?do=findComment&comment=177073)
-- [VATSIM Tech Blog, Q1 2021](https://forums.vatsim.net/blogs/entry/2-vatsim-tech-blog-q1-2021/)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
