@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC from startup to shutdown :-)](https://forums.vatsim.net/topic/31072-atc-from-startup-to-shutdown/?do=findComment&comment=177105)
+- [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177104)
 - [Volume equalizer](https://forums.vatsim.net/topic/31069-volume-equalizer/?do=findComment&comment=177103)
 - [Volume equalizer](https://forums.vatsim.net/topic/31071-volume-equalizer/?do=findComment&comment=177102)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177101)
@@ -61,8 +63,6 @@
 - [Volume equalizer](https://forums.vatsim.net/topic/31069-volume-equalizer/?do=findComment&comment=177099)
 - [VATSIM Tech Blog, Q1 2021](https://forums.vatsim.net/blogs/entry/2-vatsim-tech-blog-q1-2021/?do=findComment&comment=18)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177098)
-- [Volume equalizer](https://forums.vatsim.net/topic/31069-volume-equalizer/?do=findComment&comment=177097)
-- [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177096)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
