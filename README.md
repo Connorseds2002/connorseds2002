@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Volume equalizer](https://forums.vatsim.net/topic/31069-volume-equalizer/?do=findComment&comment=177103)
+- [Volume equalizer](https://forums.vatsim.net/topic/31071-volume-equalizer/?do=findComment&comment=177102)
+- [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177101)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177100)
 - [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=19)
 - [Volume equalizer](https://forums.vatsim.net/topic/31069-volume-equalizer/?do=findComment&comment=177099)
@@ -60,9 +63,6 @@
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177098)
 - [Volume equalizer](https://forums.vatsim.net/topic/31069-volume-equalizer/?do=findComment&comment=177097)
 - [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177096)
-- [India vACC Events and Marketing Director Vacancy](https://forums.vatsim.net/topic/30853-india-vacc-events-and-marketing-director-vacancy/?do=findComment&comment=177095)
-- [Cross The Pond 2021](https://forums.vatsim.net/topic/31040-cross-the-pond-2021/?do=findComment&comment=177094)
-- [Suggestion: keyboard shortcuts (especially for zooming)](https://forums.vatsim.net/topic/31068-suggestion-keyboard-shortcuts-especially-for-zooming/?do=findComment&comment=177093)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
