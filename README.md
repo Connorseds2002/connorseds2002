@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177117)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177116)
 - [Flightplan Prefile getting errors](https://forums.vatsim.net/topic/31065-flightplan-prefile-getting-errors/?do=findComment&comment=177115)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177114)
@@ -62,7 +63,6 @@
 - [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=177110)
 - [500 server error](https://forums.vatsim.net/topic/31074-500-server-error/?do=findComment&comment=177109)
 - [500 server error](https://forums.vatsim.net/topic/31074-500-server-error/?do=findComment&comment=177108)
-- [500 server error](https://forums.vatsim.net/topic/31074-500-server-error/?do=findComment&comment=177107)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
