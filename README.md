@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sounding like a robot](https://forums.vatsim.net/topic/31081-sounding-like-a-robot/?do=findComment&comment=177138)
+- [Sounding like a robot](https://forums.vatsim.net/topic/31081-sounding-like-a-robot/?do=findComment&comment=177137)
+- [My apologies...](https://forums.vatsim.net/topic/31079-my-apologies/?do=findComment&comment=177136)
+- [Sounding like a robot](https://forums.vatsim.net/topic/31081-sounding-like-a-robot/?do=findComment&comment=177135)
 - [Anyway to turn off Pilot Rating in Vatspy?](https://forums.vatsim.net/topic/31080-anyway-to-turn-off-pilot-rating-in-vatspy/?do=findComment&comment=177134)
 - [My apologies...](https://forums.vatsim.net/topic/31079-my-apologies/?do=findComment&comment=177133)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177132)
 - [Suggestion: keyboard shortcuts (especially for zooming)](https://forums.vatsim.net/topic/31068-suggestion-keyboard-shortcuts-especially-for-zooming/?do=findComment&comment=177131)
 - [Suggestion: keyboard shortcuts (especially for zooming)](https://forums.vatsim.net/topic/31068-suggestion-keyboard-shortcuts-especially-for-zooming/?do=findComment&comment=177130)
 - [Appointment of ACCIND5- India vACC Events and Marketing Director](https://forums.vatsim.net/topic/31076-appointment-of-accind5-india-vacc-events-and-marketing-director/?do=findComment&comment=177129)
-- [xpilot connect button is greyed out and in the text box it is constantly saying waiting for xplane connection](https://forums.vatsim.net/topic/31066-xpilot-connect-button-is-greyed-out-and-in-the-text-box-it-is-constantly-saying-waiting-for-xplane-connection/?do=findComment&comment=177128)
-- [Airport Voting | Nepal vACC](https://forums.vatsim.net/topic/31078-airport-voting-nepal-vacc/?do=findComment&comment=177127)
-- [Minutes for BoG 2020 Q4 meeting?](https://forums.vatsim.net/topic/31061-minutes-for-bog-2020-q4-meeting/?do=findComment&comment=177126)
-- [xpilot connect button is greyed out and in the text box it is constantly saying waiting for xplane connection](https://forums.vatsim.net/topic/31066-xpilot-connect-button-is-greyed-out-and-in-the-text-box-it-is-constantly-saying-waiting-for-xplane-connection/?do=findComment&comment=177125)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
