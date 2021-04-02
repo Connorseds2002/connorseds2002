@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Appointment of ACCIND5- India vACC Events and Marketing Director](https://forums.vatsim.net/topic/31076-appointment-of-accind5-india-vacc-events-and-marketing-director/?do=findComment&comment=177129)
 - [xpilot connect button is greyed out and in the text box it is constantly saying waiting for xplane connection](https://forums.vatsim.net/topic/31066-xpilot-connect-button-is-greyed-out-and-in-the-text-box-it-is-constantly-saying-waiting-for-xplane-connection/?do=findComment&comment=177128)
 - [Airport Voting | Nepal vACC](https://forums.vatsim.net/topic/31078-airport-voting-nepal-vacc/?do=findComment&comment=177127)
 - [Minutes for BoG 2020 Q4 meeting?](https://forums.vatsim.net/topic/31061-minutes-for-bog-2020-q4-meeting/?do=findComment&comment=177126)
@@ -62,7 +63,6 @@
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177122)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177121)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177120)
-- [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177119)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
