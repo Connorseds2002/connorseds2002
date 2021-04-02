@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177120)
+- [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177119)
+- [[April 17th 2021 - 13-16z] Ho Chi Minh Control VVHM_CTR, C3 CPT](https://forums.vatsim.net/topic/31075-april-17th-2021-13-16z-ho-chi-minh-control-vvhm_ctr-c3-cpt/?do=findComment&comment=177118)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177117)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177116)
 - [Flightplan Prefile getting errors](https://forums.vatsim.net/topic/31065-flightplan-prefile-getting-errors/?do=findComment&comment=177115)
@@ -60,9 +63,6 @@
 - [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177113)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177112)
 - [Info on VATSIM API](https://forums.vatsim.net/topic/20-info-on-vatsim-api/?do=findComment&comment=177111)
-- [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=177110)
-- [500 server error](https://forums.vatsim.net/topic/31074-500-server-error/?do=findComment&comment=177109)
-- [500 server error](https://forums.vatsim.net/topic/31074-500-server-error/?do=findComment&comment=177108)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
