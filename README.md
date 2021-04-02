@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xpilot connect button is greyed out and in the text box it is constantly saying waiting for xplane connection](https://forums.vatsim.net/topic/31066-xpilot-connect-button-is-greyed-out-and-in-the-text-box-it-is-constantly-saying-waiting-for-xplane-connection/?do=findComment&comment=177128)
+- [Airport Voting | Nepal vACC](https://forums.vatsim.net/topic/31078-airport-voting-nepal-vacc/?do=findComment&comment=177127)
+- [Minutes for BoG 2020 Q4 meeting?](https://forums.vatsim.net/topic/31061-minutes-for-bog-2020-q4-meeting/?do=findComment&comment=177126)
 - [xpilot connect button is greyed out and in the text box it is constantly saying waiting for xplane connection](https://forums.vatsim.net/topic/31066-xpilot-connect-button-is-greyed-out-and-in-the-text-box-it-is-constantly-saying-waiting-for-xplane-connection/?do=findComment&comment=177125)
 - [Stats page is down.](https://forums.vatsim.net/topic/31077-stats-page-is-down/?do=findComment&comment=177124)
 - [Appointment of ACCIND5- India vACC Events and Marketing Director](https://forums.vatsim.net/topic/31076-appointment-of-accind5-india-vacc-events-and-marketing-director/?do=findComment&comment=177123)
@@ -60,9 +63,6 @@
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177121)
 - [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177120)
 - [Alleviating ATC Callsigns](https://forums.vatsim.net/topic/31057-alleviating-atc-callsigns/?do=findComment&comment=177119)
-- [[April 17th 2021 - 13-16z] Ho Chi Minh Control VVHM_CTR, C3 CPT](https://forums.vatsim.net/topic/31075-april-17th-2021-13-16z-ho-chi-minh-control-vvhm_ctr-c3-cpt/?do=findComment&comment=177118)
-- [VAT-Spy version 1.3.0-beta.1 available for download](https://forums.vatsim.net/topic/31053-vat-spy-version-130-beta1-available-for-download/?do=findComment&comment=177117)
-- [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177116)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
