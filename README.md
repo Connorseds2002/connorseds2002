@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Info on VATSIM API](https://forums.vatsim.net/topic/20-info-on-vatsim-api/?do=findComment&comment=177111)
+- [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=177110)
 - [500 server error](https://forums.vatsim.net/topic/31074-500-server-error/?do=findComment&comment=177109)
 - [500 server error](https://forums.vatsim.net/topic/31074-500-server-error/?do=findComment&comment=177108)
 - [500 server error](https://forums.vatsim.net/topic/31074-500-server-error/?do=findComment&comment=177107)
@@ -61,8 +63,6 @@
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177104)
 - [Volume equalizer](https://forums.vatsim.net/topic/31071-volume-equalizer/?do=findComment&comment=177102)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177101)
-- [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177100)
-- [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=19)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
