@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[18:01:08] Network error: Invalid CID/password [18:01:08] Error connecting to voice server: Connect failed (Forbidden - ) [18:01:10] Disconnected from network.](https://forums.vatsim.net/topic/31089-180108-network-error-invalid-cidpassword-180108-error-connecting-to-voice-server-connect-failed-forbidden-180110-disconnected-from-network/?do=findComment&comment=177160)
+- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=177159)
 - [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=177158)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177157)
 - [[18:01:08] Network error: Invalid CID/password [18:01:08] Error connecting to voice server: Connect failed (Forbidden - ) [18:01:10] Disconnected from network.](https://forums.vatsim.net/topic/31089-180108-network-error-invalid-cidpassword-180108-error-connecting-to-voice-server-connect-failed-forbidden-180110-disconnected-from-network/?do=findComment&comment=177156)
@@ -61,8 +63,6 @@
 - [[VACANCY] Jordan vACC Events Director (ACCJO5)](https://forums.vatsim.net/topic/31088-vacancy-jordan-vacc-events-director-accjo5/?do=findComment&comment=177153)
 - [[April 24th 14:00z-18:00z] Istanbul - Tel Aviv CityLink](https://forums.vatsim.net/topic/31087-april-24th-1400z-1800z-istanbul-tel-aviv-citylink/?do=findComment&comment=177152)
 - [Bug 10060 in vPilot](https://forums.vatsim.net/topic/31086-bug-10060-in-vpilot/?do=findComment&comment=177151)
-- [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=177150)
-- [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=177149)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
