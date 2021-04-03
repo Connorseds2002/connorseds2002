@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Not Connecting on Mac](https://forums.vatsim.net/topic/31083-not-connecting-on-mac/?do=findComment&comment=177143)
 - [Anyway to turn off Pilot Rating in Vatspy?](https://forums.vatsim.net/topic/31080-anyway-to-turn-off-pilot-rating-in-vatspy/?do=findComment&comment=177142)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177141)
 - [Changes to VATSIM Board of Governors](https://forums.vatsim.net/topic/31082-changes-to-vatsim-board-of-governors/?do=findComment&comment=177140)
@@ -62,7 +63,6 @@
 - [My apologies...](https://forums.vatsim.net/topic/31079-my-apologies/?do=findComment&comment=177136)
 - [Sounding like a robot](https://forums.vatsim.net/topic/31081-sounding-like-a-robot/?do=findComment&comment=177135)
 - [Anyway to turn off Pilot Rating in Vatspy?](https://forums.vatsim.net/topic/31080-anyway-to-turn-off-pilot-rating-in-vatspy/?do=findComment&comment=177134)
-- [My apologies...](https://forums.vatsim.net/topic/31079-my-apologies/?do=findComment&comment=177133)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
