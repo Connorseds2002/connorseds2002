@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=177150)
 - [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=177149)
 - [Anyway to turn off Pilot Rating in Vatspy?](https://forums.vatsim.net/topic/31080-anyway-to-turn-off-pilot-rating-in-vatspy/?do=findComment&comment=177148)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177147)
@@ -62,7 +63,6 @@
 - [Not Connecting on Mac](https://forums.vatsim.net/topic/31083-not-connecting-on-mac/?do=findComment&comment=177143)
 - [Anyway to turn off Pilot Rating in Vatspy?](https://forums.vatsim.net/topic/31080-anyway-to-turn-off-pilot-rating-in-vatspy/?do=findComment&comment=177142)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177141)
-- [Changes to VATSIM Board of Governors](https://forums.vatsim.net/topic/31082-changes-to-vatsim-board-of-governors/?do=findComment&comment=177140)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
