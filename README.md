@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Requesting Start-up and Push back clearance (is this for all aircraft?)](https://forums.vatsim.net/topic/30780-requesting-start-up-and-push-back-clearance-is-this-for-all-aircraft/?do=findComment&comment=177149)
+- [Anyway to turn off Pilot Rating in Vatspy?](https://forums.vatsim.net/topic/31080-anyway-to-turn-off-pilot-rating-in-vatspy/?do=findComment&comment=177148)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177147)
 - [VatSys not loading](https://forums.vatsim.net/topic/31084-vatsys-not-loading/?do=findComment&comment=177146)
 - [Appointment of ACCIND5- India vACC Events and Marketing Director](https://forums.vatsim.net/topic/31076-appointment-of-accind5-india-vacc-events-and-marketing-director/?do=findComment&comment=177145)
@@ -61,8 +63,6 @@
 - [Anyway to turn off Pilot Rating in Vatspy?](https://forums.vatsim.net/topic/31080-anyway-to-turn-off-pilot-rating-in-vatspy/?do=findComment&comment=177142)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177141)
 - [Changes to VATSIM Board of Governors](https://forums.vatsim.net/topic/31082-changes-to-vatsim-board-of-governors/?do=findComment&comment=177140)
-- [Flightplan Prefile getting errors](https://forums.vatsim.net/topic/31065-flightplan-prefile-getting-errors/?do=findComment&comment=177139)
-- [Sounding like a robot](https://forums.vatsim.net/topic/31081-sounding-like-a-robot/?do=findComment&comment=177138)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
