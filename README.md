@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Appointment of ACCIND5- India vACC Events and Marketing Director](https://forums.vatsim.net/topic/31076-appointment-of-accind5-india-vacc-events-and-marketing-director/?do=findComment&comment=177145)
+- [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=177144)
 - [Not Connecting on Mac](https://forums.vatsim.net/topic/31083-not-connecting-on-mac/?do=findComment&comment=177143)
 - [Anyway to turn off Pilot Rating in Vatspy?](https://forums.vatsim.net/topic/31080-anyway-to-turn-off-pilot-rating-in-vatspy/?do=findComment&comment=177142)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177141)
@@ -61,8 +63,6 @@
 - [Sounding like a robot](https://forums.vatsim.net/topic/31081-sounding-like-a-robot/?do=findComment&comment=177138)
 - [Sounding like a robot](https://forums.vatsim.net/topic/31081-sounding-like-a-robot/?do=findComment&comment=177137)
 - [My apologies...](https://forums.vatsim.net/topic/31079-my-apologies/?do=findComment&comment=177136)
-- [Sounding like a robot](https://forums.vatsim.net/topic/31081-sounding-like-a-robot/?do=findComment&comment=177135)
-- [Anyway to turn off Pilot Rating in Vatspy?](https://forums.vatsim.net/topic/31080-anyway-to-turn-off-pilot-rating-in-vatspy/?do=findComment&comment=177134)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
