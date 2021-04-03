@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Jordan vACC Events Director (ACCJO5)](https://forums.vatsim.net/topic/31088-vacancy-jordan-vacc-events-director-accjo5/?do=findComment&comment=177153)
 - [[April 24th 14:00z-18:00z] Istanbul - Tel Aviv CityLink](https://forums.vatsim.net/topic/31087-april-24th-1400z-1800z-istanbul-tel-aviv-citylink/?do=findComment&comment=177152)
 - [Bug 10060 in vPilot](https://forums.vatsim.net/topic/31086-bug-10060-in-vpilot/?do=findComment&comment=177151)
 - [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=177150)
@@ -62,7 +63,6 @@
 - [VatSys not loading](https://forums.vatsim.net/topic/31084-vatsys-not-loading/?do=findComment&comment=177146)
 - [Appointment of ACCIND5- India vACC Events and Marketing Director](https://forums.vatsim.net/topic/31076-appointment-of-accind5-india-vacc-events-and-marketing-director/?do=findComment&comment=177145)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=177144)
-- [Not Connecting on Mac](https://forums.vatsim.net/topic/31083-not-connecting-on-mac/?do=findComment&comment=177143)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
