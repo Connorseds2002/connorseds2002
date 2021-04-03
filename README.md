@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [02MAY21 | Bordertown to Mount Gambier via Coorong](https://vatpac.org/calendar/event/1729-02may21-bordertown-to-mount-gambier-via-coorong/)
+- [30APR21 | Mount Gambier to Bordertown](https://vatpac.org/calendar/event/1728-30apr21-mount-gambier-to-bordertown/)
 - [14APR21 World Discovery New Foundland, Canada](https://vatpac.org/calendar/event/1722-14apr21-world-discovery-new-foundland-canada/)
 - [07APR21 World Discovery Republic of Georgia](https://vatpac.org/calendar/event/1721-07apr21-world-discovery-republic-of-georgia/)
 - [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/forums/topic/18671-02apr21-fifo-friday-pilbara-kimberley/?do=findComment&comment=131358)
@@ -47,8 +49,6 @@
 - [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131333)
 - [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131332)
 - [NOTAM: New Brisbane Local Instructions and amended MATS](https://vatpac.org/forums/topic/18692-notam-new-brisbane-local-instructions-and-amended-mats/?do=findComment&comment=131331)
-- [28MAR21 | Margaret River to Albany](https://vatpac.org/calendar/event/1674-28mar21-margaret-river-to-albany/?do=findComment&comment=243&tab=comments)
-- [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131330)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
