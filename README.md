@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Selecting microphone device on xpilot disables sound](https://forums.vatsim.net/topic/31097-selecting-microphone-device-on-xpilot-disables-sound/?do=findComment&comment=177180)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177179)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177178)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177177)
@@ -62,7 +63,6 @@
 - [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=177173)
 - [VatSys not loading](https://forums.vatsim.net/topic/31084-vatsys-not-loading/?do=findComment&comment=177172)
 - [[17th April, 1130Z - 2000Z] The Expedition - Dubai to Vienna](https://forums.vatsim.net/topic/31094-17th-april-1130z-2000z-the-expedition-dubai-to-vienna/?do=findComment&comment=177171)
-- [Appointment of ACCIND5- India vACC Events and Marketing Director](https://forums.vatsim.net/topic/31076-appointment-of-accind5-india-vacc-events-and-marketing-director/?do=findComment&comment=177170)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
