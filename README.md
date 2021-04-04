@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=177173)
+- [VatSys not loading](https://forums.vatsim.net/topic/31084-vatsys-not-loading/?do=findComment&comment=177172)
+- [[17th April, 1130Z - 2000Z] The Expedition - Dubai to Vienna](https://forums.vatsim.net/topic/31094-17th-april-1130z-2000z-the-expedition-dubai-to-vienna/?do=findComment&comment=177171)
 - [Appointment of ACCIND5- India vACC Events and Marketing Director](https://forums.vatsim.net/topic/31076-appointment-of-accind5-india-vacc-events-and-marketing-director/?do=findComment&comment=177170)
 - [ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=177169)
 - [Streamdeck VSCS control](https://forums.vatsim.net/topic/31091-streamdeck-vscs-control/?do=findComment&comment=177168)
@@ -60,9 +63,6 @@
 - [VatSys not loading](https://forums.vatsim.net/topic/31084-vatsys-not-loading/?do=findComment&comment=177166)
 - [New user ‘Pilot Radio Calls’](https://forums.vatsim.net/topic/31092-new-user-%E2%80%98pilot-radio-calls%E2%80%99/?do=findComment&comment=177165)
 - [New user ‘Pilot Radio Calls’](https://forums.vatsim.net/topic/31092-new-user-%E2%80%98pilot-radio-calls%E2%80%99/?do=findComment&comment=177164)
-- [Streamdeck VSCS control](https://forums.vatsim.net/topic/31091-streamdeck-vscs-control/?do=findComment&comment=177163)
-- [[18:01:08] Network error: Invalid CID/password [18:01:08] Error connecting to voice server: Connect failed (Forbidden - ) [18:01:10] Disconnected from network.](https://forums.vatsim.net/topic/31089-180108-network-error-invalid-cidpassword-180108-error-connecting-to-voice-server-connect-failed-forbidden-180110-disconnected-from-network/?do=findComment&comment=177162)
-- [[18:01:08] Network error: Invalid CID/password [18:01:08] Error connecting to voice server: Connect failed (Forbidden - ) [18:01:10] Disconnected from network.](https://forums.vatsim.net/topic/31089-180108-network-error-invalid-cidpassword-180108-error-connecting-to-voice-server-connect-failed-forbidden-180110-disconnected-from-network/?do=findComment&comment=177160)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
