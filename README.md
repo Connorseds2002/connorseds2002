@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177183)
 - [Vpilot 2.8.1 major drop in FPS](https://forums.vatsim.net/topic/31098-vpilot-281-major-drop-in-fps/?do=findComment&comment=177182)
 - [POSITION VACANCY - MULTIPLE - VATCAR WEB TEAM](https://forums.vatsim.net/topic/30927-position-vacancy-multiple-vatcar-web-team/?do=findComment&comment=177181)
 - [Selecting microphone device on xpilot disables sound](https://forums.vatsim.net/topic/31097-selecting-microphone-device-on-xpilot-disables-sound/?do=findComment&comment=177180)
@@ -62,7 +63,6 @@
 - [FSD Server licence expired 2021....](https://forums.vatsim.net/topic/30562-fsd-server-licence-expired-2021/?do=findComment&comment=177176)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177175)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177174)
-- [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=177173)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
