@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=177169)
 - [Streamdeck VSCS control](https://forums.vatsim.net/topic/31091-streamdeck-vscs-control/?do=findComment&comment=177168)
 - [New user ‘Pilot Radio Calls’](https://forums.vatsim.net/topic/31092-new-user-%E2%80%98pilot-radio-calls%E2%80%99/?do=findComment&comment=177167)
 - [VatSys not loading](https://forums.vatsim.net/topic/31084-vatsys-not-loading/?do=findComment&comment=177166)
@@ -62,7 +63,6 @@
 - [[18:01:08] Network error: Invalid CID/password [18:01:08] Error connecting to voice server: Connect failed (Forbidden - ) [18:01:10] Disconnected from network.](https://forums.vatsim.net/topic/31089-180108-network-error-invalid-cidpassword-180108-error-connecting-to-voice-server-connect-failed-forbidden-180110-disconnected-from-network/?do=findComment&comment=177162)
 - [[18:01:08] Network error: Invalid CID/password [18:01:08] Error connecting to voice server: Connect failed (Forbidden - ) [18:01:10] Disconnected from network.](https://forums.vatsim.net/topic/31089-180108-network-error-invalid-cidpassword-180108-error-connecting-to-voice-server-connect-failed-forbidden-180110-disconnected-from-network/?do=findComment&comment=177160)
 - [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=177159)
-- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=177158)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
