@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot 2.8.1 major drop in FPS](https://forums.vatsim.net/topic/31098-vpilot-281-major-drop-in-fps/?do=findComment&comment=177182)
+- [POSITION VACANCY - MULTIPLE - VATCAR WEB TEAM](https://forums.vatsim.net/topic/30927-position-vacancy-multiple-vatcar-web-team/?do=findComment&comment=177181)
 - [Selecting microphone device on xpilot disables sound](https://forums.vatsim.net/topic/31097-selecting-microphone-device-on-xpilot-disables-sound/?do=findComment&comment=177180)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177179)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177178)
@@ -61,8 +63,6 @@
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177175)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177174)
 - [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=177173)
-- [VatSys not loading](https://forums.vatsim.net/topic/31084-vatsys-not-loading/?do=findComment&comment=177172)
-- [[17th April, 1130Z - 2000Z] The Expedition - Dubai to Vienna](https://forums.vatsim.net/topic/31094-17th-april-1130z-2000z-the-expedition-dubai-to-vienna/?do=findComment&comment=177171)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
