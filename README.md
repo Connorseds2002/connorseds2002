@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177175)
+- [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177174)
 - [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=177173)
 - [VatSys not loading](https://forums.vatsim.net/topic/31084-vatsys-not-loading/?do=findComment&comment=177172)
 - [[17th April, 1130Z - 2000Z] The Expedition - Dubai to Vienna](https://forums.vatsim.net/topic/31094-17th-april-1130z-2000z-the-expedition-dubai-to-vienna/?do=findComment&comment=177171)
@@ -61,8 +63,6 @@
 - [Streamdeck VSCS control](https://forums.vatsim.net/topic/31091-streamdeck-vscs-control/?do=findComment&comment=177168)
 - [New user ‘Pilot Radio Calls’](https://forums.vatsim.net/topic/31092-new-user-%E2%80%98pilot-radio-calls%E2%80%99/?do=findComment&comment=177167)
 - [VatSys not loading](https://forums.vatsim.net/topic/31084-vatsys-not-loading/?do=findComment&comment=177166)
-- [New user ‘Pilot Radio Calls’](https://forums.vatsim.net/topic/31092-new-user-%E2%80%98pilot-radio-calls%E2%80%99/?do=findComment&comment=177165)
-- [New user ‘Pilot Radio Calls’](https://forums.vatsim.net/topic/31092-new-user-%E2%80%98pilot-radio-calls%E2%80%99/?do=findComment&comment=177164)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
