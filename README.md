@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177204)
+- [New To VATSIM Experienced an Emergency Inflight](https://forums.vatsim.net/topic/31105-new-to-vatsim-experienced-an-emergency-inflight/?do=findComment&comment=177203)
+- [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177202)
 - [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177201)
 - [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177200)
 - [Not Connecting on Mac](https://forums.vatsim.net/topic/31083-not-connecting-on-mac/?do=findComment&comment=177199)
@@ -60,9 +63,6 @@
 - [Some questions](https://forums.vatsim.net/topic/30885-some-questions/?do=findComment&comment=177197)
 - [Can you see what airports have ATC from the map?](https://forums.vatsim.net/topic/31101-can-you-see-what-airports-have-atc-from-the-map/?do=findComment&comment=177196)
 - [Missing flight_plan in api v3](https://forums.vatsim.net/topic/31103-missing-flight_plan-in-api-v3/?do=findComment&comment=177195)
-- [Friday Night Live: 09-04-2021: Hyderabad (VOHS) to Chennai (VOMM)](https://forums.vatsim.net/topic/31102-friday-night-live-09-04-2021-hyderabad-vohs-to-chennai-vomm/?do=findComment&comment=177194)
-- [Can you see what airports have ATC from the map?](https://forums.vatsim.net/topic/31101-can-you-see-what-airports-have-atc-from-the-map/?do=findComment&comment=177193)
-- [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=177192)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
