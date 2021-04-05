@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5APR21 | Andrew Harle](https://vatpac.org/forums/topic/18726-5apr21-andrew-harle/?do=findComment&comment=131432)
 - [5APR21 | MRM Controlling Guru(s)](https://vatpac.org/forums/topic/18725-5apr21-mrm-controlling-gurus/?do=findComment&comment=131429)
 - [02MAY21 | Bordertown to Mount Gambier via Coorong](https://vatpac.org/calendar/event/1729-02may21-bordertown-to-mount-gambier-via-coorong/)
 - [30APR21 | Mount Gambier to Bordertown](https://vatpac.org/calendar/event/1728-30apr21-mount-gambier-to-bordertown/)
@@ -48,7 +49,6 @@
 - [TWR Controller - Dominic Burjak](https://vatpac.org/forums/topic/18697-twr-controller-dominic-burjak/?do=findComment&comment=131348)
 - [31MAR21 World Discovery Indonesian West Papua](https://vatpac.org/calendar/event/1717-31mar21-world-discovery-indonesian-west-papua/)
 - [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131333)
-- [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131332)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
