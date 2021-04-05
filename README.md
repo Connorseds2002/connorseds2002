@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [KIND 04-05 April 2021 Event](https://forums.vatsim.net/topic/31099-kind-04-05-april-2021-event/?do=findComment&comment=177186)
 - [New user ‘Pilot Radio Calls’](https://forums.vatsim.net/topic/31092-new-user-%E2%80%98pilot-radio-calls%E2%80%99/?do=findComment&comment=177185)
 - [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=177184)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177183)
@@ -62,7 +63,6 @@
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=177179)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177178)
 - [real world atis](https://forums.vatsim.net/topic/31067-real-world-atis/?do=findComment&comment=177177)
-- [FSD Server licence expired 2021....](https://forums.vatsim.net/topic/30562-fsd-server-licence-expired-2021/?do=findComment&comment=177176)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
