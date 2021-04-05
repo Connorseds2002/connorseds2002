@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5APR21 | MRM Controlling Guru(s)](https://vatpac.org/forums/topic/18725-5apr21-mrm-controlling-gurus/?do=findComment&comment=131429)
 - [02MAY21 | Bordertown to Mount Gambier via Coorong](https://vatpac.org/calendar/event/1729-02may21-bordertown-to-mount-gambier-via-coorong/)
 - [30APR21 | Mount Gambier to Bordertown](https://vatpac.org/calendar/event/1728-30apr21-mount-gambier-to-bordertown/)
 - [14APR21 World Discovery New Foundland, Canada](https://vatpac.org/calendar/event/1722-14apr21-world-discovery-new-foundland-canada/)
@@ -48,7 +49,6 @@
 - [31MAR21 World Discovery Indonesian West Papua](https://vatpac.org/calendar/event/1717-31mar21-world-discovery-indonesian-west-papua/)
 - [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131333)
 - [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131332)
-- [NOTAM: New Brisbane Local Instructions and amended MATS](https://vatpac.org/forums/topic/18692-notam-new-brisbane-local-instructions-and-amended-mats/?do=findComment&comment=131331)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
