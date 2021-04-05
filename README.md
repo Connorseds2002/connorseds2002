@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177201)
+- [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177200)
 - [Not Connecting on Mac](https://forums.vatsim.net/topic/31083-not-connecting-on-mac/?do=findComment&comment=177199)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177198)
 - [Some questions](https://forums.vatsim.net/topic/30885-some-questions/?do=findComment&comment=177197)
@@ -61,8 +63,6 @@
 - [Friday Night Live: 09-04-2021: Hyderabad (VOHS) to Chennai (VOMM)](https://forums.vatsim.net/topic/31102-friday-night-live-09-04-2021-hyderabad-vohs-to-chennai-vomm/?do=findComment&comment=177194)
 - [Can you see what airports have ATC from the map?](https://forums.vatsim.net/topic/31101-can-you-see-what-airports-have-atc-from-the-map/?do=findComment&comment=177193)
 - [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=177192)
-- [Appointment of ACCIND5- India vACC Events and Marketing Director](https://forums.vatsim.net/topic/31076-appointment-of-accind5-india-vacc-events-and-marketing-director/?do=findComment&comment=177191)
-- [Some questions](https://forums.vatsim.net/topic/30885-some-questions/?do=findComment&comment=177190)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
