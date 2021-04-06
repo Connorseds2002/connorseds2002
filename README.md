@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Cross The Pond: Westbound 2021](https://forums.vatsim.net/topic/30925-vatsim-cross-the-pond-westbound-2021/?do=findComment&comment=177256)
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177255)
+- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177254)
+- [Frequencies which are given with 2 digits but actually need 3 (eg. .220/.225) not working](https://forums.vatsim.net/topic/31113-frequencies-which-are-given-with-2-digits-but-actually-need-3-eg-220225-not-working/?do=findComment&comment=177253)
+- [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177252)
+- [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177251)
 - [Unable to connect Voice due to error](https://forums.vatsim.net/topic/31110-unable-to-connect-voice-due-to-error/?do=findComment&comment=177250)
 - [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177249)
 - [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177248)
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177247)
-- [Vatsim config file in SAM-plugin](https://forums.vatsim.net/topic/31111-vatsim-config-file-in-sam-plugin/?do=findComment&comment=177246)
-- [Unable to connect Voice due to error](https://forums.vatsim.net/topic/31110-unable-to-connect-voice-due-to-error/?do=findComment&comment=177245)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177244)
-- [Vatsim config file in SAM-plugin](https://forums.vatsim.net/topic/31111-vatsim-config-file-in-sam-plugin/?do=findComment&comment=177242)
-- [Vatsim config file in SAM-plugin](https://forums.vatsim.net/topic/31112-vatsim-config-file-in-sam-plugin/?do=findComment&comment=177243)
-- [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177241)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
