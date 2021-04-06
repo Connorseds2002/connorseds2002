@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177234)
+- [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177233)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177232)
 - [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177231)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177230)
@@ -61,8 +63,6 @@
 - [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177227)
 - [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177226)
 - [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177225)
-- [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177224)
-- [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177223)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
