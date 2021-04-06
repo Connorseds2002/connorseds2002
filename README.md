@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to connect Voice due to error](https://forums.vatsim.net/topic/31110-unable-to-connect-voice-due-to-error/?do=findComment&comment=177250)
+- [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177249)
+- [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177248)
+- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177247)
 - [Vatsim config file in SAM-plugin](https://forums.vatsim.net/topic/31111-vatsim-config-file-in-sam-plugin/?do=findComment&comment=177246)
 - [Unable to connect Voice due to error](https://forums.vatsim.net/topic/31110-unable-to-connect-voice-due-to-error/?do=findComment&comment=177245)
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177244)
 - [Vatsim config file in SAM-plugin](https://forums.vatsim.net/topic/31111-vatsim-config-file-in-sam-plugin/?do=findComment&comment=177242)
 - [Vatsim config file in SAM-plugin](https://forums.vatsim.net/topic/31112-vatsim-config-file-in-sam-plugin/?do=findComment&comment=177243)
 - [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177241)
-- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=177240)
-- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=177239)
-- [Lithuania VACC](https://forums.vatsim.net/topic/29747-lithuania-vacc/?do=findComment&comment=177238)
-- [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177237)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
