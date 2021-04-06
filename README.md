@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Lithuania VACC](https://forums.vatsim.net/topic/29747-lithuania-vacc/?do=findComment&comment=177238)
+- [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177237)
 - [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=177236)
 - [Unable to connect Voice due to error](https://forums.vatsim.net/topic/31110-unable-to-connect-voice-due-to-error/?do=findComment&comment=177235)
 - [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177234)
@@ -61,8 +63,6 @@
 - [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177231)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177230)
 - [I Can't transmit in VATSIM (I can recive) x-pilot ssg748v2.2](https://forums.vatsim.net/topic/31035-i-cant-transmit-in-vatsim-i-can-recive-x-pilot-ssg748v22/?do=findComment&comment=177229)
-- [[April 9, 2021] Friday Night Flights (KMYF)](https://forums.vatsim.net/topic/31109-april-9-2021-friday-night-flights-kmyf/?do=findComment&comment=177228)
-- [Center zones map](https://forums.vatsim.net/topic/31104-center-zones-map/?do=findComment&comment=177227)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
