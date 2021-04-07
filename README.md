@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I need help connecting in the client (new vatsim pilot)](https://forums.vatsim.net/topic/31121-i-need-help-connecting-in-the-client-new-vatsim-pilot/?do=findComment&comment=177313)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177312)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177311)
 - [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=177310)
@@ -62,7 +63,6 @@
 - [Min set of files](https://forums.vatsim.net/topic/31115-min-set-of-files/?do=findComment&comment=177306)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177305)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177304)
-- [Maybe stupid ?](https://forums.vatsim.net/topic/31119-maybe-stupid/?do=findComment&comment=177303)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
