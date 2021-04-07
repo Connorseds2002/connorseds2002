@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177293)
+- [Is VRoute frozen today ?](https://forums.vatsim.net/topic/31120-is-vroute-frozen-today/?do=findComment&comment=177292)
+- [Beginner questions](https://forums.vatsim.net/topic/31050-beginner-questions/?do=findComment&comment=177291)
+- [AFCAD para o PREPAR 3D](https://forums.vatsim.net/topic/30997-afcad-para-o-prepar-3d/?do=findComment&comment=177290)
+- [Where should i request for IFR clearance when there is no clearance ATC active?](https://forums.vatsim.net/topic/31118-where-should-i-request-for-ifr-clearance-when-there-is-no-clearance-atc-active/?do=findComment&comment=177289)
 - [Maybe stupid ?](https://forums.vatsim.net/topic/31119-maybe-stupid/?do=findComment&comment=177288)
 - [Where should i request for IFR clearance when there is no clearance ATC active?](https://forums.vatsim.net/topic/31118-where-should-i-request-for-ifr-clearance-when-there-is-no-clearance-atc-active/?do=findComment&comment=177287)
 - [Where should i request for IFR clearance when there is no clearance ATC active?](https://forums.vatsim.net/topic/31118-where-should-i-request-for-ifr-clearance-when-there-is-no-clearance-atc-active/?do=findComment&comment=177286)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177285)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177284)
-- [Where should i request for IFR clearance when there is no clearance ATC active?](https://forums.vatsim.net/topic/31118-where-should-i-request-for-ifr-clearance-when-there-is-no-clearance-atc-active/?do=findComment&comment=177283)
-- [Where should i request for IFR clearance when there is no clearance ATC active?](https://forums.vatsim.net/topic/31118-where-should-i-request-for-ifr-clearance-when-there-is-no-clearance-atc-active/?do=findComment&comment=177282)
-- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177281)
-- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177280)
-- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177279)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
