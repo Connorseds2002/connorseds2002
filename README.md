@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Maybe stupid ?](https://forums.vatsim.net/topic/31119-maybe-stupid/?do=findComment&comment=177288)
+- [Where should i request for IFR clearance when there is no clearance ATC active?](https://forums.vatsim.net/topic/31118-where-should-i-request-for-ifr-clearance-when-there-is-no-clearance-atc-active/?do=findComment&comment=177287)
+- [Where should i request for IFR clearance when there is no clearance ATC active?](https://forums.vatsim.net/topic/31118-where-should-i-request-for-ifr-clearance-when-there-is-no-clearance-atc-active/?do=findComment&comment=177286)
+- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177285)
+- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177284)
 - [Where should i request for IFR clearance when there is no clearance ATC active?](https://forums.vatsim.net/topic/31118-where-should-i-request-for-ifr-clearance-when-there-is-no-clearance-atc-active/?do=findComment&comment=177283)
 - [Where should i request for IFR clearance when there is no clearance ATC active?](https://forums.vatsim.net/topic/31118-where-should-i-request-for-ifr-clearance-when-there-is-no-clearance-atc-active/?do=findComment&comment=177282)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177281)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177280)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177279)
-- [Min set of files](https://forums.vatsim.net/topic/31115-min-set-of-files/?do=findComment&comment=177278)
-- [Unadvertised changes to JSON v3 format after release](https://forums.vatsim.net/topic/31117-unadvertised-changes-to-json-v3-format-after-release/?do=findComment&comment=177277)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177276)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177275)
-- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177274)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
