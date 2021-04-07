@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177261)
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177260)
 - [Frequencies which are given with 2 digits but actually need 3 (eg. .220/.225) not working](https://forums.vatsim.net/topic/31113-frequencies-which-are-given-with-2-digits-but-actually-need-3-eg-220225-not-working/?do=findComment&comment=177259)
 - [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177258)
@@ -62,7 +63,6 @@
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177254)
 - [Frequencies which are given with 2 digits but actually need 3 (eg. .220/.225) not working](https://forums.vatsim.net/topic/31113-frequencies-which-are-given-with-2-digits-but-actually-need-3-eg-220225-not-working/?do=findComment&comment=177253)
 - [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177252)
-- [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177251)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
