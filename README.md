@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177267)
+- [Min set of files](https://forums.vatsim.net/topic/31115-min-set-of-files/?do=findComment&comment=177266)
+- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177265)
+- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177264)
+- [AFCAD para o PREPAR 3D](https://forums.vatsim.net/topic/30997-afcad-para-o-prepar-3d/?do=findComment&comment=177263)
 - [VATSIM Tech Blog, Q4 2020](https://forums.vatsim.net/blogs/entry/1-vatsim-tech-blog-q4-2020/?do=findComment&comment=20)
 - [I Can't transmit in VATSIM (I can recive) x-pilot ssg748v2.2](https://forums.vatsim.net/topic/31035-i-cant-transmit-in-vatsim-i-can-recive-x-pilot-ssg748v22/?do=findComment&comment=177262)
 - [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177261)
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177260)
 - [Frequencies which are given with 2 digits but actually need 3 (eg. .220/.225) not working](https://forums.vatsim.net/topic/31113-frequencies-which-are-given-with-2-digits-but-actually-need-3-eg-220225-not-working/?do=findComment&comment=177259)
-- [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177258)
-- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=177257)
-- [VATSIM Cross The Pond: Westbound 2021](https://forums.vatsim.net/topic/30925-vatsim-cross-the-pond-westbound-2021/?do=findComment&comment=177256)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177255)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177254)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
