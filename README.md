@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [07MAY21 | FIFO Friday - Darling Downs](https://vatpac.org/calendar/event/1735-07may21-fifo-friday-darling-downs/)
+- [07MAY21 | FIFO Friday - Darling Downs](https://vatpac.org/forums/topic/18728-07may21-fifo-friday-darling-downs/?do=findComment&comment=131440)
 - [5APR21 | Andrew Harle](https://vatpac.org/forums/topic/18726-5apr21-andrew-harle/?do=findComment&comment=131432)
 - [5APR21 | MRM Controlling Guru(s)](https://vatpac.org/forums/topic/18725-5apr21-mrm-controlling-gurus/?do=findComment&comment=131429)
 - [02MAY21 | Bordertown to Mount Gambier via Coorong](https://vatpac.org/calendar/event/1729-02may21-bordertown-to-mount-gambier-via-coorong/)
@@ -47,8 +49,6 @@
 - [07APR21 World Discovery Republic of Georgia](https://vatpac.org/calendar/event/1721-07apr21-world-discovery-republic-of-georgia/)
 - [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/forums/topic/18671-02apr21-fifo-friday-pilbara-kimberley/?do=findComment&comment=131358)
 - [TWR Controller - Dominic Burjak](https://vatpac.org/forums/topic/18697-twr-controller-dominic-burjak/?do=findComment&comment=131348)
-- [31MAR21 World Discovery Indonesian West Papua](https://vatpac.org/calendar/event/1717-31mar21-world-discovery-indonesian-west-papua/)
-- [19MAR | Matt Kelly](https://vatpac.org/forums/topic/18683-19mar-matt-kelly/?do=findComment&comment=131333)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
