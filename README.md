@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177258)
+- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=177257)
 - [VATSIM Cross The Pond: Westbound 2021](https://forums.vatsim.net/topic/30925-vatsim-cross-the-pond-westbound-2021/?do=findComment&comment=177256)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177255)
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177254)
@@ -61,8 +63,6 @@
 - [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177251)
 - [Unable to connect Voice due to error](https://forums.vatsim.net/topic/31110-unable-to-connect-voice-due-to-error/?do=findComment&comment=177250)
 - [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177249)
-- [Error: Unauthorized client software (16) on Squakbox 4.0](https://forums.vatsim.net/topic/31107-error-unauthorized-client-software-16-on-squakbox-40/?do=findComment&comment=177248)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177247)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
