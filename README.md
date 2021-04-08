@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177344)
-- [Unadvertised changes to JSON v3 format after release](https://forums.vatsim.net/topic/31117-unadvertised-changes-to-json-v3-format-after-release/?do=findComment&comment=177343)
-- [vatSpy officially dead?](https://forums.vatsim.net/topic/31124-vatspy-officially-dead/?do=findComment&comment=177342)
-- [vatSpy officially dead?](https://forums.vatsim.net/topic/31124-vatspy-officially-dead/?do=findComment&comment=177341)
-- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177340)
-- [vatSpy officially dead?](https://forums.vatsim.net/topic/31124-vatspy-officially-dead/?do=findComment&comment=177339)
-- [vatSpy officially dead?](https://forums.vatsim.net/topic/31124-vatspy-officially-dead/?do=findComment&comment=177338)
-- [Unadvertised changes to JSON v3 format after release](https://forums.vatsim.net/topic/31117-unadvertised-changes-to-json-v3-format-after-release/?do=findComment&comment=177337)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177336)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177335)
+- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177354)
+- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177353)
+- [Made A VATSIM Discord Bot](https://forums.vatsim.net/topic/28412-made-a-vatsim-discord-bot/?do=findComment&comment=177352)
+- [I need help connecting in the client (new vatsim pilot)](https://forums.vatsim.net/topic/31121-i-need-help-connecting-in-the-client-new-vatsim-pilot/?do=findComment&comment=177351)
+- [VATSpy filter](https://forums.vatsim.net/topic/27277-vatspy-filter/?do=findComment&comment=177350)
+- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177349)
+- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177348)
+- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177347)
+- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177346)
+- [vatSpy officially dead?](https://forums.vatsim.net/topic/31124-vatspy-officially-dead/?do=findComment&comment=177345)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
