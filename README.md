@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSpy filter](https://forums.vatsim.net/topic/27277-vatspy-filter/?do=findComment&comment=177360)
+- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177359)
+- [VATSpy filter](https://forums.vatsim.net/topic/27277-vatspy-filter/?do=findComment&comment=177358)
+- [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=177357)
 - [Maybe stupid ?](https://forums.vatsim.net/topic/31119-maybe-stupid/?do=findComment&comment=177356)
 - [Maybe stupid ?](https://forums.vatsim.net/topic/31119-maybe-stupid/?do=findComment&comment=177355)
 - [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177354)
 - [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177353)
 - [Made A VATSIM Discord Bot](https://forums.vatsim.net/topic/28412-made-a-vatsim-discord-bot/?do=findComment&comment=177352)
 - [I need help connecting in the client (new vatsim pilot)](https://forums.vatsim.net/topic/31121-i-need-help-connecting-in-the-client-new-vatsim-pilot/?do=findComment&comment=177351)
-- [VATSpy filter](https://forums.vatsim.net/topic/27277-vatspy-filter/?do=findComment&comment=177350)
-- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177349)
-- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177348)
-- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177347)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
