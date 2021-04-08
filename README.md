@@ -39,6 +39,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [23MAY21 | Real Ops Melbourne](https://vatpac.org/forums/topic/18734-23may21-real-ops-melbourne/?do=findComment&comment=131461)
+- [23MAY21 | Real Ops Melbourne](https://vatpac.org/calendar/event/1741-23may21-real-ops-melbourne/)
+- [15MAY21 | TMA Turnaround - Brisbane & Gold Coast](https://vatpac.org/calendar/event/1740-15may21-tma-turnaround-brisbane-gold-coast/)
 - [15MAY21 | TMA Turnaround - Brisbane & Gold Coast](https://vatpac.org/forums/topic/18733-15may21-tma-turnaround-brisbane-gold-coast/?do=findComment&comment=131460)
 - [07MAY21 | FIFO Friday - Darling Downs](https://vatpac.org/calendar/event/1735-07may21-fifo-friday-darling-downs/)
 - [07MAY21 | FIFO Friday - Darling Downs](https://vatpac.org/forums/topic/18728-07may21-fifo-friday-darling-downs/?do=findComment&comment=131440)
@@ -46,9 +49,6 @@
 - [5APR21 | MRM Controlling Guru(s)](https://vatpac.org/forums/topic/18725-5apr21-mrm-controlling-gurus/?do=findComment&comment=131429)
 - [02MAY21 | Bordertown to Mount Gambier via Coorong](https://vatpac.org/calendar/event/1729-02may21-bordertown-to-mount-gambier-via-coorong/)
 - [30APR21 | Mount Gambier to Bordertown](https://vatpac.org/calendar/event/1728-30apr21-mount-gambier-to-bordertown/)
-- [14APR21 World Discovery New Foundland, Canada](https://vatpac.org/calendar/event/1722-14apr21-world-discovery-new-foundland-canada/)
-- [07APR21 World Discovery Republic of Georgia](https://vatpac.org/calendar/event/1721-07apr21-world-discovery-republic-of-georgia/)
-- [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/forums/topic/18671-02apr21-fifo-friday-pilbara-kimberley/?do=findComment&comment=131358)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
