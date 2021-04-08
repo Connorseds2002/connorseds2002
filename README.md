@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15MAY21 | TMA Turnaround - Brisbane & Gold Coast](https://vatpac.org/forums/topic/18733-15may21-tma-turnaround-brisbane-gold-coast/?do=findComment&comment=131460)
 - [07MAY21 | FIFO Friday - Darling Downs](https://vatpac.org/calendar/event/1735-07may21-fifo-friday-darling-downs/)
 - [07MAY21 | FIFO Friday - Darling Downs](https://vatpac.org/forums/topic/18728-07may21-fifo-friday-darling-downs/?do=findComment&comment=131440)
 - [5APR21 | Andrew Harle](https://vatpac.org/forums/topic/18726-5apr21-andrew-harle/?do=findComment&comment=131432)
@@ -48,7 +49,6 @@
 - [14APR21 World Discovery New Foundland, Canada](https://vatpac.org/calendar/event/1722-14apr21-world-discovery-new-foundland-canada/)
 - [07APR21 World Discovery Republic of Georgia](https://vatpac.org/calendar/event/1721-07apr21-world-discovery-republic-of-georgia/)
 - [02APR21 | FIFO Friday - Pilbara & Kimberley](https://vatpac.org/forums/topic/18671-02apr21-fifo-friday-pilbara-kimberley/?do=findComment&comment=131358)
-- [TWR Controller - Dominic Burjak](https://vatpac.org/forums/topic/18697-twr-controller-dominic-burjak/?do=findComment&comment=131348)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
