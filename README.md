@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177344)
+- [Unadvertised changes to JSON v3 format after release](https://forums.vatsim.net/topic/31117-unadvertised-changes-to-json-v3-format-after-release/?do=findComment&comment=177343)
+- [vatSpy officially dead?](https://forums.vatsim.net/topic/31124-vatspy-officially-dead/?do=findComment&comment=177342)
+- [vatSpy officially dead?](https://forums.vatsim.net/topic/31124-vatspy-officially-dead/?do=findComment&comment=177341)
+- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177340)
+- [vatSpy officially dead?](https://forums.vatsim.net/topic/31124-vatspy-officially-dead/?do=findComment&comment=177339)
+- [vatSpy officially dead?](https://forums.vatsim.net/topic/31124-vatspy-officially-dead/?do=findComment&comment=177338)
+- [Unadvertised changes to JSON v3 format after release](https://forums.vatsim.net/topic/31117-unadvertised-changes-to-json-v3-format-after-release/?do=findComment&comment=177337)
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177336)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177335)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177334)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177333)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177332)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177331)
-- [Y or Z flight plan?](https://forums.vatsim.net/topic/31123-y-or-z-flight-plan/?do=findComment&comment=177330)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177329)
-- [Unadvertised changes to JSON v3 format after release](https://forums.vatsim.net/topic/31117-unadvertised-changes-to-json-v3-format-after-release/?do=findComment&comment=177328)
-- [Y or Z flight plan?](https://forums.vatsim.net/topic/31123-y-or-z-flight-plan/?do=findComment&comment=177327)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
