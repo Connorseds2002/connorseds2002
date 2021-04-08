@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177365)
+- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177364)
 - [Min set of files](https://forums.vatsim.net/topic/31115-min-set-of-files/?do=findComment&comment=177363)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177362)
 - [New Appointments: Training Director, Hit Squad Director, Marketing & PR Director](https://forums.vatsim.net/topic/31126-new-appointments-training-director-hit-squad-director-marketing-pr-director/?do=findComment&comment=177361)
@@ -61,8 +63,6 @@
 - [VATSpy filter](https://forums.vatsim.net/topic/27277-vatspy-filter/?do=findComment&comment=177358)
 - [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=177357)
 - [Maybe stupid ?](https://forums.vatsim.net/topic/31119-maybe-stupid/?do=findComment&comment=177356)
-- [Maybe stupid ?](https://forums.vatsim.net/topic/31119-maybe-stupid/?do=findComment&comment=177355)
-- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177354)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
