@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Maybe stupid ?](https://forums.vatsim.net/topic/31119-maybe-stupid/?do=findComment&comment=177356)
+- [Maybe stupid ?](https://forums.vatsim.net/topic/31119-maybe-stupid/?do=findComment&comment=177355)
 - [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177354)
 - [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177353)
 - [Made A VATSIM Discord Bot](https://forums.vatsim.net/topic/28412-made-a-vatsim-discord-bot/?do=findComment&comment=177352)
@@ -61,8 +63,6 @@
 - [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177349)
 - [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177348)
 - [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177347)
-- [New Event overview](https://forums.vatsim.net/topic/31125-new-event-overview/?do=findComment&comment=177346)
-- [vatSpy officially dead?](https://forums.vatsim.net/topic/31124-vatspy-officially-dead/?do=findComment&comment=177345)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
