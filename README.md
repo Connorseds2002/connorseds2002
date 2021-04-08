@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unadvertised changes to JSON v3 format after release](https://forums.vatsim.net/topic/31117-unadvertised-changes-to-json-v3-format-after-release/?do=findComment&comment=177328)
+- [Y or Z flight plan?](https://forums.vatsim.net/topic/31123-y-or-z-flight-plan/?do=findComment&comment=177327)
 - [I need help connecting in the client (new vatsim pilot)](https://forums.vatsim.net/topic/31121-i-need-help-connecting-in-the-client-new-vatsim-pilot/?do=findComment&comment=177326)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177325)
 - [Y or Z flight plan?](https://forums.vatsim.net/topic/31123-y-or-z-flight-plan/?do=findComment&comment=177324)
@@ -61,8 +63,6 @@
 - [Y or Z flight plan?](https://forums.vatsim.net/topic/31123-y-or-z-flight-plan/?do=findComment&comment=177321)
 - [I need help connecting in the client (new vatsim pilot)](https://forums.vatsim.net/topic/31121-i-need-help-connecting-in-the-client-new-vatsim-pilot/?do=findComment&comment=177320)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177319)
-- [[10 APR 2021 | 1500-2000z | EDDF LTFM] The Orient Expess Frankfurt -> Istanbul](https://forums.vatsim.net/topic/31122-10-apr-2021-1500-2000z-eddf-ltfm-the-orient-expess-frankfurt-istanbul/?do=findComment&comment=177318)
-- [I need help connecting in the client (new vatsim pilot)](https://forums.vatsim.net/topic/31121-i-need-help-connecting-in-the-client-new-vatsim-pilot/?do=findComment&comment=177317)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
