@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177392)
+- [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177391)
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177390)
 - [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177389)
 - [Looking for a VA (Virtual Airline)?](https://forums.vatsim.net/topic/12217-looking-for-a-va-virtual-airline/?do=findComment&comment=177388)
@@ -61,8 +63,6 @@
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177385)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177384)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177383)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177382)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177381)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
