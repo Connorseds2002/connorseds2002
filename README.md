@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177397)
 - [Multiple SSR ranges assignment](https://forums.vatsim.net/topic/31130-multiple-ssr-ranges-assignment/?do=findComment&comment=177396)
 - [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177395)
 - [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177394)
@@ -62,7 +63,6 @@
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177390)
 - [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177389)
 - [Looking for a VA (Virtual Airline)?](https://forums.vatsim.net/topic/12217-looking-for-a-va-virtual-airline/?do=findComment&comment=177388)
-- [Lithuania VACC](https://forums.vatsim.net/topic/29747-lithuania-vacc/?do=findComment&comment=177387)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
