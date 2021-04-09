@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177402)
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177401)
+- [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177400)
+- [ES - dep list empty ... help??](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help/?do=findComment&comment=177399)
+- [need help connecting to voice servers](https://forums.vatsim.net/topic/31131-need-help-connecting-to-voice-servers/?do=findComment&comment=177398)
 - [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177397)
 - [Multiple SSR ranges assignment](https://forums.vatsim.net/topic/31130-multiple-ssr-ranges-assignment/?do=findComment&comment=177396)
 - [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177395)
 - [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177394)
 - [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177393)
-- [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177392)
-- [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177391)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177390)
-- [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177389)
-- [Looking for a VA (Virtual Airline)?](https://forums.vatsim.net/topic/12217-looking-for-a-va-virtual-airline/?do=findComment&comment=177388)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
