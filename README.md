@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=177427)
+- [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=177426)
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177425)
+- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=177424)
+- [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177423)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177422)
 - [vatSpy Updated](https://forums.vatsim.net/topic/31124-vatspy-updated/?do=findComment&comment=177421)
 - [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=177420)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177419)
 - [vatSpy Updated](https://forums.vatsim.net/topic/31124-vatspy-updated/?do=findComment&comment=177418)
-- [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=177417)
-- [Hello folks!](https://forums.vatsim.net/topic/31128-hello-folks/?do=findComment&comment=177416)
-- [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177415)
-- [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177414)
-- [ES - dep list empty ... help??](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help/?do=findComment&comment=177413)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
