@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vatSpy Updated](https://forums.vatsim.net/topic/31124-vatspy-updated/?do=findComment&comment=177421)
+- [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=177420)
+- [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177419)
+- [vatSpy Updated](https://forums.vatsim.net/topic/31124-vatspy-updated/?do=findComment&comment=177418)
+- [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=177417)
 - [Hello folks!](https://forums.vatsim.net/topic/31128-hello-folks/?do=findComment&comment=177416)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177415)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177414)
 - [ES - dep list empty ... help??](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help/?do=findComment&comment=177413)
 - [Multiple SSR ranges assignment](https://forums.vatsim.net/topic/31130-multiple-ssr-ranges-assignment/?do=findComment&comment=177412)
-- [New Appointments: Training Director, Hit Squad Director, Marketing & PR Director](https://forums.vatsim.net/topic/31126-new-appointments-training-director-hit-squad-director-marketing-pr-director/?do=findComment&comment=177411)
-- [need help connecting to voice servers](https://forums.vatsim.net/topic/31131-need-help-connecting-to-voice-servers/?do=findComment&comment=177410)
-- [Using of Hoppie ?](https://forums.vatsim.net/topic/31129-using-of-hoppie/?do=findComment&comment=177409)
-- [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177408)
-- [need help connecting to voice servers](https://forums.vatsim.net/topic/31131-need-help-connecting-to-voice-servers/?do=findComment&comment=177407)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
