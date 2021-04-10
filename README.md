@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Littlenavmap](https://forums.vatsim.net/topic/31142-littlenavmap/?do=findComment&comment=177475)
+- [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177474)
+- [vpilot sound stuttering](https://forums.vatsim.net/topic/31139-vpilot-sound-stuttering/?do=findComment&comment=177473)
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177472)
+- [Multiple SSR ranges assignment](https://forums.vatsim.net/topic/31130-multiple-ssr-ranges-assignment/?do=findComment&comment=177471)
 - [Looking for a VATSIM.net Partner Airline?](https://forums.vatsim.net/topic/31141-looking-for-a-vatsimnet-partner-airline/?do=findComment&comment=177470)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177469)
 - [vpilot sound stuttering](https://forums.vatsim.net/topic/31139-vpilot-sound-stuttering/?do=findComment&comment=177467)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177466)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177465)
-- [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=177464)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177463)
-- [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177462)
-- [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177461)
-- [IAS/CAS indication](https://forums.vatsim.net/topic/31138-iascas-indication/?do=findComment&comment=177460)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
