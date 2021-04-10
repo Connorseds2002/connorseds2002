@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=177464)
+- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177463)
+- [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177462)
 - [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177461)
 - [IAS/CAS indication](https://forums.vatsim.net/topic/31138-iascas-indication/?do=findComment&comment=177460)
 - [IAS/CAS indication](https://forums.vatsim.net/topic/31138-iascas-indication/?do=findComment&comment=177459)
@@ -60,9 +63,6 @@
 - [VATSCAN - Live mobile VATSIM tracking](https://forums.vatsim.net/topic/23890-vatscan-live-mobile-vatsim-tracking/?do=findComment&comment=177457)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177456)
 - [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177455)
-- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177454)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177453)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177452)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
