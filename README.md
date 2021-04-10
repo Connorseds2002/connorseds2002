@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=177440)
+- [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177439)
+- [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177438)
+- [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177437)
+- [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=177436)
 - [Is VRoute frozen today ?](https://forums.vatsim.net/topic/31120-is-vroute-frozen-today/?do=findComment&comment=177435)
 - [Question for Controllers.](https://forums.vatsim.net/topic/31108-question-for-controllers/?do=findComment&comment=177434)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177433)
 - [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=177432)
 - [Is VRoute frozen today ?](https://forums.vatsim.net/topic/31120-is-vroute-frozen-today/?do=findComment&comment=177431)
-- [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177430)
-- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=177429)
-- [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177428)
-- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=177427)
-- [Audio for VATSIM on CTR: No longer hear pilots, they continue to hear me](https://forums.vatsim.net/topic/30960-audio-for-vatsim-on-ctr-no-longer-hear-pilots-they-continue-to-hear-me/?do=findComment&comment=177426)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
