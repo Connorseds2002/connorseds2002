@@ -53,8 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Looking for a VATSIM.net Partner Airline?](https://forums.vatsim.net/topic/31141-looking-for-a-vatsimnet-partner-airline/?do=findComment&comment=177470)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177469)
-- [vpilot sound stuttering](https://forums.vatsim.net/topic/31140-vpilot-sound-stuttering/?do=findComment&comment=177468)
 - [vpilot sound stuttering](https://forums.vatsim.net/topic/31139-vpilot-sound-stuttering/?do=findComment&comment=177467)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177466)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177465)
