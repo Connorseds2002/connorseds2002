@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSCAN - Live mobile VATSIM tracking](https://forums.vatsim.net/topic/23890-vatscan-live-mobile-vatsim-tracking/?do=findComment&comment=177457)
+- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177456)
+- [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177455)
+- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177454)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177453)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177452)
 - [Vpilot does not detect my microphone](https://forums.vatsim.net/topic/29696-vpilot-does-not-detect-my-microphone/?do=findComment&comment=177451)
 - [Vpilot does not detect my microphone](https://forums.vatsim.net/topic/29696-vpilot-does-not-detect-my-microphone/?do=findComment&comment=177450)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177449)
 - [Xpilot not receiving microphone](https://forums.vatsim.net/topic/30543-xpilot-not-receiving-microphone/?do=findComment&comment=177448)
-- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177447)
-- [Min set of files](https://forums.vatsim.net/topic/31115-min-set-of-files/?do=findComment&comment=177446)
-- [ES - dep list empty ... help??](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help/?do=findComment&comment=177445)
-- [need help connecting to voice servers](https://forums.vatsim.net/topic/31131-need-help-connecting-to-voice-servers/?do=findComment&comment=177444)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
