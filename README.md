@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Littlenavmap](https://forums.vatsim.net/topic/31142-littlenavmap/?do=findComment&comment=177484)
+- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177483)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177482)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177481)
 - [10th April 21 cross the Atlantic](https://forums.vatsim.net/topic/31137-10th-april-21-cross-the-atlantic/?do=findComment&comment=177480)
@@ -61,8 +63,6 @@
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177477)
 - [Friday Night Live: 16-04-2021: Fly In/Out of Tiruchirappalli (VOTR)](https://forums.vatsim.net/topic/31143-friday-night-live-16-04-2021-fly-inout-of-tiruchirappalli-votr/?do=findComment&comment=177476)
 - [Littlenavmap](https://forums.vatsim.net/topic/31142-littlenavmap/?do=findComment&comment=177475)
-- [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177474)
-- [vpilot sound stuttering](https://forums.vatsim.net/topic/31139-vpilot-sound-stuttering/?do=findComment&comment=177473)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
