@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot not receiving microphone](https://forums.vatsim.net/topic/30543-xpilot-not-receiving-microphone/?do=findComment&comment=177448)
+- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177447)
 - [Min set of files](https://forums.vatsim.net/topic/31115-min-set-of-files/?do=findComment&comment=177446)
 - [ES - dep list empty ... help??](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help/?do=findComment&comment=177445)
 - [need help connecting to voice servers](https://forums.vatsim.net/topic/31131-need-help-connecting-to-voice-servers/?do=findComment&comment=177444)
@@ -61,8 +63,6 @@
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177441)
 - [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=177440)
 - [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177439)
-- [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177438)
-- [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177437)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
