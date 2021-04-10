@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177469)
+- [vpilot sound stuttering](https://forums.vatsim.net/topic/31140-vpilot-sound-stuttering/?do=findComment&comment=177468)
+- [vpilot sound stuttering](https://forums.vatsim.net/topic/31139-vpilot-sound-stuttering/?do=findComment&comment=177467)
+- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177466)
+- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177465)
 - [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=177464)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177463)
 - [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177462)
 - [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177461)
 - [IAS/CAS indication](https://forums.vatsim.net/topic/31138-iascas-indication/?do=findComment&comment=177460)
-- [IAS/CAS indication](https://forums.vatsim.net/topic/31138-iascas-indication/?do=findComment&comment=177459)
-- [10th April 21 cross the Atlantic](https://forums.vatsim.net/topic/31137-10th-april-21-cross-the-atlantic/?do=findComment&comment=177458)
-- [VATSCAN - Live mobile VATSIM tracking](https://forums.vatsim.net/topic/23890-vatscan-live-mobile-vatsim-tracking/?do=findComment&comment=177457)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177456)
-- [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177455)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
