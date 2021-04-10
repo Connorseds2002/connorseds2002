@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Min set of files](https://forums.vatsim.net/topic/31115-min-set-of-files/?do=findComment&comment=177446)
+- [ES - dep list empty ... help??](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help/?do=findComment&comment=177445)
 - [need help connecting to voice servers](https://forums.vatsim.net/topic/31131-need-help-connecting-to-voice-servers/?do=findComment&comment=177444)
 - [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=177443)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177442)
@@ -61,8 +63,6 @@
 - [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177439)
 - [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177438)
 - [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177437)
-- [Getting started: Some questions about unstaffed or partially staffed airports.](https://forums.vatsim.net/topic/30859-getting-started-some-questions-about-unstaffed-or-partially-staffed-airports/?do=findComment&comment=177436)
-- [Is VRoute frozen today ?](https://forums.vatsim.net/topic/31120-is-vroute-frozen-today/?do=findComment&comment=177435)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
