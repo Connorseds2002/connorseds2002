@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Forum Display Name](https://forums.vatsim.net/topic/31148-forum-display-name/?do=findComment&comment=177513)
 - [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177512)
 - [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=177511)
 - [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=177510)
@@ -62,7 +63,6 @@
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177506)
 - [AmendFlightPlan() kicks out of network after a few minutes](https://forums.vatsim.net/topic/31034-amendflightplan-kicks-out-of-network-after-a-few-minutes/?do=findComment&comment=177505)
 - [Right Click Menu Intermittent](https://forums.vatsim.net/topic/30996-right-click-menu-intermittent/?do=findComment&comment=177504)
-- [Vpilot model matching msf 2020](https://forums.vatsim.net/topic/31145-vpilot-model-matching-msf-2020/?do=findComment&comment=177503)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
