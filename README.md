@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177512)
+- [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=177511)
+- [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=177510)
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177509)
 - [vpilot sound stuttering](https://forums.vatsim.net/topic/31139-vpilot-sound-stuttering/?do=findComment&comment=177508)
 - [Vpilot does not detect my microphone](https://forums.vatsim.net/topic/29696-vpilot-does-not-detect-my-microphone/?do=findComment&comment=177507)
 - [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177506)
 - [AmendFlightPlan() kicks out of network after a few minutes](https://forums.vatsim.net/topic/31034-amendflightplan-kicks-out-of-network-after-a-few-minutes/?do=findComment&comment=177505)
 - [Right Click Menu Intermittent](https://forums.vatsim.net/topic/30996-right-click-menu-intermittent/?do=findComment&comment=177504)
 - [Vpilot model matching msf 2020](https://forums.vatsim.net/topic/31145-vpilot-model-matching-msf-2020/?do=findComment&comment=177503)
-- [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=177502)
-- [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=177501)
-- [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=177500)
-- [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177499)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
