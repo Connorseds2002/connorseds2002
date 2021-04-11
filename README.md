@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM online traffic down?](https://forums.vatsim.net/topic/31114-vatsim-online-traffic-down/?do=findComment&comment=177506)
+- [AmendFlightPlan() kicks out of network after a few minutes](https://forums.vatsim.net/topic/31034-amendflightplan-kicks-out-of-network-after-a-few-minutes/?do=findComment&comment=177505)
 - [Right Click Menu Intermittent](https://forums.vatsim.net/topic/30996-right-click-menu-intermittent/?do=findComment&comment=177504)
 - [Vpilot model matching msf 2020](https://forums.vatsim.net/topic/31145-vpilot-model-matching-msf-2020/?do=findComment&comment=177503)
 - [SMTimer plugin](https://forums.vatsim.net/topic/24567-smtimer-plugin/?do=findComment&comment=177502)
@@ -61,8 +63,6 @@
 - [VATSPY Error - data file downloaded from cluster.data.vatsim out of date](https://forums.vatsim.net/topic/31136-vatspy-error-data-file-downloaded-from-clusterdatavatsim-out-of-date/?do=findComment&comment=177499)
 - [India vACC Official Discord Server](https://forums.vatsim.net/topic/30535-india-vacc-official-discord-server/?do=findComment&comment=177498)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177497)
-- [Littlenavmap](https://forums.vatsim.net/topic/31142-littlenavmap/?do=findComment&comment=177496)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177495)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
