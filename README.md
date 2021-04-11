@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NOTAM: Position Reserved for ATC Training](https://vatpac.org/forums/topic/18694-notam-position-reserved-for-atc-training/?do=findComment&comment=131476)
 - [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/calendar/event/1742-20apr21-spotlight-series-orbx-ybbn-v2/)
 - [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/forums/topic/18735-20apr21-spotlight-series-orbx-ybbn-v2/?do=findComment&comment=131471)
 - [23MAY21 | Real Ops Melbourne](https://vatpac.org/forums/topic/18734-23may21-real-ops-melbourne/?do=findComment&comment=131461)
@@ -48,7 +49,6 @@
 - [07MAY21 | FIFO Friday - Darling Downs](https://vatpac.org/calendar/event/1735-07may21-fifo-friday-darling-downs/)
 - [07MAY21 | FIFO Friday - Darling Downs](https://vatpac.org/forums/topic/18728-07may21-fifo-friday-darling-downs/?do=findComment&comment=131440)
 - [5APR21 | Andrew Harle](https://vatpac.org/forums/topic/18726-5apr21-andrew-harle/?do=findComment&comment=131432)
-- [5APR21 | MRM Controlling Guru(s)](https://vatpac.org/forums/topic/18725-5apr21-mrm-controlling-gurus/?do=findComment&comment=131429)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
