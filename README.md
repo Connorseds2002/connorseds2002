@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177516)
-- [Maybe stupid ?](https://forums.vatsim.net/topic/31119-maybe-stupid/?do=findComment&comment=177515)
-- [[SOLVED] vPilot Host with voice in background](https://forums.vatsim.net/topic/31149-solved-vpilot-host-with-voice-in-background/?do=findComment&comment=177514)
-- [Forum Display Name](https://forums.vatsim.net/topic/31148-forum-display-name/?do=findComment&comment=177513)
-- [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177512)
-- [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=177511)
-- [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=177510)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177509)
-- [vpilot sound stuttering](https://forums.vatsim.net/topic/31139-vpilot-sound-stuttering/?do=findComment&comment=177508)
-- [Vpilot does not detect my microphone](https://forums.vatsim.net/topic/29696-vpilot-does-not-detect-my-microphone/?do=findComment&comment=177507)
+- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177527)
+- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177526)
+- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177525)
+- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177524)
+- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177523)
+- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177522)
+- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177521)
+- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177520)
+- [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177519)
+- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177518)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
