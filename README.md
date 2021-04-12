@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [TIME/TOBT on latest beta](https://forums.vatsim.net/topic/31155-timetobt-on-latest-beta/?do=findComment&comment=177564)
+- [TIME/TOBT on latest beta](https://forums.vatsim.net/topic/31155-timetobt-on-latest-beta/?do=findComment&comment=177563)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177562)
 - [Vatsim dont Connects / Network plzz help](https://forums.vatsim.net/topic/31154-vatsim-dont-connects-network-plzz-help/?do=findComment&comment=177561)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177560)
@@ -61,8 +63,6 @@
 - [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=177556)
 - [credentails not correct cid/password](https://forums.vatsim.net/topic/31156-credentails-not-correct-cidpassword/?do=findComment&comment=177555)
 - [How does model matching work?](https://forums.vatsim.net/topic/31152-how-does-model-matching-work/?do=findComment&comment=177554)
-- [credentails not correct cid/password](https://forums.vatsim.net/topic/31156-credentails-not-correct-cidpassword/?do=findComment&comment=177553)
-- [Model Matching](https://forums.vatsim.net/topic/29966-model-matching/?do=findComment&comment=177552)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
