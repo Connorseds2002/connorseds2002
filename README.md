@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177533)
+- [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=177532)
 - [MSFS2020 vPilot Model Matching](https://forums.vatsim.net/topic/31151-msfs2020-vpilot-model-matching/?do=findComment&comment=177531)
 - [MSFS Model Matching](https://forums.vatsim.net/topic/30898-msfs-model-matching/?do=findComment&comment=177530)
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177529)
@@ -61,8 +63,6 @@
 - [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177526)
 - [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177525)
 - [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177524)
-- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177523)
-- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177522)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
