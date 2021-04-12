@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177548)
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177547)
+- [Vatsim dont Connects / Network plzz help](https://forums.vatsim.net/topic/31154-vatsim-dont-connects-network-plzz-help/?do=findComment&comment=177546)
 - [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177545)
 - [Vatsim dont Connects / Network plzz help](https://forums.vatsim.net/topic/31154-vatsim-dont-connects-network-plzz-help/?do=findComment&comment=177544)
 - [Vatsim dont Connects / Network plzz help](https://forums.vatsim.net/topic/31154-vatsim-dont-connects-network-plzz-help/?do=findComment&comment=177543)
@@ -60,9 +63,6 @@
 - [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177541)
 - [Problem to download sector file](https://forums.vatsim.net/topic/31153-problem-to-download-sector-file/?do=findComment&comment=177540)
 - [Vpilot does not detect my microphone](https://forums.vatsim.net/topic/29696-vpilot-does-not-detect-my-microphone/?do=findComment&comment=177539)
-- [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177538)
-- [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177537)
-- [How does model matching work?](https://forums.vatsim.net/topic/31152-how-does-model-matching-work/?do=findComment&comment=177536)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
