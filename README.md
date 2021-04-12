@@ -42,13 +42,13 @@
 - [NOTAM 17APR21: Positions Reserved for Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18736-notam-17apr21-positions-reserved-for-perth-singapore-shuttle/?do=findComment&comment=131479)
 - [ATC Controlling Positions during Milk Run Monday --- (Mode B Active)](https://vatpac.org/forums/topic/18543-atc-controlling-positions-during-milk-run-monday-mode-b-active/?do=findComment&comment=131478)
 - [Major Events List 2021](https://vatpac.org/forums/topic/18457-major-events-list-2021/?do=findComment&comment=131477)
-- [NOTAM: Position Reserved for ATC Training](https://vatpac.org/forums/topic/18694-notam-position-reserved-for-atc-training/?do=findComment&comment=131476)
 - [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/calendar/event/1742-20apr21-spotlight-series-orbx-ybbn-v2/)
 - [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/forums/topic/18735-20apr21-spotlight-series-orbx-ybbn-v2/?do=findComment&comment=131471)
 - [23MAY21 | Real Ops Melbourne](https://vatpac.org/forums/topic/18734-23may21-real-ops-melbourne/?do=findComment&comment=131461)
 - [23MAY21 | Real Ops Melbourne](https://vatpac.org/calendar/event/1741-23may21-real-ops-melbourne/)
 - [15MAY21 | TMA Turnaround - Brisbane & Gold Coast](https://vatpac.org/calendar/event/1740-15may21-tma-turnaround-brisbane-gold-coast/)
 - [15MAY21 | TMA Turnaround - Brisbane & Gold Coast](https://vatpac.org/forums/topic/18733-15may21-tma-turnaround-brisbane-gold-coast/?do=findComment&comment=131460)
+- [07MAY21 | FIFO Friday - Darling Downs](https://vatpac.org/calendar/event/1735-07may21-fifo-friday-darling-downs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
