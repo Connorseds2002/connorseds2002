@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How does model matching work?](https://forums.vatsim.net/topic/31152-how-does-model-matching-work/?do=findComment&comment=177536)
 - [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177535)
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=177534)
 - [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177533)
@@ -62,7 +63,6 @@
 - [Model Mathcing Issue (A319)](https://forums.vatsim.net/topic/31096-model-mathcing-issue-a319/?do=findComment&comment=177529)
 - [Vpilot model matching msf 2020](https://forums.vatsim.net/topic/31145-vpilot-model-matching-msf-2020/?do=findComment&comment=177528)
 - [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177527)
-- [Who to contact?](https://forums.vatsim.net/topic/31150-who-to-contact/?do=findComment&comment=177526)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
