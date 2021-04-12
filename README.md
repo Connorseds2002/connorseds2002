@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=177556)
 - [credentails not correct cid/password](https://forums.vatsim.net/topic/31156-credentails-not-correct-cidpassword/?do=findComment&comment=177555)
 - [How does model matching work?](https://forums.vatsim.net/topic/31152-how-does-model-matching-work/?do=findComment&comment=177554)
 - [credentails not correct cid/password](https://forums.vatsim.net/topic/31156-credentails-not-correct-cidpassword/?do=findComment&comment=177553)
@@ -62,7 +63,6 @@
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177549)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177548)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177547)
-- [Vatsim dont Connects / Network plzz help](https://forums.vatsim.net/topic/31154-vatsim-dont-connects-network-plzz-help/?do=findComment&comment=177546)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
