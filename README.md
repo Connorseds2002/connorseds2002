@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [07MAY21 | Tyabb to West Sale via Phillip Island and Wilsons Promontory](https://vatpac.org/calendar/event/1752-07may21-tyabb-to-west-sale-via-phillip-island-and-wilsons-promontory/)
 - [NOTAM 17APR21: Positions Reserved for Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18736-notam-17apr21-positions-reserved-for-perth-singapore-shuttle/?do=findComment&comment=131479)
 - [ATC Controlling Positions during Milk Run Monday --- (Mode B Active)](https://vatpac.org/forums/topic/18543-atc-controlling-positions-during-milk-run-monday-mode-b-active/?do=findComment&comment=131478)
 - [Major Events List 2021](https://vatpac.org/forums/topic/18457-major-events-list-2021/?do=findComment&comment=131477)
@@ -48,7 +49,6 @@
 - [23MAY21 | Real Ops Melbourne](https://vatpac.org/calendar/event/1741-23may21-real-ops-melbourne/)
 - [15MAY21 | TMA Turnaround - Brisbane & Gold Coast](https://vatpac.org/calendar/event/1740-15may21-tma-turnaround-brisbane-gold-coast/)
 - [15MAY21 | TMA Turnaround - Brisbane & Gold Coast](https://vatpac.org/forums/topic/18733-15may21-tma-turnaround-brisbane-gold-coast/?do=findComment&comment=131460)
-- [07MAY21 | FIFO Friday - Darling Downs](https://vatpac.org/calendar/event/1735-07may21-fifo-friday-darling-downs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
