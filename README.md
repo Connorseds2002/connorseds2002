@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [DC-4 Getting Polished And Buffed!!](https://forums.vatsim.net/topic/31164-dc-4-getting-polished-and-buffed/?do=findComment&comment=177592)
+- [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177591)
+- [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=177590)
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177589)
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177588)
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177587)
@@ -60,9 +63,6 @@
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177585)
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177584)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177583)
-- [MSFS2020 vPilot Model Matching](https://forums.vatsim.net/topic/31151-msfs2020-vpilot-model-matching/?do=findComment&comment=177582)
-- [Swift Again!](https://forums.vatsim.net/topic/31162-swift-again/?do=findComment&comment=177581)
-- [Swift Again!](https://forums.vatsim.net/topic/31162-swift-again/?do=findComment&comment=177580)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
