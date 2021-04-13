@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ES - dep list empty ... help?? [RESOLVED]](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help-resolved/?do=findComment&comment=177570)
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177569)
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177568)
+- [Multiple SSR ranges assignment](https://forums.vatsim.net/topic/31130-multiple-ssr-ranges-assignment/?do=findComment&comment=177567)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177566)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177565)
 - [TIME/TOBT on latest beta](https://forums.vatsim.net/topic/31155-timetobt-on-latest-beta/?do=findComment&comment=177564)
 - [TIME/TOBT on latest beta](https://forums.vatsim.net/topic/31155-timetobt-on-latest-beta/?do=findComment&comment=177563)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=177562)
 - [Vatsim dont Connects / Network plzz help](https://forums.vatsim.net/topic/31154-vatsim-dont-connects-network-plzz-help/?do=findComment&comment=177561)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177560)
-- [event page](https://forums.vatsim.net/topic/31157-event-page/?do=findComment&comment=177558)
-- [event page](https://forums.vatsim.net/topic/31157-event-page/?do=findComment&comment=177557)
-- [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=177556)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
