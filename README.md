@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vatsim map bug displaying traffic in s. pacific](https://forums.vatsim.net/topic/31159-vatsim-map-bug-displaying-traffic-in-s-pacific/?do=findComment&comment=177575)
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177574)
+- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=177573)
 - [So close yet so far: A call for help - BVI pilot community in need of programmers!](https://forums.vatsim.net/topic/31158-so-close-yet-so-far-a-call-for-help-bvi-pilot-community-in-need-of-programmers/?do=findComment&comment=177572)
 - [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177571)
 - [ES - dep list empty ... help?? [RESOLVED]](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help-resolved/?do=findComment&comment=177570)
@@ -60,9 +63,6 @@
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177568)
 - [Multiple SSR ranges assignment](https://forums.vatsim.net/topic/31130-multiple-ssr-ranges-assignment/?do=findComment&comment=177567)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177566)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177565)
-- [TIME/TOBT on latest beta](https://forums.vatsim.net/topic/31155-timetobt-on-latest-beta/?do=findComment&comment=177564)
-- [TIME/TOBT on latest beta](https://forums.vatsim.net/topic/31155-timetobt-on-latest-beta/?do=findComment&comment=177563)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
