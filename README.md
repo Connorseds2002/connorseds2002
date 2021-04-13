@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177599)
+- [DC-4 Getting Polished And Buffed!!](https://forums.vatsim.net/topic/31164-dc-4-getting-polished-and-buffed/?do=findComment&comment=177598)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177597)
 - [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177595)
 - [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177594)
@@ -61,8 +63,6 @@
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177591)
 - [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=177590)
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177589)
-- [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177588)
-- [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177587)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
