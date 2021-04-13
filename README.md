@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177602)
+- [MSFS2020 vPilot Model Matching](https://forums.vatsim.net/topic/31151-msfs2020-vpilot-model-matching/?do=findComment&comment=177601)
+- [Section for Training](https://forums.vatsim.net/topic/31055-section-for-training/?do=findComment&comment=177600)
 - [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177599)
 - [DC-4 Getting Polished And Buffed!!](https://forums.vatsim.net/topic/31164-dc-4-getting-polished-and-buffed/?do=findComment&comment=177598)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177597)
@@ -60,9 +63,6 @@
 - [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177594)
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177593)
 - [DC-4 Getting Polished And Buffed!!](https://forums.vatsim.net/topic/31164-dc-4-getting-polished-and-buffed/?do=findComment&comment=177592)
-- [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177591)
-- [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=177590)
-- [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177589)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
