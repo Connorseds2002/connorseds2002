@@ -53,7 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Hiring for an Events Manager.](https://forums.vatsim.net/topic/31170-hiring-for-an-events-manager/?do=findComment&comment=177637)
+- [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177638)
 - [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177636)
 - [policy to use transceivers data feed](https://forums.vatsim.net/topic/31169-policy-to-use-transceivers-data-feed/?do=findComment&comment=177635)
 - [Metric Level](https://forums.vatsim.net/topic/31166-metric-level/?do=findComment&comment=177634)
