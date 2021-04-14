@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Section for Training](https://forums.vatsim.net/topic/31055-section-for-training/?do=findComment&comment=177603)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177602)
 - [MSFS2020 vPilot Model Matching](https://forums.vatsim.net/topic/31151-msfs2020-vpilot-model-matching/?do=findComment&comment=177601)
 - [Section for Training](https://forums.vatsim.net/topic/31055-section-for-training/?do=findComment&comment=177600)
@@ -62,7 +63,6 @@
 - [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177595)
 - [Allowed way of training?](https://forums.vatsim.net/topic/31147-allowed-way-of-training/?do=findComment&comment=177594)
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=177593)
-- [DC-4 Getting Polished And Buffed!!](https://forums.vatsim.net/topic/31164-dc-4-getting-polished-and-buffed/?do=findComment&comment=177592)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
