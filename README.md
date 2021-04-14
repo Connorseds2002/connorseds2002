@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Metric Level](https://forums.vatsim.net/topic/31166-metric-level/?do=findComment&comment=177634)
+- [Metric Level](https://forums.vatsim.net/topic/31166-metric-level/?do=findComment&comment=177633)
+- [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177632)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177631)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=177630)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177629)
@@ -60,9 +63,6 @@
 - [VATSpy Data Download Error](https://forums.vatsim.net/topic/26527-vatspy-data-download-error/?do=findComment&comment=177627)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177626)
 - [VATSpy Data Download Error](https://forums.vatsim.net/topic/26527-vatspy-data-download-error/?do=findComment&comment=177625)
-- [Metric Level](https://forums.vatsim.net/topic/31166-metric-level/?do=findComment&comment=177624)
-- [VATSpy Data Download Error](https://forums.vatsim.net/topic/26527-vatspy-data-download-error/?do=findComment&comment=177623)
-- [Metric Level](https://forums.vatsim.net/topic/31166-metric-level/?do=findComment&comment=177622)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
