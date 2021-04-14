@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177612)
+- [Swift Again!](https://forums.vatsim.net/topic/31162-swift-again/?do=findComment&comment=177611)
 - [Auto Promotion](https://forums.vatsim.net/topic/31134-auto-promotion/?do=findComment&comment=177610)
 - [Swift Again!](https://forums.vatsim.net/topic/31162-swift-again/?do=findComment&comment=177609)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177608)
@@ -61,8 +63,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=177604)
 - [Section for Training](https://forums.vatsim.net/topic/31055-section-for-training/?do=findComment&comment=177603)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177602)
-- [Section for Training](https://forums.vatsim.net/topic/31055-section-for-training/?do=findComment&comment=177600)
-- [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177599)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
