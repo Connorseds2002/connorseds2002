@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177668)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177666)
 - [FlAi Alternative?](https://forums.vatsim.net/topic/31178-flai-alternative/?do=findComment&comment=177665)
 - [Metric Level](https://forums.vatsim.net/topic/31166-metric-level/?do=findComment&comment=177664)
@@ -62,7 +63,6 @@
 - [Qutescoop not working?](https://forums.vatsim.net/topic/31177-qutescoop-not-working/?do=findComment&comment=177660)
 - [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177659)
 - [Cannot Connect to Voice Server (forbidden) - Solved](https://forums.vatsim.net/topic/31165-cannot-connect-to-voice-server-forbidden-solved/?do=findComment&comment=177658)
-- [Agenda: VATSIM Board of Governors Meeting Q1 - 2021 - 17APR21](https://forums.vatsim.net/topic/31176-agenda-vatsim-board-of-governors-meeting-q1-2021-17apr21/?do=findComment&comment=177657)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
