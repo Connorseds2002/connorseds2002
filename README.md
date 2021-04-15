@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Disconnected from VATSIM](https://forums.vatsim.net/topic/31172-disconnected-from-vatsim/?do=findComment&comment=177646)
+- [El Comando Élite de Controladores de VATSUR te necesita!!!](https://forums.vatsim.net/topic/31171-el-comando-%C3%A9lite-de-controladores-de-vatsur-te-necesita/?do=findComment&comment=177645)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=177644)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177643)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177642)
@@ -61,8 +63,6 @@
 - [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177639)
 - [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177638)
 - [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177636)
-- [policy to use transceivers data feed](https://forums.vatsim.net/topic/31169-policy-to-use-transceivers-data-feed/?do=findComment&comment=177635)
-- [Metric Level](https://forums.vatsim.net/topic/31166-metric-level/?do=findComment&comment=177634)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
