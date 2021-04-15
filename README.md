@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177666)
+- [FlAi Alternative?](https://forums.vatsim.net/topic/31178-flai-alternative/?do=findComment&comment=177665)
+- [Metric Level](https://forums.vatsim.net/topic/31166-metric-level/?do=findComment&comment=177664)
+- [Qutescoop not working?](https://forums.vatsim.net/topic/31177-qutescoop-not-working/?do=findComment&comment=177663)
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177662)
+- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177661)
+- [Qutescoop not working?](https://forums.vatsim.net/topic/31177-qutescoop-not-working/?do=findComment&comment=177660)
 - [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177659)
 - [Cannot Connect to Voice Server (forbidden) - Solved](https://forums.vatsim.net/topic/31165-cannot-connect-to-voice-server-forbidden-solved/?do=findComment&comment=177658)
 - [Agenda: VATSIM Board of Governors Meeting Q1 - 2021 - 17APR21](https://forums.vatsim.net/topic/31176-agenda-vatsim-board-of-governors-meeting-q1-2021-17apr21/?do=findComment&comment=177657)
-- [Issue with Discord account settings.](https://forums.vatsim.net/topic/31175-issue-with-discord-account-settings/?do=findComment&comment=177656)
-- [VNKT_TWR | S2 CPT](https://forums.vatsim.net/topic/31174-vnkt_twr-s2-cpt/?do=findComment&comment=177655)
-- [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177654)
-- [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177653)
-- [vPilot low mic volume](https://forums.vatsim.net/topic/31173-vpilot-low-mic-volume/?do=findComment&comment=177652)
-- [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177651)
-- [Disconnected from VATSIM](https://forums.vatsim.net/topic/31172-disconnected-from-vatsim/?do=findComment&comment=177649)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
