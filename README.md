@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Agenda: VATSIM Board of Governors Meeting Q1 - 2021 - 17APR21](https://forums.vatsim.net/topic/31176-agenda-vatsim-board-of-governors-meeting-q1-2021-17apr21/?do=findComment&comment=177657)
+- [Issue with Discord account settings.](https://forums.vatsim.net/topic/31175-issue-with-discord-account-settings/?do=findComment&comment=177656)
 - [VNKT_TWR | S2 CPT](https://forums.vatsim.net/topic/31174-vnkt_twr-s2-cpt/?do=findComment&comment=177655)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177654)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177653)
@@ -61,8 +63,6 @@
 - [Disconnected from VATSIM](https://forums.vatsim.net/topic/31172-disconnected-from-vatsim/?do=findComment&comment=177649)
 - [Departure from JFK](https://forums.vatsim.net/topic/30814-departure-from-jfk/?do=findComment&comment=177648)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177647)
-- [Disconnected from VATSIM](https://forums.vatsim.net/topic/31172-disconnected-from-vatsim/?do=findComment&comment=177646)
-- [El Comando Élite de Controladores de VATSUR te necesita!!!](https://forums.vatsim.net/topic/31171-el-comando-%C3%A9lite-de-controladores-de-vatsur-te-necesita/?do=findComment&comment=177645)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
