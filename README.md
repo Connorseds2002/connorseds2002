@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VNKT_TWR | S2 CPT](https://forums.vatsim.net/topic/31174-vnkt_twr-s2-cpt/?do=findComment&comment=177655)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177654)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177653)
 - [vPilot low mic volume](https://forums.vatsim.net/topic/31173-vpilot-low-mic-volume/?do=findComment&comment=177652)
@@ -62,7 +63,6 @@
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177647)
 - [Disconnected from VATSIM](https://forums.vatsim.net/topic/31172-disconnected-from-vatsim/?do=findComment&comment=177646)
 - [El Comando Élite de Controladores de VATSUR te necesita!!!](https://forums.vatsim.net/topic/31171-el-comando-%C3%A9lite-de-controladores-de-vatsur-te-necesita/?do=findComment&comment=177645)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=177644)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
