@@ -53,8 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot low mic volume](https://forums.vatsim.net/topic/31173-vpilot-low-mic-volume/?do=findComment&comment=177652)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177651)
-- [VA Associate Program gone?](https://forums.vatsim.net/topic/29654-va-associate-program-gone/?do=findComment&comment=177650)
 - [Disconnected from VATSIM](https://forums.vatsim.net/topic/31172-disconnected-from-vatsim/?do=findComment&comment=177649)
 - [Departure from JFK](https://forums.vatsim.net/topic/30814-departure-from-jfk/?do=findComment&comment=177648)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177647)
