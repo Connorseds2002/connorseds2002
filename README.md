@@ -53,7 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177669)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177668)
+- [VATSIM Cross The Pond: Westbound 2021](https://forums.vatsim.net/topic/30925-vatsim-cross-the-pond-westbound-2021/?do=findComment&comment=177667)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177666)
 - [FlAi Alternative?](https://forums.vatsim.net/topic/31178-flai-alternative/?do=findComment&comment=177665)
 - [Metric Level](https://forums.vatsim.net/topic/31166-metric-level/?do=findComment&comment=177664)
@@ -61,8 +63,6 @@
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177662)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177661)
 - [Qutescoop not working?](https://forums.vatsim.net/topic/31177-qutescoop-not-working/?do=findComment&comment=177660)
-- [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177659)
-- [Cannot Connect to Voice Server (forbidden) - Solved](https://forums.vatsim.net/topic/31165-cannot-connect-to-voice-server-forbidden-solved/?do=findComment&comment=177658)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
