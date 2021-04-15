@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=177659)
 - [Cannot Connect to Voice Server (forbidden) - Solved](https://forums.vatsim.net/topic/31165-cannot-connect-to-voice-server-forbidden-solved/?do=findComment&comment=177658)
 - [Agenda: VATSIM Board of Governors Meeting Q1 - 2021 - 17APR21](https://forums.vatsim.net/topic/31176-agenda-vatsim-board-of-governors-meeting-q1-2021-17apr21/?do=findComment&comment=177657)
 - [Issue with Discord account settings.](https://forums.vatsim.net/topic/31175-issue-with-discord-account-settings/?do=findComment&comment=177656)
@@ -62,7 +63,6 @@
 - [vPilot low mic volume](https://forums.vatsim.net/topic/31173-vpilot-low-mic-volume/?do=findComment&comment=177652)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=177651)
 - [Disconnected from VATSIM](https://forums.vatsim.net/topic/31172-disconnected-from-vatsim/?do=findComment&comment=177649)
-- [Departure from JFK](https://forums.vatsim.net/topic/30814-departure-from-jfk/?do=findComment&comment=177648)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
