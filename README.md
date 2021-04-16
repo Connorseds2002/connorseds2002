@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Voice will no longer work](https://forums.vatsim.net/topic/31185-vpilot-voice-will-no-longer-work/?do=findComment&comment=177711)
+- [Data format and structure for MSFS Vatsim traffic injection](https://forums.vatsim.net/topic/31184-data-format-and-structure-for-msfs-vatsim-traffic-injection/?do=findComment&comment=177710)
+- [Data format and structure for MSFS Vatsim traffic injection](https://forums.vatsim.net/topic/31184-data-format-and-structure-for-msfs-vatsim-traffic-injection/?do=findComment&comment=177709)
+- [vPilot Voice will no longer work](https://forums.vatsim.net/topic/31185-vpilot-voice-will-no-longer-work/?do=findComment&comment=177708)
 - [vPilot Voice will no longer work](https://forums.vatsim.net/topic/31185-vpilot-voice-will-no-longer-work/?do=findComment&comment=177707)
 - [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177706)
 - [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177705)
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177704)
 - [vPilot Voice will no longer work](https://forums.vatsim.net/topic/31185-vpilot-voice-will-no-longer-work/?do=findComment&comment=177703)
 - [Data format and structure for MSFS Vatsim traffic injection](https://forums.vatsim.net/topic/31184-data-format-and-structure-for-msfs-vatsim-traffic-injection/?do=findComment&comment=177702)
-- [Vpilot network and voice keeps disconnecting](https://forums.vatsim.net/topic/28014-vpilot-network-and-voice-keeps-disconnecting/?do=findComment&comment=177701)
-- [Data format and structure for MSFS Vatsim traffic injection](https://forums.vatsim.net/topic/31184-data-format-and-structure-for-msfs-vatsim-traffic-injection/?do=findComment&comment=177700)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177698)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177697)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
