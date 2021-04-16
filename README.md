@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VatSpy 1.3.3 not starting cleanly](https://forums.vatsim.net/topic/31181-vatspy-133-not-starting-cleanly/?do=findComment&comment=177673)
 - [Announcing VATSIM's Community Partnership Program](https://forums.vatsim.net/topic/31180-announcing-vatsims-community-partnership-program/?do=findComment&comment=177672)
 - [Looking for an events manager at Monarch Virtual](https://forums.vatsim.net/topic/31179-looking-for-an-events-manager-at-monarch-virtual/?do=findComment&comment=177671)
 - [About the virtual airline staff positions?](https://forums.vatsim.net/topic/29993-about-the-virtual-airline-staff-positions/?do=findComment&comment=177670)
@@ -62,7 +63,6 @@
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177666)
 - [FlAi Alternative?](https://forums.vatsim.net/topic/31178-flai-alternative/?do=findComment&comment=177665)
 - [Metric Level](https://forums.vatsim.net/topic/31166-metric-level/?do=findComment&comment=177664)
-- [Qutescoop not working?](https://forums.vatsim.net/topic/31177-qutescoop-not-working/?do=findComment&comment=177663)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
