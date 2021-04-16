@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177680)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177679)
 - [Friday Night Live: 09-04-2021: Hyderabad (VOHS) to Chennai (VOMM)](https://forums.vatsim.net/topic/31102-friday-night-live-09-04-2021-hyderabad-vohs-to-chennai-vomm/?do=findComment&comment=177678)
 - [[VACANCY] VATEUD ATC Training Department Regional Manager](https://forums.vatsim.net/topic/31183-vacancy-vateud-atc-training-department-regional-manager/?do=findComment&comment=177677)
@@ -62,7 +63,6 @@
 - [About the virtual airline staff positions?](https://forums.vatsim.net/topic/29993-about-the-virtual-airline-staff-positions/?do=findComment&comment=177670)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177669)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177668)
-- [VATSIM Cross The Pond: Westbound 2021](https://forums.vatsim.net/topic/30925-vatsim-cross-the-pond-westbound-2021/?do=findComment&comment=177667)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
