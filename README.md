@@ -59,10 +59,10 @@
 - [Hello folks!](https://forums.vatsim.net/topic/31128-hello-folks/?do=findComment&comment=177674)
 - [VatSpy 1.3.3 not starting cleanly](https://forums.vatsim.net/topic/31181-vatspy-133-not-starting-cleanly/?do=findComment&comment=177673)
 - [Announcing VATSIM's Community Partnership Program](https://forums.vatsim.net/topic/31180-announcing-vatsims-community-partnership-program/?do=findComment&comment=177672)
-- [Looking for an events manager at Monarch Virtual](https://forums.vatsim.net/topic/31179-looking-for-an-events-manager-at-monarch-virtual/?do=findComment&comment=177671)
 - [About the virtual airline staff positions?](https://forums.vatsim.net/topic/29993-about-the-virtual-airline-staff-positions/?do=findComment&comment=177670)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177669)
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177668)
+- [VATSIM Cross The Pond: Westbound 2021](https://forums.vatsim.net/topic/30925-vatsim-cross-the-pond-westbound-2021/?do=findComment&comment=177667)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
