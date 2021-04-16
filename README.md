@@ -53,7 +53,6 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Best freight china](https://forums.vatsim.net/topic/31182-best-freight-china/?do=findComment&comment=177675)
 - [Hello folks!](https://forums.vatsim.net/topic/31128-hello-folks/?do=findComment&comment=177674)
 - [VatSpy 1.3.3 not starting cleanly](https://forums.vatsim.net/topic/31181-vatspy-133-not-starting-cleanly/?do=findComment&comment=177673)
 - [Announcing VATSIM's Community Partnership Program](https://forums.vatsim.net/topic/31180-announcing-vatsims-community-partnership-program/?do=findComment&comment=177672)
@@ -63,6 +62,7 @@
 - [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177668)
 - [VATSIM Cross The Pond: Westbound 2021](https://forums.vatsim.net/topic/30925-vatsim-cross-the-pond-westbound-2021/?do=findComment&comment=177667)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177666)
+- [FlAi Alternative?](https://forums.vatsim.net/topic/31178-flai-alternative/?do=findComment&comment=177665)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
