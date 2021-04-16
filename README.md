@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177683)
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177682)
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177681)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177680)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177679)
 - [Friday Night Live: 09-04-2021: Hyderabad (VOHS) to Chennai (VOMM)](https://forums.vatsim.net/topic/31102-friday-night-live-09-04-2021-hyderabad-vohs-to-chennai-vomm/?do=findComment&comment=177678)
@@ -60,9 +63,6 @@
 - [Hello folks!](https://forums.vatsim.net/topic/31128-hello-folks/?do=findComment&comment=177674)
 - [VatSpy 1.3.3 not starting cleanly](https://forums.vatsim.net/topic/31181-vatspy-133-not-starting-cleanly/?do=findComment&comment=177673)
 - [Announcing VATSIM's Community Partnership Program](https://forums.vatsim.net/topic/31180-announcing-vatsims-community-partnership-program/?do=findComment&comment=177672)
-- [About the virtual airline staff positions?](https://forums.vatsim.net/topic/29993-about-the-virtual-airline-staff-positions/?do=findComment&comment=177670)
-- [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177669)
-- [I need a little info about VATSIM,](https://forums.vatsim.net/topic/31168-i-need-a-little-info-about-vatsim/?do=findComment&comment=177668)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
