@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Data Server Retirements](https://forums.vatsim.net/topic/31192-data-server-retirements/?do=findComment&comment=177727)
 - [[Apr 24] Canadian Xpress April Fly-In - Spring Time in the Mountains](https://forums.vatsim.net/topic/31191-apr-24-canadian-xpress-april-fly-in-spring-time-in-the-mountains/?do=findComment&comment=177726)
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177725)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=177724)
@@ -62,7 +63,6 @@
 - [Any way to calculate Required Time of Arrival/RTA manually when flying oceanic?](https://forums.vatsim.net/topic/31189-any-way-to-calculate-required-time-of-arrivalrta-manually-when-flying-oceanic/?do=findComment&comment=177720)
 - [Any way to calculate Required Time of Arrival/RTA manually when flying oceanic?](https://forums.vatsim.net/topic/31189-any-way-to-calculate-required-time-of-arrivalrta-manually-when-flying-oceanic/?do=findComment&comment=177719)
 - [Any way to calculate Required Time of Arrival/RTA manually when flying oceanic?](https://forums.vatsim.net/topic/31189-any-way-to-calculate-required-time-of-arrivalrta-manually-when-flying-oceanic/?do=findComment&comment=177718)
-- [vPilot Voice will no longer work](https://forums.vatsim.net/topic/31185-vpilot-voice-will-no-longer-work/?do=findComment&comment=177717)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
