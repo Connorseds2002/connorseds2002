@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177732)
+- [Any way to calculate Required Time of Arrival/RTA manually when flying oceanic?](https://forums.vatsim.net/topic/31189-any-way-to-calculate-required-time-of-arrivalrta-manually-when-flying-oceanic/?do=findComment&comment=177731)
 - [VATSIM Observer Mode Full Flight](https://forums.vatsim.net/topic/31193-vatsim-observer-mode-full-flight/?do=findComment&comment=177730)
 - [VATSIM seeks Vice Presidents, Supervisors (VATGOV9) and Pilot Training (VATGOV13)](https://forums.vatsim.net/topic/31194-vatsim-seeks-vice-presidents-supervisors-vatgov9-and-pilot-training-vatgov13/?do=findComment&comment=177729)
 - [VATSIM Observer Mode Full Flight](https://forums.vatsim.net/topic/31193-vatsim-observer-mode-full-flight/?do=findComment&comment=177728)
@@ -61,8 +63,6 @@
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177725)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=177724)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177723)
-- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=177722)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177721)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
