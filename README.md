@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [error en el documento XML(0,0).](https://forums.vatsim.net/topic/31188-error-en-el-documento-xml00/?do=findComment&comment=177714)
 - [error en el documento XML(0,0).](https://forums.vatsim.net/topic/31188-error-en-el-documento-xml00/?do=findComment&comment=177713)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=177712)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=177711)
@@ -62,7 +63,6 @@
 - [vPilot Voice will no longer work](https://forums.vatsim.net/topic/31185-vpilot-voice-will-no-longer-work/?do=findComment&comment=177707)
 - [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177706)
 - [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177705)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177704)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
