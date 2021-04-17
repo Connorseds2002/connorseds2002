@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=177724)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177723)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=177722)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177721)
@@ -62,7 +63,6 @@
 - [vPilot Voice will no longer work](https://forums.vatsim.net/topic/31185-vpilot-voice-will-no-longer-work/?do=findComment&comment=177717)
 - [[STAFF VACANCY]Nepal vACC ATC Training Director - ACCNPL3](https://forums.vatsim.net/topic/31190-staff-vacancynepal-vacc-atc-training-director-accnpl3/?do=findComment&comment=177716)
 - [Any way to calculate Required Time of Arrival/RTA manually when flying oceanic?](https://forums.vatsim.net/topic/31189-any-way-to-calculate-required-time-of-arrivalrta-manually-when-flying-oceanic/?do=findComment&comment=177715)
-- [error en el documento XML(0,0).](https://forums.vatsim.net/topic/31188-error-en-el-documento-xml00/?do=findComment&comment=177714)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
