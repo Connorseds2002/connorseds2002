@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131524)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131520)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131508)
 - [09MAY21 | West Sale to Tyabb via Latrobe Valley](https://vatpac.org/calendar/event/1753-09may21-west-sale-to-tyabb-via-latrobe-valley/)
@@ -48,7 +49,6 @@
 - [Major Events List 2021](https://vatpac.org/forums/topic/18457-major-events-list-2021/?do=findComment&comment=131477)
 - [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/calendar/event/1742-20apr21-spotlight-series-orbx-ybbn-v2/)
 - [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/forums/topic/18735-20apr21-spotlight-series-orbx-ybbn-v2/?do=findComment&comment=131471)
-- [23MAY21 | Real Ops Melbourne](https://vatpac.org/forums/topic/18734-23may21-real-ops-melbourne/?do=findComment&comment=131461)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
