@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Any way to calculate Required Time of Arrival/RTA manually when flying oceanic?](https://forums.vatsim.net/topic/31189-any-way-to-calculate-required-time-of-arrivalrta-manually-when-flying-oceanic/?do=findComment&comment=177718)
 - [vPilot Voice will no longer work](https://forums.vatsim.net/topic/31185-vpilot-voice-will-no-longer-work/?do=findComment&comment=177717)
 - [[STAFF VACANCY]Nepal vACC ATC Training Director - ACCNPL3](https://forums.vatsim.net/topic/31190-staff-vacancynepal-vacc-atc-training-director-accnpl3/?do=findComment&comment=177716)
 - [Any way to calculate Required Time of Arrival/RTA manually when flying oceanic?](https://forums.vatsim.net/topic/31189-any-way-to-calculate-required-time-of-arrivalrta-manually-when-flying-oceanic/?do=findComment&comment=177715)
@@ -62,7 +63,6 @@
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=177711)
 - [Data format and structure for MSFS Vatsim traffic injection](https://forums.vatsim.net/topic/31184-data-format-and-structure-for-msfs-vatsim-traffic-injection/?do=findComment&comment=177710)
 - [Data format and structure for MSFS Vatsim traffic injection](https://forums.vatsim.net/topic/31184-data-format-and-structure-for-msfs-vatsim-traffic-injection/?do=findComment&comment=177709)
-- [vPilot Voice will no longer work](https://forums.vatsim.net/topic/31185-vpilot-voice-will-no-longer-work/?do=findComment&comment=177708)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
