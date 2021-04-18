@@ -39,6 +39,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [28APR21 World Discovery Aotearoa South Island (New Zealand)](https://vatpac.org/calendar/event/1761-28apr21-world-discovery-aotearoa-south-island-new-zealand/)
+- [21APR21 World Discovery - Belgium](https://vatpac.org/calendar/event/1760-21apr21-world-discovery-belgium/)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131524)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131520)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131508)
@@ -47,8 +49,6 @@
 - [NOTAM 17APR21: Positions Reserved for Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18736-notam-17apr21-positions-reserved-for-perth-singapore-shuttle/?do=findComment&comment=131479)
 - [ATC Controlling Positions during Milk Run Monday --- (Mode B Active)](https://vatpac.org/forums/topic/18543-atc-controlling-positions-during-milk-run-monday-mode-b-active/?do=findComment&comment=131478)
 - [Major Events List 2021](https://vatpac.org/forums/topic/18457-major-events-list-2021/?do=findComment&comment=131477)
-- [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/calendar/event/1742-20apr21-spotlight-series-orbx-ybbn-v2/)
-- [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/forums/topic/18735-20apr21-spotlight-series-orbx-ybbn-v2/?do=findComment&comment=131471)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
