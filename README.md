@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy Window Stuck Off Screen](https://forums.vatsim.net/topic/31198-vat-spy-window-stuck-off-screen/?do=findComment&comment=177758)
 - [VAT-Spy Window Stuck Off Screen](https://forums.vatsim.net/topic/31198-vat-spy-window-stuck-off-screen/?do=findComment&comment=177757)
 - [VAT-Spy Window Stuck Off Screen](https://forums.vatsim.net/topic/31198-vat-spy-window-stuck-off-screen/?do=findComment&comment=177756)
 - [FlightSimExpo 2021](https://forums.vatsim.net/topic/31197-flightsimexpo-2021/?do=findComment&comment=177755)
@@ -62,7 +63,6 @@
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177751)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177750)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177749)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177748)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
