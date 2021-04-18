@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177735)
 - [Virtual Airlines & Special Operations operations](https://forums.vatsim.net/topic/31195-virtual-airlines-special-operations-operations/?do=findComment&comment=177734)
 - [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177733)
 - [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177732)
@@ -62,7 +63,6 @@
 - [VATSIM Observer Mode Full Flight](https://forums.vatsim.net/topic/31193-vatsim-observer-mode-full-flight/?do=findComment&comment=177728)
 - [Data Server Retirements](https://forums.vatsim.net/topic/31192-data-server-retirements/?do=findComment&comment=177727)
 - [[Apr 24] Canadian Xpress April Fly-In - Spring Time in the Mountains](https://forums.vatsim.net/topic/31191-apr-24-canadian-xpress-april-fly-in-spring-time-in-the-mountains/?do=findComment&comment=177726)
-- [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177725)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
