@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FlightSimExpo 2021](https://forums.vatsim.net/topic/31197-flightsimexpo-2021/?do=findComment&comment=177755)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177754)
 - [Departure from JFK](https://forums.vatsim.net/topic/30814-departure-from-jfk/?do=findComment&comment=177753)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=177752)
@@ -62,7 +63,6 @@
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177748)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177747)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177746)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177745)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
