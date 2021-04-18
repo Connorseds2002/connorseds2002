@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177741)
+- [Metric Level](https://forums.vatsim.net/topic/31196-metric-level/?do=findComment&comment=177740)
+- [Metric Level](https://forums.vatsim.net/topic/31196-metric-level/?do=findComment&comment=177739)
+- [Metric Level](https://forums.vatsim.net/topic/31196-metric-level/?do=findComment&comment=177738)
+- [Metric Level](https://forums.vatsim.net/topic/31196-metric-level/?do=findComment&comment=177737)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177736)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177735)
 - [Virtual Airlines & Special Operations operations](https://forums.vatsim.net/topic/31195-virtual-airlines-special-operations-operations/?do=findComment&comment=177734)
 - [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177733)
 - [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177732)
-- [Any way to calculate Required Time of Arrival/RTA manually when flying oceanic?](https://forums.vatsim.net/topic/31189-any-way-to-calculate-required-time-of-arrivalrta-manually-when-flying-oceanic/?do=findComment&comment=177731)
-- [VATSIM Observer Mode Full Flight](https://forums.vatsim.net/topic/31193-vatsim-observer-mode-full-flight/?do=findComment&comment=177730)
-- [VATSIM seeks Vice Presidents, Supervisors (VATGOV9) and Pilot Training (VATGOV13)](https://forums.vatsim.net/topic/31194-vatsim-seeks-vice-presidents-supervisors-vatgov9-and-pilot-training-vatgov13/?do=findComment&comment=177729)
-- [VATSIM Observer Mode Full Flight](https://forums.vatsim.net/topic/31193-vatsim-observer-mode-full-flight/?do=findComment&comment=177728)
-- [Data Server Retirements](https://forums.vatsim.net/topic/31192-data-server-retirements/?do=findComment&comment=177727)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
