@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [weather engines](https://forums.vatsim.net/topic/31199-weather-engines/?do=findComment&comment=177766)
+- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=177765)
+- [Trying to login to VATTASTIC with VATSIM credentials](https://forums.vatsim.net/topic/30967-trying-to-login-to-vattastic-with-vatsim-credentials/?do=findComment&comment=177764)
 - [weather engines](https://forums.vatsim.net/topic/31199-weather-engines/?do=findComment&comment=177763)
 - [FlightSimExpo 2021](https://forums.vatsim.net/topic/31197-flightsimexpo-2021/?do=findComment&comment=177762)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177761)
@@ -60,9 +63,6 @@
 - [VAT-Spy Window Stuck Off Screen](https://forums.vatsim.net/topic/31198-vat-spy-window-stuck-off-screen/?do=findComment&comment=177759)
 - [VAT-Spy Window Stuck Off Screen](https://forums.vatsim.net/topic/31198-vat-spy-window-stuck-off-screen/?do=findComment&comment=177758)
 - [VAT-Spy Window Stuck Off Screen](https://forums.vatsim.net/topic/31198-vat-spy-window-stuck-off-screen/?do=findComment&comment=177757)
-- [VAT-Spy Window Stuck Off Screen](https://forums.vatsim.net/topic/31198-vat-spy-window-stuck-off-screen/?do=findComment&comment=177756)
-- [FlightSimExpo 2021](https://forums.vatsim.net/topic/31197-flightsimexpo-2021/?do=findComment&comment=177755)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177754)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
