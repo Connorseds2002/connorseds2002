@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177733)
 - [TX/RX test box facility](https://forums.vatsim.net/topic/31186-txrx-test-box-facility/?do=findComment&comment=177732)
 - [Any way to calculate Required Time of Arrival/RTA manually when flying oceanic?](https://forums.vatsim.net/topic/31189-any-way-to-calculate-required-time-of-arrivalrta-manually-when-flying-oceanic/?do=findComment&comment=177731)
 - [VATSIM Observer Mode Full Flight](https://forums.vatsim.net/topic/31193-vatsim-observer-mode-full-flight/?do=findComment&comment=177730)
@@ -62,7 +63,6 @@
 - [[Apr 24] Canadian Xpress April Fly-In - Spring Time in the Mountains](https://forums.vatsim.net/topic/31191-apr-24-canadian-xpress-april-fly-in-spring-time-in-the-mountains/?do=findComment&comment=177726)
 - [Frequency inaccuracies in VATSIM API](https://forums.vatsim.net/topic/31100-frequency-inaccuracies-in-vatsim-api/?do=findComment&comment=177725)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=177724)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177723)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
