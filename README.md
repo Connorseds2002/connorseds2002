@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [14MAY21 | Mackay to Hamilton Island via Whitsunday Islands](https://vatpac.org/calendar/event/1762-14may21-mackay-to-hamilton-island-via-whitsunday-islands/)
 - [28APR21 World Discovery Aotearoa South Island (New Zealand)](https://vatpac.org/calendar/event/1761-28apr21-world-discovery-aotearoa-south-island-new-zealand/)
 - [21APR21 World Discovery - Belgium](https://vatpac.org/calendar/event/1760-21apr21-world-discovery-belgium/)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131524)
@@ -48,7 +49,6 @@
 - [07MAY21 | Tyabb to West Sale via Phillip Island and Wilsons Promontory](https://vatpac.org/calendar/event/1752-07may21-tyabb-to-west-sale-via-phillip-island-and-wilsons-promontory/)
 - [NOTAM 17APR21: Positions Reserved for Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18736-notam-17apr21-positions-reserved-for-perth-singapore-shuttle/?do=findComment&comment=131479)
 - [ATC Controlling Positions during Milk Run Monday --- (Mode B Active)](https://vatpac.org/forums/topic/18543-atc-controlling-positions-during-milk-run-monday-mode-b-active/?do=findComment&comment=131478)
-- [Major Events List 2021](https://vatpac.org/forums/topic/18457-major-events-list-2021/?do=findComment&comment=131477)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
