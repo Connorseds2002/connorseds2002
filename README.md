@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177808)
+- [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=177807)
+- [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177806)
+- [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177805)
 - [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=177804)
 - [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177803)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177802)
 - [[ACCIND1] Director India vACC Vacancy](https://forums.vatsim.net/topic/31207-accind1-director-india-vacc-vacancy/?do=findComment&comment=177801)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177800)
 - [Traffic! Traffic!](https://forums.vatsim.net/topic/31205-traffic-traffic/?do=findComment&comment=177799)
-- [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177798)
-- [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177797)
-- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177796)
-- [Traffic! Traffic!](https://forums.vatsim.net/topic/31205-traffic-traffic/?do=findComment&comment=177795)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
