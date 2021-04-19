@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Traffic! Traffic!](https://forums.vatsim.net/topic/31205-traffic-traffic/?do=findComment&comment=177795)
+- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177794)
+- [Traffic! Traffic!](https://forums.vatsim.net/topic/31205-traffic-traffic/?do=findComment&comment=177793)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177791)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177790)
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177789)
@@ -60,9 +63,6 @@
 - [Problem to download sector file](https://forums.vatsim.net/topic/31153-problem-to-download-sector-file/?do=findComment&comment=177787)
 - [Problem to download sector file](https://forums.vatsim.net/topic/31153-problem-to-download-sector-file/?do=findComment&comment=177786)
 - [[VACANCY] VATEUD ATC Training Department Regional Manager](https://forums.vatsim.net/topic/31183-vacancy-vateud-atc-training-department-regional-manager/?do=findComment&comment=177785)
-- [Problem to download sector file](https://forums.vatsim.net/topic/31153-problem-to-download-sector-file/?do=findComment&comment=177784)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177783)
-- [[VACANCY] VATEUD ATC Training Department Regional Manager](https://forums.vatsim.net/topic/31183-vacancy-vateud-atc-training-department-regional-manager/?do=findComment&comment=177782)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
