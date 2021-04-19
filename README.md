@@ -39,16 +39,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [31MAY21 | Spilled Milk Run - Adelaide & Hobart](https://vatpac.org/calendar/event/1771-31may21-spilled-milk-run-adelaide-hobart/)
+- [24MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1770-24may21-milk-run-monday/)
+- [17MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1769-17may21-milk-run-monday/)
+- [10MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1768-10may21-milk-run-monday/)
+- [03MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1767-03may21-milk-run-monday/)
+- [NOTAM: Position Reserved for ATC Training](https://vatpac.org/forums/topic/18745-notam-position-reserved-for-atc-training/?do=findComment&comment=131533)
 - [14MAY21 | Mackay to Hamilton Island via Whitsunday Islands](https://vatpac.org/calendar/event/1762-14may21-mackay-to-hamilton-island-via-whitsunday-islands/)
 - [28APR21 World Discovery Aotearoa South Island (New Zealand)](https://vatpac.org/calendar/event/1761-28apr21-world-discovery-aotearoa-south-island-new-zealand/)
 - [21APR21 World Discovery - Belgium](https://vatpac.org/calendar/event/1760-21apr21-world-discovery-belgium/)
 - [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131524)
-- [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131520)
-- [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131508)
-- [09MAY21 | West Sale to Tyabb via Latrobe Valley](https://vatpac.org/calendar/event/1753-09may21-west-sale-to-tyabb-via-latrobe-valley/)
-- [07MAY21 | Tyabb to West Sale via Phillip Island and Wilsons Promontory](https://vatpac.org/calendar/event/1752-07may21-tyabb-to-west-sale-via-phillip-island-and-wilsons-promontory/)
-- [NOTAM 17APR21: Positions Reserved for Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18736-notam-17apr21-positions-reserved-for-perth-singapore-shuttle/?do=findComment&comment=131479)
-- [ATC Controlling Positions during Milk Run Monday --- (Mode B Active)](https://vatpac.org/forums/topic/18543-atc-controlling-positions-during-milk-run-monday-mode-b-active/?do=findComment&comment=131478)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
