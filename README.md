@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problem to download sector file](https://forums.vatsim.net/topic/31153-problem-to-download-sector-file/?do=findComment&comment=177784)
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177783)
+- [[VACANCY] VATEUD ATC Training Department Regional Manager](https://forums.vatsim.net/topic/31183-vacancy-vateud-atc-training-department-regional-manager/?do=findComment&comment=177782)
 - [xPilot Issue](https://forums.vatsim.net/topic/28461-xpilot-issue/?do=findComment&comment=177781)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177780)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=177779)
@@ -60,9 +63,6 @@
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177777)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177776)
 - [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=177775)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177774)
-- [Errors (in MyVatsim, CommunityVatsim, vPilot) after completing new member orientation exam](https://forums.vatsim.net/topic/31201-errors-in-myvatsim-communityvatsim-vpilot-after-completing-new-member-orientation-exam/?do=findComment&comment=177773)
-- [Friday Night Live: 23-04-2021: Ahmedabad (VAAH) to New Delhi (VIDP)](https://forums.vatsim.net/topic/31202-friday-night-live-23-04-2021-ahmedabad-vaah-to-new-delhi-vidp/?do=findComment&comment=177772)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
