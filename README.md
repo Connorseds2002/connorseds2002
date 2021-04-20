@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177813)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177812)
 - [Swagatam China [ Event]](https://forums.vatsim.net/topic/31208-swagatam-china-event/?do=findComment&comment=177811)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177810)
@@ -62,7 +63,6 @@
 - [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177806)
 - [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177805)
 - [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=177804)
-- [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177803)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
