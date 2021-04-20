@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177812)
 - [Swagatam China [ Event]](https://forums.vatsim.net/topic/31208-swagatam-china-event/?do=findComment&comment=177811)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177810)
 - [How to change Euroscope send packet rate?](https://forums.vatsim.net/topic/30642-how-to-change-euroscope-send-packet-rate/?do=findComment&comment=177809)
@@ -62,7 +63,6 @@
 - [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177805)
 - [Are transitions still used in Germany?](https://forums.vatsim.net/topic/31044-are-transitions-still-used-in-germany/?do=findComment&comment=177804)
 - [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177803)
-- [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=177802)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
