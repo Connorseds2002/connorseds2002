@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/forums/topic/18735-20apr21-spotlight-series-orbx-ybbn-v2/?do=findComment&comment=131552)
 - [31MAY21 | Spilled Milk Run - Adelaide & Hobart](https://vatpac.org/calendar/event/1771-31may21-spilled-milk-run-adelaide-hobart/)
 - [24MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1770-24may21-milk-run-monday/)
 - [17MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1769-17may21-milk-run-monday/)
@@ -48,7 +49,6 @@
 - [14MAY21 | Mackay to Hamilton Island via Whitsunday Islands](https://vatpac.org/calendar/event/1762-14may21-mackay-to-hamilton-island-via-whitsunday-islands/)
 - [28APR21 World Discovery Aotearoa South Island (New Zealand)](https://vatpac.org/calendar/event/1761-28apr21-world-discovery-aotearoa-south-island-new-zealand/)
 - [21APR21 World Discovery - Belgium](https://vatpac.org/calendar/event/1760-21apr21-world-discovery-belgium/)
-- [17APR21 | Perth > Singapore Shuttle](https://vatpac.org/forums/topic/18662-17apr21-perth-singapore-shuttle/?do=findComment&comment=131524)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
