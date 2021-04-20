@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [05MAY21 World Discovery-Corsica](https://vatpac.org/calendar/event/1774-05may21-world-discovery-corsica/)
 - [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/forums/topic/18735-20apr21-spotlight-series-orbx-ybbn-v2/?do=findComment&comment=131552)
 - [31MAY21 | Spilled Milk Run - Adelaide & Hobart](https://vatpac.org/calendar/event/1771-31may21-spilled-milk-run-adelaide-hobart/)
 - [24MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1770-24may21-milk-run-monday/)
@@ -48,7 +49,6 @@
 - [NOTAM: Position Reserved for ATC Training](https://vatpac.org/forums/topic/18745-notam-position-reserved-for-atc-training/?do=findComment&comment=131533)
 - [14MAY21 | Mackay to Hamilton Island via Whitsunday Islands](https://vatpac.org/calendar/event/1762-14may21-mackay-to-hamilton-island-via-whitsunday-islands/)
 - [28APR21 World Discovery Aotearoa South Island (New Zealand)](https://vatpac.org/calendar/event/1761-28apr21-world-discovery-aotearoa-south-island-new-zealand/)
-- [21APR21 World Discovery - Belgium](https://vatpac.org/calendar/event/1760-21apr21-world-discovery-belgium/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
