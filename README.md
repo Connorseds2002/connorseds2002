@@ -42,13 +42,13 @@
 - [Appointment of Event Coordinator(s)](https://vatpac.org/forums/topic/18758-appointment-of-event-coordinators/?do=findComment&comment=131564)
 - [NOTAM 25APR21: Positions Reserved for Anzac Parade](https://vatpac.org/forums/topic/18757-notam-25apr21-positions-reserved-for-anzac-parade/?do=findComment&comment=131562)
 - [05MAY21 World Discovery-Corsica](https://vatpac.org/calendar/event/1774-05may21-world-discovery-corsica/)
-- [20APR21 | Spotlight Series - ORBX YBBN V2](https://vatpac.org/forums/topic/18735-20apr21-spotlight-series-orbx-ybbn-v2/?do=findComment&comment=131552)
 - [31MAY21 | Spilled Milk Run - Adelaide & Hobart](https://vatpac.org/calendar/event/1771-31may21-spilled-milk-run-adelaide-hobart/)
 - [24MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1770-24may21-milk-run-monday/)
 - [17MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1769-17may21-milk-run-monday/)
 - [10MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1768-10may21-milk-run-monday/)
 - [03MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1767-03may21-milk-run-monday/)
 - [NOTAM: Position Reserved for ATC Training](https://vatpac.org/forums/topic/18745-notam-position-reserved-for-atc-training/?do=findComment&comment=131533)
+- [14MAY21 | Mackay to Hamilton Island via Whitsunday Islands](https://vatpac.org/calendar/event/1762-14may21-mackay-to-hamilton-island-via-whitsunday-islands/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
