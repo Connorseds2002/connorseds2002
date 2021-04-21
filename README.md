@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177856)
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177855)
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177853)
 - ['' Radio sound effect ''](https://forums.vatsim.net/topic/31209-radio-sound-effect/?do=findComment&comment=177852)
@@ -62,7 +63,6 @@
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177848)
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177847)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177846)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177845)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
