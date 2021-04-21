@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- ['' Radio sound effect ''](https://forums.vatsim.net/topic/31209-radio-sound-effect/?do=findComment&comment=177826)
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177825)
 - ['' Radio sound effect ''](https://forums.vatsim.net/topic/31209-radio-sound-effect/?do=findComment&comment=177824)
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177823)
@@ -62,7 +63,6 @@
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=177819)
 - [Did you win the lottery?](https://forums.vatsim.net/topic/31210-did-you-win-the-lottery/?do=findComment&comment=177818)
 - [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=177817)
-- [Can’t see live traffic on xSquawkBox](https://forums.vatsim.net/topic/31206-can%E2%80%99t-see-live-traffic-on-xsquawkbox/?do=findComment&comment=177816)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
