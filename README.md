@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TWR Controller - Nick Brennan](https://vatpac.org/forums/topic/18762-twr-controller-nick-brennan/?do=findComment&comment=131601)
 - [NOTAM: AIRAC 2104](https://vatpac.org/forums/topic/18761-notam-airac-2104/?do=findComment&comment=131599)
 - [Appointment of Event Coordinator(s)](https://vatpac.org/forums/topic/18758-appointment-of-event-coordinators/?do=findComment&comment=131564)
 - [NOTAM 25APR21: Positions Reserved for Anzac Parade](https://vatpac.org/forums/topic/18757-notam-25apr21-positions-reserved-for-anzac-parade/?do=findComment&comment=131562)
@@ -48,7 +49,6 @@
 - [17MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1769-17may21-milk-run-monday/)
 - [10MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1768-10may21-milk-run-monday/)
 - [03MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1767-03may21-milk-run-monday/)
-- [NOTAM: Position Reserved for ATC Training](https://vatpac.org/forums/topic/18745-notam-position-reserved-for-atc-training/?do=findComment&comment=131533)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
