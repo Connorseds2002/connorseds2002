@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177874)
+- [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177873)
+- [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177872)
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177871)
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177870)
 - [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177869)
@@ -60,9 +63,6 @@
 - [Vatsim in VR with Oculus Rift headset](https://forums.vatsim.net/topic/31214-vatsim-in-vr-with-oculus-rift-headset/?do=findComment&comment=177867)
 - [Wrong discord account](https://forums.vatsim.net/topic/31212-wrong-discord-account/?do=findComment&comment=177866)
 - [Wrong discord account](https://forums.vatsim.net/topic/31212-wrong-discord-account/?do=findComment&comment=177865)
-- [Wrong discord account](https://forums.vatsim.net/topic/31212-wrong-discord-account/?do=findComment&comment=177864)
-- [File location referance.](https://forums.vatsim.net/topic/31213-file-location-referance/?do=findComment&comment=177863)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177862)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
