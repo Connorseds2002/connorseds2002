@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [16MAY21 | Hamilton Island to Mackay](https://vatpac.org/calendar/event/1778-16may21-hamilton-island-to-mackay/)
 - [TWR Controller - Nick Brennan](https://vatpac.org/forums/topic/18762-twr-controller-nick-brennan/?do=findComment&comment=131601)
 - [NOTAM: AIRAC 2104](https://vatpac.org/forums/topic/18761-notam-airac-2104/?do=findComment&comment=131599)
 - [Appointment of Event Coordinator(s)](https://vatpac.org/forums/topic/18758-appointment-of-event-coordinators/?do=findComment&comment=131564)
@@ -48,7 +49,6 @@
 - [24MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1770-24may21-milk-run-monday/)
 - [17MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1769-17may21-milk-run-monday/)
 - [10MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1768-10may21-milk-run-monday/)
-- [03MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1767-03may21-milk-run-monday/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
