@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Winter Dirt As Winter Is Not Over Yet!!!!](https://forums.vatsim.net/topic/31217-winter-dirt-as-winter-is-not-over-yet/?do=findComment&comment=177888)
+- [DC-4 Getting Polished And Buffed!!](https://forums.vatsim.net/topic/31164-dc-4-getting-polished-and-buffed/?do=findComment&comment=177887)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177886)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177885)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177884)
@@ -61,8 +63,6 @@
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177881)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177879)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177878)
-- [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177877)
-- [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177876)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
