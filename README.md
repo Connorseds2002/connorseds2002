@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177886)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177885)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177884)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177883)
@@ -62,7 +63,6 @@
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177878)
 - [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177877)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177876)
-- [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177875)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
