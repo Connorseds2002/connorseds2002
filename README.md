@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177878)
+- [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177877)
+- [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177876)
+- [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177875)
 - [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177874)
 - [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177873)
 - [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177872)
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177871)
 - [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177870)
 - [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177869)
-- [xPilot in VR](https://forums.vatsim.net/topic/24781-xpilot-in-vr/?do=findComment&comment=177868)
-- [Vatsim in VR with Oculus Rift headset](https://forums.vatsim.net/topic/31214-vatsim-in-vr-with-oculus-rift-headset/?do=findComment&comment=177867)
-- [Wrong discord account](https://forums.vatsim.net/topic/31212-wrong-discord-account/?do=findComment&comment=177866)
-- [Wrong discord account](https://forums.vatsim.net/topic/31212-wrong-discord-account/?do=findComment&comment=177865)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
