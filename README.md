@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Errors (in MyVatsim, CommunityVatsim, vPilot) after completing new member orientation exam](https://forums.vatsim.net/topic/31201-errors-in-myvatsim-communityvatsim-vpilot-after-completing-new-member-orientation-exam/?do=findComment&comment=177882)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177881)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177879)
 - [xPilot issue - characters limit](https://forums.vatsim.net/topic/31216-xpilot-issue-characters-limit/?do=findComment&comment=177878)
@@ -62,7 +63,6 @@
 - [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177874)
 - [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177873)
 - [VATSIM Technical Development](https://forums.vatsim.net/topic/31215-vatsim-technical-development/?do=findComment&comment=177872)
-- [Possible to use JF Traffic Global for aircraft models?](https://forums.vatsim.net/topic/29939-possible-to-use-jf-traffic-global-for-aircraft-models/?do=findComment&comment=177871)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
