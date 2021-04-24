@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [repeated error message](https://forums.vatsim.net/topic/31225-repeated-error-message/?do=findComment&comment=177918)
+- [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=177917)
+- [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177916)
 - [[May 15th 10:00z-16:00z] Ramon - Budapest Shuttle](https://forums.vatsim.net/topic/31224-may-15th-1000z-1600z-ramon-budapest-shuttle/?do=findComment&comment=177915)
 - [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=177914)
 - [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177913)
@@ -60,9 +63,6 @@
 - [PTT using keyboard AND joystick](https://forums.vatsim.net/topic/31223-ptt-using-keyboard-and-joystick/?do=findComment&comment=177911)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177910)
 - [Fairwell (again as Director of Hong Kong VACC)](https://forums.vatsim.net/topic/31222-fairwell-again-as-director-of-hong-kong-vacc/?do=findComment&comment=177909)
-- [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177908)
-- [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177907)
-- [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177906)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
