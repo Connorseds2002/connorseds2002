@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177906)
 - [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177905)
 - [Invalid Vatsim data file version](https://forums.vatsim.net/topic/26710-invalid-vatsim-data-file-version/?do=findComment&comment=177904)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177903)
@@ -62,7 +63,6 @@
 - [I don't see my time airborne in SimAware and is not reflected on my profile.](https://forums.vatsim.net/topic/31219-i-dont-see-my-time-airborne-in-simaware-and-is-not-reflected-on-my-profile/?do=findComment&comment=177899)
 - [File location referance.](https://forums.vatsim.net/topic/31213-file-location-referance/?do=findComment&comment=177898)
 - [vERAM version 1.3.0 now available](https://forums.vatsim.net/topic/31218-veram-version-130-now-available/?do=findComment&comment=177897)
-- [vERAM version 1.3.0 now available](https://forums.vatsim.net/topic/31218-veram-version-130-now-available/?do=findComment&comment=177896)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
