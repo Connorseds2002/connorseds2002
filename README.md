@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SELCAL and host/remote mode](https://forums.vatsim.net/topic/31227-selcal-and-hostremote-mode/?do=findComment&comment=177922)
+- [SELCAL and host/remote mode](https://forums.vatsim.net/topic/31227-selcal-and-hostremote-mode/?do=findComment&comment=177921)
+- [SELCAL and host/remote mode](https://forums.vatsim.net/topic/31227-selcal-and-hostremote-mode/?do=findComment&comment=177920)
+- [Most Popular Airports (at the moment)?](https://forums.vatsim.net/topic/31226-most-popular-airports-at-the-moment/?do=findComment&comment=177919)
 - [repeated error message](https://forums.vatsim.net/topic/31225-repeated-error-message/?do=findComment&comment=177918)
 - [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=177917)
 - [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177916)
 - [[May 15th 10:00z-16:00z] Ramon - Budapest Shuttle](https://forums.vatsim.net/topic/31224-may-15th-1000z-1600z-ramon-budapest-shuttle/?do=findComment&comment=177915)
 - [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=177914)
 - [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177913)
-- [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177912)
-- [PTT using keyboard AND joystick](https://forums.vatsim.net/topic/31223-ptt-using-keyboard-and-joystick/?do=findComment&comment=177911)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177910)
-- [Fairwell (again as Director of Hong Kong VACC)](https://forums.vatsim.net/topic/31222-fairwell-again-as-director-of-hong-kong-vacc/?do=findComment&comment=177909)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
