@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I don't see my time airborne in SimAware and is not reflected on my profile.](https://forums.vatsim.net/topic/31219-i-dont-see-my-time-airborne-in-simaware-and-is-not-reflected-on-my-profile/?do=findComment&comment=177899)
 - [File location referance.](https://forums.vatsim.net/topic/31213-file-location-referance/?do=findComment&comment=177898)
 - [vERAM version 1.3.0 now available](https://forums.vatsim.net/topic/31218-veram-version-130-now-available/?do=findComment&comment=177897)
 - [vERAM version 1.3.0 now available](https://forums.vatsim.net/topic/31218-veram-version-130-now-available/?do=findComment&comment=177896)
@@ -62,7 +63,6 @@
 - [Errors (in MyVatsim, CommunityVatsim, vPilot) after completing new member orientation exam](https://forums.vatsim.net/topic/31201-errors-in-myvatsim-communityvatsim-vpilot-after-completing-new-member-orientation-exam/?do=findComment&comment=177891)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177890)
 - [Business Jet VA](https://forums.vatsim.net/topic/28577-business-jet-va/?do=findComment&comment=177889)
-- [Winter Dirt As Winter Is Not Over Yet!!!!](https://forums.vatsim.net/topic/31217-winter-dirt-as-winter-is-not-over-yet/?do=findComment&comment=177888)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
