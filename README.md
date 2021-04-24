@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177913)
+- [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177912)
+- [PTT using keyboard AND joystick](https://forums.vatsim.net/topic/31223-ptt-using-keyboard-and-joystick/?do=findComment&comment=177911)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177910)
 - [Fairwell (again as Director of Hong Kong VACC)](https://forums.vatsim.net/topic/31222-fairwell-again-as-director-of-hong-kong-vacc/?do=findComment&comment=177909)
 - [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177908)
@@ -60,9 +63,6 @@
 - [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177906)
 - [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177905)
 - [Invalid Vatsim data file version](https://forums.vatsim.net/topic/26710-invalid-vatsim-data-file-version/?do=findComment&comment=177904)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177903)
-- [Invalid Vatsim data file version](https://forums.vatsim.net/topic/26710-invalid-vatsim-data-file-version/?do=findComment&comment=177902)
-- [vERAM version 1.3.0 now available](https://forums.vatsim.net/topic/31218-veram-version-130-now-available/?do=findComment&comment=177901)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
