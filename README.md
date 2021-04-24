@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177924)
+- [repeated error message](https://forums.vatsim.net/topic/31225-repeated-error-message/?do=findComment&comment=177923)
 - [SELCAL and host/remote mode](https://forums.vatsim.net/topic/31227-selcal-and-hostremote-mode/?do=findComment&comment=177922)
 - [SELCAL and host/remote mode](https://forums.vatsim.net/topic/31227-selcal-and-hostremote-mode/?do=findComment&comment=177921)
 - [SELCAL and host/remote mode](https://forums.vatsim.net/topic/31227-selcal-and-hostremote-mode/?do=findComment&comment=177920)
@@ -61,8 +63,6 @@
 - [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=177917)
 - [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177916)
 - [[May 15th 10:00z-16:00z] Ramon - Budapest Shuttle](https://forums.vatsim.net/topic/31224-may-15th-1000z-1600z-ramon-budapest-shuttle/?do=findComment&comment=177915)
-- [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=177914)
-- [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177913)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
