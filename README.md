@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[May 15th 10:00z-16:00z] Ramon - Budapest Shuttle](https://forums.vatsim.net/topic/31224-may-15th-1000z-1600z-ramon-budapest-shuttle/?do=findComment&comment=177915)
+- [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=177914)
 - [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177913)
 - [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177912)
 - [PTT using keyboard AND joystick](https://forums.vatsim.net/topic/31223-ptt-using-keyboard-and-joystick/?do=findComment&comment=177911)
@@ -61,8 +63,6 @@
 - [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177908)
 - [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177907)
 - [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177906)
-- [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177905)
-- [Invalid Vatsim data file version](https://forums.vatsim.net/topic/26710-invalid-vatsim-data-file-version/?do=findComment&comment=177904)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
