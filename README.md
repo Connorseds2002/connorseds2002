@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Fairwell (again as Director of Hong Kong VACC)](https://forums.vatsim.net/topic/31222-fairwell-again-as-director-of-hong-kong-vacc/?do=findComment&comment=177909)
 - [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177908)
 - [Sort by loggin name instead of time?](https://forums.vatsim.net/topic/31221-sort-by-loggin-name-instead-of-time/?do=findComment&comment=177907)
 - [Need to release a CTP slot](https://forums.vatsim.net/topic/31220-need-to-release-a-ctp-slot/?do=findComment&comment=177906)
@@ -62,7 +63,6 @@
 - [Invalid Vatsim data file version](https://forums.vatsim.net/topic/26710-invalid-vatsim-data-file-version/?do=findComment&comment=177902)
 - [vERAM version 1.3.0 now available](https://forums.vatsim.net/topic/31218-veram-version-130-now-available/?do=findComment&comment=177901)
 - [Errors (in MyVatsim, CommunityVatsim, vPilot) after completing new member orientation exam](https://forums.vatsim.net/topic/31201-errors-in-myvatsim-communityvatsim-vpilot-after-completing-new-member-orientation-exam/?do=findComment&comment=177900)
-- [I don't see my time airborne in SimAware and is not reflected on my profile.](https://forums.vatsim.net/topic/31219-i-dont-see-my-time-airborne-in-simaware-and-is-not-reflected-on-my-profile/?do=findComment&comment=177899)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
