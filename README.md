@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177903)
 - [Invalid Vatsim data file version](https://forums.vatsim.net/topic/26710-invalid-vatsim-data-file-version/?do=findComment&comment=177902)
 - [vERAM version 1.3.0 now available](https://forums.vatsim.net/topic/31218-veram-version-130-now-available/?do=findComment&comment=177901)
 - [Errors (in MyVatsim, CommunityVatsim, vPilot) after completing new member orientation exam](https://forums.vatsim.net/topic/31201-errors-in-myvatsim-communityvatsim-vpilot-after-completing-new-member-orientation-exam/?do=findComment&comment=177900)
@@ -62,7 +63,6 @@
 - [vERAM version 1.3.0 now available](https://forums.vatsim.net/topic/31218-veram-version-130-now-available/?do=findComment&comment=177896)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177895)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177894)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177893)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
