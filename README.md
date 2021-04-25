@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sea/Floatplane - (C208) - Flight planning / Radio communication questions](https://forums.vatsim.net/topic/31233-seafloatplane-c208-flight-planning-radio-communication-questions/?do=findComment&comment=177956)
 - [Metric Level](https://forums.vatsim.net/topic/31196-metric-level/?do=findComment&comment=177955)
 - [PTT using keyboard AND joystick](https://forums.vatsim.net/topic/31223-ptt-using-keyboard-and-joystick/?do=findComment&comment=177954)
 - [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=177953)
@@ -62,7 +63,6 @@
 - [Fairwell (again as Director of Hong Kong VACC)](https://forums.vatsim.net/topic/31222-fairwell-again-as-director-of-hong-kong-vacc/?do=findComment&comment=177949)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177948)
 - [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177947)
-- [Fairwell (again as Director of Hong Kong VACC)](https://forums.vatsim.net/topic/31222-fairwell-again-as-director-of-hong-kong-vacc/?do=findComment&comment=177946)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
