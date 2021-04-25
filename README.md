@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Conversion of Real-World Pilot Ratings](https://forums.vatsim.net/topic/30784-conversion-of-real-world-pilot-ratings/?do=findComment&comment=177962)
+- [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177961)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177960)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177959)
 - [cannot hear voice as OBS](https://forums.vatsim.net/topic/31231-cannot-hear-voice-as-obs/?do=findComment&comment=177958)
@@ -61,8 +63,6 @@
 - [Metric Level](https://forums.vatsim.net/topic/31196-metric-level/?do=findComment&comment=177955)
 - [PTT using keyboard AND joystick](https://forums.vatsim.net/topic/31223-ptt-using-keyboard-and-joystick/?do=findComment&comment=177954)
 - [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=177953)
-- [cannot hear voice as OBS](https://forums.vatsim.net/topic/31231-cannot-hear-voice-as-obs/?do=findComment&comment=177952)
-- [VATUSA Command Center and Cross the Pond](https://forums.vatsim.net/topic/31230-vatusa-command-center-and-cross-the-pond/?do=findComment&comment=177951)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
