@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sea/Floatplane - (C208) - Flight planning / Radio communication questions](https://forums.vatsim.net/topic/31233-seafloatplane-c208-flight-planning-radio-communication-questions/?do=findComment&comment=177973)
 - [VatView mobile VATSIM tracker app](https://forums.vatsim.net/topic/31229-vatview-mobile-vatsim-tracker-app/?do=findComment&comment=177972)
 - [VatView mobile VATSIM tracker app](https://forums.vatsim.net/topic/31229-vatview-mobile-vatsim-tracker-app/?do=findComment&comment=177971)
 - [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177970)
@@ -62,7 +63,6 @@
 - [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177966)
 - [VatView mobile VATSIM tracker app](https://forums.vatsim.net/topic/31229-vatview-mobile-vatsim-tracker-app/?do=findComment&comment=177965)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177964)
-- [cannot hear voice as OBS](https://forums.vatsim.net/topic/31231-cannot-hear-voice-as-obs/?do=findComment&comment=177963)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
