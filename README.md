@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Metric Level](https://forums.vatsim.net/topic/31196-metric-level/?do=findComment&comment=177955)
+- [PTT using keyboard AND joystick](https://forums.vatsim.net/topic/31223-ptt-using-keyboard-and-joystick/?do=findComment&comment=177954)
 - [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=177953)
 - [cannot hear voice as OBS](https://forums.vatsim.net/topic/31231-cannot-hear-voice-as-obs/?do=findComment&comment=177952)
 - [VATUSA Command Center and Cross the Pond](https://forums.vatsim.net/topic/31230-vatusa-command-center-and-cross-the-pond/?do=findComment&comment=177951)
@@ -61,8 +63,6 @@
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=177948)
 - [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177947)
 - [Fairwell (again as Director of Hong Kong VACC)](https://forums.vatsim.net/topic/31222-fairwell-again-as-director-of-hong-kong-vacc/?do=findComment&comment=177946)
-- [Winter Dirt As Winter Is Not Over Yet!!!!](https://forums.vatsim.net/topic/31217-winter-dirt-as-winter-is-not-over-yet/?do=findComment&comment=177945)
-- [XX03 FIR](https://forums.vatsim.net/topic/22735-xx03-fir/?do=findComment&comment=177944)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
