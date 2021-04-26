@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=177988)
 - [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177987)
 - [Looking for X-Plane / Oculus Rift S VR / VATSIM recommendations](https://forums.vatsim.net/topic/30907-looking-for-x-plane-oculus-rift-s-vr-vatsim-recommendations/?do=findComment&comment=177986)
 - [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=177985)
@@ -62,7 +63,6 @@
 - [Update Aircraft performance or trajectory data](https://forums.vatsim.net/topic/31235-update-aircraft-performance-or-trajectory-data/?do=findComment&comment=177981)
 - [Sea/Floatplane - (C208) - Flight planning / Radio communication questions](https://forums.vatsim.net/topic/31233-seafloatplane-c208-flight-planning-radio-communication-questions/?do=findComment&comment=177980)
 - [Sea/Floatplane - (C208) - Flight planning / Radio communication questions](https://forums.vatsim.net/topic/31233-seafloatplane-c208-flight-planning-radio-communication-questions/?do=findComment&comment=177979)
-- [VATATIS URL not working in r29](https://forums.vatsim.net/topic/31234-vatatis-url-not-working-in-r29/?do=findComment&comment=177978)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
