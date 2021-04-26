@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problem to download sector file](https://forums.vatsim.net/topic/31153-problem-to-download-sector-file/?do=findComment&comment=177975)
 - [Sea/Floatplane - (C208) - Flight planning / Radio communication questions](https://forums.vatsim.net/topic/31233-seafloatplane-c208-flight-planning-radio-communication-questions/?do=findComment&comment=177974)
 - [Sea/Floatplane - (C208) - Flight planning / Radio communication questions](https://forums.vatsim.net/topic/31233-seafloatplane-c208-flight-planning-radio-communication-questions/?do=findComment&comment=177973)
 - [VatView mobile VATSIM tracker app](https://forums.vatsim.net/topic/31229-vatview-mobile-vatsim-tracker-app/?do=findComment&comment=177972)
@@ -62,7 +63,6 @@
 - [Vatsim in VR with Oculus Rift headset](https://forums.vatsim.net/topic/31214-vatsim-in-vr-with-oculus-rift-headset/?do=findComment&comment=177968)
 - [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177967)
 - [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177966)
-- [VatView mobile VATSIM tracker app](https://forums.vatsim.net/topic/31229-vatview-mobile-vatsim-tracker-app/?do=findComment&comment=177965)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
