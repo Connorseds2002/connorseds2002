@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATUSA Command Center and Cross the Pond](https://forums.vatsim.net/topic/31230-vatusa-command-center-and-cross-the-pond/?do=findComment&comment=177990)
 - [Looking for X-Plane / Oculus Rift S VR / VATSIM recommendations](https://forums.vatsim.net/topic/30907-looking-for-x-plane-oculus-rift-s-vr-vatsim-recommendations/?do=findComment&comment=177989)
 - [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=177988)
 - [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177987)
@@ -62,7 +63,6 @@
 - [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177983)
 - [Vatsim Language Use By Nationals](https://forums.vatsim.net/topic/31228-vatsim-language-use-by-nationals/?do=findComment&comment=177982)
 - [Update Aircraft performance or trajectory data](https://forums.vatsim.net/topic/31235-update-aircraft-performance-or-trajectory-data/?do=findComment&comment=177981)
-- [Sea/Floatplane - (C208) - Flight planning / Radio communication questions](https://forums.vatsim.net/topic/31233-seafloatplane-c208-flight-planning-radio-communication-questions/?do=findComment&comment=177980)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
