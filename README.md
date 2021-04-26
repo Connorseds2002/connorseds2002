@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178001)
+- [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178000)
+- [Vatsim in VR with Oculus Rift headset](https://forums.vatsim.net/topic/31214-vatsim-in-vr-with-oculus-rift-headset/?do=findComment&comment=177999)
 - [Unbind discord account](https://forums.vatsim.net/topic/31240-unbind-discord-account/?do=findComment&comment=177998)
 - [Thanks](https://forums.vatsim.net/topic/31239-thanks/?do=findComment&comment=177997)
 - [Thanks](https://forums.vatsim.net/topic/31239-thanks/?do=findComment&comment=177996)
@@ -60,9 +63,6 @@
 - [Vatsim in VR with Oculus Rift headset](https://forums.vatsim.net/topic/31214-vatsim-in-vr-with-oculus-rift-headset/?do=findComment&comment=177994)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177993)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=177992)
-- [Unexpected error occured](https://forums.vatsim.net/topic/31237-unexpected-error-occured/?do=findComment&comment=177991)
-- [VATUSA Command Center and Cross the Pond](https://forums.vatsim.net/topic/31230-vatusa-command-center-and-cross-the-pond/?do=findComment&comment=177990)
-- [Looking for X-Plane / Oculus Rift S VR / VATSIM recommendations](https://forums.vatsim.net/topic/30907-looking-for-x-plane-oculus-rift-s-vr-vatsim-recommendations/?do=findComment&comment=177989)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
