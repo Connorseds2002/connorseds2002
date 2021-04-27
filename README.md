@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [API Pilot ratings definition](https://forums.vatsim.net/topic/31241-api-pilot-ratings-definition/?do=findComment&comment=178008)
 - [Model matching](https://forums.vatsim.net/topic/31243-model-matching/?do=findComment&comment=178007)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=178006)
 - [Servinfo not downloading data anymore?](https://forums.vatsim.net/topic/31242-servinfo-not-downloading-data-anymore/?do=findComment&comment=178005)
@@ -62,7 +63,6 @@
 - [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178001)
 - [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178000)
 - [Vatsim in VR with Oculus Rift headset](https://forums.vatsim.net/topic/31214-vatsim-in-vr-with-oculus-rift-headset/?do=findComment&comment=177999)
-- [Unbind discord account](https://forums.vatsim.net/topic/31240-unbind-discord-account/?do=findComment&comment=177998)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
