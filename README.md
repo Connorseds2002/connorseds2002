@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178024)
 - [Use of Ultimate Traffic Live as model matching for vPilot](https://forums.vatsim.net/topic/31245-use-of-ultimate-traffic-live-as-model-matching-for-vpilot/?do=findComment&comment=178023)
 - [Returning Home From Passover Vacation](https://forums.vatsim.net/topic/31244-returning-home-from-passover-vacation/?do=findComment&comment=178022)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=178020)
@@ -62,7 +63,6 @@
 - [Model matching](https://forums.vatsim.net/topic/31243-model-matching/?do=findComment&comment=178016)
 - [Servinfo not downloading data anymore?](https://forums.vatsim.net/topic/31242-servinfo-not-downloading-data-anymore/?do=findComment&comment=178015)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=178014)
-- [PTT using keyboard AND joystick](https://forums.vatsim.net/topic/31223-ptt-using-keyboard-and-joystick/?do=findComment&comment=178013)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
