@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=178020)
 - [Thanks](https://forums.vatsim.net/topic/31239-thanks/?do=findComment&comment=178019)
 - [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=178018)
 - [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178017)
@@ -62,7 +63,6 @@
 - [PTT using keyboard AND joystick](https://forums.vatsim.net/topic/31223-ptt-using-keyboard-and-joystick/?do=findComment&comment=178013)
 - [Vatsim in VR with Oculus Rift headset](https://forums.vatsim.net/topic/31214-vatsim-in-vr-with-oculus-rift-headset/?do=findComment&comment=178012)
 - [Looking for X-Plane / Oculus Rift S VR / VATSIM recommendations](https://forums.vatsim.net/topic/30907-looking-for-x-plane-oculus-rift-s-vr-vatsim-recommendations/?do=findComment&comment=178011)
-- [Sea/Floatplane - (C208) - Flight planning / Radio communication questions](https://forums.vatsim.net/topic/31233-seafloatplane-c208-flight-planning-radio-communication-questions/?do=findComment&comment=178010)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
