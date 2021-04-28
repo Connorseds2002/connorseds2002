@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178038)
+- [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178037)
+- [The Flight plan window in X Pilot close itself then typing in letters and all is lost!](https://forums.vatsim.net/topic/31248-the-flight-plan-window-in-x-pilot-close-itself-then-typing-in-letters-and-all-is-lost/?do=findComment&comment=178036)
+- [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178035)
+- [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178034)
+- [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178033)
+- [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178032)
+- [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178031)
+- [Returning Home From Passover Vacation](https://forums.vatsim.net/topic/31244-returning-home-from-passover-vacation/?do=findComment&comment=178030)
 - [API Pilot ratings definition](https://forums.vatsim.net/topic/31241-api-pilot-ratings-definition/?do=findComment&comment=178029)
-- [PTT using keyboard AND joystick](https://forums.vatsim.net/topic/31223-ptt-using-keyboard-and-joystick/?do=findComment&comment=178028)
-- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=178027)
-- [VATSpy Data Download Error](https://forums.vatsim.net/topic/26527-vatspy-data-download-error/?do=findComment&comment=178026)
-- [Reintroducing Cloud9 Holdings](https://forums.vatsim.net/topic/31246-reintroducing-cloud9-holdings/?do=findComment&comment=178025)
-- [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178024)
-- [Use of Ultimate Traffic Live as model matching for vPilot](https://forums.vatsim.net/topic/31245-use-of-ultimate-traffic-live-as-model-matching-for-vpilot/?do=findComment&comment=178023)
-- [Returning Home From Passover Vacation](https://forums.vatsim.net/topic/31244-returning-home-from-passover-vacation/?do=findComment&comment=178022)
-- [[24th April 2021] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/31056-24th-april-2021-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=178020)
-- [Thanks](https://forums.vatsim.net/topic/31239-thanks/?do=findComment&comment=178019)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
