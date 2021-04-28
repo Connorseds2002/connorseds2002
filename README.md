@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178040)
+- [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178039)
 - [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178038)
 - [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178037)
 - [The Flight plan window in X Pilot close itself then typing in letters and all is lost!](https://forums.vatsim.net/topic/31248-the-flight-plan-window-in-x-pilot-close-itself-then-typing-in-letters-and-all-is-lost/?do=findComment&comment=178036)
@@ -61,8 +63,6 @@
 - [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178033)
 - [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178032)
 - [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178031)
-- [Returning Home From Passover Vacation](https://forums.vatsim.net/topic/31244-returning-home-from-passover-vacation/?do=findComment&comment=178030)
-- [API Pilot ratings definition](https://forums.vatsim.net/topic/31241-api-pilot-ratings-definition/?do=findComment&comment=178029)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
