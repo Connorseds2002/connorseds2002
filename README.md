@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178042)
 - [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178041)
 - [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178040)
 - [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178039)
@@ -62,7 +63,6 @@
 - [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178035)
 - [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178034)
 - [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178033)
-- [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178032)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
