@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [An error occurred while trying to connect to the voice server.](https://forums.vatsim.net/topic/31250-an-error-occurred-while-trying-to-connect-to-the-voice-server/?do=findComment&comment=178044)
+- [[5 MAY 2021, 1400Z-1600Z] S2 CPT - LUMPUR TOWER [WMKK_TWR]](https://forums.vatsim.net/topic/31249-5-may-2021-1400z-1600z-s2-cpt-lumpur-tower-wmkk_twr/?do=findComment&comment=178043)
 - [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178042)
 - [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178041)
 - [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178040)
@@ -61,8 +63,6 @@
 - [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178037)
 - [The Flight plan window in X Pilot close itself then typing in letters and all is lost!](https://forums.vatsim.net/topic/31248-the-flight-plan-window-in-x-pilot-close-itself-then-typing-in-letters-and-all-is-lost/?do=findComment&comment=178036)
 - [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178035)
-- [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178034)
-- [Software developer question - I'm looking for ICAO Flightplan RAW data format definition](https://forums.vatsim.net/topic/31236-software-developer-question-im-looking-for-icao-flightplan-raw-data-format-definition/?do=findComment&comment=178033)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
