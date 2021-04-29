@@ -53,9 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [local character](https://forums.vatsim.net/topic/31257-local-character/?do=findComment&comment=178058)
 - [VATATIS URL not working in r29](https://forums.vatsim.net/topic/31234-vatatis-url-not-working-in-r29/?do=findComment&comment=178057)
 - [Registered to 2 Discord channels with incorrect](https://forums.vatsim.net/topic/31256-registered-to-2-discord-channels-with-incorrect/?do=findComment&comment=178056)
-- [local character](https://forums.vatsim.net/topic/31255-local-character/?do=findComment&comment=178055)
 - [POSITION VACANCY - DIVISONAL EVENTS COORDINATOR](https://forums.vatsim.net/topic/31254-position-vacancy-divisonal-events-coordinator/?do=findComment&comment=178054)
 - [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178053)
 - [Mouse buttons](https://forums.vatsim.net/topic/31253-mouse-buttons/?do=findComment&comment=178052)
