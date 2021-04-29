@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATATIS URL not working in r29](https://forums.vatsim.net/topic/31234-vatatis-url-not-working-in-r29/?do=findComment&comment=178057)
+- [Registered to 2 Discord channels with incorrect](https://forums.vatsim.net/topic/31256-registered-to-2-discord-channels-with-incorrect/?do=findComment&comment=178056)
 - [local character](https://forums.vatsim.net/topic/31255-local-character/?do=findComment&comment=178055)
 - [POSITION VACANCY - DIVISONAL EVENTS COORDINATOR](https://forums.vatsim.net/topic/31254-position-vacancy-divisonal-events-coordinator/?do=findComment&comment=178054)
 - [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178053)
@@ -61,8 +63,6 @@
 - [[5 MAY 2021, 1400Z-1600Z] S2 CPT - LUMPUR TOWER [WMKK_TWR]](https://forums.vatsim.net/topic/31249-5-may-2021-1400z-1600z-s2-cpt-lumpur-tower-wmkk_twr/?do=findComment&comment=178050)
 - [Mouse buttons](https://forums.vatsim.net/topic/31253-mouse-buttons/?do=findComment&comment=178049)
 - [Booking system](https://forums.vatsim.net/topic/31251-booking-system/?do=findComment&comment=178048)
-- [Mouse buttons](https://forums.vatsim.net/topic/31253-mouse-buttons/?do=findComment&comment=178047)
-- [Low voice X-pilot](https://forums.vatsim.net/topic/31252-low-voice-x-pilot/?do=findComment&comment=178046)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
