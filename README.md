@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATATIS URL not working in r29](https://forums.vatsim.net/topic/31234-vatatis-url-not-working-in-r29/?do=findComment&comment=178059)
 - [local character](https://forums.vatsim.net/topic/31257-local-character/?do=findComment&comment=178058)
 - [VATATIS URL not working in r29](https://forums.vatsim.net/topic/31234-vatatis-url-not-working-in-r29/?do=findComment&comment=178057)
 - [Registered to 2 Discord channels with incorrect](https://forums.vatsim.net/topic/31256-registered-to-2-discord-channels-with-incorrect/?do=findComment&comment=178056)
@@ -62,7 +63,6 @@
 - [VATSpy Data Download Error](https://forums.vatsim.net/topic/26527-vatspy-data-download-error/?do=findComment&comment=178051)
 - [[5 MAY 2021, 1400Z-1600Z] S2 CPT - LUMPUR TOWER [WMKK_TWR]](https://forums.vatsim.net/topic/31249-5-may-2021-1400z-1600z-s2-cpt-lumpur-tower-wmkk_twr/?do=findComment&comment=178050)
 - [Mouse buttons](https://forums.vatsim.net/topic/31253-mouse-buttons/?do=findComment&comment=178049)
-- [Booking system](https://forums.vatsim.net/topic/31251-booking-system/?do=findComment&comment=178048)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
