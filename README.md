@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=178063)
+- [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178062)
 - [Vatspy still not updating data](https://forums.vatsim.net/topic/31258-vatspy-still-not-updating-data/?do=findComment&comment=178061)
 - [VATSpy Data Download Error](https://forums.vatsim.net/topic/26527-vatspy-data-download-error/?do=findComment&comment=178060)
 - [VATATIS URL not working in r29](https://forums.vatsim.net/topic/31234-vatatis-url-not-working-in-r29/?do=findComment&comment=178059)
@@ -61,8 +63,6 @@
 - [Registered to 2 Discord channels with incorrect](https://forums.vatsim.net/topic/31256-registered-to-2-discord-channels-with-incorrect/?do=findComment&comment=178056)
 - [POSITION VACANCY - DIVISONAL EVENTS COORDINATOR](https://forums.vatsim.net/topic/31254-position-vacancy-divisonal-events-coordinator/?do=findComment&comment=178054)
 - [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178053)
-- [Mouse buttons](https://forums.vatsim.net/topic/31253-mouse-buttons/?do=findComment&comment=178052)
-- [VATSpy Data Download Error](https://forums.vatsim.net/topic/26527-vatspy-data-download-error/?do=findComment&comment=178051)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
