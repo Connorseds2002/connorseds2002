@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=178068)
+- [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=178067)
 - [QW787 sharp pitch up take-off](https://forums.vatsim.net/topic/31259-qw787-sharp-pitch-up-take-off/?do=findComment&comment=178066)
 - [Vatspy still not updating data](https://forums.vatsim.net/topic/31258-vatspy-still-not-updating-data/?do=findComment&comment=178065)
+- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=178064)
 - [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=178063)
 - [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178062)
 - [Vatspy still not updating data](https://forums.vatsim.net/topic/31258-vatspy-still-not-updating-data/?do=findComment&comment=178061)
 - [VATSpy Data Download Error](https://forums.vatsim.net/topic/26527-vatspy-data-download-error/?do=findComment&comment=178060)
 - [VATATIS URL not working in r29](https://forums.vatsim.net/topic/31234-vatatis-url-not-working-in-r29/?do=findComment&comment=178059)
-- [local character](https://forums.vatsim.net/topic/31257-local-character/?do=findComment&comment=178058)
-- [VATATIS URL not working in r29](https://forums.vatsim.net/topic/31234-vatatis-url-not-working-in-r29/?do=findComment&comment=178057)
-- [Registered to 2 Discord channels with incorrect](https://forums.vatsim.net/topic/31256-registered-to-2-discord-channels-with-incorrect/?do=findComment&comment=178056)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
