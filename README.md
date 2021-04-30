@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=178071)
 - ["Missing model string" ?](https://forums.vatsim.net/topic/28918-missing-model-string/?do=findComment&comment=178070)
 - [[5 MAY 2021, 1400Z-1600Z] S2 CPT - LUMPUR TOWER [WMKK_TWR]](https://forums.vatsim.net/topic/31249-5-may-2021-1400z-1600z-s2-cpt-lumpur-tower-wmkk_twr/?do=findComment&comment=178069)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=178068)
@@ -62,7 +63,6 @@
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=178064)
 - [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=178063)
 - [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178062)
-- [Vatspy still not updating data](https://forums.vatsim.net/topic/31258-vatspy-still-not-updating-data/?do=findComment&comment=178061)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
