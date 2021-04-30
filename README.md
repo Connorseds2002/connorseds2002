@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it possible to resize and/or change colors of font in text communications box?](https://forums.vatsim.net/topic/31260-is-it-possible-to-resize-andor-change-colors-of-font-in-text-communications-box/?do=findComment&comment=178076)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=178075)
 - ["Missing model string" ?](https://forums.vatsim.net/topic/28918-missing-model-string/?do=findComment&comment=178074)
 - ["Missing model string" ?](https://forums.vatsim.net/topic/28918-missing-model-string/?do=findComment&comment=178073)
@@ -62,7 +63,6 @@
 - [[5 MAY 2021, 1400Z-1600Z] S2 CPT - LUMPUR TOWER [WMKK_TWR]](https://forums.vatsim.net/topic/31249-5-may-2021-1400z-1600z-s2-cpt-lumpur-tower-wmkk_twr/?do=findComment&comment=178069)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=178068)
 - [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=178067)
-- [QW787 sharp pitch up take-off](https://forums.vatsim.net/topic/31259-qw787-sharp-pitch-up-take-off/?do=findComment&comment=178066)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
