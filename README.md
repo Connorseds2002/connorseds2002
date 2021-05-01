@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [QW787 sharp pitch up take-off](https://forums.vatsim.net/topic/31259-qw787-sharp-pitch-up-take-off/?do=findComment&comment=178082)
 - [Is it possible to resize and/or change colors of font in text communications box?](https://forums.vatsim.net/topic/31260-is-it-possible-to-resize-andor-change-colors-of-font-in-text-communications-box/?do=findComment&comment=178081)
 - [Aircraft Situation Editor](https://forums.vatsim.net/topic/23694-aircraft-situation-editor/?do=findComment&comment=178080)
 - [QW787 sharp pitch up take-off](https://forums.vatsim.net/topic/31259-qw787-sharp-pitch-up-take-off/?do=findComment&comment=178079)
@@ -62,7 +63,6 @@
 - ["Missing model string" ?](https://forums.vatsim.net/topic/28918-missing-model-string/?do=findComment&comment=178074)
 - ["Missing model string" ?](https://forums.vatsim.net/topic/28918-missing-model-string/?do=findComment&comment=178073)
 - [Is it possible to resize and/or change colors of font in text communications box?](https://forums.vatsim.net/topic/31260-is-it-possible-to-resize-andor-change-colors-of-font-in-text-communications-box/?do=findComment&comment=178072)
-- [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=178071)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
