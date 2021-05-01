@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM (vACC) Philippines Sector Files 2021](https://forums.vatsim.net/topic/31262-vatsim-vacc-philippines-sector-files-2021/?do=findComment&comment=178090)
 - [Model matching](https://forums.vatsim.net/topic/31243-model-matching/?do=findComment&comment=178089)
 - [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178088)
 - [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178087)
@@ -62,7 +63,6 @@
 - [VATSIM (vACC) Philippines Sector Files 2021](https://forums.vatsim.net/topic/31262-vatsim-vacc-philippines-sector-files-2021/?do=findComment&comment=178083)
 - [QW787 sharp pitch up take-off](https://forums.vatsim.net/topic/31259-qw787-sharp-pitch-up-take-off/?do=findComment&comment=178082)
 - [Is it possible to resize and/or change colors of font in text communications box?](https://forums.vatsim.net/topic/31260-is-it-possible-to-resize-andor-change-colors-of-font-in-text-communications-box/?do=findComment&comment=178081)
-- [Aircraft Situation Editor](https://forums.vatsim.net/topic/23694-aircraft-situation-editor/?do=findComment&comment=178080)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
