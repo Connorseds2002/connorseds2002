@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178088)
+- [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178087)
+- [VATSIM (vACC) Philippines Sector Files 2021](https://forums.vatsim.net/topic/31262-vatsim-vacc-philippines-sector-files-2021/?do=findComment&comment=178086)
+- [VATSIM (vACC) Philippines Sector Files 2021](https://forums.vatsim.net/topic/31262-vatsim-vacc-philippines-sector-files-2021/?do=findComment&comment=178085)
 - [QW787 sharp pitch up take-off](https://forums.vatsim.net/topic/31259-qw787-sharp-pitch-up-take-off/?do=findComment&comment=178084)
 - [VATSIM (vACC) Philippines Sector Files 2021](https://forums.vatsim.net/topic/31262-vatsim-vacc-philippines-sector-files-2021/?do=findComment&comment=178083)
 - [QW787 sharp pitch up take-off](https://forums.vatsim.net/topic/31259-qw787-sharp-pitch-up-take-off/?do=findComment&comment=178082)
 - [Is it possible to resize and/or change colors of font in text communications box?](https://forums.vatsim.net/topic/31260-is-it-possible-to-resize-andor-change-colors-of-font-in-text-communications-box/?do=findComment&comment=178081)
 - [Aircraft Situation Editor](https://forums.vatsim.net/topic/23694-aircraft-situation-editor/?do=findComment&comment=178080)
 - [QW787 sharp pitch up take-off](https://forums.vatsim.net/topic/31259-qw787-sharp-pitch-up-take-off/?do=findComment&comment=178079)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=178078)
-- [Is it possible to resize and/or change colors of font in text communications box?](https://forums.vatsim.net/topic/31260-is-it-possible-to-resize-andor-change-colors-of-font-in-text-communications-box/?do=findComment&comment=178076)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=178075)
-- ["Missing model string" ?](https://forums.vatsim.net/topic/28918-missing-model-string/?do=findComment&comment=178074)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
