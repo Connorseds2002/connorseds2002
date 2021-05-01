@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Friday Night Live: 07-05-2021: Goa (VOGO) to Bengaluru (VOBL)](https://forums.vatsim.net/topic/31268-friday-night-live-07-05-2021-goa-vogo-to-bengaluru-vobl/?do=findComment&comment=178103)
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178102)
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178101)
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178100)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178099)
 - [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=178098)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178097)
 - [Vatspy still not updating data](https://forums.vatsim.net/topic/31258-vatspy-still-not-updating-data/?do=findComment&comment=178096)
 - [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178095)
 - [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178094)
-- [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178093)
-- [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178092)
-- [Convert IVAO rank](https://forums.vatsim.net/topic/31264-convert-ivao-rank/?do=findComment&comment=178091)
-- [VATSIM (vACC) Philippines Sector Files 2021](https://forums.vatsim.net/topic/31262-vatsim-vacc-philippines-sector-files-2021/?do=findComment&comment=178090)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
