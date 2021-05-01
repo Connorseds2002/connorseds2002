@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178107)
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178106)
+- [I don't see my time airborne in SimAware and is not reflected on my profile.](https://forums.vatsim.net/topic/31219-i-dont-see-my-time-airborne-in-simaware-and-is-not-reflected-on-my-profile/?do=findComment&comment=178105)
+- [I don't see my time airborne in SimAware and is not reflected on my profile.](https://forums.vatsim.net/topic/31219-i-dont-see-my-time-airborne-in-simaware-and-is-not-reflected-on-my-profile/?do=findComment&comment=178104)
 - [Friday Night Live: 07-05-2021: Goa (VOGO) to Bengaluru (VOBL)](https://forums.vatsim.net/topic/31268-friday-night-live-07-05-2021-goa-vogo-to-bengaluru-vobl/?do=findComment&comment=178103)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178102)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178101)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178100)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178099)
 - [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=178098)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178097)
-- [Vatspy still not updating data](https://forums.vatsim.net/topic/31258-vatspy-still-not-updating-data/?do=findComment&comment=178096)
-- [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178095)
-- [New Sub Sahara Africa Division Director](https://forums.vatsim.net/topic/31238-new-sub-sahara-africa-division-director/?do=findComment&comment=178094)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
