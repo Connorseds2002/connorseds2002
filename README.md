@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178092)
 - [Convert IVAO rank](https://forums.vatsim.net/topic/31264-convert-ivao-rank/?do=findComment&comment=178091)
 - [VATSIM (vACC) Philippines Sector Files 2021](https://forums.vatsim.net/topic/31262-vatsim-vacc-philippines-sector-files-2021/?do=findComment&comment=178090)
 - [Model matching](https://forums.vatsim.net/topic/31243-model-matching/?do=findComment&comment=178089)
@@ -62,7 +63,6 @@
 - [VATSIM (vACC) Philippines Sector Files 2021](https://forums.vatsim.net/topic/31262-vatsim-vacc-philippines-sector-files-2021/?do=findComment&comment=178085)
 - [QW787 sharp pitch up take-off](https://forums.vatsim.net/topic/31259-qw787-sharp-pitch-up-take-off/?do=findComment&comment=178084)
 - [VATSIM (vACC) Philippines Sector Files 2021](https://forums.vatsim.net/topic/31262-vatsim-vacc-philippines-sector-files-2021/?do=findComment&comment=178083)
-- [QW787 sharp pitch up take-off](https://forums.vatsim.net/topic/31259-qw787-sharp-pitch-up-take-off/?do=findComment&comment=178082)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
