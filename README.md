@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Appointment of Divisional Marketing Director](https://forums.vatsim.net/topic/31271-appointment-of-divisional-marketing-director/?do=findComment&comment=178132)
+- [[VACANCY] VATSIM Middle East & North Africa Marketing Director](https://forums.vatsim.net/topic/31045-vacancy-vatsim-middle-east-north-africa-marketing-director/?do=findComment&comment=178131)
 - [Avelo Airlines' Inaugural Flight.](https://forums.vatsim.net/topic/31270-avelo-airlines-inaugural-flight/?do=findComment&comment=178130)
 - [Convert IVAO rank](https://forums.vatsim.net/topic/31264-convert-ivao-rank/?do=findComment&comment=178129)
 - [Fixing problems of ServInfo and VATBOOK (formerly EUROBOOK)](https://forums.vatsim.net/topic/6984-fixing-problems-of-servinfo-and-vatbook-formerly-eurobook/?do=findComment&comment=178128)
@@ -61,8 +63,6 @@
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178125)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178124)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178123)
-- [Is there a way to run Audio for Vatsim .msi file without admin privileges when installing?](https://forums.vatsim.net/topic/30586-is-there-a-way-to-run-audio-for-vatsim-msi-file-without-admin-privileges-when-installing/?do=findComment&comment=178122)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178121)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
