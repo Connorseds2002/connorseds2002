@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178125)
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178124)
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178123)
 - [Is there a way to run Audio for Vatsim .msi file without admin privileges when installing?](https://forums.vatsim.net/topic/30586-is-there-a-way-to-run-audio-for-vatsim-msi-file-without-admin-privileges-when-installing/?do=findComment&comment=178122)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178121)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178120)
@@ -60,9 +63,6 @@
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178118)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178117)
 - [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178116)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178115)
-- [I don't see my time airborne in SimAware and is not reflected on my profile.](https://forums.vatsim.net/topic/31219-i-dont-see-my-time-airborne-in-simaware-and-is-not-reflected-on-my-profile/?do=findComment&comment=178114)
-- [Canadian Xpress May 2021 Monthly Challenge: Scenic Approaches VII - Queenstown](https://forums.vatsim.net/topic/31269-canadian-xpress-may-2021-monthly-challenge-scenic-approaches-vii-queenstown/?do=findComment&comment=178113)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
