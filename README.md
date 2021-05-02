@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178120)
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178119)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178118)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178117)
 - [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178116)
@@ -61,8 +63,6 @@
 - [Canadian Xpress May 2021 Monthly Challenge: Scenic Approaches VII - Queenstown](https://forums.vatsim.net/topic/31269-canadian-xpress-may-2021-monthly-challenge-scenic-approaches-vii-queenstown/?do=findComment&comment=178113)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178112)
 - [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=178111)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178110)
-- [Spawning](https://forums.vatsim.net/topic/31263-spawning/?do=findComment&comment=178109)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
