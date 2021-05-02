@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Appointment of Divisional Marketing Director](https://forums.vatsim.net/topic/31271-appointment-of-divisional-marketing-director/?do=findComment&comment=178138)
 - [Feature request: Option to center zoom on the mouse position](https://forums.vatsim.net/topic/31273-feature-request-option-to-center-zoom-on-the-mouse-position/?do=findComment&comment=178137)
 - [Feature suggestion/request: Weather panel and buttons](https://forums.vatsim.net/topic/31272-feature-suggestionrequest-weather-panel-and-buttons/?do=findComment&comment=178136)
 - [Feature suggestion/request: Weather panel and buttons](https://forums.vatsim.net/topic/31272-feature-suggestionrequest-weather-panel-and-buttons/?do=findComment&comment=178135)
@@ -62,7 +63,6 @@
 - [[VACANCY] VATSIM Middle East & North Africa Marketing Director](https://forums.vatsim.net/topic/31045-vacancy-vatsim-middle-east-north-africa-marketing-director/?do=findComment&comment=178131)
 - [Avelo Airlines' Inaugural Flight.](https://forums.vatsim.net/topic/31270-avelo-airlines-inaugural-flight/?do=findComment&comment=178130)
 - [Convert IVAO rank](https://forums.vatsim.net/topic/31264-convert-ivao-rank/?do=findComment&comment=178129)
-- [Fixing problems of ServInfo and VATBOOK (formerly EUROBOOK)](https://forums.vatsim.net/topic/6984-fixing-problems-of-servinfo-and-vatbook-formerly-eurobook/?do=findComment&comment=178128)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
