@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature suggestion/request: Weather panel and buttons](https://forums.vatsim.net/topic/31272-feature-suggestionrequest-weather-panel-and-buttons/?do=findComment&comment=178135)
+- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=178134)
+- [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=178133)
 - [Appointment of Divisional Marketing Director](https://forums.vatsim.net/topic/31271-appointment-of-divisional-marketing-director/?do=findComment&comment=178132)
 - [[VACANCY] VATSIM Middle East & North Africa Marketing Director](https://forums.vatsim.net/topic/31045-vacancy-vatsim-middle-east-north-africa-marketing-director/?do=findComment&comment=178131)
 - [Avelo Airlines' Inaugural Flight.](https://forums.vatsim.net/topic/31270-avelo-airlines-inaugural-flight/?do=findComment&comment=178130)
@@ -60,9 +63,6 @@
 - [Fixing problems of ServInfo and VATBOOK (formerly EUROBOOK)](https://forums.vatsim.net/topic/6984-fixing-problems-of-servinfo-and-vatbook-formerly-eurobook/?do=findComment&comment=178128)
 - [An error occurred while trying to connect to the voice server.](https://forums.vatsim.net/topic/31250-an-error-occurred-while-trying-to-connect-to-the-voice-server/?do=findComment&comment=178127)
 - [Convert IVAO rank](https://forums.vatsim.net/topic/31264-convert-ivao-rank/?do=findComment&comment=178126)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178125)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178124)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178123)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
