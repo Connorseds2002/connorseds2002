@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Avelo Airlines' Inaugural Flight.](https://forums.vatsim.net/topic/31270-avelo-airlines-inaugural-flight/?do=findComment&comment=178130)
+- [Convert IVAO rank](https://forums.vatsim.net/topic/31264-convert-ivao-rank/?do=findComment&comment=178129)
+- [Fixing problems of ServInfo and VATBOOK (formerly EUROBOOK)](https://forums.vatsim.net/topic/6984-fixing-problems-of-servinfo-and-vatbook-formerly-eurobook/?do=findComment&comment=178128)
 - [An error occurred while trying to connect to the voice server.](https://forums.vatsim.net/topic/31250-an-error-occurred-while-trying-to-connect-to-the-voice-server/?do=findComment&comment=178127)
 - [Convert IVAO rank](https://forums.vatsim.net/topic/31264-convert-ivao-rank/?do=findComment&comment=178126)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178125)
@@ -60,9 +63,6 @@
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178123)
 - [Is there a way to run Audio for Vatsim .msi file without admin privileges when installing?](https://forums.vatsim.net/topic/30586-is-there-a-way-to-run-audio-for-vatsim-msi-file-without-admin-privileges-when-installing/?do=findComment&comment=178122)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178121)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178120)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178119)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178118)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
