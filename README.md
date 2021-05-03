@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178151)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178150)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178149)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178148)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178147)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178146)
+- [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=178145)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178144)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178143)
 - [Feature request: Option to center zoom on the mouse position](https://forums.vatsim.net/topic/31273-feature-request-option-to-center-zoom-on-the-mouse-position/?do=findComment&comment=178142)
-- [Feature suggestion/request: Weather panel and buttons](https://forums.vatsim.net/topic/31272-feature-suggestionrequest-weather-panel-and-buttons/?do=findComment&comment=178141)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178140)
-- [Appointment of Divisional Marketing Director](https://forums.vatsim.net/topic/31271-appointment-of-divisional-marketing-director/?do=findComment&comment=178139)
-- [Appointment of Divisional Marketing Director](https://forums.vatsim.net/topic/31271-appointment-of-divisional-marketing-director/?do=findComment&comment=178138)
-- [Feature request: Option to center zoom on the mouse position](https://forums.vatsim.net/topic/31273-feature-request-option-to-center-zoom-on-the-mouse-position/?do=findComment&comment=178137)
-- [Feature suggestion/request: Weather panel and buttons](https://forums.vatsim.net/topic/31272-feature-suggestionrequest-weather-panel-and-buttons/?do=findComment&comment=178136)
-- [Feature suggestion/request: Weather panel and buttons](https://forums.vatsim.net/topic/31272-feature-suggestionrequest-weather-panel-and-buttons/?do=findComment&comment=178135)
-- [French Frequencies](https://forums.vatsim.net/topic/31032-french-frequencies/?do=findComment&comment=178134)
-- [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=178133)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
