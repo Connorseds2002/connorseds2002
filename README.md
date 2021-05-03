@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178156)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178155)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178154)
 - [VatsimPHP updated to support new data feed JSON v3](https://forums.vatsim.net/topic/30278-vatsimphp-updated-to-support-new-data-feed-json-v3/?do=findComment&comment=178153)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178152)
@@ -61,8 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178149)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178148)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178147)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178146)
-- [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=178145)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
