@@ -53,9 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [In the vatsim map it's saying unknown airport and plane](https://forums.vatsim.net/topic/31285-in-the-vatsim-map-its-saying-unknown-airport-and-plane/?do=findComment&comment=178232)
+- [Applied for VA PArtner ..no anwers for 6 week](https://forums.vatsim.net/topic/31282-applied-for-va-partner-no-anwers-for-6-week/?do=findComment&comment=178233)
+- [Fixed](https://forums.vatsim.net/topic/31285-fixed/?do=findComment&comment=178232)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178231)
-- [vBaltic announcement](https://forums.vatsim.net/topic/26572-vbaltic-announcement/?do=findComment&comment=178230)
 - [Bristol Britannia ICAO Code](https://forums.vatsim.net/topic/31284-bristol-britannia-icao-code/?do=findComment&comment=178229)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178228)
 - [Connected but can't receive or transmit](https://forums.vatsim.net/topic/31279-connected-but-cant-receive-or-transmit/?do=findComment&comment=178227)
