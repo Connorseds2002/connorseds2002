@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178237)
+- [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=178236)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178235)
 - [VA statistic](https://forums.vatsim.net/topic/31283-va-statistic/?do=findComment&comment=178234)
 - [Applied for VA PArtner ..no anwers for 6 week](https://forums.vatsim.net/topic/31282-applied-for-va-partner-no-anwers-for-6-week/?do=findComment&comment=178233)
@@ -61,8 +63,6 @@
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178228)
 - [Connected but can't receive or transmit](https://forums.vatsim.net/topic/31279-connected-but-cant-receive-or-transmit/?do=findComment&comment=178227)
 - [Bristol Britannia ICAO Code](https://forums.vatsim.net/topic/31284-bristol-britannia-icao-code/?do=findComment&comment=178226)
-- [Should I report some airports that are unknown for VATSIM (no record in vat-statistics, no location marker on maps)?](https://forums.vatsim.net/topic/31277-should-i-report-some-airports-that-are-unknown-for-vatsim-no-record-in-vat-statistics-no-location-marker-on-maps/?do=findComment&comment=178225)
-- [VA statistic](https://forums.vatsim.net/topic/31283-va-statistic/?do=findComment&comment=178224)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
