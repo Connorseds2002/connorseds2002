@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=178219)
+- [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=178218)
+- [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=178217)
+- [ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=178216)
 - [CODE / Duplicate Beacon errors in vERAM](https://forums.vatsim.net/topic/31281-code-duplicate-beacon-errors-in-veram/?do=findComment&comment=178215)
 - [SR window hidden behind displays](https://forums.vatsim.net/topic/31280-sr-window-hidden-behind-displays/?do=findComment&comment=178214)
 - [CODE / Duplicate Beacon errors in vERAM](https://forums.vatsim.net/topic/31281-code-duplicate-beacon-errors-in-veram/?do=findComment&comment=178213)
 - [SR window hidden behind displays](https://forums.vatsim.net/topic/31280-sr-window-hidden-behind-displays/?do=findComment&comment=178212)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=178211)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=178210)
-- [SR window hidden behind displays](https://forums.vatsim.net/topic/31280-sr-window-hidden-behind-displays/?do=findComment&comment=178209)
-- [What callsign for BBJ aircraft? | Whats Prime Air callsign/icao?](https://forums.vatsim.net/topic/31275-what-callsign-for-bbj-aircraft-whats-prime-air-callsignicao/?do=findComment&comment=178208)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178207)
-- [What callsign for BBJ aircraft? | Whats Prime Air callsign/icao?](https://forums.vatsim.net/topic/31275-what-callsign-for-bbj-aircraft-whats-prime-air-callsignicao/?do=findComment&comment=178206)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
