@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178228)
+- [Connected but can't receive or transmit](https://forums.vatsim.net/topic/31279-connected-but-cant-receive-or-transmit/?do=findComment&comment=178227)
+- [Bristol Britannia ICAO Code](https://forums.vatsim.net/topic/31284-bristol-britannia-icao-code/?do=findComment&comment=178226)
 - [Should I report some airports that are unknown for VATSIM (no record in vat-statistics, no location marker on maps)?](https://forums.vatsim.net/topic/31277-should-i-report-some-airports-that-are-unknown-for-vatsim-no-record-in-vat-statistics-no-location-marker-on-maps/?do=findComment&comment=178225)
 - [VA statistic](https://forums.vatsim.net/topic/31283-va-statistic/?do=findComment&comment=178224)
 - [Applied for VA PArtner ..no anwers for 6 week](https://forums.vatsim.net/topic/31282-applied-for-va-partner-no-anwers-for-6-week/?do=findComment&comment=178223)
@@ -60,9 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178221)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178220)
 - [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=178219)
-- [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=178218)
-- [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=178217)
-- [ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=178216)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
