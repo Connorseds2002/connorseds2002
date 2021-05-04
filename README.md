@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Should I report some airports that are unknown for VATSIM (no record in vat-statistics, no location marker on maps)?](https://forums.vatsim.net/topic/31277-should-i-report-some-airports-that-are-unknown-for-vatsim-no-record-in-vat-statistics-no-location-marker-on-maps/?do=findComment&comment=178225)
 - [VA statistic](https://forums.vatsim.net/topic/31283-va-statistic/?do=findComment&comment=178224)
 - [Applied for VA PArtner ..no anwers for 6 week](https://forums.vatsim.net/topic/31282-applied-for-va-partner-no-anwers-for-6-week/?do=findComment&comment=178223)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178222)
@@ -62,7 +63,6 @@
 - [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=178218)
 - [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=178217)
 - [ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=178216)
-- [CODE / Duplicate Beacon errors in vERAM](https://forums.vatsim.net/topic/31281-code-duplicate-beacon-errors-in-veram/?do=findComment&comment=178215)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
