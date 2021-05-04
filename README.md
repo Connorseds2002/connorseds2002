@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Connected but can't receive or transmit](https://forums.vatsim.net/topic/31279-connected-but-cant-receive-or-transmit/?do=findComment&comment=178242)
 - [Appointment of Divisional Marketing Director](https://forums.vatsim.net/topic/31271-appointment-of-divisional-marketing-director/?do=findComment&comment=178241)
 - [Bug with secondary display on monitor with different resolution](https://forums.vatsim.net/topic/29788-bug-with-secondary-display-on-monitor-with-different-resolution/?do=findComment&comment=178240)
 - [General Aviation IFR UK](https://forums.vatsim.net/topic/31276-general-aviation-ifr-uk/?do=findComment&comment=178239)
@@ -62,7 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178235)
 - [VA statistic](https://forums.vatsim.net/topic/31283-va-statistic/?do=findComment&comment=178234)
 - [Applied for VA PArtner ..no anwers for 6 week](https://forums.vatsim.net/topic/31282-applied-for-va-partner-no-anwers-for-6-week/?do=findComment&comment=178233)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178231)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
