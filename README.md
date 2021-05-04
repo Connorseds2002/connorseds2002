@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178220)
 - [[VACANCY] Morocco vACC Director](https://forums.vatsim.net/topic/30064-vacancy-morocco-vacc-director/?do=findComment&comment=178219)
 - [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=178218)
 - [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=178217)
@@ -62,7 +63,6 @@
 - [CODE / Duplicate Beacon errors in vERAM](https://forums.vatsim.net/topic/31281-code-duplicate-beacon-errors-in-veram/?do=findComment&comment=178213)
 - [SR window hidden behind displays](https://forums.vatsim.net/topic/31280-sr-window-hidden-behind-displays/?do=findComment&comment=178212)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=178211)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=178210)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
