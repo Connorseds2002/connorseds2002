@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178255)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178254)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178253)
 - [Avelo Airlines' Inaugural Flight.](https://forums.vatsim.net/topic/31270-avelo-airlines-inaugural-flight/?do=findComment&comment=178252)
 - [Connected but can't receive or transmit](https://forums.vatsim.net/topic/31279-connected-but-cant-receive-or-transmit/?do=findComment&comment=178251)
@@ -61,8 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178248)
 - [General Aviation IFR UK](https://forums.vatsim.net/topic/31276-general-aviation-ifr-uk/?do=findComment&comment=178247)
 - [8 years!](https://forums.vatsim.net/topic/31286-8-years/?do=findComment&comment=178246)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178245)
-- [vPilot crashing when trying to set PTT button](https://forums.vatsim.net/topic/31247-vpilot-crashing-when-trying-to-set-ptt-button/?do=findComment&comment=178244)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
