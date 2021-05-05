@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178277)
 - [Tunisia online!](https://forums.vatsim.net/topic/31292-tunisia-online/?do=findComment&comment=178276)
 - [Tunisia online!](https://forums.vatsim.net/topic/31292-tunisia-online/?do=findComment&comment=178275)
 - [Network error: Invalid CID/password Problem](https://forums.vatsim.net/topic/31289-network-error-invalid-cidpassword-problem/?do=findComment&comment=178274)
@@ -62,7 +63,6 @@
 - [Appointment of Divisional Marketing Director](https://forums.vatsim.net/topic/31271-appointment-of-divisional-marketing-director/?do=findComment&comment=178270)
 - [[STAFF VACANCY]Nepal vACC ATC Training Director - ACCNPL3](https://forums.vatsim.net/topic/31190-staff-vacancynepal-vacc-atc-training-director-accnpl3/?do=findComment&comment=178269)
 - [VNKT_TWR | S2 Exam](https://forums.vatsim.net/topic/31290-vnkt_twr-s2-exam/?do=findComment&comment=178268)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178267)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
