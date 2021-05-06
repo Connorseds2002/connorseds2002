@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178309)
+- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178308)
+- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178307)
+- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178306)
 - [Vpilot in cockpit](https://forums.vatsim.net/topic/31296-vpilot-in-cockpit/?do=findComment&comment=178305)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178304)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178303)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178302)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178301)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178300)
-- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178299)
-- [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=178298)
-- [Vpilot in cockpit](https://forums.vatsim.net/topic/31296-vpilot-in-cockpit/?do=findComment&comment=178297)
-- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178296)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
