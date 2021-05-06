@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=178298)
+- [Vpilot in cockpit](https://forums.vatsim.net/topic/31296-vpilot-in-cockpit/?do=findComment&comment=178297)
+- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178296)
+- [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=178295)
+- [Anyone using the Carenado Mooney on VATSIM ?](https://forums.vatsim.net/topic/31294-anyone-using-the-carenado-mooney-on-vatsim/?do=findComment&comment=178294)
 - [Anyone using the Carenado Mooney on VATSIM ?](https://forums.vatsim.net/topic/31294-anyone-using-the-carenado-mooney-on-vatsim/?do=findComment&comment=178293)
 - [Vpilot in cockpit](https://forums.vatsim.net/topic/31296-vpilot-in-cockpit/?do=findComment&comment=178292)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178291)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178290)
 - [Com frequency setting in vPilot](https://forums.vatsim.net/topic/31295-com-frequency-setting-in-vpilot/?do=findComment&comment=178289)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178288)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178287)
-- [Com frequency setting in vPilot](https://forums.vatsim.net/topic/31295-com-frequency-setting-in-vpilot/?do=findComment&comment=178286)
-- [Anyone using the Carenado Mooney on VATSIM ?](https://forums.vatsim.net/topic/31294-anyone-using-the-carenado-mooney-on-vatsim/?do=findComment&comment=178285)
-- [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178284)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
