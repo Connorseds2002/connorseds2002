@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178291)
+- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178290)
 - [Com frequency setting in vPilot](https://forums.vatsim.net/topic/31295-com-frequency-setting-in-vpilot/?do=findComment&comment=178289)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178288)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178287)
@@ -61,8 +63,6 @@
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178284)
 - [Unable to create files after r29](https://forums.vatsim.net/topic/31293-unable-to-create-files-after-r29/?do=findComment&comment=178283)
 - [Arrival procedure - STAR/runway information provided too late](https://forums.vatsim.net/topic/31266-arrival-procedure-starrunway-information-provided-too-late/?do=findComment&comment=178282)
-- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178281)
-- [I don't see my time airborne in SimAware and is not reflected on my profile.](https://forums.vatsim.net/topic/31219-i-dont-see-my-time-airborne-in-simaware-and-is-not-reflected-on-my-profile/?do=findComment&comment=178280)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
