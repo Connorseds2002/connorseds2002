@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=178313)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=178312)
 - [VATATIS URL not working in r29](https://forums.vatsim.net/topic/31234-vatatis-url-not-working-in-r29/?do=findComment&comment=178311)
 - [Aircraft Logo Lighting - VATSIM Traffic - MSFS](https://forums.vatsim.net/topic/31297-aircraft-logo-lighting-vatsim-traffic-msfs/?do=findComment&comment=178310)
@@ -62,7 +63,6 @@
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178306)
 - [Vpilot in cockpit](https://forums.vatsim.net/topic/31296-vpilot-in-cockpit/?do=findComment&comment=178305)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178304)
-- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178303)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
