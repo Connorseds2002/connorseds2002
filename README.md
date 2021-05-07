@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Aircraft Logo Lighting - VATSIM Traffic - MSFS](https://forums.vatsim.net/topic/31297-aircraft-logo-lighting-vatsim-traffic-msfs/?do=findComment&comment=178310)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178309)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178308)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178307)
@@ -62,7 +63,6 @@
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178303)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178302)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178301)
-- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178300)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
