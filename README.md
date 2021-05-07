@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Iraq merges with the Kuwait vACC](https://forums.vatsim.net/topic/31299-iraq-merges-with-the-kuwait-vacc/?do=findComment&comment=178317)
+- [Tunisia online!](https://forums.vatsim.net/topic/31292-tunisia-online/?do=findComment&comment=178316)
+- [VATSIM Germany - Website and Forum](https://forums.vatsim.net/topic/20943-vatsim-germany-website-and-forum/?do=findComment&comment=178315)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178314)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=178313)
 - [Having issues with FPS and getting disconnected from VATSIM because of it](https://forums.vatsim.net/topic/31163-having-issues-with-fps-and-getting-disconnected-from-vatsim-because-of-it/?do=findComment&comment=178312)
@@ -60,9 +63,6 @@
 - [Aircraft Logo Lighting - VATSIM Traffic - MSFS](https://forums.vatsim.net/topic/31297-aircraft-logo-lighting-vatsim-traffic-msfs/?do=findComment&comment=178310)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178309)
 - [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178308)
-- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178307)
-- [MFS2020 vPilot Issues](https://forums.vatsim.net/topic/31288-mfs2020-vpilot-issues/?do=findComment&comment=178306)
-- [Vpilot in cockpit](https://forums.vatsim.net/topic/31296-vpilot-in-cockpit/?do=findComment&comment=178305)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
