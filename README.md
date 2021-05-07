@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178329)
+- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178328)
+- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178327)
+- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178326)
+- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178325)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178324)
 - [Swift does not detect FlightGear flight simulator](https://forums.vatsim.net/topic/31300-swift-does-not-detect-flightgear-flight-simulator/?do=findComment&comment=178323)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178322)
 - [Swift does not detect FlightGear flight simulator](https://forums.vatsim.net/topic/31300-swift-does-not-detect-flightgear-flight-simulator/?do=findComment&comment=178321)
 - [Swift does not detect FlightGear flight simulator](https://forums.vatsim.net/topic/31300-swift-does-not-detect-flightgear-flight-simulator/?do=findComment&comment=178320)
-- [Swift does not detect FlightGear flight simulator](https://forums.vatsim.net/topic/31300-swift-does-not-detect-flightgear-flight-simulator/?do=findComment&comment=178319)
-- [Iraq merges with the Kuwait vACC](https://forums.vatsim.net/topic/31299-iraq-merges-with-the-kuwait-vacc/?do=findComment&comment=178318)
-- [Iraq merges with the Kuwait vACC](https://forums.vatsim.net/topic/31299-iraq-merges-with-the-kuwait-vacc/?do=findComment&comment=178317)
-- [Tunisia online!](https://forums.vatsim.net/topic/31292-tunisia-online/?do=findComment&comment=178316)
-- [VATSIM Germany - Website and Forum](https://forums.vatsim.net/topic/20943-vatsim-germany-website-and-forum/?do=findComment&comment=178315)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
