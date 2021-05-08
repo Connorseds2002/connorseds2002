@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178355)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178354)
 - [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178353)
 - [Events API](https://forums.vatsim.net/topic/31307-events-api/?do=findComment&comment=178352)
@@ -62,7 +63,6 @@
 - [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178348)
 - [TCAS](https://forums.vatsim.net/topic/31302-tcas/?do=findComment&comment=178347)
 - [TCAS](https://forums.vatsim.net/topic/31302-tcas/?do=findComment&comment=178346)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178345)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
