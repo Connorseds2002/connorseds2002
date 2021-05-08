@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [This is not enjoyable at all ( Radio volume )](https://forums.vatsim.net/topic/31306-this-is-not-enjoyable-at-all-radio-volume/?do=findComment&comment=178344)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178343)
 - [default model match](https://forums.vatsim.net/topic/31305-default-model-match/?do=findComment&comment=178342)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178341)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178340)
@@ -61,8 +63,6 @@
 - [Error loading vatSys profile](https://forums.vatsim.net/topic/31304-error-loading-vatsys-profile/?do=findComment&comment=178337)
 - [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178336)
 - [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178335)
-- [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178334)
-- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178333)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
