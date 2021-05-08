@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178336)
 - [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178335)
 - [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178334)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178333)
@@ -62,7 +63,6 @@
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178329)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178328)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178327)
-- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178326)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
