@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178370)
 - [Appointment of Divisional Marketing Director](https://forums.vatsim.net/topic/31271-appointment-of-divisional-marketing-director/?do=findComment&comment=178369)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178368)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178367)
@@ -62,7 +63,6 @@
 - [Events API](https://forums.vatsim.net/topic/31307-events-api/?do=findComment&comment=178363)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178362)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178361)
-- [Midwest Express Airlines Icao code](https://forums.vatsim.net/topic/31310-midwest-express-airlines-icao-code/?do=findComment&comment=178360)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
