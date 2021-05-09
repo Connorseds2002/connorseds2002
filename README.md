@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [LGAV-APP online but i still see its deps after the latest beta](https://forums.vatsim.net/topic/31312-lgav-app-online-but-i-still-see-its-deps-after-the-latest-beta/?do=findComment&comment=178380)
+- [LGAV-APP online but i still see its deps after the latest beta](https://forums.vatsim.net/topic/31312-lgav-app-online-but-i-still-see-its-deps-after-the-latest-beta/?do=findComment&comment=178379)
 - [[Official VA Partner] SUR Air (Argentina)](https://forums.vatsim.net/topic/30852-official-va-partner-sur-air-argentina/?do=findComment&comment=178378)
 - [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178377)
 - [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178376)
@@ -61,8 +63,6 @@
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178373)
 - [Brand new, VERY basic question](https://forums.vatsim.net/topic/31311-brand-new-very-basic-question/?do=findComment&comment=178372)
 - [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178371)
-- [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178370)
-- [Appointment of Divisional Marketing Director](https://forums.vatsim.net/topic/31271-appointment-of-divisional-marketing-director/?do=findComment&comment=178369)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
