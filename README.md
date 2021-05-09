@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178384)
 - [Midwest Express Airlines Icao code](https://forums.vatsim.net/topic/31310-midwest-express-airlines-icao-code/?do=findComment&comment=178383)
 - [[VACANCY] Portugal vACC Director](https://forums.vatsim.net/topic/31313-vacancy-portugal-vacc-director/?do=findComment&comment=178382)
 - [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178381)
@@ -62,7 +63,6 @@
 - [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178377)
 - [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178376)
 - [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178375)
-- [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178374)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
