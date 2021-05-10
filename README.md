@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178395)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178394)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178393)
 - [vPilot Unhandled Exception on Startup - Possible Audio?](https://forums.vatsim.net/topic/31316-vpilot-unhandled-exception-on-startup-possible-audio/?do=findComment&comment=178392)
@@ -62,7 +63,6 @@
 - [Brand new, VERY basic question](https://forums.vatsim.net/topic/31311-brand-new-very-basic-question/?do=findComment&comment=178388)
 - [Brand new, VERY basic question](https://forums.vatsim.net/topic/31311-brand-new-very-basic-question/?do=findComment&comment=178387)
 - [Events API](https://forums.vatsim.net/topic/31307-events-api/?do=findComment&comment=178386)
-- [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178385)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
