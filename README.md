@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=178412)
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=178411)
+- [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178410)
+- [[VACANCY] VATSIM Kuwait & Iraq Deputy Marketing Director](https://forums.vatsim.net/topic/31320-vacancy-vatsim-kuwait-iraq-deputy-marketing-director/?do=findComment&comment=178409)
+- [[VACANCY] VATSIM Kuwait & Iraq Membership Director](https://forums.vatsim.net/topic/31319-vacancy-vatsim-kuwait-iraq-membership-director/?do=findComment&comment=178408)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=178407)
 - [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178406)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178405)
 - [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178404)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178403)
-- [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=178402)
-- [Error loading vatSys profile](https://forums.vatsim.net/topic/31304-error-loading-vatsys-profile/?do=findComment&comment=178401)
-- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178400)
-- [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178399)
-- [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178398)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
