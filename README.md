@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178405)
+- [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178404)
+- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178403)
+- [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=178402)
+- [Error loading vatSys profile](https://forums.vatsim.net/topic/31304-error-loading-vatsys-profile/?do=findComment&comment=178401)
+- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178400)
 - [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178399)
 - [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178398)
 - [Error loading vatSys profile](https://forums.vatsim.net/topic/31304-error-loading-vatsys-profile/?do=findComment&comment=178397)
 - [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178396)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178395)
-- [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178394)
-- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178393)
-- [vPilot Unhandled Exception on Startup - Possible Audio?](https://forums.vatsim.net/topic/31316-vpilot-unhandled-exception-on-startup-possible-audio/?do=findComment&comment=178392)
-- [Revoada do Dia das Mães](https://forums.vatsim.net/topic/31315-revoada-do-dia-das-m%C3%A3es/?do=findComment&comment=178391)
-- [Programming the correct arrival Vectors for KATL](https://forums.vatsim.net/topic/31314-programming-the-correct-arrival-vectors-for-katl/?do=findComment&comment=178390)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
