@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178394)
+- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178393)
+- [vPilot Unhandled Exception on Startup - Possible Audio?](https://forums.vatsim.net/topic/31316-vpilot-unhandled-exception-on-startup-possible-audio/?do=findComment&comment=178392)
 - [Revoada do Dia das Mães](https://forums.vatsim.net/topic/31315-revoada-do-dia-das-m%C3%A3es/?do=findComment&comment=178391)
 - [Programming the correct arrival Vectors for KATL](https://forums.vatsim.net/topic/31314-programming-the-correct-arrival-vectors-for-katl/?do=findComment&comment=178390)
 - [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178389)
@@ -60,9 +63,6 @@
 - [Brand new, VERY basic question](https://forums.vatsim.net/topic/31311-brand-new-very-basic-question/?do=findComment&comment=178387)
 - [Events API](https://forums.vatsim.net/topic/31307-events-api/?do=findComment&comment=178386)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178385)
-- [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178384)
-- [Midwest Express Airlines Icao code](https://forums.vatsim.net/topic/31310-midwest-express-airlines-icao-code/?do=findComment&comment=178383)
-- [[VACANCY] Portugal vACC Director](https://forums.vatsim.net/topic/31313-vacancy-portugal-vacc-director/?do=findComment&comment=178382)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
