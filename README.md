@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178399)
+- [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178398)
+- [Error loading vatSys profile](https://forums.vatsim.net/topic/31304-error-loading-vatsys-profile/?do=findComment&comment=178397)
 - [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178396)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178395)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178394)
@@ -60,9 +63,6 @@
 - [vPilot Unhandled Exception on Startup - Possible Audio?](https://forums.vatsim.net/topic/31316-vpilot-unhandled-exception-on-startup-possible-audio/?do=findComment&comment=178392)
 - [Revoada do Dia das Mães](https://forums.vatsim.net/topic/31315-revoada-do-dia-das-m%C3%A3es/?do=findComment&comment=178391)
 - [Programming the correct arrival Vectors for KATL](https://forums.vatsim.net/topic/31314-programming-the-correct-arrival-vectors-for-katl/?do=findComment&comment=178390)
-- [Please help me getting VATSIM audio...](https://forums.vatsim.net/topic/31308-please-help-me-getting-vatsim-audio/?do=findComment&comment=178389)
-- [Brand new, VERY basic question](https://forums.vatsim.net/topic/31311-brand-new-very-basic-question/?do=findComment&comment=178388)
-- [Brand new, VERY basic question](https://forums.vatsim.net/topic/31311-brand-new-very-basic-question/?do=findComment&comment=178387)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
