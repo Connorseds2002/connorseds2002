@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178414)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=178413)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=178412)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=178411)
@@ -62,7 +63,6 @@
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=178407)
 - [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178406)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178405)
-- [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178404)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
