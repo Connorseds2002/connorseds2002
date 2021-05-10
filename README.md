@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=178407)
+- [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178406)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178405)
 - [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178404)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178403)
@@ -61,8 +63,6 @@
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178400)
 - [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178399)
 - [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178398)
-- [Error loading vatSys profile](https://forums.vatsim.net/topic/31304-error-loading-vatsys-profile/?do=findComment&comment=178397)
-- [What Pilot Client for Flight Gear?](https://forums.vatsim.net/topic/31318-what-pilot-client-for-flight-gear/?do=findComment&comment=178396)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
