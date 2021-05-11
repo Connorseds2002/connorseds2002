@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Small bug with the flightplan window](https://forums.vatsim.net/topic/31325-small-bug-with-the-flightplan-window/?do=findComment&comment=178433)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178432)
 - [Discord join not working?](https://forums.vatsim.net/topic/31323-discord-join-not-working/?do=findComment&comment=178431)
 - [Unable to create files after r29](https://forums.vatsim.net/topic/31293-unable-to-create-files-after-r29/?do=findComment&comment=178430)
@@ -62,7 +63,6 @@
 - [vPilot Unhandled Exception on Startup - Possible Audio?](https://forums.vatsim.net/topic/31316-vpilot-unhandled-exception-on-startup-possible-audio/?do=findComment&comment=178426)
 - [Discord join not working?](https://forums.vatsim.net/topic/31323-discord-join-not-working/?do=findComment&comment=178424)
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/31322-network-error-invalid-cidpassword/?do=findComment&comment=178423)
-- [Network error: Invalid CID/password](https://forums.vatsim.net/topic/31322-network-error-invalid-cidpassword/?do=findComment&comment=178422)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
