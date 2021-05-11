@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Network error: Invalid CID/password](https://forums.vatsim.net/topic/31322-network-error-invalid-cidpassword/?do=findComment&comment=178423)
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/31322-network-error-invalid-cidpassword/?do=findComment&comment=178422)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178421)
 - [vPilot Unhandled Exception on Startup - Possible Audio?](https://forums.vatsim.net/topic/31316-vpilot-unhandled-exception-on-startup-possible-audio/?do=findComment&comment=178420)
@@ -62,7 +63,6 @@
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178416)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178415)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178414)
-- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=178413)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
