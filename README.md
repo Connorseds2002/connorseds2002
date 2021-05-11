@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178429)
+- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178428)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178427)
 - [vPilot Unhandled Exception on Startup - Possible Audio?](https://forums.vatsim.net/topic/31316-vpilot-unhandled-exception-on-startup-possible-audio/?do=findComment&comment=178426)
 - [Discord join not working?](https://forums.vatsim.net/topic/31323-discord-join-not-working/?do=findComment&comment=178424)
@@ -61,8 +63,6 @@
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178421)
 - [vPilot Unhandled Exception on Startup - Possible Audio?](https://forums.vatsim.net/topic/31316-vpilot-unhandled-exception-on-startup-possible-audio/?do=findComment&comment=178420)
 - [[EVENT] Spice Run](https://forums.vatsim.net/topic/31321-event-spice-run/?do=findComment&comment=178419)
-- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178418)
-- [Error loading vatSys profile](https://forums.vatsim.net/topic/31304-error-loading-vatsys-profile/?do=findComment&comment=178417)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
