@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Discord join not working?](https://forums.vatsim.net/topic/31323-discord-join-not-working/?do=findComment&comment=178431)
+- [Unable to create files after r29](https://forums.vatsim.net/topic/31293-unable-to-create-files-after-r29/?do=findComment&comment=178430)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178429)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178428)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178427)
@@ -61,8 +63,6 @@
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/31322-network-error-invalid-cidpassword/?do=findComment&comment=178423)
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/31322-network-error-invalid-cidpassword/?do=findComment&comment=178422)
 - [My VATSIM stats website is now live](https://forums.vatsim.net/topic/31298-my-vatsim-stats-website-is-now-live/?do=findComment&comment=178421)
-- [vPilot Unhandled Exception on Startup - Possible Audio?](https://forums.vatsim.net/topic/31316-vpilot-unhandled-exception-on-startup-possible-audio/?do=findComment&comment=178420)
-- [[EVENT] Spice Run](https://forums.vatsim.net/topic/31321-event-spice-run/?do=findComment&comment=178419)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
