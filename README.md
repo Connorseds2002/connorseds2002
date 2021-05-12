@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178460)
+- [[VACANCY] VATSIM Middle East & North Africa Membership Director](https://forums.vatsim.net/topic/31329-vacancy-vatsim-middle-east-north-africa-membership-director/?do=findComment&comment=178459)
 - [México Sector [FIR MMFR+MMFO] 2104 for VRC software](https://forums.vatsim.net/topic/31328-m%C3%A9xico-sector-fir-mmfrmmfo-2104-for-vrc-software/?do=findComment&comment=178458)
 - [México Sector [FIR MMFR+MMFO] 2104 for VRC software](https://forums.vatsim.net/topic/31328-m%C3%A9xico-sector-fir-mmfrmmfo-2104-for-vrc-software/?do=findComment&comment=178457)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178456)
@@ -61,8 +63,6 @@
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=178453)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178452)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178451)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178450)
-- [Canadian Xpress Canadian Rockies Tour](https://forums.vatsim.net/topic/31327-canadian-xpress-canadian-rockies-tour/?do=findComment&comment=178449)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
