@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [México Sector [FIR MMFR+MMFO] 2104 for VRC software](https://forums.vatsim.net/topic/31328-m%C3%A9xico-sector-fir-mmfrmmfo-2104-for-vrc-software/?do=findComment&comment=178468)
+- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178467)
+- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178466)
 - [[VACANCY] Latvia vACC Director](https://forums.vatsim.net/topic/31331-vacancy-latvia-vacc-director/?do=findComment&comment=178465)
 - [Know Any Website Showing Flight Paths of Vatsim Flights](https://forums.vatsim.net/topic/28299-know-any-website-showing-flight-paths-of-vatsim-flights/?do=findComment&comment=178464)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178463)
@@ -60,9 +63,6 @@
 - [Know Any Website Showing Flight Paths of Vatsim Flights](https://forums.vatsim.net/topic/28299-know-any-website-showing-flight-paths-of-vatsim-flights/?do=findComment&comment=178461)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178460)
 - [[VACANCY] VATSIM Middle East & North Africa Membership Director](https://forums.vatsim.net/topic/31329-vacancy-vatsim-middle-east-north-africa-membership-director/?do=findComment&comment=178459)
-- [México Sector [FIR MMFR+MMFO] 2104 for VRC software](https://forums.vatsim.net/topic/31328-m%C3%A9xico-sector-fir-mmfrmmfo-2104-for-vrc-software/?do=findComment&comment=178458)
-- [México Sector [FIR MMFR+MMFO] 2104 for VRC software](https://forums.vatsim.net/topic/31328-m%C3%A9xico-sector-fir-mmfrmmfo-2104-for-vrc-software/?do=findComment&comment=178457)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178456)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
