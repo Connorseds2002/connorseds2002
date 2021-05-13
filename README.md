@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178463)
 - [Any progress by the BoG?](https://forums.vatsim.net/topic/31330-any-progress-by-the-bog/?do=findComment&comment=178462)
 - [Know Any Website Showing Flight Paths of Vatsim Flights](https://forums.vatsim.net/topic/28299-know-any-website-showing-flight-paths-of-vatsim-flights/?do=findComment&comment=178461)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178460)
@@ -62,7 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178456)
 - [Procedure for connecting FS9 & Swift on multiple computers to the VATSIM Network](https://forums.vatsim.net/topic/30963-procedure-for-connecting-fs9-swift-on-multiple-computers-to-the-vatsim-network/?do=findComment&comment=178455)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178454)
-- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=178453)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
