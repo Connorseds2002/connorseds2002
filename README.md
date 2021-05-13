@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How do I retake my welcome test if I have failed?](https://forums.vatsim.net/topic/31334-how-do-i-retake-my-welcome-test-if-i-have-failed/?do=findComment&comment=178477)
+- [How do I retake my welcome test if I have failed?](https://forums.vatsim.net/topic/31334-how-do-i-retake-my-welcome-test-if-i-have-failed/?do=findComment&comment=178476)
 - [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=178474)
 - [Singapore - times](https://forums.vatsim.net/topic/31332-singapore-times/?do=findComment&comment=178471)
 - [Singapore - times](https://forums.vatsim.net/topic/31332-singapore-times/?do=findComment&comment=178470)
@@ -61,8 +63,6 @@
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178467)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178466)
 - [[VACANCY] Latvia vACC Director](https://forums.vatsim.net/topic/31331-vacancy-latvia-vacc-director/?do=findComment&comment=178465)
-- [Know Any Website Showing Flight Paths of Vatsim Flights](https://forums.vatsim.net/topic/28299-know-any-website-showing-flight-paths-of-vatsim-flights/?do=findComment&comment=178464)
-- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178463)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
