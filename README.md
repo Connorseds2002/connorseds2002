@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I have made a mess of the VATSIM Log In Process](https://forums.vatsim.net/topic/31346-i-have-made-a-mess-of-the-vatsim-log-in-process/?do=findComment&comment=178509)
 - [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178505)
 - [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178503)
 - [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178502)
@@ -62,7 +63,6 @@
 - [VATSSA notice to VATSSA controllers](https://forums.vatsim.net/topic/31343-vatssa-notice-to-vatssa-controllers/?do=findComment&comment=178495)
 - [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178494)
 - [Microphone input not detected/Indicator blank](https://forums.vatsim.net/topic/31342-microphone-input-not-detectedindicator-blank/?do=findComment&comment=178493)
-- [Microphone input not detected/Indicator blank](https://forums.vatsim.net/topic/31342-microphone-input-not-detectedindicator-blank/?do=findComment&comment=178492)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
