@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178494)
+- [Microphone input not detected/Indicator blank](https://forums.vatsim.net/topic/31342-microphone-input-not-detectedindicator-blank/?do=findComment&comment=178493)
 - [Microphone input not detected/Indicator blank](https://forums.vatsim.net/topic/31342-microphone-input-not-detectedindicator-blank/?do=findComment&comment=178492)
 - [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178491)
 - [A solution for No Audio/Voice on xPilot - with " Error starting voice server client: WaveBadFormat calling waveInOpen "](https://forums.vatsim.net/topic/31340-a-solution-for-no-audiovoice-on-xpilot-with-error-starting-voice-server-client-wavebadformat-calling-waveinopen/?do=findComment&comment=178490)
@@ -61,8 +63,6 @@
 - [No airport visible](https://forums.vatsim.net/topic/31338-no-airport-visible/?do=findComment&comment=178485)
 - [[Resignation] VATWA3 Director ATC Training](https://forums.vatsim.net/topic/31337-resignation-vatwa3-director-atc-training/?do=findComment&comment=178484)
 - [[May 22] Canadian Xpress May 2021 Monthly Fly-In - Victoria Day](https://forums.vatsim.net/topic/31336-may-22-canadian-xpress-may-2021-monthly-fly-in-victoria-day/?do=findComment&comment=178483)
-- [Singapore - times](https://forums.vatsim.net/topic/31332-singapore-times/?do=findComment&comment=178481)
-- [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=178480)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
