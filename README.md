@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSSA notice to VATSSA controllers](https://forums.vatsim.net/topic/31343-vatssa-notice-to-vatssa-controllers/?do=findComment&comment=178495)
 - [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178494)
 - [Microphone input not detected/Indicator blank](https://forums.vatsim.net/topic/31342-microphone-input-not-detectedindicator-blank/?do=findComment&comment=178493)
 - [Microphone input not detected/Indicator blank](https://forums.vatsim.net/topic/31342-microphone-input-not-detectedindicator-blank/?do=findComment&comment=178492)
@@ -62,7 +63,6 @@
 - [Super Aircraft](https://forums.vatsim.net/topic/31339-super-aircraft/?do=findComment&comment=178486)
 - [No airport visible](https://forums.vatsim.net/topic/31338-no-airport-visible/?do=findComment&comment=178485)
 - [[Resignation] VATWA3 Director ATC Training](https://forums.vatsim.net/topic/31337-resignation-vatwa3-director-atc-training/?do=findComment&comment=178484)
-- [[May 22] Canadian Xpress May 2021 Monthly Fly-In - Victoria Day](https://forums.vatsim.net/topic/31336-may-22-canadian-xpress-may-2021-monthly-fly-in-victoria-day/?do=findComment&comment=178483)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
