@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=178480)
+- [12,5 kHz frequencies](https://forums.vatsim.net/topic/27300-125-khz-frequencies/?do=findComment&comment=178479)
 - [How do I retake my welcome test if I have failed?](https://forums.vatsim.net/topic/31334-how-do-i-retake-my-welcome-test-if-i-have-failed/?do=findComment&comment=178477)
 - [How do I retake my welcome test if I have failed?](https://forums.vatsim.net/topic/31334-how-do-i-retake-my-welcome-test-if-i-have-failed/?do=findComment&comment=178476)
 - [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=178474)
@@ -61,8 +63,6 @@
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178469)
 - [México Sector [FIR MMFR+MMFO] 2104 for VRC software](https://forums.vatsim.net/topic/31328-m%C3%A9xico-sector-fir-mmfrmmfo-2104-for-vrc-software/?do=findComment&comment=178468)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178467)
-- ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178466)
-- [[VACANCY] Latvia vACC Director](https://forums.vatsim.net/topic/31331-vacancy-latvia-vacc-director/?do=findComment&comment=178465)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
