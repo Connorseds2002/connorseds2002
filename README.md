@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[May 22] Canadian Xpress May 2021 Monthly Fly-In - Victoria Day](https://forums.vatsim.net/topic/31336-may-22-canadian-xpress-may-2021-monthly-fly-in-victoria-day/?do=findComment&comment=178483)
 - [Singapore - times](https://forums.vatsim.net/topic/31332-singapore-times/?do=findComment&comment=178481)
 - [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=178480)
 - [12,5 kHz frequencies](https://forums.vatsim.net/topic/27300-125-khz-frequencies/?do=findComment&comment=178479)
@@ -62,7 +63,6 @@
 - [Singapore - times](https://forums.vatsim.net/topic/31332-singapore-times/?do=findComment&comment=178471)
 - [Singapore - times](https://forums.vatsim.net/topic/31332-singapore-times/?do=findComment&comment=178470)
 - ["Report established" along with cleared to ILS?](https://forums.vatsim.net/topic/31301-report-established-along-with-cleared-to-ils/?do=findComment&comment=178469)
-- [México Sector [FIR MMFR+MMFO] 2104 for VRC software](https://forums.vatsim.net/topic/31328-m%C3%A9xico-sector-fir-mmfrmmfo-2104-for-vrc-software/?do=findComment&comment=178468)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
