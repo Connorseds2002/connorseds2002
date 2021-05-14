@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178501)
+- [Start-up error unexpected exception](https://forums.vatsim.net/topic/31203-start-up-error-unexpected-exception/?do=findComment&comment=178500)
+- [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178499)
 - [VATSSA notice to VATSSA controllers](https://forums.vatsim.net/topic/31343-vatssa-notice-to-vatssa-controllers/?do=findComment&comment=178495)
 - [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178494)
 - [Microphone input not detected/Indicator blank](https://forums.vatsim.net/topic/31342-microphone-input-not-detectedindicator-blank/?do=findComment&comment=178493)
@@ -60,9 +63,6 @@
 - [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178491)
 - [A solution for No Audio/Voice on xPilot - with " Error starting voice server client: WaveBadFormat calling waveInOpen "](https://forums.vatsim.net/topic/31340-a-solution-for-no-audiovoice-on-xpilot-with-error-starting-voice-server-client-wavebadformat-calling-waveinopen/?do=findComment&comment=178490)
 - [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=178488)
-- [Super Aircraft](https://forums.vatsim.net/topic/31339-super-aircraft/?do=findComment&comment=178486)
-- [No airport visible](https://forums.vatsim.net/topic/31338-no-airport-visible/?do=findComment&comment=178485)
-- [[Resignation] VATWA3 Director ATC Training](https://forums.vatsim.net/topic/31337-resignation-vatwa3-director-atc-training/?do=findComment&comment=178484)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
