@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=178488)
 - [Super Aircraft](https://forums.vatsim.net/topic/31339-super-aircraft/?do=findComment&comment=178486)
 - [No airport visible](https://forums.vatsim.net/topic/31338-no-airport-visible/?do=findComment&comment=178485)
 - [[Resignation] VATWA3 Director ATC Training](https://forums.vatsim.net/topic/31337-resignation-vatwa3-director-atc-training/?do=findComment&comment=178484)
@@ -62,7 +63,6 @@
 - [12,5 kHz frequencies](https://forums.vatsim.net/topic/27300-125-khz-frequencies/?do=findComment&comment=178479)
 - [How do I retake my welcome test if I have failed?](https://forums.vatsim.net/topic/31334-how-do-i-retake-my-welcome-test-if-i-have-failed/?do=findComment&comment=178477)
 - [How do I retake my welcome test if I have failed?](https://forums.vatsim.net/topic/31334-how-do-i-retake-my-welcome-test-if-i-have-failed/?do=findComment&comment=178476)
-- [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=178474)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
