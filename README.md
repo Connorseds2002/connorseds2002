@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Virtual Airline](https://forums.vatsim.net/topic/31351-new-virtual-airline/?do=findComment&comment=178537)
+- [No airport visible](https://forums.vatsim.net/topic/31338-no-airport-visible/?do=findComment&comment=178536)
 - [Transfer of Flight Hours](https://forums.vatsim.net/topic/31350-transfer-of-flight-hours/?do=findComment&comment=178535)
 - [No airport visible](https://forums.vatsim.net/topic/31338-no-airport-visible/?do=findComment&comment=178534)
 - [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178530)
@@ -61,8 +63,6 @@
 - [Transfer of Flight Hours](https://forums.vatsim.net/topic/31350-transfer-of-flight-hours/?do=findComment&comment=178527)
 - [No airport visible](https://forums.vatsim.net/topic/31338-no-airport-visible/?do=findComment&comment=178526)
 - [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178525)
-- [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178524)
-- [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178523)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
