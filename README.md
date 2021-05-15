@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No airport visible](https://forums.vatsim.net/topic/31338-no-airport-visible/?do=findComment&comment=178534)
 - [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178530)
 - [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178529)
 - [Cannot activate the gl rendering client" error](https://forums.vatsim.net/topic/30249-cannot-activate-the-gl-rendering-client-error/?do=findComment&comment=178528)
@@ -62,7 +63,6 @@
 - [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178524)
 - [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178523)
 - [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178522)
-- [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178521)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
