@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot kills cockpit audio](https://forums.vatsim.net/topic/31355-xpilot-kills-cockpit-audio/?do=findComment&comment=178550)
 - [Vatsim [ 22 of May to 10 of August] RACE AROUND THE WORLD IN 80 DAYS SEASON 2](https://forums.vatsim.net/topic/31354-vatsim-22-of-may-to-10-of-august-race-around-the-world-in-80-days-season-2/?do=findComment&comment=178547)
 - [The afterburner series](https://forums.vatsim.net/topic/31348-the-afterburner-series/?do=findComment&comment=178544)
 - [Microphone input not detected/Indicator blank](https://forums.vatsim.net/topic/31342-microphone-input-not-detectedindicator-blank/?do=findComment&comment=178543)
@@ -62,7 +63,6 @@
 - [New Virtual Airline](https://forums.vatsim.net/topic/31351-new-virtual-airline/?do=findComment&comment=178537)
 - [No airport visible](https://forums.vatsim.net/topic/31338-no-airport-visible/?do=findComment&comment=178536)
 - [Transfer of Flight Hours](https://forums.vatsim.net/topic/31350-transfer-of-flight-hours/?do=findComment&comment=178535)
-- [No airport visible](https://forums.vatsim.net/topic/31338-no-airport-visible/?do=findComment&comment=178534)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
