@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178578)
+- [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=178576)
+- [Textures for VATSIM](https://forums.vatsim.net/topic/31358-textures-for-vatsim/?do=findComment&comment=178575)
+- [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178572)
+- [The afterburner series](https://forums.vatsim.net/topic/31348-the-afterburner-series/?do=findComment&comment=178571)
+- [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178570)
 - [Textures for VATSIM](https://forums.vatsim.net/topic/31358-textures-for-vatsim/?do=findComment&comment=178569)
 - [Runways and Taxiway Markings](https://forums.vatsim.net/topic/31359-runways-and-taxiway-markings/?do=findComment&comment=178568)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178567)
 - [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178565)
-- [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178563)
-- [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178561)
-- [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178560)
-- [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178559)
-- [Textures for VATSIM](https://forums.vatsim.net/topic/31358-textures-for-vatsim/?do=findComment&comment=178558)
-- [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178557)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
