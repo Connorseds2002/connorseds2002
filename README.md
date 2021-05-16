@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VRC with Screenreaders](https://forums.vatsim.net/topic/31347-vrc-with-screenreaders/?do=findComment&comment=178581)
 - [[WEB VACANCY] VATMENA - Divisional Web Developer](https://forums.vatsim.net/topic/31360-web-vacancy-vatmena-divisional-web-developer/?do=findComment&comment=178580)
 - [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178579)
 - [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178578)
@@ -62,7 +63,6 @@
 - [The afterburner series](https://forums.vatsim.net/topic/31348-the-afterburner-series/?do=findComment&comment=178571)
 - [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178570)
 - [Textures for VATSIM](https://forums.vatsim.net/topic/31358-textures-for-vatsim/?do=findComment&comment=178569)
-- [Runways and Taxiway Markings](https://forums.vatsim.net/topic/31359-runways-and-taxiway-markings/?do=findComment&comment=178568)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
