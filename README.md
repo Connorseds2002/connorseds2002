@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178579)
 - [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178578)
 - [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=178576)
 - [Textures for VATSIM](https://forums.vatsim.net/topic/31358-textures-for-vatsim/?do=findComment&comment=178575)
@@ -62,7 +63,6 @@
 - [Textures for VATSIM](https://forums.vatsim.net/topic/31358-textures-for-vatsim/?do=findComment&comment=178569)
 - [Runways and Taxiway Markings](https://forums.vatsim.net/topic/31359-runways-and-taxiway-markings/?do=findComment&comment=178568)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=178567)
-- [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178565)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
