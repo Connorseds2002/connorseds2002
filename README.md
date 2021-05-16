@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178563)
 - [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178561)
 - [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178560)
 - [Model matching](https://forums.vatsim.net/topic/31349-model-matching/?do=findComment&comment=178559)
@@ -62,7 +63,6 @@
 - [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=178555)
 - [A bunch of 503s and links not working...](https://forums.vatsim.net/topic/31356-a-bunch-of-503s-and-links-not-working/?do=findComment&comment=178552)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=178551)
-- [Xpilot kills cockpit audio](https://forums.vatsim.net/topic/31355-xpilot-kills-cockpit-audio/?do=findComment&comment=178550)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
