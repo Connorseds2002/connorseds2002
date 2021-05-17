@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178626)
 - [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178625)
 - [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178619)
 - [r29 and "on the ground filter altitude"](https://forums.vatsim.net/topic/31361-r29-and-on-the-ground-filter-altitude/?do=findComment&comment=178590)
@@ -62,7 +63,6 @@
 - [Runways and Taxiway Markings](https://forums.vatsim.net/topic/31359-runways-and-taxiway-markings/?do=findComment&comment=178583)
 - [Runways and Taxiway Markings](https://forums.vatsim.net/topic/31359-runways-and-taxiway-markings/?do=findComment&comment=178582)
 - [VRC with Screenreaders](https://forums.vatsim.net/topic/31347-vrc-with-screenreaders/?do=findComment&comment=178581)
-- [[WEB VACANCY] VATMENA - Divisional Web Developer](https://forums.vatsim.net/topic/31360-web-vacancy-vatmena-divisional-web-developer/?do=findComment&comment=178580)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
