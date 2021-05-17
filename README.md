@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Resizing EuroScope windows](https://forums.vatsim.net/topic/28905-resizing-euroscope-windows/?do=findComment&comment=178585)
 - [Runways and Taxiway Markings](https://forums.vatsim.net/topic/31359-runways-and-taxiway-markings/?do=findComment&comment=178583)
 - [Runways and Taxiway Markings](https://forums.vatsim.net/topic/31359-runways-and-taxiway-markings/?do=findComment&comment=178582)
 - [VRC with Screenreaders](https://forums.vatsim.net/topic/31347-vrc-with-screenreaders/?do=findComment&comment=178581)
@@ -62,7 +63,6 @@
 - [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=178576)
 - [Textures for VATSIM](https://forums.vatsim.net/topic/31358-textures-for-vatsim/?do=findComment&comment=178575)
 - [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178572)
-- [The afterburner series](https://forums.vatsim.net/topic/31348-the-afterburner-series/?do=findComment&comment=178571)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
