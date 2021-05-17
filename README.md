@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I don't see my time airborne in SimAware and is not reflected on my profile.](https://forums.vatsim.net/topic/31219-i-dont-see-my-time-airborne-in-simaware-and-is-not-reflected-on-my-profile/?do=findComment&comment=178586)
 - [Resizing EuroScope windows](https://forums.vatsim.net/topic/28905-resizing-euroscope-windows/?do=findComment&comment=178585)
 - [Runways and Taxiway Markings](https://forums.vatsim.net/topic/31359-runways-and-taxiway-markings/?do=findComment&comment=178583)
 - [Runways and Taxiway Markings](https://forums.vatsim.net/topic/31359-runways-and-taxiway-markings/?do=findComment&comment=178582)
@@ -62,7 +63,6 @@
 - [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178578)
 - [X Pilot Release 1.3.36 BUG?](https://forums.vatsim.net/topic/30578-x-pilot-release-1336-bug/?do=findComment&comment=178576)
 - [Textures for VATSIM](https://forums.vatsim.net/topic/31358-textures-for-vatsim/?do=findComment&comment=178575)
-- [ATC instruction for ILS approach](https://forums.vatsim.net/topic/31345-atc-instruction-for-ils-approach/?do=findComment&comment=178572)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
