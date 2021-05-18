@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Historic LOWL-LOWG Concorde Hop](https://forums.vatsim.net/topic/31368-historic-lowl-lowg-concorde-hop/?do=findComment&comment=178644)
+- [[Resignation] VATWA3 Director ATC Training](https://forums.vatsim.net/topic/31337-resignation-vatwa3-director-atc-training/?do=findComment&comment=178656)
+- [[EVENT] The Odyssey - Dubai [OMDB] to New Delhi [VIDP]](https://forums.vatsim.net/topic/31369-event-the-odyssey-dubai-omdb-to-new-delhi-vidp/?do=findComment&comment=178653)
+- [Resizing EuroScope windows](https://forums.vatsim.net/topic/28905-resizing-euroscope-windows/?do=findComment&comment=178650)
+- [Historic LOWG-LOWL Concorde Hop](https://forums.vatsim.net/topic/31368-historic-lowg-lowl-concorde-hop/?do=findComment&comment=178644)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178643)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178640)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178637)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178635)
 - [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178632)
 - [Singapore - times](https://forums.vatsim.net/topic/31332-singapore-times/?do=findComment&comment=178631)
-- [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178629)
-- [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178628)
-- [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178627)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
