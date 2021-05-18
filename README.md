@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178629)
 - [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178628)
 - [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178627)
 - [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178626)
@@ -62,7 +63,6 @@
 - [Programming the correct arrival Vectors for KATL](https://forums.vatsim.net/topic/31314-programming-the-correct-arrival-vectors-for-katl/?do=findComment&comment=178589)
 - [I don't see my time airborne in SimAware and is not reflected on my profile.](https://forums.vatsim.net/topic/31219-i-dont-see-my-time-airborne-in-simaware-and-is-not-reflected-on-my-profile/?do=findComment&comment=178586)
 - [Resizing EuroScope windows](https://forums.vatsim.net/topic/28905-resizing-euroscope-windows/?do=findComment&comment=178585)
-- [Runways and Taxiway Markings](https://forums.vatsim.net/topic/31359-runways-and-taxiway-markings/?do=findComment&comment=178583)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
