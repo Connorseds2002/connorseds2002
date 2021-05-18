@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178662)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178658)
 - [[Resignation] VATWA3 Director ATC Training](https://forums.vatsim.net/topic/31337-resignation-vatwa3-director-atc-training/?do=findComment&comment=178656)
 - [[EVENT] The Odyssey - Dubai [OMDB] to New Delhi [VIDP]](https://forums.vatsim.net/topic/31369-event-the-odyssey-dubai-omdb-to-new-delhi-vidp/?do=findComment&comment=178653)
@@ -62,7 +63,6 @@
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178640)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178637)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178635)
-- [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178632)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
