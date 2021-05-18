@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Historic LOWL-LOWG Concorde Hop](https://forums.vatsim.net/topic/31368-historic-lowl-lowg-concorde-hop/?do=findComment&comment=178644)
+- [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178643)
+- [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178640)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178637)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178635)
 - [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178632)
@@ -60,9 +63,6 @@
 - [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178629)
 - [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178628)
 - [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178627)
-- [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178626)
-- [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178625)
-- [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178619)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
