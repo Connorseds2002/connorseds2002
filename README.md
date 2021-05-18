@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178637)
+- [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178635)
 - [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178632)
 - [Singapore - times](https://forums.vatsim.net/topic/31332-singapore-times/?do=findComment&comment=178631)
 - [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178629)
@@ -61,8 +63,6 @@
 - [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=178626)
 - [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178625)
 - [Dispatcher age](https://forums.vatsim.net/topic/31365-dispatcher-age/?do=findComment&comment=178619)
-- [r29 and "on the ground filter altitude"](https://forums.vatsim.net/topic/31361-r29-and-on-the-ground-filter-altitude/?do=findComment&comment=178590)
-- [Programming the correct arrival Vectors for KATL](https://forums.vatsim.net/topic/31314-programming-the-correct-arrival-vectors-for-katl/?do=findComment&comment=178589)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
