@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No models installed for some ICAO aircraft types. How to assign substitute type to them?](https://forums.vatsim.net/topic/31373-no-models-installed-for-some-icao-aircraft-types-how-to-assign-substitute-type-to-them/?do=findComment&comment=178686)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178685)
+- [TCAS](https://forums.vatsim.net/topic/31302-tcas/?do=findComment&comment=178684)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178683)
 - [No models installed for some ICAO aircraft types. How to assign substitute type to them?](https://forums.vatsim.net/topic/31373-no-models-installed-for-some-icao-aircraft-types-how-to-assign-substitute-type-to-them/?do=findComment&comment=178681)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=178679)
@@ -60,9 +63,6 @@
 - [ATC Feedback](https://forums.vatsim.net/topic/31371-atc-feedback/?do=findComment&comment=178677)
 - [Vpilot Issue](https://forums.vatsim.net/topic/31372-vpilot-issue/?do=findComment&comment=178676)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178675)
-- [ATC Feedback](https://forums.vatsim.net/topic/31371-atc-feedback/?do=findComment&comment=178674)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178673)
-- [ATC Feedback](https://forums.vatsim.net/topic/31371-atc-feedback/?do=findComment&comment=178671)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
