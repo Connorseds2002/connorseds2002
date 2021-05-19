@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=178664)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178662)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178658)
 - [[Resignation] VATWA3 Director ATC Training](https://forums.vatsim.net/topic/31337-resignation-vatwa3-director-atc-training/?do=findComment&comment=178656)
@@ -62,7 +63,6 @@
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178643)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178640)
 - [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178637)
-- [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178635)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
