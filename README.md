@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178675)
 - [ATC Feedback](https://forums.vatsim.net/topic/31371-atc-feedback/?do=findComment&comment=178674)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178673)
 - [ATC Feedback](https://forums.vatsim.net/topic/31371-atc-feedback/?do=findComment&comment=178671)
@@ -62,7 +63,6 @@
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=178666)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=178665)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=178664)
-- [Pilot Ratings - What Happened?](https://forums.vatsim.net/topic/31367-pilot-ratings-what-happened/?do=findComment&comment=178662)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
