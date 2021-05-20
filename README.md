@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot on networked PC](https://forums.vatsim.net/topic/31376-vpilot-on-networked-pc/?do=findComment&comment=178694)
+- [VATSIM Flightplan not showing for ATC](https://forums.vatsim.net/topic/31375-vatsim-flightplan-not-showing-for-atc/?do=findComment&comment=178693)
 - [VATSIM Flightplan not showing for ATC](https://forums.vatsim.net/topic/31375-vatsim-flightplan-not-showing-for-atc/?do=findComment&comment=178692)
 - [ATC Feedback](https://forums.vatsim.net/topic/31371-atc-feedback/?do=findComment&comment=178691)
 - [VATSIM Flightplan not showing for ATC](https://forums.vatsim.net/topic/31375-vatsim-flightplan-not-showing-for-atc/?do=findComment&comment=178690)
-- [Serious vatsim but no hardo’s](https://forums.vatsim.net/topic/31374-serious-vatsim-but-no-hardo%E2%80%99s/?do=findComment&comment=178689)
 - [No models installed for some ICAO aircraft types. How to assign substitute type to them?](https://forums.vatsim.net/topic/31373-no-models-installed-for-some-icao-aircraft-types-how-to-assign-substitute-type-to-them/?do=findComment&comment=178686)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178685)
 - [TCAS](https://forums.vatsim.net/topic/31302-tcas/?do=findComment&comment=178684)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178683)
 - [No models installed for some ICAO aircraft types. How to assign substitute type to them?](https://forums.vatsim.net/topic/31373-no-models-installed-for-some-icao-aircraft-types-how-to-assign-substitute-type-to-them/?do=findComment&comment=178681)
-- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=178679)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
