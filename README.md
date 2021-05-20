@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No models installed for some ICAO aircraft types. How to assign substitute type to them?](https://forums.vatsim.net/topic/31373-no-models-installed-for-some-icao-aircraft-types-how-to-assign-substitute-type-to-them/?do=findComment&comment=178702)
 - [No models installed for some ICAO aircraft types. How to assign substitute type to them?](https://forums.vatsim.net/topic/31373-no-models-installed-for-some-icao-aircraft-types-how-to-assign-substitute-type-to-them/?do=findComment&comment=178701)
 - [VATSpy Launches But Doesn't Open](https://forums.vatsim.net/topic/31378-vatspy-launches-but-doesnt-open/?do=findComment&comment=178700)
 - [VATSpy Launches But Doesn't Open](https://forums.vatsim.net/topic/31378-vatspy-launches-but-doesnt-open/?do=findComment&comment=178699)
@@ -62,7 +63,6 @@
 - [Vpilot on networked PC](https://forums.vatsim.net/topic/31376-vpilot-on-networked-pc/?do=findComment&comment=178695)
 - [Vpilot on networked PC](https://forums.vatsim.net/topic/31376-vpilot-on-networked-pc/?do=findComment&comment=178694)
 - [VATSIM Flightplan not showing for ATC](https://forums.vatsim.net/topic/31375-vatsim-flightplan-not-showing-for-atc/?do=findComment&comment=178693)
-- [VATSIM Flightplan not showing for ATC](https://forums.vatsim.net/topic/31375-vatsim-flightplan-not-showing-for-atc/?do=findComment&comment=178692)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
