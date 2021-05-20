@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=178698)
 - [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=178697)
 - [VATSIM Flightplan not showing for ATC](https://forums.vatsim.net/topic/31375-vatsim-flightplan-not-showing-for-atc/?do=findComment&comment=178696)
 - [Vpilot on networked PC](https://forums.vatsim.net/topic/31376-vpilot-on-networked-pc/?do=findComment&comment=178695)
@@ -62,7 +63,6 @@
 - [ATC Feedback](https://forums.vatsim.net/topic/31371-atc-feedback/?do=findComment&comment=178691)
 - [VATSIM Flightplan not showing for ATC](https://forums.vatsim.net/topic/31375-vatsim-flightplan-not-showing-for-atc/?do=findComment&comment=178690)
 - [No models installed for some ICAO aircraft types. How to assign substitute type to them?](https://forums.vatsim.net/topic/31373-no-models-installed-for-some-icao-aircraft-types-how-to-assign-substitute-type-to-them/?do=findComment&comment=178686)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178685)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
