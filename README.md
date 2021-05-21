@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178717)
 - [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178716)
 - [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178715)
 - [vATIS Not Transmitting Audio on Frequency](https://forums.vatsim.net/topic/26418-vatis-not-transmitting-audio-on-frequency/?do=findComment&comment=178714)
@@ -62,7 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178710)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178709)
 - [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=178708)
-- [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=178707)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
