@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178720)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178719)
+- [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178718)
 - [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178717)
 - [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178716)
 - [How to get my info on vatspy correct (no pilot raiting)](https://forums.vatsim.net/topic/31303-how-to-get-my-info-on-vatspy-correct-no-pilot-raiting/?do=findComment&comment=178715)
@@ -60,9 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178713)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178712)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178711)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178710)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178709)
-- [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=178708)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
