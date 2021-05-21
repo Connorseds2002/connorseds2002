@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178709)
 - [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=178708)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=178707)
 - [VATSpy Launches But Doesn't Open](https://forums.vatsim.net/topic/31378-vatspy-launches-but-doesnt-open/?do=findComment&comment=178706)
@@ -62,7 +63,6 @@
 - [No models installed for some ICAO aircraft types. How to assign substitute type to them?](https://forums.vatsim.net/topic/31373-no-models-installed-for-some-icao-aircraft-types-how-to-assign-substitute-type-to-them/?do=findComment&comment=178702)
 - [No models installed for some ICAO aircraft types. How to assign substitute type to them?](https://forums.vatsim.net/topic/31373-no-models-installed-for-some-icao-aircraft-types-how-to-assign-substitute-type-to-them/?do=findComment&comment=178701)
 - [VATSpy Launches But Doesn't Open](https://forums.vatsim.net/topic/31378-vatspy-launches-but-doesnt-open/?do=findComment&comment=178700)
-- [VATSpy Launches But Doesn't Open](https://forums.vatsim.net/topic/31378-vatspy-launches-but-doesnt-open/?do=findComment&comment=178699)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
