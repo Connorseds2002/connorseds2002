@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New To VATSIM Experienced an Emergency Inflight](https://forums.vatsim.net/topic/31105-new-to-vatsim-experienced-an-emergency-inflight/?do=findComment&comment=178740)
+- [When having ATC control, on takeoff or approach, the plane turns off completely.](https://forums.vatsim.net/topic/31380-when-having-atc-control-on-takeoff-or-approach-the-plane-turns-off-completely/?do=findComment&comment=178739)
 - [Vpilot on networked PC](https://forums.vatsim.net/topic/31376-vpilot-on-networked-pc/?do=findComment&comment=178738)
 - [[30th May 2021 1300z-1500z] S2 CPT Lumpur Tower (WMKK_TWR)](https://forums.vatsim.net/topic/31383-30th-may-2021-1300z-1500z-s2-cpt-lumpur-tower-wmkk_twr/?do=findComment&comment=178737)
 - [Vpilot on networked PC](https://forums.vatsim.net/topic/31376-vpilot-on-networked-pc/?do=findComment&comment=178736)
@@ -61,8 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178730)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178729)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178728)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178727)
-- [When having ATC control, on takeoff or approach, the plane turns off completely.](https://forums.vatsim.net/topic/31380-when-having-atc-control-on-takeoff-or-approach-the-plane-turns-off-completely/?do=findComment&comment=178726)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
