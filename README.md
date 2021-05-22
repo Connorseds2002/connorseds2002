@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Port setting for Remote vPilot](https://forums.vatsim.net/topic/31384-port-setting-for-remote-vpilot/?do=findComment&comment=178749)
 - [[29th May 2021 1200z-1400z] C1 CPT Lumpur Radar (WMFC_CTR)](https://forums.vatsim.net/topic/31385-29th-may-2021-1200z-1400z-c1-cpt-lumpur-radar-wmfc_ctr/?do=findComment&comment=178748)
 - [Vatsim [ 22 of May to 10 of August] RACE AROUND THE WORLD IN 80 DAYS SEASON 2](https://forums.vatsim.net/topic/31354-vatsim-22-of-may-to-10-of-august-race-around-the-world-in-80-days-season-2/?do=findComment&comment=178747)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=178744)
@@ -62,7 +63,6 @@
 - [New To VATSIM Experienced an Emergency Inflight](https://forums.vatsim.net/topic/31105-new-to-vatsim-experienced-an-emergency-inflight/?do=findComment&comment=178740)
 - [When having ATC control, on takeoff or approach, the plane turns off completely.](https://forums.vatsim.net/topic/31380-when-having-atc-control-on-takeoff-or-approach-the-plane-turns-off-completely/?do=findComment&comment=178739)
 - [Vpilot on networked PC](https://forums.vatsim.net/topic/31376-vpilot-on-networked-pc/?do=findComment&comment=178738)
-- [[30th May 2021 1300z-1500z] S2 CPT Lumpur Tower (WMKK_TWR)](https://forums.vatsim.net/topic/31383-30th-may-2021-1300z-1500z-s2-cpt-lumpur-tower-wmkk_twr/?do=findComment&comment=178737)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
