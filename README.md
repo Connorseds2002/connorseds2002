@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Issue with the comunication](https://forums.vatsim.net/topic/31387-issue-with-the-comunication/?do=findComment&comment=178757)
+- [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178756)
 - [Issue with the comunication](https://forums.vatsim.net/topic/31387-issue-with-the-comunication/?do=findComment&comment=178755)
 - [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178754)
 - [Port setting for Remote vPilot](https://forums.vatsim.net/topic/31384-port-setting-for-remote-vpilot/?do=findComment&comment=178753)
@@ -61,8 +63,6 @@
 - [Vatsim [ 22 of May to 10 of August] RACE AROUND THE WORLD IN 80 DAYS SEASON 2](https://forums.vatsim.net/topic/31354-vatsim-22-of-may-to-10-of-august-race-around-the-world-in-80-days-season-2/?do=findComment&comment=178747)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=178744)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178743)
-- [Port setting for Remote vPilot](https://forums.vatsim.net/topic/31384-port-setting-for-remote-vpilot/?do=findComment&comment=178742)
-- [VATSpy Launches But Doesn't Open](https://forums.vatsim.net/topic/31378-vatspy-launches-but-doesnt-open/?do=findComment&comment=178741)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
