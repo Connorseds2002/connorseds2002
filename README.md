@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178758)
 - [Issue with the comunication](https://forums.vatsim.net/topic/31387-issue-with-the-comunication/?do=findComment&comment=178757)
 - [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178756)
 - [Issue with the comunication](https://forums.vatsim.net/topic/31387-issue-with-the-comunication/?do=findComment&comment=178755)
@@ -62,7 +63,6 @@
 - [[29th May 2021 1200z-1400z] C1 CPT Lumpur Radar (WMFC_CTR)](https://forums.vatsim.net/topic/31385-29th-may-2021-1200z-1400z-c1-cpt-lumpur-radar-wmfc_ctr/?do=findComment&comment=178748)
 - [Vatsim [ 22 of May to 10 of August] RACE AROUND THE WORLD IN 80 DAYS SEASON 2](https://forums.vatsim.net/topic/31354-vatsim-22-of-may-to-10-of-august-race-around-the-world-in-80-days-season-2/?do=findComment&comment=178747)
 - [Vatsim map](https://forums.vatsim.net/topic/31133-vatsim-map/?do=findComment&comment=178744)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=178743)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
