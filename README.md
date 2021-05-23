@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178766)
+- [Flying the Oldies](https://forums.vatsim.net/topic/31390-flying-the-oldies/?do=findComment&comment=178765)
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=178764)
 - [r29 and "on the ground filter altitude"](https://forums.vatsim.net/topic/31361-r29-and-on-the-ground-filter-altitude/?do=findComment&comment=178763)
 - [On the ground filter fixed altitude?](https://forums.vatsim.net/topic/31389-on-the-ground-filter-fixed-altitude/?do=findComment&comment=178762)
@@ -61,8 +63,6 @@
 - [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178759)
 - [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178758)
 - [Issue with the comunication](https://forums.vatsim.net/topic/31387-issue-with-the-comunication/?do=findComment&comment=178757)
-- [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178756)
-- [Issue with the comunication](https://forums.vatsim.net/topic/31387-issue-with-the-comunication/?do=findComment&comment=178755)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
