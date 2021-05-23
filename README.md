@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=178764)
+- [r29 and "on the ground filter altitude"](https://forums.vatsim.net/topic/31361-r29-and-on-the-ground-filter-altitude/?do=findComment&comment=178763)
 - [On the ground filter fixed altitude?](https://forums.vatsim.net/topic/31389-on-the-ground-filter-fixed-altitude/?do=findComment&comment=178762)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=178761)
 - [Know Any Website Showing Flight Paths of Vatsim Flights](https://forums.vatsim.net/topic/28299-know-any-website-showing-flight-paths-of-vatsim-flights/?do=findComment&comment=178760)
@@ -61,8 +63,6 @@
 - [Issue with the comunication](https://forums.vatsim.net/topic/31387-issue-with-the-comunication/?do=findComment&comment=178757)
 - [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178756)
 - [Issue with the comunication](https://forums.vatsim.net/topic/31387-issue-with-the-comunication/?do=findComment&comment=178755)
-- [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178754)
-- [Port setting for Remote vPilot](https://forums.vatsim.net/topic/31384-port-setting-for-remote-vpilot/?do=findComment&comment=178753)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
