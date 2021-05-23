@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178754)
 - [Port setting for Remote vPilot](https://forums.vatsim.net/topic/31384-port-setting-for-remote-vpilot/?do=findComment&comment=178753)
 - [Port setting for Remote vPilot](https://forums.vatsim.net/topic/31384-port-setting-for-remote-vpilot/?do=findComment&comment=178749)
 - [[29th May 2021 1200z-1400z] C1 CPT Lumpur Radar (WMFC_CTR)](https://forums.vatsim.net/topic/31385-29th-may-2021-1200z-1400z-c1-cpt-lumpur-radar-wmfc_ctr/?do=findComment&comment=178748)
@@ -62,7 +63,6 @@
 - [Port setting for Remote vPilot](https://forums.vatsim.net/topic/31384-port-setting-for-remote-vpilot/?do=findComment&comment=178742)
 - [VATSpy Launches But Doesn't Open](https://forums.vatsim.net/topic/31378-vatspy-launches-but-doesnt-open/?do=findComment&comment=178741)
 - [New To VATSIM Experienced an Emergency Inflight](https://forums.vatsim.net/topic/31105-new-to-vatsim-experienced-an-emergency-inflight/?do=findComment&comment=178740)
-- [When having ATC control, on takeoff or approach, the plane turns off completely.](https://forums.vatsim.net/topic/31380-when-having-atc-control-on-takeoff-or-approach-the-plane-turns-off-completely/?do=findComment&comment=178739)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
