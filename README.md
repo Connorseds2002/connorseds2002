@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot Issue](https://forums.vatsim.net/topic/31372-vpilot-issue/?do=findComment&comment=178770)
 - [Flying the Oldies](https://forums.vatsim.net/topic/31390-flying-the-oldies/?do=findComment&comment=178769)
 - [[Sunday, June 13th 2021 - 1900z - 2300z] VATSTAR's Caribbean Adventure](https://forums.vatsim.net/topic/31391-sunday-june-13th-2021-1900z-2300z-vatstars-caribbean-adventure/?do=findComment&comment=178768)
 - [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178766)
@@ -62,7 +63,6 @@
 - [On the ground filter fixed altitude?](https://forums.vatsim.net/topic/31389-on-the-ground-filter-fixed-altitude/?do=findComment&comment=178762)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=178761)
 - [Know Any Website Showing Flight Paths of Vatsim Flights](https://forums.vatsim.net/topic/28299-know-any-website-showing-flight-paths-of-vatsim-flights/?do=findComment&comment=178760)
-- [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178759)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
