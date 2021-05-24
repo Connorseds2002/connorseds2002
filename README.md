@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178786)
+- [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=178785)
 - [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178784)
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=178782)
 - [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178781)
@@ -61,8 +63,6 @@
 - [Text cut in half on flight strip](https://forums.vatsim.net/topic/31392-text-cut-in-half-on-flight-strip/?do=findComment&comment=178778)
 - [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178777)
 - [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=178775)
-- [Text cut in half on flight strip](https://forums.vatsim.net/topic/31392-text-cut-in-half-on-flight-strip/?do=findComment&comment=178774)
-- [Flying the Oldies](https://forums.vatsim.net/topic/31390-flying-the-oldies/?do=findComment&comment=178773)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
