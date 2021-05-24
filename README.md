@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim Stats Website](https://forums.vatsim.net/topic/31070-vatsim-stats-website/?do=findComment&comment=178775)
+- [Text cut in half on flight strip](https://forums.vatsim.net/topic/31392-text-cut-in-half-on-flight-strip/?do=findComment&comment=178774)
 - [Flying the Oldies](https://forums.vatsim.net/topic/31390-flying-the-oldies/?do=findComment&comment=178773)
 - [Text cut in half on flight strip](https://forums.vatsim.net/topic/31392-text-cut-in-half-on-flight-strip/?do=findComment&comment=178772)
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=178771)
@@ -61,8 +63,6 @@
 - [[Sunday, June 13th 2021 - 1900z - 2300z] VATSTAR's Caribbean Adventure](https://forums.vatsim.net/topic/31391-sunday-june-13th-2021-1900z-2300z-vatstars-caribbean-adventure/?do=findComment&comment=178768)
 - [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178766)
 - [Flying the Oldies](https://forums.vatsim.net/topic/31390-flying-the-oldies/?do=findComment&comment=178765)
-- [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=178764)
-- [r29 and "on the ground filter altitude"](https://forums.vatsim.net/topic/31361-r29-and-on-the-ground-filter-altitude/?do=findComment&comment=178763)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
