@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Text cut in half on flight strip](https://forums.vatsim.net/topic/31392-text-cut-in-half-on-flight-strip/?do=findComment&comment=178772)
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=178771)
 - [Vpilot Issue](https://forums.vatsim.net/topic/31372-vpilot-issue/?do=findComment&comment=178770)
 - [Flying the Oldies](https://forums.vatsim.net/topic/31390-flying-the-oldies/?do=findComment&comment=178769)
@@ -62,7 +63,6 @@
 - [Sub Sectorisation - Still To Do?](https://forums.vatsim.net/topic/30336-sub-sectorisation-still-to-do/?do=findComment&comment=178764)
 - [r29 and "on the ground filter altitude"](https://forums.vatsim.net/topic/31361-r29-and-on-the-ground-filter-altitude/?do=findComment&comment=178763)
 - [On the ground filter fixed altitude?](https://forums.vatsim.net/topic/31389-on-the-ground-filter-fixed-altitude/?do=findComment&comment=178762)
-- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=178761)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
