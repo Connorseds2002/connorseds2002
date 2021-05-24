@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=178782)
 - [Swift Crashing](https://forums.vatsim.net/topic/31386-swift-crashing/?do=findComment&comment=178781)
 - [On the ground filter fixed altitude?](https://forums.vatsim.net/topic/31389-on-the-ground-filter-fixed-altitude/?do=findComment&comment=178780)
 - [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=178779)
@@ -62,7 +63,6 @@
 - [Text cut in half on flight strip](https://forums.vatsim.net/topic/31392-text-cut-in-half-on-flight-strip/?do=findComment&comment=178774)
 - [Flying the Oldies](https://forums.vatsim.net/topic/31390-flying-the-oldies/?do=findComment&comment=178773)
 - [Text cut in half on flight strip](https://forums.vatsim.net/topic/31392-text-cut-in-half-on-flight-strip/?do=findComment&comment=178772)
-- [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=178771)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
