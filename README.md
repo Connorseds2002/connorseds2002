@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178799)
 - [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178798)
 - [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178797)
 - [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178796)
@@ -62,7 +63,6 @@
 - [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=178791)
 - [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=178790)
 - [Flying the Oldies](https://forums.vatsim.net/topic/31390-flying-the-oldies/?do=findComment&comment=178789)
-- [VATSpy Launches But Doesn't Open](https://forums.vatsim.net/topic/31378-vatspy-launches-but-doesnt-open/?do=findComment&comment=178788)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
