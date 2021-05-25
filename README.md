@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178798)
+- [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178797)
+- [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178796)
+- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=178795)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=178794)
 - [Flying the Oldies](https://forums.vatsim.net/topic/31390-flying-the-oldies/?do=findComment&comment=178792)
 - [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=178791)
 - [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=178790)
 - [Flying the Oldies](https://forums.vatsim.net/topic/31390-flying-the-oldies/?do=findComment&comment=178789)
 - [VATSpy Launches But Doesn't Open](https://forums.vatsim.net/topic/31378-vatspy-launches-but-doesnt-open/?do=findComment&comment=178788)
-- [VATSpy Launches But Doesn't Open](https://forums.vatsim.net/topic/31378-vatspy-launches-but-doesnt-open/?do=findComment&comment=178787)
-- [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178786)
-- [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=178785)
-- [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178784)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
