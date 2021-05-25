@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=178806)
+- [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=178805)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=178804)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=178803)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=178802)
 - [Friday Night Live: 28-05-2021: Mumbai (VABB) to Mangalore (VOML)](https://forums.vatsim.net/topic/31394-friday-night-live-28-05-2021-mumbai-vabb-to-mangalore-voml/?do=findComment&comment=178801)
@@ -60,9 +63,6 @@
 - [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178799)
 - [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178798)
 - [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178797)
-- [no muching flying hours](https://forums.vatsim.net/topic/31393-no-muching-flying-hours/?do=findComment&comment=178796)
-- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=178795)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=178794)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
