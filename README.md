@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178817)
+- [[EVENT] Destination Kuwait - Mumbai [VABB] to Kuwait [OKBK] - June 5, 2021](https://forums.vatsim.net/topic/31398-event-destination-kuwait-mumbai-vabb-to-kuwait-okbk-june-5-2021/?do=findComment&comment=178816)
 - [world map..](https://forums.vatsim.net/topic/31396-world-map/?do=findComment&comment=178815)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178814)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178813)
@@ -61,8 +63,6 @@
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=178810)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=178809)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=178808)
-- [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=178807)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=178806)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
