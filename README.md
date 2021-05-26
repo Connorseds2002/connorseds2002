@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178844)
 - [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178843)
 - [Fictional/defunct airlines callsigns](https://forums.vatsim.net/topic/31400-fictionaldefunct-airlines-callsigns/?do=findComment&comment=178842)
 - [Fictional/defunct airlines callsigns](https://forums.vatsim.net/topic/31400-fictionaldefunct-airlines-callsigns/?do=findComment&comment=178841)
@@ -62,7 +63,6 @@
 - [[New SSO] VATSIM Connect Update](https://forums.vatsim.net/topic/26902-new-sso-vatsim-connect-update/?do=findComment&comment=178837)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=178835)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=178834)
-- [No audio](https://forums.vatsim.net/topic/31399-no-audio/?do=findComment&comment=178833)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
