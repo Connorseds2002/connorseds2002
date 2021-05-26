@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [world map..](https://forums.vatsim.net/topic/31396-world-map/?do=findComment&comment=178826)
+- [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=178825)
+- [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178824)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178823)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178822)
 - [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=178821)
@@ -60,9 +63,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=178818)
 - [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178817)
 - [[EVENT] Destination Kuwait - Mumbai [VABB] to Kuwait [OKBK] - June 5, 2021](https://forums.vatsim.net/topic/31398-event-destination-kuwait-mumbai-vabb-to-kuwait-okbk-june-5-2021/?do=findComment&comment=178816)
-- [world map..](https://forums.vatsim.net/topic/31396-world-map/?do=findComment&comment=178815)
-- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178814)
-- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178813)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
