@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178829)
+- [Globe Cargo Virtual Airlines is proud to present our new website](https://forums.vatsim.net/topic/30646-globe-cargo-virtual-airlines-is-proud-to-present-our-new-website/?do=findComment&comment=178828)
 - [world map..](https://forums.vatsim.net/topic/31396-world-map/?do=findComment&comment=178826)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=178825)
 - [Future request: secondary PPT](https://forums.vatsim.net/topic/31341-future-request-secondary-ppt/?do=findComment&comment=178824)
@@ -61,8 +63,6 @@
 - [vatsim.net DNSSEC setup incomplete](https://forums.vatsim.net/topic/30276-vatsimnet-dnssec-setup-incomplete/?do=findComment&comment=178821)
 - [world map..](https://forums.vatsim.net/topic/31396-world-map/?do=findComment&comment=178820)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=178818)
-- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178817)
-- [[EVENT] Destination Kuwait - Mumbai [VABB] to Kuwait [OKBK] - June 5, 2021](https://forums.vatsim.net/topic/31398-event-destination-kuwait-mumbai-vabb-to-kuwait-okbk-june-5-2021/?do=findComment&comment=178816)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
