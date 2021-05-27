@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178860)
+- [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178859)
 - [vPilot TX and RX in grey. cant send or receive audio](https://forums.vatsim.net/topic/31403-%C2%A0vpilot-tx-and-rx-in-grey-cant-send-or-receive-audio/?do=findComment&comment=178858)
 - [vPilot TX and RX in grey. cant send or receive audio](https://forums.vatsim.net/topic/31403-%C2%A0vpilot-tx-and-rx-in-grey-cant-send-or-receive-audio/?do=findComment&comment=178857)
 - [vPilot TX and RX in grey. cant send or receive audio](https://forums.vatsim.net/topic/31403-%C2%A0vpilot-tx-and-rx-in-grey-cant-send-or-receive-audio/?do=findComment&comment=178856)
@@ -61,8 +63,6 @@
 - [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178853)
 - [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178852)
 - [Having trouble figuring out what to do next.](https://forums.vatsim.net/topic/31402-having-trouble-figuring-out-what-to-do-next/?do=findComment&comment=178851)
-- [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178850)
-- [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178849)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
