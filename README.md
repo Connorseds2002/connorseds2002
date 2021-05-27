@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Having trouble figuring out what to do next.](https://forums.vatsim.net/topic/31402-having-trouble-figuring-out-what-to-do-next/?do=findComment&comment=178869)
+- [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178868)
 - [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178866)
 - [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178865)
 - [vattastic](https://forums.vatsim.net/topic/31405-vattastic/?do=findComment&comment=178864)
@@ -61,8 +63,6 @@
 - [Fictional/defunct airlines callsigns](https://forums.vatsim.net/topic/31400-fictionaldefunct-airlines-callsigns/?do=findComment&comment=178861)
 - [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178860)
 - [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178859)
-- [vPilot TX and RX in grey. cant send or receive audio](https://forums.vatsim.net/topic/31403-%C2%A0vpilot-tx-and-rx-in-grey-cant-send-or-receive-audio/?do=findComment&comment=178858)
-- [vPilot TX and RX in grey. cant send or receive audio](https://forums.vatsim.net/topic/31403-%C2%A0vpilot-tx-and-rx-in-grey-cant-send-or-receive-audio/?do=findComment&comment=178857)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
