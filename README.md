@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCIND1] Director India vACC Appointed](https://forums.vatsim.net/topic/31397-accind1-director-india-vacc-appointed/?do=findComment&comment=178890)
+- [Invalid CID/Password after 24hrs](https://forums.vatsim.net/topic/31409-invalid-cidpassword-after-24hrs/?do=findComment&comment=178889)
+- [Errors (in MyVatsim, CommunityVatsim, vPilot) after completing new member orientation exam](https://forums.vatsim.net/topic/31201-errors-in-myvatsim-communityvatsim-vpilot-after-completing-new-member-orientation-exam/?do=findComment&comment=178888)
+- [Invalid CID/Password after 24hrs](https://forums.vatsim.net/topic/31409-invalid-cidpassword-after-24hrs/?do=findComment&comment=178886)
+- [Ingame-Panel for FS2020: VR support for vpilot  or Vatspy](https://forums.vatsim.net/topic/31407-ingame-panel-for-fs2020-vr-support-for-vpilot-or-vatspy/?do=findComment&comment=178883)
+- [Ingame-Panel for FS2020: VR support for Vatspy](https://forums.vatsim.net/topic/31408-ingame-panel-for-fs2020-vr-support-for-vatspy/?do=findComment&comment=178881)
 - [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178880)
 - [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178879)
 - [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178878)
 - [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178877)
-- [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178876)
-- [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178875)
-- [Ingame-Panel for FS2020: VR support for vpilot  or Vatspy](https://forums.vatsim.net/topic/31407-ingame-panel-for-fs2020-vr-support-for-vpilot-or-vatspy/?do=findComment&comment=178874)
-- [Ingame-Panel for FS2020: VR support for vpilot  or Vatspy](https://forums.vatsim.net/topic/31407-ingame-panel-for-fs2020-vr-support-for-vpilot-or-vatspy/?do=findComment&comment=178873)
-- [Errors (in MyVatsim, CommunityVatsim, vPilot) after completing new member orientation exam](https://forums.vatsim.net/topic/31201-errors-in-myvatsim-communityvatsim-vpilot-after-completing-new-member-orientation-exam/?do=findComment&comment=178872)
-- [No audio](https://forums.vatsim.net/topic/31399-no-audio/?do=findComment&comment=178871)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
