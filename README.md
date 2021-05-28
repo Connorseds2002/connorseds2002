@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can someone tell me why i cant receive my password reset...its very difficult to get in touch with admins](https://forums.vatsim.net/topic/31412-can-someone-tell-me-why-i-cant-receive-my-password-resetits-very-difficult-to-get-in-touch-with-admins/?do=findComment&comment=178908)
 - [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178907)
 - [Not able to select a/c with left click of mouse](https://forums.vatsim.net/topic/31413-not-able-to-select-ac-with-left-click-of-mouse/?do=findComment&comment=178906)
 - [vPilot TX and RX in grey. cant send or receive audio](https://forums.vatsim.net/topic/31403-%C2%A0vpilot-tx-and-rx-in-grey-cant-send-or-receive-audio/?do=findComment&comment=178905)
@@ -62,7 +63,6 @@
 - [Não consigo avançar no login](https://forums.vatsim.net/topic/31411-n%C3%A3o-consigo-avan%C3%A7ar-no-login/?do=findComment&comment=178901)
 - [No audio](https://forums.vatsim.net/topic/31399-no-audio/?do=findComment&comment=178900)
 - [Não consigo avançar no login](https://forums.vatsim.net/topic/31411-n%C3%A3o-consigo-avan%C3%A7ar-no-login/?do=findComment&comment=178899)
-- [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178898)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
