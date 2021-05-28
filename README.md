@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Help Required - Are you getting disconnected from voice?](https://forums.vatsim.net/topic/24808-help-required-are-you-getting-disconnected-from-voice/?do=findComment&comment=178921)
+- [Can someone tell me why i cant receive my password reset...its very difficult to get in touch with admins](https://forums.vatsim.net/topic/31412-can-someone-tell-me-why-i-cant-receive-my-password-resetits-very-difficult-to-get-in-touch-with-admins/?do=findComment&comment=178920)
+- [Repositioning](https://forums.vatsim.net/topic/31414-repositioning/?do=findComment&comment=178919)
+- [Can someone tell me why i cant receive my password reset...its very difficult to get in touch with admins](https://forums.vatsim.net/topic/31412-can-someone-tell-me-why-i-cant-receive-my-password-resetits-very-difficult-to-get-in-touch-with-admins/?do=findComment&comment=178918)
 - [Hello, just saying hello, should fly soon around North Spain + South of France](https://forums.vatsim.net/topic/31404-hello-just-saying-hello-should-fly-soon-around-north-spain-south-of-france/?do=findComment&comment=178916)
 - [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178915)
 - [Headset For Vatsi.](https://forums.vatsim.net/topic/31415-headset-for-vatsi/?do=findComment&comment=178914)
 - [Not able to select a/c with left click of mouse](https://forums.vatsim.net/topic/31413-not-able-to-select-ac-with-left-click-of-mouse/?do=findComment&comment=178913)
 - [vPilot TX and RX in grey. cant send or receive audio](https://forums.vatsim.net/topic/31403-%C2%A0vpilot-tx-and-rx-in-grey-cant-send-or-receive-audio/?do=findComment&comment=178912)
 - [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178911)
-- [Headset For Vatsi.](https://forums.vatsim.net/topic/31415-headset-for-vatsi/?do=findComment&comment=178910)
-- [Repositioning](https://forums.vatsim.net/topic/31414-repositioning/?do=findComment&comment=178909)
-- [Can someone tell me why i cant receive my password reset...its very difficult to get in touch with admins](https://forums.vatsim.net/topic/31412-can-someone-tell-me-why-i-cant-receive-my-password-resetits-very-difficult-to-get-in-touch-with-admins/?do=findComment&comment=178908)
-- [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178907)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
