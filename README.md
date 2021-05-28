@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Not able to select a/c with left click of mouse](https://forums.vatsim.net/topic/31413-not-able-to-select-ac-with-left-click-of-mouse/?do=findComment&comment=178913)
+- [vPilot TX and RX in grey. cant send or receive audio](https://forums.vatsim.net/topic/31403-%C2%A0vpilot-tx-and-rx-in-grey-cant-send-or-receive-audio/?do=findComment&comment=178912)
 - [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178911)
 - [Headset For Vatsi.](https://forums.vatsim.net/topic/31415-headset-for-vatsi/?do=findComment&comment=178910)
 - [Repositioning](https://forums.vatsim.net/topic/31414-repositioning/?do=findComment&comment=178909)
@@ -61,8 +63,6 @@
 - [Not able to select a/c with left click of mouse](https://forums.vatsim.net/topic/31413-not-able-to-select-ac-with-left-click-of-mouse/?do=findComment&comment=178906)
 - [vPilot TX and RX in grey. cant send or receive audio](https://forums.vatsim.net/topic/31403-%C2%A0vpilot-tx-and-rx-in-grey-cant-send-or-receive-audio/?do=findComment&comment=178905)
 - [Can someone tell me why i cant receive my password reset...its very difficult to get in touch with admins](https://forums.vatsim.net/topic/31412-can-someone-tell-me-why-i-cant-receive-my-password-resetits-very-difficult-to-get-in-touch-with-admins/?do=findComment&comment=178904)
-- [vATIS v2?](https://forums.vatsim.net/topic/31401-vatis-v2/?do=findComment&comment=178903)
-- [No audio](https://forums.vatsim.net/topic/31399-no-audio/?do=findComment&comment=178902)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
