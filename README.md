@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to reset password](https://forums.vatsim.net/topic/31417-unable-to-reset-password/?do=findComment&comment=178927)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=178926)
 - [error en el documento XML(0,0).](https://forums.vatsim.net/topic/31416-error-en-el-documento-xml00/?do=findComment&comment=178925)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=178924)
@@ -62,7 +63,6 @@
 - [Can someone tell me why i cant receive my password reset...its very difficult to get in touch with admins](https://forums.vatsim.net/topic/31412-can-someone-tell-me-why-i-cant-receive-my-password-resetits-very-difficult-to-get-in-touch-with-admins/?do=findComment&comment=178920)
 - [Repositioning](https://forums.vatsim.net/topic/31414-repositioning/?do=findComment&comment=178919)
 - [Can someone tell me why i cant receive my password reset...its very difficult to get in touch with admins](https://forums.vatsim.net/topic/31412-can-someone-tell-me-why-i-cant-receive-my-password-resetits-very-difficult-to-get-in-touch-with-admins/?do=findComment&comment=178918)
-- [Hello, just saying hello, should fly soon around North Spain + South of France](https://forums.vatsim.net/topic/31404-hello-just-saying-hello-should-fly-soon-around-north-spain-south-of-france/?do=findComment&comment=178916)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
