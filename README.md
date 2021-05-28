@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Hello, just saying hello, should fly soon around North Spain + South of France](https://forums.vatsim.net/topic/31404-hello-just-saying-hello-should-fly-soon-around-north-spain-south-of-france/?do=findComment&comment=178916)
 - [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178915)
 - [Headset For Vatsi.](https://forums.vatsim.net/topic/31415-headset-for-vatsi/?do=findComment&comment=178914)
 - [Not able to select a/c with left click of mouse](https://forums.vatsim.net/topic/31413-not-able-to-select-ac-with-left-click-of-mouse/?do=findComment&comment=178913)
@@ -62,7 +63,6 @@
 - [Repositioning](https://forums.vatsim.net/topic/31414-repositioning/?do=findComment&comment=178909)
 - [Can someone tell me why i cant receive my password reset...its very difficult to get in touch with admins](https://forums.vatsim.net/topic/31412-can-someone-tell-me-why-i-cant-receive-my-password-resetits-very-difficult-to-get-in-touch-with-admins/?do=findComment&comment=178908)
 - [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178907)
-- [Not able to select a/c with left click of mouse](https://forums.vatsim.net/topic/31413-not-able-to-select-ac-with-left-click-of-mouse/?do=findComment&comment=178906)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
