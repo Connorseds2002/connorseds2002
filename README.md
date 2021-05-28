@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=178931)
+- [My ATC hours did not logged in Stats Vatsim](https://forums.vatsim.net/topic/31418-my-atc-hours-did-not-logged-in-stats-vatsim/?do=findComment&comment=178930)
 - [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=178929)
 - [My ATC hours did not logged in Stats Vatsim](https://forums.vatsim.net/topic/31418-my-atc-hours-did-not-logged-in-stats-vatsim/?do=findComment&comment=178928)
 - [Unable to reset password](https://forums.vatsim.net/topic/31417-unable-to-reset-password/?do=findComment&comment=178927)
@@ -61,8 +63,6 @@
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=178924)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=178923)
 - [Hello, just saying hello, should fly soon around North Spain + South of France](https://forums.vatsim.net/topic/31404-hello-just-saying-hello-should-fly-soon-around-north-spain-south-of-france/?do=findComment&comment=178922)
-- [Help Required - Are you getting disconnected from voice?](https://forums.vatsim.net/topic/24808-help-required-are-you-getting-disconnected-from-voice/?do=findComment&comment=178921)
-- [Can someone tell me why i cant receive my password reset...its very difficult to get in touch with admins](https://forums.vatsim.net/topic/31412-can-someone-tell-me-why-i-cant-receive-my-password-resetits-very-difficult-to-get-in-touch-with-admins/?do=findComment&comment=178920)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
