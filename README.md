@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178954)
+- [Monitoring VATSIM audio without running a flight simulator](https://forums.vatsim.net/topic/31422-monitoring-vatsim-audio-without-running-a-flight-simulator/?do=findComment&comment=178953)
+- [Monitoring VATSIM audio without running a flight simulator](https://forums.vatsim.net/topic/31422-monitoring-vatsim-audio-without-running-a-flight-simulator/?do=findComment&comment=178952)
 - [Monitoring VATSIM audio without running a flight simulator](https://forums.vatsim.net/topic/31422-monitoring-vatsim-audio-without-running-a-flight-simulator/?do=findComment&comment=178951)
 - [Monitoring VATSIM audio without running a flight simulator](https://forums.vatsim.net/topic/31422-monitoring-vatsim-audio-without-running-a-flight-simulator/?do=findComment&comment=178950)
 - [Unable to reset password](https://forums.vatsim.net/topic/31417-unable-to-reset-password/?do=findComment&comment=178948)
@@ -60,9 +63,6 @@
 - [[June 12nd, 12:00z-19:00z] Frankfurt - Tel Aviv Visit](https://forums.vatsim.net/topic/31421-june-12nd-1200z-1900z-frankfurt-tel-aviv-visit/?do=findComment&comment=178942)
 - [[Dev] Sid/Star/Clearance](https://forums.vatsim.net/topic/31420-dev-sidstarclearance/?do=findComment&comment=178941)
 - [[Dev] Sid/Star/Clearance](https://forums.vatsim.net/topic/31420-dev-sidstarclearance/?do=findComment&comment=178938)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=178937)
-- [Hello, just saying hello, should fly soon around North Spain + South of France](https://forums.vatsim.net/topic/31404-hello-just-saying-hello-should-fly-soon-around-north-spain-south-of-france/?do=findComment&comment=178936)
-- [VNKT_TWR | S2 CPT](https://forums.vatsim.net/topic/31419-vnkt_twr-s2-cpt/?do=findComment&comment=178935)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
