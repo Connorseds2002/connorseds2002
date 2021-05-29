@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Hello, just saying hello, should fly soon around North Spain + South of France](https://forums.vatsim.net/topic/31404-hello-just-saying-hello-should-fly-soon-around-north-spain-south-of-france/?do=findComment&comment=178936)
+- [VNKT_TWR | S2 CPT](https://forums.vatsim.net/topic/31419-vnkt_twr-s2-cpt/?do=findComment&comment=178935)
 - [Headset For Vatsi.](https://forums.vatsim.net/topic/31415-headset-for-vatsi/?do=findComment&comment=178934)
 - [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=178933)
 - [Headset For Vatsi.](https://forums.vatsim.net/topic/31415-headset-for-vatsi/?do=findComment&comment=178932)
@@ -61,8 +63,6 @@
 - [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=178929)
 - [My ATC hours did not logged in Stats Vatsim](https://forums.vatsim.net/topic/31418-my-atc-hours-did-not-logged-in-stats-vatsim/?do=findComment&comment=178928)
 - [Unable to reset password](https://forums.vatsim.net/topic/31417-unable-to-reset-password/?do=findComment&comment=178927)
-- [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=178926)
-- [error en el documento XML(0,0).](https://forums.vatsim.net/topic/31416-error-en-el-documento-xml00/?do=findComment&comment=178925)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
