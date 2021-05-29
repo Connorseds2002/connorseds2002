@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Headset For Vatsi.](https://forums.vatsim.net/topic/31415-headset-for-vatsi/?do=findComment&comment=178934)
 - [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=178933)
 - [Headset For Vatsi.](https://forums.vatsim.net/topic/31415-headset-for-vatsi/?do=findComment&comment=178932)
 - [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=178931)
@@ -62,7 +63,6 @@
 - [Unable to reset password](https://forums.vatsim.net/topic/31417-unable-to-reset-password/?do=findComment&comment=178927)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=178926)
 - [error en el documento XML(0,0).](https://forums.vatsim.net/topic/31416-error-en-el-documento-xml00/?do=findComment&comment=178925)
-- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=178924)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
