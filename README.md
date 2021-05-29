@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Dev] Sid/Star/Clearance](https://forums.vatsim.net/topic/31420-dev-sidstarclearance/?do=findComment&comment=178941)
 - [[Dev] Sid/Star/Clearance](https://forums.vatsim.net/topic/31420-dev-sidstarclearance/?do=findComment&comment=178938)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=178937)
 - [Hello, just saying hello, should fly soon around North Spain + South of France](https://forums.vatsim.net/topic/31404-hello-just-saying-hello-should-fly-soon-around-north-spain-south-of-france/?do=findComment&comment=178936)
@@ -62,7 +63,6 @@
 - [Headset For Vatsi.](https://forums.vatsim.net/topic/31415-headset-for-vatsi/?do=findComment&comment=178932)
 - [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=178931)
 - [My ATC hours did not logged in Stats Vatsim](https://forums.vatsim.net/topic/31418-my-atc-hours-did-not-logged-in-stats-vatsim/?do=findComment&comment=178930)
-- [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=178929)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
