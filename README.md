@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Missing taxiways and stands](https://forums.vatsim.net/topic/31426-missing-taxiways-and-stands/?do=findComment&comment=178969)
+- [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=178968)
+- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178967)
+- [Missing taxiways and stands](https://forums.vatsim.net/topic/31426-missing-taxiways-and-stands/?do=findComment&comment=178966)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178965)
 - [UniATIS Configuration](https://forums.vatsim.net/topic/31425-uniatis-configuration/?do=findComment&comment=178964)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178963)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178962)
 - [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178961)
 - [Vacancy - VATSSA Pilot Training Manager](https://forums.vatsim.net/topic/31424-vacancy-vatssa-pilot-training-manager/?do=findComment&comment=178960)
-- [Sub-Sahara Africa Division](https://forums.vatsim.net/topic/30652-sub-sahara-africa-division/?do=findComment&comment=178959)
-- [VATSSA Solo Validations](https://forums.vatsim.net/topic/30666-vatssa-solo-validations/?do=findComment&comment=178958)
-- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=178957)
-- [Twitch opportunities](https://forums.vatsim.net/topic/31423-twitch-opportunities/?do=findComment&comment=178956)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
