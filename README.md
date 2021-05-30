@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [UniATIS Configuration](https://forums.vatsim.net/topic/31425-uniatis-configuration/?do=findComment&comment=178964)
+- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178963)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178962)
 - [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178961)
 - [Vacancy - VATSSA Pilot Training Manager](https://forums.vatsim.net/topic/31424-vacancy-vatssa-pilot-training-manager/?do=findComment&comment=178960)
@@ -61,8 +63,6 @@
 - [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=178957)
 - [Twitch opportunities](https://forums.vatsim.net/topic/31423-twitch-opportunities/?do=findComment&comment=178956)
 - [Twitch opportunities](https://forums.vatsim.net/topic/31423-twitch-opportunities/?do=findComment&comment=178955)
-- [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178954)
-- [Monitoring VATSIM audio without running a flight simulator](https://forums.vatsim.net/topic/31422-monitoring-vatsim-audio-without-running-a-flight-simulator/?do=findComment&comment=178953)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
