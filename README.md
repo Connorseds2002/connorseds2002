@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vacancy - VATSSA Pilot Training Manager](https://forums.vatsim.net/topic/31424-vacancy-vatssa-pilot-training-manager/?do=findComment&comment=178960)
+- [Sub-Sahara Africa Division](https://forums.vatsim.net/topic/30652-sub-sahara-africa-division/?do=findComment&comment=178959)
+- [VATSSA Solo Validations](https://forums.vatsim.net/topic/30666-vatssa-solo-validations/?do=findComment&comment=178958)
+- [WAF vACC solo validations](https://forums.vatsim.net/topic/31014-waf-vacc-solo-validations/?do=findComment&comment=178957)
 - [Twitch opportunities](https://forums.vatsim.net/topic/31423-twitch-opportunities/?do=findComment&comment=178956)
 - [Twitch opportunities](https://forums.vatsim.net/topic/31423-twitch-opportunities/?do=findComment&comment=178955)
 - [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178954)
 - [Monitoring VATSIM audio without running a flight simulator](https://forums.vatsim.net/topic/31422-monitoring-vatsim-audio-without-running-a-flight-simulator/?do=findComment&comment=178953)
 - [Monitoring VATSIM audio without running a flight simulator](https://forums.vatsim.net/topic/31422-monitoring-vatsim-audio-without-running-a-flight-simulator/?do=findComment&comment=178952)
 - [Monitoring VATSIM audio without running a flight simulator](https://forums.vatsim.net/topic/31422-monitoring-vatsim-audio-without-running-a-flight-simulator/?do=findComment&comment=178951)
-- [Monitoring VATSIM audio without running a flight simulator](https://forums.vatsim.net/topic/31422-monitoring-vatsim-audio-without-running-a-flight-simulator/?do=findComment&comment=178950)
-- [Unable to reset password](https://forums.vatsim.net/topic/31417-unable-to-reset-password/?do=findComment&comment=178948)
-- [Hello, just saying hello, should fly soon around North Spain + South of France](https://forums.vatsim.net/topic/31404-hello-just-saying-hello-should-fly-soon-around-north-spain-south-of-france/?do=findComment&comment=178943)
-- [[June 12nd, 12:00z-19:00z] Frankfurt - Tel Aviv Visit](https://forums.vatsim.net/topic/31421-june-12nd-1200z-1900z-frankfurt-tel-aviv-visit/?do=findComment&comment=178942)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
