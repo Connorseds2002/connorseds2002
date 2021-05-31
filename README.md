@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=178986)
+- [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178985)
+- [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=178984)
+- [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=178983)
 - [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=178982)
 - [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=178981)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178980)
 - [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=178979)
 - [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=178978)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178977)
-- [Sub-Sahara Africa Division](https://forums.vatsim.net/topic/30652-sub-sahara-africa-division/?do=findComment&comment=178975)
-- [12,5 kHz frequencies](https://forums.vatsim.net/topic/27300-125-khz-frequencies/?do=findComment&comment=178974)
-- [error en el documento XML(0,0).](https://forums.vatsim.net/topic/31416-error-en-el-documento-xml00/?do=findComment&comment=178973)
-- [Missing taxiways and stands](https://forums.vatsim.net/topic/31426-missing-taxiways-and-stands/?do=findComment&comment=178972)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
