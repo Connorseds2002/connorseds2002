@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vancouver FIR is looking for a Webmaster](https://forums.vatsim.net/topic/31429-vancouver-fir-is-looking-for-a-webmaster/?do=findComment&comment=178990)
+- [POSITION VACANCY - CURAÇAO FIR TRAINING ADMINISTRATOR](https://forums.vatsim.net/topic/31428-position-vacancy-cura%C3%A7ao-fir-training-administrator/?do=findComment&comment=178989)
+- [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=178988)
+- [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=178987)
 - [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=178986)
 - [GA aircraft - startup before clearance](https://forums.vatsim.net/topic/31406-ga-aircraft-startup-before-clearance/?do=findComment&comment=178985)
 - [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=178984)
 - [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=178983)
 - [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=178982)
 - [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=178981)
-- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178980)
-- [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=178979)
-- [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=178978)
-- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178977)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
