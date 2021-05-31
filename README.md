@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=178978)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178977)
 - [Sub-Sahara Africa Division](https://forums.vatsim.net/topic/30652-sub-sahara-africa-division/?do=findComment&comment=178975)
 - [12,5 kHz frequencies](https://forums.vatsim.net/topic/27300-125-khz-frequencies/?do=findComment&comment=178974)
@@ -62,7 +63,6 @@
 - [Unable to join the Community Discord](https://forums.vatsim.net/topic/29690-unable-to-join-the-community-discord/?do=findComment&comment=178970)
 - [Missing taxiways and stands](https://forums.vatsim.net/topic/31426-missing-taxiways-and-stands/?do=findComment&comment=178969)
 - [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=178968)
-- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178967)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
