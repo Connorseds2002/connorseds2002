@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179003)
+- [[16-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-16-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=179002)
+- [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179001)
+- [Import PFPX flight plan to vPilot no longer works?](https://forums.vatsim.net/topic/31433-import-pfpx-flight-plan-to-vpilot-no-longer-works/?do=findComment&comment=179000)
 - [UniATIS Configuration](https://forums.vatsim.net/topic/31425-uniatis-configuration/?do=findComment&comment=178999)
 - [Help Required - Are you getting disconnected from voice?](https://forums.vatsim.net/topic/24808-help-required-are-you-getting-disconnected-from-voice/?do=findComment&comment=178998)
 - [Clouds Crashing VATSIM](https://forums.vatsim.net/topic/31432-clouds-crashing-vatsim/?do=findComment&comment=178997)
 - [Canadian Xpress June 2021 Monthly Challenge: Scenic Approaches VIII - Seychelles](https://forums.vatsim.net/topic/31431-canadian-xpress-june-2021-monthly-challenge-scenic-approaches-viii-seychelles/?do=findComment&comment=178996)
 - [UniATIS Configuration](https://forums.vatsim.net/topic/31425-uniatis-configuration/?do=findComment&comment=178995)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178994)
-- [Can I change my name on vatsim?](https://forums.vatsim.net/topic/31430-can-i-change-my-name-on-vatsim/?do=findComment&comment=178993)
-- [Can I change my name on vatsim?](https://forums.vatsim.net/topic/31430-can-i-change-my-name-on-vatsim/?do=findComment&comment=178992)
-- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178991)
-- [Vancouver FIR is looking for a Webmaster](https://forums.vatsim.net/topic/31429-vancouver-fir-is-looking-for-a-webmaster/?do=findComment&comment=178990)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
