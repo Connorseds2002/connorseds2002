@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Help Required - Are you getting disconnected from voice?](https://forums.vatsim.net/topic/24808-help-required-are-you-getting-disconnected-from-voice/?do=findComment&comment=178998)
 - [Clouds Crashing VATSIM](https://forums.vatsim.net/topic/31432-clouds-crashing-vatsim/?do=findComment&comment=178997)
 - [Canadian Xpress June 2021 Monthly Challenge: Scenic Approaches VIII - Seychelles](https://forums.vatsim.net/topic/31431-canadian-xpress-june-2021-monthly-challenge-scenic-approaches-viii-seychelles/?do=findComment&comment=178996)
 - [UniATIS Configuration](https://forums.vatsim.net/topic/31425-uniatis-configuration/?do=findComment&comment=178995)
@@ -62,7 +63,6 @@
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=178991)
 - [Vancouver FIR is looking for a Webmaster](https://forums.vatsim.net/topic/31429-vancouver-fir-is-looking-for-a-webmaster/?do=findComment&comment=178990)
 - [POSITION VACANCY - CURAÇAO FIR TRAINING ADMINISTRATOR](https://forums.vatsim.net/topic/31428-position-vacancy-cura%C3%A7ao-fir-training-administrator/?do=findComment&comment=178989)
-- [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=178988)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
