@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179021)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179020)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179019)
 - [Appointment of Divisional Membership Director](https://forums.vatsim.net/topic/31436-appointment-of-divisional-membership-director/?do=findComment&comment=179005)
 - [Import PFPX flight plan to vPilot no longer works?](https://forums.vatsim.net/topic/31433-import-pfpx-flight-plan-to-vpilot-no-longer-works/?do=findComment&comment=179004)
 - [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179003)
@@ -60,9 +63,6 @@
 - [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179001)
 - [Import PFPX flight plan to vPilot no longer works?](https://forums.vatsim.net/topic/31433-import-pfpx-flight-plan-to-vpilot-no-longer-works/?do=findComment&comment=179000)
 - [UniATIS Configuration](https://forums.vatsim.net/topic/31425-uniatis-configuration/?do=findComment&comment=178999)
-- [Help Required - Are you getting disconnected from voice?](https://forums.vatsim.net/topic/24808-help-required-are-you-getting-disconnected-from-voice/?do=findComment&comment=178998)
-- [Clouds Crashing VATSIM](https://forums.vatsim.net/topic/31432-clouds-crashing-vatsim/?do=findComment&comment=178997)
-- [Canadian Xpress June 2021 Monthly Challenge: Scenic Approaches VIII - Seychelles](https://forums.vatsim.net/topic/31431-canadian-xpress-june-2021-monthly-challenge-scenic-approaches-viii-seychelles/?do=findComment&comment=178996)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
