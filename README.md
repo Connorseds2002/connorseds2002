@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179024)
+- [LH-Virtual.com awaits you!](https://forums.vatsim.net/topic/31438-lh-virtualcom-awaits-you/?do=findComment&comment=179023)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179022)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179021)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179020)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179019)
@@ -60,9 +63,6 @@
 - [Import PFPX flight plan to vPilot no longer works?](https://forums.vatsim.net/topic/31433-import-pfpx-flight-plan-to-vpilot-no-longer-works/?do=findComment&comment=179004)
 - [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179003)
 - [[16-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-16-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=179002)
-- [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179001)
-- [Import PFPX flight plan to vPilot no longer works?](https://forums.vatsim.net/topic/31433-import-pfpx-flight-plan-to-vpilot-no-longer-works/?do=findComment&comment=179000)
-- [UniATIS Configuration](https://forums.vatsim.net/topic/31425-uniatis-configuration/?do=findComment&comment=178999)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
