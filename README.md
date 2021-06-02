@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179040)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179039)
 - [Pilot ratings in msfs](https://forums.vatsim.net/topic/31439-pilot-ratings-in-msfs/?do=findComment&comment=179038)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179036)
 - [Import PFPX flight plan to vPilot no longer works?](https://forums.vatsim.net/topic/31433-import-pfpx-flight-plan-to-vpilot-no-longer-works/?do=findComment&comment=179035)
@@ -61,8 +63,6 @@
 - [Pilot ratings in msfs](https://forums.vatsim.net/topic/31439-pilot-ratings-in-msfs/?do=findComment&comment=179032)
 - [Pilot ratings in msfs](https://forums.vatsim.net/topic/31439-pilot-ratings-in-msfs/?do=findComment&comment=179031)
 - [Pilot ratings in msfs](https://forums.vatsim.net/topic/31439-pilot-ratings-in-msfs/?do=findComment&comment=179030)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179029)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179028)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
