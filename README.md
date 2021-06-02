@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179044)
+- [VatSpy Stuck On Loading and Slow Updates](https://forums.vatsim.net/topic/31442-vatspy-stuck-on-loading-and-slow-updates/?do=findComment&comment=179043)
+- [AFV will not update passed v1.7.2 and random disconnects](https://forums.vatsim.net/topic/31441-afv-will-not-update-passed-v172-and-random-disconnects/?do=findComment&comment=179042)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179041)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179040)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179039)
 - [Pilot ratings in msfs](https://forums.vatsim.net/topic/31439-pilot-ratings-in-msfs/?do=findComment&comment=179038)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179036)
 - [Import PFPX flight plan to vPilot no longer works?](https://forums.vatsim.net/topic/31433-import-pfpx-flight-plan-to-vpilot-no-longer-works/?do=findComment&comment=179035)
 - [Pilot ratings in msfs](https://forums.vatsim.net/topic/31439-pilot-ratings-in-msfs/?do=findComment&comment=179034)
-- [Import PFPX flight plan to vPilot no longer works?](https://forums.vatsim.net/topic/31433-import-pfpx-flight-plan-to-vpilot-no-longer-works/?do=findComment&comment=179033)
-- [Pilot ratings in msfs](https://forums.vatsim.net/topic/31439-pilot-ratings-in-msfs/?do=findComment&comment=179032)
-- [Pilot ratings in msfs](https://forums.vatsim.net/topic/31439-pilot-ratings-in-msfs/?do=findComment&comment=179031)
-- [Pilot ratings in msfs](https://forums.vatsim.net/topic/31439-pilot-ratings-in-msfs/?do=findComment&comment=179030)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
