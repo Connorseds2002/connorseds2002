@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FSINN](https://forums.vatsim.net/topic/31445-fsinn/?do=findComment&comment=179055)
+- [Appointment of VATKWIQ Marketing Assistant](https://forums.vatsim.net/topic/31444-appointment-of-vatkwiq-marketing-assistant/?do=findComment&comment=179054)
+- [Appointment of VATKWIQ Marketing Assistant](https://forums.vatsim.net/topic/31444-appointment-of-vatkwiq-marketing-assistant/?do=findComment&comment=179053)
 - [Appointment of VATKWIQ Marketing Assistant](https://forums.vatsim.net/topic/31444-appointment-of-vatkwiq-marketing-assistant/?do=findComment&comment=179052)
 - [Show Louisville Some Love](https://forums.vatsim.net/topic/26623-show-louisville-some-love/?do=findComment&comment=179051)
 - [Clouds Crashing VATSIM](https://forums.vatsim.net/topic/31432-clouds-crashing-vatsim/?do=findComment&comment=179050)
@@ -60,9 +63,6 @@
 - [Clouds Crashing VATSIM](https://forums.vatsim.net/topic/31432-clouds-crashing-vatsim/?do=findComment&comment=179048)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179047)
 - [CODE / Duplicate Beacon errors in vERAM](https://forums.vatsim.net/topic/31281-code-duplicate-beacon-errors-in-veram/?do=findComment&comment=179046)
-- [Show Louisville Some Love](https://forums.vatsim.net/topic/26623-show-louisville-some-love/?do=findComment&comment=179045)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179044)
-- [VatSpy Stuck On Loading and Slow Updates](https://forums.vatsim.net/topic/31442-vatspy-stuck-on-loading-and-slow-updates/?do=findComment&comment=179043)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
