@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Show Louisville Some Love](https://forums.vatsim.net/topic/26623-show-louisville-some-love/?do=findComment&comment=179051)
+- [Clouds Crashing VATSIM](https://forums.vatsim.net/topic/31432-clouds-crashing-vatsim/?do=findComment&comment=179050)
 - [Modelmatching , create a vmr File / IVAO MTL](https://forums.vatsim.net/topic/31443-modelmatching-create-a-vmr-file-ivao-mtl/?do=findComment&comment=179049)
 - [Clouds Crashing VATSIM](https://forums.vatsim.net/topic/31432-clouds-crashing-vatsim/?do=findComment&comment=179048)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179047)
@@ -61,8 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179044)
 - [VatSpy Stuck On Loading and Slow Updates](https://forums.vatsim.net/topic/31442-vatspy-stuck-on-loading-and-slow-updates/?do=findComment&comment=179043)
 - [AFV will not update passed v1.7.2 and random disconnects](https://forums.vatsim.net/topic/31441-afv-will-not-update-passed-v172-and-random-disconnects/?do=findComment&comment=179042)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179041)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179040)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
