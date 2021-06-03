@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179047)
 - [CODE / Duplicate Beacon errors in vERAM](https://forums.vatsim.net/topic/31281-code-duplicate-beacon-errors-in-veram/?do=findComment&comment=179046)
 - [Show Louisville Some Love](https://forums.vatsim.net/topic/26623-show-louisville-some-love/?do=findComment&comment=179045)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179044)
@@ -62,7 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179040)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179039)
 - [Pilot ratings in msfs](https://forums.vatsim.net/topic/31439-pilot-ratings-in-msfs/?do=findComment&comment=179038)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179036)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
