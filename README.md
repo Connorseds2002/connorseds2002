@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179064)
 - [FSINN](https://forums.vatsim.net/topic/31445-fsinn/?do=findComment&comment=179063)
 - [Real airline Air Senegal](https://forums.vatsim.net/topic/31446-real-airline-air-senegal/?do=findComment&comment=179062)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179061)
@@ -62,7 +63,6 @@
 - [FSINN](https://forums.vatsim.net/topic/31445-fsinn/?do=findComment&comment=179057)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179056)
 - [FSINN](https://forums.vatsim.net/topic/31445-fsinn/?do=findComment&comment=179055)
-- [Appointment of VATKWIQ Marketing Assistant](https://forums.vatsim.net/topic/31444-appointment-of-vatkwiq-marketing-assistant/?do=findComment&comment=179054)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
