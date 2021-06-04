@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VatView mobile VATSIM tracker app](https://forums.vatsim.net/topic/31229-vatview-mobile-vatsim-tracker-app/?do=findComment&comment=179078)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179077)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=179076)
 - [Bug Report](https://forums.vatsim.net/topic/31448-bug-report/?do=findComment&comment=179075)
@@ -62,7 +63,6 @@
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179071)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179070)
 - [Real airline Air Senegal](https://forums.vatsim.net/topic/31446-real-airline-air-senegal/?do=findComment&comment=179069)
-- [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=179068)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
