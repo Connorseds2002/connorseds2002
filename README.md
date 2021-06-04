@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot graphic issue.](https://forums.vatsim.net/topic/31447-xpilot-graphic-issue/?do=findComment&comment=179073)
+- [Real airline Air Senegal](https://forums.vatsim.net/topic/31446-real-airline-air-senegal/?do=findComment&comment=179072)
+- [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179071)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179070)
 - [Real airline Air Senegal](https://forums.vatsim.net/topic/31446-real-airline-air-senegal/?do=findComment&comment=179069)
 - [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=179068)
@@ -60,9 +63,6 @@
 - [Missing taxiways and stands](https://forums.vatsim.net/topic/31426-missing-taxiways-and-stands/?do=findComment&comment=179066)
 - [ATC List](https://forums.vatsim.net/topic/18396-atc-list/?do=findComment&comment=179065)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179064)
-- [FSINN](https://forums.vatsim.net/topic/31445-fsinn/?do=findComment&comment=179063)
-- [Real airline Air Senegal](https://forums.vatsim.net/topic/31446-real-airline-air-senegal/?do=findComment&comment=179062)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179061)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
