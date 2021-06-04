@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179083)
+- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179082)
+- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179081)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=179080)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179079)
 - [VatView mobile VATSIM tracker app](https://forums.vatsim.net/topic/31229-vatview-mobile-vatsim-tracker-app/?do=findComment&comment=179078)
@@ -60,9 +63,6 @@
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=179076)
 - [Bug Report](https://forums.vatsim.net/topic/31448-bug-report/?do=findComment&comment=179075)
 - [Bug Report](https://forums.vatsim.net/topic/31448-bug-report/?do=findComment&comment=179074)
-- [Xpilot graphic issue.](https://forums.vatsim.net/topic/31447-xpilot-graphic-issue/?do=findComment&comment=179073)
-- [Real airline Air Senegal](https://forums.vatsim.net/topic/31446-real-airline-air-senegal/?do=findComment&comment=179072)
-- [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179071)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
