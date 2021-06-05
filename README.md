@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179097)
+- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=179096)
+- [Bug Report](https://forums.vatsim.net/topic/31448-bug-report/?do=findComment&comment=179095)
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179094)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179093)
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179092)
@@ -60,9 +63,6 @@
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179090)
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179089)
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179088)
-- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179086)
-- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179085)
-- [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179084)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
