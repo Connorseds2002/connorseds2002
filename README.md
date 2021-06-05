@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Tx com not working/not enabling](https://forums.vatsim.net/topic/31456-tx-com-not-workingnot-enabling/?do=findComment&comment=179121)
+- [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179120)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179118)
 - [AFV Disconnecting in the background](https://forums.vatsim.net/topic/31455-afv-disconnecting-in-the-background/?do=findComment&comment=179117)
 - [POSITION VACANCY - FIR TRAINING ADMINISTRATOR (PIARCO, SANTO DOMINGO, PORT AU PRINCE, SAN JUAN CERAP)](https://forums.vatsim.net/topic/31454-position-vacancy-fir-training-administrator-piarco-santo-domingo-port-au-prince-san-juan-cerap/?do=findComment&comment=179116)
@@ -61,8 +63,6 @@
 - [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179113)
 - [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179112)
 - [Jeppesen Charts](https://forums.vatsim.net/topic/25098-jeppesen-charts/?do=findComment&comment=179111)
-- [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179110)
-- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179109)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
