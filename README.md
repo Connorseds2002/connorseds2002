@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179093)
+- [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179092)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179091)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179090)
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179089)
@@ -61,8 +63,6 @@
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179085)
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179084)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179083)
-- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179082)
-- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179081)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
