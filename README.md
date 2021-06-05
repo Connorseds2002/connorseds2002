@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179123)
+- [[WEB VACANCY] VATMENA - Divisional Web Developer](https://forums.vatsim.net/topic/31360-web-vacancy-vatmena-divisional-web-developer/?do=findComment&comment=179122)
 - [Tx com not working/not enabling](https://forums.vatsim.net/topic/31456-tx-com-not-workingnot-enabling/?do=findComment&comment=179121)
 - [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179120)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179118)
@@ -61,8 +63,6 @@
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179115)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179114)
 - [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179113)
-- [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179112)
-- [Jeppesen Charts](https://forums.vatsim.net/topic/25098-jeppesen-charts/?do=findComment&comment=179111)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
