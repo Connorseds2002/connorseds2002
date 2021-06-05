@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179102)
+- [CCAMS (Centralised code assignment and management system) plugin](https://forums.vatsim.net/topic/31451-ccams-centralised-code-assignment-and-management-system-plugin/?do=findComment&comment=179101)
+- [[Dev] Sid/Star/Clearance](https://forums.vatsim.net/topic/31420-dev-sidstarclearance/?do=findComment&comment=179100)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179099)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179098)
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179097)
@@ -60,9 +63,6 @@
 - [Bug Report](https://forums.vatsim.net/topic/31448-bug-report/?do=findComment&comment=179095)
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179094)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179093)
-- [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179092)
-- [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179091)
-- [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179090)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
