@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179114)
+- [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179113)
+- [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179112)
 - [Jeppesen Charts](https://forums.vatsim.net/topic/25098-jeppesen-charts/?do=findComment&comment=179111)
 - [How can I Change My name?](https://forums.vatsim.net/topic/31434-how-can-i-change-my-name/?do=findComment&comment=179110)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179109)
@@ -60,9 +63,6 @@
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179107)
 - [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179106)
 - [Average wait](https://forums.vatsim.net/topic/31453-average-wait/?do=findComment&comment=179105)
-- [How to decline visual approach](https://forums.vatsim.net/topic/31395-how-to-decline-visual-approach/?do=findComment&comment=179104)
-- [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179103)
-- [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179102)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
