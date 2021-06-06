@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MAP POPUP NOT WORKING](https://forums.vatsim.net/topic/31458-map-popup-not-working/?do=findComment&comment=179147)
+- [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179146)
+- [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179145)
+- [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179144)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179143)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179142)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179141)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179140)
 - [On the ground filter fixed altitude?](https://forums.vatsim.net/topic/31389-on-the-ground-filter-fixed-altitude/?do=findComment&comment=179139)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179138)
-- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179137)
-- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179136)
-- [Tx com not working/not enabling](https://forums.vatsim.net/topic/31456-tx-com-not-workingnot-enabling/?do=findComment&comment=179135)
-- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179134)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
