@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179134)
 - [Returning From Hiatus](https://forums.vatsim.net/topic/31457-returning-from-hiatus/?do=findComment&comment=179133)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179132)
 - [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179131)
@@ -62,7 +63,6 @@
 - [Returning From Hiatus](https://forums.vatsim.net/topic/31457-returning-from-hiatus/?do=findComment&comment=179127)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179126)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179125)
-- [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179124)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
