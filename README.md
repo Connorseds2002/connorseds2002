@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179171)
+- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179170)
+- [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179169)
+- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179168)
+- [Hoppie (ACARS/CPDLC) experts question please ? SOUND ALERT](https://forums.vatsim.net/topic/19476-hoppie-acarscpdlc-experts-question-please-sound-alert/?do=findComment&comment=179167)
+- [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179166)
+- [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179165)
+- [Wrong discord account](https://forums.vatsim.net/topic/31212-wrong-discord-account/?do=findComment&comment=179164)
+- [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179163)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179162)
-- [Wrong discord account](https://forums.vatsim.net/topic/31212-wrong-discord-account/?do=findComment&comment=179161)
-- [Issues with vSMR plugin](https://forums.vatsim.net/topic/31460-issues-with-vsmr-plugin/?do=findComment&comment=179160)
-- [Wrong discord account](https://forums.vatsim.net/topic/31212-wrong-discord-account/?do=findComment&comment=179159)
-- [Wrong discord account](https://forums.vatsim.net/topic/31212-wrong-discord-account/?do=findComment&comment=179158)
-- [Hoppie (ACARS/CPDLC) experts question please ? SOUND ALERT](https://forums.vatsim.net/topic/19476-hoppie-acarscpdlc-experts-question-please-sound-alert/?do=findComment&comment=179157)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179156)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179155)
-- [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=179152)
-- [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=179151)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
