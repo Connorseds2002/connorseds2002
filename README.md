@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Hoppie (ACARS/CPDLC) experts question please ? SOUND ALERT](https://forums.vatsim.net/topic/19476-hoppie-acarscpdlc-experts-question-please-sound-alert/?do=findComment&comment=179157)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179156)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179155)
 - [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=179152)
@@ -62,7 +63,6 @@
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179146)
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179145)
 - [Pilot Deviation](https://forums.vatsim.net/topic/31450-pilot-deviation/?do=findComment&comment=179144)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179143)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
