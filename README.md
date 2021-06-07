@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Hello, just saying hello, should fly soon around North Spain + South of France](https://forums.vatsim.net/topic/31404-hello-just-saying-hello-should-fly-soon-around-north-spain-south-of-france/?do=findComment&comment=179186)
 - [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179185)
 - [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179184)
 - [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179183)
@@ -62,7 +63,6 @@
 - [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179179)
 - [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179178)
 - [Wrong discord account](https://forums.vatsim.net/topic/31212-wrong-discord-account/?do=findComment&comment=179177)
-- [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179176)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
