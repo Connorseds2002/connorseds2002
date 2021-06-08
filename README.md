@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Spice Run](https://forums.vatsim.net/topic/31465-spice-run/?do=findComment&comment=179190)
+- [Friday Night Live: 11-06-2021: Cochin (VOCI) to Chennai (VOMM)](https://forums.vatsim.net/topic/31464-friday-night-live-11-06-2021-cochin-voci-to-chennai-vomm/?do=findComment&comment=179189)
 - [vATIS Feature Requests and Suggestions](https://forums.vatsim.net/topic/31463-vatis-feature-requests-and-suggestions/?do=findComment&comment=179188)
 - [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179187)
 - [Hello, just saying hello, should fly soon around North Spain + South of France](https://forums.vatsim.net/topic/31404-hello-just-saying-hello-should-fly-soon-around-north-spain-south-of-france/?do=findComment&comment=179186)
@@ -61,8 +63,6 @@
 - [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179183)
 - [CID suspended?](https://forums.vatsim.net/topic/31461-cid-suspended/?do=findComment&comment=179182)
 - [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179181)
-- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179180)
-- [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179179)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
