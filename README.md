@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Issues with vSMR plugin](https://forums.vatsim.net/topic/31460-issues-with-vsmr-plugin/?do=findComment&comment=179224)
 - [Prepard3D v5.2 is now out.](https://forums.vatsim.net/topic/31471-prepard3d-v52-is-now-out/?do=findComment&comment=179223)
 - [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179222)
 - [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=179220)
@@ -62,7 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179216)
 - [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179215)
 - [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179214)
-- [Swagatam Kolkata](https://forums.vatsim.net/topic/31469-swagatam-kolkata/?do=findComment&comment=179213)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
