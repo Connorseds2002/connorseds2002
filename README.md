@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=179220)
+- [on vatsys i need 2 add freq they dont auto show as obs](https://forums.vatsim.net/topic/31468-on-vatsys-i-need-2-add-freq-they-dont-auto-show-as-obs/?do=findComment&comment=179219)
+- [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179218)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179217)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179216)
 - [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179215)
 - [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179214)
 - [Swagatam Kolkata](https://forums.vatsim.net/topic/31469-swagatam-kolkata/?do=findComment&comment=179213)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179212)
 - [on vatsys i need 2 add freq they dont auto show as obs](https://forums.vatsim.net/topic/31468-on-vatsys-i-need-2-add-freq-they-dont-auto-show-as-obs/?do=findComment&comment=179211)
-- [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179210)
-- [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179209)
-- [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179208)
-- [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=179207)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179206)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
