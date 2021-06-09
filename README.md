@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179214)
+- [Swagatam Kolkata](https://forums.vatsim.net/topic/31469-swagatam-kolkata/?do=findComment&comment=179213)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179212)
 - [on vatsys i need 2 add freq they dont auto show as obs](https://forums.vatsim.net/topic/31468-on-vatsys-i-need-2-add-freq-they-dont-auto-show-as-obs/?do=findComment&comment=179211)
 - [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179210)
@@ -61,8 +63,6 @@
 - [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=179207)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179206)
 - [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179205)
-- [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179204)
-- [I cant even connect to vatsim](https://forums.vatsim.net/topic/31449-i-cant-even-connect-to-vatsim/?do=findComment&comment=179203)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
