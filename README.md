@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=179226)
 - [Autotrack [feature request]](https://forums.vatsim.net/topic/31472-autotrack-feature-request/?do=findComment&comment=179225)
 - [Issues with vSMR plugin](https://forums.vatsim.net/topic/31460-issues-with-vsmr-plugin/?do=findComment&comment=179224)
 - [Prepard3D v5.2 is now out.](https://forums.vatsim.net/topic/31471-prepard3d-v52-is-now-out/?do=findComment&comment=179223)
@@ -62,7 +63,6 @@
 - [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179218)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179217)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179216)
-- [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179215)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
