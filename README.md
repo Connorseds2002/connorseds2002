@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179237)
+- [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179236)
+- [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179235)
+- [Appointment of Divisional Membership Director](https://forums.vatsim.net/topic/31436-appointment-of-divisional-membership-director/?do=findComment&comment=179234)
 - [Appointment of Divisional Membership Director](https://forums.vatsim.net/topic/31436-appointment-of-divisional-membership-director/?do=findComment&comment=179233)
 - [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179232)
 - [Issues with vSMR plugin](https://forums.vatsim.net/topic/31460-issues-with-vsmr-plugin/?do=findComment&comment=179231)
 - [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179230)
 - [Jeppesen Charts](https://forums.vatsim.net/topic/25098-jeppesen-charts/?do=findComment&comment=179229)
 - [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=179228)
-- [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179227)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=179226)
-- [Autotrack [feature request]](https://forums.vatsim.net/topic/31472-autotrack-feature-request/?do=findComment&comment=179225)
-- [Issues with vSMR plugin](https://forums.vatsim.net/topic/31460-issues-with-vsmr-plugin/?do=findComment&comment=179224)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
