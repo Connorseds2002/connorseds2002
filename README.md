@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Appointment of Divisional Membership Director](https://forums.vatsim.net/topic/31436-appointment-of-divisional-membership-director/?do=findComment&comment=179233)
 - [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179232)
 - [Issues with vSMR plugin](https://forums.vatsim.net/topic/31460-issues-with-vsmr-plugin/?do=findComment&comment=179231)
 - [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179230)
@@ -62,7 +63,6 @@
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=179226)
 - [Autotrack [feature request]](https://forums.vatsim.net/topic/31472-autotrack-feature-request/?do=findComment&comment=179225)
 - [Issues with vSMR plugin](https://forums.vatsim.net/topic/31460-issues-with-vsmr-plugin/?do=findComment&comment=179224)
-- [Prepard3D v5.2 is now out.](https://forums.vatsim.net/topic/31471-prepard3d-v52-is-now-out/?do=findComment&comment=179223)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
