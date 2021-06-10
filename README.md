@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179230)
+- [Jeppesen Charts](https://forums.vatsim.net/topic/25098-jeppesen-charts/?do=findComment&comment=179229)
 - [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=179228)
 - [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179227)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=179226)
@@ -61,8 +63,6 @@
 - [Prepard3D v5.2 is now out.](https://forums.vatsim.net/topic/31471-prepard3d-v52-is-now-out/?do=findComment&comment=179223)
 - [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179222)
 - [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=179220)
-- [on vatsys i need 2 add freq they dont auto show as obs](https://forums.vatsim.net/topic/31468-on-vatsys-i-need-2-add-freq-they-dont-auto-show-as-obs/?do=findComment&comment=179219)
-- [New to vATIS: Invalid Callsign Format. Please Try Again.](https://forums.vatsim.net/topic/31467-new-to-vatis-invalid-callsign-format-please-try-again/?do=findComment&comment=179218)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
