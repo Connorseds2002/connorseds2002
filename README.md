@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179248)
+- [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179247)
 - [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179245)
 - [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179244)
 - [[New SSO] VATSIM Connect Update](https://forums.vatsim.net/topic/26902-new-sso-vatsim-connect-update/?do=findComment&comment=179243)
@@ -61,8 +63,6 @@
 - [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179240)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179239)
 - [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179237)
-- [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179236)
-- [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179235)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
