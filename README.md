@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179255)
+- [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179253)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179251)
 - [Arrival Briefing and Time Management in the Cockpit](https://forums.vatsim.net/topic/31475-arrival-briefing-and-time-management-in-the-cockpit/?do=findComment&comment=179250)
 - [Arrival Briefing and Time Management in the Cockpit](https://forums.vatsim.net/topic/31475-arrival-briefing-and-time-management-in-the-cockpit/?do=findComment&comment=179249)
@@ -61,8 +63,6 @@
 - [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179245)
 - [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179244)
 - [[New SSO] VATSIM Connect Update](https://forums.vatsim.net/topic/26902-new-sso-vatsim-connect-update/?do=findComment&comment=179243)
-- [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179242)
-- [Arrival Briefing and Time Management in the Cockpit](https://forums.vatsim.net/topic/31475-arrival-briefing-and-time-management-in-the-cockpit/?do=findComment&comment=179241)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
