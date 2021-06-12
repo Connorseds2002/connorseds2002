@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179259)
 - [Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179257)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179255)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179253)
@@ -62,7 +63,6 @@
 - [vPilot Model Matching Fails](https://forums.vatsim.net/topic/31452-vpilot-model-matching-fails/?do=findComment&comment=179248)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179247)
 - [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179245)
-- [First Time on VATSIM experience](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience/?do=findComment&comment=179244)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
