@@ -53,13 +53,13 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179266)
+- [( SOLVED ) Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-solved-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179266)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179265)
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179264)
 - [How does one network x-Pilot?](https://forums.vatsim.net/topic/31479-how-does-one-network-x-pilot/?do=findComment&comment=179263)
 - [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=179261)
-- [Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179259)
-- [Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179257)
+- [( SOLVED ) Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-solved-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179259)
+- [( SOLVED ) Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-solved-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179257)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179255)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179253)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179251)
