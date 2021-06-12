@@ -53,7 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Consistent CTD when Online EGKK](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk/?do=findComment&comment=179264)
+- [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179264)
 - [How does one network x-Pilot?](https://forums.vatsim.net/topic/31479-how-does-one-network-x-pilot/?do=findComment&comment=179263)
 - [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=179261)
 - [Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179259)
