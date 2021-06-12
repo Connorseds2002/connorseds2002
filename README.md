@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=179268)
+- [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=179267)
 - [( SOLVED ) Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-solved-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179266)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179265)
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179264)
@@ -61,8 +63,6 @@
 - [( SOLVED ) Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-solved-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179259)
 - [( SOLVED ) Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-solved-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179257)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179255)
-- [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179253)
-- [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179251)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
