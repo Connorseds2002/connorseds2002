@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC List](https://forums.vatsim.net/topic/18396-atc-list/?do=findComment&comment=179271)
+- [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179270)
+- [How does one network x-Pilot?](https://forums.vatsim.net/topic/31479-how-does-one-network-x-pilot/?do=findComment&comment=179269)
 - [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=179268)
 - [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=179267)
 - [( SOLVED ) Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-solved-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179266)
@@ -60,9 +63,6 @@
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179264)
 - [How does one network x-Pilot?](https://forums.vatsim.net/topic/31479-how-does-one-network-x-pilot/?do=findComment&comment=179263)
 - [Thank you Alfred and recruitment for new Hong Kong VACC Director](https://forums.vatsim.net/topic/31232-thank-you-alfred-and-recruitment-for-new-hong-kong-vacc-director/?do=findComment&comment=179261)
-- [( SOLVED ) Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-solved-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179259)
-- [( SOLVED ) Dead website link in VATSIM learning center document:  IFR navaids](https://forums.vatsim.net/topic/31477-solved-dead-website-link-in-vatsim-learning-center-document-ifr-navaids/?do=findComment&comment=179257)
-- [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179255)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
