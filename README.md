@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arrival Briefing and Time Management in the Cockpit](https://forums.vatsim.net/topic/31475-arrival-briefing-and-time-management-in-the-cockpit/?do=findComment&comment=179296)
 - [VMR File Error](https://forums.vatsim.net/topic/31485-vmr-file-error/?do=findComment&comment=179295)
 - [VMR File Error](https://forums.vatsim.net/topic/31485-vmr-file-error/?do=findComment&comment=179294)
 - [VMR File Error](https://forums.vatsim.net/topic/31485-vmr-file-error/?do=findComment&comment=179293)
@@ -62,7 +63,6 @@
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179289)
 - [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179288)
 - [How does one network x-Pilot?](https://forums.vatsim.net/topic/31479-how-does-one-network-x-pilot/?do=findComment&comment=179287)
-- [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179286)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
