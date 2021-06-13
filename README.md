@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CCAMS (Centralised code assignment and management system) plugin](https://forums.vatsim.net/topic/31451-ccams-centralised-code-assignment-and-management-system-plugin/?do=findComment&comment=179316)
+- [CCAMS (Centralised code assignment and management system) plugin](https://forums.vatsim.net/topic/31451-ccams-centralised-code-assignment-and-management-system-plugin/?do=findComment&comment=179315)
+- [CCAMS (Centralised code assignment and management system) plugin](https://forums.vatsim.net/topic/31451-ccams-centralised-code-assignment-and-management-system-plugin/?do=findComment&comment=179314)
 - [Arrival Briefing and Time Management in the Cockpit](https://forums.vatsim.net/topic/31475-arrival-briefing-and-time-management-in-the-cockpit/?do=findComment&comment=179313)
 - [Position Opening: Hong Kong VACC - Manager, Publications (ACCHKG5)](https://forums.vatsim.net/topic/31487-position-opening-hong-kong-vacc-manager-publications-acchkg5/?do=findComment&comment=179312)
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179311)
@@ -60,9 +63,6 @@
 - [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179309)
 - [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179308)
 - [Text to Speech from FSD (Audio for VATSIM)](https://forums.vatsim.net/topic/31486-text-to-speech-from-fsd-audio-for-vatsim/?do=findComment&comment=179307)
-- [Text to Speech from FSD (Audio for VATSIM)](https://forums.vatsim.net/topic/31486-text-to-speech-from-fsd-audio-for-vatsim/?do=findComment&comment=179306)
-- [CCAMS (Centralised code assignment and management system) plugin](https://forums.vatsim.net/topic/31451-ccams-centralised-code-assignment-and-management-system-plugin/?do=findComment&comment=179305)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179304)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
