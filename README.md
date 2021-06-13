@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179289)
+- [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179288)
 - [How does one network x-Pilot?](https://forums.vatsim.net/topic/31479-how-does-one-network-x-pilot/?do=findComment&comment=179287)
 - [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179286)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179285)
@@ -61,8 +63,6 @@
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179282)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179281)
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179280)
-- [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179279)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179278)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
