@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179308)
+- [Text to Speech from FSD (Audio for VATSIM)](https://forums.vatsim.net/topic/31486-text-to-speech-from-fsd-audio-for-vatsim/?do=findComment&comment=179307)
 - [Text to Speech from FSD (Audio for VATSIM)](https://forums.vatsim.net/topic/31486-text-to-speech-from-fsd-audio-for-vatsim/?do=findComment&comment=179306)
 - [CCAMS (Centralised code assignment and management system) plugin](https://forums.vatsim.net/topic/31451-ccams-centralised-code-assignment-and-management-system-plugin/?do=findComment&comment=179305)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179304)
@@ -61,8 +63,6 @@
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179301)
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179300)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179299)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179298)
-- [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179297)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
