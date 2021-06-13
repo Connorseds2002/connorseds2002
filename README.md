@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How does one network x-Pilot?](https://forums.vatsim.net/topic/31479-how-does-one-network-x-pilot/?do=findComment&comment=179287)
+- [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179286)
+- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179285)
+- [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179284)
+- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179283)
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179282)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179281)
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179280)
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179279)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179278)
-- [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179277)
-- [[June 26] Canadian Xpress June 2021 Monthly Fly-In - Haida Gwaii](https://forums.vatsim.net/topic/31483-june-26-canadian-xpress-june-2021-monthly-fly-in-haida-gwaii/?do=findComment&comment=179276)
-- [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179275)
-- [List of VATSIM CTR centres](https://forums.vatsim.net/topic/31377-list-of-vatsim-ctr-centres/?do=findComment&comment=179274)
-- [ATC List](https://forums.vatsim.net/topic/18396-atc-list/?do=findComment&comment=179273)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
