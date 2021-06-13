@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Text to Speech from FSD (Audio for VATSIM)](https://forums.vatsim.net/topic/31486-text-to-speech-from-fsd-audio-for-vatsim/?do=findComment&comment=179306)
 - [CCAMS (Centralised code assignment and management system) plugin](https://forums.vatsim.net/topic/31451-ccams-centralised-code-assignment-and-management-system-plugin/?do=findComment&comment=179305)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179304)
 - [CCAMS (Centralised code assignment and management system) plugin](https://forums.vatsim.net/topic/31451-ccams-centralised-code-assignment-and-management-system-plugin/?do=findComment&comment=179303)
@@ -62,7 +63,6 @@
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179299)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179298)
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179297)
-- [Arrival Briefing and Time Management in the Cockpit](https://forums.vatsim.net/topic/31475-arrival-briefing-and-time-management-in-the-cockpit/?do=findComment&comment=179296)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
