@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arrival Briefing and Time Management in the Cockpit](https://forums.vatsim.net/topic/31475-arrival-briefing-and-time-management-in-the-cockpit/?do=findComment&comment=179302)
+- [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179301)
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179300)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179299)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179298)
@@ -61,8 +63,6 @@
 - [VMR File Error](https://forums.vatsim.net/topic/31485-vmr-file-error/?do=findComment&comment=179295)
 - [VMR File Error](https://forums.vatsim.net/topic/31485-vmr-file-error/?do=findComment&comment=179294)
 - [VMR File Error](https://forums.vatsim.net/topic/31485-vmr-file-error/?do=findComment&comment=179293)
-- [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179292)
-- [VMR File Error](https://forums.vatsim.net/topic/31485-vmr-file-error/?do=findComment&comment=179291)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
