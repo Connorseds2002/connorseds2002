@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179335)
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179333)
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179331)
 - [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179330)
@@ -62,7 +63,6 @@
 - [Arrival Briefing and Time Management in the Cockpit](https://forums.vatsim.net/topic/31475-arrival-briefing-and-time-management-in-the-cockpit/?do=findComment&comment=179326)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179325)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179324)
-- [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179323)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
