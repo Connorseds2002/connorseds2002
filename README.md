@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179333)
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179331)
 - [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179330)
 - [Unable to see traffic](https://forums.vatsim.net/topic/27568-unable-to-see-traffic/?do=findComment&comment=179329)
@@ -62,7 +63,6 @@
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179325)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179324)
 - [P0 - Exam not Assigned](https://forums.vatsim.net/topic/31484-p0-exam-not-assigned/?do=findComment&comment=179323)
-- [Autotrack [feature request]](https://forums.vatsim.net/topic/31472-autotrack-feature-request/?do=findComment&comment=179322)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
