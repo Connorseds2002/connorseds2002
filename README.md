@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to see traffic](https://forums.vatsim.net/topic/27568-unable-to-see-traffic/?do=findComment&comment=179329)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179328)
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179327)
 - [Arrival Briefing and Time Management in the Cockpit](https://forums.vatsim.net/topic/31475-arrival-briefing-and-time-management-in-the-cockpit/?do=findComment&comment=179326)
@@ -62,7 +63,6 @@
 - [Autotrack [feature request]](https://forums.vatsim.net/topic/31472-autotrack-feature-request/?do=findComment&comment=179322)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179320)
 - [fmc](https://forums.vatsim.net/topic/31474-fmc/?do=findComment&comment=179319)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179318)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
