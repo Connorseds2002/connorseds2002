@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to see traffic](https://forums.vatsim.net/topic/27568-unable-to-see-traffic/?do=findComment&comment=179360)
 - [[New SSO] VATSIM Connect](https://forums.vatsim.net/topic/23327-new-sso-vatsim-connect/?do=findComment&comment=179359)
 - [Unable to see traffic](https://forums.vatsim.net/topic/27568-unable-to-see-traffic/?do=findComment&comment=179358)
 - [Radio Transmissions coming in Unreadable](https://forums.vatsim.net/topic/25180-radio-transmissions-coming-in-unreadable/?do=findComment&comment=179357)
@@ -62,7 +63,6 @@
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179353)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179352)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179350)
-- [Unable to see traffic](https://forums.vatsim.net/topic/27568-unable-to-see-traffic/?do=findComment&comment=179349)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
