@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179364)
+- [Unable to see traffic](https://forums.vatsim.net/topic/27568-unable-to-see-traffic/?do=findComment&comment=179363)
+- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179361)
 - [Unable to see traffic](https://forums.vatsim.net/topic/27568-unable-to-see-traffic/?do=findComment&comment=179360)
 - [[New SSO] VATSIM Connect](https://forums.vatsim.net/topic/23327-new-sso-vatsim-connect/?do=findComment&comment=179359)
 - [Unable to see traffic](https://forums.vatsim.net/topic/27568-unable-to-see-traffic/?do=findComment&comment=179358)
@@ -60,9 +63,6 @@
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179356)
 - [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=179355)
 - [Unable to see traffic](https://forums.vatsim.net/topic/27568-unable-to-see-traffic/?do=findComment&comment=179354)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179353)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179352)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179350)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
