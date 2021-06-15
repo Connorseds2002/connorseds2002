@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to see traffic](https://forums.vatsim.net/topic/27568-unable-to-see-traffic/?do=findComment&comment=179354)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179353)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179352)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179350)
@@ -62,7 +63,6 @@
 - [Consistent CTD when Online EGKK MSFS](https://forums.vatsim.net/topic/31480-consistent-ctd-when-online-egkk-msfs/?do=findComment&comment=179346)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179345)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179343)
-- [datafeed limitation](https://forums.vatsim.net/topic/30977-datafeed-limitation/?do=findComment&comment=179341)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
