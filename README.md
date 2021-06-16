@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=179398)
 - [How to recall the hints?](https://forums.vatsim.net/topic/31493-how-to-recall-the-hints/?do=findComment&comment=179397)
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179396)
 - [New Sim Pilot Looking For Humans To Fly With](https://forums.vatsim.net/topic/30815-new-sim-pilot-looking-for-humans-to-fly-with/?do=findComment&comment=179395)
@@ -62,7 +63,6 @@
 - [Radio Transmissions coming in Unreadable](https://forums.vatsim.net/topic/25180-radio-transmissions-coming-in-unreadable/?do=findComment&comment=179389)
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179388)
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179387)
-- [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=179386)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
