@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179390)
 - [Radio Transmissions coming in Unreadable](https://forums.vatsim.net/topic/25180-radio-transmissions-coming-in-unreadable/?do=findComment&comment=179389)
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179388)
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179387)
@@ -62,7 +63,6 @@
 - [Gracias Gabriel Cevallos](https://forums.vatsim.net/topic/31489-gracias-gabriel-cevallos/?do=findComment&comment=179383)
 - [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179382)
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179381)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179380)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
