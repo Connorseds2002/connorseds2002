@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179396)
 - [New Sim Pilot Looking For Humans To Fly With](https://forums.vatsim.net/topic/30815-new-sim-pilot-looking-for-humans-to-fly-with/?do=findComment&comment=179395)
 - [How to recall the hints?](https://forums.vatsim.net/topic/31493-how-to-recall-the-hints/?do=findComment&comment=179394)
 - [Joomla](https://forums.vatsim.net/topic/31492-joomla/?do=findComment&comment=179393)
@@ -62,7 +63,6 @@
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179387)
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=179386)
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179385)
-- [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179384)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
