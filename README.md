@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179388)
+- [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179387)
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=179386)
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179385)
 - [[APPOINTMENT] Spanish vACC Director](https://forums.vatsim.net/topic/31462-appointment-spanish-vacc-director/?do=findComment&comment=179384)
@@ -61,8 +63,6 @@
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179381)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179380)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179379)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179378)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179377)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
