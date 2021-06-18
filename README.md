@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179412)
+- [local character in data files](https://forums.vatsim.net/topic/31496-local-character-in-data-files/?do=findComment&comment=179411)
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179410)
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179409)
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179406)
@@ -61,8 +63,6 @@
 - [An error occurred when trying to synthesize the ATIS test: Input string was not in the correct format.](https://forums.vatsim.net/topic/31167-an-error-occurred-when-trying-to-synthesize-the-atis-test-input-string-was-not-in-the-correct-format/?do=findComment&comment=179402)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=179398)
 - [How to recall the hints?](https://forums.vatsim.net/topic/31493-how-to-recall-the-hints/?do=findComment&comment=179397)
-- [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179396)
-- [New Sim Pilot Looking For Humans To Fly With](https://forums.vatsim.net/topic/30815-new-sim-pilot-looking-for-humans-to-fly-with/?do=findComment&comment=179395)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
