@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VNSM_CTR | C1 CPT [19th June 2021, 13:00z - 15:00z]](https://forums.vatsim.net/topic/31499-vnsm_ctr-c1-cpt-19th-june-2021-1300z-1500z/?do=findComment&comment=179417)
+- [Dubai to Kathmandu [27th June 2021]](https://forums.vatsim.net/topic/31498-dubai-to-kathmandu-27th-june-2021/?do=findComment&comment=179416)
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179412)
 - [local character in data files](https://forums.vatsim.net/topic/31496-local-character-in-data-files/?do=findComment&comment=179411)
 - [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179410)
@@ -61,8 +63,6 @@
 - [[26th June 2300z - 27th June 0230z] Southwest Virtual BBQ Getaway LAS-BZN](https://forums.vatsim.net/topic/31495-26th-june-2300z-27th-june-0230z-southwest-virtual-bbq-getaway-las-bzn/?do=findComment&comment=179405)
 - [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179403)
 - [An error occurred when trying to synthesize the ATIS test: Input string was not in the correct format.](https://forums.vatsim.net/topic/31167-an-error-occurred-when-trying-to-synthesize-the-atis-test-input-string-was-not-in-the-correct-format/?do=findComment&comment=179402)
-- [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=179398)
-- [How to recall the hints?](https://forums.vatsim.net/topic/31493-how-to-recall-the-hints/?do=findComment&comment=179397)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
