@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [So close yet so far: A call for help - BVI pilot community in need of programmers!](https://forums.vatsim.net/topic/31158-so-close-yet-so-far-a-call-for-help-bvi-pilot-community-in-need-of-programmers/?do=findComment&comment=179419)
+- [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179418)
 - [VNSM_CTR | C1 CPT [19th June 2021, 13:00z - 15:00z]](https://forums.vatsim.net/topic/31499-vnsm_ctr-c1-cpt-19th-june-2021-1300z-1500z/?do=findComment&comment=179417)
 - [Dubai to Kathmandu [27th June 2021]](https://forums.vatsim.net/topic/31498-dubai-to-kathmandu-27th-june-2021/?do=findComment&comment=179416)
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179412)
@@ -61,8 +63,6 @@
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179409)
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179406)
 - [[26th June 2300z - 27th June 0230z] Southwest Virtual BBQ Getaway LAS-BZN](https://forums.vatsim.net/topic/31495-26th-june-2300z-27th-june-0230z-southwest-virtual-bbq-getaway-las-bzn/?do=findComment&comment=179405)
-- [PDC Question](https://forums.vatsim.net/topic/31481-pdc-question/?do=findComment&comment=179403)
-- [An error occurred when trying to synthesize the ATIS test: Input string was not in the correct format.](https://forums.vatsim.net/topic/31167-an-error-occurred-when-trying-to-synthesize-the-atis-test-input-string-was-not-in-the-correct-format/?do=findComment&comment=179402)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
