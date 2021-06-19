@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=179430)
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179427)
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179426)
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179425)
@@ -62,7 +63,6 @@
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=179420)
 - [So close yet so far: A call for help - BVI pilot community in need of programmers!](https://forums.vatsim.net/topic/31158-so-close-yet-so-far-a-call-for-help-bvi-pilot-community-in-need-of-programmers/?do=findComment&comment=179419)
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=179418)
-- [VNSM_CTR | C1 CPT [19th June 2021, 13:00z - 15:00z]](https://forums.vatsim.net/topic/31499-vnsm_ctr-c1-cpt-19th-june-2021-1300z-1500z/?do=findComment&comment=179417)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
