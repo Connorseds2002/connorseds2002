@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [First Time on VATSIM experience. SO COOL I CAN'T BELIEVE IT ! thanks all](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience-so-cool-i-cant-believe-it-thanks-all/?do=findComment&comment=179432)
 - [First Time on VATSIM experience. SO COOL I CAN'T BELIEVE IT ! thanks all](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience-so-cool-i-cant-believe-it-thanks-all/?do=findComment&comment=179431)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=179430)
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=179427)
@@ -62,7 +63,6 @@
 - [So close yet so far: A call for help - BVI pilot community in need of programmers!](https://forums.vatsim.net/topic/31158-so-close-yet-so-far-a-call-for-help-bvi-pilot-community-in-need-of-programmers/?do=findComment&comment=179422)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=179421)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=179420)
-- [So close yet so far: A call for help - BVI pilot community in need of programmers!](https://forums.vatsim.net/topic/31158-so-close-yet-so-far-a-call-for-help-bvi-pilot-community-in-need-of-programmers/?do=findComment&comment=179419)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
