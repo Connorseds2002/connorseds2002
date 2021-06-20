@@ -53,8 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179459)
 - [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179458)
-- [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31503-vpilot-freezing-on-desktop/?do=findComment&comment=179457)
 - [Parking position inboud to LIRF/FCO](https://forums.vatsim.net/topic/31500-parking-position-inboud-to-lirffco/?do=findComment&comment=179456)
 - [Connection drop on VATSIM](https://forums.vatsim.net/topic/31502-connection-drop-on-vatsim/?do=findComment&comment=179455)
 - [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=179454)
