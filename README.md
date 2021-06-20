@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=179453)
 - [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179452)
 - [Parking position inboud to LIRF/FCO](https://forums.vatsim.net/topic/31500-parking-position-inboud-to-lirffco/?do=findComment&comment=179451)
 - [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=179450)
@@ -62,7 +63,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=179438)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=179433)
 - [First Time on VATSIM experience. SO COOL I CAN'T BELIEVE IT ! thanks all](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience-so-cool-i-cant-believe-it-thanks-all/?do=findComment&comment=179432)
-- [First Time on VATSIM experience. SO COOL I CAN'T BELIEVE IT ! thanks all](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience-so-cool-i-cant-believe-it-thanks-all/?do=findComment&comment=179431)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
