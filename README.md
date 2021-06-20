@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179458)
+- [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31503-vpilot-freezing-on-desktop/?do=findComment&comment=179457)
+- [Parking position inboud to LIRF/FCO](https://forums.vatsim.net/topic/31500-parking-position-inboud-to-lirffco/?do=findComment&comment=179456)
 - [Connection drop on VATSIM](https://forums.vatsim.net/topic/31502-connection-drop-on-vatsim/?do=findComment&comment=179455)
 - [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=179454)
 - [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=179453)
@@ -60,9 +63,6 @@
 - [Parking position inboud to LIRF/FCO](https://forums.vatsim.net/topic/31500-parking-position-inboud-to-lirffco/?do=findComment&comment=179451)
 - [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=179450)
 - [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=179449)
-- [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=179448)
-- [[ANNOUNCEMENT] Say hello to the Bulgarian vACC](https://forums.vatsim.net/topic/31482-announcement-say-hello-to-the-bulgarian-vacc/?do=findComment&comment=179439)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=179438)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
