@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179461)
+- [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179460)
 - [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179459)
 - [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179458)
 - [Parking position inboud to LIRF/FCO](https://forums.vatsim.net/topic/31500-parking-position-inboud-to-lirffco/?do=findComment&comment=179456)
@@ -61,8 +63,6 @@
 - [I want to change my name](https://forums.vatsim.net/topic/31427-i-want-to-change-my-name/?do=findComment&comment=179453)
 - [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179452)
 - [Parking position inboud to LIRF/FCO](https://forums.vatsim.net/topic/31500-parking-position-inboud-to-lirffco/?do=findComment&comment=179451)
-- [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=179450)
-- [Questions on radar floor, range, slope, and holes](https://forums.vatsim.net/topic/10006-questions-on-radar-floor-range-slope-and-holes/?do=findComment&comment=179449)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
