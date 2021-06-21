@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179486)
+- [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179485)
+- [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179482)
+- [Feature Request: Frequency list HTML page to be able access list in VR](https://forums.vatsim.net/topic/31506-feature-request-frequency-list-html-page-to-be-able-access-list-in-vr/?do=findComment&comment=179480)
+- [Parking position inboud to LIRF/FCO](https://forums.vatsim.net/topic/31500-parking-position-inboud-to-lirffco/?do=findComment&comment=179479)
 - [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=179474)
 - [Unable to create files after r29](https://forums.vatsim.net/topic/31293-unable-to-create-files-after-r29/?do=findComment&comment=179472)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=179471)
 - [Feature Request: Frequency list HTML page to be able access list in VR](https://forums.vatsim.net/topic/31506-feature-request-frequency-list-html-page-to-be-able-access-list-in-vr/?do=findComment&comment=179470)
 - [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179469)
-- [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179468)
-- [[VACANCY] Membership Director - VATWA5](https://forums.vatsim.net/topic/31505-vacancy-membership-director-vatwa5/?do=findComment&comment=179467)
-- [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179466)
-- [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179465)
-- [First Time on VATSIM experience. SO COOL I CAN'T BELIEVE IT ! thanks all](https://forums.vatsim.net/topic/31473-first-time-on-vatsim-experience-so-cool-i-cant-believe-it-thanks-all/?do=findComment&comment=179464)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
