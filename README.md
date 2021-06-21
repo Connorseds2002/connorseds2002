@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179487)
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179486)
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179485)
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179482)
@@ -62,7 +63,6 @@
 - [Unable to create files after r29](https://forums.vatsim.net/topic/31293-unable-to-create-files-after-r29/?do=findComment&comment=179472)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=179471)
 - [Feature Request: Frequency list HTML page to be able access list in VR](https://forums.vatsim.net/topic/31506-feature-request-frequency-list-html-page-to-be-able-access-list-in-vr/?do=findComment&comment=179470)
-- [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179469)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
