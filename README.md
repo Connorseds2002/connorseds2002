@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature Request: Frequency list HTML page to be able access list in VR](https://forums.vatsim.net/topic/31506-feature-request-frequency-list-html-page-to-be-able-access-list-in-vr/?do=findComment&comment=179470)
 - [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179469)
 - [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179468)
 - [[VACANCY] Membership Director - VATWA5](https://forums.vatsim.net/topic/31505-vacancy-membership-director-vatwa5/?do=findComment&comment=179467)
@@ -62,7 +63,6 @@
 - [Parking position inboud to LIRF/FCO](https://forums.vatsim.net/topic/31500-parking-position-inboud-to-lirffco/?do=findComment&comment=179463)
 - [VATSPY Crashes Multi monitor setup](https://forums.vatsim.net/topic/29997-vatspy-crashes-multi-monitor-setup/?do=findComment&comment=179462)
 - [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179461)
-- [AFV on VatSys Faulty](https://forums.vatsim.net/topic/31501-afv-on-vatsys-faulty/?do=findComment&comment=179460)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
