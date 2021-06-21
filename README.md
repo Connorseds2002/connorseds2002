@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179495)
+- [Receive audio stops](https://forums.vatsim.net/topic/30307-receive-audio-stops/?do=findComment&comment=179494)
+- [Gracias Gabriel Cevallos](https://forums.vatsim.net/topic/31489-gracias-gabriel-cevallos/?do=findComment&comment=179493)
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179487)
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179486)
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179485)
@@ -60,9 +63,6 @@
 - [Feature Request: Frequency list HTML page to be able access list in VR](https://forums.vatsim.net/topic/31506-feature-request-frequency-list-html-page-to-be-able-access-list-in-vr/?do=findComment&comment=179480)
 - [Parking position inboud to LIRF/FCO](https://forums.vatsim.net/topic/31500-parking-position-inboud-to-lirffco/?do=findComment&comment=179479)
 - [[VACANCY] Membership Support Group Manager](https://forums.vatsim.net/topic/31267-vacancy-membership-support-group-manager/?do=findComment&comment=179474)
-- [Unable to create files after r29](https://forums.vatsim.net/topic/31293-unable-to-create-files-after-r29/?do=findComment&comment=179472)
-- [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=179471)
-- [Feature Request: Frequency list HTML page to be able access list in VR](https://forums.vatsim.net/topic/31506-feature-request-frequency-list-html-page-to-be-able-access-list-in-vr/?do=findComment&comment=179470)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
