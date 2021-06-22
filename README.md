@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Gracias Gabriel Cevallos](https://forums.vatsim.net/topic/31489-gracias-gabriel-cevallos/?do=findComment&comment=179501)
+- [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179500)
 - [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179499)
 - [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179496)
 - [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179495)
@@ -61,8 +63,6 @@
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179487)
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179486)
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179485)
-- [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179482)
-- [Feature Request: Frequency list HTML page to be able access list in VR](https://forums.vatsim.net/topic/31506-feature-request-frequency-list-html-page-to-be-able-access-list-in-vr/?do=findComment&comment=179480)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
