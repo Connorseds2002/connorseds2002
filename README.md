@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Web Services Director - Eurocontrol vACC (VATEUD)](https://forums.vatsim.net/topic/31511-vacancy-web-services-director-eurocontrol-vacc-vateud/?do=findComment&comment=179511)
+- [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179510)
+- [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179509)
 - [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179508)
 - [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179507)
 - [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179506)
@@ -60,9 +63,6 @@
 - [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179504)
 - [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179503)
 - [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179502)
-- [Gracias Gabriel Cevallos](https://forums.vatsim.net/topic/31489-gracias-gabriel-cevallos/?do=findComment&comment=179501)
-- [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179500)
-- [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179499)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
