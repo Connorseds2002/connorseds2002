@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Diego Naves steps down](https://forums.vatsim.net/topic/31514-diego-naves-steps-down/?do=findComment&comment=179519)
+- [[OPEN POSITION] VATMEX DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/31515-open-position-vatmex-divisional-director/?do=findComment&comment=179518)
+- [Diego Naves steps down](https://forums.vatsim.net/topic/31514-diego-naves-steps-down/?do=findComment&comment=179517)
 - [How to request an API Key](https://forums.vatsim.net/topic/31513-how-to-request-an-api-key/?do=findComment&comment=179516)
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179515)
 - [API Changes to ratings query?](https://forums.vatsim.net/topic/31512-api-changes-to-ratings-query/?do=findComment&comment=179513)
@@ -60,9 +63,6 @@
 - [[VACANCY] Web Services Director - Eurocontrol vACC (VATEUD)](https://forums.vatsim.net/topic/31511-vacancy-web-services-director-eurocontrol-vacc-vateud/?do=findComment&comment=179511)
 - [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179510)
 - [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179509)
-- [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179508)
-- [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179507)
-- [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179506)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
