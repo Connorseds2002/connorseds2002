@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179504)
+- [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179503)
 - [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179502)
 - [Gracias Gabriel Cevallos](https://forums.vatsim.net/topic/31489-gracias-gabriel-cevallos/?do=findComment&comment=179501)
 - [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179500)
@@ -61,8 +63,6 @@
 - [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179495)
 - [Receive audio stops](https://forums.vatsim.net/topic/30307-receive-audio-stops/?do=findComment&comment=179494)
 - [Gracias Gabriel Cevallos](https://forums.vatsim.net/topic/31489-gracias-gabriel-cevallos/?do=findComment&comment=179493)
-- [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179487)
-- [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179486)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
