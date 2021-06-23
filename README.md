@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Parking position inboud to LIRF/FCO](https://forums.vatsim.net/topic/31500-parking-position-inboud-to-lirffco/?do=findComment&comment=179520)
 - [Diego Naves steps down](https://forums.vatsim.net/topic/31514-diego-naves-steps-down/?do=findComment&comment=179519)
 - [[OPEN POSITION] VATMEX DIVISIONAL DIRECTOR](https://forums.vatsim.net/topic/31515-open-position-vatmex-divisional-director/?do=findComment&comment=179518)
 - [Diego Naves steps down](https://forums.vatsim.net/topic/31514-diego-naves-steps-down/?do=findComment&comment=179517)
@@ -62,7 +63,6 @@
 - [Applied for VA PArtner ..no anwers for 6 week](https://forums.vatsim.net/topic/31282-applied-for-va-partner-no-anwers-for-6-week/?do=findComment&comment=179512)
 - [[VACANCY] Web Services Director - Eurocontrol vACC (VATEUD)](https://forums.vatsim.net/topic/31511-vacancy-web-services-director-eurocontrol-vacc-vateud/?do=findComment&comment=179511)
 - [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179510)
-- [vPilot doesn't find my Prepar3D, no model matching option on the software](https://forums.vatsim.net/topic/31510-vpilot-doesnt-find-my-prepar3d-no-model-matching-option-on-the-software/?do=findComment&comment=179509)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
