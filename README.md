@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How is vPilot porting models into MSFS](https://forums.vatsim.net/topic/31523-how-is-vpilot-porting-models-into-msfs/?do=findComment&comment=179554)
 - [How is vPilot porting models into MSFS](https://forums.vatsim.net/topic/31523-how-is-vpilot-porting-models-into-msfs/?do=findComment&comment=179553)
 - [Model matching 787 Lufthansa](https://forums.vatsim.net/topic/31522-model-matching-787-lufthansa/?do=findComment&comment=179552)
 - [Model matching 787 Lufthansa](https://forums.vatsim.net/topic/31522-model-matching-787-lufthansa/?do=findComment&comment=179551)
@@ -62,7 +63,6 @@
 - [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179547)
 - [Most aircraft not visible.](https://forums.vatsim.net/topic/31521-most-aircraft-not-visible/?do=findComment&comment=179546)
 - [[VACANCY] Director ATC Training - VATWA3](https://forums.vatsim.net/topic/31520-vacancy-director-atc-training-vatwa3/?do=findComment&comment=179545)
-- [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179544)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
