@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cannot map appropriate button for PTT (Honeycomb)](https://forums.vatsim.net/topic/31517-cannot-map-appropriate-button-for-ptt-honeycomb/?do=findComment&comment=179543)
 - [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179542)
 - [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179541)
 - [Feature Request: Frequency list HTML page to be able access list in VR](https://forums.vatsim.net/topic/31506-feature-request-frequency-list-html-page-to-be-able-access-list-in-vr/?do=findComment&comment=179540)
@@ -62,7 +63,6 @@
 - [API Changes to ratings query?](https://forums.vatsim.net/topic/31512-api-changes-to-ratings-query/?do=findComment&comment=179536)
 - [P2 rating not reflected on my profile](https://forums.vatsim.net/topic/31518-p2-rating-not-reflected-on-my-profile/?do=findComment&comment=179535)
 - [P2 rating not reflected on my profile](https://forums.vatsim.net/topic/31518-p2-rating-not-reflected-on-my-profile/?do=findComment&comment=179534)
-- [Cannot map appropriate button for PTT (Honeycomb)](https://forums.vatsim.net/topic/31517-cannot-map-appropriate-button-for-ptt-honeycomb/?do=findComment&comment=179533)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
