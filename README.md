@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Injection of AI traffic](https://forums.vatsim.net/topic/31524-injection-of-ai-traffic/?do=findComment&comment=179557)
 - [Applied for VA PArtner ..no anwers for 6 week](https://forums.vatsim.net/topic/31282-applied-for-va-partner-no-anwers-for-6-week/?do=findComment&comment=179556)
 - [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179555)
 - [How is vPilot porting models into MSFS](https://forums.vatsim.net/topic/31523-how-is-vpilot-porting-models-into-msfs/?do=findComment&comment=179554)
@@ -62,7 +63,6 @@
 - [Model matching 787 Lufthansa](https://forums.vatsim.net/topic/31522-model-matching-787-lufthansa/?do=findComment&comment=179550)
 - [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179549)
 - [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179548)
-- [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179547)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
