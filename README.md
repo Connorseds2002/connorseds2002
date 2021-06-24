@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching 787 Lufthansa](https://forums.vatsim.net/topic/31522-model-matching-787-lufthansa/?do=findComment&comment=179552)
+- [Model matching 787 Lufthansa](https://forums.vatsim.net/topic/31522-model-matching-787-lufthansa/?do=findComment&comment=179551)
 - [Model matching 787 Lufthansa](https://forums.vatsim.net/topic/31522-model-matching-787-lufthansa/?do=findComment&comment=179550)
 - [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179549)
 - [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179548)
@@ -61,8 +63,6 @@
 - [[VACANCY] Director ATC Training - VATWA3](https://forums.vatsim.net/topic/31520-vacancy-director-atc-training-vatwa3/?do=findComment&comment=179545)
 - [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179544)
 - [Cannot map appropriate button for PTT (Honeycomb)](https://forums.vatsim.net/topic/31517-cannot-map-appropriate-button-for-ptt-honeycomb/?do=findComment&comment=179543)
-- [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179542)
-- [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179541)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
