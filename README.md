@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Most aircraft not visible.](https://forums.vatsim.net/topic/31521-most-aircraft-not-visible/?do=findComment&comment=179546)
 - [[VACANCY] Director ATC Training - VATWA3](https://forums.vatsim.net/topic/31520-vacancy-director-atc-training-vatwa3/?do=findComment&comment=179545)
 - [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179544)
 - [Cannot map appropriate button for PTT (Honeycomb)](https://forums.vatsim.net/topic/31517-cannot-map-appropriate-button-for-ptt-honeycomb/?do=findComment&comment=179543)
@@ -62,7 +63,6 @@
 - [Diego Naves steps down](https://forums.vatsim.net/topic/31514-diego-naves-steps-down/?do=findComment&comment=179539)
 - [Cannot map appropriate button for PTT (Honeycomb)](https://forums.vatsim.net/topic/31517-cannot-map-appropriate-button-for-ptt-honeycomb/?do=findComment&comment=179538)
 - [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=179537)
-- [API Changes to ratings query?](https://forums.vatsim.net/topic/31512-api-changes-to-ratings-query/?do=findComment&comment=179536)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
