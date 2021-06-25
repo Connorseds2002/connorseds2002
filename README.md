@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pure PHP](https://forums.vatsim.net/topic/31525-pure-php/?do=findComment&comment=179563)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179562)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179561)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=179560)
@@ -62,7 +63,6 @@
 - [Applied for VA PArtner ..no anwers for 6 week](https://forums.vatsim.net/topic/31282-applied-for-va-partner-no-anwers-for-6-week/?do=findComment&comment=179556)
 - [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179555)
 - [How is vPilot porting models into MSFS](https://forums.vatsim.net/topic/31523-how-is-vpilot-porting-models-into-msfs/?do=findComment&comment=179554)
-- [How is vPilot porting models into MSFS](https://forums.vatsim.net/topic/31523-how-is-vpilot-porting-models-into-msfs/?do=findComment&comment=179553)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
