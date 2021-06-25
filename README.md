@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=179560)
 - [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179559)
 - [How is vPilot porting models into MSFS](https://forums.vatsim.net/topic/31523-how-is-vpilot-porting-models-into-msfs/?do=findComment&comment=179558)
 - [Injection of AI traffic](https://forums.vatsim.net/topic/31524-injection-of-ai-traffic/?do=findComment&comment=179557)
@@ -62,7 +63,6 @@
 - [How is vPilot porting models into MSFS](https://forums.vatsim.net/topic/31523-how-is-vpilot-porting-models-into-msfs/?do=findComment&comment=179553)
 - [Model matching 787 Lufthansa](https://forums.vatsim.net/topic/31522-model-matching-787-lufthansa/?do=findComment&comment=179552)
 - [Model matching 787 Lufthansa](https://forums.vatsim.net/topic/31522-model-matching-787-lufthansa/?do=findComment&comment=179551)
-- [Model matching 787 Lufthansa](https://forums.vatsim.net/topic/31522-model-matching-787-lufthansa/?do=findComment&comment=179550)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
