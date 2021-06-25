@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [There are no Centers Online and I am nearing the airport I'm arriving at, what do I do for a STAR?](https://forums.vatsim.net/topic/31526-there-are-no-centers-online-and-i-am-nearing-the-airport-im-arriving-at-what-do-i-do-for-a-star/?do=findComment&comment=179570)
+- [There are no Centers Online and I am nearing the airport I'm arriving at, what do I do for a STAR?](https://forums.vatsim.net/topic/31526-there-are-no-centers-online-and-i-am-nearing-the-airport-im-arriving-at-what-do-i-do-for-a-star/?do=findComment&comment=179569)
 - [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=179568)
 - [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179567)
 - [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=179566)
@@ -61,8 +63,6 @@
 - [Pure PHP](https://forums.vatsim.net/topic/31525-pure-php/?do=findComment&comment=179563)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179562)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179561)
-- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=179560)
-- [Airliners with quality FMC](https://forums.vatsim.net/topic/31509-airliners-with-quality-fmc/?do=findComment&comment=179559)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
