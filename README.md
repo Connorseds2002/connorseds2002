@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New member callsign question](https://forums.vatsim.net/topic/31527-new-member-callsign-question/?do=findComment&comment=179572)
 - [New member callsign question](https://forums.vatsim.net/topic/31527-new-member-callsign-question/?do=findComment&comment=179571)
 - [There are no Centers Online and I am nearing the airport I'm arriving at, what do I do for a STAR?](https://forums.vatsim.net/topic/31526-there-are-no-centers-online-and-i-am-nearing-the-airport-im-arriving-at-what-do-i-do-for-a-star/?do=findComment&comment=179570)
 - [There are no Centers Online and I am nearing the airport I'm arriving at, what do I do for a STAR?](https://forums.vatsim.net/topic/31526-there-are-no-centers-online-and-i-am-nearing-the-airport-im-arriving-at-what-do-i-do-for-a-star/?do=findComment&comment=179569)
@@ -62,7 +63,6 @@
 - [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=179565)
 - [vPilot doesn't load](https://forums.vatsim.net/topic/31007-vpilot-doesnt-load/?do=findComment&comment=179564)
 - [Pure PHP](https://forums.vatsim.net/topic/31525-pure-php/?do=findComment&comment=179563)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179562)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
