@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Info on VATSIM API](https://forums.vatsim.net/topic/20-info-on-vatsim-api/?do=findComment&comment=179579)
+- [Info on VATSIM API](https://forums.vatsim.net/topic/20-info-on-vatsim-api/?do=findComment&comment=179578)
+- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179577)
+- [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=179576)
+- [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179575)
 - [There are no Centers Online and I am nearing the airport I'm arriving at, what do I do for a STAR?](https://forums.vatsim.net/topic/31526-there-are-no-centers-online-and-i-am-nearing-the-airport-im-arriving-at-what-do-i-do-for-a-star/?do=findComment&comment=179574)
 - [New member callsign question](https://forums.vatsim.net/topic/31527-new-member-callsign-question/?do=findComment&comment=179573)
 - [New member callsign question](https://forums.vatsim.net/topic/31527-new-member-callsign-question/?do=findComment&comment=179572)
 - [New member callsign question](https://forums.vatsim.net/topic/31527-new-member-callsign-question/?do=findComment&comment=179571)
 - [There are no Centers Online and I am nearing the airport I'm arriving at, what do I do for a STAR?](https://forums.vatsim.net/topic/31526-there-are-no-centers-online-and-i-am-nearing-the-airport-im-arriving-at-what-do-i-do-for-a-star/?do=findComment&comment=179570)
-- [There are no Centers Online and I am nearing the airport I'm arriving at, what do I do for a STAR?](https://forums.vatsim.net/topic/31526-there-are-no-centers-online-and-i-am-nearing-the-airport-im-arriving-at-what-do-i-do-for-a-star/?do=findComment&comment=179569)
-- [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=179568)
-- [[APPOINTMENT] Latvia vACC Director](https://forums.vatsim.net/topic/31508-appointment-latvia-vacc-director/?do=findComment&comment=179567)
-- [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=179566)
-- [VFR Circuits - asking for startup request?](https://forums.vatsim.net/topic/30747-vfr-circuits-asking-for-startup-request/?do=findComment&comment=179565)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
