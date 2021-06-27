@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179614)
+- [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179613)
+- [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179612)
+- [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179611)
+- [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179610)
+- [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179609)
 - [Voice ATIS not working](https://forums.vatsim.net/topic/31535-voice-atis-not-working/?do=findComment&comment=179608)
 - [Vpilot causes major stutters and freezes (MSFS)](https://forums.vatsim.net/topic/31534-vpilot-causes-major-stutters-and-freezes-msfs/?do=findComment&comment=179607)
 - [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179606)
 - [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179605)
-- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179604)
-- [[Dev] Sid/Star/Clearance](https://forums.vatsim.net/topic/31420-dev-sidstarclearance/?do=findComment&comment=179603)
-- [Differentiate SID and STAR entries from the SIDSTARS section](https://forums.vatsim.net/topic/31533-differentiate-sid-and-star-entries-from-the-sidstars-section/?do=findComment&comment=179602)
-- [Route drawing prefers isec over airway data](https://forums.vatsim.net/topic/31532-route-drawing-prefers-isec-over-airway-data/?do=findComment&comment=179601)
-- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179600)
-- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179599)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
