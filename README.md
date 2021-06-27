@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179599)
+- [SWIFT - crash on GUI launch](https://forums.vatsim.net/topic/31531-swift-crash-on-gui-launch/?do=findComment&comment=179598)
 - [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179597)
 - [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179596)
 - [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179595)
@@ -61,8 +63,6 @@
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179592)
 - [Aircraft Tags & Appearance](https://forums.vatsim.net/topic/31528-aircraft-tags-appearance/?do=findComment&comment=179591)
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179590)
-- [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179589)
-- [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179588)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
