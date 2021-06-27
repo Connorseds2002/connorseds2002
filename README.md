@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179605)
 - [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179604)
 - [[Dev] Sid/Star/Clearance](https://forums.vatsim.net/topic/31420-dev-sidstarclearance/?do=findComment&comment=179603)
 - [Differentiate SID and STAR entries from the SIDSTARS section](https://forums.vatsim.net/topic/31533-differentiate-sid-and-star-entries-from-the-sidstars-section/?do=findComment&comment=179602)
@@ -62,7 +63,6 @@
 - [SWIFT - crash on GUI launch](https://forums.vatsim.net/topic/31531-swift-crash-on-gui-launch/?do=findComment&comment=179598)
 - [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179597)
 - [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179596)
-- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179595)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
