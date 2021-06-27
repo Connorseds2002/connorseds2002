@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179581)
 - [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179580)
 - [Info on VATSIM API](https://forums.vatsim.net/topic/20-info-on-vatsim-api/?do=findComment&comment=179579)
 - [Info on VATSIM API](https://forums.vatsim.net/topic/20-info-on-vatsim-api/?do=findComment&comment=179578)
@@ -62,7 +63,6 @@
 - [There are no Centers Online and I am nearing the airport I'm arriving at, what do I do for a STAR?](https://forums.vatsim.net/topic/31526-there-are-no-centers-online-and-i-am-nearing-the-airport-im-arriving-at-what-do-i-do-for-a-star/?do=findComment&comment=179574)
 - [New member callsign question](https://forums.vatsim.net/topic/31527-new-member-callsign-question/?do=findComment&comment=179573)
 - [New member callsign question](https://forums.vatsim.net/topic/31527-new-member-callsign-question/?do=findComment&comment=179572)
-- [New member callsign question](https://forums.vatsim.net/topic/31527-new-member-callsign-question/?do=findComment&comment=179571)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
