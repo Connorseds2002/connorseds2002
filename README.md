@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179587)
+- [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179586)
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179585)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179584)
 - [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=179583)
@@ -61,8 +63,6 @@
 - [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179580)
 - [Info on VATSIM API](https://forums.vatsim.net/topic/20-info-on-vatsim-api/?do=findComment&comment=179579)
 - [Info on VATSIM API](https://forums.vatsim.net/topic/20-info-on-vatsim-api/?do=findComment&comment=179578)
-- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179577)
-- [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=179576)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
