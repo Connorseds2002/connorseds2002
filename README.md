@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179597)
+- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179596)
+- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179595)
 - [Most aircraft not visible.](https://forums.vatsim.net/topic/31521-most-aircraft-not-visible/?do=findComment&comment=179594)
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179593)
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179592)
@@ -60,9 +63,6 @@
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179590)
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179589)
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179588)
-- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179587)
-- [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179586)
-- [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179585)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
