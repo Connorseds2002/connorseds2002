@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179593)
+- [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179592)
+- [Aircraft Tags & Appearance](https://forums.vatsim.net/topic/31528-aircraft-tags-appearance/?do=findComment&comment=179591)
+- [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179590)
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179589)
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179588)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179587)
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179586)
 - [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179585)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179584)
-- [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=179583)
-- [Aircraft Tags & Appearance](https://forums.vatsim.net/topic/31528-aircraft-tags-appearance/?do=findComment&comment=179582)
-- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179581)
-- [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179580)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
