@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim account on swift](https://forums.vatsim.net/topic/31529-vatsim-account-on-swift/?do=findComment&comment=179585)
+- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179584)
+- [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=179583)
 - [Aircraft Tags & Appearance](https://forums.vatsim.net/topic/31528-aircraft-tags-appearance/?do=findComment&comment=179582)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179581)
 - [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179580)
@@ -60,9 +63,6 @@
 - [Info on VATSIM API](https://forums.vatsim.net/topic/20-info-on-vatsim-api/?do=findComment&comment=179578)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=179577)
 - [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=179576)
-- [vPilot Freezing on desktop](https://forums.vatsim.net/topic/31504-vpilot-freezing-on-desktop/?do=findComment&comment=179575)
-- [There are no Centers Online and I am nearing the airport I'm arriving at, what do I do for a STAR?](https://forums.vatsim.net/topic/31526-there-are-no-centers-online-and-i-am-nearing-the-airport-im-arriving-at-what-do-i-do-for-a-star/?do=findComment&comment=179574)
-- [New member callsign question](https://forums.vatsim.net/topic/31527-new-member-callsign-question/?do=findComment&comment=179573)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
