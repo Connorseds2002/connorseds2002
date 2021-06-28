@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SWIFT - crash on GUI launch](https://forums.vatsim.net/topic/31531-swift-crash-on-gui-launch/?do=findComment&comment=179640)
+- [Can't Be Heard](https://forums.vatsim.net/topic/31538-cant-be-heard/?do=findComment&comment=179639)
+- [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179638)
 - [OnFunctionCall called twice when using the OpenPopupEdit function](https://forums.vatsim.net/topic/31542-onfunctioncall-called-twice-when-using-the-openpopupedit-function/?do=findComment&comment=179637)
 - [OnFunctionCall called twice when using the OpenPopupEdit function](https://forums.vatsim.net/topic/31542-onfunctioncall-called-twice-when-using-the-openpopupedit-function/?do=findComment&comment=179636)
 - [Excluding aircraft cleared for an APP from MSAW alerts](https://forums.vatsim.net/topic/31541-excluding-aircraft-cleared-for-an-app-from-msaw-alerts/?do=findComment&comment=179635)
@@ -60,9 +63,6 @@
 - [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179633)
 - [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179632)
 - [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179631)
-- [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179630)
-- [Uncontrolled airspace](https://forums.vatsim.net/topic/31539-uncontrolled-airspace/?do=findComment&comment=179629)
-- [What does a controller see?](https://forums.vatsim.net/topic/31519-what-does-a-controller-see/?do=findComment&comment=179628)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
