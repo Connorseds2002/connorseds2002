@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179641)
 - [SWIFT - crash on GUI launch](https://forums.vatsim.net/topic/31531-swift-crash-on-gui-launch/?do=findComment&comment=179640)
 - [Can't Be Heard](https://forums.vatsim.net/topic/31538-cant-be-heard/?do=findComment&comment=179639)
 - [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179638)
@@ -62,7 +63,6 @@
 - [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179634)
 - [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179633)
 - [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179632)
-- [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179631)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
