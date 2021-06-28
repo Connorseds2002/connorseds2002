@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Uncontrolled airspace](https://forums.vatsim.net/topic/31539-uncontrolled-airspace/?do=findComment&comment=179627)
 - [Voice ATIS not working](https://forums.vatsim.net/topic/31535-voice-atis-not-working/?do=findComment&comment=179626)
 - [Uncontrolled airspace](https://forums.vatsim.net/topic/31539-uncontrolled-airspace/?do=findComment&comment=179625)
 - [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179624)
@@ -62,7 +63,6 @@
 - [Uncontrolled airspace](https://forums.vatsim.net/topic/31539-uncontrolled-airspace/?do=findComment&comment=179620)
 - [Uncontrolled airspace](https://forums.vatsim.net/topic/31539-uncontrolled-airspace/?do=findComment&comment=179619)
 - [Vpilot causes major stutters and freezes (MSFS)](https://forums.vatsim.net/topic/31534-vpilot-causes-major-stutters-and-freezes-msfs/?do=findComment&comment=179618)
-- [Can't Be Heard](https://forums.vatsim.net/topic/31538-cant-be-heard/?do=findComment&comment=179617)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
