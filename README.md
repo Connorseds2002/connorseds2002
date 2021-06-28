@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Uncontrolled airspace](https://forums.vatsim.net/topic/31539-uncontrolled-airspace/?do=findComment&comment=179620)
 - [Uncontrolled airspace](https://forums.vatsim.net/topic/31539-uncontrolled-airspace/?do=findComment&comment=179619)
 - [Vpilot causes major stutters and freezes (MSFS)](https://forums.vatsim.net/topic/31534-vpilot-causes-major-stutters-and-freezes-msfs/?do=findComment&comment=179618)
 - [Can't Be Heard](https://forums.vatsim.net/topic/31538-cant-be-heard/?do=findComment&comment=179617)
@@ -62,7 +63,6 @@
 - [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179613)
 - [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179612)
 - [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179611)
-- [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179610)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
