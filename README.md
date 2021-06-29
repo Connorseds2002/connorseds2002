@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179658)
 - [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179657)
 - [POSITION VACANCY - DEPUTY DIVISION DIRECTOR (VATCAR2)](https://forums.vatsim.net/topic/31547-position-vacancy-deputy-division-director-vatcar2/?do=findComment&comment=179656)
 - [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179655)
@@ -62,7 +63,6 @@
 - [Euroscope profile help!](https://forums.vatsim.net/topic/31543-euroscope-profile-help/?do=findComment&comment=179651)
 - [local character in data files](https://forums.vatsim.net/topic/31545-local-character-in-data-files/?do=findComment&comment=179650)
 - [SWIFT - crash on GUI launch](https://forums.vatsim.net/topic/31531-swift-crash-on-gui-launch/?do=findComment&comment=179649)
-- [[EVENT] Spice Run](https://forums.vatsim.net/topic/31544-event-spice-run/?do=findComment&comment=179648)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
