@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Metric support](https://forums.vatsim.net/topic/31546-metric-support/?do=findComment&comment=179654)
+- [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179653)
+- [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179652)
+- [Euroscope profile help!](https://forums.vatsim.net/topic/31543-euroscope-profile-help/?do=findComment&comment=179651)
+- [local character in data files](https://forums.vatsim.net/topic/31545-local-character-in-data-files/?do=findComment&comment=179650)
 - [SWIFT - crash on GUI launch](https://forums.vatsim.net/topic/31531-swift-crash-on-gui-launch/?do=findComment&comment=179649)
 - [[EVENT] Spice Run](https://forums.vatsim.net/topic/31544-event-spice-run/?do=findComment&comment=179648)
 - [Vpilot causes major stutters and freezes (MSFS)](https://forums.vatsim.net/topic/31534-vpilot-causes-major-stutters-and-freezes-msfs/?do=findComment&comment=179647)
 - [Euroscope profile help!](https://forums.vatsim.net/topic/31543-euroscope-profile-help/?do=findComment&comment=179646)
 - [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179645)
-- [Euroscope profile help!](https://forums.vatsim.net/topic/31543-euroscope-profile-help/?do=findComment&comment=179644)
-- [Can't Be Heard](https://forums.vatsim.net/topic/31538-cant-be-heard/?do=findComment&comment=179643)
-- [SWIFT - crash on GUI launch](https://forums.vatsim.net/topic/31531-swift-crash-on-gui-launch/?do=findComment&comment=179642)
-- [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179641)
-- [SWIFT - crash on GUI launch](https://forums.vatsim.net/topic/31531-swift-crash-on-gui-launch/?do=findComment&comment=179640)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
