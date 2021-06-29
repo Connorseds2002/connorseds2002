@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot causes major stutters and freezes (MSFS)](https://forums.vatsim.net/topic/31534-vpilot-causes-major-stutters-and-freezes-msfs/?do=findComment&comment=179647)
 - [Euroscope profile help!](https://forums.vatsim.net/topic/31543-euroscope-profile-help/?do=findComment&comment=179646)
 - [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179645)
 - [Euroscope profile help!](https://forums.vatsim.net/topic/31543-euroscope-profile-help/?do=findComment&comment=179644)
@@ -62,7 +63,6 @@
 - [SWIFT - crash on GUI launch](https://forums.vatsim.net/topic/31531-swift-crash-on-gui-launch/?do=findComment&comment=179640)
 - [Can't Be Heard](https://forums.vatsim.net/topic/31538-cant-be-heard/?do=findComment&comment=179639)
 - [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179638)
-- [OnFunctionCall called twice when using the OpenPopupEdit function](https://forums.vatsim.net/topic/31542-onfunctioncall-called-twice-when-using-the-openpopupedit-function/?do=findComment&comment=179637)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
