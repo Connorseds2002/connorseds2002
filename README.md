@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=179675)
+- [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=179674)
+- [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=179673)
 - [Ingame-Panel for FS2020: VR support for vpilot  or Vatspy](https://forums.vatsim.net/topic/31407-ingame-panel-for-fs2020-vr-support-for-vpilot-or-vatspy/?do=findComment&comment=179672)
 - [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179671)
 - [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179666)
@@ -60,9 +63,6 @@
 - [Metric support](https://forums.vatsim.net/topic/31546-metric-support/?do=findComment&comment=179664)
 - [Metric support](https://forums.vatsim.net/topic/31546-metric-support/?do=findComment&comment=179663)
 - [Scraping The Rust Off!](https://forums.vatsim.net/topic/31536-scraping-the-rust-off/?do=findComment&comment=179662)
-- [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=179661)
-- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179660)
-- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=179659)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
