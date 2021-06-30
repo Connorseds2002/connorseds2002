@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [HTTP ERROR 500 when trying to query or create a ticket](https://forums.vatsim.net/topic/31550-http-error-500-when-trying-to-query-or-create-a-ticket/?do=findComment&comment=179677)
 - [[VACANY] Nepal vACC Staff Vacancies](https://forums.vatsim.net/topic/31549-vacany-nepal-vacc-staff-vacancies/?do=findComment&comment=179676)
 - [ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=179675)
 - [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=179674)
@@ -62,7 +63,6 @@
 - [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179666)
 - [Injection of AI traffic](https://forums.vatsim.net/topic/31524-injection-of-ai-traffic/?do=findComment&comment=179665)
 - [Metric support](https://forums.vatsim.net/topic/31546-metric-support/?do=findComment&comment=179664)
-- [Metric support](https://forums.vatsim.net/topic/31546-metric-support/?do=findComment&comment=179663)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
