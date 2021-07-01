@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179679)
 - [Issue with microphone](https://forums.vatsim.net/topic/31551-issue-with-microphone/?do=findComment&comment=179678)
 - [HTTP ERROR 500 when trying to query or create a ticket](https://forums.vatsim.net/topic/31550-http-error-500-when-trying-to-query-or-create-a-ticket/?do=findComment&comment=179677)
 - [[VACANY] Nepal vACC Staff Vacancies](https://forums.vatsim.net/topic/31549-vacany-nepal-vacc-staff-vacancies/?do=findComment&comment=179676)
@@ -62,7 +63,6 @@
 - [Ingame-Panel for FS2020: VR support for vpilot  or Vatspy](https://forums.vatsim.net/topic/31407-ingame-panel-for-fs2020-vr-support-for-vpilot-or-vatspy/?do=findComment&comment=179672)
 - [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179671)
 - [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179666)
-- [Injection of AI traffic](https://forums.vatsim.net/topic/31524-injection-of-ai-traffic/?do=findComment&comment=179665)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
