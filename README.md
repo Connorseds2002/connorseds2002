@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Group Flight] Kathmandu to Paro!](https://forums.vatsim.net/topic/31553-group-flight-kathmandu-to-paro/?do=findComment&comment=179683)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179682)
 - [Welcome to DLH Virtual!](https://forums.vatsim.net/topic/31552-welcome-to-dlh-virtual/?do=findComment&comment=179681)
 - [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179680)
@@ -62,7 +63,6 @@
 - [[VACANY] Nepal vACC Staff Vacancies](https://forums.vatsim.net/topic/31549-vacany-nepal-vacc-staff-vacancies/?do=findComment&comment=179676)
 - [ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=179675)
 - [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=179674)
-- [ACCNPL3 - Nepal vACC ATC training Director Vacancy](https://forums.vatsim.net/topic/31095-accnpl3-nepal-vacc-atc-training-director-vacancy/?do=findComment&comment=179673)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
