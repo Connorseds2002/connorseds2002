@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=179685)
+- [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179684)
 - [[Group Flight] Kathmandu to Paro!](https://forums.vatsim.net/topic/31553-group-flight-kathmandu-to-paro/?do=findComment&comment=179683)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179682)
 - [Welcome to DLH Virtual!](https://forums.vatsim.net/topic/31552-welcome-to-dlh-virtual/?do=findComment&comment=179681)
@@ -61,8 +63,6 @@
 - [Issue with microphone](https://forums.vatsim.net/topic/31551-issue-with-microphone/?do=findComment&comment=179678)
 - [HTTP ERROR 500 when trying to query or create a ticket](https://forums.vatsim.net/topic/31550-http-error-500-when-trying-to-query-or-create-a-ticket/?do=findComment&comment=179677)
 - [[VACANY] Nepal vACC Staff Vacancies](https://forums.vatsim.net/topic/31549-vacany-nepal-vacc-staff-vacancies/?do=findComment&comment=179676)
-- [ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=179675)
-- [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=179674)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
