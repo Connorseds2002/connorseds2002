@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=179688)
 - [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=179687)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179686)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=179685)
@@ -62,7 +63,6 @@
 - [Welcome to DLH Virtual!](https://forums.vatsim.net/topic/31552-welcome-to-dlh-virtual/?do=findComment&comment=179681)
 - [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179680)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179679)
-- [Issue with microphone](https://forums.vatsim.net/topic/31551-issue-with-microphone/?do=findComment&comment=179678)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
