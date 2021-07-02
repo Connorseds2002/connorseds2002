@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179686)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=179685)
 - [Avoiding automatic coordination for COPX beyond sector boundary](https://forums.vatsim.net/topic/31540-avoiding-automatic-coordination-for-copx-beyond-sector-boundary/?do=findComment&comment=179684)
 - [[Group Flight] Kathmandu to Paro!](https://forums.vatsim.net/topic/31553-group-flight-kathmandu-to-paro/?do=findComment&comment=179683)
@@ -62,7 +63,6 @@
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179679)
 - [Issue with microphone](https://forums.vatsim.net/topic/31551-issue-with-microphone/?do=findComment&comment=179678)
 - [HTTP ERROR 500 when trying to query or create a ticket](https://forums.vatsim.net/topic/31550-http-error-500-when-trying-to-query-or-create-a-ticket/?do=findComment&comment=179677)
-- [[VACANY] Nepal vACC Staff Vacancies](https://forums.vatsim.net/topic/31549-vacany-nepal-vacc-staff-vacancies/?do=findComment&comment=179676)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
