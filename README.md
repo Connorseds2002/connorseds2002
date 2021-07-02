@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179702)
+- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179701)
+- [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=179700)
 - [Canadian Xpress July 2021 Monthly Challenge: Scenic Approaches IX - Santa Catalina](https://forums.vatsim.net/topic/31558-canadian-xpress-july-2021-monthly-challenge-scenic-approaches-ix-santa-catalina/?do=findComment&comment=179699)
 - [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=179698)
 - [Virtual United Airlines Celebrates 10 Years, Prepares for The Next 10](https://forums.vatsim.net/topic/31557-virtual-united-airlines-celebrates-10-years-prepares-for-the-next-10/?do=findComment&comment=179697)
@@ -60,9 +63,6 @@
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179695)
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179694)
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179693)
-- [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179692)
-- [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=179691)
-- [[ACCIND3] India vACC ATC Training Director Vacancy](https://forums.vatsim.net/topic/31555-accind3-india-vacc-atc-training-director-vacancy/?do=findComment&comment=179690)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
