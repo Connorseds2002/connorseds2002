@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsys Crashing](https://forums.vatsim.net/topic/31561-vatsys-crashing/?do=findComment&comment=179712)
+- [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179711)
 - [Connected to vatsim but no audio](https://forums.vatsim.net/topic/31560-connected-to-vatsim-but-no-audio/?do=findComment&comment=179710)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=179709)
 - [Looking for Pilot/Co Pilot](https://forums.vatsim.net/topic/31559-looking-for-pilotco-pilot/?do=findComment&comment=179708)
@@ -61,8 +63,6 @@
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179705)
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179704)
 - [No audio on vPilot](https://forums.vatsim.net/topic/25966-no-audio-on-vpilot/?do=findComment&comment=179703)
-- [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179702)
-- [[APPOINTMENT] Portugal vACC Director](https://forums.vatsim.net/topic/31530-appointment-portugal-vacc-director/?do=findComment&comment=179701)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
