@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Exam](https://forums.vatsim.net/topic/31565-exam/?do=findComment&comment=179729)
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179728)
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179727)
 - [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=179726)
@@ -62,7 +63,6 @@
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179721)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179720)
 - [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=179719)
-- [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=179718)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
