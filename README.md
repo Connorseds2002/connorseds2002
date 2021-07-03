@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=179719)
+- [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=179718)
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179717)
 - [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=179716)
 - [Vatsys Crashing](https://forums.vatsim.net/topic/31561-vatsys-crashing/?do=findComment&comment=179715)
@@ -61,8 +63,6 @@
 - [Vatsys Crashing](https://forums.vatsim.net/topic/31561-vatsys-crashing/?do=findComment&comment=179712)
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179711)
 - [Connected to vatsim but no audio](https://forums.vatsim.net/topic/31560-connected-to-vatsim-but-no-audio/?do=findComment&comment=179710)
-- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=179709)
-- [Looking for Pilot/Co Pilot](https://forums.vatsim.net/topic/31559-looking-for-pilotco-pilot/?do=findComment&comment=179708)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
