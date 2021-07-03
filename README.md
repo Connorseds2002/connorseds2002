@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Connected to vatsim but no audio](https://forums.vatsim.net/topic/31560-connected-to-vatsim-but-no-audio/?do=findComment&comment=179714)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179713)
 - [Vatsys Crashing](https://forums.vatsim.net/topic/31561-vatsys-crashing/?do=findComment&comment=179712)
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179711)
@@ -62,7 +63,6 @@
 - [Looking for Pilot/Co Pilot](https://forums.vatsim.net/topic/31559-looking-for-pilotco-pilot/?do=findComment&comment=179707)
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179706)
 - [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179705)
-- [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179704)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
