@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [HELP](https://forums.vatsim.net/topic/31571-help/?do=findComment&comment=179754)
+- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179753)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179752)
 - [Disconnected from Voice Server](https://forums.vatsim.net/topic/25834-disconnected-from-voice-server/?do=findComment&comment=179751)
 - [Error Connecting to voice server](https://forums.vatsim.net/topic/30628-error-connecting-to-voice-server/?do=findComment&comment=179750)
@@ -61,8 +63,6 @@
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179747)
 - [faa group form callsign question](https://forums.vatsim.net/topic/31570-faa-group-form-callsign-question/?do=findComment&comment=179746)
 - [faa group form callsign question](https://forums.vatsim.net/topic/31570-faa-group-form-callsign-question/?do=findComment&comment=179745)
-- [Been flying in European Airspace and wanted to try flying in the U.S. Clearance is different, they tell me "[] transition," What does this mean?](https://forums.vatsim.net/topic/31567-been-flying-in-european-airspace-and-wanted-to-try-flying-in-the-us-clearance-is-different-they-tell-me-transition-what-does-this-mean/?do=findComment&comment=179744)
-- [Unable to create files after r29](https://forums.vatsim.net/topic/31293-unable-to-create-files-after-r29/?do=findComment&comment=179743)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
