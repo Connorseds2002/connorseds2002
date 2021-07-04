@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AFV authentication failed for:](https://forums.vatsim.net/topic/31572-afv-authentication-failed-for/?do=findComment&comment=179756)
+- [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=179755)
 - [HELP](https://forums.vatsim.net/topic/31571-help/?do=findComment&comment=179754)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179753)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179752)
@@ -61,8 +63,6 @@
 - [Been flying in European Airspace and wanted to try flying in the U.S. Clearance is different, they tell me "[] transition," What does this mean?](https://forums.vatsim.net/topic/31567-been-flying-in-european-airspace-and-wanted-to-try-flying-in-the-us-clearance-is-different-they-tell-me-transition-what-does-this-mean/?do=findComment&comment=179749)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179748)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179747)
-- [faa group form callsign question](https://forums.vatsim.net/topic/31570-faa-group-form-callsign-question/?do=findComment&comment=179746)
-- [faa group form callsign question](https://forums.vatsim.net/topic/31570-faa-group-form-callsign-question/?do=findComment&comment=179745)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
