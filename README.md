@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Resignation Divisional Operations Director](https://forums.vatsim.net/topic/31569-resignation-divisional-operations-director/?do=findComment&comment=179741)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179740)
 - [New player to ATC](https://forums.vatsim.net/topic/31568-new-player-to-atc/?do=findComment&comment=179739)
 - [Been flying in European Airspace and wanted to try flying in the U.S. Clearance is different, they tell me "[] transition," What does this mean?](https://forums.vatsim.net/topic/31567-been-flying-in-european-airspace-and-wanted-to-try-flying-in-the-us-clearance-is-different-they-tell-me-transition-what-does-this-mean/?do=findComment&comment=179738)
@@ -62,7 +63,6 @@
 - [Exam](https://forums.vatsim.net/topic/31565-exam/?do=findComment&comment=179731)
 - [Exam](https://forums.vatsim.net/topic/31565-exam/?do=findComment&comment=179730)
 - [Exam](https://forums.vatsim.net/topic/31565-exam/?do=findComment&comment=179729)
-- [Wrong config file version on startup](https://forums.vatsim.net/topic/31556-wrong-config-file-version-on-startup/?do=findComment&comment=179728)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
