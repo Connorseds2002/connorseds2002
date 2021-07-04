@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179752)
+- [Disconnected from Voice Server](https://forums.vatsim.net/topic/25834-disconnected-from-voice-server/?do=findComment&comment=179751)
+- [Error Connecting to voice server](https://forums.vatsim.net/topic/30628-error-connecting-to-voice-server/?do=findComment&comment=179750)
 - [Been flying in European Airspace and wanted to try flying in the U.S. Clearance is different, they tell me "[] transition," What does this mean?](https://forums.vatsim.net/topic/31567-been-flying-in-european-airspace-and-wanted-to-try-flying-in-the-us-clearance-is-different-they-tell-me-transition-what-does-this-mean/?do=findComment&comment=179749)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179748)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179747)
@@ -60,9 +63,6 @@
 - [faa group form callsign question](https://forums.vatsim.net/topic/31570-faa-group-form-callsign-question/?do=findComment&comment=179745)
 - [Been flying in European Airspace and wanted to try flying in the U.S. Clearance is different, they tell me "[] transition," What does this mean?](https://forums.vatsim.net/topic/31567-been-flying-in-european-airspace-and-wanted-to-try-flying-in-the-us-clearance-is-different-they-tell-me-transition-what-does-this-mean/?do=findComment&comment=179744)
 - [Unable to create files after r29](https://forums.vatsim.net/topic/31293-unable-to-create-files-after-r29/?do=findComment&comment=179743)
-- [Euroscope Scenario Editor - Instructions field.](https://forums.vatsim.net/topic/24220-euroscope-scenario-editor-instructions-field/?do=findComment&comment=179742)
-- [Resignation Divisional Operations Director](https://forums.vatsim.net/topic/31569-resignation-divisional-operations-director/?do=findComment&comment=179741)
-- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179740)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
