@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Download a previous version of vPilot, because the useful aircraft list...](https://forums.vatsim.net/topic/31574-download-a-previous-version-of-vpilot-because-the-useful-aircraft-list/?do=findComment&comment=179767)
+- [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=179766)
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179765)
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179764)
 - [Download a previous version of vPilot, because the useful aircraft list...](https://forums.vatsim.net/topic/31574-download-a-previous-version-of-vpilot-because-the-useful-aircraft-list/?do=findComment&comment=179763)
@@ -61,8 +63,6 @@
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179760)
 - [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=179759)
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179758)
-- [HELP](https://forums.vatsim.net/topic/31571-help/?do=findComment&comment=179757)
-- [AFV authentication failed for:](https://forums.vatsim.net/topic/31572-afv-authentication-failed-for/?do=findComment&comment=179756)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
