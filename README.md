@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179760)
 - [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=179759)
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179758)
 - [HELP](https://forums.vatsim.net/topic/31571-help/?do=findComment&comment=179757)
@@ -62,7 +63,6 @@
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179753)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179752)
 - [Disconnected from Voice Server](https://forums.vatsim.net/topic/25834-disconnected-from-voice-server/?do=findComment&comment=179751)
-- [Error Connecting to voice server](https://forums.vatsim.net/topic/30628-error-connecting-to-voice-server/?do=findComment&comment=179750)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
