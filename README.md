@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179762)
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179761)
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179760)
 - [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=179759)
@@ -62,7 +63,6 @@
 - [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=179755)
 - [HELP](https://forums.vatsim.net/topic/31571-help/?do=findComment&comment=179754)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179753)
-- [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179752)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
