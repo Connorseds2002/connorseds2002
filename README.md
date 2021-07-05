@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=179759)
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179758)
 - [HELP](https://forums.vatsim.net/topic/31571-help/?do=findComment&comment=179757)
 - [AFV authentication failed for:](https://forums.vatsim.net/topic/31572-afv-authentication-failed-for/?do=findComment&comment=179756)
@@ -62,7 +63,6 @@
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179752)
 - [Disconnected from Voice Server](https://forums.vatsim.net/topic/25834-disconnected-from-voice-server/?do=findComment&comment=179751)
 - [Error Connecting to voice server](https://forums.vatsim.net/topic/30628-error-connecting-to-voice-server/?do=findComment&comment=179750)
-- [Been flying in European Airspace and wanted to try flying in the U.S. Clearance is different, they tell me "[] transition," What does this mean?](https://forums.vatsim.net/topic/31567-been-flying-in-european-airspace-and-wanted-to-try-flying-in-the-us-clearance-is-different-they-tell-me-transition-what-does-this-mean/?do=findComment&comment=179749)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
