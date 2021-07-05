@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179765)
+- [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179764)
 - [Download a previous version of vPilot, because the useful aircraft list...](https://forums.vatsim.net/topic/31574-download-a-previous-version-of-vpilot-because-the-useful-aircraft-list/?do=findComment&comment=179763)
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179762)
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179761)
@@ -61,8 +63,6 @@
 - [Creating a new vACC?????](https://forums.vatsim.net/topic/31573-creating-a-new-vacc/?do=findComment&comment=179758)
 - [HELP](https://forums.vatsim.net/topic/31571-help/?do=findComment&comment=179757)
 - [AFV authentication failed for:](https://forums.vatsim.net/topic/31572-afv-authentication-failed-for/?do=findComment&comment=179756)
-- [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=179755)
-- [HELP](https://forums.vatsim.net/topic/31571-help/?do=findComment&comment=179754)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
