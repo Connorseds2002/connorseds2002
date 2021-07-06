@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VatSpy Stuck On Loading and Slow Updates](https://forums.vatsim.net/topic/31442-vatspy-stuck-on-loading-and-slow-updates/?do=findComment&comment=179790)
+- [VatSpy Stuck On Loading and Slow Updates](https://forums.vatsim.net/topic/31442-vatspy-stuck-on-loading-and-slow-updates/?do=findComment&comment=179789)
+- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179788)
 - [Friday Night Live: 30-07-2021: Ahmedabad (VAAH) and Mumbai (VABB)](https://forums.vatsim.net/topic/31581-friday-night-live-30-07-2021-ahmedabad-vaah-and-mumbai-vabb/?do=findComment&comment=179787)
 - [Friday Night Live: 23-07-2021: Kolkata (VECC) to Guwahati (VEGT)](https://forums.vatsim.net/topic/31580-friday-night-live-23-07-2021-kolkata-vecc-to-guwahati-vegt/?do=findComment&comment=179786)
 - [AFV not loading/starting](https://forums.vatsim.net/topic/31578-afv-not-loadingstarting/?do=findComment&comment=179785)
@@ -60,9 +63,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179783)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179782)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=179781)
-- [AFV not loading/starting](https://forums.vatsim.net/topic/31578-afv-not-loadingstarting/?do=findComment&comment=179780)
-- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179779)
-- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179778)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
