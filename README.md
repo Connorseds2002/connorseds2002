@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179803)
 - [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179802)
 - [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=179801)
 - [AFV not loading/starting](https://forums.vatsim.net/topic/31578-afv-not-loadingstarting/?do=findComment&comment=179800)
@@ -62,7 +63,6 @@
 - [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=179796)
 - [vPilot TX/RX Boxes flashing on and off](https://forums.vatsim.net/topic/31583-vpilot-txrx-boxes-flashing-on-and-off/?do=findComment&comment=179795)
 - [vPilot TX/RX Boxes flashing on and off](https://forums.vatsim.net/topic/31583-vpilot-txrx-boxes-flashing-on-and-off/?do=findComment&comment=179794)
-- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179793)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
