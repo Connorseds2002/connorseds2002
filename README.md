@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179793)
+- [VatSpy Stuck On Loading and Slow Updates](https://forums.vatsim.net/topic/31442-vatspy-stuck-on-loading-and-slow-updates/?do=findComment&comment=179792)
 - [No sound in xPilot](https://forums.vatsim.net/topic/31582-no-sound-in-xpilot/?do=findComment&comment=179791)
 - [VatSpy Stuck On Loading and Slow Updates](https://forums.vatsim.net/topic/31442-vatspy-stuck-on-loading-and-slow-updates/?do=findComment&comment=179790)
 - [VatSpy Stuck On Loading and Slow Updates](https://forums.vatsim.net/topic/31442-vatspy-stuck-on-loading-and-slow-updates/?do=findComment&comment=179789)
@@ -61,8 +63,6 @@
 - [Friday Night Live: 23-07-2021: Kolkata (VECC) to Guwahati (VEGT)](https://forums.vatsim.net/topic/31580-friday-night-live-23-07-2021-kolkata-vecc-to-guwahati-vegt/?do=findComment&comment=179786)
 - [AFV not loading/starting](https://forums.vatsim.net/topic/31578-afv-not-loadingstarting/?do=findComment&comment=179785)
 - [Friday Night Live: 16-07-2021: Bengaluru (VOBL) to Hyderabad (VOHS)](https://forums.vatsim.net/topic/31579-friday-night-live-16-07-2021-bengaluru-vobl-to-hyderabad-vohs/?do=findComment&comment=179784)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179783)
-- [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179782)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
