@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=179796)
 - [vPilot TX/RX Boxes flashing on and off](https://forums.vatsim.net/topic/31583-vpilot-txrx-boxes-flashing-on-and-off/?do=findComment&comment=179795)
 - [vPilot TX/RX Boxes flashing on and off](https://forums.vatsim.net/topic/31583-vpilot-txrx-boxes-flashing-on-and-off/?do=findComment&comment=179794)
 - [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179793)
@@ -62,7 +63,6 @@
 - [VatSpy Stuck On Loading and Slow Updates](https://forums.vatsim.net/topic/31442-vatspy-stuck-on-loading-and-slow-updates/?do=findComment&comment=179789)
 - [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179788)
 - [Friday Night Live: 30-07-2021: Ahmedabad (VAAH) and Mumbai (VABB)](https://forums.vatsim.net/topic/31581-friday-night-live-30-07-2021-ahmedabad-vaah-and-mumbai-vabb/?do=findComment&comment=179787)
-- [Friday Night Live: 23-07-2021: Kolkata (VECC) to Guwahati (VEGT)](https://forums.vatsim.net/topic/31580-friday-night-live-23-07-2021-kolkata-vecc-to-guwahati-vegt/?do=findComment&comment=179786)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
