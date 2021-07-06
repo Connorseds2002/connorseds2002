@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=179781)
+- [AFV not loading/starting](https://forums.vatsim.net/topic/31578-afv-not-loadingstarting/?do=findComment&comment=179780)
 - [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179779)
 - [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179778)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179777)
@@ -61,8 +63,6 @@
 - [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179774)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179773)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=179772)
-- [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179771)
-- [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=179770)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
