@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179823)
 - [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179822)
 - [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179821)
 - [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=179820)
@@ -62,7 +63,6 @@
 - [Request start new VA but 1 month without answer](https://forums.vatsim.net/topic/31587-request-start-new-va-but-1-month-without-answer/?do=findComment&comment=179816)
 - [No way to regroup ATC planning somewhere?](https://forums.vatsim.net/topic/31586-no-way-to-regroup-atc-planning-somewhere/?do=findComment&comment=179815)
 - [No way to regroup ATC planning somewhere?](https://forums.vatsim.net/topic/31586-no-way-to-regroup-atc-planning-somewhere/?do=findComment&comment=179814)
-- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179813)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
