@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179821)
 - [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=179820)
 - [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179819)
 - [In need of help regarding the new member orientation exam](https://forums.vatsim.net/topic/31589-in-need-of-help-regarding-the-new-member-orientation-exam/?do=findComment&comment=179818)
@@ -62,7 +63,6 @@
 - [No way to regroup ATC planning somewhere?](https://forums.vatsim.net/topic/31586-no-way-to-regroup-atc-planning-somewhere/?do=findComment&comment=179814)
 - [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179813)
 - [Looking for crew members!](https://forums.vatsim.net/topic/31585-looking-for-crew-members/?do=findComment&comment=179812)
-- [Looking for Pilot/Co Pilot](https://forums.vatsim.net/topic/31559-looking-for-pilotco-pilot/?do=findComment&comment=179811)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
