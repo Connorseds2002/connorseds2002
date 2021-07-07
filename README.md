@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Request start new VA but 1 month without answer](https://forums.vatsim.net/topic/31587-request-start-new-va-but-1-month-without-answer/?do=findComment&comment=179816)
+- [No way to regroup ATC planning somewhere?](https://forums.vatsim.net/topic/31586-no-way-to-regroup-atc-planning-somewhere/?do=findComment&comment=179815)
+- [No way to regroup ATC planning somewhere?](https://forums.vatsim.net/topic/31586-no-way-to-regroup-atc-planning-somewhere/?do=findComment&comment=179814)
+- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179813)
+- [Looking for crew members!](https://forums.vatsim.net/topic/31585-looking-for-crew-members/?do=findComment&comment=179812)
 - [Looking for Pilot/Co Pilot](https://forums.vatsim.net/topic/31559-looking-for-pilotco-pilot/?do=findComment&comment=179811)
 - [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179810)
 - [vPilot TX/RX Boxes flashing on and off](https://forums.vatsim.net/topic/31583-vpilot-txrx-boxes-flashing-on-and-off/?do=findComment&comment=179809)
 - [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=179808)
 - [Notice of deprecation - Events forum](https://forums.vatsim.net/topic/30505-notice-of-deprecation-events-forum/?do=findComment&comment=179807)
-- [Notice of deprecation - Events forum](https://forums.vatsim.net/topic/30505-notice-of-deprecation-events-forum/?do=findComment&comment=179806)
-- [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=179805)
-- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179804)
-- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179803)
-- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=179802)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
