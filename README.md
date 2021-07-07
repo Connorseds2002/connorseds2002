@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Request start new VA but 1 month without answer](https://forums.vatsim.net/topic/31587-request-start-new-va-but-1-month-without-answer/?do=findComment&comment=179826)
+- [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179825)
+- [No way to regroup ATC planning somewhere?](https://forums.vatsim.net/topic/31586-no-way-to-regroup-atc-planning-somewhere/?do=findComment&comment=179824)
 - [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179823)
 - [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179822)
 - [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179821)
@@ -60,9 +63,6 @@
 - [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179819)
 - [In need of help regarding the new member orientation exam](https://forums.vatsim.net/topic/31589-in-need-of-help-regarding-the-new-member-orientation-exam/?do=findComment&comment=179818)
 - [VPilot interference with Sennheisser USB headset](https://forums.vatsim.net/topic/31588-vpilot-interference-with-sennheisser-usb-headset/?do=findComment&comment=179817)
-- [Request start new VA but 1 month without answer](https://forums.vatsim.net/topic/31587-request-start-new-va-but-1-month-without-answer/?do=findComment&comment=179816)
-- [No way to regroup ATC planning somewhere?](https://forums.vatsim.net/topic/31586-no-way-to-regroup-atc-planning-somewhere/?do=findComment&comment=179815)
-- [No way to regroup ATC planning somewhere?](https://forums.vatsim.net/topic/31586-no-way-to-regroup-atc-planning-somewhere/?do=findComment&comment=179814)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
