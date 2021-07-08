@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vERAM maps do not show when selected in ERAM.](https://forums.vatsim.net/topic/31594-veram-maps-do-not-show-when-selected-in-eram/?do=findComment&comment=179848)
+- [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179847)
 - [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179846)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179845)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179844)
@@ -61,8 +63,6 @@
 - [vERAM maps do not show when selected in ERAM.](https://forums.vatsim.net/topic/31594-veram-maps-do-not-show-when-selected-in-eram/?do=findComment&comment=179841)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179840)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179839)
-- [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179838)
-- [[31st July & 1st August 1000-1900z] Mid Summer Madness XV!](https://forums.vatsim.net/topic/31593-31st-july-1st-august-1000-1900z-mid-summer-madness-xv/?do=findComment&comment=179837)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
