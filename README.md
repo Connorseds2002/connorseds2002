@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[31st July & 1st August 1000-1900z] Mid Summer Madness XV!](https://forums.vatsim.net/topic/31593-31st-july-1st-august-1000-1900z-mid-summer-madness-xv/?do=findComment&comment=179837)
 - [Request start new VA but 1 month without answer](https://forums.vatsim.net/topic/31587-request-start-new-va-but-1-month-without-answer/?do=findComment&comment=179836)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179835)
 - [faa group form callsign question](https://forums.vatsim.net/topic/31570-faa-group-form-callsign-question/?do=findComment&comment=179834)
@@ -62,7 +63,6 @@
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179830)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179829)
 - [Error after downloading vPilot](https://forums.vatsim.net/topic/31591-error-after-downloading-vpilot/?do=findComment&comment=179828)
-- [Error after downloading vPilot](https://forums.vatsim.net/topic/31591-error-after-downloading-vpilot/?do=findComment&comment=179827)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
