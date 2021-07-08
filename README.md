@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vERAM maps do not show when selected in ERAM.](https://forums.vatsim.net/topic/31594-veram-maps-do-not-show-when-selected-in-eram/?do=findComment&comment=179841)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179840)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179839)
 - [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179838)
@@ -62,7 +63,6 @@
 - [faa group form callsign question](https://forums.vatsim.net/topic/31570-faa-group-form-callsign-question/?do=findComment&comment=179834)
 - [No way to regroup ATC planning somewhere?](https://forums.vatsim.net/topic/31586-no-way-to-regroup-atc-planning-somewhere/?do=findComment&comment=179833)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179832)
-- [In need of help regarding the new member orientation exam](https://forums.vatsim.net/topic/31589-in-need-of-help-regarding-the-new-member-orientation-exam/?do=findComment&comment=179831)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
