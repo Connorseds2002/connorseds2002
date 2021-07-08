@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [In need of help regarding the new member orientation exam](https://forums.vatsim.net/topic/31589-in-need-of-help-regarding-the-new-member-orientation-exam/?do=findComment&comment=179831)
+- [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179830)
+- [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179829)
+- [Error after downloading vPilot](https://forums.vatsim.net/topic/31591-error-after-downloading-vpilot/?do=findComment&comment=179828)
+- [Error after downloading vPilot](https://forums.vatsim.net/topic/31591-error-after-downloading-vpilot/?do=findComment&comment=179827)
 - [Request start new VA but 1 month without answer](https://forums.vatsim.net/topic/31587-request-start-new-va-but-1-month-without-answer/?do=findComment&comment=179826)
 - [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179825)
 - [No way to regroup ATC planning somewhere?](https://forums.vatsim.net/topic/31586-no-way-to-regroup-atc-planning-somewhere/?do=findComment&comment=179824)
 - [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179823)
 - [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179822)
-- [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179821)
-- [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=179820)
-- [Vatsim and old AIRAC's](https://forums.vatsim.net/topic/31584-vatsim-and-old-airacs/?do=findComment&comment=179819)
-- [In need of help regarding the new member orientation exam](https://forums.vatsim.net/topic/31589-in-need-of-help-regarding-the-new-member-orientation-exam/?do=findComment&comment=179818)
-- [VPilot interference with Sennheisser USB headset](https://forums.vatsim.net/topic/31588-vpilot-interference-with-sennheisser-usb-headset/?do=findComment&comment=179817)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
