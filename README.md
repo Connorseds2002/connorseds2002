@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [not connected to network](https://forums.vatsim.net/topic/31595-not-connected-to-network/?do=findComment&comment=179860)
+- [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179859)
 - [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179858)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179857)
 - [Discordprofile](https://forums.vatsim.net/topic/31597-discordprofile/?do=findComment&comment=179856)
@@ -61,8 +63,6 @@
 - [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179853)
 - [Unable to transmit](https://forums.vatsim.net/topic/29042-unable-to-transmit/?do=findComment&comment=179852)
 - [not connected to network](https://forums.vatsim.net/topic/31595-not-connected-to-network/?do=findComment&comment=179851)
-- [Request start new VA but 1 month without answer](https://forums.vatsim.net/topic/31587-request-start-new-va-but-1-month-without-answer/?do=findComment&comment=179850)
-- [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179849)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
