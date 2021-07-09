@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179862)
+- [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179861)
 - [not connected to network](https://forums.vatsim.net/topic/31595-not-connected-to-network/?do=findComment&comment=179860)
 - [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179859)
 - [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179858)
@@ -61,8 +63,6 @@
 - [Discordprofile](https://forums.vatsim.net/topic/31597-discordprofile/?do=findComment&comment=179855)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179854)
 - [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179853)
-- [Unable to transmit](https://forums.vatsim.net/topic/29042-unable-to-transmit/?do=findComment&comment=179852)
-- [not connected to network](https://forums.vatsim.net/topic/31595-not-connected-to-network/?do=findComment&comment=179851)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
