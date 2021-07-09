@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179854)
+- [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179853)
 - [Unable to transmit](https://forums.vatsim.net/topic/29042-unable-to-transmit/?do=findComment&comment=179852)
 - [not connected to network](https://forums.vatsim.net/topic/31595-not-connected-to-network/?do=findComment&comment=179851)
 - [Request start new VA but 1 month without answer](https://forums.vatsim.net/topic/31587-request-start-new-va-but-1-month-without-answer/?do=findComment&comment=179850)
@@ -61,8 +63,6 @@
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179847)
 - [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179846)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179845)
-- [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=179844)
-- [Request start new VA but 1 month without answer](https://forums.vatsim.net/topic/31587-request-start-new-va-but-1-month-without-answer/?do=findComment&comment=179843)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
