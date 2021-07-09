@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179866)
+- [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179865)
+- [Flying military aircraft.](https://forums.vatsim.net/topic/31598-flying-military-aircraft/?do=findComment&comment=179864)
+- [Discordprofile](https://forums.vatsim.net/topic/31597-discordprofile/?do=findComment&comment=179863)
 - [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179862)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179861)
 - [not connected to network](https://forums.vatsim.net/topic/31595-not-connected-to-network/?do=findComment&comment=179860)
 - [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179859)
 - [Error connecting to voice server: Connection failed (forbidden)](https://forums.vatsim.net/topic/31590-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=179858)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179857)
-- [Discordprofile](https://forums.vatsim.net/topic/31597-discordprofile/?do=findComment&comment=179856)
-- [Discordprofile](https://forums.vatsim.net/topic/31597-discordprofile/?do=findComment&comment=179855)
-- [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=179854)
-- [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179853)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
