@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179884)
+- [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179883)
+- [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179882)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179881)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179880)
 - [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179879)
@@ -60,9 +63,6 @@
 - [vPilot TX/RX Boxes flashing on and off](https://forums.vatsim.net/topic/31583-vpilot-txrx-boxes-flashing-on-and-off/?do=findComment&comment=179877)
 - [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=179876)
 - [Flying military aircraft.](https://forums.vatsim.net/topic/31598-flying-military-aircraft/?do=findComment&comment=179875)
-- [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179874)
-- [VPILOT PROBLEM WITH MODEL MATCHING](https://forums.vatsim.net/topic/31599-vpilot-problem-with-model-matching/?do=findComment&comment=179873)
-- [default model match](https://forums.vatsim.net/topic/31305-default-model-match/?do=findComment&comment=179872)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
