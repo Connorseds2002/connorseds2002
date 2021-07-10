@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Appointment VATMEX Divisional Director](https://forums.vatsim.net/topic/31602-appointment-vatmex-divisional-director/?do=findComment&comment=179889)
 - [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179888)
 - [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179887)
 - [Missing taxiways and stands](https://forums.vatsim.net/topic/31426-missing-taxiways-and-stands/?do=findComment&comment=179886)
@@ -62,7 +63,6 @@
 - [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179882)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179881)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179880)
-- [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179879)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
