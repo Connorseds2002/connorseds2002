@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flying military aircraft.](https://forums.vatsim.net/topic/31598-flying-military-aircraft/?do=findComment&comment=179875)
 - [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179874)
 - [VPILOT PROBLEM WITH MODEL MATCHING](https://forums.vatsim.net/topic/31599-vpilot-problem-with-model-matching/?do=findComment&comment=179873)
 - [default model match](https://forums.vatsim.net/topic/31305-default-model-match/?do=findComment&comment=179872)
@@ -62,7 +63,6 @@
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179868)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179867)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179866)
-- [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179865)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
