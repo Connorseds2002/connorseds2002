@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179892)
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179891)
+- [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179890)
 - [Appointment VATMEX Divisional Director](https://forums.vatsim.net/topic/31602-appointment-vatmex-divisional-director/?do=findComment&comment=179889)
 - [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179888)
 - [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179887)
@@ -60,9 +63,6 @@
 - [Self Loading Cargo Medical Emergency update](https://forums.vatsim.net/topic/31601-self-loading-cargo-medical-emergency-update/?do=findComment&comment=179885)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179884)
 - [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179883)
-- [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179882)
-- [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179881)
-- [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=179880)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
