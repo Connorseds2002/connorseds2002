@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flying military aircraft.](https://forums.vatsim.net/topic/31598-flying-military-aircraft/?do=findComment&comment=179896)
+- [Question about taking off from/landing at class C/D airports when no tower is online](https://forums.vatsim.net/topic/31603-question-about-taking-off-fromlanding-at-class-cd-airports-when-no-tower-is-online/?do=findComment&comment=179895)
 - [Self Loading Cargo Medical Emergency update](https://forums.vatsim.net/topic/31601-self-loading-cargo-medical-emergency-update/?do=findComment&comment=179894)
 - [Can't Be Heard](https://forums.vatsim.net/topic/31538-cant-be-heard/?do=findComment&comment=179893)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179892)
@@ -61,8 +63,6 @@
 - [Appointment VATMEX Divisional Director](https://forums.vatsim.net/topic/31602-appointment-vatmex-divisional-director/?do=findComment&comment=179889)
 - [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179888)
 - [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179887)
-- [Missing taxiways and stands](https://forums.vatsim.net/topic/31426-missing-taxiways-and-stands/?do=findComment&comment=179886)
-- [Self Loading Cargo Medical Emergency update](https://forums.vatsim.net/topic/31601-self-loading-cargo-medical-emergency-update/?do=findComment&comment=179885)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
