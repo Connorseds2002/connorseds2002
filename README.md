@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179915)
 - [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179914)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=179913)
 - [Question about taking off from/landing at class C/D airports when no tower is online](https://forums.vatsim.net/topic/31603-question-about-taking-off-fromlanding-at-class-cd-airports-when-no-tower-is-online/?do=findComment&comment=179912)
@@ -62,7 +63,6 @@
 - [Audio problem??](https://forums.vatsim.net/topic/31606-audio-problem/?do=findComment&comment=179908)
 - [Aircraft showing altitude reading of 000 - Possible Bug](https://forums.vatsim.net/topic/31607-aircraft-showing-altitude-reading-of-000-possible-bug/?do=findComment&comment=179907)
 - [Audio problem??](https://forums.vatsim.net/topic/31606-audio-problem/?do=findComment&comment=179906)
-- [Canadian Xpress North America Top 30 Airports Tour](https://forums.vatsim.net/topic/31605-canadian-xpress-north-america-top-30-airports-tour/?do=findComment&comment=179905)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
