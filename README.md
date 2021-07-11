@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Audio problem??](https://forums.vatsim.net/topic/31606-audio-problem/?do=findComment&comment=179906)
+- [Canadian Xpress North America Top 30 Airports Tour](https://forums.vatsim.net/topic/31605-canadian-xpress-north-america-top-30-airports-tour/?do=findComment&comment=179905)
 - [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179904)
 - [Question about taking off from/landing at class C/D airports when no tower is online](https://forums.vatsim.net/topic/31603-question-about-taking-off-fromlanding-at-class-cd-airports-when-no-tower-is-online/?do=findComment&comment=179903)
 - [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179902)
@@ -61,8 +63,6 @@
 - [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179899)
 - [[CLOSED] ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-closed-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=179898)
 - [Question about taking off from/landing at class C/D airports when no tower is online](https://forums.vatsim.net/topic/31603-question-about-taking-off-fromlanding-at-class-cd-airports-when-no-tower-is-online/?do=findComment&comment=179897)
-- [Flying military aircraft.](https://forums.vatsim.net/topic/31598-flying-military-aircraft/?do=findComment&comment=179896)
-- [Question about taking off from/landing at class C/D airports when no tower is online](https://forums.vatsim.net/topic/31603-question-about-taking-off-fromlanding-at-class-cd-airports-when-no-tower-is-online/?do=findComment&comment=179895)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
