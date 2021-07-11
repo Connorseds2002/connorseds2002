@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179917)
+- [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179916)
 - [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179915)
 - [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179914)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=179913)
@@ -61,8 +63,6 @@
 - [Aircraft showing altitude reading of 000 - Possible Bug](https://forums.vatsim.net/topic/31607-aircraft-showing-altitude-reading-of-000-possible-bug/?do=findComment&comment=179910)
 - [During most of the time the ATC cannot see any altitude indication.](https://forums.vatsim.net/topic/31608-during-most-of-the-time-the-atc-cannot-see-any-altitude-indication/?do=findComment&comment=179909)
 - [Audio problem??](https://forums.vatsim.net/topic/31606-audio-problem/?do=findComment&comment=179908)
-- [Aircraft showing altitude reading of 000 - Possible Bug](https://forums.vatsim.net/topic/31607-aircraft-showing-altitude-reading-of-000-possible-bug/?do=findComment&comment=179907)
-- [Audio problem??](https://forums.vatsim.net/topic/31606-audio-problem/?do=findComment&comment=179906)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
