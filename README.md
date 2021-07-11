@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=179900)
 - [fps limits](https://forums.vatsim.net/topic/31600-fps-limits/?do=findComment&comment=179899)
 - [[CLOSED] ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31093-closed-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=179898)
 - [Question about taking off from/landing at class C/D airports when no tower is online](https://forums.vatsim.net/topic/31603-question-about-taking-off-fromlanding-at-class-cd-airports-when-no-tower-is-online/?do=findComment&comment=179897)
@@ -62,7 +63,6 @@
 - [Can't Be Heard](https://forums.vatsim.net/topic/31538-cant-be-heard/?do=findComment&comment=179893)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179892)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179891)
-- [ATC differences between US and Europe](https://forums.vatsim.net/topic/31596-atc-differences-between-us-and-europe/?do=findComment&comment=179890)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
