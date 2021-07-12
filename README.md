@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Matching Software for P3D](https://forums.vatsim.net/topic/31617-model-matching-software-for-p3d/?do=findComment&comment=179943)
+- [Model Matching Software for P3D](https://forums.vatsim.net/topic/31617-model-matching-software-for-p3d/?do=findComment&comment=179942)
+- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179941)
 - [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179940)
 - [Question about taking off from/landing at class C/D airports when no tower is online](https://forums.vatsim.net/topic/31603-question-about-taking-off-fromlanding-at-class-cd-airports-when-no-tower-is-online/?do=findComment&comment=179939)
 - [Question Simaware Map Explanation of ATC Regions](https://forums.vatsim.net/topic/31610-question-simaware-map-explanation-of-atc-regions/?do=findComment&comment=179938)
@@ -60,9 +63,6 @@
 - [Question about taking off from/landing at class C/D airports when no tower is online](https://forums.vatsim.net/topic/31603-question-about-taking-off-fromlanding-at-class-cd-airports-when-no-tower-is-online/?do=findComment&comment=179936)
 - [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179935)
 - [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179934)
-- [Vpilot doesn’t want to let me connect to the network](https://forums.vatsim.net/topic/31612-vpilot-doesn%E2%80%99t-want-to-let-me-connect-to-the-network/?do=findComment&comment=179933)
-- [Please, unlink me from discord communities](https://forums.vatsim.net/topic/31616-please-unlink-me-from-discord-communities%C2%A0/?do=findComment&comment=179932)
-- [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179931)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
