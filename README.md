@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179944)
 - [Model Matching Software for P3D](https://forums.vatsim.net/topic/31617-model-matching-software-for-p3d/?do=findComment&comment=179943)
 - [Model Matching Software for P3D](https://forums.vatsim.net/topic/31617-model-matching-software-for-p3d/?do=findComment&comment=179942)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179941)
@@ -62,7 +63,6 @@
 - [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179937)
 - [Question about taking off from/landing at class C/D airports when no tower is online](https://forums.vatsim.net/topic/31603-question-about-taking-off-fromlanding-at-class-cd-airports-when-no-tower-is-online/?do=findComment&comment=179936)
 - [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179935)
-- [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179934)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
