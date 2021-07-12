@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot doesn’t want to let me connect to the network](https://forums.vatsim.net/topic/31612-vpilot-doesn%E2%80%99t-want-to-let-me-connect-to-the-network/?do=findComment&comment=179933)
+- [Please, unlink me from discord communities](https://forums.vatsim.net/topic/31616-please-unlink-me-from-discord-communities%C2%A0/?do=findComment&comment=179932)
 - [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179931)
 - [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179930)
 - [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=179929)
@@ -61,8 +63,6 @@
 - [Can't Be Heard](https://forums.vatsim.net/topic/31538-cant-be-heard/?do=findComment&comment=179926)
 - [Network error: invalid CID/password](https://forums.vatsim.net/topic/31613-network-error-invalid-cidpassword/?do=findComment&comment=179925)
 - [Vpilot doesn’t want to let me connect to the network](https://forums.vatsim.net/topic/31612-vpilot-doesn%E2%80%99t-want-to-let-me-connect-to-the-network/?do=findComment&comment=179924)
-- [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179923)
-- [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179922)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
