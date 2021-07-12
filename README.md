@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Question Simaware Map Explanation of ATC Regions](https://forums.vatsim.net/topic/31610-question-simaware-map-explanation-of-atc-regions/?do=findComment&comment=179938)
+- [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179937)
+- [Question about taking off from/landing at class C/D airports when no tower is online](https://forums.vatsim.net/topic/31603-question-about-taking-off-fromlanding-at-class-cd-airports-when-no-tower-is-online/?do=findComment&comment=179936)
+- [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179935)
+- [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179934)
 - [Vpilot doesn’t want to let me connect to the network](https://forums.vatsim.net/topic/31612-vpilot-doesn%E2%80%99t-want-to-let-me-connect-to-the-network/?do=findComment&comment=179933)
 - [Please, unlink me from discord communities](https://forums.vatsim.net/topic/31616-please-unlink-me-from-discord-communities%C2%A0/?do=findComment&comment=179932)
 - [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179931)
 - [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179930)
 - [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=179929)
-- [Vpilot doesn’t want to let me connect to the network](https://forums.vatsim.net/topic/31612-vpilot-doesn%E2%80%99t-want-to-let-me-connect-to-the-network/?do=findComment&comment=179928)
-- [VATEMEA is looking for Developers](https://forums.vatsim.net/topic/31614-vatemea-is-looking-for-developers/?do=findComment&comment=179927)
-- [Can't Be Heard](https://forums.vatsim.net/topic/31538-cant-be-heard/?do=findComment&comment=179926)
-- [Network error: invalid CID/password](https://forums.vatsim.net/topic/31613-network-error-invalid-cidpassword/?do=findComment&comment=179925)
-- [Vpilot doesn’t want to let me connect to the network](https://forums.vatsim.net/topic/31612-vpilot-doesn%E2%80%99t-want-to-let-me-connect-to-the-network/?do=findComment&comment=179924)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
