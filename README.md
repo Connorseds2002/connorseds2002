@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Network error: invalid CID/password](https://forums.vatsim.net/topic/31613-network-error-invalid-cidpassword/?do=findComment&comment=179925)
+- [Vpilot doesn’t want to let me connect to the network](https://forums.vatsim.net/topic/31612-vpilot-doesn%E2%80%99t-want-to-let-me-connect-to-the-network/?do=findComment&comment=179924)
 - [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179923)
 - [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179922)
 - [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=179921)
@@ -61,8 +63,6 @@
 - [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179918)
 - [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179917)
 - [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179916)
-- [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=179915)
-- [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=179914)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
