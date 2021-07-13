@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ACCNPL4 - Membership Director Appointed!](https://forums.vatsim.net/topic/31621-accnpl4-membership-director-appointed/?do=findComment&comment=179971)
 - [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179970)
 - [Question Simaware Map Explanation of ATC Regions](https://forums.vatsim.net/topic/31610-question-simaware-map-explanation-of-atc-regions/?do=findComment&comment=179969)
 - [Exciting Reeve Airline Service That Can Get You Drolling](https://forums.vatsim.net/topic/31620-exciting-reeve-airline-service-that-can-get-you-drolling/?do=findComment&comment=179968)
@@ -62,7 +63,6 @@
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179964)
 - [Flying military aircraft.](https://forums.vatsim.net/topic/31598-flying-military-aircraft/?do=findComment&comment=179963)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179962)
-- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179961)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
