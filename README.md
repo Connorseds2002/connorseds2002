@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179967)
+- [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179966)
+- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179965)
+- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179964)
+- [Flying military aircraft.](https://forums.vatsim.net/topic/31598-flying-military-aircraft/?do=findComment&comment=179963)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179962)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179961)
 - [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179960)
 - [Flying military aircraft.](https://forums.vatsim.net/topic/31598-flying-military-aircraft/?do=findComment&comment=179959)
 - [[VACANCY] Web Services Director - Eurocontrol vACC (VATEUD)](https://forums.vatsim.net/topic/31511-vacancy-web-services-director-eurocontrol-vacc-vateud/?do=findComment&comment=179958)
-- [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179957)
-- [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179956)
-- [Walker Air Transport](https://forums.vatsim.net/topic/31619-walker-air-transport/?do=findComment&comment=179955)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=179954)
-- [Vatpac Discord account issue](https://forums.vatsim.net/topic/31618-vatpac-discord-account-issue/?do=findComment&comment=179953)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
