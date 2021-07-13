@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Question Simaware Map Explanation of ATC Regions](https://forums.vatsim.net/topic/31610-question-simaware-map-explanation-of-atc-regions/?do=findComment&comment=179973)
+- [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179972)
 - [ACCNPL4 - Membership Director Appointed!](https://forums.vatsim.net/topic/31621-accnpl4-membership-director-appointed/?do=findComment&comment=179971)
 - [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179970)
 - [Question Simaware Map Explanation of ATC Regions](https://forums.vatsim.net/topic/31610-question-simaware-map-explanation-of-atc-regions/?do=findComment&comment=179969)
@@ -61,8 +63,6 @@
 - [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179966)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179965)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179964)
-- [Flying military aircraft.](https://forums.vatsim.net/topic/31598-flying-military-aircraft/?do=findComment&comment=179963)
-- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=179962)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
