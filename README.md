@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P3Dv5  Modelmatching](https://forums.vatsim.net/topic/31625-p3dv5-modelmatching/?do=findComment&comment=179991)
 - [Model Matching Software for P3D?](https://forums.vatsim.net/topic/31624-model-matching-software-for-p3d/?do=findComment&comment=179989)
 - [P3Dv5  Modelmatching](https://forums.vatsim.net/topic/31625-p3dv5-modelmatching/?do=findComment&comment=179988)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=179987)
@@ -62,7 +63,6 @@
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=179980)
 - [Most aircraft not visible.](https://forums.vatsim.net/topic/31521-most-aircraft-not-visible/?do=findComment&comment=179979)
 - [cant connect](https://forums.vatsim.net/topic/31623-cant-connect/?do=findComment&comment=179978)
-- [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179977)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
