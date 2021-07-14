@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Matching Software for P3D?](https://forums.vatsim.net/topic/31624-model-matching-software-for-p3d/?do=findComment&comment=179994)
 - [P3Dv5  Modelmatching](https://forums.vatsim.net/topic/31625-p3dv5-modelmatching/?do=findComment&comment=179991)
 - [Model Matching Software for P3D?](https://forums.vatsim.net/topic/31624-model-matching-software-for-p3d/?do=findComment&comment=179989)
 - [P3Dv5  Modelmatching](https://forums.vatsim.net/topic/31625-p3dv5-modelmatching/?do=findComment&comment=179988)
@@ -62,7 +63,6 @@
 - [Model Matching Software for P3D?](https://forums.vatsim.net/topic/31624-model-matching-software-for-p3d/?do=findComment&comment=179981)
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=179980)
 - [Most aircraft not visible.](https://forums.vatsim.net/topic/31521-most-aircraft-not-visible/?do=findComment&comment=179979)
-- [cant connect](https://forums.vatsim.net/topic/31623-cant-connect/?do=findComment&comment=179978)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
