@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=179980)
 - [Most aircraft not visible.](https://forums.vatsim.net/topic/31521-most-aircraft-not-visible/?do=findComment&comment=179979)
 - [cant connect](https://forums.vatsim.net/topic/31623-cant-connect/?do=findComment&comment=179978)
 - [Airshows on VATSIM (restrictions and rules)?](https://forums.vatsim.net/topic/27161-airshows-on-vatsim-restrictions-and-rules/?do=findComment&comment=179977)
@@ -62,7 +63,6 @@
 - [Question Simaware Map Explanation of ATC Regions](https://forums.vatsim.net/topic/31610-question-simaware-map-explanation-of-atc-regions/?do=findComment&comment=179973)
 - [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179972)
 - [ACCNPL4 - Membership Director Appointed!](https://forums.vatsim.net/topic/31621-accnpl4-membership-director-appointed/?do=findComment&comment=179971)
-- [Vpilot Issue](https://forums.vatsim.net/topic/31611-vpilot-issue/?do=findComment&comment=179970)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
