@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thanks Diego Naranjo (SEFG_CTR) for my first experience receiving directions in Spanish!](https://forums.vatsim.net/topic/31628-thanks-diego-naranjo-sefg_ctr-for-my-first-experience-receiving-directions-in-spanish/?do=findComment&comment=180019)
 - [Charts, Chartfinder, and Flight Planning Links](https://forums.vatsim.net/topic/3422-charts-chartfinder-and-flight-planning-links/?do=findComment&comment=180018)
 - [Thanks Diego Naranjo (SEFG_CTR) for my first experience receiving directions in Spanish!](https://forums.vatsim.net/topic/31628-thanks-diego-naranjo-sefg_ctr-for-my-first-experience-receiving-directions-in-spanish/?do=findComment&comment=180017)
 - [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=180016)
@@ -62,7 +63,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=180011)
 - [Eurocontrol Survey](https://forums.vatsim.net/topic/31627-eurocontrol-survey/?do=findComment&comment=180010)
 - [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=180009)
-- [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180008)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
