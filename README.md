@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Charts, Chartfinder, and Flight Planning Links](https://forums.vatsim.net/topic/3422-charts-chartfinder-and-flight-planning-links/?do=findComment&comment=180014)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=180013)
 - [Shared Cockpit experience on Vatsim?](https://forums.vatsim.net/topic/30018-shared-cockpit-experience-on-vatsim/?do=findComment&comment=180012)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=180011)
@@ -62,7 +63,6 @@
 - [Charts, Chartfinder, and Flight Planning Links](https://forums.vatsim.net/topic/3422-charts-chartfinder-and-flight-planning-links/?do=findComment&comment=180007)
 - [Website issue cannot login](https://forums.vatsim.net/topic/31626-website-issue-cannot-login/?do=findComment&comment=180006)
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180005)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=180004)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
