@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=180009)
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180008)
 - [Charts, Chartfinder, and Flight Planning Links](https://forums.vatsim.net/topic/3422-charts-chartfinder-and-flight-planning-links/?do=findComment&comment=180007)
 - [Website issue cannot login](https://forums.vatsim.net/topic/31626-website-issue-cannot-login/?do=findComment&comment=180006)
@@ -62,7 +63,6 @@
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180002)
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180001)
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180000)
-- [You Think P3D, XP-11, and MS2020 Can Beat FSX?](https://forums.vatsim.net/topic/30494-you-think-p3d-xp-11-and-ms2020-can-beat-fsx/?do=findComment&comment=179996)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
