@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180038)
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180033)
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180031)
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180027)
@@ -62,7 +63,6 @@
 - [VFR vs IFR](https://forums.vatsim.net/topic/31630-vfr-vs-ifr/?do=findComment&comment=180023)
 - [VFR vs IFR](https://forums.vatsim.net/topic/31630-vfr-vs-ifr/?do=findComment&comment=180022)
 - [Audio problems](https://forums.vatsim.net/topic/31629-audio-problems/?do=findComment&comment=180021)
-- [Thanks Diego Naranjo (SEFG_CTR) for my first experience receiving directions in Spanish!](https://forums.vatsim.net/topic/31628-thanks-diego-naranjo-sefg_ctr-for-my-first-experience-receiving-directions-in-spanish/?do=findComment&comment=180019)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
