@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Weird AFV Bug](https://forums.vatsim.net/topic/31634-weird-afv-bug/?do=findComment&comment=180048)
+- [Weird AFV Bug](https://forums.vatsim.net/topic/31633-weird-afv-bug/?do=findComment&comment=180047)
 - [VFR vs IFR](https://forums.vatsim.net/topic/31630-vfr-vs-ifr/?do=findComment&comment=180046)
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=180044)
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180042)
@@ -61,8 +63,6 @@
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180031)
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180027)
 - [Audio problems](https://forums.vatsim.net/topic/31629-audio-problems/?do=findComment&comment=180026)
-- [What happened to my P1 rating?](https://forums.vatsim.net/topic/31604-what-happened-to-my-p1-rating/?do=findComment&comment=180025)
-- [VFR vs IFR](https://forums.vatsim.net/topic/31630-vfr-vs-ifr/?do=findComment&comment=180024)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
