@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Board of Governors Meeting Q2 - 2021 - 17JUL21](https://forums.vatsim.net/topic/31635-vatsim-board-of-governors-meeting-q2-2021-17jul21/?do=findComment&comment=180049)
 - [Weird AFV Bug](https://forums.vatsim.net/topic/31634-weird-afv-bug/?do=findComment&comment=180048)
 - [VFR vs IFR](https://forums.vatsim.net/topic/31630-vfr-vs-ifr/?do=findComment&comment=180046)
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=180044)
@@ -62,7 +63,6 @@
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180038)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=180037)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=180034)
-- [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180033)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
