@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR vs IFR](https://forums.vatsim.net/topic/31630-vfr-vs-ifr/?do=findComment&comment=180023)
 - [VFR vs IFR](https://forums.vatsim.net/topic/31630-vfr-vs-ifr/?do=findComment&comment=180022)
 - [Audio problems](https://forums.vatsim.net/topic/31629-audio-problems/?do=findComment&comment=180021)
 - [Thanks Diego Naranjo (SEFG_CTR) for my first experience receiving directions in Spanish!](https://forums.vatsim.net/topic/31628-thanks-diego-naranjo-sefg_ctr-for-my-first-experience-receiving-directions-in-spanish/?do=findComment&comment=180019)
@@ -62,7 +63,6 @@
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=180015)
 - [Charts, Chartfinder, and Flight Planning Links](https://forums.vatsim.net/topic/3422-charts-chartfinder-and-flight-planning-links/?do=findComment&comment=180014)
 - [Tips for a newbie.](https://forums.vatsim.net/topic/31592-tips-for-a-newbie/?do=findComment&comment=180013)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=180011)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
