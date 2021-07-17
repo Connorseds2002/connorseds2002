@@ -53,7 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [untracked VFR target is white](https://forums.vatsim.net/topic/31641-untracked-vfr-target-is-white/?do=findComment&comment=180072)
 - [FSUIPC for X-Pilot](https://forums.vatsim.net/topic/31636-fsuipc-for-x-pilot/?do=findComment&comment=180071)
+- [Does it look like this?](https://forums.vatsim.net/topic/31640-does-it-look-like-this/?do=findComment&comment=180070)
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180069)
 - [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=180067)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=180066)
@@ -61,8 +63,6 @@
 - [A350-900ULR cost index](https://forums.vatsim.net/topic/31639-a350-900ulr-cost-index/?do=findComment&comment=180064)
 - [URGENT vPilot (2.8.1) won't start P3Dv4 - 'please enter a different default model'](https://forums.vatsim.net/topic/31638-urgent-vpilot-281-wont-start-p3dv4-please-enter-a-different-default-model/?do=findComment&comment=180063)
 - [VFR vs IFR](https://forums.vatsim.net/topic/31630-vfr-vs-ifr/?do=findComment&comment=180062)
-- [Please, unlink me from discord communities](https://forums.vatsim.net/topic/31616-please-unlink-me-from-discord-communities%C2%A0/?do=findComment&comment=180061)
-- [vPilot refresh rate](https://forums.vatsim.net/topic/31609-vpilot-refresh-rate/?do=findComment&comment=180060)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
