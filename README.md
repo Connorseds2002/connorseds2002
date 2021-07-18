@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=180083)
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180082)
 - [Letter from founders](https://forums.vatsim.net/topic/31646-letter-from-founders/?do=findComment&comment=180081)
 - [Error wenn ich einen Flugplan erstellen möchte.](https://forums.vatsim.net/topic/31645-error-wenn-ich-einen-flugplan-erstellen-m%C3%B6chte/?do=findComment&comment=180080)
@@ -62,7 +63,6 @@
 - [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=180076)
 - [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180075)
 - [FSUIPC for X-Pilot](https://forums.vatsim.net/topic/31636-fsuipc-for-x-pilot/?do=findComment&comment=180074)
-- [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180073)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
