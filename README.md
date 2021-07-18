@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=180103)
+- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=180102)
 - [Appointment VATMEX Divisional Director](https://forums.vatsim.net/topic/31602-appointment-vatmex-divisional-director/?do=findComment&comment=180101)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=180100)
 - [VatVenture 2021?](https://forums.vatsim.net/topic/31648-vatventure-2021/?do=findComment&comment=180099)
@@ -61,8 +63,6 @@
 - [VatVenture 2021?](https://forums.vatsim.net/topic/31648-vatventure-2021/?do=findComment&comment=180096)
 - [Appointment VATMEX Divisional Director](https://forums.vatsim.net/topic/31602-appointment-vatmex-divisional-director/?do=findComment&comment=180095)
 - [Letter from founders](https://forums.vatsim.net/topic/31646-letter-from-founders/?do=findComment&comment=180094)
-- [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180088)
-- [Traffic Global with Xpilot](https://forums.vatsim.net/topic/31647-traffic-global-with-xpilot/?do=findComment&comment=180087)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
