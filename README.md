@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Error wenn ich einen Flugplan erstellen möchte.](https://forums.vatsim.net/topic/31645-error-wenn-ich-einen-flugplan-erstellen-m%C3%B6chte/?do=findComment&comment=180080)
+- [Im having an error if i want to create a flight plan](https://forums.vatsim.net/topic/31644-im-having-an-error-if-i-want-to-create-a-flight-plan/?do=findComment&comment=180079)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=180078)
 - [Vpilot Profiles](https://forums.vatsim.net/topic/31642-vpilot-profiles/?do=findComment&comment=180077)
 - [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=180076)
@@ -61,8 +63,6 @@
 - [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180073)
 - [untracked VFR target is white](https://forums.vatsim.net/topic/31641-untracked-vfr-target-is-white/?do=findComment&comment=180072)
 - [FSUIPC for X-Pilot](https://forums.vatsim.net/topic/31636-fsuipc-for-x-pilot/?do=findComment&comment=180071)
-- [Does it look like this?](https://forums.vatsim.net/topic/31640-does-it-look-like-this/?do=findComment&comment=180070)
-- [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180069)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
