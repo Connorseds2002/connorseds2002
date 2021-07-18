@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VatVenture 2021?](https://forums.vatsim.net/topic/31648-vatventure-2021/?do=findComment&comment=180096)
+- [Appointment VATMEX Divisional Director](https://forums.vatsim.net/topic/31602-appointment-vatmex-divisional-director/?do=findComment&comment=180095)
 - [Letter from founders](https://forums.vatsim.net/topic/31646-letter-from-founders/?do=findComment&comment=180094)
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180088)
 - [Traffic Global with Xpilot](https://forums.vatsim.net/topic/31647-traffic-global-with-xpilot/?do=findComment&comment=180087)
@@ -61,8 +63,6 @@
 - [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=180083)
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180082)
 - [Letter from founders](https://forums.vatsim.net/topic/31646-letter-from-founders/?do=findComment&comment=180081)
-- [Error wenn ich einen Flugplan erstellen möchte.](https://forums.vatsim.net/topic/31645-error-wenn-ich-einen-flugplan-erstellen-m%C3%B6chte/?do=findComment&comment=180080)
-- [Im having an error if i want to create a flight plan](https://forums.vatsim.net/topic/31644-im-having-an-error-if-i-want-to-create-a-flight-plan/?do=findComment&comment=180079)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
