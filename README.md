@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot Profiles](https://forums.vatsim.net/topic/31642-vpilot-profiles/?do=findComment&comment=180077)
+- [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=180076)
 - [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180075)
 - [FSUIPC for X-Pilot](https://forums.vatsim.net/topic/31636-fsuipc-for-x-pilot/?do=findComment&comment=180074)
 - [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180073)
@@ -61,8 +63,6 @@
 - [Does it look like this?](https://forums.vatsim.net/topic/31640-does-it-look-like-this/?do=findComment&comment=180070)
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180069)
 - [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=180067)
-- [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=180066)
-- [URGENT vPilot (2.8.1) won't start P3Dv4 - 'please enter a different default model'](https://forums.vatsim.net/topic/31638-urgent-vpilot-281-wont-start-p3dv4-please-enter-a-different-default-model/?do=findComment&comment=180065)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
