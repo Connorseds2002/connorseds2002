@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim Traffic doesn't move when in full screen](https://forums.vatsim.net/topic/31649-vatsim-traffic-doesnt-move-when-in-full-screen/?do=findComment&comment=180105)
+- [Autopilot issue in the stock A320NEO MSFS](https://forums.vatsim.net/topic/31650-autopilot-issue-in-the-stock-a320neo-msfs/?do=findComment&comment=180104)
 - [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=180103)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=180102)
 - [Appointment VATMEX Divisional Director](https://forums.vatsim.net/topic/31602-appointment-vatmex-divisional-director/?do=findComment&comment=180101)
@@ -61,8 +63,6 @@
 - [Vatsim Traffic doesn't move when in full screen](https://forums.vatsim.net/topic/31649-vatsim-traffic-doesnt-move-when-in-full-screen/?do=findComment&comment=180098)
 - [ATIS??](https://forums.vatsim.net/topic/30768-atis/?do=findComment&comment=180097)
 - [VatVenture 2021?](https://forums.vatsim.net/topic/31648-vatventure-2021/?do=findComment&comment=180096)
-- [Appointment VATMEX Divisional Director](https://forums.vatsim.net/topic/31602-appointment-vatmex-divisional-director/?do=findComment&comment=180095)
-- [Letter from founders](https://forums.vatsim.net/topic/31646-letter-from-founders/?do=findComment&comment=180094)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
