@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Samjhauta Express - Ahmedabad [VAAH] to Islamabad [OPIS]](https://forums.vatsim.net/topic/31651-samjhauta-express-ahmedabad-vaah-to-islamabad-opis/?do=findComment&comment=180109)
 - [Autopilot issue in the stock A320NEO MSFS](https://forums.vatsim.net/topic/31650-autopilot-issue-in-the-stock-a320neo-msfs/?do=findComment&comment=180108)
 - [Position Closed: Hong Kong VACC - Manager, Publications (ACCHKG5)](https://forums.vatsim.net/topic/31487-position-closed-hong-kong-vacc-manager-publications-acchkg5/?do=findComment&comment=180107)
 - [Vatsim Traffic doesn't move when in full screen](https://forums.vatsim.net/topic/31649-vatsim-traffic-doesnt-move-when-in-full-screen/?do=findComment&comment=180105)
@@ -62,7 +63,6 @@
 - [Appointment VATMEX Divisional Director](https://forums.vatsim.net/topic/31602-appointment-vatmex-divisional-director/?do=findComment&comment=180101)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=180100)
 - [VatVenture 2021?](https://forums.vatsim.net/topic/31648-vatventure-2021/?do=findComment&comment=180099)
-- [Vatsim Traffic doesn't move when in full screen](https://forums.vatsim.net/topic/31649-vatsim-traffic-doesnt-move-when-in-full-screen/?do=findComment&comment=180098)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
