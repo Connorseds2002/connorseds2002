@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Im having an error if i want to create a flight plan](https://forums.vatsim.net/topic/31644-im-having-an-error-if-i-want-to-create-a-flight-plan/?do=findComment&comment=180127)
 - [If I'm approaching a airport with no center or approach control or tower control do I contact ground or stay on unicom until i land?](https://forums.vatsim.net/topic/31656-if-im-approaching-a-airport-with-no-center-or-approach-control-or-tower-control-do-i-contact-ground-or-stay-on-unicom-until-i-land/?do=findComment&comment=180126)
 - [If I'm approaching a airport with no center or approach control or tower control do I contact ground or stay on unicom until i land?](https://forums.vatsim.net/topic/31656-if-im-approaching-a-airport-with-no-center-or-approach-control-or-tower-control-do-i-contact-ground-or-stay-on-unicom-until-i-land/?do=findComment&comment=180125)
 - [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=180124)
@@ -62,7 +63,6 @@
 - [vPILOT connect error](https://forums.vatsim.net/topic/31655-vpilot-connect-error/?do=findComment&comment=180120)
 - [ATIS in P3D](https://forums.vatsim.net/topic/31654-atis-in-p3d/?do=findComment&comment=180119)
 - [A Request: Permission to do Test Flight Operations on VATSIM in Special Ops](https://forums.vatsim.net/topic/31653-a-request-permission-to-do-test-flight-operations-on-vatsim-in-special-ops/?do=findComment&comment=180118)
-- [A Request: Permission to do Test Flight Operations on VATSIM in Special Ops](https://forums.vatsim.net/topic/31653-a-request-permission-to-do-test-flight-operations-on-vatsim-in-special-ops/?do=findComment&comment=180117)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
