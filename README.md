@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Autopilot issue in the stock A320NEO MSFS](https://forums.vatsim.net/topic/31650-autopilot-issue-in-the-stock-a320neo-msfs/?do=findComment&comment=180116)
+- [Airwego - Compass2020](https://forums.vatsim.net/topic/31652-airwego-compass2020/?do=findComment&comment=180115)
+- [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180114)
+- [Autopilot issue in the stock A320NEO MSFS](https://forums.vatsim.net/topic/31650-autopilot-issue-in-the-stock-a320neo-msfs/?do=findComment&comment=180113)
 - [Autopilot issue in the stock A320NEO MSFS](https://forums.vatsim.net/topic/31650-autopilot-issue-in-the-stock-a320neo-msfs/?do=findComment&comment=180111)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=180110)
 - [Samjhauta Express - Ahmedabad [VAAH] to Islamabad [OPIS]](https://forums.vatsim.net/topic/31651-samjhauta-express-ahmedabad-vaah-to-islamabad-opis/?do=findComment&comment=180109)
 - [Autopilot issue in the stock A320NEO MSFS](https://forums.vatsim.net/topic/31650-autopilot-issue-in-the-stock-a320neo-msfs/?do=findComment&comment=180108)
 - [Position Closed: Hong Kong VACC - Manager, Publications (ACCHKG5)](https://forums.vatsim.net/topic/31487-position-closed-hong-kong-vacc-manager-publications-acchkg5/?do=findComment&comment=180107)
 - [Vatsim Traffic doesn't move when in full screen](https://forums.vatsim.net/topic/31649-vatsim-traffic-doesnt-move-when-in-full-screen/?do=findComment&comment=180105)
-- [Autopilot issue in the stock A320NEO MSFS](https://forums.vatsim.net/topic/31650-autopilot-issue-in-the-stock-a320neo-msfs/?do=findComment&comment=180104)
-- [Feature Request: Status Lists for arriving aircraft, and a question.](https://forums.vatsim.net/topic/31615-feature-request-status-lists-for-arriving-aircraft-and-a-question/?do=findComment&comment=180103)
-- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=180102)
-- [Appointment VATMEX Divisional Director](https://forums.vatsim.net/topic/31602-appointment-vatmex-divisional-director/?do=findComment&comment=180101)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
