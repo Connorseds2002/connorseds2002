@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [A Request: Permission to do Test Flight Operations on VATSIM in Special Ops](https://forums.vatsim.net/topic/31653-a-request-permission-to-do-test-flight-operations-on-vatsim-in-special-ops/?do=findComment&comment=180144)
+- [[VACANCY] Director ATC Training - VATWA3](https://forums.vatsim.net/topic/31520-vacancy-director-atc-training-vatwa3/?do=findComment&comment=180143)
 - [Autopilot issue in the stock A320NEO MSFS](https://forums.vatsim.net/topic/31650-autopilot-issue-in-the-stock-a320neo-msfs/?do=findComment&comment=180142)
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180141)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180140)
@@ -61,8 +63,6 @@
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180137)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180136)
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180135)
-- [A Request: Permission to do Test Flight Operations on VATSIM in Special Ops](https://forums.vatsim.net/topic/31653-a-request-permission-to-do-test-flight-operations-on-vatsim-in-special-ops/?do=findComment&comment=180134)
-- [Autopilot issue in the stock A320NEO MSFS](https://forums.vatsim.net/topic/31650-autopilot-issue-in-the-stock-a320neo-msfs/?do=findComment&comment=180133)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
