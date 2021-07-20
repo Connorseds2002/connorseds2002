@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [A Request: Permission to do Test Flight Operations on VATSIM in Special Ops](https://forums.vatsim.net/topic/31653-a-request-permission-to-do-test-flight-operations-on-vatsim-in-special-ops/?do=findComment&comment=180138)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180137)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180136)
 - [New features](https://forums.vatsim.net/topic/31631-new-features/?do=findComment&comment=180135)
@@ -62,7 +63,6 @@
 - [[July 31] Canadian Xpress July 2021 Monthly Fly-In - St. Lawrence River](https://forums.vatsim.net/topic/31658-july-31-canadian-xpress-july-2021-monthly-fly-in-st-lawrence-river/?do=findComment&comment=180131)
 - [ADS simulation](https://forums.vatsim.net/topic/31657-ads-simulation/?do=findComment&comment=180130)
 - [A Request: Permission to do Test Flight Operations on VATSIM in Special Ops](https://forums.vatsim.net/topic/31653-a-request-permission-to-do-test-flight-operations-on-vatsim-in-special-ops/?do=findComment&comment=180129)
-- [ATIS in P3D](https://forums.vatsim.net/topic/31654-atis-in-p3d/?do=findComment&comment=180128)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
