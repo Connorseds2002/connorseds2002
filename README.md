@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[July 31] Canadian Xpress July 2021 Monthly Fly-In - St. Lawrence River](https://forums.vatsim.net/topic/31658-july-31-canadian-xpress-july-2021-monthly-fly-in-st-lawrence-river/?do=findComment&comment=180131)
+- [ADS simulation](https://forums.vatsim.net/topic/31657-ads-simulation/?do=findComment&comment=180130)
 - [A Request: Permission to do Test Flight Operations on VATSIM in Special Ops](https://forums.vatsim.net/topic/31653-a-request-permission-to-do-test-flight-operations-on-vatsim-in-special-ops/?do=findComment&comment=180129)
 - [ATIS in P3D](https://forums.vatsim.net/topic/31654-atis-in-p3d/?do=findComment&comment=180128)
 - [Im having an error if i want to create a flight plan](https://forums.vatsim.net/topic/31644-im-having-an-error-if-i-want-to-create-a-flight-plan/?do=findComment&comment=180127)
@@ -61,8 +63,6 @@
 - [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=180124)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=180123)
 - [If I'm approaching a airport with no center or approach control or tower control do I contact ground or stay on unicom until i land?](https://forums.vatsim.net/topic/31656-if-im-approaching-a-airport-with-no-center-or-approach-control-or-tower-control-do-i-contact-ground-or-stay-on-unicom-until-i-land/?do=findComment&comment=180122)
-- [vPILOT connect error](https://forums.vatsim.net/topic/31655-vpilot-connect-error/?do=findComment&comment=180121)
-- [vPILOT connect error](https://forums.vatsim.net/topic/31655-vpilot-connect-error/?do=findComment&comment=180120)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
