@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [If I'm approaching a airport with no center or approach control or tower control do I contact ground or stay on unicom until i land?](https://forums.vatsim.net/topic/31656-if-im-approaching-a-airport-with-no-center-or-approach-control-or-tower-control-do-i-contact-ground-or-stay-on-unicom-until-i-land/?do=findComment&comment=180153)
 - [If I'm approaching a airport with no center or approach control or tower control do I contact ground or stay on unicom until i land?](https://forums.vatsim.net/topic/31656-if-im-approaching-a-airport-with-no-center-or-approach-control-or-tower-control-do-i-contact-ground-or-stay-on-unicom-until-i-land/?do=findComment&comment=180151)
 - [vPILOT connect error](https://forums.vatsim.net/topic/31655-vpilot-connect-error/?do=findComment&comment=180150)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180149)
@@ -62,7 +63,6 @@
 - [[VACANCY] Director ATC Training - VATWA3](https://forums.vatsim.net/topic/31520-vacancy-director-atc-training-vatwa3/?do=findComment&comment=180143)
 - [Autopilot issue in the stock A320NEO MSFS](https://forums.vatsim.net/topic/31650-autopilot-issue-in-the-stock-a320neo-msfs/?do=findComment&comment=180142)
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180141)
-- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180140)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
