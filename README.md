@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPILOT connect error](https://forums.vatsim.net/topic/31655-vpilot-connect-error/?do=findComment&comment=180150)
+- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180149)
 - [[Divisional Vacancy] Divisional Deputy Technical Director (VATMENA61) - Middle East and North Africa](https://forums.vatsim.net/topic/31659-divisional-vacancy-divisional-deputy-technical-director-vatmena61-middle-east-and-north-africa/?do=findComment&comment=180147)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=180145)
 - [A Request: Permission to do Test Flight Operations on VATSIM in Special Ops](https://forums.vatsim.net/topic/31653-a-request-permission-to-do-test-flight-operations-on-vatsim-in-special-ops/?do=findComment&comment=180144)
@@ -61,8 +63,6 @@
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=180141)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180140)
 - [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180139)
-- [A Request: Permission to do Test Flight Operations on VATSIM in Special Ops](https://forums.vatsim.net/topic/31653-a-request-permission-to-do-test-flight-operations-on-vatsim-in-special-ops/?do=findComment&comment=180138)
-- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180137)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
