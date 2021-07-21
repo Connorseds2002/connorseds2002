@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [AFISO/Aerodrome radio operation](https://forums.vatsim.net/topic/31680-afisoaerodrome-radio-operation/?do=findComment&comment=180336)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180335)
-- [AFISO/Aerodrome radio operation](https://forums.vatsim.net/topic/31680-afisoaerodrome-radio-operation/?do=findComment&comment=180334)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=180333)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180331)
-- [Definition of "live training resources"](https://forums.vatsim.net/topic/31668-definition-of-live-training-resources/?do=findComment&comment=180330)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180329)
-- [Definition of "live training resources"](https://forums.vatsim.net/topic/31668-definition-of-live-training-resources/?do=findComment&comment=180328)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180327)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180326)
+- [Home region restriction for CAOC Visitor Endorsement](https://forums.vatsim.net/topic/31682-home-region-restriction-for-caoc-visitor-endorsement/?do=findComment&comment=180360)
+- [Definition of "live training resources"](https://forums.vatsim.net/topic/31668-definition-of-live-training-resources/?do=findComment&comment=180359)
+- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180358)
+- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180357)
+- [Sub-Divisional Transfers](https://forums.vatsim.net/topic/31681-sub-divisional-transfers/?do=findComment&comment=180356)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180355)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180354)
+- [My thoughts on GCAP](https://forums.vatsim.net/topic/31676-my-thoughts-on-gcap/?do=findComment&comment=180353)
+- [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180352)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180351)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
