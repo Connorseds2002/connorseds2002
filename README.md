@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180161)
-- [Military endorsement](https://forums.vatsim.net/topic/31665-military-endorsement/?do=findComment&comment=180160)
-- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180159)
-- [Why are visiting controllers held to a lower standard than transferring controllers?](https://forums.vatsim.net/topic/31663-why-are-visiting-controllers-held-to-a-lower-standard-than-transferring-controllers/?do=findComment&comment=180158)
-- [A couple typos](https://forums.vatsim.net/topic/31662-a-couple-typos/?do=findComment&comment=180157)
-- [Noticed a typo](https://forums.vatsim.net/topic/31661-noticed-a-typo/?do=findComment&comment=180156)
-- [Noticed a typo](https://forums.vatsim.net/topic/31661-noticed-a-typo/?do=findComment&comment=180155)
-- [If I'm approaching a airport with no center or approach control or tower control do I contact ground or stay on unicom until i land?](https://forums.vatsim.net/topic/31656-if-im-approaching-a-airport-with-no-center-or-approach-control-or-tower-control-do-i-contact-ground-or-stay-on-unicom-until-i-land/?do=findComment&comment=180154)
-- [If I'm approaching a airport with no center or approach control or tower control do I contact ground or stay on unicom until i land?](https://forums.vatsim.net/topic/31656-if-im-approaching-a-airport-with-no-center-or-approach-control-or-tower-control-do-i-contact-ground-or-stay-on-unicom-until-i-land/?do=findComment&comment=180153)
-- [Global Air Traffic Controller Administration Policy Draft and Executive Summary](https://forums.vatsim.net/topic/31660-global-air-traffic-controller-administration-policy-draft-and-executive-summary/?do=findComment&comment=180152)
+- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180192)
+- [Thought on Restricted.](https://forums.vatsim.net/topic/31672-thought-on-restricted/?do=findComment&comment=180191)
+- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180190)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180189)
+- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180188)
+- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180187)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180186)
+- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180185)
+- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180184)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180183)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
