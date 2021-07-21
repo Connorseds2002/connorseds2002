@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180192)
-- [Thought on Restricted.](https://forums.vatsim.net/topic/31672-thought-on-restricted/?do=findComment&comment=180191)
-- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180190)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180189)
-- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180188)
-- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180187)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180186)
-- [Experiences to share](https://forums.vatsim.net/topic/31562-experiences-to-share/?do=findComment&comment=180185)
-- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180184)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180183)
+- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=180224)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180223)
+- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=180222)
+- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180221)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180220)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180219)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180218)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180217)
+- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180216)
+- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180215)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
