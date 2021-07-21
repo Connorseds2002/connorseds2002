@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My thoughts on GCAP](https://forums.vatsim.net/topic/31676-my-thoughts-on-gcap/?do=findComment&comment=180319)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180317)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180316)
+- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180315)
+- [Definition of "live training resources"](https://forums.vatsim.net/topic/31668-definition-of-live-training-resources/?do=findComment&comment=180314)
+- [My thoughts on GCAP](https://forums.vatsim.net/topic/31676-my-thoughts-on-gcap/?do=findComment&comment=180313)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180312)
 - [My thoughts on GCAP](https://forums.vatsim.net/topic/31676-my-thoughts-on-gcap/?do=findComment&comment=180311)
 - [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180310)
 - [My thoughts on GCAP](https://forums.vatsim.net/topic/31676-my-thoughts-on-gcap/?do=findComment&comment=180309)
-- [My thoughts on GCAP](https://forums.vatsim.net/topic/31676-my-thoughts-on-gcap/?do=findComment&comment=180308)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=180307)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=180306)
-- [My thoughts on GCAP](https://forums.vatsim.net/topic/31676-my-thoughts-on-gcap/?do=findComment&comment=180305)
-- [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180304)
-- [xPilot - Getting Invalid CID/Password](https://forums.vatsim.net/topic/27969-xpilot-getting-invalid-cidpassword/?do=findComment&comment=180303)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180302)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
