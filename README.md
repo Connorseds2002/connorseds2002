@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot - Getting Invalid CID/Password](https://forums.vatsim.net/topic/27969-xpilot-getting-invalid-cidpassword/?do=findComment&comment=180303)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180302)
+- [My thoughts on GCAP](https://forums.vatsim.net/topic/31676-my-thoughts-on-gcap/?do=findComment&comment=180301)
+- [My thoughts on GCAP](https://forums.vatsim.net/topic/31676-my-thoughts-on-gcap/?do=findComment&comment=180300)
+- [Military endorsement](https://forums.vatsim.net/topic/31665-military-endorsement/?do=findComment&comment=180299)
+- [Thought on Restricted.](https://forums.vatsim.net/topic/31672-thought-on-restricted/?do=findComment&comment=180298)
+- [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180297)
 - [My thoughts on GCAP](https://forums.vatsim.net/topic/31676-my-thoughts-on-gcap/?do=findComment&comment=180296)
 - [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180295)
 - [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180294)
-- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180293)
-- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=180292)
-- [Military endorsement](https://forums.vatsim.net/topic/31665-military-endorsement/?do=findComment&comment=180291)
-- [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180290)
-- [启动vatspy时提示“基础链接已经关闭，发送时发生错误”，没有用梯子，是这个原因么？](https://forums.vatsim.net/topic/31637-%E5%90%AF%E5%8A%A8vatspy%E6%97%B6%E6%8F%90%E7%A4%BA%E2%80%9C%E5%9F%BA%E7%A1%80%E9%93%BE%E6%8E%A5%E5%B7%B2%E7%BB%8F%E5%85%B3%E9%97%AD%EF%BC%8C%E5%8F%91%E9%80%81%E6%97%B6%E5%8F%91%E7%94%9F%E9%94%99%E8%AF%AF%E2%80%9D%EF%BC%8C%E6%B2%A1%E6%9C%89%E7%94%A8%E6%A2%AF%E5%AD%90%EF%BC%8C%E6%98%AF%E8%BF%99%E4%B8%AA%E5%8E%9F%E5%9B%A0%E4%B9%88%EF%BC%9F/?do=findComment&comment=180289)
-- [7.05(c) and solo endorsements](https://forums.vatsim.net/topic/31667-705c-and-solo-endorsements/?do=findComment&comment=180288)
-- [7.05(c) and solo endorsements](https://forums.vatsim.net/topic/31667-705c-and-solo-endorsements/?do=findComment&comment=180287)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
