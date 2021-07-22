@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Definition of "live training resources"](https://forums.vatsim.net/topic/31668-definition-of-live-training-resources/?do=findComment&comment=180519)
+- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180518)
+- [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180517)
+- [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180516)
+- [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180515)
 - [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180513)
 - [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180512)
 - [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180511)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180510)
 - [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180509)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180508)
-- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180506)
-- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180505)
-- [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=180504)
-- [Made A VATSIM Discord Bot](https://forums.vatsim.net/topic/28412-made-a-vatsim-discord-bot/?do=findComment&comment=180503)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
