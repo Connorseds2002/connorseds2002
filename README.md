@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Tweaking of GCAP after it comes into effect](https://forums.vatsim.net/topic/31691-tweaking-of-gcap-after-it-comes-into-effect/?do=findComment&comment=180532)
-- [Tweaking of GCAP after it comes into effect](https://forums.vatsim.net/topic/31691-tweaking-of-gcap-after-it-comes-into-effect/?do=findComment&comment=180531)
-- [To what extent will the public review affect GCAP pre-release?](https://forums.vatsim.net/topic/31692-to-what-extent-will-the-public-review-affect-gcap-pre-release/?do=findComment&comment=180530)
-- [Definition of "live training resources"](https://forums.vatsim.net/topic/31668-definition-of-live-training-resources/?do=findComment&comment=180529)
-- [Definition of "live training resources"](https://forums.vatsim.net/topic/31668-definition-of-live-training-resources/?do=findComment&comment=180528)
-- [Rewrite Assistance](https://forums.vatsim.net/topic/31689-rewrite-assistance/?do=findComment&comment=180526)
-- [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180525)
-- [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180524)
-- [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180523)
-- [General local administrative procedures](https://forums.vatsim.net/topic/31697-general-local-administrative-procedures/?do=findComment&comment=180522)
+- [Concerns with the Visiting Controller Endorsement](https://forums.vatsim.net/topic/31684-concerns-with-the-visiting-controller-endorsement/?do=findComment&comment=180561)
+- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180560)
+- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180559)
+- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180558)
+- [7.06 Training Requirement – Minor Aerodromes / Airspace](https://forums.vatsim.net/topic/31690-706-training-requirement-%E2%80%93-minor-aerodromes-airspace/?do=findComment&comment=180557)
+- [Concerns with the Visiting Controller Endorsement](https://forums.vatsim.net/topic/31684-concerns-with-the-visiting-controller-endorsement/?do=findComment&comment=180556)
+- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180555)
+- [Sub-Divisional Transfers](https://forums.vatsim.net/topic/31681-sub-divisional-transfers/?do=findComment&comment=180554)
+- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180553)
+- [General local administrative procedures](https://forums.vatsim.net/topic/31697-general-local-administrative-procedures/?do=findComment&comment=180552)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
