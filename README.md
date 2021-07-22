@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180613)
+- [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180612)
+- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180611)
+- [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180610)
+- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180609)
 - [Concerns with the Visiting Controller Endorsement](https://forums.vatsim.net/topic/31684-concerns-with-the-visiting-controller-endorsement/?do=findComment&comment=180608)
 - [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180607)
 - [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180606)
 - [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180605)
 - [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180604)
-- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180603)
-- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180602)
-- [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180601)
-- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180600)
-- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180599)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
