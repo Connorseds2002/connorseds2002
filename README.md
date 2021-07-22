@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Poll for "hot" arguments regarding the GCAP, to see what the overall public really thinks.](https://forums.vatsim.net/topic/31698-poll-for-hot-arguments-regarding-the-gcap-to-see-what-the-overall-public-really-thinks/?do=findComment&comment=180589)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180588)
+- [Sub-Divisional Transfers](https://forums.vatsim.net/topic/31681-sub-divisional-transfers/?do=findComment&comment=180587)
+- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180586)
+- [6.05(h)(i) - Clarification and Discussion](https://forums.vatsim.net/topic/31700-605hi-clarification-and-discussion/?do=findComment&comment=180585)
+- [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180584)
 - [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180583)
 - [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180582)
 - [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180581)
 - [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180580)
-- [A couple typos](https://forums.vatsim.net/topic/31662-a-couple-typos/?do=findComment&comment=180578)
-- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180577)
-- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=180575)
-- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180574)
-- [Poll for "hot" arguments regarding the GCAP, to see what the overall public really thinks.](https://forums.vatsim.net/topic/31698-poll-for-hot-arguments-regarding-the-gcap-to-see-what-the-overall-public-really-thinks/?do=findComment&comment=180573)
-- [Sub-Divisional Transfers](https://forums.vatsim.net/topic/31681-sub-divisional-transfers/?do=findComment&comment=180572)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
