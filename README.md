@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Poll for "hot" arguments regarding the GCAP, to see what the overall public really thinks.](https://forums.vatsim.net/topic/31698-poll-for-hot-arguments-regarding-the-gcap-to-see-what-the-overall-public-really-thinks/?do=findComment&comment=180589)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180588)
-- [Sub-Divisional Transfers](https://forums.vatsim.net/topic/31681-sub-divisional-transfers/?do=findComment&comment=180587)
-- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180586)
-- [6.05(h)(i) - Clarification and Discussion](https://forums.vatsim.net/topic/31700-605hi-clarification-and-discussion/?do=findComment&comment=180585)
-- [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180584)
-- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180583)
-- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180582)
-- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180581)
-- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180580)
+- [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180601)
+- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180600)
+- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180599)
+- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180598)
+- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180597)
+- [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180596)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180595)
+- [Poll for "hot" arguments regarding the GCAP, to see what the overall public really thinks.](https://forums.vatsim.net/topic/31698-poll-for-hot-arguments-regarding-the-gcap-to-see-what-the-overall-public-really-thinks/?do=findComment&comment=180594)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180593)
+- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180592)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
