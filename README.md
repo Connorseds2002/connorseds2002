@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180498)
+- [To what extent will the public review affect GCAP pre-release?](https://forums.vatsim.net/topic/31692-to-what-extent-will-the-public-review-affect-gcap-pre-release/?do=findComment&comment=180497)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180496)
+- [Tweaking of GCAP after it comes into effect](https://forums.vatsim.net/topic/31691-tweaking-of-gcap-after-it-comes-into-effect/?do=findComment&comment=180495)
+- [7.06 Training Requirement – Minor Aerodromes / Airspace](https://forums.vatsim.net/topic/31690-706-training-requirement-%E2%80%93-minor-aerodromes-airspace/?do=findComment&comment=180494)
+- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180493)
+- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180492)
 - [Visiting controllers hard restrictions reducing event staffing](https://forums.vatsim.net/topic/31664-visiting-controllers-hard-restrictions-reducing-event-staffing/?do=findComment&comment=180491)
 - [Sub-Divisional Transfers](https://forums.vatsim.net/topic/31681-sub-divisional-transfers/?do=findComment&comment=180490)
 - [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180489)
-- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180488)
-- [Definition of "live training resources"](https://forums.vatsim.net/topic/31668-definition-of-live-training-resources/?do=findComment&comment=180487)
-- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180486)
-- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180485)
-- [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180484)
-- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=180483)
-- [Sub-Divisional Transfers](https://forums.vatsim.net/topic/31681-sub-divisional-transfers/?do=findComment&comment=180482)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
