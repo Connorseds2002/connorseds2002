@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180510)
+- [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180509)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180508)
+- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180506)
 - [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180505)
 - [Best Simulator/ADD-ON ?](https://forums.vatsim.net/topic/31575-best-simulatoradd-on/?do=findComment&comment=180504)
 - [Made A VATSIM Discord Bot](https://forums.vatsim.net/topic/28412-made-a-vatsim-discord-bot/?do=findComment&comment=180503)
 - [Appendix B - Controlling Conditions](https://forums.vatsim.net/topic/31694-appendix-b-controlling-conditions/?do=findComment&comment=180502)
 - [8.06(a), 8.06 (b)](https://forums.vatsim.net/topic/31686-806a-806-b/?do=findComment&comment=180501)
 - [7.06 Training Requirement – Minor Aerodromes / Airspace (double post, sorry)](https://forums.vatsim.net/topic/31693-706-training-requirement-%E2%80%93-minor-aerodromes-airspace-double-post-sorry/?do=findComment&comment=180500)
-- [To what extent will the public review affect GCAP pre-release?](https://forums.vatsim.net/topic/31692-to-what-extent-will-the-public-review-affect-gcap-pre-release/?do=findComment&comment=180499)
-- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180498)
-- [To what extent will the public review affect GCAP pre-release?](https://forums.vatsim.net/topic/31692-to-what-extent-will-the-public-review-affect-gcap-pre-release/?do=findComment&comment=180497)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180496)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
