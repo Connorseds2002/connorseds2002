@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Concerns with the Visiting Controller Endorsement](https://forums.vatsim.net/topic/31684-concerns-with-the-visiting-controller-endorsement/?do=findComment&comment=180570)
+- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180569)
+- [Concerns with the Visiting Controller Endorsement](https://forums.vatsim.net/topic/31684-concerns-with-the-visiting-controller-endorsement/?do=findComment&comment=180568)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180567)
+- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180566)
+- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180565)
+- [Concerns with the Visiting Controller Endorsement](https://forums.vatsim.net/topic/31684-concerns-with-the-visiting-controller-endorsement/?do=findComment&comment=180564)
+- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180563)
+- [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180562)
 - [Concerns with the Visiting Controller Endorsement](https://forums.vatsim.net/topic/31684-concerns-with-the-visiting-controller-endorsement/?do=findComment&comment=180561)
-- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180560)
-- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180559)
-- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180558)
-- [7.06 Training Requirement – Minor Aerodromes / Airspace](https://forums.vatsim.net/topic/31690-706-training-requirement-%E2%80%93-minor-aerodromes-airspace/?do=findComment&comment=180557)
-- [Concerns with the Visiting Controller Endorsement](https://forums.vatsim.net/topic/31684-concerns-with-the-visiting-controller-endorsement/?do=findComment&comment=180556)
-- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180555)
-- [Sub-Divisional Transfers](https://forums.vatsim.net/topic/31681-sub-divisional-transfers/?do=findComment&comment=180554)
-- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180553)
-- [General local administrative procedures](https://forums.vatsim.net/topic/31697-general-local-administrative-procedures/?do=findComment&comment=180552)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
