@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Concerns with the Visiting Controller Endorsement](https://forums.vatsim.net/topic/31684-concerns-with-the-visiting-controller-endorsement/?do=findComment&comment=180608)
+- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=180607)
+- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180606)
+- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180605)
+- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180604)
+- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180603)
+- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180602)
 - [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180601)
 - [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180600)
 - [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180599)
-- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180598)
-- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180597)
-- [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180596)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180595)
-- [Poll for "hot" arguments regarding the GCAP, to see what the overall public really thinks.](https://forums.vatsim.net/topic/31698-poll-for-hot-arguments-regarding-the-gcap-to-see-what-the-overall-public-really-thinks/?do=findComment&comment=180594)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180593)
-- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180592)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
