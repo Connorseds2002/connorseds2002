@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180778)
+- [Poll for "hot" arguments regarding the GCAP, to see what the overall public really thinks.](https://forums.vatsim.net/topic/31698-poll-for-hot-arguments-regarding-the-gcap-to-see-what-the-overall-public-really-thinks/?do=findComment&comment=180777)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180776)
+- [Vpilot error new version](https://forums.vatsim.net/topic/27032-vpilot-error-new-version/?do=findComment&comment=180775)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180774)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180773)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180772)
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180771)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180770)
 - ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180769)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180768)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180767)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180766)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180765)
-- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180764)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180763)
-- [Suspended from VATSIM, need help.](https://forums.vatsim.net/topic/31711-suspended-from-vatsim-need-help/?do=findComment&comment=180762)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180761)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180760)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
