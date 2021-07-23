@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why is Matt the whipping boy for this Public Review?](https://forums.vatsim.net/topic/31705-why-is-matt-the-whipping-boy-for-this-public-review/?do=findComment&comment=180643)
+- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180642)
+- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180641)
+- [Walker Air Transport](https://forums.vatsim.net/topic/31619-walker-air-transport/?do=findComment&comment=180640)
+- [Airspace under S1 Rating](https://forums.vatsim.net/topic/31704-airspace-under-s1-rating/?do=findComment&comment=180639)
+- [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180638)
 - [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180636)
 - [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180635)
 - [Definition of "live training resources"](https://forums.vatsim.net/topic/31668-definition-of-live-training-resources/?do=findComment&comment=180634)
 - [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180633)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180632)
-- [Definition of "live training resources"](https://forums.vatsim.net/topic/31668-definition-of-live-training-resources/?do=findComment&comment=180631)
-- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180630)
-- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180629)
-- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180628)
-- [6.05(j)(vii) A Controller may not hold more than 3 Visiting Controller Endorsements at one time.](https://forums.vatsim.net/topic/31702-605jvii-a-controller-may-not-hold-more-than-3-visiting-controller-endorsements-at-one-time/?do=findComment&comment=180627)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
