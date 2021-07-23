@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180668)
-- [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180667)
-- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180666)
-- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180665)
-- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180664)
-- [Vpilot error new version](https://forums.vatsim.net/topic/27032-vpilot-error-new-version/?do=findComment&comment=180663)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180662)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180661)
-- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180660)
-- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180659)
+- [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180680)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=180679)
+- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180678)
+- [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180677)
+- [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180676)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=180675)
+- [Why is Matt the whipping boy for this Public Review?](https://forums.vatsim.net/topic/31705-why-is-matt-the-whipping-boy-for-this-public-review/?do=findComment&comment=180674)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180673)
+- [Why is Matt the whipping boy for this Public Review?](https://forums.vatsim.net/topic/31705-why-is-matt-the-whipping-boy-for-this-public-review/?do=findComment&comment=180672)
+- [Why is Matt the whipping boy for this Public Review?](https://forums.vatsim.net/topic/31705-why-is-matt-the-whipping-boy-for-this-public-review/?do=findComment&comment=180671)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
