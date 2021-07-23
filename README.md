@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180652)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180651)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180650)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180649)
@@ -62,7 +63,6 @@
 - [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180645)
 - [Why is Matt the whipping boy for this Public Review?](https://forums.vatsim.net/topic/31705-why-is-matt-the-whipping-boy-for-this-public-review/?do=findComment&comment=180643)
 - [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180642)
-- [Visitor requirements in home division](https://forums.vatsim.net/topic/31683-visitor-requirements-in-home-division/?do=findComment&comment=180641)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
