@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180778)
-- [Poll for "hot" arguments regarding the GCAP, to see what the overall public really thinks.](https://forums.vatsim.net/topic/31698-poll-for-hot-arguments-regarding-the-gcap-to-see-what-the-overall-public-really-thinks/?do=findComment&comment=180777)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180776)
-- [Vpilot error new version](https://forums.vatsim.net/topic/27032-vpilot-error-new-version/?do=findComment&comment=180775)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180774)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180773)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180772)
-- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180771)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180770)
-- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180769)
+- [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180789)
+- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180788)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180787)
+- [Wrong FPS recognition in VR](https://forums.vatsim.net/topic/31712-wrong-fps-recognition-in-vr/?do=findComment&comment=180786)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180785)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180784)
+- [Y/Z flight plans](https://forums.vatsim.net/topic/30357-yz-flight-plans/?do=findComment&comment=180783)
+- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180782)
+- [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180781)
+- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180780)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
