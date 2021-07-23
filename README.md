@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180657)
-- [Airspace under S1 Rating](https://forums.vatsim.net/topic/31704-airspace-under-s1-rating/?do=findComment&comment=180656)
-- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180655)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180654)
-- [XPilot Issue?](https://forums.vatsim.net/topic/31706-xpilot-issue/?do=findComment&comment=180653)
-- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180652)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180651)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180650)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180649)
-- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180648)
+- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180668)
+- [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180667)
+- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180666)
+- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180665)
+- ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180664)
+- [Vpilot error new version](https://forums.vatsim.net/topic/27032-vpilot-error-new-version/?do=findComment&comment=180663)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180662)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180661)
+- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180660)
+- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180659)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
