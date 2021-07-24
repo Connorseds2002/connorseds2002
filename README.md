@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=180802)
 - [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180801)
 - [ILH TCAS and Transponder in P3D](https://forums.vatsim.net/topic/19229-ilh-tcas-and-transponder-in-p3d/?do=findComment&comment=180799)
 - [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180798)
@@ -62,7 +63,6 @@
 - [Proposal S0 Rating](https://forums.vatsim.net/topic/31695-proposal-s0-rating/?do=findComment&comment=180789)
 - ["FSS" vs European "FIS/RIS"](https://forums.vatsim.net/topic/31707-fss-vs-european-fisris/?do=findComment&comment=180788)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=180787)
-- [Wrong FPS recognition in VR](https://forums.vatsim.net/topic/31712-wrong-fps-recognition-in-vr/?do=findComment&comment=180786)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
