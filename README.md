@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=180863)
+- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180862)
+- [Transition periode](https://forums.vatsim.net/topic/31717-transition-periode/?do=findComment&comment=180861)
+- [Southern Africa vACC is seeking an Operations Managers](https://forums.vatsim.net/topic/31719-southern-africa-vacc-is-seeking-an-operations-managers/?do=findComment&comment=180860)
+- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180859)
+- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180858)
+- [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180857)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180856)
 - [Transition periode](https://forums.vatsim.net/topic/31717-transition-periode/?do=findComment&comment=180855)
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=180854)
-- [7.07(b) - Limitations on training for "Restricted" airports](https://forums.vatsim.net/topic/31687-707b-limitations-on-training-for-restricted-airports/?do=findComment&comment=180853)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=180852)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=180851)
-- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180850)
-- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180849)
-- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180848)
-- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180847)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
