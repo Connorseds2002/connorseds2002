@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180930)
+- [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180929)
+- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180928)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180927)
 - ["Error connecting to voice Server: Connection Failed (Forbidden - )"](https://forums.vatsim.net/topic/27731-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=180926)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180925)
@@ -60,9 +63,6 @@
 - [Capital March - Mumbai-New Delhi & New Delhi-Mumbai on August 15, 2021](https://forums.vatsim.net/topic/31721-capital-march-mumbai-new-delhi-new-delhi-mumbai-on-august-15-2021/?do=findComment&comment=180923)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180922)
 - [Eurocontrol Survey [CLOSED]](https://forums.vatsim.net/topic/31627-eurocontrol-survey-closed/?do=findComment&comment=180921)
-- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=180920)
-- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180919)
-- [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180918)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
