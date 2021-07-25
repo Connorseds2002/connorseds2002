@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=180920)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180919)
 - [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180918)
 - [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180917)
@@ -62,7 +63,6 @@
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180913)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180912)
 - [Looking for Pilot/Co Pilot](https://forums.vatsim.net/topic/31559-looking-for-pilotco-pilot/?do=findComment&comment=180911)
-- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=180910)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
