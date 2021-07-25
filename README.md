@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180892)
+- [Question Simaware Map Explanation of ATC Regions](https://forums.vatsim.net/topic/31610-question-simaware-map-explanation-of-atc-regions/?do=findComment&comment=180891)
 - [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180890)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180889)
 - [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180888)
@@ -61,8 +63,6 @@
 - [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180885)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=180884)
 - [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180883)
-- [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=180882)
-- ["Error connecting to voice Server: Connection Failed (Forbidden - )"](https://forums.vatsim.net/topic/27731-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=180881)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
