@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Spelling error in email address upon registration](https://forums.vatsim.net/topic/31726-spelling-error-in-email-address-upon-registration/?do=findComment&comment=180959)
+- [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180958)
 - [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180957)
 - [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=180956)
 - [8.06(a), 8.06 (b)](https://forums.vatsim.net/topic/31686-806a-806-b/?do=findComment&comment=180955)
@@ -61,8 +63,6 @@
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=180952)
 - [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180950)
 - [ATC question for coverage and communication](https://forums.vatsim.net/topic/31722-atc-question-for-coverage-and-communication/?do=findComment&comment=180949)
-- [7.06 Training Requirement – Minor Aerodromes / Airspace](https://forums.vatsim.net/topic/31690-706-training-requirement-%E2%80%93-minor-aerodromes-airspace/?do=findComment&comment=180948)
-- [ATC question for coverage and communication](https://forums.vatsim.net/topic/31722-atc-question-for-coverage-and-communication/?do=findComment&comment=180947)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
