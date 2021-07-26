@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC question for coverage and communication](https://forums.vatsim.net/topic/31722-atc-question-for-coverage-and-communication/?do=findComment&comment=180936)
+- [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180935)
+- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180934)
 - [6.05(h)(i) Solo endorsements for S1](https://forums.vatsim.net/topic/31675-605hi-solo-endorsements-for-s1/?do=findComment&comment=180933)
 - [Error wenn ich einen Flugplan erstellen möchte.](https://forums.vatsim.net/topic/31645-error-wenn-ich-einen-flugplan-erstellen-m%C3%B6chte/?do=findComment&comment=180932)
 - [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180931)
@@ -60,9 +63,6 @@
 - [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180929)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180928)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180927)
-- ["Error connecting to voice Server: Connection Failed (Forbidden - )"](https://forums.vatsim.net/topic/27731-error-connecting-to-voice-server-connection-failed-forbidden/?do=findComment&comment=180926)
-- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180925)
-- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180924)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
