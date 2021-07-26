@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS Crashing With No Wind Reading](https://forums.vatsim.net/topic/31727-vatis-crashing-with-no-wind-reading/?do=findComment&comment=180960)
 - [Spelling error in email address upon registration](https://forums.vatsim.net/topic/31726-spelling-error-in-email-address-upon-registration/?do=findComment&comment=180959)
 - [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180958)
 - [Radar Blocks under S1??](https://forums.vatsim.net/topic/31696-radar-blocks-under-s1/?do=findComment&comment=180957)
@@ -62,7 +63,6 @@
 - [Spelling error in email address upon registration](https://forums.vatsim.net/topic/31726-spelling-error-in-email-address-upon-registration/?do=findComment&comment=180953)
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=180952)
 - [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180950)
-- [ATC question for coverage and communication](https://forums.vatsim.net/topic/31722-atc-question-for-coverage-and-communication/?do=findComment&comment=180949)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
