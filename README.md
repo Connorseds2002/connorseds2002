@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180999)
+- [Home region restriction for CAOC Visitor Endorsement](https://forums.vatsim.net/topic/31682-home-region-restriction-for-caoc-visitor-endorsement/?do=findComment&comment=180998)
+- [How about a "Supsended S1"](https://forums.vatsim.net/topic/31731-how-about-a-supsended-s1/?do=findComment&comment=180997)
+- [Charts, Chartfinder, and Flight Planning Links](https://forums.vatsim.net/topic/3422-charts-chartfinder-and-flight-planning-links/?do=findComment&comment=180995)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=180994)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180991)
 - [How about a "Supsended S1"](https://forums.vatsim.net/topic/31731-how-about-a-supsended-s1/?do=findComment&comment=180990)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180989)
 - [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=180988)
 - [How about a "Supsended S1"](https://forums.vatsim.net/topic/31731-how-about-a-supsended-s1/?do=findComment&comment=180987)
-- [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=180984)
-- [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=180983)
-- [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=180982)
-- [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180981)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
