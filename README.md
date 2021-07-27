@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180991)
+- [How about a "Supsended S1"](https://forums.vatsim.net/topic/31731-how-about-a-supsended-s1/?do=findComment&comment=180990)
+- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180989)
+- [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=180988)
+- [How about a "Supsended S1"](https://forums.vatsim.net/topic/31731-how-about-a-supsended-s1/?do=findComment&comment=180987)
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=180984)
 - [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=180983)
 - [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=180982)
 - [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180981)
 - [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=180979)
-- [My thoughts on the 20th Anniversary of VATSIM](https://forums.vatsim.net/topic/31729-my-thoughts-on-the-20th-anniversary-of-vatsim/?do=findComment&comment=180978)
-- [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=180977)
-- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180976)
-- [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180975)
-- [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180974)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
