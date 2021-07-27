@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Home region restriction for CAOC Visitor Endorsement](https://forums.vatsim.net/topic/31682-home-region-restriction-for-caoc-visitor-endorsement/?do=findComment&comment=181006)
+- [[VACANCY] Deputy Marketing Director - VATSIM Middle East & Northern Africa (VATMENA)](https://forums.vatsim.net/topic/31734-vacancy-deputy-marketing-director-vatsim-middle-east-northern-africa-vatmena/?do=findComment&comment=181005)
 - [Why are Solo Endorsements mandated?](https://forums.vatsim.net/topic/31666-why-are-solo-endorsements-mandated/?do=findComment&comment=180999)
 - [Home region restriction for CAOC Visitor Endorsement](https://forums.vatsim.net/topic/31682-home-region-restriction-for-caoc-visitor-endorsement/?do=findComment&comment=180998)
 - [How about a "Supsended S1"](https://forums.vatsim.net/topic/31731-how-about-a-supsended-s1/?do=findComment&comment=180997)
@@ -61,8 +63,6 @@
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180991)
 - [How about a "Supsended S1"](https://forums.vatsim.net/topic/31731-how-about-a-supsended-s1/?do=findComment&comment=180990)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180989)
-- [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=180988)
-- [How about a "Supsended S1"](https://forums.vatsim.net/topic/31731-how-about-a-supsended-s1/?do=findComment&comment=180987)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
