@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [20 years of VATSIM!](https://forums.vatsim.net/topic/31728-20-years-of-vatsim/?do=findComment&comment=180971)
 - [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180970)
 - [ATC question for coverage and communication](https://forums.vatsim.net/topic/31722-atc-question-for-coverage-and-communication/?do=findComment&comment=180969)
 - [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=180968)
@@ -62,7 +63,6 @@
 - [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=180964)
 - [New S1 Rating](https://forums.vatsim.net/topic/31677-new-s1-rating/?do=findComment&comment=180963)
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=180962)
-- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180961)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
