@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feedback re incorrect SELCAL Code parameters](https://forums.vatsim.net/topic/31491-feedback-re-incorrect-selcal-code-parameters/?do=findComment&comment=180977)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180976)
 - [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180975)
 - [RNAV Departure in A320 (A32NX)](https://forums.vatsim.net/topic/31718-rnav-departure-in-a320-a32nx/?do=findComment&comment=180974)
@@ -62,7 +63,6 @@
 - [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=180968)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180967)
 - [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=180966)
-- [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=180965)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
