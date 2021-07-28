@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181044)
+- [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=181043)
 - ["Procedural Tower"](https://forums.vatsim.net/topic/31737-procedural-tower/?do=findComment&comment=181042)
 - [Error in Forum menu item](https://forums.vatsim.net/topic/31736-error-in-forum-menu-item/?do=findComment&comment=181041)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181040)
@@ -61,8 +63,6 @@
 - [error xpilot](https://forums.vatsim.net/topic/31735-error-xpilot/?do=findComment&comment=181037)
 - ["Procedural Tower"](https://forums.vatsim.net/topic/31737-procedural-tower/?do=findComment&comment=181036)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181035)
-- [Visiting Controllers within the Division](https://forums.vatsim.net/topic/31738-visiting-controllers-within-the-division/?do=findComment&comment=181034)
-- [Visiting Controllers within the Division](https://forums.vatsim.net/topic/31738-visiting-controllers-within-the-division/?do=findComment&comment=181033)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
