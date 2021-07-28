@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No audio or PTT on XPlane 11.55 - new issue.](https://forums.vatsim.net/topic/31743-no-audio-or-ptt-on-xplane-1155-new-issue/?do=findComment&comment=181062)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181061)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181057)
 - [ATC hours didn't got updated](https://forums.vatsim.net/topic/31742-atc-hours-didnt-got-updated/?do=findComment&comment=181056)
@@ -62,7 +63,6 @@
 - [Had my first flight today and still need some help](https://forums.vatsim.net/topic/31741-had-my-first-flight-today-and-still-need-some-help/?do=findComment&comment=181052)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181051)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181050)
-- [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181049)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
