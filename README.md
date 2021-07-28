@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [error xpilot](https://forums.vatsim.net/topic/31735-error-xpilot/?do=findComment&comment=181011)
+- [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=181010)
+- [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=181009)
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=181008)
 - [Home region restriction for CAOC Visitor Endorsement](https://forums.vatsim.net/topic/31682-home-region-restriction-for-caoc-visitor-endorsement/?do=findComment&comment=181006)
 - [[VACANCY] Deputy Marketing Director - VATSIM Middle East & Northern Africa (VATMENA)](https://forums.vatsim.net/topic/31734-vacancy-deputy-marketing-director-vatsim-middle-east-northern-africa-vatmena/?do=findComment&comment=181005)
@@ -60,9 +63,6 @@
 - [Home region restriction for CAOC Visitor Endorsement](https://forums.vatsim.net/topic/31682-home-region-restriction-for-caoc-visitor-endorsement/?do=findComment&comment=180998)
 - [How about a "Supsended S1"](https://forums.vatsim.net/topic/31731-how-about-a-supsended-s1/?do=findComment&comment=180997)
 - [Charts, Chartfinder, and Flight Planning Links](https://forums.vatsim.net/topic/3422-charts-chartfinder-and-flight-planning-links/?do=findComment&comment=180995)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=180994)
-- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=180991)
-- [How about a "Supsended S1"](https://forums.vatsim.net/topic/31731-how-about-a-supsended-s1/?do=findComment&comment=180990)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
