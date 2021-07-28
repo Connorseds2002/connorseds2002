@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181053)
 - [Had my first flight today and still need some help](https://forums.vatsim.net/topic/31741-had-my-first-flight-today-and-still-need-some-help/?do=findComment&comment=181052)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181051)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181050)
@@ -62,7 +63,6 @@
 - [A Heartfelt Thanks to everyone on 20 Years](https://forums.vatsim.net/topic/31740-a-heartfelt-thanks-to-everyone-on-20-years/?do=findComment&comment=181046)
 - [Made a List of what to say to ATC on Vatsim, for beginners.](https://forums.vatsim.net/topic/19867-made-a-list-of-what-to-say-to-atc-on-vatsim-for-beginners/?do=findComment&comment=181045)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181044)
-- [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=181043)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
