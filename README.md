@@ -53,6 +53,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181101)
+- [I had an embarassing first VATSIM flight, still a fantastic experience](https://forums.vatsim.net/topic/31751-i-had-an-embarassing-first-vatsim-flight-still-a-fantastic-experience/?do=findComment&comment=181100)
+- [I had an embarassing first VATSIM flight, still a fantastic experience](https://forums.vatsim.net/topic/31751-i-had-an-embarassing-first-vatsim-flight-still-a-fantastic-experience/?do=findComment&comment=181099)
 - [I had an embarassing first VATSIM flight, still a fantastic experience](https://forums.vatsim.net/topic/31751-i-had-an-embarassing-first-vatsim-flight-still-a-fantastic-experience/?do=findComment&comment=181098)
 - [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181097)
 - [I had an embarassing first VATSIM flight, still a fantastic experience](https://forums.vatsim.net/topic/31751-i-had-an-embarassing-first-vatsim-flight-still-a-fantastic-experience/?do=findComment&comment=181096)
@@ -60,9 +63,6 @@
 - [No Re-Scan](https://forums.vatsim.net/topic/31744-no-re-scan/?do=findComment&comment=181091)
 - [PPL Licence transfer progress](https://forums.vatsim.net/topic/31747-ppl-licence-transfer-progress/?do=findComment&comment=181090)
 - [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=181089)
-- [Latest flight not in stats](https://forums.vatsim.net/topic/31750-latest-flight-not-in-stats/?do=findComment&comment=181087)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181086)
-- [X-pilot](https://forums.vatsim.net/topic/31749-x-pilot/?do=findComment&comment=181085)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
