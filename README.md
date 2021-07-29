@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I had an embarassing first VATSIM flight, still a fantastic experience](https://forums.vatsim.net/topic/31751-i-had-an-embarassing-first-vatsim-flight-still-a-fantastic-experience/?do=findComment&comment=181098)
+- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181097)
 - [I had an embarassing first VATSIM flight, still a fantastic experience](https://forums.vatsim.net/topic/31751-i-had-an-embarassing-first-vatsim-flight-still-a-fantastic-experience/?do=findComment&comment=181096)
 - [PPL Licence transfer progress](https://forums.vatsim.net/topic/31747-ppl-licence-transfer-progress/?do=findComment&comment=181092)
 - [No Re-Scan](https://forums.vatsim.net/topic/31744-no-re-scan/?do=findComment&comment=181091)
@@ -61,8 +63,6 @@
 - [Latest flight not in stats](https://forums.vatsim.net/topic/31750-latest-flight-not-in-stats/?do=findComment&comment=181087)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181086)
 - [X-pilot](https://forums.vatsim.net/topic/31749-x-pilot/?do=findComment&comment=181085)
-- [Visiting Controllers within the Division](https://forums.vatsim.net/topic/31738-visiting-controllers-within-the-division/?do=findComment&comment=181082)
-- [Visiting Controllers within the Division](https://forums.vatsim.net/topic/31738-visiting-controllers-within-the-division/?do=findComment&comment=181081)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
