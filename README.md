@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PPL Licence transfer progress](https://forums.vatsim.net/topic/31747-ppl-licence-transfer-progress/?do=findComment&comment=181090)
 - [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=181089)
 - [Latest flight not in stats](https://forums.vatsim.net/topic/31750-latest-flight-not-in-stats/?do=findComment&comment=181087)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181086)
@@ -62,7 +63,6 @@
 - [Had my first flight today and still need some help](https://forums.vatsim.net/topic/31741-had-my-first-flight-today-and-still-need-some-help/?do=findComment&comment=181080)
 - [PPL Licence transfer progress](https://forums.vatsim.net/topic/31747-ppl-licence-transfer-progress/?do=findComment&comment=181079)
 - [Had my first flight today and still need some help](https://forums.vatsim.net/topic/31741-had-my-first-flight-today-and-still-need-some-help/?do=findComment&comment=181078)
-- [Had my first flight today and still need some help](https://forums.vatsim.net/topic/31741-had-my-first-flight-today-and-still-need-some-help/?do=findComment&comment=181077)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
