@@ -53,6 +53,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PPL Licence transfer progress](https://forums.vatsim.net/topic/31747-ppl-licence-transfer-progress/?do=findComment&comment=181079)
 - [Had my first flight today and still need some help](https://forums.vatsim.net/topic/31741-had-my-first-flight-today-and-still-need-some-help/?do=findComment&comment=181078)
 - [Had my first flight today and still need some help](https://forums.vatsim.net/topic/31741-had-my-first-flight-today-and-still-need-some-help/?do=findComment&comment=181077)
 - [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=181076)
@@ -62,7 +63,6 @@
 - [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=181072)
 - [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=181071)
 - [vatSys on Windows Server 2019](https://forums.vatsim.net/topic/31466-vatsys-on-windows-server-2019/?do=findComment&comment=181070)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181069)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
