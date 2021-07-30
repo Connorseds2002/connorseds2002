@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No audio or PTT on XPlane 11.55 - new issue.](https://forums.vatsim.net/topic/31743-no-audio-or-ptt-on-xplane-1155-new-issue/?do=findComment&comment=181138)
+- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=181137)
+- [[Dev] Sid/Star/Clearance](https://forums.vatsim.net/topic/31420-dev-sidstarclearance/?do=findComment&comment=181136)
+- [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181135)
+- [First flight 301900Z EDDB - LBSF](https://forums.vatsim.net/topic/31755-first-flight-301900z-eddb-lbsf/?do=findComment&comment=181134)
+- [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181133)
 - [Latest flight not in stats](https://forums.vatsim.net/topic/31750-latest-flight-not-in-stats/?do=findComment&comment=181132)
 - [VatSpy Opens but nowhere to be found](https://forums.vatsim.net/topic/31753-vatspy-opens-but-nowhere-to-be-found/?do=findComment&comment=181131)
 - [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181130)
 - [Visiting Controllers within the Division](https://forums.vatsim.net/topic/31738-visiting-controllers-within-the-division/?do=findComment&comment=181129)
-- [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181128)
-- [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181127)
-- [If There is no clearance im new to VatSim do I need a  Squawk still?](https://forums.vatsim.net/topic/31752-if-there-is-no-clearance-im-new-to-vatsim-do-i-need-a-squawk-still/?do=findComment&comment=181126)
-- [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181125)
-- [If There is no clearance im new to VatSim do I need a  Squawk still?](https://forums.vatsim.net/topic/31752-if-there-is-no-clearance-im-new-to-vatsim-do-i-need-a-squawk-still/?do=findComment&comment=181124)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181123)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
