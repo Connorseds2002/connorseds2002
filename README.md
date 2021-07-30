@@ -53,16 +53,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Had my first flight today and still need some help](https://forums.vatsim.net/topic/31741-had-my-first-flight-today-and-still-need-some-help/?do=findComment&comment=181120)
+- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181119)
+- [If There is no clearance im new to VatSim do I need a  Squawk still?](https://forums.vatsim.net/topic/31752-if-there-is-no-clearance-im-new-to-vatsim-do-i-need-a-squawk-still/?do=findComment&comment=181118)
+- [How does one network x-Pilot?](https://forums.vatsim.net/topic/31479-how-does-one-network-x-pilot/?do=findComment&comment=181117)
+- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181116)
 - [Had my first flight today and still need some help](https://forums.vatsim.net/topic/31741-had-my-first-flight-today-and-still-need-some-help/?do=findComment&comment=181115)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181114)
 - [How does one network x-Pilot?](https://forums.vatsim.net/topic/31479-how-does-one-network-x-pilot/?do=findComment&comment=181113)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181112)
 - [Latest flight not in stats](https://forums.vatsim.net/topic/31750-latest-flight-not-in-stats/?do=findComment&comment=181111)
-- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181110)
-- [If There is no clearance im new to VatSim do I need a  Squawk still?](https://forums.vatsim.net/topic/31752-if-there-is-no-clearance-im-new-to-vatsim-do-i-need-a-squawk-still/?do=findComment&comment=181109)
-- [If There is no clearance im new to VatSim do I need a  Squawk still?](https://forums.vatsim.net/topic/31752-if-there-is-no-clearance-im-new-to-vatsim-do-i-need-a-squawk-still/?do=findComment&comment=181108)
-- [If There is no clearance im new to VatSim do I need a  Squawk still?](https://forums.vatsim.net/topic/31752-if-there-is-no-clearance-im-new-to-vatsim-do-i-need-a-squawk-still/?do=findComment&comment=181107)
-- [Real World Controller,  Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181104)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
