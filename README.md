@@ -54,6 +54,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181167)
+- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181166)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181165)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181164)
 - [No VATSIM](https://forums.vatsim.net/topic/31758-no-vatsim/?do=findComment&comment=181163)
@@ -62,8 +64,6 @@
 - [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181160)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181159)
 - [If There is no clearance im new to VatSim do I need a  Squawk still?](https://forums.vatsim.net/topic/31752-if-there-is-no-clearance-im-new-to-vatsim-do-i-need-a-squawk-still/?do=findComment&comment=181158)
-- [No VATSIM](https://forums.vatsim.net/topic/31758-no-vatsim/?do=findComment&comment=181157)
-- [No VATSIM](https://forums.vatsim.net/topic/31758-no-vatsim/?do=findComment&comment=181156)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
