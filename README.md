@@ -53,6 +53,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [7.06 Training Requirement – Minor Aerodromes / Airspace](https://forums.vatsim.net/topic/31690-706-training-requirement-%E2%80%93-minor-aerodromes-airspace/?do=findComment&comment=181149)
+- [Define "In good standing"](https://forums.vatsim.net/topic/31756-define-in-good-standing/?do=findComment&comment=181148)
 - [Define "In good standing"](https://forums.vatsim.net/topic/31756-define-in-good-standing/?do=findComment&comment=181147)
 - [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181146)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181145)
@@ -61,8 +63,6 @@
 - [Define "In good standing"](https://forums.vatsim.net/topic/31756-define-in-good-standing/?do=findComment&comment=181141)
 - [Define "In good standing"](https://forums.vatsim.net/topic/31756-define-in-good-standing/?do=findComment&comment=181140)
 - [Define "In good standing"](https://forums.vatsim.net/topic/31756-define-in-good-standing/?do=findComment&comment=181139)
-- [No audio or PTT on XPlane 11.55 - new issue.](https://forums.vatsim.net/topic/31743-no-audio-or-ptt-on-xplane-1155-new-issue/?do=findComment&comment=181138)
-- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=181137)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
