@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Recover Messages That Were Cleared (.clear)](https://forums.vatsim.net/topic/31761-recover-messages-that-were-cleared-clear/?do=findComment&comment=181170)
 - [Recover Messages That Were Cleared (.clear)](https://forums.vatsim.net/topic/31761-recover-messages-that-were-cleared-clear/?do=findComment&comment=181169)
 - [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181168)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181167)
@@ -64,7 +65,6 @@
 - [No VATSIM](https://forums.vatsim.net/topic/31758-no-vatsim/?do=findComment&comment=181163)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181162)
 - [VATBOOK error](https://forums.vatsim.net/topic/31759-vatbook-error/?do=findComment&comment=181161)
-- [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181160)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
