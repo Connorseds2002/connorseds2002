@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot is totally not working, no matter what I do!!](https://forums.vatsim.net/topic/31763-xpilot-is-totally-not-working-no-matter-what-i-do/?do=findComment&comment=181178)
+- [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=181177)
+- [Xpilot is totally not working, no matter what I do!!](https://forums.vatsim.net/topic/31763-xpilot-is-totally-not-working-no-matter-what-i-do/?do=findComment&comment=181176)
 - [still suspended and dont know why...](https://forums.vatsim.net/topic/31762-still-suspended-and-dont-know-why/?do=findComment&comment=181175)
 - [still suspended and dont know why...](https://forums.vatsim.net/topic/31762-still-suspended-and-dont-know-why/?do=findComment&comment=181174)
 - [Define "In good standing"](https://forums.vatsim.net/topic/31756-define-in-good-standing/?do=findComment&comment=181173)
@@ -62,9 +65,6 @@
 - [First flight 301900Z EDDB - LBSF](https://forums.vatsim.net/topic/31755-first-flight-301900z-eddb-lbsf/?do=findComment&comment=181171)
 - [Recover Messages That Were Cleared (.clear)](https://forums.vatsim.net/topic/31761-recover-messages-that-were-cleared-clear/?do=findComment&comment=181170)
 - [Recover Messages That Were Cleared (.clear)](https://forums.vatsim.net/topic/31761-recover-messages-that-were-cleared-clear/?do=findComment&comment=181169)
-- [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181168)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181167)
-- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181166)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
