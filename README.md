@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=181195)
+- [still suspended and dont know why...](https://forums.vatsim.net/topic/31765-still-suspended-and-dont-know-why/?do=findComment&comment=181194)
 - [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181193)
 - [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181192)
 - [Latest flight not in stats](https://forums.vatsim.net/topic/31750-latest-flight-not-in-stats/?do=findComment&comment=181191)
@@ -63,8 +65,6 @@
 - [still suspended and dont know why...](https://forums.vatsim.net/topic/31765-still-suspended-and-dont-know-why/?do=findComment&comment=181188)
 - [[Suggestion] Use FAA aircraft types (H/B747/L) rather than B747/M-SDE23F.... on ASDEX](https://forums.vatsim.net/topic/31764-suggestion-use-faa-aircraft-types-hb747l-rather-than-b747m-sde23f-on-asdex/?do=findComment&comment=181186)
 - [[Suggestion] Use FAA aircraft types (H/B747/L) rather than B747/M-SDE23F.... on ASDEX](https://forums.vatsim.net/topic/31764-suggestion-use-faa-aircraft-types-hb747l-rather-than-b747m-sde23f-on-asdex/?do=findComment&comment=181185)
-- [[Suggestion] Use FAA aircraft types (H/B747/L) rather than B747/M-SDE23F.... on ASDEX](https://forums.vatsim.net/topic/31764-suggestion-use-faa-aircraft-types-hb747l-rather-than-b747m-sde23f-on-asdex/?do=findComment&comment=181184)
-- [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181183)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
