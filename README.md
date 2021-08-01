@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181216)
 - [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=181215)
 - [ATC question for coverage and communication](https://forums.vatsim.net/topic/31722-atc-question-for-coverage-and-communication/?do=findComment&comment=181214)
 - [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181213)
@@ -64,7 +65,6 @@
 - [still suspended and dont know why...](https://forums.vatsim.net/topic/31762-still-suspended-and-dont-know-why/?do=findComment&comment=181209)
 - [Visiting Controllers within the Division](https://forums.vatsim.net/topic/31738-visiting-controllers-within-the-division/?do=findComment&comment=181208)
 - [Establishment of Bangladesh vACC (ACCBGD) & Appointment of Director vACC Bangladesh (ACCBGD1)](https://forums.vatsim.net/topic/31767-establishment-of-bangladesh-vacc-accbgd-appointment-of-director-vacc-bangladesh-accbgd1/?do=findComment&comment=181207)
-- [ATC question for coverage and communication](https://forums.vatsim.net/topic/31722-atc-question-for-coverage-and-communication/?do=findComment&comment=181206)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
