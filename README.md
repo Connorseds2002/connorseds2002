@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot stuck at "waiting for xplane connection" no matter what I do!!](https://forums.vatsim.net/topic/31763-xpilot-stuck-at-waiting-for-xplane-connection-no-matter-what-i-do/?do=findComment&comment=181222)
 - [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181220)
 - [still suspended and dont know why...](https://forums.vatsim.net/topic/31762-still-suspended-and-dont-know-why/?do=findComment&comment=181219)
 - [Canadian Xpress August 2021 Monthly Challenge: Scenic Approaches X - Orlando](https://forums.vatsim.net/topic/31769-canadian-xpress-august-2021-monthly-challenge-scenic-approaches-x-orlando/?do=findComment&comment=181218)
@@ -64,7 +65,6 @@
 - [ATC question for coverage and communication](https://forums.vatsim.net/topic/31722-atc-question-for-coverage-and-communication/?do=findComment&comment=181214)
 - [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181213)
 - [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=181212)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181211)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
