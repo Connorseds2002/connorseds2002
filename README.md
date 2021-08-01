@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Establishment of Bangladesh vACC (ACCBGD) & Appointment of Director vACC Bangladesh (ACCBGD1)](https://forums.vatsim.net/topic/31767-establishment-of-bangladesh-vacc-accbgd-appointment-of-director-vacc-bangladesh-accbgd1/?do=findComment&comment=181205)
+- [Establishment of Bangladesh vACC (ACCBGD) & Appointment of Director vACC Bangladesh (ACCBGD1)](https://forums.vatsim.net/topic/31767-establishment-of-bangladesh-vacc-accbgd-appointment-of-director-vacc-bangladesh-accbgd1/?do=findComment&comment=181204)
 - [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181203)
 - [Establishment of Bangladesh vACC (ACCBGD) & Appointment of Director vACC Bangladesh (ACCBGD1)](https://forums.vatsim.net/topic/31767-establishment-of-bangladesh-vacc-accbgd-appointment-of-director-vacc-bangladesh-accbgd1/?do=findComment&comment=181202)
 - [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181201)
@@ -63,8 +65,6 @@
 - [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181198)
 - [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181197)
 - [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181196)
-- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=181195)
-- [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181193)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
