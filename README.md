@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Canadian Xpress August 2021 Monthly Challenge: Scenic Approaches X - Orlando](https://forums.vatsim.net/topic/31769-canadian-xpress-august-2021-monthly-challenge-scenic-approaches-x-orlando/?do=findComment&comment=181218)
 - [[August 14th, 11:00z-17:00z] Ahoy Bratislava](https://forums.vatsim.net/topic/31768-august-14th-1100z-1700z-ahoy-bratislava/?do=findComment&comment=181217)
 - [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181216)
 - [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=181215)
@@ -64,7 +65,6 @@
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181211)
 - [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181210)
 - [still suspended and dont know why...](https://forums.vatsim.net/topic/31762-still-suspended-and-dont-know-why/?do=findComment&comment=181209)
-- [Visiting Controllers within the Division](https://forums.vatsim.net/topic/31738-visiting-controllers-within-the-division/?do=findComment&comment=181208)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
