@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181198)
+- [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181197)
+- [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181196)
 - [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=181195)
-- [still suspended and dont know why...](https://forums.vatsim.net/topic/31765-still-suspended-and-dont-know-why/?do=findComment&comment=181194)
 - [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181193)
 - [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181192)
 - [Latest flight not in stats](https://forums.vatsim.net/topic/31750-latest-flight-not-in-stats/?do=findComment&comment=181191)
 - [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181190)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181189)
-- [still suspended and dont know why...](https://forums.vatsim.net/topic/31765-still-suspended-and-dont-know-why/?do=findComment&comment=181188)
 - [[Suggestion] Use FAA aircraft types (H/B747/L) rather than B747/M-SDE23F.... on ASDEX](https://forums.vatsim.net/topic/31764-suggestion-use-faa-aircraft-types-hb747l-rather-than-b747m-sde23f-on-asdex/?do=findComment&comment=181186)
-- [[Suggestion] Use FAA aircraft types (H/B747/L) rather than B747/M-SDE23F.... on ASDEX](https://forums.vatsim.net/topic/31764-suggestion-use-faa-aircraft-types-hb747l-rather-than-b747m-sde23f-on-asdex/?do=findComment&comment=181185)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
