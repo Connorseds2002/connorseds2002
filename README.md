@@ -27,7 +27,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [GTAV S1 EP1](https://www.youtube.com/watch?v=FQz6MR7OTLU)
+- [GTAV EP1](https://www.youtube.com/watch?v=FQz6MR7OTLU)
 - [Driving Trains across the UK](https://www.youtube.com/watch?v=mZavlUz3YZY)
 - [[ATC] Manchester Ground VATSIM EGCC_GND](https://www.youtube.com/watch?v=2gOB_NWOp2o)
 - [There is a motivation video that i had created fro you all](https://www.youtube.com/watch?v=cKzpUc_jYaw)
