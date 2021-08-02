@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181249)
+- [Ground Layout Conversion to .ASR File](https://forums.vatsim.net/topic/31771-ground-layout-conversion-to-asr-file/?do=findComment&comment=181248)
 - [My thoughts on the 20th Anniversary of VATSIM](https://forums.vatsim.net/topic/31729-my-thoughts-on-the-20th-anniversary-of-vatsim/?do=findComment&comment=181245)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181244)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181243)
@@ -63,8 +65,6 @@
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181240)
 - [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=181239)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181238)
-- [Ground Layout Conversion to .ASR File](https://forums.vatsim.net/topic/31771-ground-layout-conversion-to-asr-file/?do=findComment&comment=181237)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181236)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
