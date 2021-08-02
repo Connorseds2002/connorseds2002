@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181225)
+- [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181224)
+- [[Suggestion] Use FAA aircraft types (H/B747/L) rather than B747/M-SDE23F.... on ASDEX](https://forums.vatsim.net/topic/31764-suggestion-use-faa-aircraft-types-hb747l-rather-than-b747m-sde23f-on-asdex/?do=findComment&comment=181223)
 - [Xpilot stuck at "waiting for xplane connection" no matter what I do!!](https://forums.vatsim.net/topic/31763-xpilot-stuck-at-waiting-for-xplane-connection-no-matter-what-i-do/?do=findComment&comment=181222)
 - [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181220)
 - [still suspended and dont know why...](https://forums.vatsim.net/topic/31762-still-suspended-and-dont-know-why/?do=findComment&comment=181219)
@@ -62,9 +65,6 @@
 - [[August 14th, 11:00z-17:00z] Ahoy Bratislava](https://forums.vatsim.net/topic/31768-august-14th-1100z-1700z-ahoy-bratislava/?do=findComment&comment=181217)
 - [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181216)
 - [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=181215)
-- [ATC question for coverage and communication](https://forums.vatsim.net/topic/31722-atc-question-for-coverage-and-communication/?do=findComment&comment=181214)
-- [SELCAL Improvement](https://forums.vatsim.net/topic/31754-selcal-improvement/?do=findComment&comment=181213)
-- [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=181212)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
