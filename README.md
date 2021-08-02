@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181238)
+- [Ground Layout Conversion to .ASR File](https://forums.vatsim.net/topic/31771-ground-layout-conversion-to-asr-file/?do=findComment&comment=181237)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181236)
+- [Ground Layout Conversion to .ASR File](https://forums.vatsim.net/topic/31771-ground-layout-conversion-to-asr-file/?do=findComment&comment=181235)
 - [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181234)
 - [VatSpy Opens but nowhere to be found](https://forums.vatsim.net/topic/31753-vatspy-opens-but-nowhere-to-be-found/?do=findComment&comment=181233)
 - [Discord Profile Mixup](https://forums.vatsim.net/topic/31770-discord-profile-mixup/?do=findComment&comment=181232)
 - [Discord Profile Mixup](https://forums.vatsim.net/topic/31770-discord-profile-mixup/?do=findComment&comment=181231)
 - [Establishment of Bangladesh vACC (ACCBGD) & Appointment of Director vACC Bangladesh (ACCBGD1)](https://forums.vatsim.net/topic/31767-establishment-of-bangladesh-vacc-accbgd-appointment-of-director-vacc-bangladesh-accbgd1/?do=findComment&comment=181230)
 - [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181229)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181228)
-- [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181227)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181226)
-- [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181225)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
