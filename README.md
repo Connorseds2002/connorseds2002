@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My thoughts on the 20th Anniversary of VATSIM](https://forums.vatsim.net/topic/31729-my-thoughts-on-the-20th-anniversary-of-vatsim/?do=findComment&comment=181245)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181244)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181243)
 - [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181242)
 - [[VACANCY] Bangladesh vACC Director Events & PR - ACCBGD3](https://forums.vatsim.net/topic/31772-vacancy-bangladesh-vacc-director-events-pr-accbgd3/?do=findComment&comment=181241)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181240)
@@ -62,9 +65,6 @@
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181238)
 - [Ground Layout Conversion to .ASR File](https://forums.vatsim.net/topic/31771-ground-layout-conversion-to-asr-file/?do=findComment&comment=181237)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181236)
-- [Ground Layout Conversion to .ASR File](https://forums.vatsim.net/topic/31771-ground-layout-conversion-to-asr-file/?do=findComment&comment=181235)
-- [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181234)
-- [VatSpy Opens but nowhere to be found](https://forums.vatsim.net/topic/31753-vatspy-opens-but-nowhere-to-be-found/?do=findComment&comment=181233)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
