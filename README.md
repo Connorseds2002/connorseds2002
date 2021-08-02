@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=181264)
 - [VATSIM Statement on Xbox Compatibility](https://forums.vatsim.net/topic/31773-vatsim-statement-on-xbox-compatibility/?do=findComment&comment=181262)
 - [Define "In good standing"](https://forums.vatsim.net/topic/31756-define-in-good-standing/?do=findComment&comment=181260)
 - [Major Airspace Math](https://forums.vatsim.net/topic/31673-major-airspace-math/?do=findComment&comment=181259)
@@ -64,7 +65,6 @@
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181254)
 - [How to leave a discord server?](https://forums.vatsim.net/topic/28604-how-to-leave-a-discord-server/?do=findComment&comment=181253)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181252)
-- [MS FS2020 and A320Neo, flying online?](https://forums.vatsim.net/topic/28704-ms-fs2020-and-a320neo-flying-online/?do=findComment&comment=181251)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
