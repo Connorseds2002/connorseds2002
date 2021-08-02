@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181229)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181228)
 - [Phraseology Standard(s)](https://forums.vatsim.net/topic/31709-phraseology-standards/?do=findComment&comment=181227)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181226)
 - [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181225)
 - [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181224)
 - [[Suggestion] Use FAA aircraft types (H/B747/L) rather than B747/M-SDE23F.... on ASDEX](https://forums.vatsim.net/topic/31764-suggestion-use-faa-aircraft-types-hb747l-rather-than-b747m-sde23f-on-asdex/?do=findComment&comment=181223)
-- [Xpilot stuck at "waiting for xplane connection" no matter what I do!!](https://forums.vatsim.net/topic/31763-xpilot-stuck-at-waiting-for-xplane-connection-no-matter-what-i-do/?do=findComment&comment=181222)
+- [Xpilot stuck at "waiting for xplane connection" no matter what I do!! --FIXED](https://forums.vatsim.net/topic/31763-xpilot-stuck-at-waiting-for-xplane-connection-no-matter-what-i-do-fixed/?do=findComment&comment=181222)
 - [Real World Controller, Instructors/Mentors/Controlling](https://forums.vatsim.net/topic/31703-real-world-controller-instructorsmentorscontrolling/?do=findComment&comment=181220)
 - [still suspended and dont know why...](https://forums.vatsim.net/topic/31762-still-suspended-and-dont-know-why/?do=findComment&comment=181219)
-- [Canadian Xpress August 2021 Monthly Challenge: Scenic Approaches X - Orlando](https://forums.vatsim.net/topic/31769-canadian-xpress-august-2021-monthly-challenge-scenic-approaches-x-orlando/?do=findComment&comment=181218)
-- [[August 14th, 11:00z-17:00z] Ahoy Bratislava](https://forums.vatsim.net/topic/31768-august-14th-1100z-1700z-ahoy-bratislava/?do=findComment&comment=181217)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
