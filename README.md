@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vBaltic selection](https://forums.vatsim.net/topic/30244-vbaltic-selection/?do=findComment&comment=181284)
+- [Exciting Reeve Airline Service That Can Get You Drolling](https://forums.vatsim.net/topic/31620-exciting-reeve-airline-service-that-can-get-you-drolling/?do=findComment&comment=181283)
+- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=181282)
 - [ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=181281)
 - [VATSIM 20th Anniversary Prize Website Now Live](https://forums.vatsim.net/topic/31776-vatsim-20th-anniversary-prize-website-now-live/?do=findComment&comment=181280)
 - [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181279)
@@ -62,9 +65,6 @@
 - [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181277)
 - [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=181276)
 - [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181275)
-- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=181274)
-- [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181273)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181272)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
