@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181279)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181278)
 - [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181277)
 - [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=181276)
@@ -64,7 +65,6 @@
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181272)
 - [Define "In good standing"](https://forums.vatsim.net/topic/31756-define-in-good-standing/?do=findComment&comment=181271)
 - [[VACANCY] Bangladesh vACC Director ATC (ACCBGD2)](https://forums.vatsim.net/topic/31775-vacancy-bangladesh-vacc-director-atc-accbgd2/?do=findComment&comment=181270)
-- [Please, unlink me from discord communities](https://forums.vatsim.net/topic/31616-please-unlink-me-from-discord-communities%C2%A0/?do=findComment&comment=181269)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
