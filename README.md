@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CID -> Real Name resolve](https://forums.vatsim.net/topic/31777-cid-real-name-resolve/?do=findComment&comment=181325)
 - [CID -> Real Name resolve](https://forums.vatsim.net/topic/31777-cid-real-name-resolve/?do=findComment&comment=181324)
 - [The ENDLESS problem](https://forums.vatsim.net/topic/31782-the-endless-problem/?do=findComment&comment=181323)
 - [Visiting Controllers within the Division](https://forums.vatsim.net/topic/31738-visiting-controllers-within-the-division/?do=findComment&comment=181322)
@@ -64,7 +65,6 @@
 - [The ENDLESS problem](https://forums.vatsim.net/topic/31782-the-endless-problem/?do=findComment&comment=181318)
 - [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181317)
 - [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181316)
-- [The ENDLESS problem](https://forums.vatsim.net/topic/31782-the-endless-problem/?do=findComment&comment=181315)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
