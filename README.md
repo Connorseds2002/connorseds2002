@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope crashes when receiving audio from AFV](https://forums.vatsim.net/topic/31784-euroscope-crashes-when-receiving-audio-from-afv/?do=findComment&comment=181335)
+- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181334)
+- [Euroscope crashes when receiving audio from AFV](https://forums.vatsim.net/topic/31784-euroscope-crashes-when-receiving-audio-from-afv/?do=findComment&comment=181333)
+- [The ENDLESS problem](https://forums.vatsim.net/topic/31782-the-endless-problem/?do=findComment&comment=181332)
+- [Euroscope crashes when receiving audio from AFV](https://forums.vatsim.net/topic/31784-euroscope-crashes-when-receiving-audio-from-afv/?do=findComment&comment=181331)
+- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181330)
+- [cpdlc](https://forums.vatsim.net/topic/28991-cpdlc/?do=findComment&comment=181329)
+- [Euroscope crashes when receiving audio from AFV](https://forums.vatsim.net/topic/31784-euroscope-crashes-when-receiving-audio-from-afv/?do=findComment&comment=181328)
+- [xPilot - Getting Invalid CID/Password](https://forums.vatsim.net/topic/27969-xpilot-getting-invalid-cidpassword/?do=findComment&comment=181327)
 - [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181326)
-- [CID -> Real Name resolve](https://forums.vatsim.net/topic/31777-cid-real-name-resolve/?do=findComment&comment=181325)
-- [CID -> Real Name resolve](https://forums.vatsim.net/topic/31777-cid-real-name-resolve/?do=findComment&comment=181324)
-- [The ENDLESS problem](https://forums.vatsim.net/topic/31782-the-endless-problem/?do=findComment&comment=181323)
-- [Visiting Controllers within the Division](https://forums.vatsim.net/topic/31738-visiting-controllers-within-the-division/?do=findComment&comment=181322)
-- [Visiting Controllers within the Division](https://forums.vatsim.net/topic/31738-visiting-controllers-within-the-division/?do=findComment&comment=181321)
-- [The ENDLESS problem](https://forums.vatsim.net/topic/31782-the-endless-problem/?do=findComment&comment=181320)
-- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181319)
-- [The ENDLESS problem](https://forums.vatsim.net/topic/31782-the-endless-problem/?do=findComment&comment=181318)
-- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181317)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
