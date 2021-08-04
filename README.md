@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [cpdlc](https://forums.vatsim.net/topic/28991-cpdlc/?do=findComment&comment=181369)
 - [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181368)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181367)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181366)
@@ -64,7 +65,6 @@
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181362)
 - [To what extent will the public review affect GCAP pre-release?](https://forums.vatsim.net/topic/31692-to-what-extent-will-the-public-review-affect-gcap-pre-release/?do=findComment&comment=181361)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181360)
-- [To what extent will the public review affect GCAP pre-release?](https://forums.vatsim.net/topic/31692-to-what-extent-will-the-public-review-affect-gcap-pre-release/?do=findComment&comment=181359)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
