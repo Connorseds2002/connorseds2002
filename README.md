@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181346)
+- [Notifications not showing](https://forums.vatsim.net/topic/31785-notifications-not-showing/?do=findComment&comment=181345)
+- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181344)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181343)
+- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181342)
+- [Euroscope crashes when receiving audio from AFV](https://forums.vatsim.net/topic/31784-euroscope-crashes-when-receiving-audio-from-afv/?do=findComment&comment=181341)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181340)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181339)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181338)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181337)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181336)
-- [Euroscope crashes when receiving audio from AFV](https://forums.vatsim.net/topic/31784-euroscope-crashes-when-receiving-audio-from-afv/?do=findComment&comment=181335)
-- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181334)
-- [Euroscope crashes when receiving audio from AFV](https://forums.vatsim.net/topic/31784-euroscope-crashes-when-receiving-audio-from-afv/?do=findComment&comment=181333)
-- [The ENDLESS problem](https://forums.vatsim.net/topic/31782-the-endless-problem/?do=findComment&comment=181332)
-- [Euroscope crashes when receiving audio from AFV](https://forums.vatsim.net/topic/31784-euroscope-crashes-when-receiving-audio-from-afv/?do=findComment&comment=181331)
-- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181330)
-- [cpdlc](https://forums.vatsim.net/topic/28991-cpdlc/?do=findComment&comment=181329)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
