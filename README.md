@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181399)
+- [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181398)
+- [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181397)
 - [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181396)
 - [Have larger VACC's such as Scandinavia been forgotten about?](https://forums.vatsim.net/topic/31708-have-larger-vaccs-such-as-scandinavia-been-forgotten-about/?do=findComment&comment=181395)
 - [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181394)
@@ -62,9 +65,6 @@
 - [Have larger VACC's such as Scandinavia been forgotten about?](https://forums.vatsim.net/topic/31708-have-larger-vaccs-such-as-scandinavia-been-forgotten-about/?do=findComment&comment=181392)
 - [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181391)
 - [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181390)
-- [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181389)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181388)
-- [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181387)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
