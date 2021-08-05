@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Web Services Director - Eurocontrol vACC (VATEUD)](https://forums.vatsim.net/topic/31511-vacancy-web-services-director-eurocontrol-vacc-vateud/?do=findComment&comment=181375)
+- [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181374)
 - [My thoughts on the 20th Anniversary of VATSIM](https://forums.vatsim.net/topic/31729-my-thoughts-on-the-20th-anniversary-of-vatsim/?do=findComment&comment=181373)
 - [Events API](https://forums.vatsim.net/topic/31307-events-api/?do=findComment&comment=181372)
 - [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181371)
@@ -63,8 +65,6 @@
 - [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181368)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181367)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181366)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181365)
-- [To what extent will the public review affect GCAP pre-release?](https://forums.vatsim.net/topic/31692-to-what-extent-will-the-public-review-affect-gcap-pre-release/?do=findComment&comment=181364)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
