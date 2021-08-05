@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181384)
+- [xPilot - Getting Invalid CID/Password](https://forums.vatsim.net/topic/27969-xpilot-getting-invalid-cidpassword/?do=findComment&comment=181383)
+- [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181382)
 - [Model Matching within P3D is a huge issue right now](https://forums.vatsim.net/topic/31778-model-matching-within-p3d-is-a-huge-issue-right-now/?do=findComment&comment=181381)
 - [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181380)
 - [Had to start a website...](https://forums.vatsim.net/topic/30653-had-to-start-a-website/?do=findComment&comment=181379)
@@ -62,9 +65,6 @@
 - [[30th May 1200-1600z] Malta fly in](https://forums.vatsim.net/topic/27198-30th-may-1200-1600z-malta-fly-in/?do=findComment&comment=181377)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181376)
 - [[VACANCY] Web Services Director - Eurocontrol vACC (VATEUD)](https://forums.vatsim.net/topic/31511-vacancy-web-services-director-eurocontrol-vacc-vateud/?do=findComment&comment=181375)
-- [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181374)
-- [My thoughts on the 20th Anniversary of VATSIM](https://forums.vatsim.net/topic/31729-my-thoughts-on-the-20th-anniversary-of-vatsim/?do=findComment&comment=181373)
-- [Events API](https://forums.vatsim.net/topic/31307-events-api/?do=findComment&comment=181372)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
