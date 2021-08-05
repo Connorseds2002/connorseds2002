@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181386)
+- [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181385)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181384)
 - [xPilot - Getting Invalid CID/Password](https://forums.vatsim.net/topic/27969-xpilot-getting-invalid-cidpassword/?do=findComment&comment=181383)
 - [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181382)
@@ -63,8 +65,6 @@
 - [Had to start a website...](https://forums.vatsim.net/topic/30653-had-to-start-a-website/?do=findComment&comment=181379)
 - [New aviation/VATSIM discord](https://forums.vatsim.net/topic/31725-new-aviationvatsim-discord/?do=findComment&comment=181378)
 - [[30th May 1200-1600z] Malta fly in](https://forums.vatsim.net/topic/27198-30th-may-1200-1600z-malta-fly-in/?do=findComment&comment=181377)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181376)
-- [[VACANCY] Web Services Director - Eurocontrol vACC (VATEUD)](https://forums.vatsim.net/topic/31511-vacancy-web-services-director-eurocontrol-vacc-vateud/?do=findComment&comment=181375)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
