@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181371)
 - [[14th Aug 2021, 1200-1500Z] The Golden Route - Taiwan and Hong Kong](https://forums.vatsim.net/topic/31786-14th-aug-2021-1200-1500z-the-golden-route-taiwan-and-hong-kong/?do=findComment&comment=181370)
 - [cpdlc](https://forums.vatsim.net/topic/28991-cpdlc/?do=findComment&comment=181369)
 - [Non VATSIM traffic / AI traffic in sim?](https://forums.vatsim.net/topic/31774-non-vatsim-traffic-ai-traffic-in-sim/?do=findComment&comment=181368)
@@ -64,7 +65,6 @@
 - [To what extent will the public review affect GCAP pre-release?](https://forums.vatsim.net/topic/31692-to-what-extent-will-the-public-review-affect-gcap-pre-release/?do=findComment&comment=181364)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181363)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181362)
-- [To what extent will the public review affect GCAP pre-release?](https://forums.vatsim.net/topic/31692-to-what-extent-will-the-public-review-affect-gcap-pre-release/?do=findComment&comment=181361)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
