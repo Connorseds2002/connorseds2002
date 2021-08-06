@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to connect](https://forums.vatsim.net/topic/31789-unable-to-connect/?do=findComment&comment=181418)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181417)
 - [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181416)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181415)
@@ -64,7 +65,6 @@
 - [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181411)
 - [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181410)
 - [Euroscope crashes when receiving audio from AFV](https://forums.vatsim.net/topic/31784-euroscope-crashes-when-receiving-audio-from-afv/?do=findComment&comment=181409)
-- [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181408)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
