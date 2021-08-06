@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Notifications not showing](https://forums.vatsim.net/topic/31785-notifications-not-showing/?do=findComment&comment=181412)
+- [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181411)
 - [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181410)
 - [Euroscope crashes when receiving audio from AFV](https://forums.vatsim.net/topic/31784-euroscope-crashes-when-receiving-audio-from-afv/?do=findComment&comment=181409)
 - [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181408)
@@ -63,8 +65,6 @@
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181405)
 - [cpdlc](https://forums.vatsim.net/topic/28991-cpdlc/?do=findComment&comment=181404)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181403)
-- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181402)
-- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181401)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
