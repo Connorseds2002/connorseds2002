@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Notifications not showing](https://forums.vatsim.net/topic/31785-notifications-not-showing/?do=findComment&comment=181407)
+- [Walker Air Transport](https://forums.vatsim.net/topic/31619-walker-air-transport/?do=findComment&comment=181406)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181405)
 - [cpdlc](https://forums.vatsim.net/topic/28991-cpdlc/?do=findComment&comment=181404)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181403)
@@ -63,8 +65,6 @@
 - [Events API](https://forums.vatsim.net/topic/31307-events-api/?do=findComment&comment=181400)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181399)
 - [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181398)
-- [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181397)
-- [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181396)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
