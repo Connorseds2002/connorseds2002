@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181415)
+- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181414)
+- [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181413)
 - [Notifications not showing](https://forums.vatsim.net/topic/31785-notifications-not-showing/?do=findComment&comment=181412)
 - [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181411)
 - [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181410)
@@ -62,9 +65,6 @@
 - [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181408)
 - [Notifications not showing](https://forums.vatsim.net/topic/31785-notifications-not-showing/?do=findComment&comment=181407)
 - [Walker Air Transport](https://forums.vatsim.net/topic/31619-walker-air-transport/?do=findComment&comment=181406)
-- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181405)
-- [cpdlc](https://forums.vatsim.net/topic/28991-cpdlc/?do=findComment&comment=181404)
-- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181403)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
