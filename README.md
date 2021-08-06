@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181405)
+- [cpdlc](https://forums.vatsim.net/topic/28991-cpdlc/?do=findComment&comment=181404)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181403)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181402)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181401)
@@ -63,8 +65,6 @@
 - [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181398)
 - [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181397)
 - [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181396)
-- [Have larger VACC's such as Scandinavia been forgotten about?](https://forums.vatsim.net/topic/31708-have-larger-vaccs-such-as-scandinavia-been-forgotten-about/?do=findComment&comment=181395)
-- [Can't connect - Invalid CID\Password](https://forums.vatsim.net/topic/31783-cant-connect-invalid-cidpassword/?do=findComment&comment=181394)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
