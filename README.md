@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can VPilot cause PC to freeze](https://forums.vatsim.net/topic/31790-can-vpilot-cause-pc-to-freeze/?do=findComment&comment=181423)
 - [Flightplan to Iceland from Europe](https://forums.vatsim.net/topic/31792-flightplan-to-iceland-from-europe/?do=findComment&comment=181422)
 - [Flightplan to Iceland from Europe](https://forums.vatsim.net/topic/31792-flightplan-to-iceland-from-europe/?do=findComment&comment=181421)
 - [Tags](https://forums.vatsim.net/topic/31791-tags/?do=findComment&comment=181420)
@@ -64,7 +65,6 @@
 - [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181416)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181415)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181414)
-- [VATSIM Map showing different controllers to VATSpy - probably noob question ;)](https://forums.vatsim.net/topic/31788-vatsim-map-showing-different-controllers-to-vatspy-probably-noob-question/?do=findComment&comment=181413)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
