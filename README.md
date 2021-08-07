@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VEram Crashes When Trying  to Resize Windows](https://forums.vatsim.net/topic/31795-veram-crashes-when-trying-to-resize-windows/?do=findComment&comment=181439)
 - [Airspace under S1 Rating](https://forums.vatsim.net/topic/31704-airspace-under-s1-rating/?do=findComment&comment=181438)
 - ["Procedural Tower"](https://forums.vatsim.net/topic/31737-procedural-tower/?do=findComment&comment=181437)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181436)
@@ -64,7 +65,6 @@
 - [Can VPilot cause PC to freeze](https://forums.vatsim.net/topic/31790-can-vpilot-cause-pc-to-freeze/?do=findComment&comment=181432)
 - [Vpilot causes major stutters and freezes (MSFS)](https://forums.vatsim.net/topic/31534-vpilot-causes-major-stutters-and-freezes-msfs/?do=findComment&comment=181431)
 - [Flight plan changes at approach using a320 Flybywire(MSFS)](https://forums.vatsim.net/topic/31793-flight-plan-changes-at-approach-using-a320-flybywiremsfs/?do=findComment&comment=181430)
-- [Unable to connect](https://forums.vatsim.net/topic/31789-unable-to-connect/?do=findComment&comment=181429)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
