@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181464)
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181463)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181462)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181461)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181460)
@@ -63,8 +65,6 @@
 - [cpdlc](https://forums.vatsim.net/topic/28991-cpdlc/?do=findComment&comment=181457)
 - [VEram Crashes When Trying  to Resize Windows](https://forums.vatsim.net/topic/31795-veram-crashes-when-trying-to-resize-windows/?do=findComment&comment=181456)
 - [Euroscope does not open](https://forums.vatsim.net/topic/31796-euroscope-does-not-open/?do=findComment&comment=181455)
-- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181454)
-- [ATC hours didn't got updated](https://forums.vatsim.net/topic/31742-atc-hours-didnt-got-updated/?do=findComment&comment=181453)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
