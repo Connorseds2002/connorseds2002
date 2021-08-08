@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181454)
 - [ATC hours didn't got updated](https://forums.vatsim.net/topic/31742-atc-hours-didnt-got-updated/?do=findComment&comment=181453)
 - [VEram Crashes When Trying  to Resize Windows](https://forums.vatsim.net/topic/31795-veram-crashes-when-trying-to-resize-windows/?do=findComment&comment=181452)
 - [VEram Crashes When Trying  to Resize Windows](https://forums.vatsim.net/topic/31795-veram-crashes-when-trying-to-resize-windows/?do=findComment&comment=181451)
@@ -64,7 +65,6 @@
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181447)
 - [VEram Crashes When Trying  to Resize Windows](https://forums.vatsim.net/topic/31795-veram-crashes-when-trying-to-resize-windows/?do=findComment&comment=181446)
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181445)
-- [Flightplan to Iceland from Europe](https://forums.vatsim.net/topic/31792-flightplan-to-iceland-from-europe/?do=findComment&comment=181444)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
