@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181485)
 - [No audio being received](https://forums.vatsim.net/topic/31800-no-audio-being-received/?do=findComment&comment=181484)
 - [No audio being received](https://forums.vatsim.net/topic/31800-no-audio-being-received/?do=findComment&comment=181483)
 - [No audio being received](https://forums.vatsim.net/topic/31800-no-audio-being-received/?do=findComment&comment=181482)
@@ -64,7 +65,6 @@
 - [Regarding the reflection of the vPilot software on the P3DV5 platform that caused the game's video memory to burst and cause the game to crash](https://forums.vatsim.net/topic/31801-regarding-the-reflection-of-the-vpilot-software-on-the-p3dv5-platform-that-caused-the-games-video-memory-to-burst-and-cause-the-game-to-crash/?do=findComment&comment=181478)
 - [Regarding the reflection of the vPilot software on the P3DV5 platform that caused the game's video memory to burst and cause the game to crash](https://forums.vatsim.net/topic/31801-regarding-the-reflection-of-the-vpilot-software-on-the-p3dv5-platform-that-caused-the-games-video-memory-to-burst-and-cause-the-game-to-crash/?do=findComment&comment=181477)
 - [No audio being received](https://forums.vatsim.net/topic/31800-no-audio-being-received/?do=findComment&comment=181476)
-- [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181475)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
