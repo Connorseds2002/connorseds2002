@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No audio being received](https://forums.vatsim.net/topic/31800-no-audio-being-received/?do=findComment&comment=181476)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181475)
 - [[August 14th, 15-18z] VATSIM First Wings](https://forums.vatsim.net/topic/31799-august-14th-15-18z-vatsim-first-wings/?do=findComment&comment=181474)
 - [Looking for help getting set up](https://forums.vatsim.net/topic/31798-looking-for-help-getting-set-up/?do=findComment&comment=181473)
@@ -64,7 +65,6 @@
 - [Looking for help getting set up](https://forums.vatsim.net/topic/31798-looking-for-help-getting-set-up/?do=findComment&comment=181469)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181468)
 - [Looking for help getting set up](https://forums.vatsim.net/topic/31798-looking-for-help-getting-set-up/?do=findComment&comment=181467)
-- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181466)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
