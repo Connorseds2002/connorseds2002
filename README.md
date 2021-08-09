@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181468)
 - [Looking for help getting set up](https://forums.vatsim.net/topic/31798-looking-for-help-getting-set-up/?do=findComment&comment=181467)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181466)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181465)
@@ -64,7 +65,6 @@
 - [Oceanic flying](https://forums.vatsim.net/topic/31760-oceanic-flying/?do=findComment&comment=181461)
 - [Should I Try Vatsim Or Leave?](https://forums.vatsim.net/topic/31739-should-i-try-vatsim-or-leave/?do=findComment&comment=181460)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181459)
-- [cpdlc](https://forums.vatsim.net/topic/28991-cpdlc/?do=findComment&comment=181458)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
