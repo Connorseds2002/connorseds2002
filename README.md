@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature Request: COM1 and COM2 separate audio devices](https://forums.vatsim.net/topic/30766-feature-request-com1-and-com2-separate-audio-devices/?do=findComment&comment=181500)
+- [Controlling voice audio level](https://forums.vatsim.net/topic/30708-controlling-voice-audio-level/?do=findComment&comment=181499)
+- [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=181498)
+- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=181497)
+- [ATC question](https://forums.vatsim.net/topic/31804-atc-question/?do=findComment&comment=181496)
+- [ATC question](https://forums.vatsim.net/topic/31804-atc-question/?do=findComment&comment=181495)
+- [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181494)
 - [VATSIM new Pilot Questions](https://forums.vatsim.net/topic/31554-vatsim-new-pilot-questions/?do=findComment&comment=181493)
 - [ATC question](https://forums.vatsim.net/topic/31804-atc-question/?do=findComment&comment=181492)
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/31803-network-error-invalid-cidpassword/?do=findComment&comment=181491)
-- [How do I delete favourites in Vat-spy Toolbar?](https://forums.vatsim.net/topic/30633-how-do-i-delete-favourites-in-vat-spy-toolbar/?do=findComment&comment=181490)
-- [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=181489)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181488)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181487)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181486)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181485)
-- [No audio being received](https://forums.vatsim.net/topic/31800-no-audio-being-received/?do=findComment&comment=181484)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
