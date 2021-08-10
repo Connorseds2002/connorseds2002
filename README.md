@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How do I delete favourites in Vat-spy Toolbar?](https://forums.vatsim.net/topic/30633-how-do-i-delete-favourites-in-vat-spy-toolbar/?do=findComment&comment=181490)
+- [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=181489)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181488)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181487)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181486)
@@ -63,8 +65,6 @@
 - [No audio being received](https://forums.vatsim.net/topic/31800-no-audio-being-received/?do=findComment&comment=181483)
 - [No audio being received](https://forums.vatsim.net/topic/31800-no-audio-being-received/?do=findComment&comment=181482)
 - [Regarding the reflection of the vPilot software on the P3DV5 platform that caused the game's video memory to burst and cause the game to crash](https://forums.vatsim.net/topic/31801-regarding-the-reflection-of-the-vpilot-software-on-the-p3dv5-platform-that-caused-the-games-video-memory-to-burst-and-cause-the-game-to-crash/?do=findComment&comment=181481)
-- [Regarding the reflection of the vPilot software on the P3DV5 platform that caused the game's video memory to burst and cause the game to crash](https://forums.vatsim.net/topic/31801-regarding-the-reflection-of-the-vpilot-software-on-the-p3dv5-platform-that-caused-the-games-video-memory-to-burst-and-cause-the-game-to-crash/?do=findComment&comment=181480)
-- [XPilot and Xplane won't communicate](https://forums.vatsim.net/topic/31802-xpilot-and-xplane-wont-communicate/?do=findComment&comment=181479)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
