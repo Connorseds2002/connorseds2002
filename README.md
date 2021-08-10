@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181506)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=181505)
 - [ATC question](https://forums.vatsim.net/topic/31804-atc-question/?do=findComment&comment=181504)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=181503)
@@ -64,7 +65,6 @@
 - [Controlling voice audio level](https://forums.vatsim.net/topic/30708-controlling-voice-audio-level/?do=findComment&comment=181499)
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=181498)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=181497)
-- [ATC question](https://forums.vatsim.net/topic/31804-atc-question/?do=findComment&comment=181496)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
