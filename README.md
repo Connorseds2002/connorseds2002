@@ -55,13 +55,13 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Major Changes in Istanbul TMA](https://forums.vatsim.net/topic/31810-major-changes-in-istanbul-tma/?do=findComment&comment=181542)
+- [Major Changes in Istanbul TMA](https://forums.vatsim.net/topic/31809-major-changes-in-istanbul-tma/?do=findComment&comment=181541)
 - [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181540)
 - [[New SSO] VATSIM Connect Update](https://forums.vatsim.net/topic/26902-new-sso-vatsim-connect-update/?do=findComment&comment=181539)
-- [Feature Request: COM1 and COM2 separate audio devices](https://forums.vatsim.net/topic/30766-feature-request-com1-and-com2-separate-audio-devices/?do=findComment&comment=181538)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181537)
 - [Ongoing problems with session logging in the API?](https://forums.vatsim.net/topic/31807-ongoing-problems-with-session-logging-in-the-api/?do=findComment&comment=181536)
 - [Flights not being recorded](https://forums.vatsim.net/topic/31806-flights-not-being-recorded/?do=findComment&comment=181535)
-- [Flights not being recorded](https://forums.vatsim.net/topic/31806-flights-not-being-recorded/?do=findComment&comment=181534)
 - [Flights not being recorded](https://forums.vatsim.net/topic/31806-flights-not-being-recorded/?do=findComment&comment=181533)
 - [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=181532)
 - [Flight plan changes at approach using a320 Flybywire(MSFS)](https://forums.vatsim.net/topic/31793-flight-plan-changes-at-approach-using-a320-flybywiremsfs/?do=findComment&comment=181531)
