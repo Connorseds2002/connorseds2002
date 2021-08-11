@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flight plan changes at approach using a320 Flybywire(MSFS)](https://forums.vatsim.net/topic/31793-flight-plan-changes-at-approach-using-a320-flybywiremsfs/?do=findComment&comment=181518)
+- [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=181517)
 - [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181516)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181515)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181514)
@@ -63,8 +65,6 @@
 - [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181511)
 - [Flights not being recorded](https://forums.vatsim.net/topic/31806-flights-not-being-recorded/?do=findComment&comment=181510)
 - [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181509)
-- [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181508)
-- [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181507)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
