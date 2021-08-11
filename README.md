@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[New SSO] VATSIM Connect Update](https://forums.vatsim.net/topic/26902-new-sso-vatsim-connect-update/?do=findComment&comment=181548)
 - [[New SSO] VATSIM Connect Update](https://forums.vatsim.net/topic/26902-new-sso-vatsim-connect-update/?do=findComment&comment=181547)
 - [Euroscope on macOS (Macbook)](https://forums.vatsim.net/topic/20012-euroscope-on-macos-macbook/?do=findComment&comment=181546)
 - [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181545)
@@ -64,7 +65,6 @@
 - [Major Changes in Istanbul TMA](https://forums.vatsim.net/topic/31809-major-changes-in-istanbul-tma/?do=findComment&comment=181541)
 - [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181540)
 - [[New SSO] VATSIM Connect Update](https://forums.vatsim.net/topic/26902-new-sso-vatsim-connect-update/?do=findComment&comment=181539)
-- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181537)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
