@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Looking for help getting set up](https://forums.vatsim.net/topic/31798-looking-for-help-getting-set-up/?do=findComment&comment=181524)
+- [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=181523)
 - [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181522)
 - [Flights not being recorded](https://forums.vatsim.net/topic/31806-flights-not-being-recorded/?do=findComment&comment=181521)
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/31803-network-error-invalid-cidpassword/?do=findComment&comment=181520)
@@ -63,8 +65,6 @@
 - [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=181517)
 - [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181516)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181515)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181514)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181513)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
