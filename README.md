@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flight plan changes at approach using a320 Flybywire(MSFS)](https://forums.vatsim.net/topic/31793-flight-plan-changes-at-approach-using-a320-flybywiremsfs/?do=findComment&comment=181531)
+- [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181530)
+- [ATC question](https://forums.vatsim.net/topic/31804-atc-question/?do=findComment&comment=181529)
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=181528)
 - [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181527)
 - [Ongoing problems with session logging in the API?](https://forums.vatsim.net/topic/31807-ongoing-problems-with-session-logging-in-the-api/?do=findComment&comment=181526)
@@ -62,9 +65,6 @@
 - [Looking for help getting set up](https://forums.vatsim.net/topic/31798-looking-for-help-getting-set-up/?do=findComment&comment=181524)
 - [qualification of a Major Airport is mandatory for S3 ????](https://forums.vatsim.net/topic/31563-qualification-of-a-major-airport-is-mandatory-for-s3/?do=findComment&comment=181523)
 - [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181522)
-- [Flights not being recorded](https://forums.vatsim.net/topic/31806-flights-not-being-recorded/?do=findComment&comment=181521)
-- [Network error: Invalid CID/password](https://forums.vatsim.net/topic/31803-network-error-invalid-cidpassword/?do=findComment&comment=181520)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181519)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
