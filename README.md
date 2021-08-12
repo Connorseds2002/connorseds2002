@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181553)
 - [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181552)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181551)
 - [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=181550)
@@ -64,7 +65,6 @@
 - [Euroscope on macOS (Macbook)](https://forums.vatsim.net/topic/20012-euroscope-on-macos-macbook/?do=findComment&comment=181546)
 - [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181545)
 - [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181544)
-- [[New SSO] VATSIM Connect Update](https://forums.vatsim.net/topic/26902-new-sso-vatsim-connect-update/?do=findComment&comment=181543)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
