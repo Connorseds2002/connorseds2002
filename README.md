@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Establishment of Bangladesh vACC (ACCBGD) & Appointment of Director vACC Bangladesh (ACCBGD1)](https://forums.vatsim.net/topic/31767-establishment-of-bangladesh-vacc-accbgd-appointment-of-director-vacc-bangladesh-accbgd1/?do=findComment&comment=181557)
+- [Capital March - Mumbai-New Delhi & New Delhi-Mumbai on August 15, 2021](https://forums.vatsim.net/topic/31721-capital-march-mumbai-new-delhi-new-delhi-mumbai-on-august-15-2021/?do=findComment&comment=181556)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=181555)
+- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=181554)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181553)
 - [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181552)
 - [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181551)
 - [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=181550)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181549)
 - [[New SSO] VATSIM Connect Update](https://forums.vatsim.net/topic/26902-new-sso-vatsim-connect-update/?do=findComment&comment=181548)
-- [[New SSO] VATSIM Connect Update](https://forums.vatsim.net/topic/26902-new-sso-vatsim-connect-update/?do=findComment&comment=181547)
-- [Euroscope on macOS (Macbook)](https://forums.vatsim.net/topic/20012-euroscope-on-macos-macbook/?do=findComment&comment=181546)
-- [Australia ATC Rules](https://forums.vatsim.net/topic/31805-australia-atc-rules/?do=findComment&comment=181545)
-- [Dev Environment - missing "client_id"](https://forums.vatsim.net/topic/31766-dev-environment-missing-client_id/?do=findComment&comment=181544)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
