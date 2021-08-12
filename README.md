@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181567)
+- [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181566)
+- [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181565)
 - [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181564)
 - [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181563)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181562)
@@ -62,9 +65,6 @@
 - [stats.vatsim.net - reporting incorrectly](https://forums.vatsim.net/topic/31812-statsvatsimnet-reporting-incorrectly/?do=findComment&comment=181560)
 - [stats.vatsim.net - reporting incorrectly](https://forums.vatsim.net/topic/31812-statsvatsimnet-reporting-incorrectly/?do=findComment&comment=181559)
 - [[EVENT]: Arabian Nights - Mumbai (VABB) to Riyadh (OERK) on September 10, 2021](https://forums.vatsim.net/topic/31811-event-arabian-nights-mumbai-vabb-to-riyadh-oerk-on-september-10-2021/?do=findComment&comment=181558)
-- [Establishment of Bangladesh vACC (ACCBGD) & Appointment of Director vACC Bangladesh (ACCBGD1)](https://forums.vatsim.net/topic/31767-establishment-of-bangladesh-vacc-accbgd-appointment-of-director-vacc-bangladesh-accbgd1/?do=findComment&comment=181557)
-- [Capital March - Mumbai-New Delhi & New Delhi-Mumbai on August 15, 2021](https://forums.vatsim.net/topic/31721-capital-march-mumbai-new-delhi-new-delhi-mumbai-on-august-15-2021/?do=findComment&comment=181556)
-- [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=181555)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
