@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181571)
+- [How to leave a discord server?](https://forums.vatsim.net/topic/28604-how-to-leave-a-discord-server/?do=findComment&comment=181570)
+- [Mcnallys flying club](https://forums.vatsim.net/topic/31814-mcnallys-flying-club/?do=findComment&comment=181569)
+- [Mcnallys flying club](https://forums.vatsim.net/topic/31814-mcnallys-flying-club/?do=findComment&comment=181568)
 - [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181567)
 - [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181566)
 - [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181565)
 - [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181564)
 - [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181563)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181562)
-- [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181561)
-- [stats.vatsim.net - reporting incorrectly](https://forums.vatsim.net/topic/31812-statsvatsimnet-reporting-incorrectly/?do=findComment&comment=181560)
-- [stats.vatsim.net - reporting incorrectly](https://forums.vatsim.net/topic/31812-statsvatsimnet-reporting-incorrectly/?do=findComment&comment=181559)
-- [[EVENT]: Arabian Nights - Mumbai (VABB) to Riyadh (OERK) on September 10, 2021](https://forums.vatsim.net/topic/31811-event-arabian-nights-mumbai-vabb-to-riyadh-oerk-on-september-10-2021/?do=findComment&comment=181558)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
