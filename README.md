@@ -55,8 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [stats.vatsim.net not working correctly](https://forums.vatsim.net/topic/31812-statsvatsimnet-not-working-correctly/?do=findComment&comment=181560)
-- [stats.vatsim.net not working correctly](https://forums.vatsim.net/topic/31812-statsvatsimnet-not-working-correctly/?do=findComment&comment=181559)
+- [stats.vatsim.net - reporting incorrectly](https://forums.vatsim.net/topic/31812-statsvatsimnet-reporting-incorrectly/?do=findComment&comment=181560)
+- [stats.vatsim.net - reporting incorrectly](https://forums.vatsim.net/topic/31812-statsvatsimnet-reporting-incorrectly/?do=findComment&comment=181559)
 - [[EVENT]: Arabian Nights - Mumbai (VABB) to Riyadh (OERK) on September 10, 2021](https://forums.vatsim.net/topic/31811-event-arabian-nights-mumbai-vabb-to-riyadh-oerk-on-september-10-2021/?do=findComment&comment=181558)
 - [Establishment of Bangladesh vACC (ACCBGD) & Appointment of Director vACC Bangladesh (ACCBGD1)](https://forums.vatsim.net/topic/31767-establishment-of-bangladesh-vacc-accbgd-appointment-of-director-vacc-bangladesh-accbgd1/?do=findComment&comment=181557)
 - [Capital March - Mumbai-New Delhi & New Delhi-Mumbai on August 15, 2021](https://forums.vatsim.net/topic/31721-capital-march-mumbai-new-delhi-new-delhi-mumbai-on-august-15-2021/?do=findComment&comment=181556)
