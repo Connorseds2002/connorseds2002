@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181583)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181582)
+- [i was taking the initial member exam and it timed out Can't retake exam](https://forums.vatsim.net/topic/29023-i-was-taking-the-initial-member-exam-and-it-timed-out-cant-retake-exam/?do=findComment&comment=181581)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181580)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181579)
 - [Automatic Disconnects](https://forums.vatsim.net/topic/31816-automatic-disconnects/?do=findComment&comment=181578)
@@ -62,9 +65,6 @@
 - [i was taking the initial member exam and it timed out Can't retake exam](https://forums.vatsim.net/topic/29023-i-was-taking-the-initial-member-exam-and-it-timed-out-cant-retake-exam/?do=findComment&comment=181576)
 - [Get clearance with center](https://forums.vatsim.net/topic/31815-get-clearance-with-center/?do=findComment&comment=181575)
 - [i was taking the initial member exam and it timed out Can't retake exam](https://forums.vatsim.net/topic/29023-i-was-taking-the-initial-member-exam-and-it-timed-out-cant-retake-exam/?do=findComment&comment=181574)
-- [i was taking the initial member exam and it timed out Can't retake exam](https://forums.vatsim.net/topic/29023-i-was-taking-the-initial-member-exam-and-it-timed-out-cant-retake-exam/?do=findComment&comment=181573)
-- [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181572)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181571)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
