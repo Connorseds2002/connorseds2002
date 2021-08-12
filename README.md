@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181587)
+- [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=181586)
+- [Unable to see TCAS traffic in FF A320](https://forums.vatsim.net/topic/31817-unable-to-see-tcas-traffic-in-ff-a320/?do=findComment&comment=181585)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181584)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181583)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181582)
 - [i was taking the initial member exam and it timed out Can't retake exam](https://forums.vatsim.net/topic/29023-i-was-taking-the-initial-member-exam-and-it-timed-out-cant-retake-exam/?do=findComment&comment=181581)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181580)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181579)
 - [Automatic Disconnects](https://forums.vatsim.net/topic/31816-automatic-disconnects/?do=findComment&comment=181578)
-- [How to leave a discord server?](https://forums.vatsim.net/topic/28604-how-to-leave-a-discord-server/?do=findComment&comment=181577)
-- [i was taking the initial member exam and it timed out Can't retake exam](https://forums.vatsim.net/topic/29023-i-was-taking-the-initial-member-exam-and-it-timed-out-cant-retake-exam/?do=findComment&comment=181576)
-- [Get clearance with center](https://forums.vatsim.net/topic/31815-get-clearance-with-center/?do=findComment&comment=181575)
-- [i was taking the initial member exam and it timed out Can't retake exam](https://forums.vatsim.net/topic/29023-i-was-taking-the-initial-member-exam-and-it-timed-out-cant-retake-exam/?do=findComment&comment=181574)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
