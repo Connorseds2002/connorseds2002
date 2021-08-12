@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181561)
 - [stats.vatsim.net - reporting incorrectly](https://forums.vatsim.net/topic/31812-statsvatsimnet-reporting-incorrectly/?do=findComment&comment=181560)
 - [stats.vatsim.net - reporting incorrectly](https://forums.vatsim.net/topic/31812-statsvatsimnet-reporting-incorrectly/?do=findComment&comment=181559)
 - [[EVENT]: Arabian Nights - Mumbai (VABB) to Riyadh (OERK) on September 10, 2021](https://forums.vatsim.net/topic/31811-event-arabian-nights-mumbai-vabb-to-riyadh-oerk-on-september-10-2021/?do=findComment&comment=181558)
@@ -64,7 +65,6 @@
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=181554)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181553)
 - [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181552)
-- [Radio reception of other pilots / blocking frequency](https://forums.vatsim.net/topic/31745-radio-reception-of-other-pilots-blocking-frequency/?do=findComment&comment=181551)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
