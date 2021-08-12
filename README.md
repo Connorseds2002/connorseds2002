@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181562)
 - [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181561)
 - [stats.vatsim.net - reporting incorrectly](https://forums.vatsim.net/topic/31812-statsvatsimnet-reporting-incorrectly/?do=findComment&comment=181560)
 - [stats.vatsim.net - reporting incorrectly](https://forums.vatsim.net/topic/31812-statsvatsimnet-reporting-incorrectly/?do=findComment&comment=181559)
@@ -64,7 +65,6 @@
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=181555)
 - [vPilot 2.7.0 Released as Stable](https://forums.vatsim.net/topic/30489-vpilot-270-released-as-stable/?do=findComment&comment=181554)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181553)
-- [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181552)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
