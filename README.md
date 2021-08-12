@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181590)
+- [Have larger VACC's such as Scandinavia been forgotten about?](https://forums.vatsim.net/topic/31708-have-larger-vaccs-such-as-scandinavia-been-forgotten-about/?do=findComment&comment=181589)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=181588)
 - [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181587)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=181586)
@@ -63,8 +65,6 @@
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181583)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181582)
 - [i was taking the initial member exam and it timed out Can't retake exam](https://forums.vatsim.net/topic/29023-i-was-taking-the-initial-member-exam-and-it-timed-out-cant-retake-exam/?do=findComment&comment=181581)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181580)
-- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=181579)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
