@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181599)
+- [Have larger VACC's such as Scandinavia been forgotten about?](https://forums.vatsim.net/topic/31708-have-larger-vaccs-such-as-scandinavia-been-forgotten-about/?do=findComment&comment=181598)
 - [Approach Airspace is Stressful](https://forums.vatsim.net/topic/31819-approach-airspace-is-stressful/?do=findComment&comment=181597)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181596)
 - [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181595)
@@ -63,8 +65,6 @@
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181592)
 - [VEram Crashes When Trying  to Resize Windows](https://forums.vatsim.net/topic/31795-veram-crashes-when-trying-to-resize-windows/?do=findComment&comment=181591)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181590)
-- [Have larger VACC's such as Scandinavia been forgotten about?](https://forums.vatsim.net/topic/31708-have-larger-vaccs-such-as-scandinavia-been-forgotten-about/?do=findComment&comment=181589)
-- [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=181588)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
