@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181656)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181655)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181654)
+- [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181653)
 - [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181652)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181651)
 - [P3DV5 and FLAI](https://forums.vatsim.net/topic/27402-p3dv5-and-flai/?do=findComment&comment=181650)
 - [ATIS text to speech not working](https://forums.vatsim.net/topic/31710-atis-text-to-speech-not-working/?do=findComment&comment=181649)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181648)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181647)
-- [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181646)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181645)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181644)
-- [Approach Airspace is Stressful](https://forums.vatsim.net/topic/31819-approach-airspace-is-stressful/?do=findComment&comment=181643)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
