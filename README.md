@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181638)
+- [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181637)
+- [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181636)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181635)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181634)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181633)
+- [Notifications not showing](https://forums.vatsim.net/topic/31785-notifications-not-showing/?do=findComment&comment=181632)
+- [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181631)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181630)
 - [Approach Airspace is Stressful](https://forums.vatsim.net/topic/31819-approach-airspace-is-stressful/?do=findComment&comment=181629)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181628)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181627)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181626)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181625)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181624)
-- [Approach Airspace is Stressful](https://forums.vatsim.net/topic/31819-approach-airspace-is-stressful/?do=findComment&comment=181623)
-- [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=181622)
-- [Approach Airspace is Stressful](https://forums.vatsim.net/topic/31819-approach-airspace-is-stressful/?do=findComment&comment=181621)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
