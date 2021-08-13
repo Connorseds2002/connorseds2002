@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATIS text to speech not working](https://forums.vatsim.net/topic/31710-atis-text-to-speech-not-working/?do=findComment&comment=181649)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181648)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181647)
+- [vPilot Frequencie problem](https://forums.vatsim.net/topic/31808-vpilot-frequencie-problem/?do=findComment&comment=181646)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181645)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181644)
 - [Approach Airspace is Stressful](https://forums.vatsim.net/topic/31819-approach-airspace-is-stressful/?do=findComment&comment=181643)
 - [Are you looking to be VA Staff](https://forums.vatsim.net/topic/31824-are-you-looking-to-be-va-staff/?do=findComment&comment=181642)
 - [Path for VATSIM](https://forums.vatsim.net/topic/31823-path-for-vatsim/?do=findComment&comment=181641)
 - [About the virtual airline staff positions?](https://forums.vatsim.net/topic/29993-about-the-virtual-airline-staff-positions/?do=findComment&comment=181640)
-- [Possible to autodrop Track when an aircraft lands?](https://forums.vatsim.net/topic/31822-possible-to-autodrop-track-when-an-aircraft-lands/?do=findComment&comment=181639)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181638)
-- [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181637)
-- [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=181636)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181635)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
