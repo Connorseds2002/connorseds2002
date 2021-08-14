@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181669)
 - [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181668)
 - [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181667)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=181666)
@@ -64,7 +65,6 @@
 - [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181660)
 - [ATIS text to speech not working](https://forums.vatsim.net/topic/31710-atis-text-to-speech-not-working/?do=findComment&comment=181659)
 - [Approach Airspace is Stressful](https://forums.vatsim.net/topic/31819-approach-airspace-is-stressful/?do=findComment&comment=181658)
-- [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181657)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
