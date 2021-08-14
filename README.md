@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=181676)
+- [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181675)
 - [Notifications not showing](https://forums.vatsim.net/topic/31785-notifications-not-showing/?do=findComment&comment=181674)
 - [Disconnected](https://forums.vatsim.net/topic/31825-disconnected/?do=findComment&comment=181673)
 - [Disconnected](https://forums.vatsim.net/topic/31825-disconnected/?do=findComment&comment=181672)
@@ -63,8 +65,6 @@
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=181669)
 - [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181668)
 - [vATIS connect to localhost (or other server/proxy)](https://forums.vatsim.net/topic/31821-vatis-connect-to-localhost-or-other-serverproxy/?do=findComment&comment=181667)
-- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=181666)
-- [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=181665)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
