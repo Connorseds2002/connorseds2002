@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=181690)
+- [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181689)
 - [Approach Airspace is Stressful](https://forums.vatsim.net/topic/31819-approach-airspace-is-stressful/?do=findComment&comment=181688)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=181687)
 - [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181686)
@@ -63,8 +65,6 @@
 - [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181683)
 - [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181682)
 - [How does one network x-Pilot?](https://forums.vatsim.net/topic/31479-how-does-one-network-x-pilot/?do=findComment&comment=181681)
-- [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181680)
-- [Disconnected](https://forums.vatsim.net/topic/31825-disconnected/?do=findComment&comment=181679)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
