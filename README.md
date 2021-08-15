@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181695)
+- [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181694)
 - [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181693)
 - [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181692)
 - [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181691)
@@ -63,8 +65,6 @@
 - [Approach Airspace is Stressful](https://forums.vatsim.net/topic/31819-approach-airspace-is-stressful/?do=findComment&comment=181688)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=181687)
 - [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181686)
-- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=181685)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=181684)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
