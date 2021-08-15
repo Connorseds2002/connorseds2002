@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181696)
 - [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181695)
 - [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181694)
 - [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181693)
@@ -64,7 +65,6 @@
 - [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181689)
 - [Approach Airspace is Stressful](https://forums.vatsim.net/topic/31819-approach-airspace-is-stressful/?do=findComment&comment=181688)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=181687)
-- [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181686)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
