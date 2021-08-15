@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181701)
+- [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181700)
 - [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181699)
 - [I had an embarassing first VATSIM flight, still a fantastic experience](https://forums.vatsim.net/topic/31751-i-had-an-embarassing-first-vatsim-flight-still-a-fantastic-experience/?do=findComment&comment=181698)
 - [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181697)
@@ -63,8 +65,6 @@
 - [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181694)
 - [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181693)
 - [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181692)
-- [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181691)
-- [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=181690)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
