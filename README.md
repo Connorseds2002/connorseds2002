@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [new to vatsim](https://forums.vatsim.net/topic/31828-new-to-vatsim/?do=findComment&comment=181710)
+- [new to vatsim](https://forums.vatsim.net/topic/31828-new-to-vatsim/?do=findComment&comment=181709)
 - [Discordprofile](https://forums.vatsim.net/topic/31597-discordprofile/?do=findComment&comment=181708)
 - [new to vatsim](https://forums.vatsim.net/topic/31828-new-to-vatsim/?do=findComment&comment=181707)
 - [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181706)
@@ -63,8 +65,6 @@
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=181703)
 - [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181702)
 - [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181701)
-- [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181700)
-- [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181699)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
