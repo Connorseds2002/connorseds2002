@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [new to vatsim](https://forums.vatsim.net/topic/31828-new-to-vatsim/?do=findComment&comment=181714)
+- [Greetings From Ontario!](https://forums.vatsim.net/topic/31830-greetings-from-ontario/?do=findComment&comment=181713)
+- [I had an embarassing first VATSIM flight, still a fantastic experience](https://forums.vatsim.net/topic/31751-i-had-an-embarassing-first-vatsim-flight-still-a-fantastic-experience/?do=findComment&comment=181712)
+- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181711)
 - [new to vatsim](https://forums.vatsim.net/topic/31828-new-to-vatsim/?do=findComment&comment=181710)
 - [new to vatsim](https://forums.vatsim.net/topic/31828-new-to-vatsim/?do=findComment&comment=181709)
 - [Discordprofile](https://forums.vatsim.net/topic/31597-discordprofile/?do=findComment&comment=181708)
 - [new to vatsim](https://forums.vatsim.net/topic/31828-new-to-vatsim/?do=findComment&comment=181707)
 - [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181706)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181705)
-- [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181704)
-- [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=181703)
-- [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181702)
-- [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181701)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
