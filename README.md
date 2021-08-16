@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181705)
 - [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181704)
 - [Selecting Aircraft Livery](https://forums.vatsim.net/topic/31490-selecting-aircraft-livery/?do=findComment&comment=181703)
 - [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181702)
@@ -64,7 +65,6 @@
 - [I had an embarassing first VATSIM flight, still a fantastic experience](https://forums.vatsim.net/topic/31751-i-had-an-embarassing-first-vatsim-flight-still-a-fantastic-experience/?do=findComment&comment=181698)
 - [Looking to do more IFR flights - a few questions](https://forums.vatsim.net/topic/31827-looking-to-do-more-ifr-flights-a-few-questions/?do=findComment&comment=181697)
 - [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181696)
-- [MP Session Error](https://forums.vatsim.net/topic/31826-mp-session-error/?do=findComment&comment=181695)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
