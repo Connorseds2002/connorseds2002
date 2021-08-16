@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FSX Navaids (VOR's, NDB's and Intersections)](https://forums.vatsim.net/topic/31831-fsx-navaids-vors-ndbs-and-intersections/?do=findComment&comment=181721)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=181720)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181719)
 - [FSX Navaids (VOR's, NDB's and Intersections)](https://forums.vatsim.net/topic/31831-fsx-navaids-vors-ndbs-and-intersections/?do=findComment&comment=181718)
@@ -64,7 +65,6 @@
 - [new to vatsim](https://forums.vatsim.net/topic/31828-new-to-vatsim/?do=findComment&comment=181714)
 - [Greetings From Ontario!](https://forums.vatsim.net/topic/31830-greetings-from-ontario/?do=findComment&comment=181713)
 - [I had an embarassing first VATSIM flight, still a fantastic experience](https://forums.vatsim.net/topic/31751-i-had-an-embarassing-first-vatsim-flight-still-a-fantastic-experience/?do=findComment&comment=181712)
-- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181711)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
