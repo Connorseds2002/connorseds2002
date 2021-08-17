@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Aug 28] Canadian Xpress August 2021 Monthly Fly-In - New Beginning](https://forums.vatsim.net/topic/31834-aug-28-canadian-xpress-august-2021-monthly-fly-in-new-beginning/?do=findComment&comment=181726)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181725)
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181724)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181723)
@@ -64,7 +65,6 @@
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181719)
 - [FSX Navaids (VOR's, NDB's and Intersections)](https://forums.vatsim.net/topic/31831-fsx-navaids-vors-ndbs-and-intersections/?do=findComment&comment=181718)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181717)
-- [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181716)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
