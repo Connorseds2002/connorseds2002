@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181759)
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181758)
+- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181757)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181756)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181755)
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181754)
@@ -62,9 +65,6 @@
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=181752)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181751)
 - [Diego Naves steps down](https://forums.vatsim.net/topic/31514-diego-naves-steps-down/?do=findComment&comment=181750)
-- [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181749)
-- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181748)
-- [FPA in Route Section](https://forums.vatsim.net/topic/31837-fpa-in-route-section/?do=findComment&comment=181747)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
