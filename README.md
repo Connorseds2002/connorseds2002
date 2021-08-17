@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Diego Naves steps down](https://forums.vatsim.net/topic/31514-diego-naves-steps-down/?do=findComment&comment=181750)
 - [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181749)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181748)
 - [FPA in Route Section](https://forums.vatsim.net/topic/31837-fpa-in-route-section/?do=findComment&comment=181747)
@@ -64,7 +65,6 @@
 - [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=181743)
 - [Airspace under S1 Rating](https://forums.vatsim.net/topic/31704-airspace-under-s1-rating/?do=findComment&comment=181742)
 - [MSFS or X-Plane](https://forums.vatsim.net/topic/31622-msfs-or-x-plane/?do=findComment&comment=181741)
-- [Greetings From Ontario!](https://forums.vatsim.net/topic/31830-greetings-from-ontario/?do=findComment&comment=181740)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
