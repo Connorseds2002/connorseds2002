@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181733)
+- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181732)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181731)
 - [Greetings From Ontario!](https://forums.vatsim.net/topic/31830-greetings-from-ontario/?do=findComment&comment=181730)
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=181729)
@@ -63,8 +65,6 @@
 - [[Aug 28] Canadian Xpress August 2021 Monthly Fly-In - New Beginning](https://forums.vatsim.net/topic/31834-aug-28-canadian-xpress-august-2021-monthly-fly-in-new-beginning/?do=findComment&comment=181726)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181725)
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181724)
-- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181723)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181722)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
