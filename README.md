@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=181729)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181728)
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=181727)
 - [[Aug 28] Canadian Xpress August 2021 Monthly Fly-In - New Beginning](https://forums.vatsim.net/topic/31834-aug-28-canadian-xpress-august-2021-monthly-fly-in-new-beginning/?do=findComment&comment=181726)
@@ -64,7 +65,6 @@
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=181722)
 - [FSX Navaids (VOR's, NDB's and Intersections)](https://forums.vatsim.net/topic/31831-fsx-navaids-vors-ndbs-and-intersections/?do=findComment&comment=181721)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=181720)
-- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181719)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
