@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=181736)
+- [LSGG south-west arrival (BELUS3S) and RWY 04 ILS appr](https://forums.vatsim.net/topic/31835-lsgg-south-west-arrival-belus3s-and-rwy-04-ils-appr/?do=findComment&comment=181735)
+- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181734)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181733)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181732)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181731)
@@ -62,9 +65,6 @@
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=181729)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181728)
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=181727)
-- [[Aug 28] Canadian Xpress August 2021 Monthly Fly-In - New Beginning](https://forums.vatsim.net/topic/31834-aug-28-canadian-xpress-august-2021-monthly-fly-in-new-beginning/?do=findComment&comment=181726)
-- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=181725)
-- ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181724)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
