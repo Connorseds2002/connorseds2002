@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181760)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181759)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181758)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181757)
@@ -64,7 +65,6 @@
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181753)
 - [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=181752)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181751)
-- [Diego Naves steps down](https://forums.vatsim.net/topic/31514-diego-naves-steps-down/?do=findComment&comment=181750)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
