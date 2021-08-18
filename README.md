@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181772)
+- [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181771)
 - [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=181770)
 - [Audio for VATSIM Not Connecting/Switching to the Correct Airport](https://forums.vatsim.net/topic/31840-audio-for-vatsim-not-connectingswitching-to-the-correct-airport/?do=findComment&comment=181769)
 - [Audio for VATSIM Not Connecting/Switching to the Correct Airport](https://forums.vatsim.net/topic/31840-audio-for-vatsim-not-connectingswitching-to-the-correct-airport/?do=findComment&comment=181768)
@@ -63,8 +65,6 @@
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181765)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181764)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181763)
-- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181762)
-- [LSGG south-west arrival (BELUS3S) and RWY 04 ILS appr](https://forums.vatsim.net/topic/31835-lsgg-south-west-arrival-belus3s-and-rwy-04-ils-appr/?do=findComment&comment=181761)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
