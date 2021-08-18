@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AFISO/Aerodrome radio operation](https://forums.vatsim.net/topic/31680-afisoaerodrome-radio-operation/?do=findComment&comment=181780)
+- [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181779)
+- ["Procedural Tower"](https://forums.vatsim.net/topic/31737-procedural-tower/?do=findComment&comment=181778)
+- ["Procedural Tower"](https://forums.vatsim.net/topic/31737-procedural-tower/?do=findComment&comment=181777)
+- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181776)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181775)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=181774)
 - [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181773)
 - [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181772)
 - [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181771)
-- [Not all aircraft have lights on](https://forums.vatsim.net/topic/30795-not-all-aircraft-have-lights-on/?do=findComment&comment=181770)
-- [Audio for VATSIM Not Connecting/Switching to the Correct Airport](https://forums.vatsim.net/topic/31840-audio-for-vatsim-not-connectingswitching-to-the-correct-airport/?do=findComment&comment=181769)
-- [Audio for VATSIM Not Connecting/Switching to the Correct Airport](https://forums.vatsim.net/topic/31840-audio-for-vatsim-not-connectingswitching-to-the-correct-airport/?do=findComment&comment=181768)
-- [Could Not Find VATSIM Connection Error?](https://forums.vatsim.net/topic/31839-could-not-find-vatsim-connection-error/?do=findComment&comment=181767)
-- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181766)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
