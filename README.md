@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=181774)
 - [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181773)
 - [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181772)
 - [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181771)
@@ -64,7 +65,6 @@
 - [Could Not Find VATSIM Connection Error?](https://forums.vatsim.net/topic/31839-could-not-find-vatsim-connection-error/?do=findComment&comment=181767)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181766)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181765)
-- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181764)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
