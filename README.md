@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181787)
 - [Could Not Find VATSIM Connection Error?](https://forums.vatsim.net/topic/31839-could-not-find-vatsim-connection-error/?do=findComment&comment=181786)
 - [FRA (free route airspace) in Europe](https://forums.vatsim.net/topic/31836-fra-free-route-airspace-in-europe/?do=findComment&comment=181785)
 - [[July 27th - August 22nd] VATSIM 20 Years](https://forums.vatsim.net/topic/31730-july-27th-august-22nd-vatsim-20-years/?do=findComment&comment=181784)
@@ -64,7 +65,6 @@
 - [AFISO/Aerodrome radio operation](https://forums.vatsim.net/topic/31680-afisoaerodrome-radio-operation/?do=findComment&comment=181780)
 - [AFIS endoresment](https://forums.vatsim.net/topic/31818-afis-endoresment/?do=findComment&comment=181779)
 - ["Procedural Tower"](https://forums.vatsim.net/topic/31737-procedural-tower/?do=findComment&comment=181778)
-- ["Procedural Tower"](https://forums.vatsim.net/topic/31737-procedural-tower/?do=findComment&comment=181777)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
