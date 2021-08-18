@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181765)
+- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181764)
+- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181763)
+- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181762)
+- [LSGG south-west arrival (BELUS3S) and RWY 04 ILS appr](https://forums.vatsim.net/topic/31835-lsgg-south-west-arrival-belus3s-and-rwy-04-ils-appr/?do=findComment&comment=181761)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181760)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181759)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181758)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181757)
 - [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181756)
-- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181755)
-- ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181754)
-- [The current situation in Kabul(OAKB) on the VATSIM network](https://forums.vatsim.net/topic/31838-the-current-situation-in-kabuloakb-on-the-vatsim-network/?do=findComment&comment=181753)
-- [Partnered Virtual Airlines S1's Controlling](https://forums.vatsim.net/topic/31714-partnered-virtual-airlines-s1s-controlling/?do=findComment&comment=181752)
-- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181751)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
