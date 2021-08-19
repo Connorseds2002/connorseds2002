@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[EVENT]: Hello Kolkata - Hong Kong (VHHH) to Kolkata (VECC)](https://forums.vatsim.net/topic/31841-event-hello-kolkata-hong-kong-vhhh-to-kolkata-vecc/?do=findComment&comment=181790)
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181789)
 - [[VACANCY] Bangladesh vACC Director Events & PR - ACCBGD3](https://forums.vatsim.net/topic/31772-vacancy-bangladesh-vacc-director-events-pr-accbgd3/?do=findComment&comment=181788)
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181787)
@@ -64,7 +65,6 @@
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181783)
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181782)
 - [Could Not Find VATSIM Connection Error?](https://forums.vatsim.net/topic/31839-could-not-find-vatsim-connection-error/?do=findComment&comment=181781)
-- [AFISO/Aerodrome radio operation](https://forums.vatsim.net/topic/31680-afisoaerodrome-radio-operation/?do=findComment&comment=181780)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
