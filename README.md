@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181798)
+- ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181797)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181796)
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181795)
 - [[27th August 2021 - 12-15z] Ho Chi Minh Control VVHM_CTR, C1 CPT](https://forums.vatsim.net/topic/31845-27th-august-2021-12-15z-ho-chi-minh-control-vvhm_ctr-c1-cpt/?do=findComment&comment=181794)
@@ -63,8 +65,6 @@
 - [[ACCPAK1] Pakistan vACC Director Vacancy Announcement](https://forums.vatsim.net/topic/31842-accpak1-pakistan-vacc-director-vacancy-announcement/?do=findComment&comment=181791)
 - [[EVENT]: Hello Kolkata - Hong Kong (VHHH) to Kolkata (VECC)](https://forums.vatsim.net/topic/31841-event-hello-kolkata-hong-kong-vhhh-to-kolkata-vecc/?do=findComment&comment=181790)
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181789)
-- [[VACANCY] Bangladesh vACC Director Events & PR - ACCBGD3](https://forums.vatsim.net/topic/31772-vacancy-bangladesh-vacc-director-events-pr-accbgd3/?do=findComment&comment=181788)
-- ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181787)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
