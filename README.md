@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181816)
 - [How to find VRP`s - Visual Reporting Points](https://forums.vatsim.net/topic/27313-how-to-find-vrps-visual-reporting-points/?do=findComment&comment=181815)
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181814)
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181813)
@@ -64,7 +65,6 @@
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181809)
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181808)
 - [Departing Nottingham EGBN?](https://forums.vatsim.net/topic/31847-departing-nottingham-egbn/?do=findComment&comment=181807)
-- [Departing Nottingham EGBN?](https://forums.vatsim.net/topic/31847-departing-nottingham-egbn/?do=findComment&comment=181806)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
