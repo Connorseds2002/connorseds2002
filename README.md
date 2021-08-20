@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Discord Join problem](https://forums.vatsim.net/topic/31850-discord-join-problem/?do=findComment&comment=181818)
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181817)
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181816)
 - [How to find VRP`s - Visual Reporting Points](https://forums.vatsim.net/topic/27313-how-to-find-vrps-visual-reporting-points/?do=findComment&comment=181815)
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181814)
@@ -63,8 +65,6 @@
 - [Frequency stuck at 121.900](https://forums.vatsim.net/topic/31848-frequency-stuck-at-121900/?do=findComment&comment=181811)
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181810)
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181809)
-- [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181808)
-- [Departing Nottingham EGBN?](https://forums.vatsim.net/topic/31847-departing-nottingham-egbn/?do=findComment&comment=181807)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
