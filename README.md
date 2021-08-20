@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Frequency stuck at 121.900](https://forums.vatsim.net/topic/31848-frequency-stuck-at-121900/?do=findComment&comment=181811)
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181810)
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181809)
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181808)
@@ -64,7 +65,6 @@
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181804)
 - [Spanish 12/10/2021 "Day of Hispanic World" Air parade](https://forums.vatsim.net/topic/31843-spanish-12102021-day-of-hispanic-world-air-parade/?do=findComment&comment=181803)
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181802)
-- [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181801)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
