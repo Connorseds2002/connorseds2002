@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181814)
+- [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181813)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181812)
 - [Frequency stuck at 121.900](https://forums.vatsim.net/topic/31848-frequency-stuck-at-121900/?do=findComment&comment=181811)
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181810)
@@ -63,8 +65,6 @@
 - [Departing Nottingham EGBN?](https://forums.vatsim.net/topic/31847-departing-nottingham-egbn/?do=findComment&comment=181807)
 - [Departing Nottingham EGBN?](https://forums.vatsim.net/topic/31847-departing-nottingham-egbn/?do=findComment&comment=181806)
 - [[VACANCY] Bangladesh vACC Director Events & PR - ACCBGD3](https://forums.vatsim.net/topic/31772-vacancy-bangladesh-vacc-director-events-pr-accbgd3/?do=findComment&comment=181805)
-- [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181804)
-- [Spanish 12/10/2021 "Day of Hispanic World" Air parade](https://forums.vatsim.net/topic/31843-spanish-12102021-day-of-hispanic-world-air-parade/?do=findComment&comment=181803)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
