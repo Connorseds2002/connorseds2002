@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181826)
 - [Exam abort after 15 min ?](https://forums.vatsim.net/topic/31851-exam-abort-after-15-min/?do=findComment&comment=181825)
 - [Exam abort after 15 min ?](https://forums.vatsim.net/topic/31851-exam-abort-after-15-min/?do=findComment&comment=181824)
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181823)
@@ -64,7 +65,6 @@
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181819)
 - [Discord Join problem](https://forums.vatsim.net/topic/31850-discord-join-problem/?do=findComment&comment=181818)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181817)
-- [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181816)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
