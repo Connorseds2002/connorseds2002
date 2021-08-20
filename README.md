@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181819)
 - [Discord Join problem](https://forums.vatsim.net/topic/31850-discord-join-problem/?do=findComment&comment=181818)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181817)
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181816)
@@ -64,7 +65,6 @@
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181812)
 - [Frequency stuck at 121.900](https://forums.vatsim.net/topic/31848-frequency-stuck-at-121900/?do=findComment&comment=181811)
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181810)
-- [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181809)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
