@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181822)
 - [A new Target Generator is coming!](https://forums.vatsim.net/topic/14355-a-new-target-generator-is-coming/?do=findComment&comment=181821)
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181820)
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181819)
@@ -64,7 +65,6 @@
 - [How to find VRP`s - Visual Reporting Points](https://forums.vatsim.net/topic/27313-how-to-find-vrps-visual-reporting-points/?do=findComment&comment=181815)
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181814)
 - [VATSIM Pilot ratings](https://forums.vatsim.net/topic/31846-vatsim-pilot-ratings/?do=findComment&comment=181813)
-- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181812)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
