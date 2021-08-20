@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181829)
+- [[ACCIND4] India vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31853-accind4-india-vacc-membership-director-vacancy/?do=findComment&comment=181828)
+- [Vroute Premium not updating to current AIRAC (2108)](https://forums.vatsim.net/topic/31852-vroute-premium-not-updating-to-current-airac-2108/?do=findComment&comment=181827)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181826)
 - [Exam abort after 15 min ?](https://forums.vatsim.net/topic/31851-exam-abort-after-15-min/?do=findComment&comment=181825)
 - [Exam abort after 15 min ?](https://forums.vatsim.net/topic/31851-exam-abort-after-15-min/?do=findComment&comment=181824)
@@ -62,9 +65,6 @@
 - ["The Active Simulator Was Not Found..."](https://forums.vatsim.net/topic/31833-the-active-simulator-was-not-found/?do=findComment&comment=181822)
 - [A new Target Generator is coming!](https://forums.vatsim.net/topic/14355-a-new-target-generator-is-coming/?do=findComment&comment=181821)
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181820)
-- [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181819)
-- [Discord Join problem](https://forums.vatsim.net/topic/31850-discord-join-problem/?do=findComment&comment=181818)
-- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181817)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
