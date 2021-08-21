@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181845)
 - [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181844)
 - [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181843)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=181842)
@@ -64,7 +65,6 @@
 - [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181837)
 - [Vroute Premium not updating to current AIRAC (2108)](https://forums.vatsim.net/topic/31852-vroute-premium-not-updating-to-current-airac-2108/?do=findComment&comment=181836)
 - [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181835)
-- [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=181834)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
