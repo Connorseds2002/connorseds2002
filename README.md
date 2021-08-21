@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181841)
+- [Forcibly disconnected from network: automation action](https://forums.vatsim.net/topic/31857-forcibly-disconnected-from-network-automation-action/?do=findComment&comment=181840)
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181839)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=181838)
 - [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181837)
@@ -63,8 +65,6 @@
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=181834)
 - [[28th Aug 2021] S2 CPT | VNKT_TWR](https://forums.vatsim.net/topic/31856-28th-aug-2021-s2-cpt-vnkt_twr/?do=findComment&comment=181833)
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181832)
-- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181831)
-- [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=181830)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
