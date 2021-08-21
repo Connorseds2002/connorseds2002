@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181839)
+- [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=181838)
+- [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181837)
 - [Vroute Premium not updating to current AIRAC (2108)](https://forums.vatsim.net/topic/31852-vroute-premium-not-updating-to-current-airac-2108/?do=findComment&comment=181836)
 - [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181835)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=181834)
@@ -62,9 +65,6 @@
 - [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181832)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181831)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=181830)
-- [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181829)
-- [[ACCIND4] India vACC Membership Director Vacancy](https://forums.vatsim.net/topic/31853-accind4-india-vacc-membership-director-vacancy/?do=findComment&comment=181828)
-- [Vroute Premium not updating to current AIRAC (2108)](https://forums.vatsim.net/topic/31852-vroute-premium-not-updating-to-current-airac-2108/?do=findComment&comment=181827)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
