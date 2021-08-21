@@ -55,7 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [[August 14th, 11:00z-17:00z] Ahoy Bratislava](https://forums.vatsim.net/topic/31860-august-14th-1100z-1700z-ahoy-bratislava/?do=findComment&comment=181848)
+- [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=181850)
+- [Couldn't see other aircraft?](https://forums.vatsim.net/topic/31859-couldnt-see-other-aircraft/?do=findComment&comment=181849)
+- [[September 25th, 10:00z-18:00z] Tel Aviv - Mumbai Ticket](https://forums.vatsim.net/topic/31860-september-25th-1000z-1800z-tel-aviv-mumbai-ticket/?do=findComment&comment=181848)
 - [Couldn't see other aircraft?](https://forums.vatsim.net/topic/31859-couldnt-see-other-aircraft/?do=findComment&comment=181847)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181846)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181845)
@@ -63,8 +65,6 @@
 - [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181843)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=181842)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181841)
-- [Newbie here, need your help.](https://forums.vatsim.net/topic/31849-newbie-here-need-your-help/?do=findComment&comment=181839)
-- [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=181838)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
