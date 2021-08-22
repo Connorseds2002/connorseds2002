@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181858)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=181857)
 - [[EVENT]: Tel Aviv - Mumbai Ticket](https://forums.vatsim.net/topic/31861-event-tel-aviv-mumbai-ticket/?do=findComment&comment=181856)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181855)
@@ -64,7 +65,6 @@
 - [Couldn't see other aircraft?](https://forums.vatsim.net/topic/31859-couldnt-see-other-aircraft/?do=findComment&comment=181851)
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=181850)
 - [Couldn't see other aircraft?](https://forums.vatsim.net/topic/31859-couldnt-see-other-aircraft/?do=findComment&comment=181849)
-- [[September 25th, 10:00z-18:00z] Tel Aviv - Mumbai Ticket](https://forums.vatsim.net/topic/31860-september-25th-1000z-1800z-tel-aviv-mumbai-ticket/?do=findComment&comment=181848)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
