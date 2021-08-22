@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xpilot](https://forums.vatsim.net/topic/31863-xpilot/?do=findComment&comment=181863)
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181862)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181861)
 - [Loved the City Shuttle Event between](https://forums.vatsim.net/topic/31862-loved-the-city-shuttle-event-between/?do=findComment&comment=181860)
 - [Couldn't see other aircraft?](https://forums.vatsim.net/topic/31859-couldnt-see-other-aircraft/?do=findComment&comment=181859)
@@ -63,8 +65,6 @@
 - [[EVENT]: Tel Aviv - Mumbai Ticket](https://forums.vatsim.net/topic/31861-event-tel-aviv-mumbai-ticket/?do=findComment&comment=181856)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181855)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181854)
-- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181853)
-- [Couldn't see other aircraft?](https://forums.vatsim.net/topic/31859-couldnt-see-other-aircraft/?do=findComment&comment=181852)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
