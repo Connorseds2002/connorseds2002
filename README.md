@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181853)
 - [Couldn't see other aircraft?](https://forums.vatsim.net/topic/31859-couldnt-see-other-aircraft/?do=findComment&comment=181852)
 - [Couldn't see other aircraft?](https://forums.vatsim.net/topic/31859-couldnt-see-other-aircraft/?do=findComment&comment=181851)
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=181850)
@@ -64,7 +65,6 @@
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181846)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181845)
 - [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181844)
-- [Returning after a very long time](https://forums.vatsim.net/topic/31854-returning-after-a-very-long-time/?do=findComment&comment=181843)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
