@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181881)
 - [Departing Nottingham EGBN?](https://forums.vatsim.net/topic/31847-departing-nottingham-egbn/?do=findComment&comment=181880)
 - [xpilot](https://forums.vatsim.net/topic/31863-xpilot/?do=findComment&comment=181879)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181878)
@@ -64,7 +65,6 @@
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181874)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181873)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181872)
-- [ADS simulation](https://forums.vatsim.net/topic/31657-ads-simulation/?do=findComment&comment=181871)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
