@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181877)
+- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181876)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181875)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181874)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181873)
@@ -63,8 +65,6 @@
 - [Frequency stuck at 121.900](https://forums.vatsim.net/topic/31848-frequency-stuck-at-121900/?do=findComment&comment=181870)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181869)
 - [xpilot](https://forums.vatsim.net/topic/31863-xpilot/?do=findComment&comment=181868)
-- [VA registration](https://forums.vatsim.net/topic/28729-va-registration/?do=findComment&comment=181867)
-- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181866)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
