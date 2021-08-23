@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181865)
 - [Proper communication for VFR landing within class D airspace](https://forums.vatsim.net/topic/31864-proper-communication-for-vfr-landing-within-class-d-airspace/?do=findComment&comment=181864)
 - [xpilot](https://forums.vatsim.net/topic/31863-xpilot/?do=findComment&comment=181863)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181862)
@@ -64,7 +65,6 @@
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181858)
 - [vPilot Voice Server Error](https://forums.vatsim.net/topic/31379-vpilot-voice-server-error/?do=findComment&comment=181857)
 - [[EVENT]: Tel Aviv - Mumbai Ticket](https://forums.vatsim.net/topic/31861-event-tel-aviv-mumbai-ticket/?do=findComment&comment=181856)
-- [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181855)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
