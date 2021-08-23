@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181873)
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181872)
+- [ADS simulation](https://forums.vatsim.net/topic/31657-ads-simulation/?do=findComment&comment=181871)
+- [Frequency stuck at 121.900](https://forums.vatsim.net/topic/31848-frequency-stuck-at-121900/?do=findComment&comment=181870)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181869)
 - [xpilot](https://forums.vatsim.net/topic/31863-xpilot/?do=findComment&comment=181868)
 - [VA registration](https://forums.vatsim.net/topic/28729-va-registration/?do=findComment&comment=181867)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181866)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181865)
 - [Proper communication for VFR landing within class D airspace](https://forums.vatsim.net/topic/31864-proper-communication-for-vfr-landing-within-class-d-airspace/?do=findComment&comment=181864)
-- [xpilot](https://forums.vatsim.net/topic/31863-xpilot/?do=findComment&comment=181863)
-- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181862)
-- [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181861)
-- [Loved the City Shuttle Event between](https://forums.vatsim.net/topic/31862-loved-the-city-shuttle-event-between/?do=findComment&comment=181860)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
