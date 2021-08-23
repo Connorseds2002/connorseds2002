@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Frequency stuck at 121.900](https://forums.vatsim.net/topic/31848-frequency-stuck-at-121900/?do=findComment&comment=181886)
 - [New to Vatsim and amazing first flight a big thank you to Daniel Button (EGHQ_APP)](https://forums.vatsim.net/topic/31866-new-to-vatsim-and-amazing-first-flight-a-big-thank-you-to-daniel-button-eghq_app/?do=findComment&comment=181885)
 - [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=181884)
 - [New to Vatsim and amazing first flight a big thank you to Daniel Button (EGHQ_APP)](https://forums.vatsim.net/topic/31866-new-to-vatsim-and-amazing-first-flight-a-big-thank-you-to-daniel-button-eghq_app/?do=findComment&comment=181883)
@@ -64,7 +65,6 @@
 - [xpilot](https://forums.vatsim.net/topic/31863-xpilot/?do=findComment&comment=181879)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181878)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181877)
-- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181876)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
