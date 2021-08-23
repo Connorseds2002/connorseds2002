@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=181884)
+- [New to Vatsim and amazing first flight a big thank you to Daniel Button (EGHQ_APP)](https://forums.vatsim.net/topic/31866-new-to-vatsim-and-amazing-first-flight-a-big-thank-you-to-daniel-button-eghq_app/?do=findComment&comment=181883)
+- [Proper communication for VFR landing within class D airspace](https://forums.vatsim.net/topic/31864-proper-communication-for-vfr-landing-within-class-d-airspace/?do=findComment&comment=181882)
 - [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181881)
 - [Departing Nottingham EGBN?](https://forums.vatsim.net/topic/31847-departing-nottingham-egbn/?do=findComment&comment=181880)
 - [xpilot](https://forums.vatsim.net/topic/31863-xpilot/?do=findComment&comment=181879)
@@ -62,9 +65,6 @@
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181877)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181876)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181875)
-- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181874)
-- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181873)
-- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=181872)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
