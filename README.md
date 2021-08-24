@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FSX Model Matching- VPilot is Only Detecting One Folder.](https://forums.vatsim.net/topic/31868-fsx-model-matching-vpilot-is-only-detecting-one-folder/?do=findComment&comment=181890)
 - [FSX Model Matching- VPilot is Only Detecting One Folder.](https://forums.vatsim.net/topic/31868-fsx-model-matching-vpilot-is-only-detecting-one-folder/?do=findComment&comment=181889)
 - [FSX Model Matching- VPilot is Only Detecting One Folder.](https://forums.vatsim.net/topic/31868-fsx-model-matching-vpilot-is-only-detecting-one-folder/?do=findComment&comment=181888)
 - [New to Vatsim and amazing first flight a big thank you to Daniel Button (EGHQ_APP)](https://forums.vatsim.net/topic/31866-new-to-vatsim-and-amazing-first-flight-a-big-thank-you-to-daniel-button-eghq_app/?do=findComment&comment=181887)
@@ -64,7 +65,6 @@
 - [New to Vatsim and amazing first flight a big thank you to Daniel Button (EGHQ_APP)](https://forums.vatsim.net/topic/31866-new-to-vatsim-and-amazing-first-flight-a-big-thank-you-to-daniel-button-eghq_app/?do=findComment&comment=181883)
 - [Proper communication for VFR landing within class D airspace](https://forums.vatsim.net/topic/31864-proper-communication-for-vfr-landing-within-class-d-airspace/?do=findComment&comment=181882)
 - [New to VATSIM, looking for a bit of guidance](https://forums.vatsim.net/topic/31787-new-to-vatsim-looking-for-a-bit-of-guidance/?do=findComment&comment=181881)
-- [Departing Nottingham EGBN?](https://forums.vatsim.net/topic/31847-departing-nottingham-egbn/?do=findComment&comment=181880)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
