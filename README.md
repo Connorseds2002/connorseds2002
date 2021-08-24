@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181893)
+- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=181892)
 - [Proper communication for VFR landing within class D airspace](https://forums.vatsim.net/topic/31864-proper-communication-for-vfr-landing-within-class-d-airspace/?do=findComment&comment=181891)
 - [FSX Model Matching- VPilot is Only Detecting One Folder.](https://forums.vatsim.net/topic/31868-fsx-model-matching-vpilot-is-only-detecting-one-folder/?do=findComment&comment=181890)
 - [FSX Model Matching- VPilot is Only Detecting One Folder.](https://forums.vatsim.net/topic/31868-fsx-model-matching-vpilot-is-only-detecting-one-folder/?do=findComment&comment=181889)
@@ -63,8 +65,6 @@
 - [Frequency stuck at 121.900](https://forums.vatsim.net/topic/31848-frequency-stuck-at-121900/?do=findComment&comment=181886)
 - [New to Vatsim and amazing first flight a big thank you to Daniel Button (EGHQ_APP)](https://forums.vatsim.net/topic/31866-new-to-vatsim-and-amazing-first-flight-a-big-thank-you-to-daniel-button-eghq_app/?do=findComment&comment=181885)
 - [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=181884)
-- [New to Vatsim and amazing first flight a big thank you to Daniel Button (EGHQ_APP)](https://forums.vatsim.net/topic/31866-new-to-vatsim-and-amazing-first-flight-a-big-thank-you-to-daniel-button-eghq_app/?do=findComment&comment=181883)
-- [Proper communication for VFR landing within class D airspace](https://forums.vatsim.net/topic/31864-proper-communication-for-vfr-landing-within-class-d-airspace/?do=findComment&comment=181882)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
