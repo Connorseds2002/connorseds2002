@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=181914)
+- [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181913)
+- [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181912)
+- [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181911)
 - [[28th Aug 2021] Bangladesh - Nepal Friendship Event](https://forums.vatsim.net/topic/31871-28th-aug-2021-bangladesh-nepal-friendship-event/?do=findComment&comment=181910)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181909)
 - [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181908)
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=181906)
 - [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181905)
 - [Proper communication for VFR landing within class D airspace](https://forums.vatsim.net/topic/31864-proper-communication-for-vfr-landing-within-class-d-airspace/?do=findComment&comment=181904)
-- [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181903)
-- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181902)
-- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=181901)
-- [Do I have to file  SID?](https://forums.vatsim.net/topic/29442-do-i-have-to-file-sid/?do=findComment&comment=181900)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
