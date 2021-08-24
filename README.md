@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181903)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181902)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=181901)
 - [Do I have to file  SID?](https://forums.vatsim.net/topic/29442-do-i-have-to-file-sid/?do=findComment&comment=181900)
@@ -64,7 +65,6 @@
 - [Feature request: Headset to Speaker Audio](https://forums.vatsim.net/topic/19814-feature-request-headset-to-speaker-audio/?do=findComment&comment=181896)
 - [Proper communication for VFR landing within class D airspace](https://forums.vatsim.net/topic/31864-proper-communication-for-vfr-landing-within-class-d-airspace/?do=findComment&comment=181895)
 - [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181894)
-- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181893)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
