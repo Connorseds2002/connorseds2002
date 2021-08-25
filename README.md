@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot not recognising headset microphone](https://forums.vatsim.net/topic/31872-vpilot-not-recognising-headset-microphone/?do=findComment&comment=181918)
 - [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181917)
 - [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181916)
 - [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181915)
@@ -64,7 +65,6 @@
 - [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181911)
 - [[28th Aug 2021] Bangladesh - Nepal Friendship Event](https://forums.vatsim.net/topic/31871-28th-aug-2021-bangladesh-nepal-friendship-event/?do=findComment&comment=181910)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181909)
-- [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181908)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
