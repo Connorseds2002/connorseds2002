@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181927)
+- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181926)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181925)
 - [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181924)
 - [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181923)
@@ -63,8 +65,6 @@
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181920)
 - [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181919)
 - [Vpilot not recognising headset microphone](https://forums.vatsim.net/topic/31872-vpilot-not-recognising-headset-microphone/?do=findComment&comment=181918)
-- [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181917)
-- [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181916)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
