@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181923)
+- [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181922)
+- [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181921)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181920)
 - [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181919)
 - [Vpilot not recognising headset microphone](https://forums.vatsim.net/topic/31872-vpilot-not-recognising-headset-microphone/?do=findComment&comment=181918)
@@ -62,9 +65,6 @@
 - [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181916)
 - [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181915)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=181914)
-- [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181913)
-- [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181912)
-- [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181911)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
