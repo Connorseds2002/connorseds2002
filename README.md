@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift Authentification failed](https://forums.vatsim.net/topic/30163-swift-authentification-failed/?do=findComment&comment=181931)
+- [ES - dep list empty ... help?? [RESOLVED]](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help-resolved/?do=findComment&comment=181930)
+- [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181929)
+- [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181928)
 - [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181927)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181926)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181925)
 - [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181924)
 - [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181923)
 - [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181922)
-- [Lufthansa 787 livery](https://forums.vatsim.net/topic/31870-lufthansa-787-livery/?do=findComment&comment=181921)
-- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181920)
-- [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181919)
-- [Vpilot not recognising headset microphone](https://forums.vatsim.net/topic/31872-vpilot-not-recognising-headset-microphone/?do=findComment&comment=181918)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
