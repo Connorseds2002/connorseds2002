@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181936)
+- [Controller in Western Canada...](https://forums.vatsim.net/topic/31874-controller-in-western-canada/?do=findComment&comment=181935)
 - [Swift connection problem](https://forums.vatsim.net/topic/29080-swift-connection-problem/?do=findComment&comment=181934)
 - [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181933)
 - [Swift Authentification failed](https://forums.vatsim.net/topic/30163-swift-authentification-failed/?do=findComment&comment=181932)
@@ -63,8 +65,6 @@
 - [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181929)
 - [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181928)
 - [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181927)
-- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181926)
-- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=181925)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
