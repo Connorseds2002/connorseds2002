@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181937)
 - [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181936)
 - [Controller in Western Canada...](https://forums.vatsim.net/topic/31874-controller-in-western-canada/?do=findComment&comment=181935)
 - [Swift connection problem](https://forums.vatsim.net/topic/29080-swift-connection-problem/?do=findComment&comment=181934)
@@ -64,7 +65,6 @@
 - [ES - dep list empty ... help?? [RESOLVED]](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help-resolved/?do=findComment&comment=181930)
 - [Swift](https://forums.vatsim.net/topic/31869-swift/?do=findComment&comment=181929)
 - [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181928)
-- [P3dv4 Model Matching - VPilot](https://forums.vatsim.net/topic/31873-p3dv4-model-matching-vpilot/?do=findComment&comment=181927)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
