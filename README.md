@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot audio problem](https://forums.vatsim.net/topic/31876-vpilot-audio-problem/?do=findComment&comment=181952)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181951)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181950)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=181949)
@@ -64,7 +65,6 @@
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181945)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181944)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181943)
-- [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181942)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
