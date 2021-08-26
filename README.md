@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181960)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181959)
 - [Invalid CID/password, tried everything i found](https://forums.vatsim.net/topic/31877-invalid-cidpassword-tried-everything-i-found/?do=findComment&comment=181958)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181957)
@@ -64,7 +65,6 @@
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181953)
 - [vPilot audio problem](https://forums.vatsim.net/topic/31876-vpilot-audio-problem/?do=findComment&comment=181952)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181951)
-- [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181950)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
