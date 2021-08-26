@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181959)
+- [Invalid CID/password, tried everything i found](https://forums.vatsim.net/topic/31877-invalid-cidpassword-tried-everything-i-found/?do=findComment&comment=181958)
+- [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181957)
 - [Euroscope on macOS (Macbook)](https://forums.vatsim.net/topic/20012-euroscope-on-macos-macbook/?do=findComment&comment=181956)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181955)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181954)
@@ -62,9 +65,6 @@
 - [vPilot audio problem](https://forums.vatsim.net/topic/31876-vpilot-audio-problem/?do=findComment&comment=181952)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181951)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181950)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=181949)
-- [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181948)
-- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181947)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
