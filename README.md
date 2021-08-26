@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181954)
+- [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181953)
 - [vPilot audio problem](https://forums.vatsim.net/topic/31876-vpilot-audio-problem/?do=findComment&comment=181952)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181951)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181950)
@@ -63,8 +65,6 @@
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=181947)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181946)
 - [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181945)
-- [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181944)
-- [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181943)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
