@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181969)
+- [VA registration](https://forums.vatsim.net/topic/28729-va-registration/?do=findComment&comment=181968)
+- [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181967)
 - [Did I get kicked because of flying a f-16? (Solved)](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16-solved/?do=findComment&comment=181966)
 - [Euroscope map projection coordinate system](https://forums.vatsim.net/topic/25019-euroscope-map-projection-coordinate-system/?do=findComment&comment=181965)
 - [Did I get kicked because of flying a f-16? (Solved)](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16-solved/?do=findComment&comment=181964)
@@ -62,9 +65,6 @@
 - [Euroscope map projection coordinate system](https://forums.vatsim.net/topic/25019-euroscope-map-projection-coordinate-system/?do=findComment&comment=181962)
 - [vPilot audio problem](https://forums.vatsim.net/topic/31876-vpilot-audio-problem/?do=findComment&comment=181961)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181960)
-- [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181959)
-- [Invalid CID/password, tried everything i found](https://forums.vatsim.net/topic/31877-invalid-cidpassword-tried-everything-i-found/?do=findComment&comment=181958)
-- [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181957)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
