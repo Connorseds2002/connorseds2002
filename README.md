@@ -55,9 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181966)
+- [Did I get kicked because of flying a f-16? (Solved)](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16-solved/?do=findComment&comment=181966)
 - [Euroscope map projection coordinate system](https://forums.vatsim.net/topic/25019-euroscope-map-projection-coordinate-system/?do=findComment&comment=181965)
-- [Did I get kicked because of flying a f-16?](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16/?do=findComment&comment=181964)
+- [Did I get kicked because of flying a f-16? (Solved)](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16-solved/?do=findComment&comment=181964)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181963)
 - [Euroscope map projection coordinate system](https://forums.vatsim.net/topic/25019-euroscope-map-projection-coordinate-system/?do=findComment&comment=181962)
 - [vPilot audio problem](https://forums.vatsim.net/topic/31876-vpilot-audio-problem/?do=findComment&comment=181961)
