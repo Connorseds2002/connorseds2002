@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cannot Log-In to VATSIM after moving over to MSFS](https://forums.vatsim.net/topic/31878-cannot-log-in-to-vatsim-after-moving-over-to-msfs/?do=findComment&comment=181976)
+- [Invalid CID/password, tried everything i found](https://forums.vatsim.net/topic/31877-invalid-cidpassword-tried-everything-i-found/?do=findComment&comment=181975)
+- [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181974)
+- [VA registration](https://forums.vatsim.net/topic/28729-va-registration/?do=findComment&comment=181973)
 - [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181972)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181971)
 - [Did I get kicked because of flying a f-16? (Solved)](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16-solved/?do=findComment&comment=181970)
 - [Flying VFR departure (LSGG)](https://forums.vatsim.net/topic/31858-flying-vfr-departure-lsgg/?do=findComment&comment=181969)
 - [VA registration](https://forums.vatsim.net/topic/28729-va-registration/?do=findComment&comment=181968)
 - [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181967)
-- [Did I get kicked because of flying a f-16? (Solved)](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16-solved/?do=findComment&comment=181966)
-- [Euroscope map projection coordinate system](https://forums.vatsim.net/topic/25019-euroscope-map-projection-coordinate-system/?do=findComment&comment=181965)
-- [Did I get kicked because of flying a f-16? (Solved)](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16-solved/?do=findComment&comment=181964)
-- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181963)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
