@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My Atis is not working on X-Pilot](https://forums.vatsim.net/topic/31881-my-atis-is-not-working-on-x-pilot/?do=findComment&comment=181982)
 - [INFORMATION SYSTEMS COORDINATOR (VATCAR8)](https://forums.vatsim.net/topic/31880-information-systems-coordinator-vatcar8/?do=findComment&comment=181981)
 - [INFORMATION SYSTEMS COORDINATOR (VATCAR8)](https://forums.vatsim.net/topic/31879-information-systems-coordinator-vatcar8/?do=findComment&comment=181980)
 - [Invalid CID/password, tried everything i found](https://forums.vatsim.net/topic/31877-invalid-cidpassword-tried-everything-i-found/?do=findComment&comment=181979)
@@ -64,7 +65,6 @@
 - [VA registration](https://forums.vatsim.net/topic/28729-va-registration/?do=findComment&comment=181973)
 - [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181972)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=181971)
-- [Did I get kicked because of flying a f-16? (Solved)](https://forums.vatsim.net/topic/31875-did-i-get-kicked-because-of-flying-a-f-16-solved/?do=findComment&comment=181970)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
