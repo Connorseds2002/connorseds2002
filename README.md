@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181998)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181997)
 - [My Atis is not working on X-Pilot](https://forums.vatsim.net/topic/31881-my-atis-is-not-working-on-x-pilot/?do=findComment&comment=181996)
 - [My Atis is not working on X-Pilot](https://forums.vatsim.net/topic/31881-my-atis-is-not-working-on-x-pilot/?do=findComment&comment=181995)
@@ -64,7 +65,6 @@
 - [My Atis is not working on X-Pilot](https://forums.vatsim.net/topic/31881-my-atis-is-not-working-on-x-pilot/?do=findComment&comment=181991)
 - [Newbies to Vatsim using ATC](https://forums.vatsim.net/topic/31885-newbies-to-vatsim-using-atc/?do=findComment&comment=181990)
 - [Vroute Premium not updating to current AIRAC (2108)](https://forums.vatsim.net/topic/31852-vroute-premium-not-updating-to-current-airac-2108/?do=findComment&comment=181989)
-- [Vroute Premium not updating to current AIRAC (2108)](https://forums.vatsim.net/topic/31852-vroute-premium-not-updating-to-current-airac-2108/?do=findComment&comment=181988)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
