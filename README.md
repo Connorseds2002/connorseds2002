@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181997)
+- [My Atis is not working on X-Pilot](https://forums.vatsim.net/topic/31881-my-atis-is-not-working-on-x-pilot/?do=findComment&comment=181996)
 - [My Atis is not working on X-Pilot](https://forums.vatsim.net/topic/31881-my-atis-is-not-working-on-x-pilot/?do=findComment&comment=181995)
 - [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=181994)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=181993)
@@ -63,8 +65,6 @@
 - [Newbies to Vatsim using ATC](https://forums.vatsim.net/topic/31885-newbies-to-vatsim-using-atc/?do=findComment&comment=181990)
 - [Vroute Premium not updating to current AIRAC (2108)](https://forums.vatsim.net/topic/31852-vroute-premium-not-updating-to-current-airac-2108/?do=findComment&comment=181989)
 - [Vroute Premium not updating to current AIRAC (2108)](https://forums.vatsim.net/topic/31852-vroute-premium-not-updating-to-current-airac-2108/?do=findComment&comment=181988)
-- [[4th September 2021 - 13-15z] Ho Chi Minh Control VVHM_CTR, C1 CPT](https://forums.vatsim.net/topic/31884-4th-september-2021-13-15z-ho-chi-minh-control-vvhm_ctr-c1-cpt/?do=findComment&comment=181987)
-- [P3Dv5 Model Matching Stopped Working](https://forums.vatsim.net/topic/31883-p3dv5-model-matching-stopped-working/?do=findComment&comment=181986)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
