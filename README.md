@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[4th September 2021 - 13-15z] Ho Chi Minh Control VVHM_CTR, C1 CPT](https://forums.vatsim.net/topic/31884-4th-september-2021-13-15z-ho-chi-minh-control-vvhm_ctr-c1-cpt/?do=findComment&comment=181987)
+- [P3Dv5 Model Matching Stopped Working](https://forums.vatsim.net/topic/31883-p3dv5-model-matching-stopped-working/?do=findComment&comment=181986)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=181985)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=181984)
 - [My Atis is not working on X-Pilot](https://forums.vatsim.net/topic/31881-my-atis-is-not-working-on-x-pilot/?do=findComment&comment=181983)
@@ -63,8 +65,6 @@
 - [INFORMATION SYSTEMS COORDINATOR (VATCAR8)](https://forums.vatsim.net/topic/31879-information-systems-coordinator-vatcar8/?do=findComment&comment=181980)
 - [Invalid CID/password, tried everything i found](https://forums.vatsim.net/topic/31877-invalid-cidpassword-tried-everything-i-found/?do=findComment&comment=181979)
 - [Invalid CID/password, tried everything i found](https://forums.vatsim.net/topic/31877-invalid-cidpassword-tried-everything-i-found/?do=findComment&comment=181978)
-- [Invalid CID/password, tried everything i found](https://forums.vatsim.net/topic/31877-invalid-cidpassword-tried-everything-i-found/?do=findComment&comment=181975)
-- [Atis not working.](https://forums.vatsim.net/topic/31746-atis-not-working/?do=findComment&comment=181974)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
