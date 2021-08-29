@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182063)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182062)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182061)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182060)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182059)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182058)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182057)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182056)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182055)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182054)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182080)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182079)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182078)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182077)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182076)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182075)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182074)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182073)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182072)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182071)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
