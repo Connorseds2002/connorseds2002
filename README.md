@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Issues connecting to AFV](https://forums.vatsim.net/topic/31887-issues-connecting-to-afv/?do=findComment&comment=182088)
+- [Change airport base](https://forums.vatsim.net/topic/31888-change-airport-base/?do=findComment&comment=182087)
 - [JARdesign A330 problem with the vocal interraction, xpilot](https://forums.vatsim.net/topic/31889-jardesign-a330-problem-with-the-vocal-interraction-xpilot/?do=findComment&comment=182086)
 - [Introducing ChartFox...](https://forums.vatsim.net/topic/23296-introducing-chartfox/?do=findComment&comment=182085)
 - [Change airport base](https://forums.vatsim.net/topic/31888-change-airport-base/?do=findComment&comment=182084)
@@ -63,8 +65,6 @@
 - [Issues connecting to AFV](https://forums.vatsim.net/topic/31887-issues-connecting-to-afv/?do=findComment&comment=182081)
 - [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182080)
 - [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182079)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182078)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182077)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
