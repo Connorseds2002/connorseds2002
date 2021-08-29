@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182093)
+- [VAT-Spy Airport Details - FIR/ARTCC Setup Questions](https://forums.vatsim.net/topic/31890-vat-spy-airport-details-firartcc-setup-questions/?do=findComment&comment=182092)
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182091)
+- [Change airport base](https://forums.vatsim.net/topic/31888-change-airport-base/?do=findComment&comment=182090)
+- [VAT-Spy Airport Details - FIR/ARTCC Setup Questions](https://forums.vatsim.net/topic/31890-vat-spy-airport-details-firartcc-setup-questions/?do=findComment&comment=182089)
 - [Issues connecting to AFV](https://forums.vatsim.net/topic/31887-issues-connecting-to-afv/?do=findComment&comment=182088)
 - [Change airport base](https://forums.vatsim.net/topic/31888-change-airport-base/?do=findComment&comment=182087)
 - [JARdesign A330 problem with the vocal interraction, xpilot](https://forums.vatsim.net/topic/31889-jardesign-a330-problem-with-the-vocal-interraction-xpilot/?do=findComment&comment=182086)
 - [Introducing ChartFox...](https://forums.vatsim.net/topic/23296-introducing-chartfox/?do=findComment&comment=182085)
 - [Change airport base](https://forums.vatsim.net/topic/31888-change-airport-base/?do=findComment&comment=182084)
-- [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182083)
-- [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182082)
-- [Issues connecting to AFV](https://forums.vatsim.net/topic/31887-issues-connecting-to-afv/?do=findComment&comment=182081)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182080)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182079)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
