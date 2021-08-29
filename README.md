@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182000)
 - [Activesky Unable To Download VATSIM metars](https://forums.vatsim.net/topic/28610-activesky-unable-to-download-vatsim-metars/?do=findComment&comment=181999)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181998)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=181997)
@@ -64,7 +65,6 @@
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=181993)
 - [P3Dv5 Model Matching Stopped Working](https://forums.vatsim.net/topic/31883-p3dv5-model-matching-stopped-working/?do=findComment&comment=181992)
 - [My Atis is not working on X-Pilot](https://forums.vatsim.net/topic/31881-my-atis-is-not-working-on-x-pilot/?do=findComment&comment=181991)
-- [Newbies to Vatsim using ATC](https://forums.vatsim.net/topic/31885-newbies-to-vatsim-using-atc/?do=findComment&comment=181990)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
