@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to acknowledge controllers when operating station is separate from cockpit...........](https://forums.vatsim.net/topic/31891-how-to-acknowledge-controllers-when-operating-station-is-separate-from-cockpit/?do=findComment&comment=182102)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182101)
 - [DIscord Inactive](https://forums.vatsim.net/topic/31893-discord-inactive/?do=findComment&comment=182100)
 - [DIscord Inactive](https://forums.vatsim.net/topic/31893-discord-inactive/?do=findComment&comment=182099)
@@ -64,7 +65,6 @@
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182095)
 - [Issues connecting to AFV](https://forums.vatsim.net/topic/31887-issues-connecting-to-afv/?do=findComment&comment=182094)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182093)
-- [VAT-Spy Airport Details - FIR/ARTCC Setup Questions](https://forums.vatsim.net/topic/31890-vat-spy-airport-details-firartcc-setup-questions/?do=findComment&comment=182092)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
