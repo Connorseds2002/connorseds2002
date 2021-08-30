@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182101)
 - [DIscord Inactive](https://forums.vatsim.net/topic/31893-discord-inactive/?do=findComment&comment=182100)
 - [DIscord Inactive](https://forums.vatsim.net/topic/31893-discord-inactive/?do=findComment&comment=182099)
 - [Feature Request: No Input Warning](https://forums.vatsim.net/topic/31892-feature-request-no-input-warning/?do=findComment&comment=182098)
@@ -64,7 +65,6 @@
 - [Issues connecting to AFV](https://forums.vatsim.net/topic/31887-issues-connecting-to-afv/?do=findComment&comment=182094)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182093)
 - [VAT-Spy Airport Details - FIR/ARTCC Setup Questions](https://forums.vatsim.net/topic/31890-vat-spy-airport-details-firartcc-setup-questions/?do=findComment&comment=182092)
-- [Oakland Oceanic is moving!](https://forums.vatsim.net/topic/31886-oakland-oceanic-is-moving/?do=findComment&comment=182091)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
