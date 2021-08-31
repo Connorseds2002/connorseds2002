@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182124)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182123)
 - [[12th September 2021 - 13-15z] Tan Son Nhat Terminal VVTS_APP, S3 CPT](https://forums.vatsim.net/topic/31898-12th-september-2021-13-15z-tan-son-nhat-terminal-vvts_app-s3-cpt/?do=findComment&comment=182122)
 - [[11th September 2021 - 13-15z] Tan Son Nhat Tower VVTS_TWR, S2 CPT](https://forums.vatsim.net/topic/31897-11th-september-2021-13-15z-tan-son-nhat-tower-vvts_twr-s2-cpt/?do=findComment&comment=182121)
@@ -64,7 +65,6 @@
 - [How to acknowledge controllers when operating station is separate from cockpit...........](https://forums.vatsim.net/topic/31891-how-to-acknowledge-controllers-when-operating-station-is-separate-from-cockpit/?do=findComment&comment=182117)
 - [Euroscope Scenario Editor - Instructions field.](https://forums.vatsim.net/topic/24220-euroscope-scenario-editor-instructions-field/?do=findComment&comment=182116)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182115)
-- [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182114)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
