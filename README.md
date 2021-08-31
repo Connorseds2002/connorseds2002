@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to acknowledge controllers when operating station is separate from cockpit...........](https://forums.vatsim.net/topic/31891-how-to-acknowledge-controllers-when-operating-station-is-separate-from-cockpit/?do=findComment&comment=182117)
+- [Euroscope Scenario Editor - Instructions field.](https://forums.vatsim.net/topic/24220-euroscope-scenario-editor-instructions-field/?do=findComment&comment=182116)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182115)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182114)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182113)
@@ -63,8 +65,6 @@
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182110)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182109)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182108)
-- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182107)
-- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182106)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
