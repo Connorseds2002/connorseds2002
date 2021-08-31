@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [[SOLVED] 2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-solved-2-x-vpilot-remotes/?do=findComment&comment=182107)
-- [[SOLVED] 2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-solved-2-x-vpilot-remotes/?do=findComment&comment=182106)
-- [[SOLVED] 2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-solved-2-x-vpilot-remotes/?do=findComment&comment=182105)
+- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182108)
+- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182107)
+- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182106)
+- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182105)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182104)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182103)
 - [How to acknowledge controllers when operating station is separate from cockpit...........](https://forums.vatsim.net/topic/31891-how-to-acknowledge-controllers-when-operating-station-is-separate-from-cockpit/?do=findComment&comment=182102)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182101)
 - [DIscord Inactive](https://forums.vatsim.net/topic/31893-discord-inactive/?do=findComment&comment=182100)
 - [DIscord Inactive](https://forums.vatsim.net/topic/31893-discord-inactive/?do=findComment&comment=182099)
-- [Feature Request: No Input Warning](https://forums.vatsim.net/topic/31892-feature-request-no-input-warning/?do=findComment&comment=182098)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
