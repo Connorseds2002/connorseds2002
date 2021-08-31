@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182127)
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=182126)
+- [Cross The Pond: Eastbound 2021](https://forums.vatsim.net/topic/31900-cross-the-pond-eastbound-2021/?do=findComment&comment=182125)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182124)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182123)
 - [[12th September 2021 - 13-15z] Tan Son Nhat Terminal VVTS_APP, S3 CPT](https://forums.vatsim.net/topic/31898-12th-september-2021-13-15z-tan-son-nhat-terminal-vvts_app-s3-cpt/?do=findComment&comment=182122)
@@ -62,9 +65,6 @@
 - [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182120)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182119)
 - [[4rth Sep 2021] VNKT_TWR | S2 CPT](https://forums.vatsim.net/topic/31895-4rth-sep-2021-vnkt_twr-s2-cpt/?do=findComment&comment=182118)
-- [How to acknowledge controllers when operating station is separate from cockpit...........](https://forums.vatsim.net/topic/31891-how-to-acknowledge-controllers-when-operating-station-is-separate-from-cockpit/?do=findComment&comment=182117)
-- [Euroscope Scenario Editor - Instructions field.](https://forums.vatsim.net/topic/24220-euroscope-scenario-editor-instructions-field/?do=findComment&comment=182116)
-- [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182115)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
