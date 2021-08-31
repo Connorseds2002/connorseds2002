@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182123)
+- [[12th September 2021 - 13-15z] Tan Son Nhat Terminal VVTS_APP, S3 CPT](https://forums.vatsim.net/topic/31898-12th-september-2021-13-15z-tan-son-nhat-terminal-vvts_app-s3-cpt/?do=findComment&comment=182122)
+- [[11th September 2021 - 13-15z] Tan Son Nhat Tower VVTS_TWR, S2 CPT](https://forums.vatsim.net/topic/31897-11th-september-2021-13-15z-tan-son-nhat-tower-vvts_twr-s2-cpt/?do=findComment&comment=182121)
 - [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182120)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182119)
 - [[4rth Sep 2021] VNKT_TWR | S2 CPT](https://forums.vatsim.net/topic/31895-4rth-sep-2021-vnkt_twr-s2-cpt/?do=findComment&comment=182118)
@@ -62,9 +65,6 @@
 - [Euroscope Scenario Editor - Instructions field.](https://forums.vatsim.net/topic/24220-euroscope-scenario-editor-instructions-field/?do=findComment&comment=182116)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182115)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182114)
-- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182113)
-- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182112)
-- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=182111)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
