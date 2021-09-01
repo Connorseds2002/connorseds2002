@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182136)
+- [VATSIM ID verification in vRoute](https://forums.vatsim.net/topic/31904-vatsim-id-verification-in-vroute/?do=findComment&comment=182135)
+- [VATSIM ID verification in vRoute](https://forums.vatsim.net/topic/31904-vatsim-id-verification-in-vroute/?do=findComment&comment=182134)
 - [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182133)
 - [VATSIM Discord Invite's, not working](https://forums.vatsim.net/topic/31902-vatsim-discord-invites-not-working/?do=findComment&comment=182132)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182131)
@@ -62,9 +65,6 @@
 - [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182129)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182128)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182127)
-- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=182126)
-- [Cross The Pond: Eastbound 2021](https://forums.vatsim.net/topic/31900-cross-the-pond-eastbound-2021/?do=findComment&comment=182125)
-- [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182124)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
