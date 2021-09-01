@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Discord Invite's, not working](https://forums.vatsim.net/topic/31902-vatsim-discord-invites-not-working/?do=findComment&comment=182132)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182131)
 - [VATSIM Discord Invite's, not working](https://forums.vatsim.net/topic/31902-vatsim-discord-invites-not-working/?do=findComment&comment=182130)
 - [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182129)
@@ -64,7 +65,6 @@
 - [Cross The Pond: Eastbound 2021](https://forums.vatsim.net/topic/31900-cross-the-pond-eastbound-2021/?do=findComment&comment=182125)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182124)
 - [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182123)
-- [[12th September 2021 - 13-15z] Tan Son Nhat Terminal VVTS_APP, S3 CPT](https://forums.vatsim.net/topic/31898-12th-september-2021-13-15z-tan-son-nhat-terminal-vvts_app-s3-cpt/?do=findComment&comment=182122)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
