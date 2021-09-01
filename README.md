@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182129)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182128)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182127)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=182126)
@@ -64,7 +65,6 @@
 - [[12th September 2021 - 13-15z] Tan Son Nhat Terminal VVTS_APP, S3 CPT](https://forums.vatsim.net/topic/31898-12th-september-2021-13-15z-tan-son-nhat-terminal-vvts_app-s3-cpt/?do=findComment&comment=182122)
 - [[11th September 2021 - 13-15z] Tan Son Nhat Tower VVTS_TWR, S2 CPT](https://forums.vatsim.net/topic/31897-11th-september-2021-13-15z-tan-son-nhat-tower-vvts_twr-s2-cpt/?do=findComment&comment=182121)
 - [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182120)
-- [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182119)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
