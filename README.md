@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182133)
 - [VATSIM Discord Invite's, not working](https://forums.vatsim.net/topic/31902-vatsim-discord-invites-not-working/?do=findComment&comment=182132)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182131)
 - [VATSIM Discord Invite's, not working](https://forums.vatsim.net/topic/31902-vatsim-discord-invites-not-working/?do=findComment&comment=182130)
@@ -64,7 +65,6 @@
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=182126)
 - [Cross The Pond: Eastbound 2021](https://forums.vatsim.net/topic/31900-cross-the-pond-eastbound-2021/?do=findComment&comment=182125)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182124)
-- [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=182123)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
