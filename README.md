@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182145)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182144)
 - [Xpilot unable to connect to xplane please make sure x plane is running](https://forums.vatsim.net/topic/26949-xpilot-unable-to-connect-to-xplane-please-make-sure-x-plane-is-running/?do=findComment&comment=182143)
 - [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182142)
@@ -64,7 +65,6 @@
 - [Globe Cargo Virtual - Pilot Applications now OPEN](https://forums.vatsim.net/topic/31905-globe-cargo-virtual-pilot-applications-now-open/?do=findComment&comment=182138)
 - [VATSIM ID verification in vRoute](https://forums.vatsim.net/topic/31904-vatsim-id-verification-in-vroute/?do=findComment&comment=182137)
 - [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182136)
-- [VATSIM ID verification in vRoute](https://forums.vatsim.net/topic/31904-vatsim-id-verification-in-vroute/?do=findComment&comment=182135)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
