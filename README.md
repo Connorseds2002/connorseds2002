@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pls change my Division to VATWA](https://forums.vatsim.net/topic/31906-pls-change-my-division-to-vatwa/?do=findComment&comment=182150)
+- [Pls change my Division to VATWA](https://forums.vatsim.net/topic/31906-pls-change-my-division-to-vatwa/?do=findComment&comment=182149)
+- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182148)
+- [please change my division](https://forums.vatsim.net/topic/16492-please-change-my-division/?do=findComment&comment=182147)
+- [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182146)
 - [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182145)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182144)
 - [Xpilot unable to connect to xplane please make sure x plane is running](https://forums.vatsim.net/topic/26949-xpilot-unable-to-connect-to-xplane-please-make-sure-x-plane-is-running/?do=findComment&comment=182143)
 - [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182142)
 - [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182141)
-- [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182140)
-- [Exciting Reeve Airline Service That Can Get You Drolling](https://forums.vatsim.net/topic/31620-exciting-reeve-airline-service-that-can-get-you-drolling/?do=findComment&comment=182139)
-- [Globe Cargo Virtual - Pilot Applications now OPEN](https://forums.vatsim.net/topic/31905-globe-cargo-virtual-pilot-applications-now-open/?do=findComment&comment=182138)
-- [VATSIM ID verification in vRoute](https://forums.vatsim.net/topic/31904-vatsim-id-verification-in-vroute/?do=findComment&comment=182137)
-- [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182136)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
