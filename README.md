@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182152)
 - [[11th Sep 2021, 1200-1500Z] The Golden Route - Taiwan and Hong Kong](https://forums.vatsim.net/topic/31907-11th-sep-2021-1200-1500z-the-golden-route-taiwan-and-hong-kong/?do=findComment&comment=182151)
 - [Pls change my Division to VATWA](https://forums.vatsim.net/topic/31906-pls-change-my-division-to-vatwa/?do=findComment&comment=182150)
 - [Pls change my Division to VATWA](https://forums.vatsim.net/topic/31906-pls-change-my-division-to-vatwa/?do=findComment&comment=182149)
@@ -64,7 +65,6 @@
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182144)
 - [Xpilot unable to connect to xplane please make sure x plane is running](https://forums.vatsim.net/topic/26949-xpilot-unable-to-connect-to-xplane-please-make-sure-x-plane-is-running/?do=findComment&comment=182143)
 - [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182142)
-- [FG-1D Corsair - No Transponder?](https://forums.vatsim.net/topic/31903-fg-1d-corsair-no-transponder/?do=findComment&comment=182141)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
