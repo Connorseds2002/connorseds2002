@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182163)
+- [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182162)
+- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182161)
 - [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182160)
 - [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182159)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182158)
@@ -62,9 +65,6 @@
 - [Pilot Rating Transfer](https://forums.vatsim.net/topic/30737-pilot-rating-transfer/?do=findComment&comment=182156)
 - [VFRONTIER Launch Event](https://forums.vatsim.net/topic/31909-vfrontier-launch-event/?do=findComment&comment=182155)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182154)
-- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182153)
-- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182152)
-- [[11th Sep 2021, 1200-1500Z] The Golden Route - Taiwan and Hong Kong](https://forums.vatsim.net/topic/31907-11th-sep-2021-1200-1500z-the-golden-route-taiwan-and-hong-kong/?do=findComment&comment=182151)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
