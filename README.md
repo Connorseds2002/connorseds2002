@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182166)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182165)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182164)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182163)
@@ -64,7 +65,6 @@
 - [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182159)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182158)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182157)
-- [Pilot Rating Transfer](https://forums.vatsim.net/topic/30737-pilot-rating-transfer/?do=findComment&comment=182156)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
