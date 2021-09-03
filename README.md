@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182176)
+- [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182175)
+- [[19th September 2021 - 13z to 15z] Tan Son Nhat Terminal VVTS_APP, S3 CPT](https://forums.vatsim.net/topic/31912-19th-september-2021-13z-to-15z-tan-son-nhat-terminal-vvts_app-s3-cpt/?do=findComment&comment=182174)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182173)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182172)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182166)
@@ -62,9 +65,6 @@
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182164)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182163)
 - [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182162)
-- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182161)
-- [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182160)
-- [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182159)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
