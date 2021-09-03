@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182157)
 - [Pilot Rating Transfer](https://forums.vatsim.net/topic/30737-pilot-rating-transfer/?do=findComment&comment=182156)
 - [VFRONTIER Launch Event](https://forums.vatsim.net/topic/31909-vfrontier-launch-event/?do=findComment&comment=182155)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182154)
@@ -64,7 +65,6 @@
 - [Pls change my Division to VATWA](https://forums.vatsim.net/topic/31906-pls-change-my-division-to-vatwa/?do=findComment&comment=182150)
 - [Pls change my Division to VATWA](https://forums.vatsim.net/topic/31906-pls-change-my-division-to-vatwa/?do=findComment&comment=182149)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182148)
-- [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182146)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
