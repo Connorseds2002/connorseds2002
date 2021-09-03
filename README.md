@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182159)
+- [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182158)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182157)
 - [Pilot Rating Transfer](https://forums.vatsim.net/topic/30737-pilot-rating-transfer/?do=findComment&comment=182156)
 - [VFRONTIER Launch Event](https://forums.vatsim.net/topic/31909-vfrontier-launch-event/?do=findComment&comment=182155)
@@ -63,8 +65,6 @@
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182152)
 - [[11th Sep 2021, 1200-1500Z] The Golden Route - Taiwan and Hong Kong](https://forums.vatsim.net/topic/31907-11th-sep-2021-1200-1500z-the-golden-route-taiwan-and-hong-kong/?do=findComment&comment=182151)
 - [Pls change my Division to VATWA](https://forums.vatsim.net/topic/31906-pls-change-my-division-to-vatwa/?do=findComment&comment=182150)
-- [Pls change my Division to VATWA](https://forums.vatsim.net/topic/31906-pls-change-my-division-to-vatwa/?do=findComment&comment=182149)
-- [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182148)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
