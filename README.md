@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Canadian Xpress September 2021 Monthly Challenge: Scenic Approaches XI - Dubai](https://forums.vatsim.net/topic/31913-canadian-xpress-september-2021-monthly-challenge-scenic-approaches-xi-dubai/?do=findComment&comment=182177)
 - [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182176)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182175)
 - [[19th September 2021 - 13z to 15z] Tan Son Nhat Terminal VVTS_APP, S3 CPT](https://forums.vatsim.net/topic/31912-19th-september-2021-13z-to-15z-tan-son-nhat-terminal-vvts_app-s3-cpt/?do=findComment&comment=182174)
@@ -64,7 +65,6 @@
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182165)
 - [Cross the Arctic, September 4th](https://forums.vatsim.net/topic/31899-cross-the-arctic-september-4th/?do=findComment&comment=182164)
 - [2 x VPilot Remotes](https://forums.vatsim.net/topic/31894-2-x-vpilot-remotes/?do=findComment&comment=182163)
-- [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182162)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
