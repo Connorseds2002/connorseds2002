@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [List of options and commands for acars?](https://forums.vatsim.net/topic/31915-list-of-options-and-commands-for-acars/?do=findComment&comment=182181)
+- [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182180)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182179)
 - [Push-to-talk not working with all keys](https://forums.vatsim.net/topic/31914-push-to-talk-not-working-with-all-keys/?do=findComment&comment=182178)
 - [Canadian Xpress September 2021 Monthly Challenge: Scenic Approaches XI - Dubai](https://forums.vatsim.net/topic/31913-canadian-xpress-september-2021-monthly-challenge-scenic-approaches-xi-dubai/?do=findComment&comment=182177)
@@ -63,8 +65,6 @@
 - [[19th September 2021 - 13z to 15z] Tan Son Nhat Terminal VVTS_APP, S3 CPT](https://forums.vatsim.net/topic/31912-19th-september-2021-13z-to-15z-tan-son-nhat-terminal-vvts_app-s3-cpt/?do=findComment&comment=182174)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182173)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182172)
-- [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182166)
-- [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182165)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
