@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182189)
+- [[CLOSED] ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-closed-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=182188)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182187)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182186)
 - [New Member Orientation Course](https://forums.vatsim.net/topic/31916-new-member-orientation-course/?do=findComment&comment=182185)
@@ -63,8 +65,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182182)
 - [List of options and commands for acars?](https://forums.vatsim.net/topic/31915-list-of-options-and-commands-for-acars/?do=findComment&comment=182181)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182180)
-- [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182179)
-- [Push-to-talk not working with all keys](https://forums.vatsim.net/topic/31914-push-to-talk-not-working-with-all-keys/?do=findComment&comment=182178)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
