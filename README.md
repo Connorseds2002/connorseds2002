@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Tutorial xPilot BlueBell CSL](https://forums.vatsim.net/topic/26996-tutorial-xpilot-bluebell-csl/?do=findComment&comment=182192)
 - [Traffic Nameplates](https://forums.vatsim.net/topic/31917-traffic-nameplates/?do=findComment&comment=182191)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182190)
 - [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182189)
@@ -64,7 +65,6 @@
 - [New Member Orientation Course](https://forums.vatsim.net/topic/31916-new-member-orientation-course/?do=findComment&comment=182185)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182184)
 - [New Member Orientation Course](https://forums.vatsim.net/topic/31916-new-member-orientation-course/?do=findComment&comment=182183)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182182)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
