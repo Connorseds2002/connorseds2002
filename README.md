@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Member Orientation Course](https://forums.vatsim.net/topic/31916-new-member-orientation-course/?do=findComment&comment=182185)
+- [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182184)
 - [New Member Orientation Course](https://forums.vatsim.net/topic/31916-new-member-orientation-course/?do=findComment&comment=182183)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182182)
 - [List of options and commands for acars?](https://forums.vatsim.net/topic/31915-list-of-options-and-commands-for-acars/?do=findComment&comment=182181)
@@ -63,8 +65,6 @@
 - [Push-to-talk not working with all keys](https://forums.vatsim.net/topic/31914-push-to-talk-not-working-with-all-keys/?do=findComment&comment=182178)
 - [Canadian Xpress September 2021 Monthly Challenge: Scenic Approaches XI - Dubai](https://forums.vatsim.net/topic/31913-canadian-xpress-september-2021-monthly-challenge-scenic-approaches-xi-dubai/?do=findComment&comment=182177)
 - [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182176)
-- [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182175)
-- [[19th September 2021 - 13z to 15z] Tan Son Nhat Terminal VVTS_APP, S3 CPT](https://forums.vatsim.net/topic/31912-19th-september-2021-13z-to-15z-tan-son-nhat-terminal-vvts_app-s3-cpt/?do=findComment&comment=182174)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
