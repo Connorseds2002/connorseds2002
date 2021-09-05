@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182195)
 - [Silly Question : VATSIM ID Number](https://forums.vatsim.net/topic/31919-silly-question-vatsim-id-number/?do=findComment&comment=182194)
 - [FSX Audio Mutes](https://forums.vatsim.net/topic/31918-fsx-audio-mutes/?do=findComment&comment=182193)
 - [Tutorial xPilot BlueBell CSL](https://forums.vatsim.net/topic/26996-tutorial-xpilot-bluebell-csl/?do=findComment&comment=182192)
@@ -64,7 +65,6 @@
 - [[CLOSED] ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-closed-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=182188)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182187)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182186)
-- [New Member Orientation Course](https://forums.vatsim.net/topic/31916-new-member-orientation-course/?do=findComment&comment=182185)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
