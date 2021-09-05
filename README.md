@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182208)
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182207)
+- [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=182206)
 - [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182205)
 - [Silly Question : VATSIM ID Number](https://forums.vatsim.net/topic/31919-silly-question-vatsim-id-number/?do=findComment&comment=182204)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182203)
@@ -62,9 +65,6 @@
 - [ES - ATIS airport](https://forums.vatsim.net/topic/31920-es-atis-airport/?do=findComment&comment=182201)
 - [Silly Question : VATSIM ID Number](https://forums.vatsim.net/topic/31919-silly-question-vatsim-id-number/?do=findComment&comment=182200)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182199)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182198)
-- [[VACANCY] Bangladesh vACC Director ATC (ACCBGD2)](https://forums.vatsim.net/topic/31775-vacancy-bangladesh-vacc-director-atc-accbgd2/?do=findComment&comment=182197)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182196)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
