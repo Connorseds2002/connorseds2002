@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [List of options and commands for acars?](https://forums.vatsim.net/topic/31915-list-of-options-and-commands-for-acars/?do=findComment&comment=182209)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182208)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182207)
 - [Oceanic Clearances?](https://forums.vatsim.net/topic/31265-oceanic-clearances/?do=findComment&comment=182206)
@@ -64,7 +65,6 @@
 - [FSX Audio Mutes](https://forums.vatsim.net/topic/31918-fsx-audio-mutes/?do=findComment&comment=182202)
 - [ES - ATIS airport](https://forums.vatsim.net/topic/31920-es-atis-airport/?do=findComment&comment=182201)
 - [Silly Question : VATSIM ID Number](https://forums.vatsim.net/topic/31919-silly-question-vatsim-id-number/?do=findComment&comment=182200)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182199)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
