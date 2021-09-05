@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182198)
 - [[VACANCY] Bangladesh vACC Director ATC (ACCBGD2)](https://forums.vatsim.net/topic/31775-vacancy-bangladesh-vacc-director-atc-accbgd2/?do=findComment&comment=182197)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182196)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182195)
@@ -64,7 +65,6 @@
 - [Traffic Nameplates](https://forums.vatsim.net/topic/31917-traffic-nameplates/?do=findComment&comment=182191)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182190)
 - [Invalid protocol revision error on connection](https://forums.vatsim.net/topic/31901-invalid-protocol-revision-error-on-connection/?do=findComment&comment=182189)
-- [[CLOSED] ACCNPL5 - Nepal vACC Event and Marketing Director Vacancy](https://forums.vatsim.net/topic/31085-closed-accnpl5-nepal-vacc-event-and-marketing-director-vacancy/?do=findComment&comment=182188)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
