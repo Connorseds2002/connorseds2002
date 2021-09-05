@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ES - ATIS airport](https://forums.vatsim.net/topic/31920-es-atis-airport/?do=findComment&comment=182201)
+- [Silly Question : VATSIM ID Number](https://forums.vatsim.net/topic/31919-silly-question-vatsim-id-number/?do=findComment&comment=182200)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182199)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182198)
 - [[VACANCY] Bangladesh vACC Director ATC (ACCBGD2)](https://forums.vatsim.net/topic/31775-vacancy-bangladesh-vacc-director-atc-accbgd2/?do=findComment&comment=182197)
@@ -63,8 +65,6 @@
 - [Silly Question : VATSIM ID Number](https://forums.vatsim.net/topic/31919-silly-question-vatsim-id-number/?do=findComment&comment=182194)
 - [FSX Audio Mutes](https://forums.vatsim.net/topic/31918-fsx-audio-mutes/?do=findComment&comment=182193)
 - [Tutorial xPilot BlueBell CSL](https://forums.vatsim.net/topic/26996-tutorial-xpilot-bluebell-csl/?do=findComment&comment=182192)
-- [Traffic Nameplates](https://forums.vatsim.net/topic/31917-traffic-nameplates/?do=findComment&comment=182191)
-- [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182190)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
