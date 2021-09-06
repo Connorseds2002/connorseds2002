@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=182232)
 - [[ACCPAK1] Pakistan vACC Director Vacancy Announcement](https://forums.vatsim.net/topic/31842-accpak1-pakistan-vacc-director-vacancy-announcement/?do=findComment&comment=182231)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182230)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=182229)
@@ -64,7 +65,6 @@
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182225)
 - [FS2020 Oculus quest 2 Vpilot](https://forums.vatsim.net/topic/31926-fs2020-oculus-quest-2-vpilot/?do=findComment&comment=182224)
 - [audio réception émissions](https://forums.vatsim.net/topic/31925-audio-r%C3%A9ception-%C3%A9missions/?do=findComment&comment=182223)
-- [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182222)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
