@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ACCNPL5 - Nepal vACC Event & Marketing Director Appointed](https://forums.vatsim.net/topic/31921-accnpl5-nepal-vacc-event-marketing-director-appointed/?do=findComment&comment=182212)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182211)
 - [How to acknowledge controllers when operating station is separate from cockpit...........](https://forums.vatsim.net/topic/31891-how-to-acknowledge-controllers-when-operating-station-is-separate-from-cockpit/?do=findComment&comment=182210)
 - [List of options and commands for acars?](https://forums.vatsim.net/topic/31915-list-of-options-and-commands-for-acars/?do=findComment&comment=182209)
@@ -64,7 +65,6 @@
 - [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182205)
 - [Silly Question : VATSIM ID Number](https://forums.vatsim.net/topic/31919-silly-question-vatsim-id-number/?do=findComment&comment=182204)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182203)
-- [FSX Audio Mutes](https://forums.vatsim.net/topic/31918-fsx-audio-mutes/?do=findComment&comment=182202)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
