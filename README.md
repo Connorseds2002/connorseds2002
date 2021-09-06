@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Little Nav Map, ATC Confusion](https://forums.vatsim.net/topic/31924-little-nav-map-atc-confusion/?do=findComment&comment=182220)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=182219)
 - [Could not load the selected vatSys profile](https://forums.vatsim.net/topic/31922-could-not-load-the-selected-vatsys-profile/?do=findComment&comment=182218)
 - [[18th September DEP ATC 11z-13z, ARR ATC 14z-18z] Exports Run - VVTS -> VCBI](https://forums.vatsim.net/topic/31923-18th-september-dep-atc-11z-13z-arr-atc-14z-18z-exports-run-vvts-vcbi/?do=findComment&comment=182217)
@@ -64,7 +65,6 @@
 - [Silly Question : VATSIM ID Number](https://forums.vatsim.net/topic/31919-silly-question-vatsim-id-number/?do=findComment&comment=182213)
 - [ACCNPL5 - Nepal vACC Event & Marketing Director Appointed](https://forums.vatsim.net/topic/31921-accnpl5-nepal-vacc-event-marketing-director-appointed/?do=findComment&comment=182212)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182211)
-- [How to acknowledge controllers when operating station is separate from cockpit...........](https://forums.vatsim.net/topic/31891-how-to-acknowledge-controllers-when-operating-station-is-separate-from-cockpit/?do=findComment&comment=182210)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
