@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182226)
+- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182225)
 - [FS2020 Oculus quest 2 Vpilot](https://forums.vatsim.net/topic/31926-fs2020-oculus-quest-2-vpilot/?do=findComment&comment=182224)
 - [audio réception émissions](https://forums.vatsim.net/topic/31925-audio-r%C3%A9ception-%C3%A9missions/?do=findComment&comment=182223)
 - [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182222)
@@ -63,8 +65,6 @@
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=182219)
 - [Could not load the selected vatSys profile](https://forums.vatsim.net/topic/31922-could-not-load-the-selected-vatsys-profile/?do=findComment&comment=182218)
 - [[18th September DEP ATC 11z-13z, ARR ATC 14z-18z] Exports Run - VVTS -> VCBI](https://forums.vatsim.net/topic/31923-18th-september-dep-atc-11z-13z-arr-atc-14z-18z-exports-run-vvts-vcbi/?do=findComment&comment=182217)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182216)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182215)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
