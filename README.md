@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [audio réception émissions](https://forums.vatsim.net/topic/31925-audio-r%C3%A9ception-%C3%A9missions/?do=findComment&comment=182223)
 - [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182222)
 - [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182221)
 - [Little Nav Map, ATC Confusion](https://forums.vatsim.net/topic/31924-little-nav-map-atc-confusion/?do=findComment&comment=182220)
@@ -64,7 +65,6 @@
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182216)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=182215)
 - [Could not load the selected vatSys profile](https://forums.vatsim.net/topic/31922-could-not-load-the-selected-vatsys-profile/?do=findComment&comment=182214)
-- [Silly Question : VATSIM ID Number](https://forums.vatsim.net/topic/31919-silly-question-vatsim-id-number/?do=findComment&comment=182213)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
