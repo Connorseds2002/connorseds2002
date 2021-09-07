@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182245)
 - [Vpilot Unable To Find Default CRJ700](https://forums.vatsim.net/topic/31933-vpilot-unable-to-find-default-crj700/?do=findComment&comment=182243)
 - [Vpilot CID/Pwd issue](https://forums.vatsim.net/topic/31931-vpilot-cidpwd-issue/?do=findComment&comment=182242)
 - [Vpilot CID/Pwd issue](https://forums.vatsim.net/topic/31931-vpilot-cidpwd-issue/?do=findComment&comment=182240)
@@ -64,7 +65,6 @@
 - [Possible bug when exiting program](https://forums.vatsim.net/topic/31927-possible-bug-when-exiting-program/?do=findComment&comment=182236)
 - [MSFS2020 Issue with Flight Plans (Parking)](https://forums.vatsim.net/topic/31928-msfs2020-issue-with-flight-plans-parking/?do=findComment&comment=182235)
 - [Possible bug when exiting program](https://forums.vatsim.net/topic/31927-possible-bug-when-exiting-program/?do=findComment&comment=182234)
-- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=182233)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
