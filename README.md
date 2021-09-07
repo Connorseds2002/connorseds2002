@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot Unable To Find Default CRJ700](https://forums.vatsim.net/topic/31933-vpilot-unable-to-find-default-crj700/?do=findComment&comment=182243)
 - [Vpilot CID/Pwd issue](https://forums.vatsim.net/topic/31931-vpilot-cidpwd-issue/?do=findComment&comment=182242)
 - [Vpilot CID/Pwd issue](https://forums.vatsim.net/topic/31931-vpilot-cidpwd-issue/?do=findComment&comment=182240)
 - [FPA in Route Section](https://forums.vatsim.net/topic/31837-fpa-in-route-section/?do=findComment&comment=182239)
@@ -64,7 +65,6 @@
 - [MSFS2020 Issue with Flight Plans (Parking)](https://forums.vatsim.net/topic/31928-msfs2020-issue-with-flight-plans-parking/?do=findComment&comment=182235)
 - [Possible bug when exiting program](https://forums.vatsim.net/topic/31927-possible-bug-when-exiting-program/?do=findComment&comment=182234)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=182233)
-- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=182232)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
