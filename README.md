@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot CID/Pwd issue](https://forums.vatsim.net/topic/31931-vpilot-cidpwd-issue/?do=findComment&comment=182242)
 - [Vpilot CID/Pwd issue](https://forums.vatsim.net/topic/31931-vpilot-cidpwd-issue/?do=findComment&comment=182240)
 - [FPA in Route Section](https://forums.vatsim.net/topic/31837-fpa-in-route-section/?do=findComment&comment=182239)
 - [Position Vacancy - Deputy Director Special Operations](https://forums.vatsim.net/topic/31930-position-vacancy-deputy-director-special-operations/?do=findComment&comment=182238)
@@ -64,7 +65,6 @@
 - [Possible bug when exiting program](https://forums.vatsim.net/topic/31927-possible-bug-when-exiting-program/?do=findComment&comment=182234)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=182233)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=182232)
-- [[ACCPAK1] Pakistan vACC Director Vacancy Announcement](https://forums.vatsim.net/topic/31842-accpak1-pakistan-vacc-director-vacancy-announcement/?do=findComment&comment=182231)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
