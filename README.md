@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Position Vacancy - Deputy Director Special Operations](https://forums.vatsim.net/topic/31930-position-vacancy-deputy-director-special-operations/?do=findComment&comment=182238)
+- [Resignation Deputy Director Special Operations - Lee Roberts](https://forums.vatsim.net/topic/31929-resignation-deputy-director-special-operations-lee-roberts/?do=findComment&comment=182237)
 - [Possible bug when exiting program](https://forums.vatsim.net/topic/31927-possible-bug-when-exiting-program/?do=findComment&comment=182236)
 - [MSFS2020 Issue with Flight Plans (Parking)](https://forums.vatsim.net/topic/31928-msfs2020-issue-with-flight-plans-parking/?do=findComment&comment=182235)
 - [Possible bug when exiting program](https://forums.vatsim.net/topic/31927-possible-bug-when-exiting-program/?do=findComment&comment=182234)
@@ -63,8 +65,6 @@
 - [[ACCPAK1] Pakistan vACC Director Vacancy Announcement](https://forums.vatsim.net/topic/31842-accpak1-pakistan-vacc-director-vacancy-announcement/?do=findComment&comment=182231)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182230)
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=182229)
-- [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182228)
-- [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=182227)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
