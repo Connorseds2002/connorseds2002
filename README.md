@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot Unable To Find Default CRJ700](https://forums.vatsim.net/topic/31933-vpilot-unable-to-find-default-crj700/?do=findComment&comment=182253)
+- [Vpilot Unable To Find Default CRJ700](https://forums.vatsim.net/topic/31933-vpilot-unable-to-find-default-crj700/?do=findComment&comment=182252)
+- [Traffic Nameplates](https://forums.vatsim.net/topic/31917-traffic-nameplates/?do=findComment&comment=182251)
+- [Little Nav Map, ATC Confusion](https://forums.vatsim.net/topic/31924-little-nav-map-atc-confusion/?do=findComment&comment=182250)
 - [Confused about Flight plans...](https://forums.vatsim.net/topic/31908-confused-about-flight-plans/?do=findComment&comment=182249)
 - [Changed region by mistake](https://forums.vatsim.net/topic/31934-changed-region-by-mistake/?do=findComment&comment=182248)
 - [Vpilot Unable To Find Default CRJ700](https://forums.vatsim.net/topic/31933-vpilot-unable-to-find-default-crj700/?do=findComment&comment=182247)
 - [Little Nav Map, ATC Confusion](https://forums.vatsim.net/topic/31924-little-nav-map-atc-confusion/?do=findComment&comment=182246)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182245)
 - [Vpilot Unable To Find Default CRJ700](https://forums.vatsim.net/topic/31933-vpilot-unable-to-find-default-crj700/?do=findComment&comment=182243)
-- [Vpilot CID/Pwd issue](https://forums.vatsim.net/topic/31931-vpilot-cidpwd-issue/?do=findComment&comment=182242)
-- [Vpilot CID/Pwd issue](https://forums.vatsim.net/topic/31931-vpilot-cidpwd-issue/?do=findComment&comment=182240)
-- [FPA in Route Section](https://forums.vatsim.net/topic/31837-fpa-in-route-section/?do=findComment&comment=182239)
-- [Position Vacancy - Deputy Director Special Operations](https://forums.vatsim.net/topic/31930-position-vacancy-deputy-director-special-operations/?do=findComment&comment=182238)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
