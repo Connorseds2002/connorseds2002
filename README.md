@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182261)
 - [Flight plan won't save?  Read this!](https://forums.vatsim.net/topic/31937-flight-plan-wont-save-read-this/?do=findComment&comment=182260)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182259)
 - [Changed region by mistake](https://forums.vatsim.net/topic/31934-changed-region-by-mistake/?do=findComment&comment=182258)
@@ -64,7 +65,6 @@
 - [Vpilot Unable To Find Default CRJ700](https://forums.vatsim.net/topic/31933-vpilot-unable-to-find-default-crj700/?do=findComment&comment=182254)
 - [Vpilot Unable To Find Default CRJ700](https://forums.vatsim.net/topic/31933-vpilot-unable-to-find-default-crj700/?do=findComment&comment=182253)
 - [Vpilot Unable To Find Default CRJ700](https://forums.vatsim.net/topic/31933-vpilot-unable-to-find-default-crj700/?do=findComment&comment=182252)
-- [Traffic Nameplates](https://forums.vatsim.net/topic/31917-traffic-nameplates/?do=findComment&comment=182251)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
