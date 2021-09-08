@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182264)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182263)
 - [Old Discord account linked to community hub](https://forums.vatsim.net/topic/31938-old-discord-account-linked-to-community-hub/?do=findComment&comment=182262)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182261)
@@ -64,7 +65,6 @@
 - [One year membership "badges"](https://forums.vatsim.net/topic/31935-one-year-membership-badges/?do=findComment&comment=182257)
 - [One year membership "badges"](https://forums.vatsim.net/topic/31936-one-year-membership-badges/?do=findComment&comment=182256)
 - [One year membership "badges"](https://forums.vatsim.net/topic/31935-one-year-membership-badges/?do=findComment&comment=182255)
-- [Vpilot Unable To Find Default CRJ700](https://forums.vatsim.net/topic/31933-vpilot-unable-to-find-default-crj700/?do=findComment&comment=182254)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
