@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [cannot activate gl rendoring context](https://forums.vatsim.net/topic/31940-cannot-activate-gl-rendoring-context/?do=findComment&comment=182272)
+- [Invalid CID/Password](https://forums.vatsim.net/topic/31939-invalid-cidpassword/?do=findComment&comment=182271)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/31939-invalid-cidpassword/?do=findComment&comment=182270)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/31939-invalid-cidpassword/?do=findComment&comment=182269)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182268)
@@ -63,8 +65,6 @@
 - [Virtual Landline Software Development](https://forums.vatsim.net/topic/31317-virtual-landline-software-development/?do=findComment&comment=182265)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182264)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182263)
-- [Old Discord account linked to community hub](https://forums.vatsim.net/topic/31938-old-discord-account-linked-to-community-hub/?do=findComment&comment=182262)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182261)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
