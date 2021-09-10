@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Hi,  new here](https://forums.vatsim.net/topic/31942-hi-new-here/?do=findComment&comment=182281)
+- [Am I In or Out?](https://forums.vatsim.net/topic/31943-am-i-in-or-out/?do=findComment&comment=182280)
+- [Am I In or Out?](https://forums.vatsim.net/topic/31943-am-i-in-or-out/?do=findComment&comment=182279)
 - [Hi,  new here](https://forums.vatsim.net/topic/31942-hi-new-here/?do=findComment&comment=182278)
 - [One year membership "badges"](https://forums.vatsim.net/topic/31935-one-year-membership-badges/?do=findComment&comment=182277)
 - [cannot activate gl rendoring context](https://forums.vatsim.net/topic/31940-cannot-activate-gl-rendoring-context/?do=findComment&comment=182274)
@@ -62,9 +65,6 @@
 - [cannot activate gl rendoring context](https://forums.vatsim.net/topic/31940-cannot-activate-gl-rendoring-context/?do=findComment&comment=182272)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/31939-invalid-cidpassword/?do=findComment&comment=182271)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/31939-invalid-cidpassword/?do=findComment&comment=182270)
-- [Invalid CID/Password](https://forums.vatsim.net/topic/31939-invalid-cidpassword/?do=findComment&comment=182269)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182268)
-- [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182267)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
