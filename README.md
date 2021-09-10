@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Hi,  new here](https://forums.vatsim.net/topic/31942-hi-new-here/?do=findComment&comment=182278)
 - [One year membership "badges"](https://forums.vatsim.net/topic/31935-one-year-membership-badges/?do=findComment&comment=182277)
 - [cannot activate gl rendoring context](https://forums.vatsim.net/topic/31940-cannot-activate-gl-rendoring-context/?do=findComment&comment=182274)
 - [[September 10th, 00:00z-02:00z] ¡Viernes Nacional!](https://forums.vatsim.net/topic/31941-september-10th-0000z-0200z-%C2%A1viernes-nacional/?do=findComment&comment=182273)
@@ -64,7 +65,6 @@
 - [Invalid CID/Password](https://forums.vatsim.net/topic/31939-invalid-cidpassword/?do=findComment&comment=182269)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182268)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182267)
-- [FPS in MSFS 2020 drops drastically with vPilot/VATSIM active...](https://forums.vatsim.net/topic/31896-fps-in-msfs-2020-drops-drastically-with-vpilotvatsim-active/?do=findComment&comment=182266)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
