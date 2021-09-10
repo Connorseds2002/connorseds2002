@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Am I In or Out?](https://forums.vatsim.net/topic/31943-am-i-in-or-out/?do=findComment&comment=182283)
 - [Restricted callsigns question.](https://forums.vatsim.net/topic/24196-restricted-callsigns-question/?do=findComment&comment=182282)
 - [Hi,  new here](https://forums.vatsim.net/topic/31942-hi-new-here/?do=findComment&comment=182281)
 - [Am I In or Out?](https://forums.vatsim.net/topic/31943-am-i-in-or-out/?do=findComment&comment=182280)
@@ -64,7 +65,6 @@
 - [cannot activate gl rendoring context](https://forums.vatsim.net/topic/31940-cannot-activate-gl-rendoring-context/?do=findComment&comment=182274)
 - [[September 10th, 00:00z-02:00z] ¡Viernes Nacional!](https://forums.vatsim.net/topic/31941-september-10th-0000z-0200z-%C2%A1viernes-nacional/?do=findComment&comment=182273)
 - [cannot activate gl rendoring context](https://forums.vatsim.net/topic/31940-cannot-activate-gl-rendoring-context/?do=findComment&comment=182272)
-- [Invalid CID/Password](https://forums.vatsim.net/topic/31939-invalid-cidpassword/?do=findComment&comment=182271)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
