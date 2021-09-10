@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=182285)
+- [Mcnallys flying club](https://forums.vatsim.net/topic/31814-mcnallys-flying-club/?do=findComment&comment=182284)
 - [Am I In or Out?](https://forums.vatsim.net/topic/31943-am-i-in-or-out/?do=findComment&comment=182283)
 - [Restricted callsigns question.](https://forums.vatsim.net/topic/24196-restricted-callsigns-question/?do=findComment&comment=182282)
 - [Hi,  new here](https://forums.vatsim.net/topic/31942-hi-new-here/?do=findComment&comment=182281)
@@ -63,8 +65,6 @@
 - [Hi,  new here](https://forums.vatsim.net/topic/31942-hi-new-here/?do=findComment&comment=182278)
 - [One year membership "badges"](https://forums.vatsim.net/topic/31935-one-year-membership-badges/?do=findComment&comment=182277)
 - [cannot activate gl rendoring context](https://forums.vatsim.net/topic/31940-cannot-activate-gl-rendoring-context/?do=findComment&comment=182274)
-- [[September 10th, 00:00z-02:00z] ¡Viernes Nacional!](https://forums.vatsim.net/topic/31941-september-10th-0000z-0200z-%C2%A1viernes-nacional/?do=findComment&comment=182273)
-- [cannot activate gl rendoring context](https://forums.vatsim.net/topic/31940-cannot-activate-gl-rendoring-context/?do=findComment&comment=182272)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
