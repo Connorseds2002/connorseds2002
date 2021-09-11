@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182304)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182303)
 - [Q about the vPilot red text warning with MFS](https://forums.vatsim.net/topic/31948-q-about-the-vpilot-red-text-warning-with-mfs/?do=findComment&comment=182302)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182301)
@@ -64,7 +65,6 @@
 - [Duplicate tags TopSky + vSMR](https://forums.vatsim.net/topic/31947-duplicate-tags-topsky-vsmr/?do=findComment&comment=182297)
 - [Hello my account was disabled but i don't know why](https://forums.vatsim.net/topic/31944-hello-my-account-was-disabled-but-i-dont-know-why/?do=findComment&comment=182296)
 - [VATSIM server connection details?](https://forums.vatsim.net/topic/31946-vatsim-server-connection-details/?do=findComment&comment=182295)
-- [Hello my account was disabled but i don't know why](https://forums.vatsim.net/topic/31944-hello-my-account-was-disabled-but-i-dont-know-why/?do=findComment&comment=182294)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
