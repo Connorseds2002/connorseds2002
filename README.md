@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Am I In or Out?](https://forums.vatsim.net/topic/31943-am-i-in-or-out/?do=findComment&comment=182291)
+- [Hello my account was disabled but i don't know why](https://forums.vatsim.net/topic/31944-hello-my-account-was-disabled-but-i-dont-know-why/?do=findComment&comment=182290)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182289)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182288)
 - [Restricted callsigns question.](https://forums.vatsim.net/topic/24196-restricted-callsigns-question/?do=findComment&comment=182287)
@@ -63,8 +65,6 @@
 - [Mcnallys flying club](https://forums.vatsim.net/topic/31814-mcnallys-flying-club/?do=findComment&comment=182284)
 - [Am I In or Out?](https://forums.vatsim.net/topic/31943-am-i-in-or-out/?do=findComment&comment=182283)
 - [Restricted callsigns question.](https://forums.vatsim.net/topic/24196-restricted-callsigns-question/?do=findComment&comment=182282)
-- [Hi,  new here](https://forums.vatsim.net/topic/31942-hi-new-here/?do=findComment&comment=182281)
-- [Am I In or Out?](https://forums.vatsim.net/topic/31943-am-i-in-or-out/?do=findComment&comment=182280)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
