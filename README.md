@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Runway Exits Builder](https://forums.vatsim.net/topic/31945-runway-exits-builder/?do=findComment&comment=182292)
 - [Am I In or Out?](https://forums.vatsim.net/topic/31943-am-i-in-or-out/?do=findComment&comment=182291)
 - [Hello my account was disabled but i don't know why](https://forums.vatsim.net/topic/31944-hello-my-account-was-disabled-but-i-dont-know-why/?do=findComment&comment=182290)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182289)
@@ -64,7 +65,6 @@
 - [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=182285)
 - [Mcnallys flying club](https://forums.vatsim.net/topic/31814-mcnallys-flying-club/?do=findComment&comment=182284)
 - [Am I In or Out?](https://forums.vatsim.net/topic/31943-am-i-in-or-out/?do=findComment&comment=182283)
-- [Restricted callsigns question.](https://forums.vatsim.net/topic/24196-restricted-callsigns-question/?do=findComment&comment=182282)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
