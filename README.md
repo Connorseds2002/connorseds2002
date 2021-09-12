@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Mcnallys flying club](https://forums.vatsim.net/topic/31814-mcnallys-flying-club/?do=findComment&comment=182310)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182309)
 - [Duplicate tags TopSky + vSMR](https://forums.vatsim.net/topic/31947-duplicate-tags-topsky-vsmr/?do=findComment&comment=182308)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182307)
@@ -64,7 +65,6 @@
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182303)
 - [Q about the vPilot red text warning with MFS](https://forums.vatsim.net/topic/31948-q-about-the-vpilot-red-text-warning-with-mfs/?do=findComment&comment=182302)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182301)
-- [Q about the vPilot red text warning with MFS](https://forums.vatsim.net/topic/31948-q-about-the-vpilot-red-text-warning-with-mfs/?do=findComment&comment=182300)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
