@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Resignation - vACC Director, Spain](https://forums.vatsim.net/topic/31949-resignation-vacc-director-spain/?do=findComment&comment=182313)
 - [Unable to create files after r29](https://forums.vatsim.net/topic/31293-unable-to-create-files-after-r29/?do=findComment&comment=182312)
 - [Problem to download sector file](https://forums.vatsim.net/topic/31153-problem-to-download-sector-file/?do=findComment&comment=182311)
 - [Mcnallys flying club](https://forums.vatsim.net/topic/31814-mcnallys-flying-club/?do=findComment&comment=182310)
@@ -64,7 +65,6 @@
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182306)
 - [Little Nav Map, ATC Confusion](https://forums.vatsim.net/topic/31924-little-nav-map-atc-confusion/?do=findComment&comment=182305)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182304)
-- [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182303)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
