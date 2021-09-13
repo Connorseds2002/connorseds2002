@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Agradecimiento Luis Donoso, Sebastian Pizarro y Luis Alvarado](https://forums.vatsim.net/topic/31952-agradecimiento-luis-donoso-sebastian-pizarro-y-luis-alvarado/?do=findComment&comment=182317)
+- [Vacante Director de Subdivision vACC Chile](https://forums.vatsim.net/topic/31951-vacante-director-de-subdivision-vacc-chile/?do=findComment&comment=182316)
 - [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182315)
 - [Resignation - vACC Director, Spain](https://forums.vatsim.net/topic/31949-resignation-vacc-director-spain/?do=findComment&comment=182313)
 - [Unable to create files after r29](https://forums.vatsim.net/topic/31293-unable-to-create-files-after-r29/?do=findComment&comment=182312)
@@ -63,8 +65,6 @@
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182309)
 - [Duplicate tags TopSky + vSMR](https://forums.vatsim.net/topic/31947-duplicate-tags-topsky-vsmr/?do=findComment&comment=182308)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=182307)
-- [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182306)
-- [Little Nav Map, ATC Confusion](https://forums.vatsim.net/topic/31924-little-nav-map-atc-confusion/?do=findComment&comment=182305)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
