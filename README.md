@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New VA alert Soar Air Virtual](https://forums.vatsim.net/topic/31958-new-va-alert-soar-air-virtual/?do=findComment&comment=182328)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182327)
 - [Changes at the top](https://forums.vatsim.net/topic/31957-changes-at-the-top/?do=findComment&comment=182326)
 - [Incorrect discord account](https://forums.vatsim.net/topic/31956-incorrect-discord-account/?do=findComment&comment=182325)
@@ -64,7 +65,6 @@
 - [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=182321)
 - [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182320)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=182319)
-- [SweatBox error 10061](https://forums.vatsim.net/topic/31953-sweatbox-error-10061/?do=findComment&comment=182318)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
