@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Discution between Pilots](https://forums.vatsim.net/topic/31960-discution-between-pilots/?do=findComment&comment=182339)
+- [Tunisia online!](https://forums.vatsim.net/topic/31292-tunisia-online/?do=findComment&comment=182338)
+- [Discution between Pilots](https://forums.vatsim.net/topic/31960-discution-between-pilots/?do=findComment&comment=182337)
+- [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182336)
 - [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182335)
 - [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182334)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=182333)
 - [Establishment of Bangladesh vACC (ACCBGD) & Appointment of Director vACC Bangladesh (ACCBGD1)](https://forums.vatsim.net/topic/31767-establishment-of-bangladesh-vacc-accbgd-appointment-of-director-vacc-bangladesh-accbgd1/?do=findComment&comment=182332)
 - [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182331)
 - [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182330)
-- [New VA alert Soar Air Virtual](https://forums.vatsim.net/topic/31958-new-va-alert-soar-air-virtual/?do=findComment&comment=182328)
-- [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182327)
-- [Changes at the top](https://forums.vatsim.net/topic/31957-changes-at-the-top/?do=findComment&comment=182326)
-- [Incorrect discord account](https://forums.vatsim.net/topic/31956-incorrect-discord-account/?do=findComment&comment=182325)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
