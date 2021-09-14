@@ -55,7 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=182329)
+- [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182330)
 - [New VA alert Soar Air Virtual](https://forums.vatsim.net/topic/31958-new-va-alert-soar-air-virtual/?do=findComment&comment=182328)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182327)
 - [Changes at the top](https://forums.vatsim.net/topic/31957-changes-at-the-top/?do=findComment&comment=182326)
