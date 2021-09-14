@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182361)
+- [Text box disappears](https://forums.vatsim.net/topic/31965-text-box-disappears/?do=findComment&comment=182360)
+- [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182359)
+- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182358)
+- [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182357)
 - [Resignation - vACC Director, Spain](https://forums.vatsim.net/topic/31949-resignation-vacc-director-spain/?do=findComment&comment=182356)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182355)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182354)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182353)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182352)
-- [VATSIM CTL - MENA HitSquad Applications](https://forums.vatsim.net/topic/31962-vatsim-ctl-mena-hitsquad-applications/?do=findComment&comment=182351)
-- [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182350)
-- [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182349)
-- [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182348)
-- [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182347)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
