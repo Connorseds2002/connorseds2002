@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [First Timer](https://forums.vatsim.net/topic/31966-first-timer/?do=findComment&comment=182369)
+- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182367)
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182366)
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182365)
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182364)
@@ -63,8 +65,6 @@
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182361)
 - [Text box disappears](https://forums.vatsim.net/topic/31965-text-box-disappears/?do=findComment&comment=182360)
 - [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182359)
-- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182358)
-- [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182357)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
