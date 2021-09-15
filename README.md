@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182376)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=182375)
 - [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182374)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=182373)
 - [First Timer](https://forums.vatsim.net/topic/31966-first-timer/?do=findComment&comment=182372)
@@ -63,8 +65,6 @@
 - [First Timer](https://forums.vatsim.net/topic/31966-first-timer/?do=findComment&comment=182369)
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182367)
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182366)
-- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182365)
-- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182364)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
