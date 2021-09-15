@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Question bout reading back IFR flight numbers](https://forums.vatsim.net/topic/31970-question-bout-reading-back-ifr-flight-numbers/?do=findComment&comment=182390)
+- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182389)
 - [feature request](https://forums.vatsim.net/topic/31967-feature-request/?do=findComment&comment=182388)
 - [No aircraft labels in Swift+X-Plane+VR](https://forums.vatsim.net/topic/31969-no-aircraft-labels-in-swiftx-planevr/?do=findComment&comment=182387)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182386)
@@ -63,8 +65,6 @@
 - [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182383)
 - [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182382)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182381)
-- [Vatsim Maneger Help](https://forums.vatsim.net/topic/31968-vatsim-maneger-help/?do=findComment&comment=182380)
-- [Vatsim Maneger Help](https://forums.vatsim.net/topic/31968-vatsim-maneger-help/?do=findComment&comment=182379)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
