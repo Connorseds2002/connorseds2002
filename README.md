@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [feature request](https://forums.vatsim.net/topic/31967-feature-request/?do=findComment&comment=182388)
 - [No aircraft labels in Swift+X-Plane+VR](https://forums.vatsim.net/topic/31969-no-aircraft-labels-in-swiftx-planevr/?do=findComment&comment=182387)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182386)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182385)
@@ -64,7 +65,6 @@
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182381)
 - [Vatsim Maneger Help](https://forums.vatsim.net/topic/31968-vatsim-maneger-help/?do=findComment&comment=182380)
 - [Vatsim Maneger Help](https://forums.vatsim.net/topic/31968-vatsim-maneger-help/?do=findComment&comment=182379)
-- [feature request](https://forums.vatsim.net/topic/31967-feature-request/?do=findComment&comment=182378)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
