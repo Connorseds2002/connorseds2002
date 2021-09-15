@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182400)
+- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182399)
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182398)
 - [In house one-stop model matching?](https://forums.vatsim.net/topic/31971-in-house-one-stop-model-matching/?do=findComment&comment=182397)
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182396)
@@ -63,8 +65,6 @@
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182393)
 - [Question bout reading back IFR flight numbers](https://forums.vatsim.net/topic/31970-question-bout-reading-back-ifr-flight-numbers/?do=findComment&comment=182390)
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182389)
-- [feature request](https://forums.vatsim.net/topic/31967-feature-request/?do=findComment&comment=182388)
-- [No aircraft labels in Swift+X-Plane+VR](https://forums.vatsim.net/topic/31969-no-aircraft-labels-in-swiftx-planevr/?do=findComment&comment=182387)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
