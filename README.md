@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Question bout reading back IFR flight numbers](https://forums.vatsim.net/topic/31970-question-bout-reading-back-ifr-flight-numbers/?do=findComment&comment=182395)
+- [Question bout reading back IFR flight numbers](https://forums.vatsim.net/topic/31970-question-bout-reading-back-ifr-flight-numbers/?do=findComment&comment=182394)
+- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182393)
 - [Question bout reading back IFR flight numbers](https://forums.vatsim.net/topic/31970-question-bout-reading-back-ifr-flight-numbers/?do=findComment&comment=182390)
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182389)
 - [feature request](https://forums.vatsim.net/topic/31967-feature-request/?do=findComment&comment=182388)
@@ -62,9 +65,6 @@
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182386)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182385)
 - [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182384)
-- [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182383)
-- [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182382)
-- [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182381)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
