@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182381)
 - [Vatsim Maneger Help](https://forums.vatsim.net/topic/31968-vatsim-maneger-help/?do=findComment&comment=182380)
 - [Vatsim Maneger Help](https://forums.vatsim.net/topic/31968-vatsim-maneger-help/?do=findComment&comment=182379)
 - [feature request](https://forums.vatsim.net/topic/31967-feature-request/?do=findComment&comment=182378)
@@ -64,7 +65,6 @@
 - [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182374)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=182373)
 - [First Timer](https://forums.vatsim.net/topic/31966-first-timer/?do=findComment&comment=182372)
-- [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182371)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
