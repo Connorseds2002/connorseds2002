@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [In house one-stop model matching?](https://forums.vatsim.net/topic/31971-in-house-one-stop-model-matching/?do=findComment&comment=182411)
+- [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182410)
 - [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182407)
 - [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182406)
 - [dark mode (feature request)](https://forums.vatsim.net/topic/31973-dark-mode-feature-request/?do=findComment&comment=182405)
@@ -63,8 +65,6 @@
 - [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182402)
 - [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=182401)
 - [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182400)
-- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182399)
-- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182398)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
