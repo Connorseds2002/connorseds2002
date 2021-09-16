@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Asking if this Feature would be possible... to save our hearing ability.](https://forums.vatsim.net/topic/31975-asking-if-this-feature-would-be-possible-to-save-our-hearing-ability/?do=findComment&comment=182419)
 - [dark mode (feature request)](https://forums.vatsim.net/topic/31973-dark-mode-feature-request/?do=findComment&comment=182418)
 - [Loading RNAV Approach into FSX GPS](https://forums.vatsim.net/topic/31974-loading-rnav-approach-into-fsx-gps/?do=findComment&comment=182417)
 - [Loading RNAV Approach into FSX GPS](https://forums.vatsim.net/topic/31974-loading-rnav-approach-into-fsx-gps/?do=findComment&comment=182416)
@@ -64,7 +65,6 @@
 - [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182412)
 - [In house one-stop model matching?](https://forums.vatsim.net/topic/31971-in-house-one-stop-model-matching/?do=findComment&comment=182411)
 - [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182410)
-- [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182407)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
