@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Question bout reading back IFR flight numbers](https://forums.vatsim.net/topic/31970-question-bout-reading-back-ifr-flight-numbers/?do=findComment&comment=182403)
 - [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182402)
 - [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=182401)
 - [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182400)
@@ -64,7 +65,6 @@
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182396)
 - [Question bout reading back IFR flight numbers](https://forums.vatsim.net/topic/31970-question-bout-reading-back-ifr-flight-numbers/?do=findComment&comment=182395)
 - [Question bout reading back IFR flight numbers](https://forums.vatsim.net/topic/31970-question-bout-reading-back-ifr-flight-numbers/?do=findComment&comment=182394)
-- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182393)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
