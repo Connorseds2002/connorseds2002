@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182412)
 - [In house one-stop model matching?](https://forums.vatsim.net/topic/31971-in-house-one-stop-model-matching/?do=findComment&comment=182411)
 - [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182410)
 - [Controller Info / ATIS Unavailable](https://forums.vatsim.net/topic/31959-controller-info-atis-unavailable/?do=findComment&comment=182407)
@@ -64,7 +65,6 @@
 - [Question bout reading back IFR flight numbers](https://forums.vatsim.net/topic/31970-question-bout-reading-back-ifr-flight-numbers/?do=findComment&comment=182403)
 - [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182402)
 - [Wrong answer in the New Member Orientation Test](https://forums.vatsim.net/topic/31813-wrong-answer-in-the-new-member-orientation-test/?do=findComment&comment=182401)
-- [Is the NATTrack webpage down?](https://forums.vatsim.net/topic/31972-is-the-nattrack-webpage-down/?do=findComment&comment=182400)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
