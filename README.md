@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SweatBox error 10061](https://forums.vatsim.net/topic/31953-sweatbox-error-10061/?do=findComment&comment=182438)
 - [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182436)
 - [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182435)
 - [SweatBox error 10061](https://forums.vatsim.net/topic/31953-sweatbox-error-10061/?do=findComment&comment=182434)
@@ -64,7 +65,6 @@
 - [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182430)
 - [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182429)
 - [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182428)
-- [SID/STAR requirements](https://forums.vatsim.net/topic/31979-sidstar-requirements/?do=findComment&comment=182427)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
