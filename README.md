@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Letter from VATSIM President Tim Barber](https://forums.vatsim.net/topic/31985-letter-from-vatsim-president-tim-barber/?do=findComment&comment=182446)
 - [MSFS2020 default model issue](https://forums.vatsim.net/topic/28774-msfs2020-default-model-issue/?do=findComment&comment=182445)
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182444)
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182443)
@@ -64,7 +65,6 @@
 - [[Sep 25] Canadian Xpress September 2021 Monthly Fly-In - One of our Favorites](https://forums.vatsim.net/topic/31983-sep-25-canadian-xpress-september-2021-monthly-fly-in-one-of-our-favorites/?do=findComment&comment=182439)
 - [SweatBox error 10061](https://forums.vatsim.net/topic/31953-sweatbox-error-10061/?do=findComment&comment=182438)
 - [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182436)
-- [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182435)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
