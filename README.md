@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182432)
+- [SID/STAR requirements](https://forums.vatsim.net/topic/31979-sidstar-requirements/?do=findComment&comment=182431)
+- [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182430)
 - [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182429)
 - [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182428)
 - [SID/STAR requirements](https://forums.vatsim.net/topic/31979-sidstar-requirements/?do=findComment&comment=182427)
@@ -62,9 +65,6 @@
 - [Agradecimiento Luis Donoso, Sebastian Pizarro y Luis Alvarado](https://forums.vatsim.net/topic/31952-agradecimiento-luis-donoso-sebastian-pizarro-y-luis-alvarado/?do=findComment&comment=182425)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182424)
 - [Adding Xpilot to Xplane that already has Pilot Edge in Plug In](https://forums.vatsim.net/topic/31978-adding-xpilot-to-xplane-that-already-has-pilot-edge-in-plug-in/?do=findComment&comment=182423)
-- [If I'm approaching a airport with no center or approach control or tower control do I contact ground or stay on unicom until i land?](https://forums.vatsim.net/topic/31656-if-im-approaching-a-airport-with-no-center-or-approach-control-or-tower-control-do-i-contact-ground-or-stay-on-unicom-until-i-land/?do=findComment&comment=182422)
-- [[VACANCY] vACC Director - Spain](https://forums.vatsim.net/topic/31977-vacancy-vacc-director-spain/?do=findComment&comment=182421)
-- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182420)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
