@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182449)
 - [Can't join Vatsim Discord Server](https://forums.vatsim.net/topic/31986-cant-join-vatsim-discord-server/?do=findComment&comment=182448)
 - [MSFS2020 default model issue](https://forums.vatsim.net/topic/28774-msfs2020-default-model-issue/?do=findComment&comment=182447)
 - [Letter from VATSIM President Tim Barber](https://forums.vatsim.net/topic/31985-letter-from-vatsim-president-tim-barber/?do=findComment&comment=182446)
@@ -64,7 +65,6 @@
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182442)
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182441)
 - [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182440)
-- [[Sep 25] Canadian Xpress September 2021 Monthly Fly-In - One of our Favorites](https://forums.vatsim.net/topic/31983-sep-25-canadian-xpress-september-2021-monthly-fly-in-one-of-our-favorites/?do=findComment&comment=182439)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
