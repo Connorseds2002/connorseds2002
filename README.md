@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS2020 default model issue](https://forums.vatsim.net/topic/28774-msfs2020-default-model-issue/?do=findComment&comment=182445)
+- [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182444)
+- [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182443)
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182442)
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182441)
 - [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182440)
@@ -62,9 +65,6 @@
 - [SweatBox error 10061](https://forums.vatsim.net/topic/31953-sweatbox-error-10061/?do=findComment&comment=182438)
 - [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182436)
 - [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182435)
-- [SweatBox error 10061](https://forums.vatsim.net/topic/31953-sweatbox-error-10061/?do=findComment&comment=182434)
-- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182433)
-- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182432)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
