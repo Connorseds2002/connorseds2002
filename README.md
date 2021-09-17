@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182428)
+- [SID/STAR requirements](https://forums.vatsim.net/topic/31979-sidstar-requirements/?do=findComment&comment=182427)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182426)
 - [Agradecimiento Luis Donoso, Sebastian Pizarro y Luis Alvarado](https://forums.vatsim.net/topic/31952-agradecimiento-luis-donoso-sebastian-pizarro-y-luis-alvarado/?do=findComment&comment=182425)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182424)
@@ -63,8 +65,6 @@
 - [[VACANCY] vACC Director - Spain](https://forums.vatsim.net/topic/31977-vacancy-vacc-director-spain/?do=findComment&comment=182421)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182420)
 - [Asking if this Feature would be possible... to save our hearing ability.](https://forums.vatsim.net/topic/31975-asking-if-this-feature-would-be-possible-to-save-our-hearing-ability/?do=findComment&comment=182419)
-- [dark mode (feature request)](https://forums.vatsim.net/topic/31973-dark-mode-feature-request/?do=findComment&comment=182418)
-- [Loading RNAV Approach into FSX GPS](https://forums.vatsim.net/topic/31974-loading-rnav-approach-into-fsx-gps/?do=findComment&comment=182417)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
