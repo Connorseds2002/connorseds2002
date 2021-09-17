@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182426)
+- [Agradecimiento Luis Donoso, Sebastian Pizarro y Luis Alvarado](https://forums.vatsim.net/topic/31952-agradecimiento-luis-donoso-sebastian-pizarro-y-luis-alvarado/?do=findComment&comment=182425)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182424)
 - [Adding Xpilot to Xplane that already has Pilot Edge in Plug In](https://forums.vatsim.net/topic/31978-adding-xpilot-to-xplane-that-already-has-pilot-edge-in-plug-in/?do=findComment&comment=182423)
 - [If I'm approaching a airport with no center or approach control or tower control do I contact ground or stay on unicom until i land?](https://forums.vatsim.net/topic/31656-if-im-approaching-a-airport-with-no-center-or-approach-control-or-tower-control-do-i-contact-ground-or-stay-on-unicom-until-i-land/?do=findComment&comment=182422)
@@ -63,8 +65,6 @@
 - [Asking if this Feature would be possible... to save our hearing ability.](https://forums.vatsim.net/topic/31975-asking-if-this-feature-would-be-possible-to-save-our-hearing-ability/?do=findComment&comment=182419)
 - [dark mode (feature request)](https://forums.vatsim.net/topic/31973-dark-mode-feature-request/?do=findComment&comment=182418)
 - [Loading RNAV Approach into FSX GPS](https://forums.vatsim.net/topic/31974-loading-rnav-approach-into-fsx-gps/?do=findComment&comment=182417)
-- [Loading RNAV Approach into FSX GPS](https://forums.vatsim.net/topic/31974-loading-rnav-approach-into-fsx-gps/?do=findComment&comment=182416)
-- [Old Discord account linked to community hub](https://forums.vatsim.net/topic/31938-old-discord-account-linked-to-community-hub/?do=findComment&comment=182415)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
