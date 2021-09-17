@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182440)
+- [[Sep 25] Canadian Xpress September 2021 Monthly Fly-In - One of our Favorites](https://forums.vatsim.net/topic/31983-sep-25-canadian-xpress-september-2021-monthly-fly-in-one-of-our-favorites/?do=findComment&comment=182439)
 - [SweatBox error 10061](https://forums.vatsim.net/topic/31953-sweatbox-error-10061/?do=findComment&comment=182438)
 - [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182436)
 - [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182435)
@@ -63,8 +65,6 @@
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182432)
 - [SID/STAR requirements](https://forums.vatsim.net/topic/31979-sidstar-requirements/?do=findComment&comment=182431)
 - [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182430)
-- [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182429)
-- [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182428)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
