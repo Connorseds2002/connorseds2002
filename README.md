@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182436)
+- [Date Joined](https://forums.vatsim.net/topic/31981-date-joined/?do=findComment&comment=182435)
 - [SweatBox error 10061](https://forums.vatsim.net/topic/31953-sweatbox-error-10061/?do=findComment&comment=182434)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182433)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182432)
@@ -63,8 +65,6 @@
 - [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182429)
 - [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182428)
 - [SID/STAR requirements](https://forums.vatsim.net/topic/31979-sidstar-requirements/?do=findComment&comment=182427)
-- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182426)
-- [Agradecimiento Luis Donoso, Sebastian Pizarro y Luis Alvarado](https://forums.vatsim.net/topic/31952-agradecimiento-luis-donoso-sebastian-pizarro-y-luis-alvarado/?do=findComment&comment=182425)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
