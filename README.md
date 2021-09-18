@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=182452)
+- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182451)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182450)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182449)
 - [Can't join Vatsim Discord Server](https://forums.vatsim.net/topic/31986-cant-join-vatsim-discord-server/?do=findComment&comment=182448)
@@ -63,8 +65,6 @@
 - [MSFS2020 default model issue](https://forums.vatsim.net/topic/28774-msfs2020-default-model-issue/?do=findComment&comment=182445)
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182444)
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182443)
-- [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182442)
-- [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182441)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
