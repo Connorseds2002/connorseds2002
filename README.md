@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATEUD ATC Training and membership Issue](https://forums.vatsim.net/topic/31988-vateud-atc-training-and-membership-issue/?do=findComment&comment=182457)
 - [John C Tune (KJWN)](https://forums.vatsim.net/topic/31987-john-c-tune-kjwn/?do=findComment&comment=182456)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=182455)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182454)
@@ -64,7 +65,6 @@
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182450)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182449)
 - [Can't join Vatsim Discord Server](https://forums.vatsim.net/topic/31986-cant-join-vatsim-discord-server/?do=findComment&comment=182448)
-- [MSFS2020 default model issue](https://forums.vatsim.net/topic/28774-msfs2020-default-model-issue/?do=findComment&comment=182447)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
