@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182450)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182449)
 - [Can't join Vatsim Discord Server](https://forums.vatsim.net/topic/31986-cant-join-vatsim-discord-server/?do=findComment&comment=182448)
 - [MSFS2020 default model issue](https://forums.vatsim.net/topic/28774-msfs2020-default-model-issue/?do=findComment&comment=182447)
@@ -64,7 +65,6 @@
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182443)
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182442)
 - [Display name change](https://forums.vatsim.net/topic/31984-display-name-change/?do=findComment&comment=182441)
-- [VPilot UnspecifiedError calling waveInOpen](https://forums.vatsim.net/topic/31980-vpilot-unspecifiederror-calling-waveinopen/?do=findComment&comment=182440)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
