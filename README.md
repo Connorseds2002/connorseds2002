@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [John C Tune (KJWN)](https://forums.vatsim.net/topic/31987-john-c-tune-kjwn/?do=findComment&comment=182456)
+- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=182455)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182454)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=182453)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=182452)
@@ -63,8 +65,6 @@
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182449)
 - [Can't join Vatsim Discord Server](https://forums.vatsim.net/topic/31986-cant-join-vatsim-discord-server/?do=findComment&comment=182448)
 - [MSFS2020 default model issue](https://forums.vatsim.net/topic/28774-msfs2020-default-model-issue/?do=findComment&comment=182447)
-- [Letter from VATSIM President Tim Barber](https://forums.vatsim.net/topic/31985-letter-from-vatsim-president-tim-barber/?do=findComment&comment=182446)
-- [MSFS2020 default model issue](https://forums.vatsim.net/topic/28774-msfs2020-default-model-issue/?do=findComment&comment=182445)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
