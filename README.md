@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182469)
 - [VATEUD ATC Training and membership Issue](https://forums.vatsim.net/topic/31988-vateud-atc-training-and-membership-issue/?do=findComment&comment=182468)
 - [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182467)
 - [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182462)
@@ -64,7 +65,6 @@
 - [P3D crash when using vPilot](https://forums.vatsim.net/topic/29006-p3d-crash-when-using-vpilot/?do=findComment&comment=182458)
 - [VATEUD ATC Training and membership Issue](https://forums.vatsim.net/topic/31988-vateud-atc-training-and-membership-issue/?do=findComment&comment=182457)
 - [John C Tune (KJWN)](https://forums.vatsim.net/topic/31987-john-c-tune-kjwn/?do=findComment&comment=182456)
-- [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=182455)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
