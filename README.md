@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182483)
+- [Line in Headphones  issue](https://forums.vatsim.net/topic/31999-line-in-headphones-issue/?do=findComment&comment=182482)
+- [Please add a CPT/FO sound channel for home cockpit](https://forums.vatsim.net/topic/31998-please-add-a-cptfo-sound-channel-for-home-cockpit/?do=findComment&comment=182481)
+- [Overcoming a Modelmatching Edge Case…](https://forums.vatsim.net/topic/31997-overcoming-a-modelmatching-edge-case%E2%80%A6/?do=findComment&comment=182480)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182479)
 - [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182478)
 - [John C Tune (KJWN)](https://forums.vatsim.net/topic/31987-john-c-tune-kjwn/?do=findComment&comment=182477)
 - [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182476)
 - [Disconnect problem](https://forums.vatsim.net/topic/31995-disconnect-problem/?do=findComment&comment=182475)
 - [John C Tune (KJWN)](https://forums.vatsim.net/topic/31987-john-c-tune-kjwn/?do=findComment&comment=182474)
-- [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182473)
-- [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182472)
-- [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182471)
-- [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182470)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
