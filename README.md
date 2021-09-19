@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182476)
 - [Disconnect problem](https://forums.vatsim.net/topic/31995-disconnect-problem/?do=findComment&comment=182475)
 - [John C Tune (KJWN)](https://forums.vatsim.net/topic/31987-john-c-tune-kjwn/?do=findComment&comment=182474)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182473)
@@ -64,7 +65,6 @@
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182469)
 - [VATEUD ATC Training and membership Issue](https://forums.vatsim.net/topic/31988-vateud-atc-training-and-membership-issue/?do=findComment&comment=182468)
 - [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182467)
-- [My first time on VATSIM](https://forums.vatsim.net/topic/31964-my-first-time-on-vatsim/?do=findComment&comment=182462)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
