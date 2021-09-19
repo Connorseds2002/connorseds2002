@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot won't detect my IVAO models](https://forums.vatsim.net/topic/32000-vpilot-wont-detect-my-ivao-models/?do=findComment&comment=182492)
 - [Overcoming a Modelmatching Edge Case…](https://forums.vatsim.net/topic/31997-overcoming-a-modelmatching-edge-case%E2%80%A6/?do=findComment&comment=182491)
 - [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182490)
 - [Line in Headphones  issue](https://forums.vatsim.net/topic/31999-line-in-headphones-issue/?do=findComment&comment=182489)
@@ -64,7 +65,6 @@
 - [Overcoming a Modelmatching Edge Case…](https://forums.vatsim.net/topic/31997-overcoming-a-modelmatching-edge-case%E2%80%A6/?do=findComment&comment=182485)
 - [Vpilot won't detect my IVAO models](https://forums.vatsim.net/topic/32000-vpilot-wont-detect-my-ivao-models/?do=findComment&comment=182484)
 - [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182483)
-- [Line in Headphones  issue](https://forums.vatsim.net/topic/31999-line-in-headphones-issue/?do=findComment&comment=182482)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
