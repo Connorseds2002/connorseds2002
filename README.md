@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=182493)
 - [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182490)
 - [Line in Headphones  issue](https://forums.vatsim.net/topic/31999-line-in-headphones-issue/?do=findComment&comment=182489)
 - [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182488)
@@ -64,7 +65,6 @@
 - [Line in Headphones  issue](https://forums.vatsim.net/topic/31999-line-in-headphones-issue/?do=findComment&comment=182482)
 - [Please add a CPT/FO sound channel for home cockpit](https://forums.vatsim.net/topic/31998-please-add-a-cptfo-sound-channel-for-home-cockpit/?do=findComment&comment=182481)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182479)
-- [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182478)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
