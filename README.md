@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Mac OS support for controller clients?](https://forums.vatsim.net/topic/32001-mac-os-support-for-controller-clients/?do=findComment&comment=182505)
 - [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182504)
 - [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182503)
 - [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182502)
@@ -64,7 +65,6 @@
 - [Mac OS support for controller clients?](https://forums.vatsim.net/topic/32001-mac-os-support-for-controller-clients/?do=findComment&comment=182498)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182497)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182496)
-- [Adding Xpilot to Xplane that already has Pilot Edge in Plug In](https://forums.vatsim.net/topic/31978-adding-xpilot-to-xplane-that-already-has-pilot-edge-in-plug-in/?do=findComment&comment=182495)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
