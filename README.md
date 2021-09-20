@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Mac OS support for controller clients?](https://forums.vatsim.net/topic/32001-mac-os-support-for-controller-clients/?do=findComment&comment=182500)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182499)
 - [Mac OS support for controller clients?](https://forums.vatsim.net/topic/32001-mac-os-support-for-controller-clients/?do=findComment&comment=182498)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182497)
@@ -64,7 +65,6 @@
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=182493)
 - [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182490)
 - [Line in Headphones  issue](https://forums.vatsim.net/topic/31999-line-in-headphones-issue/?do=findComment&comment=182489)
-- [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=182488)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
