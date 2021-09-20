@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182504)
+- [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182503)
 - [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182502)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182501)
 - [Mac OS support for controller clients?](https://forums.vatsim.net/topic/32001-mac-os-support-for-controller-clients/?do=findComment&comment=182500)
@@ -63,8 +65,6 @@
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182497)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182496)
 - [Adding Xpilot to Xplane that already has Pilot Edge in Plug In](https://forums.vatsim.net/topic/31978-adding-xpilot-to-xplane-that-already-has-pilot-edge-in-plug-in/?do=findComment&comment=182495)
-- [Events API](https://forums.vatsim.net/topic/31307-events-api/?do=findComment&comment=182494)
-- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=182493)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
