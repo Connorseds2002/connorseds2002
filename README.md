@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Position Open: Hong Kong VACC - Deputy Director (ACCHKG2)](https://forums.vatsim.net/topic/32004-position-open-hong-kong-vacc-deputy-director-acchkg2/?do=findComment&comment=182515)
 - [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182514)
 - [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182513)
 - [Adding Xpilot to Xplane that already has Pilot Edge in Plug In](https://forums.vatsim.net/topic/31978-adding-xpilot-to-xplane-that-already-has-pilot-edge-in-plug-in/?do=findComment&comment=182512)
@@ -64,7 +65,6 @@
 - [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182508)
 - [Mac OS support for controller clients?](https://forums.vatsim.net/topic/32001-mac-os-support-for-controller-clients/?do=findComment&comment=182507)
 - [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182506)
-- [Mac OS support for controller clients?](https://forums.vatsim.net/topic/32001-mac-os-support-for-controller-clients/?do=findComment&comment=182505)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
