@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182525)
+- [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182524)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182523)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182521)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182520)
@@ -63,8 +65,6 @@
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182517)
 - [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182516)
 - [Position Open: Hong Kong VACC - Deputy Director (ACCHKG2)](https://forums.vatsim.net/topic/32004-position-open-hong-kong-vacc-deputy-director-acchkg2/?do=findComment&comment=182515)
-- [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182514)
-- [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182513)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
