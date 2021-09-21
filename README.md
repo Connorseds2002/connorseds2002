@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182514)
+- [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182513)
+- [Adding Xpilot to Xplane that already has Pilot Edge in Plug In](https://forums.vatsim.net/topic/31978-adding-xpilot-to-xplane-that-already-has-pilot-edge-in-plug-in/?do=findComment&comment=182512)
+- [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182511)
 - [Mac OS support for controller clients?](https://forums.vatsim.net/topic/32001-mac-os-support-for-controller-clients/?do=findComment&comment=182510)
 - [Turkish Virtual is Celebrating It's 20th Year Anniversary !](https://forums.vatsim.net/topic/32003-turkish-virtual-is-celebrating-its-20th-year-anniversary/?do=findComment&comment=182509)
 - [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182508)
 - [Mac OS support for controller clients?](https://forums.vatsim.net/topic/32001-mac-os-support-for-controller-clients/?do=findComment&comment=182507)
 - [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182506)
 - [Mac OS support for controller clients?](https://forums.vatsim.net/topic/32001-mac-os-support-for-controller-clients/?do=findComment&comment=182505)
-- [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182504)
-- [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182503)
-- [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182502)
-- [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182501)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
