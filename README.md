@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Frequency forwarding](https://forums.vatsim.net/topic/32010-frequency-forwarding/?do=findComment&comment=182542)
+- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182541)
 - [Resignation - VATEUD Events Manager](https://forums.vatsim.net/topic/32009-resignation-vateud-events-manager/?do=findComment&comment=182540)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182539)
 - [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182538)
@@ -63,8 +65,6 @@
 - [SimBrief/VATSIM](https://forums.vatsim.net/topic/32008-simbriefvatsim/?do=findComment&comment=182535)
 - [SimBrief/VATSIM](https://forums.vatsim.net/topic/32008-simbriefvatsim/?do=findComment&comment=182534)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182533)
-- [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182532)
-- [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182531)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
