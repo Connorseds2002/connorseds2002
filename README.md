@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182537)
+- [Loading RNAV Approach into FSX GPS](https://forums.vatsim.net/topic/31974-loading-rnav-approach-into-fsx-gps/?do=findComment&comment=182536)
 - [SimBrief/VATSIM](https://forums.vatsim.net/topic/32008-simbriefvatsim/?do=findComment&comment=182535)
 - [SimBrief/VATSIM](https://forums.vatsim.net/topic/32008-simbriefvatsim/?do=findComment&comment=182534)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182533)
@@ -63,8 +65,6 @@
 - [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182530)
 - [P3D crash when using vPilot](https://forums.vatsim.net/topic/29006-p3d-crash-when-using-vpilot/?do=findComment&comment=182529)
 - [Streamdeck](https://forums.vatsim.net/topic/29971-streamdeck/?do=findComment&comment=182526)
-- [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182525)
-- [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182524)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
