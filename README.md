@@ -55,8 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Resignation Deputy Director Special Operations - Lee Roberts](https://forums.vatsim.net/topic/31929-resignation-deputy-director-special-operations-lee-roberts/?do=findComment&comment=182528)
-- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182527)
+- [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182531)
+- [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182530)
+- [P3D crash when using vPilot](https://forums.vatsim.net/topic/29006-p3d-crash-when-using-vpilot/?do=findComment&comment=182529)
 - [Streamdeck](https://forums.vatsim.net/topic/29971-streamdeck/?do=findComment&comment=182526)
 - [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182525)
 - [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182524)
@@ -64,7 +65,6 @@
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182521)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182520)
 - [EGKK - flight planning and SIDs](https://forums.vatsim.net/topic/31994-egkk-flight-planning-and-sids/?do=findComment&comment=182519)
-- [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=182518)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
