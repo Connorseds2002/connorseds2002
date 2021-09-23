@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182562)
+- [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182561)
+- [How to address upper level controllers?](https://forums.vatsim.net/topic/32011-how-to-address-upper-level-controllers/?do=findComment&comment=182560)
+- [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182559)
 - [How to address upper level controllers?](https://forums.vatsim.net/topic/32011-how-to-address-upper-level-controllers/?do=findComment&comment=182558)
 - [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182557)
 - [How to address upper level controllers?](https://forums.vatsim.net/topic/32011-how-to-address-upper-level-controllers/?do=findComment&comment=182556)
 - [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182555)
 - [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182553)
 - [How to address upper level controllers?](https://forums.vatsim.net/topic/32011-how-to-address-upper-level-controllers/?do=findComment&comment=182552)
-- [How to address upper level controllers?](https://forums.vatsim.net/topic/32011-how-to-address-upper-level-controllers/?do=findComment&comment=182551)
-- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182549)
-- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=182548)
-- [Transferring Within/Between Divisions](https://forums.vatsim.net/topic/31715-transferring-withinbetween-divisions/?do=findComment&comment=182547)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
