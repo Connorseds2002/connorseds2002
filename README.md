@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=182576)
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/32016-network-error-invalid-cidpassword/?do=findComment&comment=182575)
 - [XAcars not working for Mac OS](https://forums.vatsim.net/topic/24585-xacars-not-working-for-mac-os/?do=findComment&comment=182574)
 - [Vatspy  Data download error](https://forums.vatsim.net/topic/32015-vatspy-data-download-error/?do=findComment&comment=182573)
@@ -64,7 +65,6 @@
 - [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=182568)
 - [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182567)
 - [[24th Sep 12z-16z]Tan Son Nhat Friday Night Ops](https://forums.vatsim.net/topic/32012-24th-sep-12z-16ztan-son-nhat-friday-night-ops/?do=findComment&comment=182566)
-- [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=182565)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
