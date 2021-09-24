@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [What Is The Best/Most Used Sim?](https://forums.vatsim.net/topic/32013-what-is-the-bestmost-used-sim/?do=findComment&comment=182570)
 - [What Is The Best/Most Used Sim?](https://forums.vatsim.net/topic/32013-what-is-the-bestmost-used-sim/?do=findComment&comment=182569)
 - [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=182568)
 - [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182567)
@@ -64,7 +65,6 @@
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182562)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182561)
 - [How to address upper level controllers?](https://forums.vatsim.net/topic/32011-how-to-address-upper-level-controllers/?do=findComment&comment=182560)
-- [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182559)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
