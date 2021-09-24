@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=182568)
+- [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182567)
 - [[24th Sep 12z-16z]Tan Son Nhat Friday Night Ops](https://forums.vatsim.net/topic/32012-24th-sep-12z-16ztan-son-nhat-friday-night-ops/?do=findComment&comment=182566)
 - [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=182565)
 - [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=182563)
@@ -63,8 +65,6 @@
 - [How to address upper level controllers?](https://forums.vatsim.net/topic/32011-how-to-address-upper-level-controllers/?do=findComment&comment=182560)
 - [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182559)
 - [How to address upper level controllers?](https://forums.vatsim.net/topic/32011-how-to-address-upper-level-controllers/?do=findComment&comment=182558)
-- [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182557)
-- [How to address upper level controllers?](https://forums.vatsim.net/topic/32011-how-to-address-upper-level-controllers/?do=findComment&comment=182556)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
