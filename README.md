@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy  Data download error](https://forums.vatsim.net/topic/32015-vatspy-data-download-error/?do=findComment&comment=182573)
 - [CZQO: vNAAATS development, Flight Data Display and more!  Add Tag](https://forums.vatsim.net/topic/32014-czqo-vnaaats-development-flight-data-display-and-more-add-tag/?do=findComment&comment=182571)
 - [What Is The Best/Most Used Sim?](https://forums.vatsim.net/topic/32013-what-is-the-bestmost-used-sim/?do=findComment&comment=182570)
 - [What Is The Best/Most Used Sim?](https://forums.vatsim.net/topic/32013-what-is-the-bestmost-used-sim/?do=findComment&comment=182569)
@@ -64,7 +65,6 @@
 - [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=182565)
 - [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=182563)
 - [My second time on VATSIM](https://forums.vatsim.net/topic/31976-my-second-time-on-vatsim/?do=findComment&comment=182562)
-- [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182561)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
