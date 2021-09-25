@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182589)
+- [SWIFT XP11 CREATE MODEL](https://forums.vatsim.net/topic/32021-swift-xp11-create-model/?do=findComment&comment=182588)
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/32016-network-error-invalid-cidpassword/?do=findComment&comment=182587)
 - [Can't connect to voice server](https://forums.vatsim.net/topic/32020-cant-connect-to-voice-server/?do=findComment&comment=182586)
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/32016-network-error-invalid-cidpassword/?do=findComment&comment=182585)
@@ -63,8 +65,6 @@
 - [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182582)
 - [Flying VATsim improved my professional life](https://forums.vatsim.net/topic/32018-flying-vatsim-improved-my-professional-life/?do=findComment&comment=182581)
 - [Flying VATsim improved my professional life](https://forums.vatsim.net/topic/32018-flying-vatsim-improved-my-professional-life/?do=findComment&comment=182580)
-- [Flying VATsim improved my professional life](https://forums.vatsim.net/topic/32018-flying-vatsim-improved-my-professional-life/?do=findComment&comment=182579)
-- [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182578)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
