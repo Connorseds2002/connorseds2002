@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Changes at the top](https://forums.vatsim.net/topic/31957-changes-at-the-top/?do=findComment&comment=182596)
+- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182595)
+- [Incorrect discord account](https://forums.vatsim.net/topic/31956-incorrect-discord-account/?do=findComment&comment=182594)
+- [Can't join Vatsim Discord Server](https://forums.vatsim.net/topic/31986-cant-join-vatsim-discord-server/?do=findComment&comment=182593)
 - [Vatspy  Data download error](https://forums.vatsim.net/topic/32015-vatspy-data-download-error/?do=findComment&comment=182592)
 - [[October 2nd 11:00z-17:00z] VATIL Control Room](https://forums.vatsim.net/topic/32023-october-2nd-1100z-1700z-vatil-control-room/?do=findComment&comment=182591)
 - [IGNORE - Invalid CID/Password with vPilot but xPilot works fine - FINGER ISSUES](https://forums.vatsim.net/topic/32022-ignore-invalid-cidpassword-with-vpilot-but-xpilot-works-fine-finger-issues/?do=findComment&comment=182590)
 - [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182589)
 - [SWIFT XP11 CREATE MODEL](https://forums.vatsim.net/topic/32021-swift-xp11-create-model/?do=findComment&comment=182588)
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/32016-network-error-invalid-cidpassword/?do=findComment&comment=182587)
-- [Can't connect to voice server](https://forums.vatsim.net/topic/32020-cant-connect-to-voice-server/?do=findComment&comment=182586)
-- [Network error: Invalid CID/password](https://forums.vatsim.net/topic/32016-network-error-invalid-cidpassword/?do=findComment&comment=182585)
-- [Can't connect to voice server](https://forums.vatsim.net/topic/32020-cant-connect-to-voice-server/?do=findComment&comment=182584)
-- [Flight Sim Assistant for MSFS 2020](https://forums.vatsim.net/topic/32019-flight-sim-assistant-for-msfs-2020/?do=findComment&comment=182583)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
