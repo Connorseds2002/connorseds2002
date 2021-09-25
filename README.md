@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[October 2nd 11:00z-17:00z] VATIL Control Room](https://forums.vatsim.net/topic/32023-october-2nd-1100z-1700z-vatil-control-room/?do=findComment&comment=182591)
 - [IGNORE - Invalid CID/Password with vPilot but xPilot works fine - FINGER ISSUES](https://forums.vatsim.net/topic/32022-ignore-invalid-cidpassword-with-vpilot-but-xpilot-works-fine-finger-issues/?do=findComment&comment=182590)
 - [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182589)
 - [SWIFT XP11 CREATE MODEL](https://forums.vatsim.net/topic/32021-swift-xp11-create-model/?do=findComment&comment=182588)
@@ -64,7 +65,6 @@
 - [Can't connect to voice server](https://forums.vatsim.net/topic/32020-cant-connect-to-voice-server/?do=findComment&comment=182584)
 - [Flight Sim Assistant for MSFS 2020](https://forums.vatsim.net/topic/32019-flight-sim-assistant-for-msfs-2020/?do=findComment&comment=182583)
 - [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182582)
-- [Flying VATsim improved my professional life](https://forums.vatsim.net/topic/32018-flying-vatsim-improved-my-professional-life/?do=findComment&comment=182581)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
