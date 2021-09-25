@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182606)
+- [SWIFT XP11 CREATE MODEL](https://forums.vatsim.net/topic/32021-swift-xp11-create-model/?do=findComment&comment=182605)
+- [SWIFT XP11 CREATE MODEL](https://forums.vatsim.net/topic/32021-swift-xp11-create-model/?do=findComment&comment=182604)
 - [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182603)
 - [[EVENT]: Friday Night Live - VOBL OVERLOAD - 01 October 2021](https://forums.vatsim.net/topic/32026-event-friday-night-live-vobl-overload-01-october-2021/?do=findComment&comment=182602)
 - [Vatspy  Data download error](https://forums.vatsim.net/topic/32015-vatspy-data-download-error/?do=findComment&comment=182601)
@@ -62,9 +65,6 @@
 - [LH-Virtual.com awaits you!](https://forums.vatsim.net/topic/31438-lh-virtualcom-awaits-you/?do=findComment&comment=182599)
 - [My account is blocked](https://forums.vatsim.net/topic/32025-my-account-is-blocked/?do=findComment&comment=182598)
 - [Disconnect problem](https://forums.vatsim.net/topic/31995-disconnect-problem/?do=findComment&comment=182597)
-- [Changes at the top](https://forums.vatsim.net/topic/31957-changes-at-the-top/?do=findComment&comment=182596)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182595)
-- [Incorrect discord account](https://forums.vatsim.net/topic/31956-incorrect-discord-account/?do=findComment&comment=182594)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
