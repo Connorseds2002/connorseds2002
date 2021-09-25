@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy  Data download error](https://forums.vatsim.net/topic/32015-vatspy-data-download-error/?do=findComment&comment=182601)
 - [My account is blocked](https://forums.vatsim.net/topic/32025-my-account-is-blocked/?do=findComment&comment=182600)
 - [LH-Virtual.com awaits you!](https://forums.vatsim.net/topic/31438-lh-virtualcom-awaits-you/?do=findComment&comment=182599)
 - [My account is blocked](https://forums.vatsim.net/topic/32025-my-account-is-blocked/?do=findComment&comment=182598)
@@ -64,7 +65,6 @@
 - [Incorrect discord account](https://forums.vatsim.net/topic/31956-incorrect-discord-account/?do=findComment&comment=182594)
 - [Can't join Vatsim Discord Server](https://forums.vatsim.net/topic/31986-cant-join-vatsim-discord-server/?do=findComment&comment=182593)
 - [Vatspy  Data download error](https://forums.vatsim.net/topic/32015-vatspy-data-download-error/?do=findComment&comment=182592)
-- [[October 2nd 11:00z-17:00z] VATIL Control Room](https://forums.vatsim.net/topic/32023-october-2nd-1100z-1700z-vatil-control-room/?do=findComment&comment=182591)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
