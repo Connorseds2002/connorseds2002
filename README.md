@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flight Sim Assistant for MSFS 2020](https://forums.vatsim.net/topic/32019-flight-sim-assistant-for-msfs-2020/?do=findComment&comment=182583)
 - [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182582)
 - [Flying VATsim improved my professional life](https://forums.vatsim.net/topic/32018-flying-vatsim-improved-my-professional-life/?do=findComment&comment=182581)
 - [Flying VATsim improved my professional life](https://forums.vatsim.net/topic/32018-flying-vatsim-improved-my-professional-life/?do=findComment&comment=182580)
@@ -64,7 +65,6 @@
 - [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=182576)
 - [Network error: Invalid CID/password](https://forums.vatsim.net/topic/32016-network-error-invalid-cidpassword/?do=findComment&comment=182575)
 - [XAcars not working for Mac OS](https://forums.vatsim.net/topic/24585-xacars-not-working-for-mac-os/?do=findComment&comment=182574)
-- [Vatspy  Data download error](https://forums.vatsim.net/topic/32015-vatspy-data-download-error/?do=findComment&comment=182573)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
