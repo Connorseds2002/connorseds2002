@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=182613)
 - [Unhandled Exception](https://forums.vatsim.net/topic/32028-unhandled-exception/?do=findComment&comment=182612)
 - [Vatsys Freeze - Repeatable via Opening 2nd Map Window](https://forums.vatsim.net/topic/32006-vatsys-freeze-repeatable-via-opening-2nd-map-window/?do=findComment&comment=182611)
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182610)
@@ -64,7 +65,6 @@
 - [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182606)
 - [SWIFT XP11 CREATE MODEL](https://forums.vatsim.net/topic/32021-swift-xp11-create-model/?do=findComment&comment=182605)
 - [SWIFT XP11 CREATE MODEL](https://forums.vatsim.net/topic/32021-swift-xp11-create-model/?do=findComment&comment=182604)
-- [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182603)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
