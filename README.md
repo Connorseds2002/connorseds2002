@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Turkish Virtual is Celebrating It's 20th Year Anniversary !](https://forums.vatsim.net/topic/32003-turkish-virtual-is-celebrating-its-20th-year-anniversary/?do=findComment&comment=182617)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182616)
 - [Unhandled Exception](https://forums.vatsim.net/topic/32028-unhandled-exception/?do=findComment&comment=182615)
 - [Unhandled Exception](https://forums.vatsim.net/topic/32028-unhandled-exception/?do=findComment&comment=182614)
@@ -64,7 +65,6 @@
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182610)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182609)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182608)
-- [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182607)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
