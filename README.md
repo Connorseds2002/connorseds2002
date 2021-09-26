@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=182626)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182625)
 - [vPilot over network](https://forums.vatsim.net/topic/32029-vpilot-over-network/?do=findComment&comment=182624)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182623)
@@ -64,7 +65,6 @@
 - [What Is The Best/Most Used Sim?](https://forums.vatsim.net/topic/32013-what-is-the-bestmost-used-sim/?do=findComment&comment=182619)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182618)
 - [Turkish Virtual is Celebrating It's 20th Year Anniversary !](https://forums.vatsim.net/topic/32003-turkish-virtual-is-celebrating-its-20th-year-anniversary/?do=findComment&comment=182617)
-- [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182616)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
