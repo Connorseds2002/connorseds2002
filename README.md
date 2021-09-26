@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unhandled exception: Invalid class string](https://forums.vatsim.net/topic/32031-unhandled-exception-invalid-class-string/?do=findComment&comment=182629)
+- [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182628)
+- [Turkish Virtual is Celebrating It's 20th Year Anniversary !](https://forums.vatsim.net/topic/32003-turkish-virtual-is-celebrating-its-20th-year-anniversary/?do=findComment&comment=182627)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=182626)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182625)
 - [vPilot over network](https://forums.vatsim.net/topic/32029-vpilot-over-network/?do=findComment&comment=182624)
@@ -62,9 +65,6 @@
 - [vPilot over network](https://forums.vatsim.net/topic/32029-vpilot-over-network/?do=findComment&comment=182622)
 - [vPilot over network](https://forums.vatsim.net/topic/32029-vpilot-over-network/?do=findComment&comment=182621)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182620)
-- [What Is The Best/Most Used Sim?](https://forums.vatsim.net/topic/32013-what-is-the-bestmost-used-sim/?do=findComment&comment=182619)
-- [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182618)
-- [Turkish Virtual is Celebrating It's 20th Year Anniversary !](https://forums.vatsim.net/topic/32003-turkish-virtual-is-celebrating-its-20th-year-anniversary/?do=findComment&comment=182617)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
