@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182640)
 - [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182639)
 - [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182638)
 - [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182637)
@@ -64,7 +65,6 @@
 - [WMR knocks out vPilot controller voice](https://forums.vatsim.net/topic/32033-wmr-knocks-out-vpilot-controller-voice/?do=findComment&comment=182633)
 - [Disconnect problem](https://forums.vatsim.net/topic/31995-disconnect-problem/?do=findComment&comment=182632)
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182631)
-- [CSL Model Request (Xplane)](https://forums.vatsim.net/topic/32032-csl-model-request-xplane/?do=findComment&comment=182630)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
