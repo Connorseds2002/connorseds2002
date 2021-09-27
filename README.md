@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182638)
+- [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182637)
+- [WMR knocks out vPilot controller voice](https://forums.vatsim.net/topic/32033-wmr-knocks-out-vpilot-controller-voice/?do=findComment&comment=182636)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=182635)
 - [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182634)
 - [WMR knocks out vPilot controller voice](https://forums.vatsim.net/topic/32033-wmr-knocks-out-vpilot-controller-voice/?do=findComment&comment=182633)
@@ -62,9 +65,6 @@
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182631)
 - [CSL Model Request (Xplane)](https://forums.vatsim.net/topic/32032-csl-model-request-xplane/?do=findComment&comment=182630)
 - [Unhandled exception: Invalid class string](https://forums.vatsim.net/topic/32031-unhandled-exception-invalid-class-string/?do=findComment&comment=182629)
-- [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182628)
-- [Turkish Virtual is Celebrating It's 20th Year Anniversary !](https://forums.vatsim.net/topic/32003-turkish-virtual-is-celebrating-its-20th-year-anniversary/?do=findComment&comment=182627)
-- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=182626)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
