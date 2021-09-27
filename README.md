@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182642)
 - [Scheduled Downtime for all VATSIM Services - 28 September 2021](https://forums.vatsim.net/topic/32034-scheduled-downtime-for-all-vatsim-services-28-september-2021/?do=findComment&comment=182641)
 - [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182640)
 - [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182639)
@@ -64,7 +65,6 @@
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=182635)
 - [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182634)
 - [WMR knocks out vPilot controller voice](https://forums.vatsim.net/topic/32033-wmr-knocks-out-vpilot-controller-voice/?do=findComment&comment=182633)
-- [Disconnect problem](https://forums.vatsim.net/topic/31995-disconnect-problem/?do=findComment&comment=182632)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
