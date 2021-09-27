@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Disconnect problem](https://forums.vatsim.net/topic/31995-disconnect-problem/?do=findComment&comment=182632)
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182631)
 - [CSL Model Request (Xplane)](https://forums.vatsim.net/topic/32032-csl-model-request-xplane/?do=findComment&comment=182630)
 - [Unhandled exception: Invalid class string](https://forums.vatsim.net/topic/32031-unhandled-exception-invalid-class-string/?do=findComment&comment=182629)
@@ -64,7 +65,6 @@
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182625)
 - [vPilot over network](https://forums.vatsim.net/topic/32029-vpilot-over-network/?do=findComment&comment=182624)
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182623)
-- [vPilot over network](https://forums.vatsim.net/topic/32029-vpilot-over-network/?do=findComment&comment=182622)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
