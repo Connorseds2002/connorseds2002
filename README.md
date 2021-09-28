@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182661)
 - [Changes at the top](https://forums.vatsim.net/topic/31957-changes-at-the-top/?do=findComment&comment=182660)
 - [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182659)
 - [Unhandled Exception](https://forums.vatsim.net/topic/32028-unhandled-exception/?do=findComment&comment=182658)
@@ -64,7 +65,6 @@
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182654)
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182652)
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182651)
-- [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182650)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
