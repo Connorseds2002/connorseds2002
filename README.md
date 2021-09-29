@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182689)
 - [Frequency forwarding](https://forums.vatsim.net/topic/32010-frequency-forwarding/?do=findComment&comment=182688)
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182687)
 - [[02-OCT-21] Cross the Land: Eastbound 2021](https://forums.vatsim.net/topic/31435-02-oct-21-cross-the-land-eastbound-2021/?do=findComment&comment=182686)
@@ -64,7 +65,6 @@
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182682)
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182681)
 - [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182680)
-- [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182679)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
