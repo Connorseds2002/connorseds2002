@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182690)
 - [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182689)
 - [Frequency forwarding](https://forums.vatsim.net/topic/32010-frequency-forwarding/?do=findComment&comment=182688)
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182687)
@@ -64,7 +65,6 @@
 - [Frequency forwarding](https://forums.vatsim.net/topic/32010-frequency-forwarding/?do=findComment&comment=182683)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182682)
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182681)
-- [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182680)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
