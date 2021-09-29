@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dual USB Headset on single PC?](https://forums.vatsim.net/topic/32037-dual-usb-headset-on-single-pc/?do=findComment&comment=182668)
 - [Dual USB Headset on single PC?](https://forums.vatsim.net/topic/32037-dual-usb-headset-on-single-pc/?do=findComment&comment=182667)
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182666)
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182665)
@@ -64,7 +65,6 @@
 - [Longest flight on server.](https://forums.vatsim.net/topic/32007-longest-flight-on-server/?do=findComment&comment=182661)
 - [Changes at the top](https://forums.vatsim.net/topic/31957-changes-at-the-top/?do=findComment&comment=182660)
 - [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182659)
-- [Unhandled Exception](https://forums.vatsim.net/topic/32028-unhandled-exception/?do=findComment&comment=182658)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
