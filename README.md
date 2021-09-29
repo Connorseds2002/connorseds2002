@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182680)
+- [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182679)
+- [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182678)
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182677)
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182676)
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182675)
@@ -62,9 +65,6 @@
 - [Routing different frequencies to different devices](https://forums.vatsim.net/topic/32005-routing-different-frequencies-to-different-devices/?do=findComment&comment=182673)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182672)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32038-vpilot-crashes-once-opened/?do=findComment&comment=182671)
-- [An apology to Munich approach and tower and anyone else affected](https://forums.vatsim.net/topic/32017-an-apology-to-munich-approach-and-tower-and-anyone-else-affected/?do=findComment&comment=182670)
-- [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182669)
-- [Dual USB Headset on single PC?](https://forums.vatsim.net/topic/32037-dual-usb-headset-on-single-pc/?do=findComment&comment=182668)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
