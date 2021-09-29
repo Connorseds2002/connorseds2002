@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Asking if this Feature would be possible... to save our hearing ability.](https://forums.vatsim.net/topic/31975-asking-if-this-feature-would-be-possible-to-save-our-hearing-ability/?do=findComment&comment=182684)
 - [Frequency forwarding](https://forums.vatsim.net/topic/32010-frequency-forwarding/?do=findComment&comment=182683)
 - [Get IFR clearance with center](https://forums.vatsim.net/topic/31815-get-ifr-clearance-with-center/?do=findComment&comment=182682)
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182681)
@@ -64,7 +65,6 @@
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182677)
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182676)
 - [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182675)
-- [how to install an airplane](https://forums.vatsim.net/topic/32036-how-to-install-an-airplane/?do=findComment&comment=182674)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
