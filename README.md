@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.08(b)(ii) Competency Check - minimum absence time](https://forums.vatsim.net/topic/32048-808bii-competency-check-minimum-absence-time/?do=findComment&comment=182710)
+- [Colons on the flightplan in flightstrip bay](https://forums.vatsim.net/topic/32047-colons-on-the-flightplan-in-flightstrip-bay/?do=findComment&comment=182709)
 - ["INVALID CALLSIGN" error joining Sweatbox on SYS or ES](https://forums.vatsim.net/topic/32045-invalid-callsign-error-joining-sweatbox-on-sys-or-es/?do=findComment&comment=182708)
+- [Global Air Traffic Controller Administration Policy Draft and Executive Summary](https://forums.vatsim.net/topic/31660-global-air-traffic-controller-administration-policy-draft-and-executive-summary/?do=findComment&comment=182707)
 - ["INVALID CALLSIGN" error joining Sweatbox on SYS or ES](https://forums.vatsim.net/topic/32045-invalid-callsign-error-joining-sweatbox-on-sys-or-es/?do=findComment&comment=182706)
 - [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182705)
 - [South African Region dead??](https://forums.vatsim.net/topic/32046-south-african-region-dead/?do=findComment&comment=182704)
 - [South African Region dead??](https://forums.vatsim.net/topic/32046-south-african-region-dead/?do=findComment&comment=182703)
 - ["INVALID CALLSIGN" error joining Sweatbox on SYS or ES](https://forums.vatsim.net/topic/32045-invalid-callsign-error-joining-sweatbox-on-sys-or-es/?do=findComment&comment=182702)
 - [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=182701)
-- [Frequency forwarding](https://forums.vatsim.net/topic/32010-frequency-forwarding/?do=findComment&comment=182700)
-- [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182699)
-- [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182698)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
