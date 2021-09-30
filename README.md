@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=182701)
+- [Frequency forwarding](https://forums.vatsim.net/topic/32010-frequency-forwarding/?do=findComment&comment=182700)
+- [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182699)
+- [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182698)
 - [Air Asturias Va Open!](https://forums.vatsim.net/topic/32043-air-asturias-va-open/?do=findComment&comment=182697)
 - [Spirit Va open!](https://forums.vatsim.net/topic/32042-spirit-va-open/?do=findComment&comment=182696)
 - [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=182695)
 - [Audio For Vatsim full screen](https://forums.vatsim.net/topic/29524-audio-for-vatsim-full-screen/?do=findComment&comment=182694)
 - [[9th Oct 2021, 1200-1500Z] The Golden Route - Taiwan and Hong Kong](https://forums.vatsim.net/topic/32041-9th-oct-2021-1200-1500z-the-golden-route-taiwan-and-hong-kong/?do=findComment&comment=182693)
 - [Couldn't find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=182692)
-- [Vpilot crashes once opened](https://forums.vatsim.net/topic/32038-vpilot-crashes-once-opened/?do=findComment&comment=182691)
-- [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182690)
-- [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182689)
-- [Frequency forwarding](https://forums.vatsim.net/topic/32010-frequency-forwarding/?do=findComment&comment=182688)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
