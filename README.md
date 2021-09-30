@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Replying to topice - problems on saving](https://forums.vatsim.net/topic/31993-replying-to-topice-problems-on-saving/?do=findComment&comment=182705)
+- [South African Region dead??](https://forums.vatsim.net/topic/32046-south-african-region-dead/?do=findComment&comment=182704)
 - [South African Region dead??](https://forums.vatsim.net/topic/32046-south-african-region-dead/?do=findComment&comment=182703)
 - ["INVALID CALLSIGN" error joining Sweatbox on SYS or ES](https://forums.vatsim.net/topic/32045-invalid-callsign-error-joining-sweatbox-on-sys-or-es/?do=findComment&comment=182702)
 - [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=182701)
@@ -63,8 +65,6 @@
 - [VATprism - The new VATSIM data explorer](https://forums.vatsim.net/topic/31950-vatprism-the-new-vatsim-data-explorer/?do=findComment&comment=182698)
 - [Air Asturias Va Open!](https://forums.vatsim.net/topic/32043-air-asturias-va-open/?do=findComment&comment=182697)
 - [Spirit Va open!](https://forums.vatsim.net/topic/32042-spirit-va-open/?do=findComment&comment=182696)
-- [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=182695)
-- [Audio For Vatsim full screen](https://forums.vatsim.net/topic/29524-audio-for-vatsim-full-screen/?do=findComment&comment=182694)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
