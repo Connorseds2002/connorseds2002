@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [South African Region dead??](https://forums.vatsim.net/topic/32046-south-african-region-dead/?do=findComment&comment=182703)
+- ["INVALID CALLSIGN" error joining Sweatbox on SYS or ES](https://forums.vatsim.net/topic/32045-invalid-callsign-error-joining-sweatbox-on-sys-or-es/?do=findComment&comment=182702)
 - [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=182701)
 - [Frequency forwarding](https://forums.vatsim.net/topic/32010-frequency-forwarding/?do=findComment&comment=182700)
 - [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=182699)
@@ -63,8 +65,6 @@
 - [Spirit Va open!](https://forums.vatsim.net/topic/32042-spirit-va-open/?do=findComment&comment=182696)
 - [Air Asturias Va Open](https://forums.vatsim.net/topic/31357-air-asturias-va-open/?do=findComment&comment=182695)
 - [Audio For Vatsim full screen](https://forums.vatsim.net/topic/29524-audio-for-vatsim-full-screen/?do=findComment&comment=182694)
-- [[9th Oct 2021, 1200-1500Z] The Golden Route - Taiwan and Hong Kong](https://forums.vatsim.net/topic/32041-9th-oct-2021-1200-1500z-the-golden-route-taiwan-and-hong-kong/?do=findComment&comment=182693)
-- [Couldn't find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=182692)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
