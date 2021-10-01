@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Canadian Xpress October 2021 Monthly Challenge: Scenic Approaches XII - Barra](https://forums.vatsim.net/topic/32055-canadian-xpress-october-2021-monthly-challenge-scenic-approaches-xii-barra/?do=findComment&comment=182752)
+- [Accessing Sweatbox-2](https://forums.vatsim.net/topic/32054-accessing-sweatbox-2/?do=findComment&comment=182751)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182750)
 - [[VACANCY] vACC Director - Spain](https://forums.vatsim.net/topic/31977-vacancy-vacc-director-spain/?do=findComment&comment=182749)
 - [Accessing Sweatbox-2](https://forums.vatsim.net/topic/32054-accessing-sweatbox-2/?do=findComment&comment=182748)
@@ -63,8 +65,6 @@
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182745)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182744)
 - ["INVALID CALLSIGN" error joining Sweatbox on SYS or ES](https://forums.vatsim.net/topic/32045-invalid-callsign-error-joining-sweatbox-on-sys-or-es/?do=findComment&comment=182743)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182742)
-- [AFV - Constant Voice Disconnects on vPilot](https://forums.vatsim.net/topic/28436-afv-constant-voice-disconnects-on-vpilot/?do=findComment&comment=182741)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
