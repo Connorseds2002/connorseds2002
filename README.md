@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182747)
 - [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=182746)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182745)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182744)
@@ -64,7 +65,6 @@
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182740)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182739)
 - ["INVALID CALLSIGN" error joining Sweatbox on SYS or ES](https://forums.vatsim.net/topic/32045-invalid-callsign-error-joining-sweatbox-on-sys-or-es/?do=findComment&comment=182738)
-- [Can't connect to VATSIM through any server on vpilot](https://forums.vatsim.net/topic/32053-cant-connect-to-vatsim-through-any-server-on-vpilot/?do=findComment&comment=182737)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
