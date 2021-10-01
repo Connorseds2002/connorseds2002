@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182750)
+- [[VACANCY] vACC Director - Spain](https://forums.vatsim.net/topic/31977-vacancy-vacc-director-spain/?do=findComment&comment=182749)
+- [Accessing Sweatbox-2](https://forums.vatsim.net/topic/32054-accessing-sweatbox-2/?do=findComment&comment=182748)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182747)
 - [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=182746)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182745)
@@ -62,9 +65,6 @@
 - ["INVALID CALLSIGN" error joining Sweatbox on SYS or ES](https://forums.vatsim.net/topic/32045-invalid-callsign-error-joining-sweatbox-on-sys-or-es/?do=findComment&comment=182743)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182742)
 - [AFV - Constant Voice Disconnects on vPilot](https://forums.vatsim.net/topic/28436-afv-constant-voice-disconnects-on-vpilot/?do=findComment&comment=182741)
-- [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182740)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182739)
-- ["INVALID CALLSIGN" error joining Sweatbox on SYS or ES](https://forums.vatsim.net/topic/32045-invalid-callsign-error-joining-sweatbox-on-sys-or-es/?do=findComment&comment=182738)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
