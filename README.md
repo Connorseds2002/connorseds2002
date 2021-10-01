@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VatView now displays ATC bookings!](https://forums.vatsim.net/topic/32059-vatview-now-displays-atc-bookings/?do=findComment&comment=182762)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182761)
+- [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182760)
 - [Pen and Paper for ATC commands - an alternative](https://forums.vatsim.net/topic/32056-pen-and-paper-for-atc-commands-an-alternative/?do=findComment&comment=182759)
 - [Accessing Sweatbox-2](https://forums.vatsim.net/topic/32054-accessing-sweatbox-2/?do=findComment&comment=182758)
 - [AVS and getting lost in airports](https://forums.vatsim.net/topic/32058-avs-and-getting-lost-in-airports/?do=findComment&comment=182757)
@@ -62,9 +65,6 @@
 - [Pen and Paper for ATC commands - an alternative](https://forums.vatsim.net/topic/32056-pen-and-paper-for-atc-commands-an-alternative/?do=findComment&comment=182755)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182754)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182753)
-- [Canadian Xpress October 2021 Monthly Challenge: Scenic Approaches XII - Barra](https://forums.vatsim.net/topic/32055-canadian-xpress-october-2021-monthly-challenge-scenic-approaches-xii-barra/?do=findComment&comment=182752)
-- [Accessing Sweatbox-2](https://forums.vatsim.net/topic/32054-accessing-sweatbox-2/?do=findComment&comment=182751)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182750)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
