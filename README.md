@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can't connect to VATSIM through any server on vpilot](https://forums.vatsim.net/topic/32053-cant-connect-to-vatsim-through-any-server-on-vpilot/?do=findComment&comment=182737)
+- [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182736)
+- [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182735)
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182734)
 - [Can't connect to VATSIM through any server on vpilot](https://forums.vatsim.net/topic/32053-cant-connect-to-vatsim-through-any-server-on-vpilot/?do=findComment&comment=182733)
 - [xSquawkbox error message in X-Plane](https://forums.vatsim.net/topic/32052-xsquawkbox-error-message-in-x-plane/?do=findComment&comment=182732)
@@ -62,9 +65,6 @@
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182730)
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182729)
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182728)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182727)
-- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182726)
-- [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182725)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
