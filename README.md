@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Accessing Sweatbox-2](https://forums.vatsim.net/topic/32054-accessing-sweatbox-2/?do=findComment&comment=182781)
 - [[Oct. 9] The Ultimate Ultra Long Haul: with full ATC | by Project Firmament](https://forums.vatsim.net/topic/32063-oct-9-the-ultimate-ultra-long-haul-with-full-atc-by-project-firmament/?do=findComment&comment=182780)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182779)
 - [Thr following error occurred while attempting to download data from "cluster.data.vatsim.net"](https://forums.vatsim.net/topic/32062-thr-following-error-occurred-while-attempting-to-download-data-from-clusterdatavatsimnet/?do=findComment&comment=182778)
@@ -64,7 +65,6 @@
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182774)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182773)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182772)
-- [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182771)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
