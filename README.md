@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [7.09(d) S1 rating practical evaluation](https://forums.vatsim.net/topic/32065-709d-s1-rating-practical-evaluation/?do=findComment&comment=182796)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182795)
+- [Vpilot SSL/TLS problem](https://forums.vatsim.net/topic/32064-vpilot-ssltls-problem/?do=findComment&comment=182794)
 - [Vpilot SSL/TLS problem](https://forums.vatsim.net/topic/32064-vpilot-ssltls-problem/?do=findComment&comment=182793)
 - [fps20 problem](https://forums.vatsim.net/topic/25942-fps20-problem/?do=findComment&comment=182792)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182791)
@@ -62,9 +65,6 @@
 - [fps20 problem](https://forums.vatsim.net/topic/25942-fps20-problem/?do=findComment&comment=182789)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182788)
 - [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=182787)
-- [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182786)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182785)
-- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=182784)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
