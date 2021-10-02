@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Oct. 9] The Ultimate Ultra Long Haul: with full ATC | by Project Firmament](https://forums.vatsim.net/topic/32063-oct-9-the-ultimate-ultra-long-haul-with-full-atc-by-project-firmament/?do=findComment&comment=182780)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182779)
 - [Thr following error occurred while attempting to download data from "cluster.data.vatsim.net"](https://forums.vatsim.net/topic/32062-thr-following-error-occurred-while-attempting-to-download-data-from-clusterdatavatsimnet/?do=findComment&comment=182778)
 - [Thr following error occurred while attempting to download data from "cluster.data.vatsim.net"](https://forums.vatsim.net/topic/32062-thr-following-error-occurred-while-attempting-to-download-data-from-clusterdatavatsimnet/?do=findComment&comment=182777)
@@ -64,7 +65,6 @@
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182773)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182772)
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182771)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182770)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
