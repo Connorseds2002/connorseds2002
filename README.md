@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182786)
+- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182785)
 - [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=182784)
 - [[Oct. 9] The Ultimate Ultra Long Haul: with full ATC | by Project Firmament](https://forums.vatsim.net/topic/32063-oct-9-the-ultimate-ultra-long-haul-with-full-atc-by-project-firmament/?do=findComment&comment=182783)
 - [[Oct. 9] The Ultimate Ultra Long Haul: with full ATC | by Project Firmament](https://forums.vatsim.net/topic/32063-oct-9-the-ultimate-ultra-long-haul-with-full-atc-by-project-firmament/?do=findComment&comment=182782)
@@ -63,8 +65,6 @@
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182779)
 - [Thr following error occurred while attempting to download data from "cluster.data.vatsim.net"](https://forums.vatsim.net/topic/32062-thr-following-error-occurred-while-attempting-to-download-data-from-clusterdatavatsimnet/?do=findComment&comment=182778)
 - [Thr following error occurred while attempting to download data from "cluster.data.vatsim.net"](https://forums.vatsim.net/topic/32062-thr-following-error-occurred-while-attempting-to-download-data-from-clusterdatavatsimnet/?do=findComment&comment=182777)
-- [Thr following error occurred while attempting to download data from "cluster.data.vatsim.net"](https://forums.vatsim.net/topic/32062-thr-following-error-occurred-while-attempting-to-download-data-from-clusterdatavatsimnet/?do=findComment&comment=182776)
-- [Pen and Paper for ATC commands - an alternative](https://forums.vatsim.net/topic/32056-pen-and-paper-for-atc-commands-an-alternative/?do=findComment&comment=182775)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
