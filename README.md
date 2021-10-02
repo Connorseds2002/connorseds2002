@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thr following error occurred while attempting to download data from "cluster.data.vatsim.net"](https://forums.vatsim.net/topic/32062-thr-following-error-occurred-while-attempting-to-download-data-from-clusterdatavatsimnet/?do=findComment&comment=182778)
 - [Thr following error occurred while attempting to download data from "cluster.data.vatsim.net"](https://forums.vatsim.net/topic/32062-thr-following-error-occurred-while-attempting-to-download-data-from-clusterdatavatsimnet/?do=findComment&comment=182777)
 - [Thr following error occurred while attempting to download data from "cluster.data.vatsim.net"](https://forums.vatsim.net/topic/32062-thr-following-error-occurred-while-attempting-to-download-data-from-clusterdatavatsimnet/?do=findComment&comment=182776)
 - [Pen and Paper for ATC commands - an alternative](https://forums.vatsim.net/topic/32056-pen-and-paper-for-atc-commands-an-alternative/?do=findComment&comment=182775)
@@ -64,7 +65,6 @@
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182771)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182770)
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182769)
-- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=182768)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
