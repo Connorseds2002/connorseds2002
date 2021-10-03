@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATIS problems](https://forums.vatsim.net/topic/32066-atis-problems/?do=findComment&comment=182808)
+- [What Is The Best/Most Used Sim?](https://forums.vatsim.net/topic/32013-what-is-the-bestmost-used-sim/?do=findComment&comment=182807)
 - [heavy prefix H/ gone?](https://forums.vatsim.net/topic/32067-heavy-prefix-h-gone/?do=findComment&comment=182806)
 - [fps20 problem](https://forums.vatsim.net/topic/25942-fps20-problem/?do=findComment&comment=182805)
 - [ATIS problems](https://forums.vatsim.net/topic/32066-atis-problems/?do=findComment&comment=182804)
@@ -63,8 +65,6 @@
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182801)
 - [Vpilot SSL/TLS problem](https://forums.vatsim.net/topic/32064-vpilot-ssltls-problem/?do=findComment&comment=182800)
 - [Vpilot SSL/TLS problem](https://forums.vatsim.net/topic/32064-vpilot-ssltls-problem/?do=findComment&comment=182799)
-- [ATIS problems](https://forums.vatsim.net/topic/32066-atis-problems/?do=findComment&comment=182798)
-- [7.09(d) S1 rating practical evaluation](https://forums.vatsim.net/topic/32065-709d-s1-rating-practical-evaluation/?do=findComment&comment=182797)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
