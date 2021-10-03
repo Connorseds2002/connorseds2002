@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [heavy prefix H/ gone?](https://forums.vatsim.net/topic/32067-heavy-prefix-h-gone/?do=findComment&comment=182806)
 - [fps20 problem](https://forums.vatsim.net/topic/25942-fps20-problem/?do=findComment&comment=182805)
 - [ATIS problems](https://forums.vatsim.net/topic/32066-atis-problems/?do=findComment&comment=182804)
 - [fps20 problem](https://forums.vatsim.net/topic/25942-fps20-problem/?do=findComment&comment=182803)
@@ -64,7 +65,6 @@
 - [Vpilot SSL/TLS problem](https://forums.vatsim.net/topic/32064-vpilot-ssltls-problem/?do=findComment&comment=182799)
 - [ATIS problems](https://forums.vatsim.net/topic/32066-atis-problems/?do=findComment&comment=182798)
 - [7.09(d) S1 rating practical evaluation](https://forums.vatsim.net/topic/32065-709d-s1-rating-practical-evaluation/?do=findComment&comment=182797)
-- [7.09(d) S1 rating practical evaluation](https://forums.vatsim.net/topic/32065-709d-s1-rating-practical-evaluation/?do=findComment&comment=182796)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
