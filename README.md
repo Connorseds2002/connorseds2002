@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182826)
+- [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182825)
+- [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182824)
 - [1st Time Today](https://forums.vatsim.net/topic/32068-1st-time-today/?do=findComment&comment=182823)
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182822)
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182821)
@@ -62,9 +65,6 @@
 - [heavy prefix H/ gone?](https://forums.vatsim.net/topic/32067-heavy-prefix-h-gone/?do=findComment&comment=182819)
 - [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182818)
 - [Cross the Land: Eastbound 2021 - Post Event Discussion](https://forums.vatsim.net/topic/32071-cross-the-land-eastbound-2021-post-event-discussion/?do=findComment&comment=182817)
-- [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182816)
-- [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182814)
-- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=182813)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
