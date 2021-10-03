@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [heavy prefix H/ gone?](https://forums.vatsim.net/topic/32067-heavy-prefix-h-gone/?do=findComment&comment=182819)
+- [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182818)
 - [Cross the Land: Eastbound 2021 - Post Event Discussion](https://forums.vatsim.net/topic/32071-cross-the-land-eastbound-2021-post-event-discussion/?do=findComment&comment=182817)
 - [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182816)
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182814)
@@ -63,8 +65,6 @@
 - [1st Time Today](https://forums.vatsim.net/topic/32068-1st-time-today/?do=findComment&comment=182811)
 - [What Is The Best/Most Used Sim?](https://forums.vatsim.net/topic/32013-what-is-the-bestmost-used-sim/?do=findComment&comment=182810)
 - [1st Time Today](https://forums.vatsim.net/topic/32068-1st-time-today/?do=findComment&comment=182809)
-- [ATIS problems](https://forums.vatsim.net/topic/32066-atis-problems/?do=findComment&comment=182808)
-- [What Is The Best/Most Used Sim?](https://forums.vatsim.net/topic/32013-what-is-the-bestmost-used-sim/?do=findComment&comment=182807)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
