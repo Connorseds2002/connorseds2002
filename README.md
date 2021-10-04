@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182859)
+- [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182858)
 - [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182857)
 - [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182856)
 - [Vpilot SSL/TLS problem](https://forums.vatsim.net/topic/32064-vpilot-ssltls-problem/?do=findComment&comment=182855)
@@ -63,8 +65,6 @@
 - [[ACCPAK1] Pakistan vACC Director Vacancy Announcement](https://forums.vatsim.net/topic/31842-accpak1-pakistan-vacc-director-vacancy-announcement/?do=findComment&comment=182850)
 - [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182849)
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182847)
-- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=182846)
-- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=182845)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
