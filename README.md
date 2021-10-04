@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182847)
+- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=182846)
+- [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=182845)
+- [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182844)
 - [fps20 problem](https://forums.vatsim.net/topic/25942-fps20-problem/?do=findComment&comment=182843)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32038-vpilot-crashes-once-opened/?do=findComment&comment=182842)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32073-vpilot-crashes-once-opened/?do=findComment&comment=182841)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182840)
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182839)
 - [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182838)
-- [Vatspy error loading config](https://forums.vatsim.net/topic/27504-vatspy-error-loading-config/?do=findComment&comment=182836)
-- [Position Vacancy - Deputy Director Special Operations](https://forums.vatsim.net/topic/31930-position-vacancy-deputy-director-special-operations/?do=findComment&comment=182835)
-- [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182834)
-- [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182833)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
