@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Position Vacancy - Deputy Director Special Operations](https://forums.vatsim.net/topic/31930-position-vacancy-deputy-director-special-operations/?do=findComment&comment=182835)
 - [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182834)
 - [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182833)
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182832)
@@ -64,7 +65,6 @@
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182826)
 - [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182825)
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182824)
-- [1st Time Today](https://forums.vatsim.net/topic/32068-1st-time-today/?do=findComment&comment=182823)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
