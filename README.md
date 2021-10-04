@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182828)
+- [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182827)
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182826)
 - [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182825)
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182824)
@@ -63,8 +65,6 @@
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182821)
 - [heavy prefix H/ gone?](https://forums.vatsim.net/topic/32067-heavy-prefix-h-gone/?do=findComment&comment=182820)
 - [heavy prefix H/ gone?](https://forums.vatsim.net/topic/32067-heavy-prefix-h-gone/?do=findComment&comment=182819)
-- [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182818)
-- [Cross the Land: Eastbound 2021 - Post Event Discussion](https://forums.vatsim.net/topic/32071-cross-the-land-eastbound-2021-post-event-discussion/?do=findComment&comment=182817)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
