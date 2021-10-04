@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182856)
 - [Vpilot SSL/TLS problem](https://forums.vatsim.net/topic/32064-vpilot-ssltls-problem/?do=findComment&comment=182855)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182853)
 - [Vatspy error loading config](https://forums.vatsim.net/topic/27504-vatspy-error-loading-config/?do=findComment&comment=182852)
@@ -64,7 +65,6 @@
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=182846)
 - [[ACCBGD3] - Director Events & PR APPOINTED](https://forums.vatsim.net/topic/31865-accbgd3-director-events-pr-appointed/?do=findComment&comment=182845)
 - [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182844)
-- [fps20 problem](https://forums.vatsim.net/topic/25942-fps20-problem/?do=findComment&comment=182843)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
