@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182834)
+- [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182833)
+- [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182832)
 - [Can't connect to VATSIM through any server on vpilot](https://forums.vatsim.net/topic/32053-cant-connect-to-vatsim-through-any-server-on-vpilot/?do=findComment&comment=182830)
 - [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182828)
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182827)
@@ -62,9 +65,6 @@
 - [Re-connect Mid Air ?](https://forums.vatsim.net/topic/32070-re-connect-mid-air/?do=findComment&comment=182825)
 - [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182824)
 - [1st Time Today](https://forums.vatsim.net/topic/32068-1st-time-today/?do=findComment&comment=182823)
-- [MSFS won't render B738, B739, B744, and other aircrafts injected by vPilot to the sim](https://forums.vatsim.net/topic/32027-msfs-wont-render-b738-b739-b744-and-other-aircrafts-injected-by-vpilot-to-the-sim/?do=findComment&comment=182822)
-- [Equipment type now showing "?"](https://forums.vatsim.net/topic/32051-equipment-type-now-showing/?do=findComment&comment=182821)
-- [heavy prefix H/ gone?](https://forums.vatsim.net/topic/32067-heavy-prefix-h-gone/?do=findComment&comment=182820)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
