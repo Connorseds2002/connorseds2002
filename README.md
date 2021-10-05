@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182925)
+- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182924)
+- [AFV/vPilot - No RX](https://forums.vatsim.net/topic/32084-afvvpilot-no-rx/?do=findComment&comment=182923)
+- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182922)
+- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182921)
+- [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182920)
 - [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182919)
 - [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182918)
 - [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182917)
 - [Looking for copilot for Toliss A321](https://forums.vatsim.net/topic/32080-looking-for-copilot-for-toliss-a321/?do=findComment&comment=182916)
-- [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182915)
-- [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182913)
-- [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182912)
-- [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182911)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182909)
-- [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=182908)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
