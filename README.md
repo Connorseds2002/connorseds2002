@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182876)
-- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182875)
-- [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182874)
-- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182873)
-- [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182872)
-- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=182871)
-- [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182869)
-- [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182868)
-- [Cross the pond slot](https://forums.vatsim.net/topic/32075-cross-the-pond-slot/?do=findComment&comment=182867)
-- [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182866)
+- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=182890)
+- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182889)
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182888)
+- [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182887)
+- [VATSpy is not starting anymore...](https://forums.vatsim.net/topic/32078-vatspy-is-not-starting-anymore/?do=findComment&comment=182886)
+- [Vatsim CSL](https://forums.vatsim.net/topic/32079-vatsim-csl/?do=findComment&comment=182885)
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182884)
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182883)
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182882)
+- [VATSpy is not starting anymore...](https://forums.vatsim.net/topic/32078-vatspy-is-not-starting-anymore/?do=findComment&comment=182881)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
