@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182869)
+- [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182868)
+- [Cross the pond slot](https://forums.vatsim.net/topic/32075-cross-the-pond-slot/?do=findComment&comment=182867)
+- [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182866)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182865)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182864)
 - [Cross the pond slot](https://forums.vatsim.net/topic/32075-cross-the-pond-slot/?do=findComment&comment=182863)
 - [Cross the pond slot](https://forums.vatsim.net/topic/32075-cross-the-pond-slot/?do=findComment&comment=182862)
 - [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182861)
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182860)
-- [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182859)
-- [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182858)
-- [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182857)
-- [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182856)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
