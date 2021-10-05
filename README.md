@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182903)
+- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=182902)
+- [Looking for copilot for Toliss A321](https://forums.vatsim.net/topic/32080-looking-for-copilot-for-toliss-a321/?do=findComment&comment=182901)
+- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182900)
+- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182899)
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182898)
+- [American Virtual - Going For Great!](https://forums.vatsim.net/topic/32081-american-virtual-going-for-great/?do=findComment&comment=182896)
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182895)
 - [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182894)
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182893)
-- [Looking for copilot for Toliss A321](https://forums.vatsim.net/topic/32080-looking-for-copilot-for-toliss-a321/?do=findComment&comment=182892)
-- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=182890)
-- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182889)
-- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182888)
-- [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182887)
-- [VATSpy is not starting anymore...](https://forums.vatsim.net/topic/32078-vatspy-is-not-starting-anymore/?do=findComment&comment=182886)
-- [Vatsim CSL](https://forums.vatsim.net/topic/32079-vatsim-csl/?do=findComment&comment=182885)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
