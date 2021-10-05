@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182928)
+- [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182927)
+- [Incorrect discord account](https://forums.vatsim.net/topic/31956-incorrect-discord-account/?do=findComment&comment=182926)
 - [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182925)
 - [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182924)
 - [AFV/vPilot - No RX](https://forums.vatsim.net/topic/32084-afvvpilot-no-rx/?do=findComment&comment=182923)
@@ -62,9 +65,6 @@
 - [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182921)
 - [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182920)
 - [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182919)
-- [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182918)
-- [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182917)
-- [Looking for copilot for Toliss A321](https://forums.vatsim.net/topic/32080-looking-for-copilot-for-toliss-a321/?do=findComment&comment=182916)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
