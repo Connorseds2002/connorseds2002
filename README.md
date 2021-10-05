@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182895)
+- [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182894)
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182893)
+- [Looking for copilot for Toliss A321](https://forums.vatsim.net/topic/32080-looking-for-copilot-for-toliss-a321/?do=findComment&comment=182892)
 - [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=182890)
 - [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182889)
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182888)
 - [Future Malta vACC!](https://forums.vatsim.net/topic/32076-future-malta-vacc/?do=findComment&comment=182887)
 - [VATSpy is not starting anymore...](https://forums.vatsim.net/topic/32078-vatspy-is-not-starting-anymore/?do=findComment&comment=182886)
 - [Vatsim CSL](https://forums.vatsim.net/topic/32079-vatsim-csl/?do=findComment&comment=182885)
-- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182884)
-- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182883)
-- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=182882)
-- [VATSpy is not starting anymore...](https://forums.vatsim.net/topic/32078-vatspy-is-not-starting-anymore/?do=findComment&comment=182881)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
