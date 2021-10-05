@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cross the pond slot](https://forums.vatsim.net/topic/32075-cross-the-pond-slot/?do=findComment&comment=182863)
 - [Cross the pond slot](https://forums.vatsim.net/topic/32075-cross-the-pond-slot/?do=findComment&comment=182862)
 - [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182861)
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=182860)
@@ -64,7 +65,6 @@
 - [Controller Rating - INA](https://forums.vatsim.net/topic/32074-controller-rating-ina/?do=findComment&comment=182856)
 - [Vpilot SSL/TLS problem](https://forums.vatsim.net/topic/32064-vpilot-ssltls-problem/?do=findComment&comment=182855)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182853)
-- [Vatspy error loading config](https://forums.vatsim.net/topic/27504-vatspy-error-loading-config/?do=findComment&comment=182852)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
