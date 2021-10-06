@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cross the pond slot](https://forums.vatsim.net/topic/32075-cross-the-pond-slot/?do=findComment&comment=182930)
 - [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182929)
 - [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182928)
 - [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182927)
@@ -64,7 +65,6 @@
 - [AFV/vPilot - No RX](https://forums.vatsim.net/topic/32084-afvvpilot-no-rx/?do=findComment&comment=182923)
 - [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182922)
 - [Visiting controller: the balance between instructors and trainees](https://forums.vatsim.net/topic/32077-visiting-controller-the-balance-between-instructors-and-trainees/?do=findComment&comment=182921)
-- [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182920)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
