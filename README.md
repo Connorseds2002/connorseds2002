@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Looking for copilot for Toliss A321](https://forums.vatsim.net/topic/32080-looking-for-copilot-for-toliss-a321/?do=findComment&comment=182937)
+- [fps20 problem](https://forums.vatsim.net/topic/25942-fps20-problem/?do=findComment&comment=182936)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182935)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=182934)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182933)
@@ -63,8 +65,6 @@
 - [Cross the pond slot](https://forums.vatsim.net/topic/32075-cross-the-pond-slot/?do=findComment&comment=182930)
 - [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182929)
 - [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182928)
-- [Ability to restrict visiting controllers to minor airports/airspace only](https://forums.vatsim.net/topic/32083-ability-to-restrict-visiting-controllers-to-minor-airportsairspace-only/?do=findComment&comment=182927)
-- [Incorrect discord account](https://forums.vatsim.net/topic/31956-incorrect-discord-account/?do=findComment&comment=182926)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
