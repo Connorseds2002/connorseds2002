@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Special Operations Structure & Contacts](https://forums.vatsim.net/topic/32085-special-operations-structure-contacts/?do=findComment&comment=182940)
 - [Looking for copilot for Toliss A321](https://forums.vatsim.net/topic/32080-looking-for-copilot-for-toliss-a321/?do=findComment&comment=182937)
 - [fps20 problem](https://forums.vatsim.net/topic/25942-fps20-problem/?do=findComment&comment=182936)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182935)
@@ -64,7 +65,6 @@
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=182931)
 - [Cross the pond slot](https://forums.vatsim.net/topic/32075-cross-the-pond-slot/?do=findComment&comment=182930)
 - [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182929)
-- [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182928)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
