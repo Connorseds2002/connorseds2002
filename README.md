@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182988)
+- [Vatspy Not Working Windows 11](https://forums.vatsim.net/topic/32087-vatspy-not-working-windows-11/?do=findComment&comment=182987)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=182986)
 - [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=182985)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182984)
@@ -63,8 +65,6 @@
 - [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=182981)
 - [Vatspy Not Working Windows 11](https://forums.vatsim.net/topic/32087-vatspy-not-working-windows-11/?do=findComment&comment=182980)
 - [VATITA Discord Server](https://forums.vatsim.net/topic/29989-vatita-discord-server/?do=findComment&comment=182979)
-- [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182978)
-- [[Oct. 9] The Ultimate Ultra Long Haul: with full ATC | by Project Firmament [HIGHLIGHTS UPDATED]](https://forums.vatsim.net/topic/32063-oct-9-the-ultimate-ultra-long-haul-with-full-atc-by-project-firmament-highlights-updated/?do=findComment&comment=182977)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
