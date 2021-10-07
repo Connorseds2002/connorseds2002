@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182967)
+- [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182966)
+- [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182965)
 - [MSFS2020 Issue with Flight Plans (Parking)](https://forums.vatsim.net/topic/31928-msfs2020-issue-with-flight-plans-parking/?do=findComment&comment=182964)
 - [Saving window layout and map features](https://forums.vatsim.net/topic/32091-saving-window-layout-and-map-features/?do=findComment&comment=182963)
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182962)
@@ -62,9 +65,6 @@
 - [Special Operations - Deputy Director Announced](https://forums.vatsim.net/topic/32090-special-operations-deputy-director-announced/?do=findComment&comment=182960)
 - [Vacante Director de Subdivision vACC Chile](https://forums.vatsim.net/topic/31951-vacante-director-de-subdivision-vacc-chile/?do=findComment&comment=182958)
 - [El Comando Élite de Controladores de VATSUR te necesita!!!](https://forums.vatsim.net/topic/31171-el-comando-%C3%A9lite-de-controladores-de-vatsur-te-necesita/?do=findComment&comment=182957)
-- [Vacante: Director de Operaciones de VATSUR (VATSUR5)](https://forums.vatsim.net/topic/30402-vacante-director-de-operaciones-de-vatsur-vatsur5/?do=findComment&comment=182955)
-- [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=182954)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182953)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
