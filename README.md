@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182962)
+- [Special Operations Administration Structure](https://forums.vatsim.net/topic/32086-special-operations-administration-structure/?do=findComment&comment=182961)
+- [Special Operations - Deputy Director Announced](https://forums.vatsim.net/topic/32090-special-operations-deputy-director-announced/?do=findComment&comment=182960)
 - [Vacante Director de Subdivision vACC Chile](https://forums.vatsim.net/topic/31951-vacante-director-de-subdivision-vacc-chile/?do=findComment&comment=182958)
 - [El Comando Élite de Controladores de VATSUR te necesita!!!](https://forums.vatsim.net/topic/31171-el-comando-%C3%A9lite-de-controladores-de-vatsur-te-necesita/?do=findComment&comment=182957)
 - [Vacante: Director de Operaciones de VATSUR (VATSUR5)](https://forums.vatsim.net/topic/30402-vacante-director-de-operaciones-de-vatsur-vatsur5/?do=findComment&comment=182955)
@@ -62,9 +65,6 @@
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182953)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=182952)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=182951)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=182950)
-- [Freight Dog virtual Air Cargo](https://forums.vatsim.net/topic/32089-freight-dog-virtual-air-cargo/?do=findComment&comment=182949)
-- [Appointment of Divisional Operations Director](https://forums.vatsim.net/topic/32088-appointment-of-divisional-operations-director/?do=findComment&comment=182948)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
