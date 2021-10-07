@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Oct. 9] The Ultimate Ultra Long Haul: with full ATC | by Project Firmament](https://forums.vatsim.net/topic/32063-oct-9-the-ultimate-ultra-long-haul-with-full-atc-by-project-firmament/?do=findComment&comment=182976)
 - [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182975)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=182974)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=182973)
@@ -64,7 +65,6 @@
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=182969)
 - [Vacante Director de Subdivision vACC Chile](https://forums.vatsim.net/topic/31951-vacante-director-de-subdivision-vacc-chile/?do=findComment&comment=182968)
 - [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182967)
-- [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182966)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
