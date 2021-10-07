@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=182972)
+- [Point regarding the creation of new divisions](https://forums.vatsim.net/topic/32082-point-regarding-the-creation-of-new-divisions/?do=findComment&comment=182971)
+- [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=182970)
+- [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=182969)
+- [Vacante Director de Subdivision vACC Chile](https://forums.vatsim.net/topic/31951-vacante-director-de-subdivision-vacc-chile/?do=findComment&comment=182968)
 - [fs2020 vpilot](https://forums.vatsim.net/topic/32030-fs2020-vpilot/?do=findComment&comment=182967)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182966)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182965)
 - [MSFS2020 Issue with Flight Plans (Parking)](https://forums.vatsim.net/topic/31928-msfs2020-issue-with-flight-plans-parking/?do=findComment&comment=182964)
 - [Saving window layout and map features](https://forums.vatsim.net/topic/32091-saving-window-layout-and-map-features/?do=findComment&comment=182963)
-- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=182962)
-- [Special Operations Administration Structure](https://forums.vatsim.net/topic/32086-special-operations-administration-structure/?do=findComment&comment=182961)
-- [Special Operations - Deputy Director Announced](https://forums.vatsim.net/topic/32090-special-operations-deputy-director-announced/?do=findComment&comment=182960)
-- [Vacante Director de Subdivision vACC Chile](https://forums.vatsim.net/topic/31951-vacante-director-de-subdivision-vacc-chile/?do=findComment&comment=182958)
-- [El Comando Élite de Controladores de VATSUR te necesita!!!](https://forums.vatsim.net/topic/31171-el-comando-%C3%A9lite-de-controladores-de-vatsur-te-necesita/?do=findComment&comment=182957)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
