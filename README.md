@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [First Mayday On Vatsim](https://forums.vatsim.net/topic/32092-first-mayday-on-vatsim/?do=findComment&comment=182998)
 - [First Mayday On Vatsim](https://forums.vatsim.net/topic/32092-first-mayday-on-vatsim/?do=findComment&comment=182997)
 - [Saving window layout and map features](https://forums.vatsim.net/topic/32091-saving-window-layout-and-map-features/?do=findComment&comment=182995)
 - [Swift and FS9](https://forums.vatsim.net/topic/30802-swift-and-fs9/?do=findComment&comment=182994)
@@ -64,7 +65,6 @@
 - [First Mayday On Vatsim](https://forums.vatsim.net/topic/32092-first-mayday-on-vatsim/?do=findComment&comment=182990)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=182989)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=182988)
-- [Vatspy Not Working Windows 11](https://forums.vatsim.net/topic/32087-vatspy-not-working-windows-11/?do=findComment&comment=182987)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
