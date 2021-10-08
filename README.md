@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM connected Desktop Map with charted Airports](https://forums.vatsim.net/topic/32094-vatsim-connected-desktop-map-with-charted-airports/?do=findComment&comment=183006)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=183005)
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=183004)
 - [My new phobia](https://forums.vatsim.net/topic/32057-my-new-phobia/?do=findComment&comment=183003)
@@ -64,7 +65,6 @@
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=182999)
 - [First Mayday On Vatsim](https://forums.vatsim.net/topic/32092-first-mayday-on-vatsim/?do=findComment&comment=182998)
 - [First Mayday On Vatsim](https://forums.vatsim.net/topic/32092-first-mayday-on-vatsim/?do=findComment&comment=182997)
-- [Saving window layout and map features](https://forums.vatsim.net/topic/32091-saving-window-layout-and-map-features/?do=findComment&comment=182995)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
