@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183035)
+- [4.01(b) Restricted Aerodrome / Airspace](https://forums.vatsim.net/topic/32097-401b-restricted-aerodrome-airspace/?do=findComment&comment=183034)
+- [Thoughts regarding Section 3 of the GCAP](https://forums.vatsim.net/topic/32096-thoughts-regarding-section-3-of-the-gcap/?do=findComment&comment=183033)
 - [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183032)
 - [Spanish 12/10/2021 "Day of Hispanic World" Air parade](https://forums.vatsim.net/topic/31843-spanish-12102021-day-of-hispanic-world-air-parade/?do=findComment&comment=183031)
 - [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183030)
@@ -62,9 +65,6 @@
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183028)
 - [Couldn't find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=183027)
 - [Could Not Find VATSIM Connection Error?](https://forums.vatsim.net/topic/31839-could-not-find-vatsim-connection-error/?do=findComment&comment=183026)
-- [Couldn't find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=183025)
-- [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183024)
-- [Thoughts regarding Section 3 of the GCAP](https://forums.vatsim.net/topic/32096-thoughts-regarding-section-3-of-the-gcap/?do=findComment&comment=183023)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
