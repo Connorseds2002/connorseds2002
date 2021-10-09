@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Never thought I would get into gaming so seriously](https://forums.vatsim.net/topic/32103-never-thought-i-would-get-into-gaming-so-seriously/?do=findComment&comment=183052)
 - [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183051)
 - [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183050)
 - [So last night AVS lied to me and tonight my radio died on me](https://forums.vatsim.net/topic/32102-so-last-night-avs-lied-to-me-and-tonight-my-radio-died-on-me/?do=findComment&comment=183049)
@@ -64,7 +65,6 @@
 - [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183045)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183044)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183043)
-- [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183042)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
