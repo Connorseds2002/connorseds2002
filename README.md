@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [You must select a server in settings panel](https://forums.vatsim.net/topic/32101-you-must-select-a-server-in-settings-panel/?do=findComment&comment=183040)
 - [First Mayday On Vatsim](https://forums.vatsim.net/topic/32092-first-mayday-on-vatsim/?do=findComment&comment=183039)
 - [You must select a server in settings panel](https://forums.vatsim.net/topic/32101-you-must-select-a-server-in-settings-panel/?do=findComment&comment=183038)
 - [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=183037)
@@ -64,7 +65,6 @@
 - [Thoughts regarding Section 3 of the GCAP](https://forums.vatsim.net/topic/32096-thoughts-regarding-section-3-of-the-gcap/?do=findComment&comment=183033)
 - [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183032)
 - [Spanish 12/10/2021 "Day of Hispanic World" Air parade](https://forums.vatsim.net/topic/31843-spanish-12102021-day-of-hispanic-world-air-parade/?do=findComment&comment=183031)
-- [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183030)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
