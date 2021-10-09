@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183024)
+- [Thoughts regarding Section 3 of the GCAP](https://forums.vatsim.net/topic/32096-thoughts-regarding-section-3-of-the-gcap/?do=findComment&comment=183023)
+- [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183022)
 - [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183021)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183020)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183019)
@@ -62,9 +65,6 @@
 - [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183017)
 - [4.01(b) Restricted Aerodrome / Airspace](https://forums.vatsim.net/topic/32097-401b-restricted-aerodrome-airspace/?do=findComment&comment=183016)
 - [Thoughts regarding Section 3 of the GCAP](https://forums.vatsim.net/topic/32096-thoughts-regarding-section-3-of-the-gcap/?do=findComment&comment=183015)
-- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=183014)
-- [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183013)
-- [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183012)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
