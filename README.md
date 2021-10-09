@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183051)
+- [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183050)
 - [So last night AVS lied to me and tonight my radio died on me](https://forums.vatsim.net/topic/32102-so-last-night-avs-lied-to-me-and-tonight-my-radio-died-on-me/?do=findComment&comment=183049)
 - [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183048)
 - [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183047)
@@ -63,8 +65,6 @@
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183044)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183043)
 - [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183042)
-- [First Mayday On Vatsim](https://forums.vatsim.net/topic/32092-first-mayday-on-vatsim/?do=findComment&comment=183041)
-- [You must select a server in settings panel](https://forums.vatsim.net/topic/32101-you-must-select-a-server-in-settings-panel/?do=findComment&comment=183040)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
