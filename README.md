@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Couldn't find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=183027)
+- [Could Not Find VATSIM Connection Error?](https://forums.vatsim.net/topic/31839-could-not-find-vatsim-connection-error/?do=findComment&comment=183026)
+- [Couldn't find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=183025)
 - [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183024)
 - [Thoughts regarding Section 3 of the GCAP](https://forums.vatsim.net/topic/32096-thoughts-regarding-section-3-of-the-gcap/?do=findComment&comment=183023)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183022)
@@ -62,9 +65,6 @@
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183020)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183019)
 - [7.09(d) S1 rating practical evaluation](https://forums.vatsim.net/topic/32065-709d-s1-rating-practical-evaluation/?do=findComment&comment=183018)
-- [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183017)
-- [4.01(b) Restricted Aerodrome / Airspace](https://forums.vatsim.net/topic/32097-401b-restricted-aerodrome-airspace/?do=findComment&comment=183016)
-- [Thoughts regarding Section 3 of the GCAP](https://forums.vatsim.net/topic/32096-thoughts-regarding-section-3-of-the-gcap/?do=findComment&comment=183015)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
