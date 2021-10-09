@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183019)
+- [7.09(d) S1 rating practical evaluation](https://forums.vatsim.net/topic/32065-709d-s1-rating-practical-evaluation/?do=findComment&comment=183018)
+- [5.02(a)(i) FSS and S1](https://forums.vatsim.net/topic/32098-502ai-fss-and-s1/?do=findComment&comment=183017)
+- [4.01(b) Restricted Aerodrome / Airspace](https://forums.vatsim.net/topic/32097-401b-restricted-aerodrome-airspace/?do=findComment&comment=183016)
+- [Thoughts regarding Section 3 of the GCAP](https://forums.vatsim.net/topic/32096-thoughts-regarding-section-3-of-the-gcap/?do=findComment&comment=183015)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=183014)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183013)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183012)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=183011)
 - [First Mayday On Vatsim](https://forums.vatsim.net/topic/32092-first-mayday-on-vatsim/?do=findComment&comment=183010)
-- [Matching rules are not working](https://forums.vatsim.net/topic/31882-matching-rules-are-not-working/?do=findComment&comment=183009)
-- [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183008)
-- [First Mayday On Vatsim](https://forums.vatsim.net/topic/32092-first-mayday-on-vatsim/?do=findComment&comment=183007)
-- [VATSIM connected Desktop Map with charted Airports](https://forums.vatsim.net/topic/32094-vatsim-connected-desktop-map-with-charted-airports/?do=findComment&comment=183006)
-- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=183005)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
