@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183094)
+- [Less than 24 hours left to join the CTP Slot Lottery!](https://forums.vatsim.net/topic/32110-less-than-24-hours-left-to-join-the-ctp-slot-lottery/?do=findComment&comment=183093)
 - [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183092)
 - [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183091)
 - [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183090)
@@ -63,8 +65,6 @@
 - [VATSIM SSO & Moodle](https://forums.vatsim.net/topic/32108-vatsim-sso-moodle/?do=findComment&comment=183087)
 - [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183086)
 - [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183085)
-- [Fixed bug that caused NORDO on some Oceanic/HF frequencies](https://forums.vatsim.net/topic/32107-fixed-bug-that-caused-nordo-on-some-oceanichf-frequencies/?do=findComment&comment=183084)
-- [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183083)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
