@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [You must select a server in settings panel](https://forums.vatsim.net/topic/32101-you-must-select-a-server-in-settings-panel/?do=findComment&comment=183064)
+- [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183063)
+- [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183062)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183061)
 - [So last night AVS lied to me and tonight my radio died on me](https://forums.vatsim.net/topic/32102-so-last-night-avs-lied-to-me-and-tonight-my-radio-died-on-me/?do=findComment&comment=183060)
 - [Never thought I would get into gaming so seriously](https://forums.vatsim.net/topic/32103-never-thought-i-would-get-into-gaming-so-seriously/?do=findComment&comment=183059)
@@ -62,9 +65,6 @@
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=183057)
 - [Apologizing to controllers for CTDs](https://forums.vatsim.net/topic/32104-apologizing-to-controllers-for-ctds/?do=findComment&comment=183056)
 - [Never thought I would get into gaming so seriously](https://forums.vatsim.net/topic/32103-never-thought-i-would-get-into-gaming-so-seriously/?do=findComment&comment=183055)
-- [Apologizing to controllers for CTDs](https://forums.vatsim.net/topic/32104-apologizing-to-controllers-for-ctds/?do=findComment&comment=183054)
-- [Some concerns and suggestions for GCAP](https://forums.vatsim.net/topic/32100-some-concerns-and-suggestions-for-gcap/?do=findComment&comment=183053)
-- [Never thought I would get into gaming so seriously](https://forums.vatsim.net/topic/32103-never-thought-i-would-get-into-gaming-so-seriously/?do=findComment&comment=183052)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
