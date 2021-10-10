@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183079)
+- [Never thought I would get into gaming so seriously](https://forums.vatsim.net/topic/32103-never-thought-i-would-get-into-gaming-so-seriously/?do=findComment&comment=183078)
+- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183077)
+- [Never thought I would get into gaming so seriously](https://forums.vatsim.net/topic/32103-never-thought-i-would-get-into-gaming-so-seriously/?do=findComment&comment=183076)
 - [Apologizing to controllers for CTDs](https://forums.vatsim.net/topic/32104-apologizing-to-controllers-for-ctds/?do=findComment&comment=183075)
 - [VATSIM connected Desktop Map with charted Airports](https://forums.vatsim.net/topic/32094-vatsim-connected-desktop-map-with-charted-airports/?do=findComment&comment=183074)
 - [V-pilot Installation issues](https://forums.vatsim.net/topic/28866-v-pilot-installation-issues/?do=findComment&comment=183073)
 - [VATSIM connected Desktop Map with charted Airports](https://forums.vatsim.net/topic/32094-vatsim-connected-desktop-map-with-charted-airports/?do=findComment&comment=183072)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183071)
 - [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183070)
-- [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183069)
-- [Saving window layout and map features](https://forums.vatsim.net/topic/32091-saving-window-layout-and-map-features/?do=findComment&comment=183068)
-- [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183067)
-- [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183066)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
