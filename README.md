@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Creation and Update of Sector Files VATIL](https://forums.vatsim.net/topic/32111-creation-and-update-of-sector-files-vatil/?do=findComment&comment=183097)
+- [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183096)
+- [You must select a server in settings panel](https://forums.vatsim.net/topic/32101-you-must-select-a-server-in-settings-panel/?do=findComment&comment=183095)
 - [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183094)
 - [Less than 24 hours left to join the CTP Slot Lottery!](https://forums.vatsim.net/topic/32110-less-than-24-hours-left-to-join-the-ctp-slot-lottery/?do=findComment&comment=183093)
 - [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183092)
@@ -62,9 +65,6 @@
 - [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183090)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=183089)
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=183088)
-- [VATSIM SSO & Moodle](https://forums.vatsim.net/topic/32108-vatsim-sso-moodle/?do=findComment&comment=183087)
-- [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183086)
-- [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183085)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
