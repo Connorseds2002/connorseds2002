@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Apologizing to controllers for CTDs](https://forums.vatsim.net/topic/32104-apologizing-to-controllers-for-ctds/?do=findComment&comment=183075)
+- [VATSIM connected Desktop Map with charted Airports](https://forums.vatsim.net/topic/32094-vatsim-connected-desktop-map-with-charted-airports/?do=findComment&comment=183074)
 - [V-pilot Installation issues](https://forums.vatsim.net/topic/28866-v-pilot-installation-issues/?do=findComment&comment=183073)
 - [VATSIM connected Desktop Map with charted Airports](https://forums.vatsim.net/topic/32094-vatsim-connected-desktop-map-with-charted-airports/?do=findComment&comment=183072)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183071)
@@ -63,8 +65,6 @@
 - [Saving window layout and map features](https://forums.vatsim.net/topic/32091-saving-window-layout-and-map-features/?do=findComment&comment=183068)
 - [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183067)
 - [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183066)
-- [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=183065)
-- [You must select a server in settings panel](https://forums.vatsim.net/topic/32101-you-must-select-a-server-in-settings-panel/?do=findComment&comment=183064)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
