@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM connected Desktop Map with charted Airports](https://forums.vatsim.net/topic/32094-vatsim-connected-desktop-map-with-charted-airports/?do=findComment&comment=183072)
+- [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183071)
 - [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183070)
 - [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183069)
 - [Saving window layout and map features](https://forums.vatsim.net/topic/32091-saving-window-layout-and-map-features/?do=findComment&comment=183068)
@@ -63,8 +65,6 @@
 - [internal library error 20](https://forums.vatsim.net/topic/31187-internal-library-error-20/?do=findComment&comment=183065)
 - [You must select a server in settings panel](https://forums.vatsim.net/topic/32101-you-must-select-a-server-in-settings-panel/?do=findComment&comment=183064)
 - [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183063)
-- [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183062)
-- [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32095-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183061)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
