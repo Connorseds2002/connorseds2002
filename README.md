@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM SSO & Moodle](https://forums.vatsim.net/topic/32108-vatsim-sso-moodle/?do=findComment&comment=183087)
+- [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183086)
 - [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183085)
 - [Fixed bug that caused NORDO on some Oceanic/HF frequencies](https://forums.vatsim.net/topic/32107-fixed-bug-that-caused-nordo-on-some-oceanichf-frequencies/?do=findComment&comment=183084)
 - [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183083)
@@ -63,8 +65,6 @@
 - [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183080)
 - [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183079)
 - [Never thought I would get into gaming so seriously](https://forums.vatsim.net/topic/32103-never-thought-i-would-get-into-gaming-so-seriously/?do=findComment&comment=183078)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183077)
-- [Never thought I would get into gaming so seriously](https://forums.vatsim.net/topic/32103-never-thought-i-would-get-into-gaming-so-seriously/?do=findComment&comment=183076)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
