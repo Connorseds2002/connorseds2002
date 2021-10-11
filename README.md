@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [So last night AVS lied to me and tonight my radio died on me](https://forums.vatsim.net/topic/32102-so-last-night-avs-lied-to-me-and-tonight-my-radio-died-on-me/?do=findComment&comment=183102)
 - [Position Vacancy - Special Operations Regional Advisor - USA](https://forums.vatsim.net/topic/32113-position-vacancy-special-operations-regional-advisor-usa/?do=findComment&comment=183101)
 - [Opportunity - Chief Flight Instructor Special Operations](https://forums.vatsim.net/topic/32112-opportunity-chief-flight-instructor-special-operations/?do=findComment&comment=183100)
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=183099)
@@ -64,7 +65,6 @@
 - [You must select a server in settings panel](https://forums.vatsim.net/topic/32101-you-must-select-a-server-in-settings-panel/?do=findComment&comment=183095)
 - [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183094)
 - [Less than 24 hours left to join the CTP Slot Lottery!](https://forums.vatsim.net/topic/32110-less-than-24-hours-left-to-join-the-ctp-slot-lottery/?do=findComment&comment=183093)
-- [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183092)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
