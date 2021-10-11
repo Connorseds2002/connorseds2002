@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATITA Discord Server](https://forums.vatsim.net/topic/29989-vatita-discord-server/?do=findComment&comment=183108)
+- [Getting Started](https://forums.vatsim.net/topic/32114-getting-started/?do=findComment&comment=183107)
+- [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183106)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183105)
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=183104)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183103)
@@ -62,9 +65,6 @@
 - [Position Vacancy - Special Operations Regional Advisor - USA](https://forums.vatsim.net/topic/32113-position-vacancy-special-operations-regional-advisor-usa/?do=findComment&comment=183101)
 - [Opportunity - Chief Flight Instructor Special Operations](https://forums.vatsim.net/topic/32112-opportunity-chief-flight-instructor-special-operations/?do=findComment&comment=183100)
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=183099)
-- [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183098)
-- [Creation and Update of Sector Files VATIL](https://forums.vatsim.net/topic/32111-creation-and-update-of-sector-files-vatil/?do=findComment&comment=183097)
-- [Vpilot not squawking mode C](https://forums.vatsim.net/topic/32105-vpilot-not-squawking-mode-c/?do=findComment&comment=183096)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
