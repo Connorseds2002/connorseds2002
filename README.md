@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183109)
 - [VATITA Discord Server](https://forums.vatsim.net/topic/29989-vatita-discord-server/?do=findComment&comment=183108)
 - [Getting Started](https://forums.vatsim.net/topic/32114-getting-started/?do=findComment&comment=183107)
 - [Formal Warning COC A8 - How to go forward?](https://forums.vatsim.net/topic/32106-formal-warning-coc-a8-how-to-go-forward/?do=findComment&comment=183106)
@@ -64,7 +65,6 @@
 - [So last night AVS lied to me and tonight my radio died on me](https://forums.vatsim.net/topic/32102-so-last-night-avs-lied-to-me-and-tonight-my-radio-died-on-me/?do=findComment&comment=183102)
 - [Position Vacancy - Special Operations Regional Advisor - USA](https://forums.vatsim.net/topic/32113-position-vacancy-special-operations-regional-advisor-usa/?do=findComment&comment=183101)
 - [Opportunity - Chief Flight Instructor Special Operations](https://forums.vatsim.net/topic/32112-opportunity-chief-flight-instructor-special-operations/?do=findComment&comment=183100)
-- [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=183099)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
