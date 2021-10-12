@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [lights on airplanes all over vatsim (msfs2020)](https://forums.vatsim.net/topic/32121-lights-on-airplanes-all-over-vatsim-msfs2020/?do=findComment&comment=183132)
+- [FS2020 Squawk code changing automatically](https://forums.vatsim.net/topic/32119-fs2020-squawk-code-changing-automatically/?do=findComment&comment=183131)
+- [RBL from Fix](https://forums.vatsim.net/topic/32120-rbl-from-fix/?do=findComment&comment=183130)
 - [FS2020 Squawk code changing automatically](https://forums.vatsim.net/topic/32119-fs2020-squawk-code-changing-automatically/?do=findComment&comment=183129)
 - [RBL from Fix](https://forums.vatsim.net/topic/32120-rbl-from-fix/?do=findComment&comment=183128)
 - [FS2020 Squawk code changing automatically](https://forums.vatsim.net/topic/32119-fs2020-squawk-code-changing-automatically/?do=findComment&comment=183127)
@@ -62,9 +65,6 @@
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=183125)
 - [Invalid Vatsim CID Password error](https://forums.vatsim.net/topic/32118-invalid-vatsim-cid-password-error/?do=findComment&comment=183124)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183123)
-- [Airbus NEO models not shown](https://forums.vatsim.net/topic/32117-airbus-neo-models-not-shown/?do=findComment&comment=183122)
-- [Airbus NEO models not shown](https://forums.vatsim.net/topic/32117-airbus-neo-models-not-shown/?do=findComment&comment=183121)
-- [Multibyte Charactors in the Chat Box](https://forums.vatsim.net/topic/32116-multibyte-charactors-in-the-chat-box/?do=findComment&comment=183120)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
