@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid Vatsim CID Password error](https://forums.vatsim.net/topic/32118-invalid-vatsim-cid-password-error/?do=findComment&comment=183124)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183123)
 - [Airbus NEO models not shown](https://forums.vatsim.net/topic/32117-airbus-neo-models-not-shown/?do=findComment&comment=183122)
 - [Airbus NEO models not shown](https://forums.vatsim.net/topic/32117-airbus-neo-models-not-shown/?do=findComment&comment=183121)
@@ -64,7 +65,6 @@
 - [Audio for Vatsim automatically disconnects (Euroscope)](https://forums.vatsim.net/topic/32115-audio-for-vatsim-automatically-disconnects-euroscope/?do=findComment&comment=183117)
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=183116)
 - [Vpilot SSL/TLS problem](https://forums.vatsim.net/topic/32064-vpilot-ssltls-problem/?do=findComment&comment=183115)
-- [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=183114)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
