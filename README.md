@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Audio for Vatsim automatically disconnects (Euroscope)](https://forums.vatsim.net/topic/32115-audio-for-vatsim-automatically-disconnects-euroscope/?do=findComment&comment=183117)
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=183116)
 - [Vpilot SSL/TLS problem](https://forums.vatsim.net/topic/32064-vpilot-ssltls-problem/?do=findComment&comment=183115)
 - [8.06 Vatsim's aversion of downgrades and its consequences](https://forums.vatsim.net/topic/31701-806-vatsims-aversion-of-downgrades-and-its-consequences/?do=findComment&comment=183114)
@@ -64,7 +65,6 @@
 - [Audio for Vatsim automatically disconnects (Euroscope)](https://forums.vatsim.net/topic/32115-audio-for-vatsim-automatically-disconnects-euroscope/?do=findComment&comment=183110)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183109)
 - [VATITA Discord Server](https://forums.vatsim.net/topic/29989-vatita-discord-server/?do=findComment&comment=183108)
-- [Getting Started](https://forums.vatsim.net/topic/32114-getting-started/?do=findComment&comment=183107)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
