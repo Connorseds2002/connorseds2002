@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Special Operations Administration Structure](https://forums.vatsim.net/topic/32086-special-operations-administration-structure/?do=findComment&comment=183138)
+- [Aircraft Type Not Working?](https://forums.vatsim.net/topic/32122-aircraft-type-not-working/?do=findComment&comment=183137)
 - [RBL from Fix](https://forums.vatsim.net/topic/32120-rbl-from-fix/?do=findComment&comment=183136)
 - [Invalid Vatsim CID Password error](https://forums.vatsim.net/topic/32118-invalid-vatsim-cid-password-error/?do=findComment&comment=183135)
 - [RBL from Fix](https://forums.vatsim.net/topic/32120-rbl-from-fix/?do=findComment&comment=183134)
@@ -63,8 +65,6 @@
 - [FS2020 Squawk code changing automatically](https://forums.vatsim.net/topic/32119-fs2020-squawk-code-changing-automatically/?do=findComment&comment=183131)
 - [RBL from Fix](https://forums.vatsim.net/topic/32120-rbl-from-fix/?do=findComment&comment=183130)
 - [FS2020 Squawk code changing automatically](https://forums.vatsim.net/topic/32119-fs2020-squawk-code-changing-automatically/?do=findComment&comment=183129)
-- [RBL from Fix](https://forums.vatsim.net/topic/32120-rbl-from-fix/?do=findComment&comment=183128)
-- [FS2020 Squawk code changing automatically](https://forums.vatsim.net/topic/32119-fs2020-squawk-code-changing-automatically/?do=findComment&comment=183127)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
