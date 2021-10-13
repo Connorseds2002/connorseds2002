@@ -55,12 +55,12 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Data breach](https://forums.vatsim.net/topic/32123-data-breach/?do=findComment&comment=183144)
 - [VATSIM SSO & Moodle](https://forums.vatsim.net/topic/32108-vatsim-sso-moodle/?do=findComment&comment=183143)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183142)
 - [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183141)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183140)
 - [Data breach](https://forums.vatsim.net/topic/32123-data-breach/?do=findComment&comment=183139)
-- [Special Operations Administration Structure](https://forums.vatsim.net/topic/32086-special-operations-administration-structure/?do=findComment&comment=183138)
 - [Aircraft Type Not Working?](https://forums.vatsim.net/topic/32122-aircraft-type-not-working/?do=findComment&comment=183137)
 - [RBL from Fix](https://forums.vatsim.net/topic/32120-rbl-from-fix/?do=findComment&comment=183136)
 - [Invalid Vatsim CID Password error](https://forums.vatsim.net/topic/32118-invalid-vatsim-cid-password-error/?do=findComment&comment=183135)
