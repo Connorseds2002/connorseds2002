@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM SSO & Moodle](https://forums.vatsim.net/topic/32108-vatsim-sso-moodle/?do=findComment&comment=183143)
+- [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183142)
 - [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183141)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183140)
 - [Data breach](https://forums.vatsim.net/topic/32123-data-breach/?do=findComment&comment=183139)
@@ -63,8 +65,6 @@
 - [RBL from Fix](https://forums.vatsim.net/topic/32120-rbl-from-fix/?do=findComment&comment=183136)
 - [Invalid Vatsim CID Password error](https://forums.vatsim.net/topic/32118-invalid-vatsim-cid-password-error/?do=findComment&comment=183135)
 - [RBL from Fix](https://forums.vatsim.net/topic/32120-rbl-from-fix/?do=findComment&comment=183134)
-- [Looking for copilot for Toliss A321](https://forums.vatsim.net/topic/32080-looking-for-copilot-for-toliss-a321/?do=findComment&comment=183133)
-- [lights on airplanes all over vatsim (msfs2020)](https://forums.vatsim.net/topic/32121-lights-on-airplanes-all-over-vatsim-msfs2020/?do=findComment&comment=183132)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
