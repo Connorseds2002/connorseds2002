@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183141)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183140)
 - [Data breach](https://forums.vatsim.net/topic/32123-data-breach/?do=findComment&comment=183139)
 - [Special Operations Administration Structure](https://forums.vatsim.net/topic/32086-special-operations-administration-structure/?do=findComment&comment=183138)
@@ -64,7 +65,6 @@
 - [RBL from Fix](https://forums.vatsim.net/topic/32120-rbl-from-fix/?do=findComment&comment=183134)
 - [Looking for copilot for Toliss A321](https://forums.vatsim.net/topic/32080-looking-for-copilot-for-toliss-a321/?do=findComment&comment=183133)
 - [lights on airplanes all over vatsim (msfs2020)](https://forums.vatsim.net/topic/32121-lights-on-airplanes-all-over-vatsim-msfs2020/?do=findComment&comment=183132)
-- [FS2020 Squawk code changing automatically](https://forums.vatsim.net/topic/32119-fs2020-squawk-code-changing-automatically/?do=findComment&comment=183131)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
