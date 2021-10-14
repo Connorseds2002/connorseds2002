@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can someone give me the radio/nav equipment, trasponder type and PBN for the MSFS Beechcraft Bonanza G36, for simbrief](https://forums.vatsim.net/topic/29483-can-someone-give-me-the-radionav-equipment-trasponder-type-and-pbn-for-the-msfs-beechcraft-bonanza-g36-for-simbrief/?do=findComment&comment=183156)
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=183155)
 - [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183154)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=183153)
@@ -64,7 +65,6 @@
 - [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183148)
 - [The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.](https://forums.vatsim.net/topic/32125-the-underlying-connection-was-closed-could-not-establish-trust-relationship-for-the-ssltls-secure-channel/?do=findComment&comment=183147)
 - [Data breach](https://forums.vatsim.net/topic/32123-data-breach/?do=findComment&comment=183146)
-- [Data breach](https://forums.vatsim.net/topic/32123-data-breach/?do=findComment&comment=183145)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
