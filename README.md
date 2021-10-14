@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Revalidated Vatsim ID, but still cannot connect](https://forums.vatsim.net/topic/32126-revalidated-vatsim-id-but-still-cannot-connect/?do=findComment&comment=183151)
 - [The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.](https://forums.vatsim.net/topic/32125-the-underlying-connection-was-closed-could-not-establish-trust-relationship-for-the-ssltls-secure-channel/?do=findComment&comment=183149)
 - [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183148)
 - [The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.](https://forums.vatsim.net/topic/32125-the-underlying-connection-was-closed-could-not-establish-trust-relationship-for-the-ssltls-secure-channel/?do=findComment&comment=183147)
@@ -64,7 +65,6 @@
 - [VATSIM SSO & Moodle](https://forums.vatsim.net/topic/32108-vatsim-sso-moodle/?do=findComment&comment=183143)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183142)
 - [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183141)
-- [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183140)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
