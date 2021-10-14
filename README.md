@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Revalidated Vatsim ID, but still cannot connect](https://forums.vatsim.net/topic/32126-revalidated-vatsim-id-but-still-cannot-connect/?do=findComment&comment=183159)
 - [Fatal error](https://forums.vatsim.net/topic/32128-fatal-error/?do=findComment&comment=183158)
 - [Error simconnect client library](https://forums.vatsim.net/topic/32127-error-simconnect-client-library/?do=findComment&comment=183157)
 - [Can someone give me the radio/nav equipment, trasponder type and PBN for the MSFS Beechcraft Bonanza G36, for simbrief](https://forums.vatsim.net/topic/29483-can-someone-give-me-the-radionav-equipment-trasponder-type-and-pbn-for-the-msfs-beechcraft-bonanza-g36-for-simbrief/?do=findComment&comment=183156)
@@ -64,7 +65,6 @@
 - [Cannot map appropriate button for PTT (Honeycomb)](https://forums.vatsim.net/topic/31517-cannot-map-appropriate-button-for-ptt-honeycomb/?do=findComment&comment=183152)
 - [Revalidated Vatsim ID, but still cannot connect](https://forums.vatsim.net/topic/32126-revalidated-vatsim-id-but-still-cannot-connect/?do=findComment&comment=183151)
 - [The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.](https://forums.vatsim.net/topic/32125-the-underlying-connection-was-closed-could-not-establish-trust-relationship-for-the-ssltls-secure-channel/?do=findComment&comment=183149)
-- [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183148)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
