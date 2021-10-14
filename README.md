@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=183155)
 - [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183154)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=183153)
 - [Cannot map appropriate button for PTT (Honeycomb)](https://forums.vatsim.net/topic/31517-cannot-map-appropriate-button-for-ptt-honeycomb/?do=findComment&comment=183152)
@@ -64,7 +65,6 @@
 - [The underlying connection was closed: Could not establish trust relationship for the SSL/TLS secure channel.](https://forums.vatsim.net/topic/32125-the-underlying-connection-was-closed-could-not-establish-trust-relationship-for-the-ssltls-secure-channel/?do=findComment&comment=183147)
 - [Data breach](https://forums.vatsim.net/topic/32123-data-breach/?do=findComment&comment=183146)
 - [Data breach](https://forums.vatsim.net/topic/32123-data-breach/?do=findComment&comment=183145)
-- [Data breach](https://forums.vatsim.net/topic/32123-data-breach/?do=findComment&comment=183144)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
