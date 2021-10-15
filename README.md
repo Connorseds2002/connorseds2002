@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183169)
+- [Can someone give me the radio/nav equipment, trasponder type and PBN for the MSFS Beechcraft Bonanza G36, for simbrief](https://forums.vatsim.net/topic/29483-can-someone-give-me-the-radionav-equipment-trasponder-type-and-pbn-for-the-msfs-beechcraft-bonanza-g36-for-simbrief/?do=findComment&comment=183168)
 - [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=183167)
 - [Help.. Xpilot will not connect to Xplane no matter what I try](https://forums.vatsim.net/topic/32130-help-xpilot-will-not-connect-to-xplane-no-matter-what-i-try/?do=findComment&comment=183166)
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183165)
@@ -63,8 +65,6 @@
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183162)
 - [Can someone give me the radio/nav equipment, trasponder type and PBN for the MSFS Beechcraft Bonanza G36, for simbrief](https://forums.vatsim.net/topic/29483-can-someone-give-me-the-radionav-equipment-trasponder-type-and-pbn-for-the-msfs-beechcraft-bonanza-g36-for-simbrief/?do=findComment&comment=183160)
 - [Revalidated Vatsim ID, but still cannot connect](https://forums.vatsim.net/topic/32126-revalidated-vatsim-id-but-still-cannot-connect/?do=findComment&comment=183159)
-- [Fatal error](https://forums.vatsim.net/topic/32128-fatal-error/?do=findComment&comment=183158)
-- [Error simconnect client library](https://forums.vatsim.net/topic/32127-error-simconnect-client-library/?do=findComment&comment=183157)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
