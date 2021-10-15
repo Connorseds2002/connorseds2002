@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183163)
+- [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183162)
 - [Can someone give me the radio/nav equipment, trasponder type and PBN for the MSFS Beechcraft Bonanza G36, for simbrief](https://forums.vatsim.net/topic/29483-can-someone-give-me-the-radionav-equipment-trasponder-type-and-pbn-for-the-msfs-beechcraft-bonanza-g36-for-simbrief/?do=findComment&comment=183160)
 - [Revalidated Vatsim ID, but still cannot connect](https://forums.vatsim.net/topic/32126-revalidated-vatsim-id-but-still-cannot-connect/?do=findComment&comment=183159)
 - [Fatal error](https://forums.vatsim.net/topic/32128-fatal-error/?do=findComment&comment=183158)
@@ -63,8 +65,6 @@
 - [Vpilot crashes once opened](https://forums.vatsim.net/topic/32039-vpilot-crashes-once-opened/?do=findComment&comment=183155)
 - [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183154)
 - [Invalid CID/Password](https://forums.vatsim.net/topic/30928-invalid-cidpassword/?do=findComment&comment=183153)
-- [Cannot map appropriate button for PTT (Honeycomb)](https://forums.vatsim.net/topic/31517-cannot-map-appropriate-button-for-ptt-honeycomb/?do=findComment&comment=183152)
-- [Revalidated Vatsim ID, but still cannot connect](https://forums.vatsim.net/topic/32126-revalidated-vatsim-id-but-still-cannot-connect/?do=findComment&comment=183151)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
