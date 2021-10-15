@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Matching After Following all Videos half working MS2020](https://forums.vatsim.net/topic/32131-model-matching-after-following-all-videos-half-working-ms2020/?do=findComment&comment=183173)
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183172)
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183171)
 - [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183170)
@@ -64,7 +65,6 @@
 - [Help.. Xpilot will not connect to Xplane no matter what I try](https://forums.vatsim.net/topic/32130-help-xpilot-will-not-connect-to-xplane-no-matter-what-i-try/?do=findComment&comment=183166)
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183165)
 - [SkyLink Virtual Airline call sign recognition (SIK)](https://forums.vatsim.net/topic/32099-skylink-virtual-airline-call-sign-recognition-sik/?do=findComment&comment=183164)
-- [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183163)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
