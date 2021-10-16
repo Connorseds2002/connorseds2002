@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183194)
+- [VFR to IFR in flight](https://forums.vatsim.net/topic/32136-vfr-to-ifr-in-flight/?do=findComment&comment=183193)
+- [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=183192)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183191)
 - [Planning my next flight](https://forums.vatsim.net/topic/32135-planning-my-next-flight/?do=findComment&comment=183190)
 - [VFR to IFR in flight](https://forums.vatsim.net/topic/32136-vfr-to-ifr-in-flight/?do=findComment&comment=183189)
@@ -62,9 +65,6 @@
 - [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=183187)
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183186)
 - [Planning my next flight](https://forums.vatsim.net/topic/32135-planning-my-next-flight/?do=findComment&comment=183185)
-- [Planning my next flight](https://forums.vatsim.net/topic/32135-planning-my-next-flight/?do=findComment&comment=183184)
-- [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183183)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183181)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
