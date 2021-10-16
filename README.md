@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Not hearing any audio and my calls go unanswered](https://forums.vatsim.net/topic/32139-not-hearing-any-audio-and-my-calls-go-unanswered/?do=findComment&comment=183197)
 - [Agenda: VATSIM Board of Governors Meeting Q3 - 2021 - 16 OCT 2021](https://forums.vatsim.net/topic/32138-agenda-vatsim-board-of-governors-meeting-q3-2021-16-oct-2021/?do=findComment&comment=183196)
 - [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183195)
 - [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183194)
@@ -64,7 +65,6 @@
 - [Planning my next flight](https://forums.vatsim.net/topic/32135-planning-my-next-flight/?do=findComment&comment=183190)
 - [VFR to IFR in flight](https://forums.vatsim.net/topic/32136-vfr-to-ifr-in-flight/?do=findComment&comment=183189)
 - [VFR to IFR in flight](https://forums.vatsim.net/topic/32136-vfr-to-ifr-in-flight/?do=findComment&comment=183188)
-- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=183187)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
