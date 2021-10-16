@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Agenda: VATSIM Board of Governors Meeting Q3 - 2021 - 16 OCT 2021](https://forums.vatsim.net/topic/32138-agenda-vatsim-board-of-governors-meeting-q3-2021-16-oct-2021/?do=findComment&comment=183196)
+- [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183195)
 - [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183194)
 - [VFR to IFR in flight](https://forums.vatsim.net/topic/32136-vfr-to-ifr-in-flight/?do=findComment&comment=183193)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=183192)
@@ -63,8 +65,6 @@
 - [VFR to IFR in flight](https://forums.vatsim.net/topic/32136-vfr-to-ifr-in-flight/?do=findComment&comment=183189)
 - [VFR to IFR in flight](https://forums.vatsim.net/topic/32136-vfr-to-ifr-in-flight/?do=findComment&comment=183188)
 - [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=183187)
-- [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183186)
-- [Planning my next flight](https://forums.vatsim.net/topic/32135-planning-my-next-flight/?do=findComment&comment=183185)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
