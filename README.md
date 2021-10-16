@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning my next flight](https://forums.vatsim.net/topic/32135-planning-my-next-flight/?do=findComment&comment=183185)
 - [Planning my next flight](https://forums.vatsim.net/topic/32135-planning-my-next-flight/?do=findComment&comment=183184)
 - [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183183)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183181)
@@ -64,7 +65,6 @@
 - [Spanish 12/10/2021 "Day of Hispanic World" Air parade](https://forums.vatsim.net/topic/31843-spanish-12102021-day-of-hispanic-world-air-parade/?do=findComment&comment=183177)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183176)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183175)
-- [Arrivals List with many aircraft](https://forums.vatsim.net/topic/32132-arrivals-list-with-many-aircraft/?do=findComment&comment=183174)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
