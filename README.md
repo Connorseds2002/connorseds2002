@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Spanish 12/10/2021 "Day of Hispanic World" Air parade](https://forums.vatsim.net/topic/31843-spanish-12102021-day-of-hispanic-world-air-parade/?do=findComment&comment=183177)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183176)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183175)
 - [Arrivals List with many aircraft](https://forums.vatsim.net/topic/32132-arrivals-list-with-many-aircraft/?do=findComment&comment=183174)
@@ -64,7 +65,6 @@
 - [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183170)
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183169)
 - [Can someone give me the radio/nav equipment, trasponder type and PBN for the MSFS Beechcraft Bonanza G36, for simbrief](https://forums.vatsim.net/topic/29483-can-someone-give-me-the-radionav-equipment-trasponder-type-and-pbn-for-the-msfs-beechcraft-bonanza-g36-for-simbrief/?do=findComment&comment=183168)
-- [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=183167)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
