@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183180)
+- [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183179)
 - [AFV - Constant Voice Disconnects on vPilot](https://forums.vatsim.net/topic/28436-afv-constant-voice-disconnects-on-vpilot/?do=findComment&comment=183178)
 - [Spanish 12/10/2021 "Day of Hispanic World" Air parade](https://forums.vatsim.net/topic/31843-spanish-12102021-day-of-hispanic-world-air-parade/?do=findComment&comment=183177)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183176)
@@ -63,8 +65,6 @@
 - [Model Matching After Following all Videos half working MS2020](https://forums.vatsim.net/topic/32131-model-matching-after-following-all-videos-half-working-ms2020/?do=findComment&comment=183173)
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183172)
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183171)
-- [Freetext Group and Colors](https://forums.vatsim.net/topic/32124-freetext-group-and-colors/?do=findComment&comment=183170)
-- [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183169)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
