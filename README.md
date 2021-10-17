@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183223)
+- [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=183222)
 - [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183221)
 - [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183220)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183219)
@@ -63,8 +65,6 @@
 - [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183216)
 - [Pen and Paper for ATC commands - an alternative](https://forums.vatsim.net/topic/32056-pen-and-paper-for-atc-commands-an-alternative/?do=findComment&comment=183215)
 - [Local language proficiency requirements](https://forums.vatsim.net/topic/31678-local-language-proficiency-requirements/?do=findComment&comment=183214)
-- [8.02(a) Staff Member Activity](https://forums.vatsim.net/topic/31779-802a-staff-member-activity/?do=findComment&comment=183213)
-- [Pen and Paper for ATC commands - an alternative](https://forums.vatsim.net/topic/32056-pen-and-paper-for-atc-commands-an-alternative/?do=findComment&comment=183212)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
