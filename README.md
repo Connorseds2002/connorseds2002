@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [What's the procedure when internet connection is lost during a flight](https://forums.vatsim.net/topic/32141-whats-the-procedure-when-internet-connection-is-lost-during-a-flight/?do=findComment&comment=183233)
+- [What's the procedure when internet connection is lost during a flight](https://forums.vatsim.net/topic/32141-whats-the-procedure-when-internet-connection-is-lost-during-a-flight/?do=findComment&comment=183232)
+- [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183231)
 - [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=183230)
 - [Model Matching After Following all Videos half working MS2020](https://forums.vatsim.net/topic/32131-model-matching-after-following-all-videos-half-working-ms2020/?do=findComment&comment=183229)
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183228)
@@ -62,9 +65,6 @@
 - [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183226)
 - [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=183225)
 - [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=183224)
-- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183223)
-- [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=183222)
-- [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183221)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
