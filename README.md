@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183270)
+- [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183269)
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183268)
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183267)
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183266)
@@ -63,8 +65,6 @@
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183263)
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183262)
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183261)
-- [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183260)
-- [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183259)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
