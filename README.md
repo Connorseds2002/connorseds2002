@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [picking up IFR clearance whilst already in the air](https://forums.vatsim.net/topic/32148-picking-up-ifr-clearance-whilst-already-in-the-air/?do=findComment&comment=183300)
+- [8.08(d)(iii) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32145-808diii-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183299)
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183298)
+- [Couldn't find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=183297)
 - [8.08(d)(iii) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32145-808diii-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183296)
 - [picking up IFR clearance whilst already in the air](https://forums.vatsim.net/topic/32148-picking-up-ifr-clearance-whilst-already-in-the-air/?do=findComment&comment=183295)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183294)
 - [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=183293)
 - [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=183292)
 - [British Airways Concorde flies again!](https://forums.vatsim.net/topic/30635-british-airways-concorde-flies-again/?do=findComment&comment=183291)
-- [Never thought I would get into gaming so seriously](https://forums.vatsim.net/topic/32103-never-thought-i-would-get-into-gaming-so-seriously/?do=findComment&comment=183290)
-- [A great pleasure to be a member of this wonderful Aviation Community](https://forums.vatsim.net/profile/432775-luca-melis/?status=8&type=status)
-- [Do I have to file  SID?](https://forums.vatsim.net/topic/29442-do-i-have-to-file-sid/?do=findComment&comment=183289)
-- [Virtual USA Flying Club](https://forums.vatsim.net/topic/25770-virtual-usa-flying-club/?do=findComment&comment=183288)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
