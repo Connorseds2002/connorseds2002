@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183294)
+- [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=183293)
 - [How-to vacate the runway? Easy isn't it?](https://forums.vatsim.net/topic/28649-how-to-vacate-the-runway-easy-isnt-it/?do=findComment&comment=183292)
 - [British Airways Concorde flies again!](https://forums.vatsim.net/topic/30635-british-airways-concorde-flies-again/?do=findComment&comment=183291)
 - [Never thought I would get into gaming so seriously](https://forums.vatsim.net/topic/32103-never-thought-i-would-get-into-gaming-so-seriously/?do=findComment&comment=183290)
@@ -63,8 +65,6 @@
 - [Virtual USA Flying Club](https://forums.vatsim.net/topic/25770-virtual-usa-flying-club/?do=findComment&comment=183288)
 - [Yet another virtual airline/passenger plugin](https://forums.vatsim.net/topic/32002-yet-another-virtual-airlinepassenger-plugin/?do=findComment&comment=183287)
 - [Definition of "leadership/personal development training course"](https://forums.vatsim.net/topic/31671-definition-of-leadershippersonal-development-training-course/?do=findComment&comment=183286)
-- [Alternative VA](https://forums.vatsim.net/topic/32147-alternative-va/?do=findComment&comment=183285)
-- [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183284)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
