@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=183235)
 - [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183234)
 - [What's the procedure when internet connection is lost during a flight](https://forums.vatsim.net/topic/32141-whats-the-procedure-when-internet-connection-is-lost-during-a-flight/?do=findComment&comment=183233)
 - [What's the procedure when internet connection is lost during a flight](https://forums.vatsim.net/topic/32141-whats-the-procedure-when-internet-connection-is-lost-during-a-flight/?do=findComment&comment=183232)
@@ -64,7 +65,6 @@
 - [Freestyle flight](https://forums.vatsim.net/topic/32129-freestyle-flight/?do=findComment&comment=183228)
 - [Question Simaware Map Explanation of ATC Regions](https://forums.vatsim.net/topic/31610-question-simaware-map-explanation-of-atc-regions/?do=findComment&comment=183227)
 - [Vatsim Broadcast Source](https://forums.vatsim.net/topic/32134-vatsim-broadcast-source/?do=findComment&comment=183226)
-- [8.02 Activity Requirements for Minor Fields](https://forums.vatsim.net/topic/31669-802-activity-requirements-for-minor-fields/?do=findComment&comment=183225)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
