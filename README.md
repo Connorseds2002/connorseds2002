@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183336)
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183335)
+- [Do I have to file  SID?](https://forums.vatsim.net/topic/29442-do-i-have-to-file-sid/?do=findComment&comment=183334)
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183333)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183332)
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183331)
@@ -62,9 +65,6 @@
 - [Do I have to file  SID?](https://forums.vatsim.net/topic/29442-do-i-have-to-file-sid/?do=findComment&comment=183329)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183328)
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183327)
-- [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183326)
-- [Not hearing any audio and my calls go unanswered](https://forums.vatsim.net/topic/32139-not-hearing-any-audio-and-my-calls-go-unanswered/?do=findComment&comment=183325)
-- [Do I have to file  SID?](https://forums.vatsim.net/topic/29442-do-i-have-to-file-sid/?do=findComment&comment=183324)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
