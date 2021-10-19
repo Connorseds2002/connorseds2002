@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Not Fetching Flightplan](https://forums.vatsim.net/topic/32153-vpilot-not-fetching-flightplan/?do=findComment&comment=183351)
 - [Low frame rates](https://forums.vatsim.net/topic/32152-low-frame-rates/?do=findComment&comment=183350)
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183349)
 - [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183348)
@@ -64,7 +65,6 @@
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183344)
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183343)
 - [Land if you can](https://forums.vatsim.net/topic/31632-land-if-you-can/?do=findComment&comment=183342)
-- [picking up IFR clearance whilst already in the air](https://forums.vatsim.net/topic/32148-picking-up-ifr-clearance-whilst-already-in-the-air/?do=findComment&comment=183341)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
