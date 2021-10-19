@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183349)
+- [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183348)
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183347)
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183346)
 - [Radiopanel](https://forums.vatsim.net/topic/32150-radiopanel/?do=findComment&comment=183345)
@@ -63,8 +65,6 @@
 - [Land if you can](https://forums.vatsim.net/topic/31632-land-if-you-can/?do=findComment&comment=183342)
 - [picking up IFR clearance whilst already in the air](https://forums.vatsim.net/topic/32148-picking-up-ifr-clearance-whilst-already-in-the-air/?do=findComment&comment=183341)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183340)
-- [Do I have to file  SID?](https://forums.vatsim.net/topic/29442-do-i-have-to-file-sid/?do=findComment&comment=183339)
-- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183338)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
