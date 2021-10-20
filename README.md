@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183384)
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183383)
 - [vPilot plugin development/debugging](https://forums.vatsim.net/topic/24636-vpilot-plugin-developmentdebugging/?do=findComment&comment=183382)
 - [vPilot plugin development/debugging](https://forums.vatsim.net/topic/24636-vpilot-plugin-developmentdebugging/?do=findComment&comment=183381)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183380)
@@ -63,8 +65,6 @@
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183377)
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183376)
 - [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=183375)
-- [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=183374)
-- [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183373)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
