@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Radiopanel](https://forums.vatsim.net/topic/32150-radiopanel/?do=findComment&comment=183361)
+- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183360)
+- [Low frame rates](https://forums.vatsim.net/topic/32152-low-frame-rates/?do=findComment&comment=183359)
 - [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183358)
 - [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183357)
 - [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183356)
@@ -62,9 +65,6 @@
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183354)
 - [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183353)
 - [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183352)
-- [vPilot Not Fetching Flightplan](https://forums.vatsim.net/topic/32153-vpilot-not-fetching-flightplan/?do=findComment&comment=183351)
-- [Low frame rates](https://forums.vatsim.net/topic/32152-low-frame-rates/?do=findComment&comment=183350)
-- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183349)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
