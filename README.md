@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183364)
+- [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183363)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=183362)
 - [Radiopanel](https://forums.vatsim.net/topic/32150-radiopanel/?do=findComment&comment=183361)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183360)
@@ -63,8 +65,6 @@
 - [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183357)
 - [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183356)
 - [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183355)
-- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183354)
-- [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183353)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
