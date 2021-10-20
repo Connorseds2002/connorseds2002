@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.04(a) Air Traffic Controller Currency, Activity, and Quality Control](https://forums.vatsim.net/topic/32144-804a-air-traffic-controller-currency-activity-and-quality-control/?do=findComment&comment=183358)
+- [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183357)
 - [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183356)
 - [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183355)
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183354)
@@ -63,8 +65,6 @@
 - [vPilot Not Fetching Flightplan](https://forums.vatsim.net/topic/32153-vpilot-not-fetching-flightplan/?do=findComment&comment=183351)
 - [Low frame rates](https://forums.vatsim.net/topic/32152-low-frame-rates/?do=findComment&comment=183350)
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183349)
-- [Fetching Flightplan](https://forums.vatsim.net/topic/32151-fetching-flightplan/?do=findComment&comment=183348)
-- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183347)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
