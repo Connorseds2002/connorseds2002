@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Want to build a new generation of virtual airline](https://forums.vatsim.net/topic/32161-want-to-build-a-new-generation-of-virtual-airline/?do=findComment&comment=183416)
+- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=183415)
 - [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183413)
 - [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=183412)
 - [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183411)
@@ -63,8 +65,6 @@
 - [lights on airplanes all over vatsim (msfs2020)](https://forums.vatsim.net/topic/32121-lights-on-airplanes-all-over-vatsim-msfs2020/?do=findComment&comment=183408)
 - [lights on airplanes all over vatsim (msfs2020)](https://forums.vatsim.net/topic/32121-lights-on-airplanes-all-over-vatsim-msfs2020/?do=findComment&comment=183407)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183406)
-- [I can't take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=183405)
-- [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183404)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
