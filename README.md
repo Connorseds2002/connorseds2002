@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183413)
+- [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=183412)
 - [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183411)
 - [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183410)
 - [How to search airport on map?](https://forums.vatsim.net/topic/32158-how-to-search-airport-on-map/?do=findComment&comment=183409)
@@ -63,8 +65,6 @@
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183406)
 - [I can't take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=183405)
 - [8.08(c) Number of days "given" to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=183404)
-- [I can't take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=183403)
-- [Low frame rates](https://forums.vatsim.net/topic/32152-low-frame-rates/?do=findComment&comment=183402)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
