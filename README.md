@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183428)
+- [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183427)
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183426)
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183425)
+- [I can't take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=183424)
+- [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=183423)
 - [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183422)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183421)
 - [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183420)
 - [Problem causing crashes after resizing scope](https://forums.vatsim.net/topic/32162-problem-causing-crashes-after-resizing-scope/?do=findComment&comment=183419)
-- [Problem causing crashes after resizing scope](https://forums.vatsim.net/topic/32162-problem-causing-crashes-after-resizing-scope/?do=findComment&comment=183417)
-- [Want to build a new generation of virtual airline](https://forums.vatsim.net/topic/32161-want-to-build-a-new-generation-of-virtual-airline/?do=findComment&comment=183416)
-- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=183415)
-- [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183413)
-- [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=183412)
-- [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183411)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
