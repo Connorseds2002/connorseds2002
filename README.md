@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183420)
+- [Problem causing crashes after resizing scope](https://forums.vatsim.net/topic/32162-problem-causing-crashes-after-resizing-scope/?do=findComment&comment=183419)
+- [Problem causing crashes after resizing scope](https://forums.vatsim.net/topic/32162-problem-causing-crashes-after-resizing-scope/?do=findComment&comment=183417)
 - [Want to build a new generation of virtual airline](https://forums.vatsim.net/topic/32161-want-to-build-a-new-generation-of-virtual-airline/?do=findComment&comment=183416)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=183415)
 - [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183413)
@@ -62,9 +65,6 @@
 - [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183411)
 - [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183410)
 - [How to search airport on map?](https://forums.vatsim.net/topic/32158-how-to-search-airport-on-map/?do=findComment&comment=183409)
-- [lights on airplanes all over vatsim (msfs2020)](https://forums.vatsim.net/topic/32121-lights-on-airplanes-all-over-vatsim-msfs2020/?do=findComment&comment=183408)
-- [lights on airplanes all over vatsim (msfs2020)](https://forums.vatsim.net/topic/32121-lights-on-airplanes-all-over-vatsim-msfs2020/?do=findComment&comment=183407)
-- [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183406)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
