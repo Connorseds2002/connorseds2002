@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183441)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183440)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183439)
 - [server Issues](https://forums.vatsim.net/topic/32164-server-issues/?do=findComment&comment=183438)
@@ -64,7 +65,6 @@
 - [vatSpy Updated](https://forums.vatsim.net/topic/31124-vatspy-updated/?do=findComment&comment=183433)
 - [vatSpy Updated](https://forums.vatsim.net/topic/31124-vatspy-updated/?do=findComment&comment=183432)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183431)
-- [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183430)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
