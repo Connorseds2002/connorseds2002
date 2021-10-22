@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183421)
 - [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183420)
 - [Problem causing crashes after resizing scope](https://forums.vatsim.net/topic/32162-problem-causing-crashes-after-resizing-scope/?do=findComment&comment=183419)
 - [Problem causing crashes after resizing scope](https://forums.vatsim.net/topic/32162-problem-causing-crashes-after-resizing-scope/?do=findComment&comment=183417)
@@ -64,7 +65,6 @@
 - [VATSIM.velocity reporting](https://forums.vatsim.net/topic/31146-vatsimvelocity-reporting/?do=findComment&comment=183412)
 - [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183411)
 - [FSPXAI A330neo](https://forums.vatsim.net/topic/32159-fspxai-a330neo/?do=findComment&comment=183410)
-- [How to search airport on map?](https://forums.vatsim.net/topic/32158-how-to-search-airport-on-map/?do=findComment&comment=183409)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
