@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [server Issues](https://forums.vatsim.net/topic/32164-server-issues/?do=findComment&comment=183447)
 - [[Oct 30] Canadian Xpress October 2021 Monthly Fly-In - Salem](https://forums.vatsim.net/topic/32166-oct-30-canadian-xpress-october-2021-monthly-fly-in-salem/?do=findComment&comment=183446)
 - [First 3 Numbers of CID Meaning](https://forums.vatsim.net/topic/32165-first-3-numbers-of-cid-meaning/?do=findComment&comment=183445)
 - [First 3 Numbers of CID Meaning](https://forums.vatsim.net/topic/32165-first-3-numbers-of-cid-meaning/?do=findComment&comment=183444)
@@ -64,7 +65,6 @@
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183440)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183439)
 - [server Issues](https://forums.vatsim.net/topic/32164-server-issues/?do=findComment&comment=183438)
-- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183437)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
