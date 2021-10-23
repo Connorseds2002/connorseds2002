@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183462)
+- [VRC No Vox](https://forums.vatsim.net/topic/32167-vrc-no-vox/?do=findComment&comment=183461)
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183459)
 - [vPilot in VR](https://forums.vatsim.net/topic/32169-vpilot-in-vr/?do=findComment&comment=183458)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183457)
 - [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183456)
@@ -62,9 +65,6 @@
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183454)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183453)
 - [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183452)
-- [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=183451)
-- [Multibyte Charactors in the Chat Box](https://forums.vatsim.net/topic/32116-multibyte-charactors-in-the-chat-box/?do=findComment&comment=183450)
-- [VRC No Vox](https://forums.vatsim.net/topic/32167-vrc-no-vox/?do=findComment&comment=183449)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
