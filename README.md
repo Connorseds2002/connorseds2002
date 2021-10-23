@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPilot no aircraft.](https://forums.vatsim.net/topic/32176-vpilot-no-aircraft/?do=findComment&comment=183488)
+- [VPilot Model Matching problem in PrePar3DV4.5](https://forums.vatsim.net/topic/32175-vpilot-model-matching-problem-in-prepar3dv45/?do=findComment&comment=183487)
 - [VPilot Model Matching problem in PrePar3DV4.5](https://forums.vatsim.net/topic/32175-vpilot-model-matching-problem-in-prepar3dv45/?do=findComment&comment=183486)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183485)
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=183484)
@@ -63,8 +65,6 @@
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=183481)
 - [Auto-disconnect with error code](https://forums.vatsim.net/topic/32173-auto-disconnect-with-error-code/?do=findComment&comment=183480)
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=183479)
-- [Simconnect with Flight Sim 20](https://forums.vatsim.net/topic/28881-simconnect-with-flight-sim-20/?do=findComment&comment=183478)
-- [Auto-disconnect with error code](https://forums.vatsim.net/topic/32173-auto-disconnect-with-error-code/?do=findComment&comment=183477)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
