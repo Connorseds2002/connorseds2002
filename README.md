@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot  causing massive fps drops and low performance on MSFS 2020 in Windows 11](https://forums.vatsim.net/topic/31794-vpilot-causing-massive-fps-drops-and-low-performance-on-msfs-2020-in-windows-11/?do=findComment&comment=183455)
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183454)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183453)
 - [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183452)
 - [Euroscope Server Issues](https://forums.vatsim.net/topic/32044-euroscope-server-issues/?do=findComment&comment=183451)
@@ -63,8 +65,6 @@
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183448)
 - [server Issues](https://forums.vatsim.net/topic/32164-server-issues/?do=findComment&comment=183447)
 - [[Oct 30] Canadian Xpress October 2021 Monthly Fly-In - Salem](https://forums.vatsim.net/topic/32166-oct-30-canadian-xpress-october-2021-monthly-fly-in-salem/?do=findComment&comment=183446)
-- [First 3 Numbers of CID Meaning](https://forums.vatsim.net/topic/32165-first-3-numbers-of-cid-meaning/?do=findComment&comment=183445)
-- [First 3 Numbers of CID Meaning](https://forums.vatsim.net/topic/32165-first-3-numbers-of-cid-meaning/?do=findComment&comment=183444)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
