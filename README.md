@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183472)
+- [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183471)
+- [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183470)
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183469)
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183468)
+- [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183467)
 - [ACCNPL4 - Membership Director Resignation.](https://forums.vatsim.net/topic/32170-accnpl4-membership-director-resignation/?do=findComment&comment=183466)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183465)
 - [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=183464)
 - [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183463)
-- [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183462)
-- [VRC No Vox](https://forums.vatsim.net/topic/32167-vrc-no-vox/?do=findComment&comment=183461)
-- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183459)
-- [vPilot in VR](https://forums.vatsim.net/topic/32169-vpilot-in-vr/?do=findComment&comment=183458)
-- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183457)
-- [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183456)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
