@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=183484)
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183483)
+- [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=183482)
+- [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=183481)
+- [Auto-disconnect with error code](https://forums.vatsim.net/topic/32173-auto-disconnect-with-error-code/?do=findComment&comment=183480)
+- [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=183479)
+- [Simconnect with Flight Sim 20](https://forums.vatsim.net/topic/28881-simconnect-with-flight-sim-20/?do=findComment&comment=183478)
+- [Auto-disconnect with error code](https://forums.vatsim.net/topic/32173-auto-disconnect-with-error-code/?do=findComment&comment=183477)
+- [Auto-disconnect with error code](https://forums.vatsim.net/topic/32173-auto-disconnect-with-error-code/?do=findComment&comment=183476)
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=183475)
-- [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=183474)
-- [Simconnect with Flight Sim 20](https://forums.vatsim.net/topic/28881-simconnect-with-flight-sim-20/?do=findComment&comment=183473)
-- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183472)
-- [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183471)
-- [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183470)
-- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183469)
-- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183468)
-- [Vpilot 2.8.1 and FSX steam edition](https://forums.vatsim.net/topic/32168-vpilot-281-and-fsx-steam-edition/?do=findComment&comment=183467)
-- [ACCNPL4 - Membership Director Resignation.](https://forums.vatsim.net/topic/32170-accnpl4-membership-director-resignation/?do=findComment&comment=183466)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
