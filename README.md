@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [7.09(f) Failure of a Practical Exam](https://forums.vatsim.net/topic/32179-709f-failure-of-a-practical-exam/?do=findComment&comment=183518)
 - [VPilot Model Matching problem in PrePar3DV4.5](https://forums.vatsim.net/topic/32175-vpilot-model-matching-problem-in-prepar3dv45/?do=findComment&comment=183517)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183516)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183515)
@@ -64,7 +65,6 @@
 - [7.09(f) Failure of a Practical Exam](https://forums.vatsim.net/topic/32179-709f-failure-of-a-practical-exam/?do=findComment&comment=183511)
 - [7.09(f) Failure of a Practical Exam](https://forums.vatsim.net/topic/32179-709f-failure-of-a-practical-exam/?do=findComment&comment=183510)
 - [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=183509)
-- [Lining up procedure](https://forums.vatsim.net/topic/32178-lining-up-procedure/?do=findComment&comment=183508)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
