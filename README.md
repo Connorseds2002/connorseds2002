@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPilot Model Matching problem in PrePar3DV4.5](https://forums.vatsim.net/topic/32175-vpilot-model-matching-problem-in-prepar3dv45/?do=findComment&comment=183567)
+- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183565)
 - [[Quarterly Region Report] Report for Q3' 2021](https://forums.vatsim.net/topic/32185-quarterly-region-report-report-for-q3-2021/?do=findComment&comment=183564)
 - [Model Matching Software for P3D?](https://forums.vatsim.net/topic/31624-model-matching-software-for-p3d/?do=findComment&comment=183563)
 - [Model Matching Software for P3D?](https://forums.vatsim.net/topic/31624-model-matching-software-for-p3d/?do=findComment&comment=183562)
@@ -63,8 +65,6 @@
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183559)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183558)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183557)
-- [Need help with custom model matching xml file](https://forums.vatsim.net/topic/32183-need-help-with-custom-model-matching-xml-file/?do=findComment&comment=183556)
-- [10 FPS after connect to Vpilot servers](https://forums.vatsim.net/topic/32184-10-fps-after-connect-to-vpilot-servers/?do=findComment&comment=183555)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
