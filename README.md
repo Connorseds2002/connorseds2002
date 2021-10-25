@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Quarterly Region Report] Report for Q3' 2021](https://forums.vatsim.net/topic/32185-quarterly-region-report-report-for-q3-2021/?do=findComment&comment=183564)
+- [Model Matching Software for P3D?](https://forums.vatsim.net/topic/31624-model-matching-software-for-p3d/?do=findComment&comment=183563)
+- [Model Matching Software for P3D?](https://forums.vatsim.net/topic/31624-model-matching-software-for-p3d/?do=findComment&comment=183562)
+- [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183561)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183560)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183559)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183558)
 - [VFR with ILS or RNAV Approach?](https://forums.vatsim.net/topic/32133-vfr-with-ils-or-rnav-approach/?do=findComment&comment=183557)
 - [Need help with custom model matching xml file](https://forums.vatsim.net/topic/32183-need-help-with-custom-model-matching-xml-file/?do=findComment&comment=183556)
 - [10 FPS after connect to Vpilot servers](https://forums.vatsim.net/topic/32184-10-fps-after-connect-to-vpilot-servers/?do=findComment&comment=183555)
-- [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=183554)
-- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=183553)
-- [4.01 what is Oceanic?](https://forums.vatsim.net/topic/31688-401-what-is-oceanic/?do=findComment&comment=183552)
-- [7.09(f) Failure of a Practical Exam](https://forums.vatsim.net/topic/32179-709f-failure-of-a-practical-exam/?do=findComment&comment=183551)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
