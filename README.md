@@ -55,8 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [7.09(f) Failure of a Practical Exam](https://forums.vatsim.net/topic/32179-709f-failure-of-a-practical-exam/?do=findComment&comment=183583)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183582)
-- [Cross The Pond Weather Advisory Service](https://forums.vatsim.net/topic/32188-cross-the-pond-weather-advisory-service/?do=findComment&comment=183581)
+- [Announcement of Cross The Pond Weather Advisory Service](https://forums.vatsim.net/topic/32188-announcement-of-cross-the-pond-weather-advisory-service/?do=findComment&comment=183581)
 - [Splits [EuroControl Maastricht UAC] Operational from AIRAC 2112](https://forums.vatsim.net/topic/32187-splits-eurocontrol-maastricht-uac-operational-from-airac-2112/?do=findComment&comment=183580)
 - [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=183579)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=183578)
@@ -64,7 +65,6 @@
 - [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=183576)
 - [Need help with custom model matching xml file](https://forums.vatsim.net/topic/32183-need-help-with-custom-model-matching-xml-file/?do=findComment&comment=183575)
 - [7.09(f) Failure of a Practical Exam](https://forums.vatsim.net/topic/32179-709f-failure-of-a-practical-exam/?do=findComment&comment=183574)
-- [“I'm burning up a sun just to say good-bye.” - 10th Doctor Who - Season 2, Episode 13](https://forums.vatsim.net/profile/433041-mikko-hokkanen/?status=9&type=status)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
