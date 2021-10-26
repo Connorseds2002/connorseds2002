@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183577)
+- [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=183576)
 - [Need help with custom model matching xml file](https://forums.vatsim.net/topic/32183-need-help-with-custom-model-matching-xml-file/?do=findComment&comment=183575)
 - [7.09(f) Failure of a Practical Exam](https://forums.vatsim.net/topic/32179-709f-failure-of-a-practical-exam/?do=findComment&comment=183574)
 - [“I'm burning up a sun just to say good-bye.” - 10th Doctor Who - Season 2, Episode 13](https://forums.vatsim.net/profile/433041-mikko-hokkanen/?status=9&type=status)
@@ -63,8 +65,6 @@
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183571)
 - [7.09(f) Failure of a Practical Exam](https://forums.vatsim.net/topic/32179-709f-failure-of-a-practical-exam/?do=findComment&comment=183570)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183569)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183568)
-- [VPilot Model Matching problem in PrePar3DV4.5](https://forums.vatsim.net/topic/32175-vpilot-model-matching-problem-in-prepar3dv45/?do=findComment&comment=183567)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
