@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183589)
+- [Question Simaware Map Explanation of ATC Regions](https://forums.vatsim.net/topic/31610-question-simaware-map-explanation-of-atc-regions/?do=findComment&comment=183588)
 - [7.09(f) Failure of a Practical Exam](https://forums.vatsim.net/topic/32179-709f-failure-of-a-practical-exam/?do=findComment&comment=183587)
 - [(not quite a) Feature request](https://forums.vatsim.net/topic/29929-not-quite-a-feature-request/?do=findComment&comment=183586)
 - [7.09(f) Failure of a Practical Exam](https://forums.vatsim.net/topic/32179-709f-failure-of-a-practical-exam/?do=findComment&comment=183585)
@@ -63,8 +65,6 @@
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183582)
 - [Announcement of Cross The Pond Weather Advisory Service](https://forums.vatsim.net/topic/32188-announcement-of-cross-the-pond-weather-advisory-service/?do=findComment&comment=183581)
 - [Splits [EuroControl Maastricht UAC] Operational from AIRAC 2112](https://forums.vatsim.net/topic/32187-splits-eurocontrol-maastricht-uac-operational-from-airac-2112/?do=findComment&comment=183580)
-- [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=183579)
-- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=183578)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
