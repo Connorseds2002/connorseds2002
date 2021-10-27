@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183603)
+- [Multibyte Charactors in the Chat Box](https://forums.vatsim.net/topic/32116-multibyte-charactors-in-the-chat-box/?do=findComment&comment=183602)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183601)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183600)
 - [Basic VATSIM data API](https://forums.vatsim.net/topic/26211-basic-vatsim-data-api/?do=findComment&comment=183599)
@@ -63,8 +65,6 @@
 - [(not quite a) Feature request](https://forums.vatsim.net/topic/29929-not-quite-a-feature-request/?do=findComment&comment=183596)
 - [(not quite a) Feature request](https://forums.vatsim.net/topic/29929-not-quite-a-feature-request/?do=findComment&comment=183595)
 - [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183594)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183592)
-- [(not quite a) Feature request](https://forums.vatsim.net/topic/29929-not-quite-a-feature-request/?do=findComment&comment=183591)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
