@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPilot Model Matching problem in PrePar3DV4.5](https://forums.vatsim.net/topic/32175-vpilot-model-matching-problem-in-prepar3dv45/?do=findComment&comment=183612)
+- [VPilot Model Matching problem in PrePar3DV4.5](https://forums.vatsim.net/topic/32175-vpilot-model-matching-problem-in-prepar3dv45/?do=findComment&comment=183611)
 - [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183610)
 - [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=183609)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=183608)
@@ -63,8 +65,6 @@
 - [(not quite a) Feature request](https://forums.vatsim.net/topic/29929-not-quite-a-feature-request/?do=findComment&comment=183605)
 - [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183604)
 - [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183603)
-- [Multibyte Charactors in the Chat Box](https://forums.vatsim.net/topic/32116-multibyte-charactors-in-the-chat-box/?do=findComment&comment=183602)
-- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183601)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
