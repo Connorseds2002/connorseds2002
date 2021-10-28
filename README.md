@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183617)
 - [4.02 Unclear Wording](https://forums.vatsim.net/topic/32191-402-unclear-wording/?do=findComment&comment=183616)
 - [4.02 Unclear Wording](https://forums.vatsim.net/topic/32191-402-unclear-wording/?do=findComment&comment=183615)
 - [Who to contact for training support?](https://forums.vatsim.net/topic/32190-who-to-contact-for-training-support/?do=findComment&comment=183614)
@@ -64,7 +65,6 @@
 - [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183610)
 - [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=183609)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=183608)
-- [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=183607)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
