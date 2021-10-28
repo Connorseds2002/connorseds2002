@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [4.02 Unclear Wording](https://forums.vatsim.net/topic/32191-402-unclear-wording/?do=findComment&comment=183630)
 - [Who to contact for training support?](https://forums.vatsim.net/topic/32190-who-to-contact-for-training-support/?do=findComment&comment=183629)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183628)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183627)
@@ -64,7 +65,6 @@
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183623)
 - [Who to contact for training support?](https://forums.vatsim.net/topic/32190-who-to-contact-for-training-support/?do=findComment&comment=183622)
 - [4.02 Unclear Wording](https://forums.vatsim.net/topic/32191-402-unclear-wording/?do=findComment&comment=183621)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183620)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
