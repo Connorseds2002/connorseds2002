@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [4.02 Unclear Wording](https://forums.vatsim.net/topic/32191-402-unclear-wording/?do=findComment&comment=183615)
+- [Who to contact for training support?](https://forums.vatsim.net/topic/32190-who-to-contact-for-training-support/?do=findComment&comment=183614)
 - [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=183613)
 - [VPilot Model Matching problem in PrePar3DV4.5](https://forums.vatsim.net/topic/32175-vpilot-model-matching-problem-in-prepar3dv45/?do=findComment&comment=183612)
 - [VPilot Model Matching problem in PrePar3DV4.5](https://forums.vatsim.net/topic/32175-vpilot-model-matching-problem-in-prepar3dv45/?do=findComment&comment=183611)
@@ -63,8 +65,6 @@
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=183608)
 - [Drastic performance drop when connetcing to VPilot](https://forums.vatsim.net/topic/30598-drastic-performance-drop-when-connetcing-to-vpilot/?do=findComment&comment=183607)
 - [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183606)
-- [(not quite a) Feature request](https://forums.vatsim.net/topic/29929-not-quite-a-feature-request/?do=findComment&comment=183605)
-- [Does VATSIM operate on chromebook?](https://forums.vatsim.net/topic/32163-does-vatsim-operate-on-chromebook/?do=findComment&comment=183604)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
