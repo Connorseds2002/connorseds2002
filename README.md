@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183654)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183653)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183652)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183651)
@@ -64,7 +65,6 @@
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183647)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183646)
 - [I cannot hear or transmit any thing.](https://forums.vatsim.net/topic/32194-i-cannot-hear-or-transmit-any-thing/?do=findComment&comment=183645)
-- [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183644)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
