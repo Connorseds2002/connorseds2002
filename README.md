@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cross the Pond East 2021](https://forums.vatsim.net/topic/32204-cross-the-pond-east-2021/?do=findComment&comment=183701)
+- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183700)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183699)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183698)
 - [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=183697)
@@ -63,8 +65,6 @@
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183694)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183693)
 - [Sim audio when transmissions made](https://forums.vatsim.net/topic/32203-sim-audio-when-transmissions-made/?do=findComment&comment=183692)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183691)
-- [How do I sign up for the CTP event to get a slot?](https://forums.vatsim.net/topic/32200-how-do-i-sign-up-for-the-ctp-event-to-get-a-slot/?do=findComment&comment=183690)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
