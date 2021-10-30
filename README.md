@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How do I sign up for the CTP event to get a slot?](https://forums.vatsim.net/topic/32200-how-do-i-sign-up-for-the-ctp-event-to-get-a-slot/?do=findComment&comment=183673)
 - [A different controller input a flightplan and it popped up on MY computer?](https://forums.vatsim.net/topic/32199-a-different-controller-input-a-flightplan-and-it-popped-up-on-my-computer/?do=findComment&comment=183672)
 - [A different controller input a flightplan and it popped up on MY computer?](https://forums.vatsim.net/topic/32199-a-different-controller-input-a-flightplan-and-it-popped-up-on-my-computer/?do=findComment&comment=183671)
 - [How do I sign up for the CTP event to get a slot?](https://forums.vatsim.net/topic/32200-how-do-i-sign-up-for-the-ctp-event-to-get-a-slot/?do=findComment&comment=183670)
@@ -64,7 +65,6 @@
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183666)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183665)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183664)
-- [Vpilot version 2.8.1 & FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=183663)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
