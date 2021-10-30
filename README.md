@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183680)
+- [How can I install VAS FMC into my VIRTUALCOL A220](https://forums.vatsim.net/topic/32202-how-can-i-install-vas-fmc-into-my-virtualcol-a220/?do=findComment&comment=183679)
+- [How can I install VAS FMC into my VIRTUALCOL A220](https://forums.vatsim.net/topic/32201-how-can-i-install-vas-fmc-into-my-virtualcol-a220/?do=findComment&comment=183678)
 - [vPilot in VR](https://forums.vatsim.net/topic/32169-vpilot-in-vr/?do=findComment&comment=183677)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183676)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183675)
@@ -62,9 +65,6 @@
 - [How do I sign up for the CTP event to get a slot?](https://forums.vatsim.net/topic/32200-how-do-i-sign-up-for-the-ctp-event-to-get-a-slot/?do=findComment&comment=183673)
 - [A different controller input a flightplan and it popped up on MY computer?](https://forums.vatsim.net/topic/32199-a-different-controller-input-a-flightplan-and-it-popped-up-on-my-computer/?do=findComment&comment=183672)
 - [A different controller input a flightplan and it popped up on MY computer?](https://forums.vatsim.net/topic/32199-a-different-controller-input-a-flightplan-and-it-popped-up-on-my-computer/?do=findComment&comment=183671)
-- [How do I sign up for the CTP event to get a slot?](https://forums.vatsim.net/topic/32200-how-do-i-sign-up-for-the-ctp-event-to-get-a-slot/?do=findComment&comment=183670)
-- [A different controller input a flightplan and it popped up on MY computer?](https://forums.vatsim.net/topic/32199-a-different-controller-input-a-flightplan-and-it-popped-up-on-my-computer/?do=findComment&comment=183669)
-- [A different controller input a flightplan and it popped up on MY computer?](https://forums.vatsim.net/topic/32199-a-different-controller-input-a-flightplan-and-it-popped-up-on-my-computer/?do=findComment&comment=183668)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
