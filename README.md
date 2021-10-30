@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FlyUP Virtual- Iceland's Low Cost Virtual Airline](https://forums.vatsim.net/topic/32206-flyup-virtual-icelands-low-cost-virtual-airline/?do=findComment&comment=183711)
+- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183710)
 - [Vpilot version 2.8.1 & FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=183709)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183708)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183707)
@@ -63,8 +65,6 @@
 - [Text Pilots Get No Coverage?](https://forums.vatsim.net/topic/32205-text-pilots-get-no-coverage/?do=findComment&comment=183704)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183703)
 - [Text Pilots Get No Coverage?](https://forums.vatsim.net/topic/32205-text-pilots-get-no-coverage/?do=findComment&comment=183702)
-- [Cross the Pond East 2021](https://forums.vatsim.net/topic/32204-cross-the-pond-east-2021/?do=findComment&comment=183701)
-- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183700)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
