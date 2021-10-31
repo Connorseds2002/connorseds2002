@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Matching Issues with vPilot in v4](https://forums.vatsim.net/topic/32211-model-matching-issues-with-vpilot-in-v4/?do=findComment&comment=183738)
+- [Can't connect (MSFS)](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=183737)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183736)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183735)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183734)
@@ -63,8 +65,6 @@
 - [How do I sign up for the CTP event to get a slot?](https://forums.vatsim.net/topic/32200-how-do-i-sign-up-for-the-ctp-event-to-get-a-slot/?do=findComment&comment=183731)
 - [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183730)
 - [Xpilot would not start nor connect](https://forums.vatsim.net/topic/32210-xpilot-would-not-start-nor-connect/?do=findComment&comment=183729)
-- [Syntax error (4)](https://forums.vatsim.net/topic/32209-syntax-error-4/?do=findComment&comment=183728)
-- [Appointment of Divisional Operations Director](https://forums.vatsim.net/topic/32088-appointment-of-divisional-operations-director/?do=findComment&comment=183727)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
