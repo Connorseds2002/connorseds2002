@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183759)
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183758)
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183757)
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183756)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183755)
 - [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183754)
 - [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183753)
 - [[VACANCY] vACC Director - Adria](https://forums.vatsim.net/topic/32215-vacancy-vacc-director-adria/?do=findComment&comment=183752)
 - [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183751)
 - [Help with Custom Rule for VPilot](https://forums.vatsim.net/topic/32212-help-with-custom-rule-for-vpilot/?do=findComment&comment=183750)
-- [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=183749)
-- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183748)
-- [Help with Custom Rule for VPilot](https://forums.vatsim.net/topic/32212-help-with-custom-rule-for-vpilot/?do=findComment&comment=183747)
-- [network](https://forums.vatsim.net/topic/32214-network/?do=findComment&comment=183746)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
