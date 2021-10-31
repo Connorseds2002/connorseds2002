@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Syntax error (4)](https://forums.vatsim.net/topic/32209-syntax-error-4/?do=findComment&comment=183728)
+- [Appointment of Divisional Operations Director](https://forums.vatsim.net/topic/32088-appointment-of-divisional-operations-director/?do=findComment&comment=183727)
+- [Nuevo Director FIR Chile](https://forums.vatsim.net/topic/32208-nuevo-director-fir-chile/?do=findComment&comment=183726)
 - [Nuevo Director FIR Chile](https://forums.vatsim.net/topic/32208-nuevo-director-fir-chile/?do=findComment&comment=183725)
 - [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183724)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183723)
@@ -62,9 +65,6 @@
 - [10 FPS after connect to Vpilot servers](https://forums.vatsim.net/topic/32184-10-fps-after-connect-to-vpilot-servers/?do=findComment&comment=183721)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183720)
 - [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183719)
-- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183718)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183717)
-- [Vpilot version 2.8.1 & FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=183716)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
