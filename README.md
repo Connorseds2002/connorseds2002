@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183754)
+- [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183753)
 - [[VACANCY] vACC Director - Adria](https://forums.vatsim.net/topic/32215-vacancy-vacc-director-adria/?do=findComment&comment=183752)
 - [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183751)
 - [Help with Custom Rule for VPilot](https://forums.vatsim.net/topic/32212-help-with-custom-rule-for-vpilot/?do=findComment&comment=183750)
@@ -63,8 +65,6 @@
 - [Help with Custom Rule for VPilot](https://forums.vatsim.net/topic/32212-help-with-custom-rule-for-vpilot/?do=findComment&comment=183747)
 - [network](https://forums.vatsim.net/topic/32214-network/?do=findComment&comment=183746)
 - [Feature Request, VR Compatible.](https://forums.vatsim.net/topic/32213-feature-request-vr-compatible/?do=findComment&comment=183745)
-- [Help with Custom Rule for VPilot](https://forums.vatsim.net/topic/32212-help-with-custom-rule-for-vpilot/?do=findComment&comment=183744)
-- [Text Pilots Get No Coverage?](https://forums.vatsim.net/topic/32205-text-pilots-get-no-coverage/?do=findComment&comment=183743)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
