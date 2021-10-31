@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I can't take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=183741)
+- [Help with Custom Rule for VPilot](https://forums.vatsim.net/topic/32212-help-with-custom-rule-for-vpilot/?do=findComment&comment=183740)
+- [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=183739)
 - [Model Matching Issues with vPilot in v4](https://forums.vatsim.net/topic/32211-model-matching-issues-with-vpilot-in-v4/?do=findComment&comment=183738)
 - [Can't connect (MSFS)](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=183737)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183736)
@@ -62,9 +65,6 @@
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183734)
 - [Cross the Pond East 2021](https://forums.vatsim.net/topic/32204-cross-the-pond-east-2021/?do=findComment&comment=183733)
 - [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183732)
-- [How do I sign up for the CTP event to get a slot?](https://forums.vatsim.net/topic/32200-how-do-i-sign-up-for-the-ctp-event-to-get-a-slot/?do=findComment&comment=183731)
-- [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183730)
-- [Xpilot would not start nor connect](https://forums.vatsim.net/topic/32210-xpilot-would-not-start-nor-connect/?do=findComment&comment=183729)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
