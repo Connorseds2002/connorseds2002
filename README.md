@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183736)
+- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183735)
+- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183734)
 - [Cross the Pond East 2021](https://forums.vatsim.net/topic/32204-cross-the-pond-east-2021/?do=findComment&comment=183733)
 - [Take off from unmanned airport, but area center is online, VFR.](https://forums.vatsim.net/topic/32137-take-off-from-unmanned-airport-but-area-center-is-online-vfr/?do=findComment&comment=183732)
 - [How do I sign up for the CTP event to get a slot?](https://forums.vatsim.net/topic/32200-how-do-i-sign-up-for-the-ctp-event-to-get-a-slot/?do=findComment&comment=183731)
@@ -62,9 +65,6 @@
 - [Xpilot would not start nor connect](https://forums.vatsim.net/topic/32210-xpilot-would-not-start-nor-connect/?do=findComment&comment=183729)
 - [Syntax error (4)](https://forums.vatsim.net/topic/32209-syntax-error-4/?do=findComment&comment=183728)
 - [Appointment of Divisional Operations Director](https://forums.vatsim.net/topic/32088-appointment-of-divisional-operations-director/?do=findComment&comment=183727)
-- [Nuevo Director FIR Chile](https://forums.vatsim.net/topic/32208-nuevo-director-fir-chile/?do=findComment&comment=183726)
-- [Nuevo Director FIR Chile](https://forums.vatsim.net/topic/32208-nuevo-director-fir-chile/?do=findComment&comment=183725)
-- [[30th October 2021] Cross the Pond Eastbound - Discussion Thread](https://forums.vatsim.net/topic/32024-30th-october-2021-cross-the-pond-eastbound-discussion-thread/?do=findComment&comment=183724)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
