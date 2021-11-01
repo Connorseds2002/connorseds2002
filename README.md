@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183790)
+- [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183789)
+- [Vpilot version 2.8.1 & FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=183788)
+- [Massive FPS drop using FLAi in P3Dv5.2HF1.](https://forums.vatsim.net/topic/32222-massive-fps-drop-using-flai-in-p3dv52hf1/?do=findComment&comment=183787)
 - [Massive FPS drop using FLAi in P3Dv5.2HF1.](https://forums.vatsim.net/topic/32222-massive-fps-drop-using-flai-in-p3dv52hf1/?do=findComment&comment=183786)
 - [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183785)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183784)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183783)
 - [No audio after first installation and exception error](https://forums.vatsim.net/topic/32220-no-audio-after-first-installation-and-exception-error/?do=findComment&comment=183782)
 - [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183781)
-- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183780)
-- [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183779)
-- [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183778)
-- [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183777)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
