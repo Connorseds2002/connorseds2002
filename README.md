@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [The Moroccan Virtual Air Association welcomes you!](https://forums.vatsim.net/topic/32218-the-moroccan-virtual-air-association-welcomes-you/?do=findComment&comment=183769)
 - [network](https://forums.vatsim.net/topic/32214-network/?do=findComment&comment=183768)
 - [Vatspy Error](https://forums.vatsim.net/topic/32217-vatspy-error/?do=findComment&comment=183767)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183766)
@@ -64,7 +65,6 @@
 - [Voice will suddenly stop and no more play](https://forums.vatsim.net/topic/32216-voice-will-suddenly-stop-and-no-more-play/?do=findComment&comment=183762)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183761)
 - [vPilot  causing massive fps drops and low performance on MSFS 2020 in Windows 11](https://forums.vatsim.net/topic/31794-vpilot-causing-massive-fps-drops-and-low-performance-on-msfs-2020-in-windows-11/?do=findComment&comment=183760)
-- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183759)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
