@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No audio after first installation and exception error](https://forums.vatsim.net/topic/32220-no-audio-after-first-installation-and-exception-error/?do=findComment&comment=183773)
+- [[Nov. 12 w/event ATC] Definitely Not The Event Known As Worldflight. This is the Himalayas-Polar-Desert Groupflight by Project Firmament](https://forums.vatsim.net/topic/32219-nov-12-wevent-atc-definitely-not-the-event-known-as-worldflight-this-is-the-himalayas-polar-desert-groupflight-by-project-firmament/?do=findComment&comment=183772)
+- [Vpilot version 2.8.1 & FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=183771)
 - [Nuevo Director FIR Chile](https://forums.vatsim.net/topic/32208-nuevo-director-fir-chile/?do=findComment&comment=183770)
 - [The Moroccan Virtual Air Association welcomes you!](https://forums.vatsim.net/topic/32218-the-moroccan-virtual-air-association-welcomes-you/?do=findComment&comment=183769)
 - [network](https://forums.vatsim.net/topic/32214-network/?do=findComment&comment=183768)
@@ -62,9 +65,6 @@
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183766)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183765)
 - [Vatspy Error](https://forums.vatsim.net/topic/32217-vatspy-error/?do=findComment&comment=183764)
-- [Voice will suddenly stop and no more play](https://forums.vatsim.net/topic/32216-voice-will-suddenly-stop-and-no-more-play/?do=findComment&comment=183763)
-- [Voice will suddenly stop and no more play](https://forums.vatsim.net/topic/32216-voice-will-suddenly-stop-and-no-more-play/?do=findComment&comment=183762)
-- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183761)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
