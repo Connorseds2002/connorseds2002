@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183777)
+- [No audio after first installation and exception error](https://forums.vatsim.net/topic/32220-no-audio-after-first-installation-and-exception-error/?do=findComment&comment=183776)
+- [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183775)
+- [No audio after first installation and exception error](https://forums.vatsim.net/topic/32220-no-audio-after-first-installation-and-exception-error/?do=findComment&comment=183774)
 - [No audio after first installation and exception error](https://forums.vatsim.net/topic/32220-no-audio-after-first-installation-and-exception-error/?do=findComment&comment=183773)
 - [[Nov. 12 w/event ATC] Definitely Not The Event Known As Worldflight. This is the Himalayas-Polar-Desert Groupflight by Project Firmament](https://forums.vatsim.net/topic/32219-nov-12-wevent-atc-definitely-not-the-event-known-as-worldflight-this-is-the-himalayas-polar-desert-groupflight-by-project-firmament/?do=findComment&comment=183772)
 - [Vpilot version 2.8.1 & FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=183771)
 - [Nuevo Director FIR Chile](https://forums.vatsim.net/topic/32208-nuevo-director-fir-chile/?do=findComment&comment=183770)
 - [The Moroccan Virtual Air Association welcomes you!](https://forums.vatsim.net/topic/32218-the-moroccan-virtual-air-association-welcomes-you/?do=findComment&comment=183769)
 - [network](https://forums.vatsim.net/topic/32214-network/?do=findComment&comment=183768)
-- [Vatspy Error](https://forums.vatsim.net/topic/32217-vatspy-error/?do=findComment&comment=183767)
-- [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183766)
-- [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183765)
-- [Vatspy Error](https://forums.vatsim.net/topic/32217-vatspy-error/?do=findComment&comment=183764)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
