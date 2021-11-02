@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183821)
+- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183820)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183819)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183818)
 - [http://status.vatsim.net/status.txt](https://forums.vatsim.net/topic/32223-httpstatusvatsimnetstatustxt/?do=findComment&comment=183817)
@@ -63,8 +65,6 @@
 - [Old Discord account linked to community hub](https://forums.vatsim.net/topic/31938-old-discord-account-linked-to-community-hub/?do=findComment&comment=183813)
 - [Position is displayed in the opposite direction](https://forums.vatsim.net/topic/32225-position-is-displayed-in-the-opposite-direction/?do=findComment&comment=183812)
 - [Help with Custom Rule for VPilot](https://forums.vatsim.net/topic/32212-help-with-custom-rule-for-vpilot/?do=findComment&comment=183811)
-- [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183810)
-- [Position is displayed in the opposite direction](https://forums.vatsim.net/topic/32225-position-is-displayed-in-the-opposite-direction/?do=findComment&comment=183809)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
