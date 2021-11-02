@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183832)
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183831)
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183830)
 - [http://status.vatsim.net/status.txt](https://forums.vatsim.net/topic/32223-httpstatusvatsimnetstatustxt/?do=findComment&comment=183829)
 - [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=183828)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183827)
@@ -62,9 +65,6 @@
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183825)
 - [SimAware map VATRUS ATC borders](https://forums.vatsim.net/topic/32192-simaware-map-vatrus-atc-borders/?do=findComment&comment=183824)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183823)
-- [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183822)
-- [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183821)
-- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183820)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
