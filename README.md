@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183804)
+- [Massive FPS drop using FLAi in P3Dv5.2HF1.](https://forums.vatsim.net/topic/32222-massive-fps-drop-using-flai-in-p3dv52hf1/?do=findComment&comment=183803)
 - [Vpilot version 2.8.1 & FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=183802)
 - [Lack of ATC Volunteers for CTP?](https://forums.vatsim.net/topic/32207-lack-of-atc-volunteers-for-ctp/?do=findComment&comment=183801)
 - [Vpilot version 2.8.1 & FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=183800)
@@ -63,8 +65,6 @@
 - [http://status.vatsim.net/status.txt](https://forums.vatsim.net/topic/32223-httpstatusvatsimnetstatustxt/?do=findComment&comment=183797)
 - [http://status.vatsim.net/status.txt](https://forums.vatsim.net/topic/32223-httpstatusvatsimnetstatustxt/?do=findComment&comment=183796)
 - [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183795)
-- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183794)
-- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183793)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
