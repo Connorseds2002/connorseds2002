@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Massive FPS drop using FLAi in P3Dv5.2HF1.](https://forums.vatsim.net/topic/32222-massive-fps-drop-using-flai-in-p3dv52hf1/?do=findComment&comment=183806)
+- [Canadian Xpress November 2021 Monthly Challenge: National Parks I - Dry Tortugas](https://forums.vatsim.net/topic/32224-canadian-xpress-november-2021-monthly-challenge-national-parks-i-dry-tortugas/?do=findComment&comment=183805)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183804)
 - [Massive FPS drop using FLAi in P3Dv5.2HF1.](https://forums.vatsim.net/topic/32222-massive-fps-drop-using-flai-in-p3dv52hf1/?do=findComment&comment=183803)
 - [Vpilot version 2.8.1 & FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=183802)
@@ -63,8 +65,6 @@
 - [http://status.vatsim.net/status.txt](https://forums.vatsim.net/topic/32223-httpstatusvatsimnetstatustxt/?do=findComment&comment=183799)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183798)
 - [http://status.vatsim.net/status.txt](https://forums.vatsim.net/topic/32223-httpstatusvatsimnetstatustxt/?do=findComment&comment=183797)
-- [http://status.vatsim.net/status.txt](https://forums.vatsim.net/topic/32223-httpstatusvatsimnetstatustxt/?do=findComment&comment=183796)
-- [Swift not connected to FSX how do I connect to fly](https://forums.vatsim.net/topic/32221-swift-not-connected-to-fsx-how-do-i-connect-to-fly/?do=findComment&comment=183795)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
