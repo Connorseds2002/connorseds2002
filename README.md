@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=183828)
+- [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183827)
+- [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183826)
+- [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183825)
+- [SimAware map VATRUS ATC borders](https://forums.vatsim.net/topic/32192-simaware-map-vatrus-atc-borders/?do=findComment&comment=183824)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183823)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183822)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183821)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183820)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183819)
-- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183818)
-- [http://status.vatsim.net/status.txt](https://forums.vatsim.net/topic/32223-httpstatusvatsimnetstatustxt/?do=findComment&comment=183817)
-- [Massive FPS drop using FLAi in P3Dv5.2HF1.](https://forums.vatsim.net/topic/32222-massive-fps-drop-using-flai-in-p3dv52hf1/?do=findComment&comment=183815)
-- [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183814)
-- [Old Discord account linked to community hub](https://forums.vatsim.net/topic/31938-old-discord-account-linked-to-community-hub/?do=findComment&comment=183813)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
