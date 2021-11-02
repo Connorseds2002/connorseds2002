@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183823)
+- [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183822)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183821)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=183820)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183819)
@@ -63,8 +65,6 @@
 - [Massive FPS drop using FLAi in P3Dv5.2HF1.](https://forums.vatsim.net/topic/32222-massive-fps-drop-using-flai-in-p3dv52hf1/?do=findComment&comment=183815)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183814)
 - [Old Discord account linked to community hub](https://forums.vatsim.net/topic/31938-old-discord-account-linked-to-community-hub/?do=findComment&comment=183813)
-- [Position is displayed in the opposite direction](https://forums.vatsim.net/topic/32225-position-is-displayed-in-the-opposite-direction/?do=findComment&comment=183812)
-- [Help with Custom Rule for VPilot](https://forums.vatsim.net/topic/32212-help-with-custom-rule-for-vpilot/?do=findComment&comment=183811)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
