@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183835)
 - [Vatsim Connect Error 500](https://forums.vatsim.net/topic/32227-vatsim-connect-error-500/?do=findComment&comment=183834)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183833)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183832)
@@ -64,7 +65,6 @@
 - [Vpilot MSFS2020 Model Matching](https://forums.vatsim.net/topic/31576-vpilot-msfs2020-model-matching/?do=findComment&comment=183828)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183827)
 - [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183826)
-- [vPilot question related to receiving voice ATC](https://forums.vatsim.net/topic/32226-vpilot-question-related-to-receiving-voice-atc/?do=findComment&comment=183825)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
