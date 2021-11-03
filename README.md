@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183854)
+- [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=183853)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=183852)
 - [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183851)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183850)
@@ -63,8 +65,6 @@
 - [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183847)
 - [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183846)
 - [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183845)
-- [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183844)
-- [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183843)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
