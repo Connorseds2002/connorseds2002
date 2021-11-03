@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183848)
+- [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183847)
+- [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183846)
+- [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183845)
+- [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183844)
 - [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183843)
 - [Xpilot would not start nor connect](https://forums.vatsim.net/topic/32210-xpilot-would-not-start-nor-connect/?do=findComment&comment=183841)
 - [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183840)
 - [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183839)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183838)
-- [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183837)
-- [Envoy Virtual Recruiting Pilots](https://forums.vatsim.net/topic/32228-envoy-virtual-recruiting-pilots/?do=findComment&comment=183836)
-- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183835)
-- [Vatsim Connect Error 500](https://forums.vatsim.net/topic/32227-vatsim-connect-error-500/?do=findComment&comment=183834)
-- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183833)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
