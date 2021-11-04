@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183870)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183869)
 - [Can't turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=183868)
 - [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183867)
@@ -64,7 +65,6 @@
 - [Pilot Briefing for LIRF airport](https://forums.vatsim.net/topic/23261-pilot-briefing-for-lirf-airport/?do=findComment&comment=183863)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183862)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=183861)
-- [Can't turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=183860)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
