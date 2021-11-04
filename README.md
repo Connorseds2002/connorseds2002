@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183876)
+- [Error Connecting to voice server:  Connect failed (Bad Gateway - 502 Bad Gateway)](https://forums.vatsim.net/topic/32232-error-connecting-to-voice-server-connect-failed-bad-gateway-502-bad-gateway/?do=findComment&comment=183875)
+- [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183874)
+- [Error Connecting to voice server:  Connect failed (Bad Gateway - 502 Bad Gateway)](https://forums.vatsim.net/topic/32232-error-connecting-to-voice-server-connect-failed-bad-gateway-502-bad-gateway/?do=findComment&comment=183873)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183872)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183871)
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183870)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183869)
 - [Can't turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=183868)
 - [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183867)
-- [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183866)
-- [Malta vACC Recuiting ATC and Visiting Controller's](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=183865)
-- [Malta vACC Recuiting ATC and Visiting Controller's](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=183864)
-- [Pilot Briefing for LIRF airport](https://forums.vatsim.net/topic/23261-pilot-briefing-for-lirf-airport/?do=findComment&comment=183863)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
