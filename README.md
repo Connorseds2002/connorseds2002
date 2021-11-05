@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183886)
+- [New or afraid of VATSIM? This event is for you!](https://forums.vatsim.net/topic/32233-new-or-afraid-of-vatsim-this-event-is-for-you/?do=findComment&comment=183885)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183884)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183883)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183882)
@@ -63,8 +65,6 @@
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183879)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183878)
 - [Why are low-level ATC slots often filled before higher-level ones?](https://forums.vatsim.net/topic/32230-why-are-low-level-atc-slots-often-filled-before-higher-level-ones/?do=findComment&comment=183877)
-- [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183876)
-- [Error Connecting to voice server:  Connect failed (Bad Gateway - 502 Bad Gateway)](https://forums.vatsim.net/topic/32232-error-connecting-to-voice-server-connect-failed-bad-gateway-502-bad-gateway/?do=findComment&comment=183875)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
