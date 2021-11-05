@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183883)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183882)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183881)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183880)
@@ -64,7 +65,6 @@
 - [How hard is it to get into Vatsim?](https://forums.vatsim.net/topic/32229-how-hard-is-it-to-get-into-vatsim/?do=findComment&comment=183876)
 - [Error Connecting to voice server:  Connect failed (Bad Gateway - 502 Bad Gateway)](https://forums.vatsim.net/topic/32232-error-connecting-to-voice-server-connect-failed-bad-gateway-502-bad-gateway/?do=findComment&comment=183875)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183874)
-- [Error Connecting to voice server:  Connect failed (Bad Gateway - 502 Bad Gateway)](https://forums.vatsim.net/topic/32232-error-connecting-to-voice-server-connect-failed-bad-gateway-502-bad-gateway/?do=findComment&comment=183873)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
