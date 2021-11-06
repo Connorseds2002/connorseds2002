@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy Not Working Windows 11](https://forums.vatsim.net/topic/32087-vatspy-not-working-windows-11/?do=findComment&comment=183917)
+- [[November 20th, 12:00z-16:00z] Winter Hop](https://forums.vatsim.net/topic/32237-november-20th-1200z-1600z-winter-hop/?do=findComment&comment=183916)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183915)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183914)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=183913)
@@ -63,8 +65,6 @@
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183910)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=183908)
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=183907)
-- [Transition periode](https://forums.vatsim.net/topic/31717-transition-periode/?do=findComment&comment=183906)
-- [Model Matching Software for P3D?](https://forums.vatsim.net/topic/31624-model-matching-software-for-p3d/?do=findComment&comment=183905)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
