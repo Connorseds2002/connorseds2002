@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183903)
+- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183902)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183901)
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=183900)
 - [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=183899)
@@ -63,8 +65,6 @@
 - [First Wings events ?](https://forums.vatsim.net/topic/31855-first-wings-events/?do=findComment&comment=183895)
 - [I can't take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=183894)
 - [Make accepting VCs optional](https://forums.vatsim.net/topic/32234-make-accepting-vcs-optional/?do=findComment&comment=183893)
-- [Malta vACC Recuiting ATC and Visiting Controller's](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=183892)
-- [Malta vACC Recuiting ATC and Visiting Controller's](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=183891)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
