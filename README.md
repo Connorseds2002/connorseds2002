@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=183907)
 - [Transition periode](https://forums.vatsim.net/topic/31717-transition-periode/?do=findComment&comment=183906)
 - [Model Matching Software for P3D?](https://forums.vatsim.net/topic/31624-model-matching-software-for-p3d/?do=findComment&comment=183905)
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=183904)
@@ -64,7 +65,6 @@
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=183900)
 - [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=183899)
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=183898)
-- [Make accepting VCs optional](https://forums.vatsim.net/topic/32234-make-accepting-vcs-optional/?do=findComment&comment=183897)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
