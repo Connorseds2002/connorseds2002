@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183920)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183919)
 - [Vatspy Not Working Windows 11](https://forums.vatsim.net/topic/32087-vatspy-not-working-windows-11/?do=findComment&comment=183918)
 - [Vatspy Not Working Windows 11](https://forums.vatsim.net/topic/32087-vatspy-not-working-windows-11/?do=findComment&comment=183917)
@@ -64,7 +65,6 @@
 - [A Squawk IDENT issues](https://forums.vatsim.net/topic/31494-a-squawk-ident-issues/?do=findComment&comment=183913)
 - [Transition periode](https://forums.vatsim.net/topic/31717-transition-periode/?do=findComment&comment=183912)
 - [Reports / Requests for Plug-In Library](https://forums.vatsim.net/topic/32236-reports-requests-for-plug-in-library/?do=findComment&comment=183911)
-- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183910)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
