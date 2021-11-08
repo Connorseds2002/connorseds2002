@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183931)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183930)
 - [Wrong discord account linked](https://forums.vatsim.net/topic/32240-wrong-discord-account-linked/?do=findComment&comment=183929)
 - [Wrong discord account linked](https://forums.vatsim.net/topic/32240-wrong-discord-account-linked/?do=findComment&comment=183928)
@@ -64,7 +65,6 @@
 - [[Nepal vACC] Visiting Controller Application Closed!](https://forums.vatsim.net/topic/32241-nepal-vacc-visiting-controller-application-closed/?do=findComment&comment=183924)
 - [Wrong discord account linked](https://forums.vatsim.net/topic/32240-wrong-discord-account-linked/?do=findComment&comment=183923)
 - [Bug: Retrieving controller info from a logon more than 10 characters results in error.](https://forums.vatsim.net/topic/32239-bug-retrieving-controller-info-from-a-logon-more-than-10-characters-results-in-error/?do=findComment&comment=183922)
-- [Bug: Retrieving controller info from a logon more than 10 characters results in error.](https://forums.vatsim.net/topic/32239-bug-retrieving-controller-info-from-a-logon-more-than-10-characters-results-in-error/?do=findComment&comment=183921)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
