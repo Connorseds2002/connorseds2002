@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Nepal vACC] Visiting Controller Application Closed!](https://forums.vatsim.net/topic/32241-nepal-vacc-visiting-controller-application-closed/?do=findComment&comment=183924)
 - [Wrong discord account linked](https://forums.vatsim.net/topic/32240-wrong-discord-account-linked/?do=findComment&comment=183923)
 - [Bug: Retrieving controller info from a logon more than 10 characters results in error.](https://forums.vatsim.net/topic/32239-bug-retrieving-controller-info-from-a-logon-more-than-10-characters-results-in-error/?do=findComment&comment=183922)
 - [Bug: Retrieving controller info from a logon more than 10 characters results in error.](https://forums.vatsim.net/topic/32239-bug-retrieving-controller-info-from-a-logon-more-than-10-characters-results-in-error/?do=findComment&comment=183921)
@@ -64,7 +65,6 @@
 - [Vatspy Not Working Windows 11](https://forums.vatsim.net/topic/32087-vatspy-not-working-windows-11/?do=findComment&comment=183917)
 - [[November 20th, 12:00z-16:00z] Winter Hop](https://forums.vatsim.net/topic/32237-november-20th-1200z-1600z-winter-hop/?do=findComment&comment=183916)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183915)
-- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183914)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
