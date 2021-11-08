@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183944)
+- [Can&#39;t connect to server](https://forums.vatsim.net/topic/32245-cant-connect-to-server/?do=findComment&comment=183943)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183942)
 - [Vintage Aircraft](https://forums.vatsim.net/topic/32244-vintage-aircraft/?do=findComment&comment=183941)
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=183940)
@@ -63,8 +65,6 @@
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183937)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183936)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183935)
-- [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183934)
-- [my mode c on v pilot doesnt on fsx steam edition aircraft pmdg 738,739 cesnna a2a , piper pa28](https://forums.vatsim.net/topic/32242-my-mode-c-on-v-pilot-doesnt-on-fsx-steam-edition-aircraft-pmdg-738739-cesnna-a2a-piper-pa28/?do=findComment&comment=183933)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
