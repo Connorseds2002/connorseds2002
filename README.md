@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=183940)
 - [cannot get vatspy to download](https://forums.vatsim.net/topic/32243-cannot-get-vatspy-to-download/?do=findComment&comment=183939)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183938)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183937)
@@ -64,7 +65,6 @@
 - [my mode c on v pilot doesnt on fsx steam edition aircraft pmdg 738,739 cesnna a2a , piper pa28](https://forums.vatsim.net/topic/32242-my-mode-c-on-v-pilot-doesnt-on-fsx-steam-edition-aircraft-pmdg-738739-cesnna-a2a-piper-pa28/?do=findComment&comment=183933)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183932)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183931)
-- [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183930)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
