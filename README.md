@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183937)
+- [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183936)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183935)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183934)
 - [my mode c on v pilot doesnt on fsx steam edition aircraft pmdg 738,739 cesnna a2a , piper pa28](https://forums.vatsim.net/topic/32242-my-mode-c-on-v-pilot-doesnt-on-fsx-steam-edition-aircraft-pmdg-738739-cesnna-a2a-piper-pa28/?do=findComment&comment=183933)
@@ -63,8 +65,6 @@
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183930)
 - [Wrong discord account linked](https://forums.vatsim.net/topic/32240-wrong-discord-account-linked/?do=findComment&comment=183929)
 - [Wrong discord account linked](https://forums.vatsim.net/topic/32240-wrong-discord-account-linked/?do=findComment&comment=183928)
-- [Wrong discord account linked](https://forums.vatsim.net/topic/32240-wrong-discord-account-linked/?do=findComment&comment=183927)
-- [Wrong discord account linked](https://forums.vatsim.net/topic/32240-wrong-discord-account-linked/?do=findComment&comment=183926)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
