@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=183955)
 - [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183954)
-- [Error 10061 with Kaspersky](https://forums.vatsim.net/topic/32248-error-10061-with-kaspersky/?do=findComment&comment=183953)
-- [Error 10061 with Kaspersky](https://forums.vatsim.net/topic/32248-error-10061-with-kaspersky/?do=findComment&comment=183952)
 - [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183951)
-- [Error 10061 with Kaspersky](https://forums.vatsim.net/topic/32248-error-10061-with-kaspersky/?do=findComment&comment=183950)
 - [Error 10061 with Kaspersky](https://forums.vatsim.net/topic/32248-error-10061-with-kaspersky/?do=findComment&comment=183949)
 - [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183948)
 - [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183947)
 - [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=183946)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183945)
+- [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183944)
+- [Can&#39;t connect to server  - solved](https://forums.vatsim.net/topic/32245-cant-connect-to-server-solved/?do=findComment&comment=183943)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
