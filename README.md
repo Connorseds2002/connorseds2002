@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183944)
-- [Can&#39;t connect to server](https://forums.vatsim.net/topic/32245-cant-connect-to-server/?do=findComment&comment=183943)
-- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183942)
-- [Vintage Aircraft](https://forums.vatsim.net/topic/32244-vintage-aircraft/?do=findComment&comment=183941)
-- [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=183940)
-- [cannot get vatspy to download](https://forums.vatsim.net/topic/32243-cannot-get-vatspy-to-download/?do=findComment&comment=183939)
-- [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183938)
-- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=183937)
-- [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183936)
-- [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183935)
+- [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183954)
+- [Error 10061 with Kaspersky](https://forums.vatsim.net/topic/32248-error-10061-with-kaspersky/?do=findComment&comment=183953)
+- [Error 10061 with Kaspersky](https://forums.vatsim.net/topic/32248-error-10061-with-kaspersky/?do=findComment&comment=183952)
+- [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183951)
+- [Error 10061 with Kaspersky](https://forums.vatsim.net/topic/32248-error-10061-with-kaspersky/?do=findComment&comment=183950)
+- [Error 10061 with Kaspersky](https://forums.vatsim.net/topic/32248-error-10061-with-kaspersky/?do=findComment&comment=183949)
+- [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183948)
+- [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183947)
+- [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=183946)
+- [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183945)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
