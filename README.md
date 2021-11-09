@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Output device for incoming message / SELCAL &lpar;network client&rpar;](https://forums.vatsim.net/topic/32251-output-device-for-incoming-message-selcal-network-client/?do=findComment&comment=183962)
+- [Feature Request: Show Controller Info / ATIS automatically](https://forums.vatsim.net/topic/32250-feature-request-show-controller-info-atis-automatically/?do=findComment&comment=183961)
+- [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=183960)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183959)
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183958)
 - [Hot Mic FS2020 &lpar;Alpha/Bravo Setup&rpar;](https://forums.vatsim.net/topic/32249-hot-mic-fs2020-alphabravo-setup/?do=findComment&comment=183957)
@@ -62,9 +65,6 @@
 - [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=183955)
 - [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183954)
 - [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183951)
-- [Error 10061 with Kaspersky](https://forums.vatsim.net/topic/32248-error-10061-with-kaspersky/?do=findComment&comment=183949)
-- [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183948)
-- [Connections refused/timed out on any server](https://forums.vatsim.net/topic/32246-connections-refusedtimed-out-on-any-server/?do=findComment&comment=183947)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
