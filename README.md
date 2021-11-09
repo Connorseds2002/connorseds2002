@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Output device for incoming message / SELCAL &lpar;network client&rpar;](https://forums.vatsim.net/topic/32251-output-device-for-incoming-message-selcal-network-client/?do=findComment&comment=183965)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183964)
 - [Hot Mic FS2020 &lpar;Alpha/Bravo Setup&rpar;](https://forums.vatsim.net/topic/32249-hot-mic-fs2020-alphabravo-setup/?do=findComment&comment=183963)
 - [Output device for incoming message / SELCAL &lpar;network client&rpar;](https://forums.vatsim.net/topic/32251-output-device-for-incoming-message-selcal-network-client/?do=findComment&comment=183962)
@@ -64,7 +65,6 @@
 - [Time accelerator](https://forums.vatsim.net/topic/32238-time-accelerator/?do=findComment&comment=183958)
 - [Hot Mic FS2020 &lpar;Alpha/Bravo Setup&rpar;](https://forums.vatsim.net/topic/32249-hot-mic-fs2020-alphabravo-setup/?do=findComment&comment=183957)
 - [Hot Mic FS2020 &lpar;Alpha/Bravo Setup&rpar;](https://forums.vatsim.net/topic/32249-hot-mic-fs2020-alphabravo-setup/?do=findComment&comment=183956)
-- [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=183955)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
