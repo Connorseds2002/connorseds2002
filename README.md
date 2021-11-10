@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183971)
+- [Feature Request, VR Compatible.](https://forums.vatsim.net/topic/32213-feature-request-vr-compatible/?do=findComment&comment=183970)
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=183969)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183968)
 - [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=183967)
@@ -63,8 +65,6 @@
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183964)
 - [Hot Mic FS2020 &lpar;Alpha/Bravo Setup&rpar;](https://forums.vatsim.net/topic/32249-hot-mic-fs2020-alphabravo-setup/?do=findComment&comment=183963)
 - [Output device for incoming message / SELCAL &lpar;network client&rpar;](https://forums.vatsim.net/topic/32251-output-device-for-incoming-message-selcal-network-client/?do=findComment&comment=183962)
-- [Feature Request: Show Controller Info / ATIS automatically](https://forums.vatsim.net/topic/32250-feature-request-show-controller-info-atis-automatically/?do=findComment&comment=183961)
-- [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=183960)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
