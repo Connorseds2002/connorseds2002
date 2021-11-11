@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR Weather](https://forums.vatsim.net/topic/32254-vfr-weather/?do=findComment&comment=184008)
+- [I can&#39;t take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=184007)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184006)
 - [I can&#39;t take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=184005)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184004)
@@ -63,8 +65,6 @@
 - [VFR Weather](https://forums.vatsim.net/topic/32254-vfr-weather/?do=findComment&comment=184001)
 - [New ATC Trainee](https://forums.vatsim.net/topic/32252-new-atc-trainee/?do=findComment&comment=184000)
 - [VFR Weather](https://forums.vatsim.net/topic/32254-vfr-weather/?do=findComment&comment=183999)
-- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183998)
-- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183996)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
