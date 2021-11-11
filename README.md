@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I can&#39;t take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=184005)
+- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184004)
 - [VFR Weather](https://forums.vatsim.net/topic/32254-vfr-weather/?do=findComment&comment=184003)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184002)
 - [VFR Weather](https://forums.vatsim.net/topic/32254-vfr-weather/?do=findComment&comment=184001)
@@ -63,8 +65,6 @@
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183998)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183996)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183995)
-- [New ATC Trainee](https://forums.vatsim.net/topic/32252-new-atc-trainee/?do=findComment&comment=183994)
-- [Hot Mic FS2020 &lpar;Alpha/Bravo Setup&rpar;](https://forums.vatsim.net/topic/32249-hot-mic-fs2020-alphabravo-setup/?do=findComment&comment=183993)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
