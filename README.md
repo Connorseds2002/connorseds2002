@@ -55,7 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Confused by Map](https://forums.vatsim.net/topic/32253-confused-by-map/?do=findComment&comment=183997)
+- [&lpar;Delete&rpar;](https://forums.vatsim.net/topic/32253-delete/?do=findComment&comment=183997)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183996)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=183995)
 - [New ATC Trainee](https://forums.vatsim.net/topic/32252-new-atc-trainee/?do=findComment&comment=183994)
