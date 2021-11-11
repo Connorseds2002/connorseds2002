@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR Weather](https://forums.vatsim.net/topic/32254-vfr-weather/?do=findComment&comment=184001)
 - [New ATC Trainee](https://forums.vatsim.net/topic/32252-new-atc-trainee/?do=findComment&comment=184000)
 - [VFR Weather](https://forums.vatsim.net/topic/32254-vfr-weather/?do=findComment&comment=183999)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=183998)
@@ -64,7 +65,6 @@
 - [Hot Mic FS2020 &lpar;Alpha/Bravo Setup&rpar;](https://forums.vatsim.net/topic/32249-hot-mic-fs2020-alphabravo-setup/?do=findComment&comment=183993)
 - [Hot Mic FS2020 &lpar;Alpha/Bravo Setup&rpar;](https://forums.vatsim.net/topic/32249-hot-mic-fs2020-alphabravo-setup/?do=findComment&comment=183992)
 - [New ATC Trainee](https://forums.vatsim.net/topic/32252-new-atc-trainee/?do=findComment&comment=183991)
-- [New ATC Trainee](https://forums.vatsim.net/topic/32252-new-atc-trainee/?do=findComment&comment=183990)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
