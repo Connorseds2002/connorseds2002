@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184018)
 - [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184017)
 - [Opportunity: VATSIM Membership Manager](https://forums.vatsim.net/topic/32256-opportunity-vatsim-membership-manager/?do=findComment&comment=184016)
 - [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184015)
@@ -64,7 +65,6 @@
 - [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184011)
 - [VFR Weather](https://forums.vatsim.net/topic/32254-vfr-weather/?do=findComment&comment=184010)
 - [Reports / Requests for Plug-In Library](https://forums.vatsim.net/topic/32236-reports-requests-for-plug-in-library/?do=findComment&comment=184009)
-- [VFR Weather](https://forums.vatsim.net/topic/32254-vfr-weather/?do=findComment&comment=184008)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
