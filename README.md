@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184020)
+- [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184019)
 - [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184018)
 - [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184017)
 - [Opportunity: VATSIM Membership Manager](https://forums.vatsim.net/topic/32256-opportunity-vatsim-membership-manager/?do=findComment&comment=184016)
@@ -63,8 +65,6 @@
 - [Unable to subscribe to Navigraph](https://forums.vatsim.net/topic/32255-unable-to-subscribe-to-navigraph/?do=findComment&comment=184013)
 - [Unable to subscribe to Navigraph](https://forums.vatsim.net/topic/32255-unable-to-subscribe-to-navigraph/?do=findComment&comment=184012)
 - [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184011)
-- [VFR Weather](https://forums.vatsim.net/topic/32254-vfr-weather/?do=findComment&comment=184010)
-- [Reports / Requests for Plug-In Library](https://forums.vatsim.net/topic/32236-reports-requests-for-plug-in-library/?do=findComment&comment=184009)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
