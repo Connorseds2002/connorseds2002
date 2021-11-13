@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184034)
+- [Creating my own sector files.](https://forums.vatsim.net/topic/24085-creating-my-own-sector-files/?do=findComment&comment=184033)
+- [xPilot and Flight Factor B767](https://forums.vatsim.net/topic/24927-xpilot-and-flight-factor-b767/?do=findComment&comment=184032)
+- [Getting started - from scratch](https://forums.vatsim.net/topic/32260-getting-started-from-scratch/?do=findComment&comment=184031)
 - [AIP Charts for Asia](https://forums.vatsim.net/topic/27913-aip-charts-for-asia/?do=findComment&comment=184030)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184029)
 - [Reports / Requests for Plug-In Library](https://forums.vatsim.net/topic/32236-reports-requests-for-plug-in-library/?do=findComment&comment=184028)
 - [Reports / Requests for Plug-In Library](https://forums.vatsim.net/topic/32236-reports-requests-for-plug-in-library/?do=findComment&comment=184027)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184026)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184025)
-- [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184024)
-- [unable to reach voice server](https://forums.vatsim.net/topic/32258-unable-to-reach-voice-server/?do=findComment&comment=184022)
-- [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184021)
-- [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184020)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
