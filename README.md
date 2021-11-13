@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184029)
+- [Reports / Requests for Plug-In Library](https://forums.vatsim.net/topic/32236-reports-requests-for-plug-in-library/?do=findComment&comment=184028)
 - [Reports / Requests for Plug-In Library](https://forums.vatsim.net/topic/32236-reports-requests-for-plug-in-library/?do=findComment&comment=184027)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184026)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184025)
@@ -63,8 +65,6 @@
 - [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184021)
 - [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184020)
 - [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184019)
-- [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184018)
-- [Why can’t I make my selected radio frequencies “active”](https://forums.vatsim.net/topic/32247-why-can%E2%80%99t-i-make-my-selected-radio-frequencies-%E2%80%9Cactive%E2%80%9D/?do=findComment&comment=184017)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
