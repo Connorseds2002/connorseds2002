@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184039)
 - [[ACCPAK1] Director Pakistan vACC Appointed](https://forums.vatsim.net/topic/32261-accpak1-director-pakistan-vacc-appointed/?do=findComment&comment=184038)
 - [[ACCPAK1] Pakistan vACC Director Vacancy Announcement](https://forums.vatsim.net/topic/31842-accpak1-pakistan-vacc-director-vacancy-announcement/?do=findComment&comment=184037)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184036)
@@ -64,7 +65,6 @@
 - [Getting started - from scratch](https://forums.vatsim.net/topic/32260-getting-started-from-scratch/?do=findComment&comment=184031)
 - [AIP Charts for Asia](https://forums.vatsim.net/topic/27913-aip-charts-for-asia/?do=findComment&comment=184030)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184029)
-- [Reports / Requests for Plug-In Library](https://forums.vatsim.net/topic/32236-reports-requests-for-plug-in-library/?do=findComment&comment=184028)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
