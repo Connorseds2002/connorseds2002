@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SECTORFILE #2](https://forums.vatsim.net/topic/30921-sectorfile-2/?do=findComment&comment=184050)
+- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=184049)
+- [[ACCPAK1] Director Pakistan vACC Appointed](https://forums.vatsim.net/topic/32261-accpak1-director-pakistan-vacc-appointed/?do=findComment&comment=184048)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=184047)
 - [PIA Virtual are Introducing Operations with vFlyDubai](https://forums.vatsim.net/topic/32263-pia-virtual-are-introducing-operations-with-vflydubai/?do=findComment&comment=184046)
 - [I can&#39;t take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=184045)
@@ -62,9 +65,6 @@
 - [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184043)
 - [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184042)
 - [[ACCPAK1] Director Pakistan vACC Appointed](https://forums.vatsim.net/topic/32261-accpak1-director-pakistan-vacc-appointed/?do=findComment&comment=184041)
-- [Getting started - from scratch](https://forums.vatsim.net/topic/32260-getting-started-from-scratch/?do=findComment&comment=184040)
-- [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184039)
-- [[ACCPAK1] Director Pakistan vACC Appointed](https://forums.vatsim.net/topic/32261-accpak1-director-pakistan-vacc-appointed/?do=findComment&comment=184038)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
