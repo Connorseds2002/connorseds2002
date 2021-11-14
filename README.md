@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=184054)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184053)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184052)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184051)
@@ -64,7 +65,6 @@
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=184047)
 - [PIA Virtual are Introducing Operations with vFlyDubai](https://forums.vatsim.net/topic/32263-pia-virtual-are-introducing-operations-with-vflydubai/?do=findComment&comment=184046)
 - [I can&#39;t take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=184045)
-- [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184044)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
