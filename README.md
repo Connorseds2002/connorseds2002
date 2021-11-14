@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184061)
+- [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184060)
+- [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184059)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=184058)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=184057)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184056)
@@ -62,9 +65,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=184054)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184053)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184052)
-- [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184051)
-- [SECTORFILE #2](https://forums.vatsim.net/topic/30921-sectorfile-2/?do=findComment&comment=184050)
-- [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=184049)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
