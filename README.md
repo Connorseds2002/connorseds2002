@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=184058)
+- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=184057)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184056)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184055)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=184054)
@@ -63,8 +65,6 @@
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184051)
 - [SECTORFILE #2](https://forums.vatsim.net/topic/30921-sectorfile-2/?do=findComment&comment=184050)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=184049)
-- [[ACCPAK1] Director Pakistan vACC Appointed](https://forums.vatsim.net/topic/32261-accpak1-director-pakistan-vacc-appointed/?do=findComment&comment=184048)
-- [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=184047)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
