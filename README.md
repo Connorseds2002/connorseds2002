@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184052)
+- [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184051)
 - [SECTORFILE #2](https://forums.vatsim.net/topic/30921-sectorfile-2/?do=findComment&comment=184050)
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=184049)
 - [[ACCPAK1] Director Pakistan vACC Appointed](https://forums.vatsim.net/topic/32261-accpak1-director-pakistan-vacc-appointed/?do=findComment&comment=184048)
@@ -63,8 +65,6 @@
 - [I can&#39;t take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=184045)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184044)
 - [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184043)
-- [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184042)
-- [[ACCPAK1] Director Pakistan vACC Appointed](https://forums.vatsim.net/topic/32261-accpak1-director-pakistan-vacc-appointed/?do=findComment&comment=184041)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
