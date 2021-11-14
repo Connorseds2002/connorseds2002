@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184043)
 - [v1.3.2 LDR DIR spinner not working](https://forums.vatsim.net/topic/32257-v132-ldr-dir-spinner-not-working/?do=findComment&comment=184042)
 - [[ACCPAK1] Director Pakistan vACC Appointed](https://forums.vatsim.net/topic/32261-accpak1-director-pakistan-vacc-appointed/?do=findComment&comment=184041)
 - [Getting started - from scratch](https://forums.vatsim.net/topic/32260-getting-started-from-scratch/?do=findComment&comment=184040)
@@ -64,7 +65,6 @@
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184036)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184034)
 - [Creating my own sector files.](https://forums.vatsim.net/topic/24085-creating-my-own-sector-files/?do=findComment&comment=184033)
-- [xPilot and Flight Factor B767](https://forums.vatsim.net/topic/24927-xpilot-and-flight-factor-b767/?do=findComment&comment=184032)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
