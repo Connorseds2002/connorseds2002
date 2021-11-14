@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184056)
+- [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184055)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=184054)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184053)
 - [Power drop out can really ruin your whole day!](https://forums.vatsim.net/topic/32262-power-drop-out-can-really-ruin-your-whole-day/?do=findComment&comment=184052)
@@ -63,8 +65,6 @@
 - [ATC language](https://forums.vatsim.net/topic/31797-atc-language/?do=findComment&comment=184049)
 - [[ACCPAK1] Director Pakistan vACC Appointed](https://forums.vatsim.net/topic/32261-accpak1-director-pakistan-vacc-appointed/?do=findComment&comment=184048)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=184047)
-- [PIA Virtual are Introducing Operations with vFlyDubai](https://forums.vatsim.net/topic/32263-pia-virtual-are-introducing-operations-with-vflydubai/?do=findComment&comment=184046)
-- [I can&#39;t take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=184045)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
