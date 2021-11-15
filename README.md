@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184071)
+- [AFV and Streaming - Broken audio](https://forums.vatsim.net/topic/32266-afv-and-streaming-broken-audio/?do=findComment&comment=184070)
 - [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184069)
 - [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184068)
 - [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184067)
@@ -63,8 +65,6 @@
 - [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184064)
 - [Vatsim fs2020](https://forums.vatsim.net/topic/32265-vatsim-fs2020/?do=findComment&comment=184063)
 - [Vatsim fs2020](https://forums.vatsim.net/topic/32265-vatsim-fs2020/?do=findComment&comment=184062)
-- [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184061)
-- [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184060)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
