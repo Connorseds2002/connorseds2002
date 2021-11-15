@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184069)
 - [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184068)
 - [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184067)
 - [xPilot and Flight Factor B767](https://forums.vatsim.net/topic/24927-xpilot-and-flight-factor-b767/?do=findComment&comment=184066)
@@ -64,7 +65,6 @@
 - [Vatsim fs2020](https://forums.vatsim.net/topic/32265-vatsim-fs2020/?do=findComment&comment=184062)
 - [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184061)
 - [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184060)
-- [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184059)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
