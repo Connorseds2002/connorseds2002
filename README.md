@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184085)
+- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184084)
+- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184083)
+- [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184082)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184081)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184080)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184079)
 - [Invalid Cid/password](https://forums.vatsim.net/topic/32268-invalid-cidpassword/?do=findComment&comment=184078)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184076)
 - [Stuck Mike in Xpilot](https://forums.vatsim.net/topic/32267-stuck-mike-in-xpilot/?do=findComment&comment=184075)
-- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184074)
-- [Aircraft Type Not Working?](https://forums.vatsim.net/topic/32122-aircraft-type-not-working/?do=findComment&comment=184073)
-- [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184072)
-- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184071)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
