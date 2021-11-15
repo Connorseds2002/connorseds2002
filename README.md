@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184074)
+- [Aircraft Type Not Working?](https://forums.vatsim.net/topic/32122-aircraft-type-not-working/?do=findComment&comment=184073)
 - [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184072)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184071)
 - [AFV and Streaming - Broken audio](https://forums.vatsim.net/topic/32266-afv-and-streaming-broken-audio/?do=findComment&comment=184070)
@@ -63,8 +65,6 @@
 - [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184067)
 - [xPilot and Flight Factor B767](https://forums.vatsim.net/topic/24927-xpilot-and-flight-factor-b767/?do=findComment&comment=184066)
 - [Distance lines stuck bug](https://forums.vatsim.net/topic/32174-distance-lines-stuck-bug/?do=findComment&comment=184065)
-- [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184064)
-- [Vatsim fs2020](https://forums.vatsim.net/topic/32265-vatsim-fs2020/?do=findComment&comment=184063)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
