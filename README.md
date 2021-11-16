@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184101)
+- [Microphone stuck](https://forums.vatsim.net/topic/32270-microphone-stuck/?do=findComment&comment=184100)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=184099)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184098)
 - [Invalid Cid/password](https://forums.vatsim.net/topic/32268-invalid-cidpassword/?do=findComment&comment=184097)
@@ -63,8 +65,6 @@
 - [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=184094)
 - [Microphone stuck](https://forums.vatsim.net/topic/32270-microphone-stuck/?do=findComment&comment=184093)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184092)
-- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184091)
-- [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184090)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
