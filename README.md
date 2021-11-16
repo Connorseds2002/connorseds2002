@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FSXmap now supports VATSIM](https://forums.vatsim.net/topic/32275-fsxmap-now-supports-vatsim/?do=findComment&comment=184127)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184125)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184124)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184123)
@@ -64,7 +65,6 @@
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184119)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184118)
 - [Command failed - Vpilot](https://forums.vatsim.net/topic/32273-command-failed-vpilot/?do=findComment&comment=184117)
-- [Callsign too long for chat](https://forums.vatsim.net/topic/32272-callsign-too-long-for-chat/?do=findComment&comment=184116)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
