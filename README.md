@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Post your scope!](https://forums.vatsim.net/topic/7414-post-your-scope/?do=findComment&comment=184094)
+- [Microphone stuck](https://forums.vatsim.net/topic/32270-microphone-stuck/?do=findComment&comment=184093)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184092)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184091)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184090)
@@ -63,8 +65,6 @@
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184087)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184086)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184085)
-- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184084)
-- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184083)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
