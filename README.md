@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 2.8.3 Released](https://forums.vatsim.net/topic/32276-vpilot-283-released/?do=findComment&comment=184129)
+- [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=184128)
 - [FSXmap now supports VATSIM](https://forums.vatsim.net/topic/32275-fsxmap-now-supports-vatsim/?do=findComment&comment=184127)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184125)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184124)
@@ -63,8 +65,6 @@
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184121)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184120)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184119)
-- [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184118)
-- [Command failed - Vpilot](https://forums.vatsim.net/topic/32273-command-failed-vpilot/?do=findComment&comment=184117)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
