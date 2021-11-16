@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184098)
 - [Invalid Cid/password](https://forums.vatsim.net/topic/32268-invalid-cidpassword/?do=findComment&comment=184097)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184096)
 - [Stuck Mike in Xpilot](https://forums.vatsim.net/topic/32267-stuck-mike-in-xpilot/?do=findComment&comment=184095)
@@ -64,7 +65,6 @@
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184091)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184090)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184089)
-- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184088)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
