@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184137)
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=184136)
 - [CTAF frequencies](https://forums.vatsim.net/topic/29624-ctaf-frequencies/?do=findComment&comment=184135)
 - [ES - dep list empty ... help?? [RESOLVED]](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help-resolved/?do=findComment&comment=184134)
@@ -64,7 +65,6 @@
 - [Bug: Retrieving controller info from a logon more than 10 characters results in error.](https://forums.vatsim.net/topic/32239-bug-retrieving-controller-info-from-a-logon-more-than-10-characters-results-in-error/?do=findComment&comment=184130)
 - [vPilot 2.8.3 Released](https://forums.vatsim.net/topic/32276-vpilot-283-released/?do=findComment&comment=184129)
 - [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=184128)
-- [FSXmap now supports VATSIM](https://forums.vatsim.net/topic/32275-fsxmap-now-supports-vatsim/?do=findComment&comment=184127)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
