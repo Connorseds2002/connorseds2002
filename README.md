@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CTAF frequencies](https://forums.vatsim.net/topic/29624-ctaf-frequencies/?do=findComment&comment=184143)
 - [After Update no valid VATSIM pasword](https://forums.vatsim.net/topic/32277-after-update-no-valid-vatsim-pasword/?do=findComment&comment=184142)
 - [After Update no valid VATSIM pasword](https://forums.vatsim.net/topic/32277-after-update-no-valid-vatsim-pasword/?do=findComment&comment=184141)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=184140)
@@ -64,7 +65,6 @@
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=184136)
 - [CTAF frequencies](https://forums.vatsim.net/topic/29624-ctaf-frequencies/?do=findComment&comment=184135)
 - [ES - dep list empty ... help?? [RESOLVED]](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help-resolved/?do=findComment&comment=184134)
-- [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=184133)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
