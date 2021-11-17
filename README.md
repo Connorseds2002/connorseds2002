@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [After Update no valid VATSIM pasword](https://forums.vatsim.net/topic/32277-after-update-no-valid-vatsim-pasword/?do=findComment&comment=184146)
 - [After Update no valid VATSIM pasword](https://forums.vatsim.net/topic/32277-after-update-no-valid-vatsim-pasword/?do=findComment&comment=184145)
 - [CTAF frequencies](https://forums.vatsim.net/topic/29624-ctaf-frequencies/?do=findComment&comment=184144)
 - [CTAF frequencies](https://forums.vatsim.net/topic/29624-ctaf-frequencies/?do=findComment&comment=184143)
@@ -64,7 +65,6 @@
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=184139)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=184138)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184137)
-- [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=184136)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
