@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [After Update no valid VATSIM pasword](https://forums.vatsim.net/topic/32277-after-update-no-valid-vatsim-pasword/?do=findComment&comment=184142)
+- [After Update no valid VATSIM pasword](https://forums.vatsim.net/topic/32277-after-update-no-valid-vatsim-pasword/?do=findComment&comment=184141)
+- [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=184140)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=184139)
 - [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=184138)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184137)
@@ -62,9 +65,6 @@
 - [CTAF frequencies](https://forums.vatsim.net/topic/29624-ctaf-frequencies/?do=findComment&comment=184135)
 - [ES - dep list empty ... help?? [RESOLVED]](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help-resolved/?do=findComment&comment=184134)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=184133)
-- [Stuck Mike in Xpilot](https://forums.vatsim.net/topic/32267-stuck-mike-in-xpilot/?do=findComment&comment=184132)
-- [Callsign too long for chat](https://forums.vatsim.net/topic/32272-callsign-too-long-for-chat/?do=findComment&comment=184131)
-- [Bug: Retrieving controller info from a logon more than 10 characters results in error.](https://forums.vatsim.net/topic/32239-bug-retrieving-controller-info-from-a-logon-more-than-10-characters-results-in-error/?do=findComment&comment=184130)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
