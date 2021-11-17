@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [sound adjustment](https://forums.vatsim.net/topic/32278-sound-adjustment/?do=findComment&comment=184152)
 - [vPilot 2.8.3 Released](https://forums.vatsim.net/topic/32276-vpilot-283-released/?do=findComment&comment=184151)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184150)
 - [ESTimers - timers plugin for euroscope](https://forums.vatsim.net/topic/31724-estimers-timers-plugin-for-euroscope/?do=findComment&comment=184149)
@@ -64,7 +65,6 @@
 - [After Update no valid VATSIM pasword](https://forums.vatsim.net/topic/32277-after-update-no-valid-vatsim-pasword/?do=findComment&comment=184145)
 - [CTAF frequencies](https://forums.vatsim.net/topic/29624-ctaf-frequencies/?do=findComment&comment=184144)
 - [CTAF frequencies](https://forums.vatsim.net/topic/29624-ctaf-frequencies/?do=findComment&comment=184143)
-- [After Update no valid VATSIM pasword](https://forums.vatsim.net/topic/32277-after-update-no-valid-vatsim-pasword/?do=findComment&comment=184142)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
