@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=184139)
+- [Model matching in msfs?](https://forums.vatsim.net/topic/28855-model-matching-in-msfs/?do=findComment&comment=184138)
 - [Problem with model matching in VPilot](https://forums.vatsim.net/topic/32269-problem-with-model-matching-in-vpilot/?do=findComment&comment=184137)
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=184136)
 - [CTAF frequencies](https://forums.vatsim.net/topic/29624-ctaf-frequencies/?do=findComment&comment=184135)
@@ -63,8 +65,6 @@
 - [Stuck Mike in Xpilot](https://forums.vatsim.net/topic/32267-stuck-mike-in-xpilot/?do=findComment&comment=184132)
 - [Callsign too long for chat](https://forums.vatsim.net/topic/32272-callsign-too-long-for-chat/?do=findComment&comment=184131)
 - [Bug: Retrieving controller info from a logon more than 10 characters results in error.](https://forums.vatsim.net/topic/32239-bug-retrieving-controller-info-from-a-logon-more-than-10-characters-results-in-error/?do=findComment&comment=184130)
-- [vPilot 2.8.3 Released](https://forums.vatsim.net/topic/32276-vpilot-283-released/?do=findComment&comment=184129)
-- [SELCAL notification](https://forums.vatsim.net/topic/31996-selcal-notification/?do=findComment&comment=184128)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
