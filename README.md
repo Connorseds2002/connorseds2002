@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184167)
 - [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=184166)
 - [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=184165)
 - [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=184164)
@@ -64,7 +65,6 @@
 - [vPilot Crashing Immediately Upon Startup](https://forums.vatsim.net/topic/32279-vpilot-crashing-immediately-upon-startup/?do=findComment&comment=184160)
 - [vPilot 2.8.3 Released](https://forums.vatsim.net/topic/32276-vpilot-283-released/?do=findComment&comment=184159)
 - [sound adjustment](https://forums.vatsim.net/topic/32278-sound-adjustment/?do=findComment&comment=184158)
-- [vPilot 2.8.3 Released](https://forums.vatsim.net/topic/32276-vpilot-283-released/?do=findComment&comment=184157)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
