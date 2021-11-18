@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Microsoft Flight Simulator Update and VSOA Reminder](https://forums.vatsim.net/topic/32284-microsoft-flight-simulator-update-and-vsoa-reminder/?do=findComment&comment=184180)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184179)
 - [[SECTOR FILES] VNSM AMDT11/2021 AIRAC 2111 Released!](https://forums.vatsim.net/topic/32281-sector-files-vnsm-amdt112021-airac-2111-released/?do=findComment&comment=184178)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184177)
@@ -64,7 +65,6 @@
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=184173)
 - [Cannot connect new discord account to Vatsim](https://forums.vatsim.net/topic/32282-cannot-connect-new-discord-account-to-vatsim/?do=findComment&comment=184172)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=184171)
-- [[SECTOR FILES] VNSM AMDT11/2021 AIRAC 2111 Released!](https://forums.vatsim.net/topic/32281-sector-files-vnsm-amdt112021-airac-2111-released/?do=findComment&comment=184170)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
