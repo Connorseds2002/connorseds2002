@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=184164)
 - [vPilot Crashing Immediately Upon Startup](https://forums.vatsim.net/topic/32279-vpilot-crashing-immediately-upon-startup/?do=findComment&comment=184163)
 - [vPilot Crashing Immediately Upon Startup](https://forums.vatsim.net/topic/32279-vpilot-crashing-immediately-upon-startup/?do=findComment&comment=184162)
 - [vPilot Crashing Immediately Upon Startup](https://forums.vatsim.net/topic/32279-vpilot-crashing-immediately-upon-startup/?do=findComment&comment=184161)
@@ -64,7 +65,6 @@
 - [vPilot 2.8.3 Released](https://forums.vatsim.net/topic/32276-vpilot-283-released/?do=findComment&comment=184157)
 - [sound adjustment](https://forums.vatsim.net/topic/32278-sound-adjustment/?do=findComment&comment=184156)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184155)
-- [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184154)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
