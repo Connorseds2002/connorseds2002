@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=184174)
+- [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=184173)
 - [Cannot connect new discord account to Vatsim](https://forums.vatsim.net/topic/32282-cannot-connect-new-discord-account-to-vatsim/?do=findComment&comment=184172)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=184171)
 - [[SECTOR FILES] VNSM AMDT11/2021 AIRAC 2111 Released!](https://forums.vatsim.net/topic/32281-sector-files-vnsm-amdt112021-airac-2111-released/?do=findComment&comment=184170)
@@ -63,8 +65,6 @@
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184167)
 - [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=184166)
 - [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=184165)
-- [Updated Headset Recommendation Please?](https://forums.vatsim.net/topic/32109-updated-headset-recommendation-please/?do=findComment&comment=184164)
-- [vPilot Crashing Immediately Upon Startup](https://forums.vatsim.net/topic/32279-vpilot-crashing-immediately-upon-startup/?do=findComment&comment=184163)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
