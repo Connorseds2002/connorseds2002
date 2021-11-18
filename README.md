@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184179)
+- [[SECTOR FILES] VNSM AMDT11/2021 AIRAC 2111 Released!](https://forums.vatsim.net/topic/32281-sector-files-vnsm-amdt112021-airac-2111-released/?do=findComment&comment=184178)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184177)
 - [not transmitting 35 min into flight?](https://forums.vatsim.net/topic/32264-not-transmitting-35-min-into-flight/?do=findComment&comment=184176)
 - [Aircraft tag showing up in exit list &lpar;or not at all&rpar; but not departure list](https://forums.vatsim.net/topic/32283-aircraft-tag-showing-up-in-exit-list-or-not-at-all-but-not-departure-list/?do=findComment&comment=184175)
@@ -63,8 +65,6 @@
 - [Cannot connect new discord account to Vatsim](https://forums.vatsim.net/topic/32282-cannot-connect-new-discord-account-to-vatsim/?do=findComment&comment=184172)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=184171)
 - [[SECTOR FILES] VNSM AMDT11/2021 AIRAC 2111 Released!](https://forums.vatsim.net/topic/32281-sector-files-vnsm-amdt112021-airac-2111-released/?do=findComment&comment=184170)
-- [Looking for ATO](https://forums.vatsim.net/topic/32280-looking-for-ato/?do=findComment&comment=184169)
-- [ES - dep list empty ... help?? [RESOLVED]](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help-resolved/?do=findComment&comment=184168)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
