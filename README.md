@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Looking for ATO](https://forums.vatsim.net/topic/32280-looking-for-ato/?do=findComment&comment=184190)
+- [VATSIM PTD](https://forums.vatsim.net/topic/32285-vatsim-ptd/?do=findComment&comment=184189)
 - [Unable to connect](https://forums.vatsim.net/topic/32286-unable-to-connect/?do=findComment&comment=184188)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184187)
 - [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184186)
@@ -63,8 +65,6 @@
 - [VATSIM PTD](https://forums.vatsim.net/topic/32285-vatsim-ptd/?do=findComment&comment=184183)
 - [VATSIM PTD](https://forums.vatsim.net/topic/32285-vatsim-ptd/?do=findComment&comment=184181)
 - [Microsoft Flight Simulator Update and VSOA Reminder](https://forums.vatsim.net/topic/32284-microsoft-flight-simulator-update-and-vsoa-reminder/?do=findComment&comment=184180)
-- [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184179)
-- [[SECTOR FILES] VNSM AMDT11/2021 AIRAC 2111 Released!](https://forums.vatsim.net/topic/32281-sector-files-vnsm-amdt112021-airac-2111-released/?do=findComment&comment=184178)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
