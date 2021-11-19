@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184194)
+- [Unable to connect](https://forums.vatsim.net/topic/32286-unable-to-connect/?do=findComment&comment=184193)
 - [Unable to connect](https://forums.vatsim.net/topic/32286-unable-to-connect/?do=findComment&comment=184192)
 - [V-PILOT SOUND](https://forums.vatsim.net/topic/32287-v-pilot-sound/?do=findComment&comment=184191)
 - [Looking for ATO](https://forums.vatsim.net/topic/32280-looking-for-ato/?do=findComment&comment=184190)
@@ -63,8 +65,6 @@
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184187)
 - [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184186)
 - [VATSIM PTD](https://forums.vatsim.net/topic/32285-vatsim-ptd/?do=findComment&comment=184185)
-- [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184184)
-- [VATSIM PTD](https://forums.vatsim.net/topic/32285-vatsim-ptd/?do=findComment&comment=184183)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
