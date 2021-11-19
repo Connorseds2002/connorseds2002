@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Opportunity: VATSIM Membership Manager](https://forums.vatsim.net/topic/32256-opportunity-vatsim-membership-manager/?do=findComment&comment=184182)
 - [VATSIM PTD](https://forums.vatsim.net/topic/32285-vatsim-ptd/?do=findComment&comment=184181)
 - [Microsoft Flight Simulator Update and VSOA Reminder](https://forums.vatsim.net/topic/32284-microsoft-flight-simulator-update-and-vsoa-reminder/?do=findComment&comment=184180)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184179)
@@ -64,7 +65,6 @@
 - [Aircraft tag showing up in exit list &lpar;or not at all&rpar; but not departure list](https://forums.vatsim.net/topic/32283-aircraft-tag-showing-up-in-exit-list-or-not-at-all-but-not-departure-list/?do=findComment&comment=184175)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=184174)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=184173)
-- [Cannot connect new discord account to Vatsim](https://forums.vatsim.net/topic/32282-cannot-connect-new-discord-account-to-vatsim/?do=findComment&comment=184172)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
