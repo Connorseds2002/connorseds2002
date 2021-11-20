@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184219)
 - [Why bother folks who are flying VFR](https://forums.vatsim.net/topic/32288-why-bother-folks-who-are-flying-vfr/?do=findComment&comment=184218)
 - [Unable to see other aircrafts in Vatsim](https://forums.vatsim.net/topic/32292-unable-to-see-other-aircrafts-in-vatsim/?do=findComment&comment=184217)
 - [Unable to see other aircrafts in Vatsim](https://forums.vatsim.net/topic/32292-unable-to-see-other-aircrafts-in-vatsim/?do=findComment&comment=184216)
@@ -64,7 +65,6 @@
 - [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184212)
 - [Why bother folks who are flying VFR](https://forums.vatsim.net/topic/32288-why-bother-folks-who-are-flying-vfr/?do=findComment&comment=184211)
 - [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184210)
-- [Aircraft tag showing up in exit list &lpar;or not at all&rpar; but not departure list](https://forums.vatsim.net/topic/32283-aircraft-tag-showing-up-in-exit-list-or-not-at-all-but-not-departure-list/?do=findComment&comment=184209)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
