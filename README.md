@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184212)
+- [Why bother folks who are flying VFR](https://forums.vatsim.net/topic/32288-why-bother-folks-who-are-flying-vfr/?do=findComment&comment=184211)
 - [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184210)
 - [Aircraft tag showing up in exit list &lpar;or not at all&rpar; but not departure list](https://forums.vatsim.net/topic/32283-aircraft-tag-showing-up-in-exit-list-or-not-at-all-but-not-departure-list/?do=findComment&comment=184209)
 - [Wrong discord account linked](https://forums.vatsim.net/topic/32240-wrong-discord-account-linked/?do=findComment&comment=184208)
@@ -63,8 +65,6 @@
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184205)
 - [Why bother folks who are flying VFR](https://forums.vatsim.net/topic/32288-why-bother-folks-who-are-flying-vfr/?do=findComment&comment=184204)
 - [Create Your HUB in ACCWAF | VATSSA](https://forums.vatsim.net/topic/32290-create-your-hub-in-accwaf-vatssa/?do=findComment&comment=184203)
-- [Structuring the ACCWAF Airspace](https://forums.vatsim.net/topic/32289-structuring-the-accwaf-airspace/?do=findComment&comment=184202)
-- [Sub-Sahara Africa Division](https://forums.vatsim.net/topic/30652-sub-sahara-africa-division/?do=findComment&comment=184201)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
