@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184224)
+- [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184223)
 - [Unable to see other aircrafts in Vatsim](https://forums.vatsim.net/topic/32292-unable-to-see-other-aircrafts-in-vatsim/?do=findComment&comment=184222)
 - [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184221)
 - [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184220)
@@ -63,8 +65,6 @@
 - [Unable to see other aircrafts in Vatsim](https://forums.vatsim.net/topic/32292-unable-to-see-other-aircrafts-in-vatsim/?do=findComment&comment=184217)
 - [Unable to see other aircrafts in Vatsim](https://forums.vatsim.net/topic/32292-unable-to-see-other-aircrafts-in-vatsim/?do=findComment&comment=184216)
 - [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184215)
-- [Why bother folks who are flying VFR](https://forums.vatsim.net/topic/32288-why-bother-folks-who-are-flying-vfr/?do=findComment&comment=184214)
-- [Tips for Flight Planning &lpar;pilots&rpar;](https://forums.vatsim.net/topic/32291-tips-for-flight-planning-pilots/?do=findComment&comment=184213)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
