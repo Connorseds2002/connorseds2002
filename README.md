@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No audio from xpilot](https://forums.vatsim.net/topic/32296-no-audio-from-xpilot/?do=findComment&comment=184255)
 - [Why bother flying on VATSIM?](https://forums.vatsim.net/topic/26062-why-bother-flying-on-vatsim/?do=findComment&comment=184254)
 - [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184253)
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184252)
@@ -64,7 +65,6 @@
 - [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184248)
 - [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184247)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184246)
-- [CTL227 - Preliminary Cross the Land HitSquad Applications](https://forums.vatsim.net/topic/32298-ctl227-preliminary-cross-the-land-hitsquad-applications/?do=findComment&comment=184245)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
