@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184248)
+- [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184247)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184246)
 - [CTL227 - Preliminary Cross the Land HitSquad Applications](https://forums.vatsim.net/topic/32298-ctl227-preliminary-cross-the-land-hitsquad-applications/?do=findComment&comment=184245)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=184244)
@@ -63,8 +65,6 @@
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184241)
 - [No audio from xpilot](https://forums.vatsim.net/topic/32296-no-audio-from-xpilot/?do=findComment&comment=184240)
 - [PMDG DC 6 Co pilot wanted](https://forums.vatsim.net/topic/32295-pmdg-dc-6-co-pilot-wanted/?do=findComment&comment=184239)
-- [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=184238)
-- [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184237)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
