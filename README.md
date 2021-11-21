@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PMDG DC 6 Co pilot wanted](https://forums.vatsim.net/topic/32295-pmdg-dc-6-co-pilot-wanted/?do=findComment&comment=184239)
 - [Feature Request - Trigger NAV Lights always on](https://forums.vatsim.net/topic/32155-feature-request-trigger-nav-lights-always-on/?do=findComment&comment=184238)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184237)
 - [Why bother flying on VATSIM?](https://forums.vatsim.net/topic/26062-why-bother-flying-on-vatsim/?do=findComment&comment=184236)
@@ -64,7 +65,6 @@
 - [Why bother folks who are flying VFR](https://forums.vatsim.net/topic/32288-why-bother-folks-who-are-flying-vfr/?do=findComment&comment=184232)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=184231)
 - [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=184230)
-- [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184229)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
