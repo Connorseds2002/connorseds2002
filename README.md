@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184252)
+- [Microphone stuck](https://forums.vatsim.net/topic/32270-microphone-stuck/?do=findComment&comment=184251)
 - [[26th Nov 1200z-1600z] Tan Son Nhat Friday Night Ops](https://forums.vatsim.net/topic/32299-26th-nov-1200z-1600z-tan-son-nhat-friday-night-ops/?do=findComment&comment=184250)
 - [No audio from xpilot](https://forums.vatsim.net/topic/32296-no-audio-from-xpilot/?do=findComment&comment=184249)
 - [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184248)
@@ -63,8 +65,6 @@
 - [CTL227 - Preliminary Cross the Land HitSquad Applications](https://forums.vatsim.net/topic/32298-ctl227-preliminary-cross-the-land-hitsquad-applications/?do=findComment&comment=184245)
 - [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=184244)
 - [[12th February 2022] CTL227 - Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/32297-12th-february-2022-ctl227-cross-the-land-westbound-2021/?do=findComment&comment=184243)
-- [Tips for Flight Planning &lpar;pilots&rpar;](https://forums.vatsim.net/topic/32291-tips-for-flight-planning-pilots/?do=findComment&comment=184242)
-- [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184241)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
