@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No audio from xpilot](https://forums.vatsim.net/topic/32296-no-audio-from-xpilot/?do=findComment&comment=184249)
 - [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184248)
 - [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184247)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184246)
@@ -64,7 +65,6 @@
 - [Tips for Flight Planning &lpar;pilots&rpar;](https://forums.vatsim.net/topic/32291-tips-for-flight-planning-pilots/?do=findComment&comment=184242)
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184241)
 - [No audio from xpilot](https://forums.vatsim.net/topic/32296-no-audio-from-xpilot/?do=findComment&comment=184240)
-- [PMDG DC 6 Co pilot wanted](https://forums.vatsim.net/topic/32295-pmdg-dc-6-co-pilot-wanted/?do=findComment&comment=184239)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
