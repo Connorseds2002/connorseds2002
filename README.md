@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PPL no longer shows on my VPilot log-in](https://forums.vatsim.net/topic/32303-ppl-no-longer-shows-on-my-vpilot-log-in/?do=findComment&comment=184279)
+- [My Discord account got disabled.](https://forums.vatsim.net/topic/32302-my-discord-account-got-disabled/?do=findComment&comment=184278)
+- [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184277)
+- [My Discord account got disabled.](https://forums.vatsim.net/topic/32302-my-discord-account-got-disabled/?do=findComment&comment=184276)
 - [VATSIM PTD](https://forums.vatsim.net/topic/32285-vatsim-ptd/?do=findComment&comment=184275)
 - [My Discord account got disabled.](https://forums.vatsim.net/topic/32302-my-discord-account-got-disabled/?do=findComment&comment=184274)
 - [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184273)
 - [Why bother flying on VATSIM?](https://forums.vatsim.net/topic/26062-why-bother-flying-on-vatsim/?do=findComment&comment=184272)
 - [Model Mapping](https://forums.vatsim.net/topic/32301-model-mapping/?do=findComment&comment=184271)
 - [Why bother flying on VATSIM?](https://forums.vatsim.net/topic/26062-why-bother-flying-on-vatsim/?do=findComment&comment=184270)
-- [No audio from xpilot](https://forums.vatsim.net/topic/32296-no-audio-from-xpilot/?do=findComment&comment=184269)
-- [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184268)
-- [Microphone stuck](https://forums.vatsim.net/topic/32270-microphone-stuck/?do=findComment&comment=184267)
-- [[12th February 2022] CTL227 - Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/32297-12th-february-2022-ctl227-cross-the-land-westbound-2021/?do=findComment&comment=184266)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
