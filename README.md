@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Mapping](https://forums.vatsim.net/topic/32301-model-mapping/?do=findComment&comment=184295)
+- [Model Mapping](https://forums.vatsim.net/topic/32301-model-mapping/?do=findComment&comment=184294)
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184293)
 - [Microphone stuck](https://forums.vatsim.net/topic/32270-microphone-stuck/?do=findComment&comment=184292)
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184291)
@@ -63,8 +65,6 @@
 - [dark mode &lpar;feature request&rpar;](https://forums.vatsim.net/topic/31973-dark-mode-feature-request/?do=findComment&comment=184288)
 - [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184287)
 - [flight filter for map &lpar;feature request&rpar;](https://forums.vatsim.net/topic/31967-flight-filter-for-map-feature-request/?do=findComment&comment=184286)
-- [dark mode &lpar;feature request&rpar;](https://forums.vatsim.net/topic/31973-dark-mode-feature-request/?do=findComment&comment=184285)
-- [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184284)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
