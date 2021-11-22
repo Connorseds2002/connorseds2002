@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [flight filter for map &lpar;feature request&rpar;](https://forums.vatsim.net/topic/31967-flight-filter-for-map-feature-request/?do=findComment&comment=184286)
+- [dark mode &lpar;feature request&rpar;](https://forums.vatsim.net/topic/31973-dark-mode-feature-request/?do=findComment&comment=184285)
+- [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184284)
+- [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184283)
+- [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184282)
+- [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184281)
+- [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184280)
 - [PPL no longer shows on my VPilot log-in](https://forums.vatsim.net/topic/32303-ppl-no-longer-shows-on-my-vpilot-log-in/?do=findComment&comment=184279)
 - [My Discord account got disabled.](https://forums.vatsim.net/topic/32302-my-discord-account-got-disabled/?do=findComment&comment=184278)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184277)
-- [My Discord account got disabled.](https://forums.vatsim.net/topic/32302-my-discord-account-got-disabled/?do=findComment&comment=184276)
-- [VATSIM PTD](https://forums.vatsim.net/topic/32285-vatsim-ptd/?do=findComment&comment=184275)
-- [My Discord account got disabled.](https://forums.vatsim.net/topic/32302-my-discord-account-got-disabled/?do=findComment&comment=184274)
-- [VOR and NDB routes](https://forums.vatsim.net/topic/32293-vor-and-ndb-routes/?do=findComment&comment=184273)
-- [Why bother flying on VATSIM?](https://forums.vatsim.net/topic/26062-why-bother-flying-on-vatsim/?do=findComment&comment=184272)
-- [Model Mapping](https://forums.vatsim.net/topic/32301-model-mapping/?do=findComment&comment=184271)
-- [Why bother flying on VATSIM?](https://forums.vatsim.net/topic/26062-why-bother-flying-on-vatsim/?do=findComment&comment=184270)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
