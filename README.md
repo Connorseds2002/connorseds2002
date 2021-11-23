@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Stuck Mike in Xpilot](https://forums.vatsim.net/topic/32267-stuck-mike-in-xpilot/?do=findComment&comment=184300)
 - [PPL no longer shows on my VPilot log-in](https://forums.vatsim.net/topic/32303-ppl-no-longer-shows-on-my-vpilot-log-in/?do=findComment&comment=184299)
 - [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=184298)
 - [Why bother folks who are flying VFR](https://forums.vatsim.net/topic/32288-why-bother-folks-who-are-flying-vfr/?do=findComment&comment=184297)
@@ -64,7 +65,6 @@
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184293)
 - [Microphone stuck](https://forums.vatsim.net/topic/32270-microphone-stuck/?do=findComment&comment=184292)
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184291)
-- [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184290)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
