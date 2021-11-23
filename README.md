@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PPL no longer shows on my VPilot log-in](https://forums.vatsim.net/topic/32303-ppl-no-longer-shows-on-my-vpilot-log-in/?do=findComment&comment=184304)
 - [[December 4th 10:00z-18:00z] Hanukkah Live](https://forums.vatsim.net/topic/32305-december-4th-1000z-1800z-hanukkah-live/?do=findComment&comment=184303)
 - [vATIS not working at KTMB](https://forums.vatsim.net/topic/32300-vatis-not-working-at-ktmb/?do=findComment&comment=184302)
 - [Stuck Mike in Xpilot](https://forums.vatsim.net/topic/32267-stuck-mike-in-xpilot/?do=findComment&comment=184301)
@@ -64,7 +65,6 @@
 - [Why bother folks who are flying VFR](https://forums.vatsim.net/topic/32288-why-bother-folks-who-are-flying-vfr/?do=findComment&comment=184297)
 - [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184296)
 - [Model Mapping](https://forums.vatsim.net/topic/32301-model-mapping/?do=findComment&comment=184295)
-- [Model Mapping](https://forums.vatsim.net/topic/32301-model-mapping/?do=findComment&comment=184294)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
