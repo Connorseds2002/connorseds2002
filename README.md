@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [flight filter for map &lpar;feature request&rpar;](https://forums.vatsim.net/topic/31967-flight-filter-for-map-feature-request/?do=findComment&comment=184307)
+- [dark mode &lpar;feature request&rpar;](https://forums.vatsim.net/topic/31973-dark-mode-feature-request/?do=findComment&comment=184306)
 - [xPilot 2 &lpar;Beta&rpar; - questions](https://forums.vatsim.net/topic/32306-xpilot-2-beta-questions/?do=findComment&comment=184305)
 - [PPL no longer shows on my VPilot log-in](https://forums.vatsim.net/topic/32303-ppl-no-longer-shows-on-my-vpilot-log-in/?do=findComment&comment=184304)
 - [[December 4th 10:00z-18:00z] Hanukkah Live](https://forums.vatsim.net/topic/32305-december-4th-1000z-1800z-hanukkah-live/?do=findComment&comment=184303)
@@ -63,8 +65,6 @@
 - [Stuck Mike in Xpilot](https://forums.vatsim.net/topic/32267-stuck-mike-in-xpilot/?do=findComment&comment=184300)
 - [PPL no longer shows on my VPilot log-in](https://forums.vatsim.net/topic/32303-ppl-no-longer-shows-on-my-vpilot-log-in/?do=findComment&comment=184299)
 - [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=184298)
-- [Why bother folks who are flying VFR](https://forums.vatsim.net/topic/32288-why-bother-folks-who-are-flying-vfr/?do=findComment&comment=184297)
-- [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184296)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
