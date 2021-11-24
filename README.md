@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184338)
+- [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184337)
+- [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184336)
+- [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184335)
+- [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184334)
+- [Vpilot version 2.8.1 &amp; FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=184333)
+- [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184332)
+- [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184331)
 - [xPilot 2 &lpar;Beta&rpar; - questions](https://forums.vatsim.net/topic/32306-xpilot-2-beta-questions/?do=findComment&comment=184330)
 - [Streamdeck](https://forums.vatsim.net/topic/29971-streamdeck/?do=findComment&comment=184329)
-- [Model matching MSFS](https://forums.vatsim.net/topic/32308-model-matching-msfs/?do=findComment&comment=184328)
-- [Model matching MSFS](https://forums.vatsim.net/topic/32308-model-matching-msfs/?do=findComment&comment=184327)
-- [vATIS not working at KTMB](https://forums.vatsim.net/topic/32300-vatis-not-working-at-ktmb/?do=findComment&comment=184326)
-- [Another VAT-Spy not Opening on Multi-Monitor Setup Thread](https://forums.vatsim.net/topic/32310-another-vat-spy-not-opening-on-multi-monitor-setup-thread/?do=findComment&comment=184325)
-- [Another VAT-Spy not Opening on Multi-Monitor Setup Thread](https://forums.vatsim.net/topic/32310-another-vat-spy-not-opening-on-multi-monitor-setup-thread/?do=findComment&comment=184324)
-- [Another VAT-Spy not Opening on Multi-Monitor Setup Thread](https://forums.vatsim.net/topic/32310-another-vat-spy-not-opening-on-multi-monitor-setup-thread/?do=findComment&comment=184323)
-- [flight filter for map &lpar;feature request&rpar;](https://forums.vatsim.net/topic/31967-flight-filter-for-map-feature-request/?do=findComment&comment=184321)
-- [xPilot 2 &lpar;Beta&rpar; - questions](https://forums.vatsim.net/topic/32306-xpilot-2-beta-questions/?do=findComment&comment=184320)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
