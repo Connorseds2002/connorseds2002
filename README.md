@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Dev] Integrate AFV into Euroscope Plugin](https://forums.vatsim.net/topic/32312-dev-integrate-afv-into-euroscope-plugin/?do=findComment&comment=184340)
+- [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184339)
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184338)
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184337)
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184336)
@@ -63,8 +65,6 @@
 - [Vpilot version 2.8.1 &amp; FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=184333)
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184332)
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184331)
-- [xPilot 2 &lpar;Beta&rpar; - questions](https://forums.vatsim.net/topic/32306-xpilot-2-beta-questions/?do=findComment&comment=184330)
-- [Streamdeck](https://forums.vatsim.net/topic/29971-streamdeck/?do=findComment&comment=184329)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
