@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184341)
 - [[Dev] Integrate AFV into Euroscope Plugin](https://forums.vatsim.net/topic/32312-dev-integrate-afv-into-euroscope-plugin/?do=findComment&comment=184340)
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184339)
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184338)
@@ -64,7 +65,6 @@
 - [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184334)
 - [Vpilot version 2.8.1 &amp; FSUIPC 4 v4.976](https://forums.vatsim.net/topic/32198-vpilot-version-281-fsuipc-4-v4976/?do=findComment&comment=184333)
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184332)
-- [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184331)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
