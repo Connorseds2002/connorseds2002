@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184355)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184354)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184353)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184352)
@@ -64,7 +65,6 @@
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184348)
 - [[EVENT] Capital Shuttle - Ahmedabad to New Delhi](https://forums.vatsim.net/topic/32317-event-capital-shuttle-ahmedabad-to-new-delhi/?do=findComment&comment=184347)
 - [[EVENT] Shuttle Flyer - Bengaluru to Mumbai](https://forums.vatsim.net/topic/32316-event-shuttle-flyer-bengaluru-to-mumbai/?do=findComment&comment=184346)
-- [Vatspy not loading](https://forums.vatsim.net/topic/32315-vatspy-not-loading/?do=findComment&comment=184345)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
