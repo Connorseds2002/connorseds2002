@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184344)
 - [[Nov 27] Canadian Xpress November 2021 Monthly Fly-In - Nassau](https://forums.vatsim.net/topic/32313-nov-27-canadian-xpress-november-2021-monthly-fly-in-nassau/?do=findComment&comment=184343)
 - [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184342)
 - [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184341)
@@ -64,7 +65,6 @@
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184337)
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184336)
 - [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184335)
-- [Can&#39;t turn on Mode C on vPilot [FSX: SE]](https://forums.vatsim.net/topic/32231-cant-turn-on-mode-c-on-vpilot-fsx-se/?do=findComment&comment=184334)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
