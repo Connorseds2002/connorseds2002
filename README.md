@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184354)
+- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184353)
+- [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184352)
 - [[Dev] Integrate HF Radios](https://forums.vatsim.net/topic/32318-dev-integrate-hf-radios/?do=findComment&comment=184351)
 - [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184350)
 - [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184349)
@@ -62,9 +65,6 @@
 - [[EVENT] Capital Shuttle - Ahmedabad to New Delhi](https://forums.vatsim.net/topic/32317-event-capital-shuttle-ahmedabad-to-new-delhi/?do=findComment&comment=184347)
 - [[EVENT] Shuttle Flyer - Bengaluru to Mumbai](https://forums.vatsim.net/topic/32316-event-shuttle-flyer-bengaluru-to-mumbai/?do=findComment&comment=184346)
 - [Vatspy not loading](https://forums.vatsim.net/topic/32315-vatspy-not-loading/?do=findComment&comment=184345)
-- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184344)
-- [[Nov 27] Canadian Xpress November 2021 Monthly Fly-In - Nassau](https://forums.vatsim.net/topic/32313-nov-27-canadian-xpress-november-2021-monthly-fly-in-nassau/?do=findComment&comment=184343)
-- [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184342)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
