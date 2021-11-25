@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [First time flying oceanic - A few questions](https://forums.vatsim.net/topic/32319-first-time-flying-oceanic-a-few-questions/?do=findComment&comment=184358)
+- [Splits [EuroControl Maastricht UAC] Operational from AIRAC 2112](https://forums.vatsim.net/topic/32187-splits-eurocontrol-maastricht-uac-operational-from-airac-2112/?do=findComment&comment=184357)
 - [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184356)
 - [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184355)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184354)
@@ -63,8 +65,6 @@
 - [[Dev] Integrate HF Radios](https://forums.vatsim.net/topic/32318-dev-integrate-hf-radios/?do=findComment&comment=184351)
 - [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184350)
 - [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184349)
-- [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184348)
-- [[EVENT] Capital Shuttle - Ahmedabad to New Delhi](https://forums.vatsim.net/topic/32317-event-capital-shuttle-ahmedabad-to-new-delhi/?do=findComment&comment=184347)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
