@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Malta vACC Recuiting ATC and Visiting Controller&#39;s](https://forums.vatsim.net/topic/16775-malta-vacc-recuiting-atc-and-visiting-controllers/?do=findComment&comment=184349)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184348)
 - [[EVENT] Capital Shuttle - Ahmedabad to New Delhi](https://forums.vatsim.net/topic/32317-event-capital-shuttle-ahmedabad-to-new-delhi/?do=findComment&comment=184347)
 - [[EVENT] Shuttle Flyer - Bengaluru to Mumbai](https://forums.vatsim.net/topic/32316-event-shuttle-flyer-bengaluru-to-mumbai/?do=findComment&comment=184346)
@@ -64,7 +65,6 @@
 - [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184342)
 - [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184341)
 - [[Dev] Integrate AFV into Euroscope Plugin](https://forums.vatsim.net/topic/32312-dev-integrate-afv-into-euroscope-plugin/?do=findComment&comment=184340)
-- [Mode C not working in Vpilot when I click the button.](https://forums.vatsim.net/topic/32311-mode-c-not-working-in-vpilot-when-i-click-the-button/?do=findComment&comment=184339)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
