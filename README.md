@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184372)
+- [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184371)
 - [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184370)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184369)
 - [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184368)
@@ -63,8 +65,6 @@
 - [Vpilot in FS2020 in VR](https://forums.vatsim.net/topic/32320-vpilot-in-fs2020-in-vr/?do=findComment&comment=184365)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184364)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184363)
-- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184362)
-- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184361)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
