@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy not loading](https://forums.vatsim.net/topic/32315-vatspy-not-loading/?do=findComment&comment=184367)
 - [First time flying oceanic - A few questions](https://forums.vatsim.net/topic/32319-first-time-flying-oceanic-a-few-questions/?do=findComment&comment=184366)
 - [Vpilot in FS2020 in VR](https://forums.vatsim.net/topic/32320-vpilot-in-fs2020-in-vr/?do=findComment&comment=184365)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184364)
@@ -64,7 +65,6 @@
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184360)
 - [[Dev] Integrate HF Radios](https://forums.vatsim.net/topic/32318-dev-integrate-hf-radios/?do=findComment&comment=184359)
 - [First time flying oceanic - A few questions](https://forums.vatsim.net/topic/32319-first-time-flying-oceanic-a-few-questions/?do=findComment&comment=184358)
-- [Splits [EuroControl Maastricht UAC] Operational from AIRAC 2112](https://forums.vatsim.net/topic/32187-splits-eurocontrol-maastricht-uac-operational-from-airac-2112/?do=findComment&comment=184357)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
