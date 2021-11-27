@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Stream Deck - AFV](https://forums.vatsim.net/topic/32326-stream-deck-afv/?do=findComment&comment=184383)
 - [Returning Simmer trying to get grips with FS2020 weather](https://forums.vatsim.net/topic/32325-returning-simmer-trying-to-get-grips-with-fs2020-weather/?do=findComment&comment=184382)
 - [Returning Simmer trying to get grips with FS2020 weather](https://forums.vatsim.net/topic/32325-returning-simmer-trying-to-get-grips-with-fs2020-weather/?do=findComment&comment=184381)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184380)
@@ -64,7 +65,6 @@
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184375)
 - [Microphone stuck](https://forums.vatsim.net/topic/32270-microphone-stuck/?do=findComment&comment=184374)
 - [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=184373)
-- [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184372)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
