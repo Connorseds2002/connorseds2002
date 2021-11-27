@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184399)
+- [[VACANCY] vACC Director - Poland](https://forums.vatsim.net/topic/32329-vacancy-vacc-director-poland/?do=findComment&comment=184398)
 - [VACANCY: Webmaster](https://forums.vatsim.net/topic/32328-vacancy-webmaster/?do=findComment&comment=184397)
 - [Stuck Mike in Xpilot](https://forums.vatsim.net/topic/32267-stuck-mike-in-xpilot/?do=findComment&comment=184396)
 - [vPilot fails to start due to SSL network error](https://forums.vatsim.net/topic/32327-vpilot-fails-to-start-due-to-ssl-network-error/?do=findComment&comment=184395)
@@ -63,8 +65,6 @@
 - [vPilot fails to start due to SSL network error](https://forums.vatsim.net/topic/32327-vpilot-fails-to-start-due-to-ssl-network-error/?do=findComment&comment=184392)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184391)
 - [Returning Simmer trying to get grips with FS2020 weather](https://forums.vatsim.net/topic/32325-returning-simmer-trying-to-get-grips-with-fs2020-weather/?do=findComment&comment=184390)
-- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=184389)
-- [I want to plan an unofficial/informal Fly-in with a Flight &lpar;Point A to B&rpar;](https://forums.vatsim.net/topic/32322-i-want-to-plan-an-unofficialinformal-fly-in-with-a-flight-point-a-to-b/?do=findComment&comment=184388)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
