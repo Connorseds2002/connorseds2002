@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Returning Simmer trying to get grips with FS2020 weather](https://forums.vatsim.net/topic/32325-returning-simmer-trying-to-get-grips-with-fs2020-weather/?do=findComment&comment=184385)
+- [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184384)
 - [Stream Deck - AFV](https://forums.vatsim.net/topic/32326-stream-deck-afv/?do=findComment&comment=184383)
 - [Returning Simmer trying to get grips with FS2020 weather](https://forums.vatsim.net/topic/32325-returning-simmer-trying-to-get-grips-with-fs2020-weather/?do=findComment&comment=184382)
 - [Returning Simmer trying to get grips with FS2020 weather](https://forums.vatsim.net/topic/32325-returning-simmer-trying-to-get-grips-with-fs2020-weather/?do=findComment&comment=184381)
@@ -63,8 +65,6 @@
 - [Multicrew Long Haul Flights?](https://forums.vatsim.net/topic/32323-multicrew-long-haul-flights/?do=findComment&comment=184377)
 - [I want to plan an unofficial/informal Fly-in with a Flight &lpar;Point A to B&rpar;](https://forums.vatsim.net/topic/32322-i-want-to-plan-an-unofficialinformal-fly-in-with-a-flight-point-a-to-b/?do=findComment&comment=184376)
 - [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184375)
-- [Microphone stuck](https://forums.vatsim.net/topic/32270-microphone-stuck/?do=findComment&comment=184374)
-- [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=184373)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
