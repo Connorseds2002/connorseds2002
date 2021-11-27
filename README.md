@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Going from IVAO to VATSIM? And which software to use?](https://forums.vatsim.net/topic/32195-going-from-ivao-to-vatsim-and-which-software-to-use/?do=findComment&comment=184389)
+- [I want to plan an unofficial/informal Fly-in with a Flight &lpar;Point A to B&rpar;](https://forums.vatsim.net/topic/32322-i-want-to-plan-an-unofficialinformal-fly-in-with-a-flight-point-a-to-b/?do=findComment&comment=184388)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184387)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184386)
 - [Returning Simmer trying to get grips with FS2020 weather](https://forums.vatsim.net/topic/32325-returning-simmer-trying-to-get-grips-with-fs2020-weather/?do=findComment&comment=184385)
@@ -63,8 +65,6 @@
 - [Returning Simmer trying to get grips with FS2020 weather](https://forums.vatsim.net/topic/32325-returning-simmer-trying-to-get-grips-with-fs2020-weather/?do=findComment&comment=184382)
 - [Returning Simmer trying to get grips with FS2020 weather](https://forums.vatsim.net/topic/32325-returning-simmer-trying-to-get-grips-with-fs2020-weather/?do=findComment&comment=184381)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184380)
-- [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184378)
-- [Multicrew Long Haul Flights?](https://forums.vatsim.net/topic/32323-multicrew-long-haul-flights/?do=findComment&comment=184377)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
