@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184380)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184378)
 - [Multicrew Long Haul Flights?](https://forums.vatsim.net/topic/32323-multicrew-long-haul-flights/?do=findComment&comment=184377)
 - [I want to plan an unofficial/informal Fly-in with a Flight &lpar;Point A to B&rpar;](https://forums.vatsim.net/topic/32322-i-want-to-plan-an-unofficialinformal-fly-in-with-a-flight-point-a-to-b/?do=findComment&comment=184376)
@@ -64,7 +65,6 @@
 - [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184372)
 - [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184371)
 - [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184370)
-- [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184369)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
