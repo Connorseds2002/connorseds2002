@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Multicrew Long Haul Flights?](https://forums.vatsim.net/topic/32323-multicrew-long-haul-flights/?do=findComment&comment=184377)
+- [I want to plan an unofficial/informal Fly-in with a Flight &lpar;Point A to B&rpar;](https://forums.vatsim.net/topic/32322-i-want-to-plan-an-unofficialinformal-fly-in-with-a-flight-point-a-to-b/?do=findComment&comment=184376)
+- [Continual hot mic in vPilot](https://forums.vatsim.net/topic/32235-continual-hot-mic-in-vpilot/?do=findComment&comment=184375)
+- [Microphone stuck](https://forums.vatsim.net/topic/32270-microphone-stuck/?do=findComment&comment=184374)
+- [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=184373)
 - [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184372)
 - [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184371)
 - [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184370)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184369)
 - [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184368)
-- [Vatspy not loading](https://forums.vatsim.net/topic/32315-vatspy-not-loading/?do=findComment&comment=184367)
-- [First time flying oceanic - A few questions](https://forums.vatsim.net/topic/32319-first-time-flying-oceanic-a-few-questions/?do=findComment&comment=184366)
-- [Vpilot in FS2020 in VR](https://forums.vatsim.net/topic/32320-vpilot-in-fs2020-in-vr/?do=findComment&comment=184365)
-- [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184364)
-- [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184363)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
