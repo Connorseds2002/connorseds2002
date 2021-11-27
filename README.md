@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Returning Simmer trying to get grips with FS2020 weather](https://forums.vatsim.net/topic/32325-returning-simmer-trying-to-get-grips-with-fs2020-weather/?do=findComment&comment=184381)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184380)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184378)
 - [Multicrew Long Haul Flights?](https://forums.vatsim.net/topic/32323-multicrew-long-haul-flights/?do=findComment&comment=184377)
@@ -64,7 +65,6 @@
 - [Mic Bug in VPilot](https://forums.vatsim.net/topic/29234-mic-bug-in-vpilot/?do=findComment&comment=184373)
 - [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184372)
 - [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184371)
-- [New user unsure how to get uk profile on euroscope](https://forums.vatsim.net/topic/32321-new-user-unsure-how-to-get-uk-profile-on-euroscope/?do=findComment&comment=184370)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
