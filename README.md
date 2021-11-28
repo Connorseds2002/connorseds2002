@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot RX illuminates but I hear nothing](https://forums.vatsim.net/topic/32335-vpilot-rx-illuminates-but-i-hear-nothing/?do=findComment&comment=184422)
 - [Vpilot 2.7](https://forums.vatsim.net/topic/32330-vpilot-27/?do=findComment&comment=184421)
 - [vPilot RX illuminates but I hear nothing](https://forums.vatsim.net/topic/32335-vpilot-rx-illuminates-but-i-hear-nothing/?do=findComment&comment=184420)
 - [Retake VATSIM Exam?](https://forums.vatsim.net/topic/32334-retake-vatsim-exam/?do=findComment&comment=184419)
@@ -64,7 +65,6 @@
 - [kein Funkempfang vpilot trotz connect und richtigen Sound Einstellungen](https://forums.vatsim.net/topic/32333-kein-funkempfang-vpilot-trotz-connect-und-richtigen-sound-einstellungen/?do=findComment&comment=184415)
 - [IFR and VFR pilot mix communication in a non controlled area &lpar;ATC not online&rpar;.](https://forums.vatsim.net/topic/32332-ifr-and-vfr-pilot-mix-communication-in-a-non-controlled-area-atc-not-online/?do=findComment&comment=184414)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184413)
-- [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=184412)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
