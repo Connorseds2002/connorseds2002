@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot in VR](https://forums.vatsim.net/topic/32169-vpilot-in-vr/?do=findComment&comment=184427)
+- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184426)
+- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184425)
+- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184424)
+- [[FIXED]I can&#39;t hear any Pilots/ATC](https://forums.vatsim.net/topic/25100-fixedi-cant-hear-any-pilotsatc/?do=findComment&comment=184423)
 - [vPilot RX illuminates but I hear nothing](https://forums.vatsim.net/topic/32335-vpilot-rx-illuminates-but-i-hear-nothing/?do=findComment&comment=184422)
 - [Vpilot 2.7](https://forums.vatsim.net/topic/32330-vpilot-27/?do=findComment&comment=184421)
 - [vPilot RX illuminates but I hear nothing](https://forums.vatsim.net/topic/32335-vpilot-rx-illuminates-but-i-hear-nothing/?do=findComment&comment=184420)
 - [Retake VATSIM Exam?](https://forums.vatsim.net/topic/32334-retake-vatsim-exam/?do=findComment&comment=184419)
 - [Another VAT-Spy not Opening on Multi-Monitor Setup Thread](https://forums.vatsim.net/topic/32310-another-vat-spy-not-opening-on-multi-monitor-setup-thread/?do=findComment&comment=184418)
-- [Vpilot 2.7](https://forums.vatsim.net/topic/32330-vpilot-27/?do=findComment&comment=184417)
-- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184416)
-- [kein Funkempfang vpilot trotz connect und richtigen Sound Einstellungen](https://forums.vatsim.net/topic/32333-kein-funkempfang-vpilot-trotz-connect-und-richtigen-sound-einstellungen/?do=findComment&comment=184415)
-- [IFR and VFR pilot mix communication in a non controlled area &lpar;ATC not online&rpar;.](https://forums.vatsim.net/topic/32332-ifr-and-vfr-pilot-mix-communication-in-a-non-controlled-area-atc-not-online/?do=findComment&comment=184414)
-- [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184413)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
