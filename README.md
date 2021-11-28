@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184416)
+- [kein Funkempfang vpilot trotz connect und richtigen Sound Einstellungen](https://forums.vatsim.net/topic/32333-kein-funkempfang-vpilot-trotz-connect-und-richtigen-sound-einstellungen/?do=findComment&comment=184415)
 - [IFR and VFR pilot mix communication in a non controlled area &lpar;ATC not online&rpar;.](https://forums.vatsim.net/topic/32332-ifr-and-vfr-pilot-mix-communication-in-a-non-controlled-area-atc-not-online/?do=findComment&comment=184414)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184413)
 - [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=184412)
@@ -63,8 +65,6 @@
 - [xPilot 2 &lpar;Beta&rpar; - questions](https://forums.vatsim.net/topic/32306-xpilot-2-beta-questions/?do=findComment&comment=184409)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184408)
 - [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=184407)
-- [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184406)
-- [Another VAT-Spy not Opening on Multi-Monitor Setup Thread](https://forums.vatsim.net/topic/32310-another-vat-spy-not-opening-on-multi-monitor-setup-thread/?do=findComment&comment=184405)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
