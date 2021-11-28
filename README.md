@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Another VAT-Spy not Opening on Multi-Monitor Setup Thread](https://forums.vatsim.net/topic/32310-another-vat-spy-not-opening-on-multi-monitor-setup-thread/?do=findComment&comment=184418)
+- [Vpilot 2.7](https://forums.vatsim.net/topic/32330-vpilot-27/?do=findComment&comment=184417)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184416)
 - [kein Funkempfang vpilot trotz connect und richtigen Sound Einstellungen](https://forums.vatsim.net/topic/32333-kein-funkempfang-vpilot-trotz-connect-und-richtigen-sound-einstellungen/?do=findComment&comment=184415)
 - [IFR and VFR pilot mix communication in a non controlled area &lpar;ATC not online&rpar;.](https://forums.vatsim.net/topic/32332-ifr-and-vfr-pilot-mix-communication-in-a-non-controlled-area-atc-not-online/?do=findComment&comment=184414)
@@ -63,8 +65,6 @@
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184411)
 - [xPilot 2 &lpar;Beta&rpar; - questions](https://forums.vatsim.net/topic/32306-xpilot-2-beta-questions/?do=findComment&comment=184410)
 - [xPilot 2 &lpar;Beta&rpar; - questions](https://forums.vatsim.net/topic/32306-xpilot-2-beta-questions/?do=findComment&comment=184409)
-- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184408)
-- [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=184407)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
