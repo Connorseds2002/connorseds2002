@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [An apology to air traffic controllers](https://forums.vatsim.net/topic/32171-an-apology-to-air-traffic-controllers/?do=findComment&comment=184407)
+- [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184406)
 - [Another VAT-Spy not Opening on Multi-Monitor Setup Thread](https://forums.vatsim.net/topic/32310-another-vat-spy-not-opening-on-multi-monitor-setup-thread/?do=findComment&comment=184405)
 - [Vpilot 2.7](https://forums.vatsim.net/topic/32330-vpilot-27/?do=findComment&comment=184404)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184403)
@@ -63,8 +65,6 @@
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184400)
 - [VFR flights on Vatsim](https://forums.vatsim.net/topic/32259-vfr-flights-on-vatsim/?do=findComment&comment=184399)
 - [[VACANCY] vACC Director - Poland](https://forums.vatsim.net/topic/32329-vacancy-vacc-director-poland/?do=findComment&comment=184398)
-- [VACANCY: Webmaster](https://forums.vatsim.net/topic/32328-vacancy-webmaster/?do=findComment&comment=184397)
-- [Stuck Mike in Xpilot](https://forums.vatsim.net/topic/32267-stuck-mike-in-xpilot/?do=findComment&comment=184396)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
