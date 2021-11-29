@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Finally Austria 2021](https://forums.vatsim.net/topic/32339-finally-austria-2021/?do=findComment&comment=184449)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184448)
 - [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=184447)
 - [Euroscope Ground Filter Bug](https://forums.vatsim.net/topic/32336-euroscope-ground-filter-bug/?do=findComment&comment=184446)
@@ -64,7 +65,6 @@
 - [Integrate AFV into Moscow FIR plugin for ES](https://forums.vatsim.net/topic/32337-integrate-afv-into-moscow-fir-plugin-for-es/?do=findComment&comment=184442)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184441)
 - [8.08&lpar;c&rpar; Number of days &quot;given&quot; to conduct a competency check](https://forums.vatsim.net/topic/32049-808c-number-of-days-given-to-conduct-a-competency-check/?do=findComment&comment=184440)
-- [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=184439)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
