@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope Ground Filter Bug](https://forums.vatsim.net/topic/32336-euroscope-ground-filter-bug/?do=findComment&comment=184431)
 - [PMDG DC 6 Co pilot wanted](https://forums.vatsim.net/topic/32295-pmdg-dc-6-co-pilot-wanted/?do=findComment&comment=184430)
 - [Stream Deck - AFV](https://forums.vatsim.net/topic/32326-stream-deck-afv/?do=findComment&comment=184429)
 - [I want to plan an unofficial/informal Fly-in with a Flight &lpar;Point A to B&rpar;](https://forums.vatsim.net/topic/32322-i-want-to-plan-an-unofficialinformal-fly-in-with-a-flight-point-a-to-b/?do=findComment&comment=184428)
@@ -64,7 +65,6 @@
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184424)
 - [[FIXED]I can&#39;t hear any Pilots/ATC](https://forums.vatsim.net/topic/25100-fixedi-cant-hear-any-pilotsatc/?do=findComment&comment=184423)
 - [vPilot RX illuminates but I hear nothing](https://forums.vatsim.net/topic/32335-vpilot-rx-illuminates-but-i-hear-nothing/?do=findComment&comment=184422)
-- [Vpilot 2.7](https://forums.vatsim.net/topic/32330-vpilot-27/?do=findComment&comment=184421)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
