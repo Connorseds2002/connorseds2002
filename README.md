@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot Beta 2.5 Hotkey for transmit](https://forums.vatsim.net/topic/32340-xpilot-beta-25-hotkey-for-transmit/?do=findComment&comment=184454)
+- [Xpilot Beta 2.5 Hotkey for transmit](https://forums.vatsim.net/topic/32340-xpilot-beta-25-hotkey-for-transmit/?do=findComment&comment=184453)
+- [Xpilot Beta 2.5 Hotkey for transmit](https://forums.vatsim.net/topic/32340-xpilot-beta-25-hotkey-for-transmit/?do=findComment&comment=184452)
+- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184451)
 - [Is it easy to get into vatsim?](https://forums.vatsim.net/topic/32338-is-it-easy-to-get-into-vatsim/?do=findComment&comment=184450)
 - [Finally Austria 2021](https://forums.vatsim.net/topic/32339-finally-austria-2021/?do=findComment&comment=184449)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184448)
 - [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=184447)
 - [Euroscope Ground Filter Bug](https://forums.vatsim.net/topic/32336-euroscope-ground-filter-bug/?do=findComment&comment=184446)
 - [Retake VATSIM Exam?](https://forums.vatsim.net/topic/32334-retake-vatsim-exam/?do=findComment&comment=184445)
-- [Is it easy to get into vatsim?](https://forums.vatsim.net/topic/32338-is-it-easy-to-get-into-vatsim/?do=findComment&comment=184444)
-- [Is it easy to get into vatsim?](https://forums.vatsim.net/topic/32338-is-it-easy-to-get-into-vatsim/?do=findComment&comment=184443)
-- [Integrate AFV into Moscow FIR plugin for ES](https://forums.vatsim.net/topic/32337-integrate-afv-into-moscow-fir-plugin-for-es/?do=findComment&comment=184442)
-- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184441)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
