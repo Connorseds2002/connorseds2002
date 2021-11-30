@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Crashing Immediately Upon Startup](https://forums.vatsim.net/topic/32279-vpilot-crashing-immediately-upon-startup/?do=findComment&comment=184469)
+- [vPilot Crashing Immediately Upon Startup](https://forums.vatsim.net/topic/32279-vpilot-crashing-immediately-upon-startup/?do=findComment&comment=184468)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184467)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184466)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184465)
@@ -63,8 +65,6 @@
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184462)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184461)
 - [Is it easy to get into vatsim?](https://forums.vatsim.net/topic/32338-is-it-easy-to-get-into-vatsim/?do=findComment&comment=184460)
-- [Is it easy to get into vatsim?](https://forums.vatsim.net/topic/32338-is-it-easy-to-get-into-vatsim/?do=findComment&comment=184459)
-- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184458)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
