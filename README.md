@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184461)
 - [Is it easy to get into vatsim?](https://forums.vatsim.net/topic/32338-is-it-easy-to-get-into-vatsim/?do=findComment&comment=184460)
 - [Is it easy to get into vatsim?](https://forums.vatsim.net/topic/32338-is-it-easy-to-get-into-vatsim/?do=findComment&comment=184459)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184458)
@@ -64,7 +65,6 @@
 - [Xpilot Beta 2.5 Hotkey for transmit](https://forums.vatsim.net/topic/32340-xpilot-beta-25-hotkey-for-transmit/?do=findComment&comment=184454)
 - [Xpilot Beta 2.5 Hotkey for transmit](https://forums.vatsim.net/topic/32340-xpilot-beta-25-hotkey-for-transmit/?do=findComment&comment=184453)
 - [Xpilot Beta 2.5 Hotkey for transmit](https://forums.vatsim.net/topic/32340-xpilot-beta-25-hotkey-for-transmit/?do=findComment&comment=184452)
-- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184451)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
