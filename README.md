@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184484)
 - [xPilot 2 &lpar;Beta&rpar; - questions](https://forums.vatsim.net/topic/32306-xpilot-2-beta-questions/?do=findComment&comment=184483)
 - [Swift Model Set](https://forums.vatsim.net/topic/32331-swift-model-set/?do=findComment&comment=184482)
 - [Metric Flight level](https://forums.vatsim.net/topic/32343-metric-flight-level/?do=findComment&comment=184481)
@@ -64,7 +65,6 @@
 - [Is it easy to get into vatsim?](https://forums.vatsim.net/topic/32338-is-it-easy-to-get-into-vatsim/?do=findComment&comment=184477)
 - [VR Users - ATC instructions written down?](https://forums.vatsim.net/topic/32341-vr-users-atc-instructions-written-down/?do=findComment&comment=184476)
 - [VR Users - ATC instructions written down?](https://forums.vatsim.net/topic/32341-vr-users-atc-instructions-written-down/?do=findComment&comment=184475)
-- [VR Users - ATC instructions written down?](https://forums.vatsim.net/topic/32341-vr-users-atc-instructions-written-down/?do=findComment&comment=184474)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
