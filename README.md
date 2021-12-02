@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Server list download failed &lpar;2.0.0 beta 6&rpar;](https://forums.vatsim.net/topic/32350-server-list-download-failed-200-beta-6/?do=findComment&comment=184522)
 - [Another VAT-Spy not Opening on Multi-Monitor Setup Thread](https://forums.vatsim.net/topic/32310-another-vat-spy-not-opening-on-multi-monitor-setup-thread/?do=findComment&comment=184521)
 - [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184520)
 - [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184519)
@@ -64,7 +65,6 @@
 - [Canadian Xpress December 2021 Monthly Challenge: National Parks II - Hawaii Volcanoes](https://forums.vatsim.net/topic/32348-canadian-xpress-december-2021-monthly-challenge-national-parks-ii-hawaii-volcanoes/?do=findComment&comment=184515)
 - [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184514)
 - [Headset](https://forums.vatsim.net/topic/32347-headset/?do=findComment&comment=184513)
-- [Headset](https://forums.vatsim.net/topic/32347-headset/?do=findComment&comment=184512)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
