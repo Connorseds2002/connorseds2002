@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Headset](https://forums.vatsim.net/topic/32347-headset/?do=findComment&comment=184512)
+- [Stream Deck - AFV](https://forums.vatsim.net/topic/32326-stream-deck-afv/?do=findComment&comment=184511)
+- [VR Users - ATC instructions written down?](https://forums.vatsim.net/topic/32341-vr-users-atc-instructions-written-down/?do=findComment&comment=184510)
+- [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184509)
+- [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184508)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184507)
 - [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184506)
 - [vpilot application does not open&lpar;run&rpar;](https://forums.vatsim.net/topic/32345-vpilot-application-does-not-openrun/?do=findComment&comment=184505)
 - [Headset](https://forums.vatsim.net/topic/32347-headset/?do=findComment&comment=184504)
 - [How can I make the xPilot UI visible in WMR/VR with X-Plane11?](https://forums.vatsim.net/topic/32346-how-can-i-make-the-xpilot-ui-visible-in-wmrvr-with-x-plane11/?do=findComment&comment=184503)
-- [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184502)
-- [vpilot application does not open&lpar;run&rpar;](https://forums.vatsim.net/topic/32345-vpilot-application-does-not-openrun/?do=findComment&comment=184501)
-- [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184500)
-- [vpilot application does not open&lpar;run&rpar;](https://forums.vatsim.net/topic/32345-vpilot-application-does-not-openrun/?do=findComment&comment=184499)
-- [Vintage Aircraft](https://forums.vatsim.net/topic/32244-vintage-aircraft/?do=findComment&comment=184498)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
