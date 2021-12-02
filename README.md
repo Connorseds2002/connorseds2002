@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Headset](https://forums.vatsim.net/topic/32347-headset/?do=findComment&comment=184513)
 - [Headset](https://forums.vatsim.net/topic/32347-headset/?do=findComment&comment=184512)
 - [Stream Deck - AFV](https://forums.vatsim.net/topic/32326-stream-deck-afv/?do=findComment&comment=184511)
 - [VR Users - ATC instructions written down?](https://forums.vatsim.net/topic/32341-vr-users-atc-instructions-written-down/?do=findComment&comment=184510)
@@ -64,7 +65,6 @@
 - [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184506)
 - [vpilot application does not open&lpar;run&rpar;](https://forums.vatsim.net/topic/32345-vpilot-application-does-not-openrun/?do=findComment&comment=184505)
 - [Headset](https://forums.vatsim.net/topic/32347-headset/?do=findComment&comment=184504)
-- [How can I make the xPilot UI visible in WMR/VR with X-Plane11?](https://forums.vatsim.net/topic/32346-how-can-i-make-the-xpilot-ui-visible-in-wmrvr-with-x-plane11/?do=findComment&comment=184503)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
