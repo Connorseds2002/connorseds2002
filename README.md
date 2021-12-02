@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Canadian Xpress December 2021 Monthly Challenge: National Parks II - Hawaii Volcanoes](https://forums.vatsim.net/topic/32348-canadian-xpress-december-2021-monthly-challenge-national-parks-ii-hawaii-volcanoes/?do=findComment&comment=184515)
 - [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184514)
 - [Headset](https://forums.vatsim.net/topic/32347-headset/?do=findComment&comment=184513)
 - [Headset](https://forums.vatsim.net/topic/32347-headset/?do=findComment&comment=184512)
@@ -64,7 +65,6 @@
 - [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184508)
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=184507)
 - [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184506)
-- [vpilot application does not open&lpar;run&rpar;](https://forums.vatsim.net/topic/32345-vpilot-application-does-not-openrun/?do=findComment&comment=184505)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
