@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Status of the GCAP Project](https://forums.vatsim.net/topic/32351-status-of-the-gcap-project/?do=findComment&comment=184525)
 - [Connecting to Vatsim](https://forums.vatsim.net/topic/32349-connecting-to-vatsim/?do=findComment&comment=184524)
 - [Euroscope Ground Filter Bug](https://forums.vatsim.net/topic/32336-euroscope-ground-filter-bug/?do=findComment&comment=184523)
 - [Server list download failed &lpar;2.0.0 beta 6&rpar;](https://forums.vatsim.net/topic/32350-server-list-download-failed-200-beta-6/?do=findComment&comment=184522)
@@ -64,7 +65,6 @@
 - [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184518)
 - [Connecting to Vatsim](https://forums.vatsim.net/topic/32349-connecting-to-vatsim/?do=findComment&comment=184517)
 - [Connecting to Vatsim](https://forums.vatsim.net/topic/32349-connecting-to-vatsim/?do=findComment&comment=184516)
-- [Canadian Xpress December 2021 Monthly Challenge: National Parks II - Hawaii Volcanoes](https://forums.vatsim.net/topic/32348-canadian-xpress-december-2021-monthly-challenge-national-parks-ii-hawaii-volcanoes/?do=findComment&comment=184515)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
