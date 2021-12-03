@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Metric Flight level](https://forums.vatsim.net/topic/32343-metric-flight-level/?do=findComment&comment=184535)
 - [New Member Orientation Test failed due to website crash](https://forums.vatsim.net/topic/32353-new-member-orientation-test-failed-due-to-website-crash/?do=findComment&comment=184534)
 - [New Member Orientation Test failed due to website crash](https://forums.vatsim.net/topic/32353-new-member-orientation-test-failed-due-to-website-crash/?do=findComment&comment=184533)
 - [PDC received, whats next?](https://forums.vatsim.net/topic/32352-pdc-received-whats-next/?do=findComment&comment=184532)
@@ -64,7 +65,6 @@
 - [PDC received, whats next?](https://forums.vatsim.net/topic/32352-pdc-received-whats-next/?do=findComment&comment=184528)
 - [PDC received, whats next?](https://forums.vatsim.net/topic/32352-pdc-received-whats-next/?do=findComment&comment=184527)
 - [Status of the GCAP Project](https://forums.vatsim.net/topic/32351-status-of-the-gcap-project/?do=findComment&comment=184525)
-- [Connecting to Vatsim](https://forums.vatsim.net/topic/32349-connecting-to-vatsim/?do=findComment&comment=184524)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
