@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PDC received, whats next?](https://forums.vatsim.net/topic/32352-pdc-received-whats-next/?do=findComment&comment=184532)
 - [San Juan C1 OTS! - Joey George](https://forums.vatsim.net/topic/32354-san-juan-c1-ots-joey-george/?do=findComment&comment=184531)
 - [New Member Orientation Test failed due to website crash](https://forums.vatsim.net/topic/32353-new-member-orientation-test-failed-due-to-website-crash/?do=findComment&comment=184530)
 - [PDC received, whats next?](https://forums.vatsim.net/topic/32352-pdc-received-whats-next/?do=findComment&comment=184529)
@@ -64,7 +65,6 @@
 - [Connecting to Vatsim](https://forums.vatsim.net/topic/32349-connecting-to-vatsim/?do=findComment&comment=184524)
 - [Euroscope Ground Filter Bug](https://forums.vatsim.net/topic/32336-euroscope-ground-filter-bug/?do=findComment&comment=184523)
 - [Server list download failed &lpar;2.0.0 beta 6&rpar;](https://forums.vatsim.net/topic/32350-server-list-download-failed-200-beta-6/?do=findComment&comment=184522)
-- [Another VAT-Spy not Opening on Multi-Monitor Setup Thread](https://forums.vatsim.net/topic/32310-another-vat-spy-not-opening-on-multi-monitor-setup-thread/?do=findComment&comment=184521)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
