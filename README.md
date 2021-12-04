@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184555)
 - [[APPOINTMENT] Spain vACC Director](https://forums.vatsim.net/topic/32304-appointment-spain-vacc-director/?do=findComment&comment=184554)
 - [Vpilot Simconnect error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32156-vpilot-simconnect-error-illegal_operation-25/?do=findComment&comment=184553)
 - [[VATPHIL] Comprehensive Aeronautical Charts Update v1.0](https://forums.vatsim.net/topic/32357-vatphil-comprehensive-aeronautical-charts-update-v10/?do=findComment&comment=184552)
@@ -64,7 +65,6 @@
 - [New VATSIM Spain Domain](https://forums.vatsim.net/topic/32356-new-vatsim-spain-domain/?do=findComment&comment=184548)
 - [[APPOINTMENT] Adria vACC Director](https://forums.vatsim.net/topic/32355-appointment-adria-vacc-director/?do=findComment&comment=184547)
 - [[APPOINTMENT] Adria vACC Director](https://forums.vatsim.net/topic/32355-appointment-adria-vacc-director/?do=findComment&comment=184546)
-- [[APPOINTMENT] Adria vACC Director](https://forums.vatsim.net/topic/32355-appointment-adria-vacc-director/?do=findComment&comment=184545)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
