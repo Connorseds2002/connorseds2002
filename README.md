@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=184568)
+- [New Member Orientation Test failed due to website crash](https://forums.vatsim.net/topic/32353-new-member-orientation-test-failed-due-to-website-crash/?do=findComment&comment=184567)
 - [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184566)
 - [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184565)
 - [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184564)
@@ -63,8 +65,6 @@
 - [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184561)
 - [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184560)
 - [Server list download failed &lpar;2.0.0 beta 6&rpar;](https://forums.vatsim.net/topic/32350-server-list-download-failed-200-beta-6/?do=findComment&comment=184559)
-- [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184558)
-- [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184557)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
