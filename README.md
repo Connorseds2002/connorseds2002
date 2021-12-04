@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PDC received, whats next?](https://forums.vatsim.net/topic/32352-pdc-received-whats-next/?do=findComment&comment=184551)
 - [Server list download failed &lpar;2.0.0 beta 6&rpar;](https://forums.vatsim.net/topic/32350-server-list-download-failed-200-beta-6/?do=findComment&comment=184550)
 - [PDC received, whats next?](https://forums.vatsim.net/topic/32352-pdc-received-whats-next/?do=findComment&comment=184549)
 - [New VATSIM Spain Domain](https://forums.vatsim.net/topic/32356-new-vatsim-spain-domain/?do=findComment&comment=184548)
@@ -64,7 +65,6 @@
 - [[vPilot/P3Dv4]  Can&#39;t hear Pilots/ATC](https://forums.vatsim.net/topic/25123-vpilotp3dv4-cant-hear-pilotsatc/?do=findComment&comment=184544)
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184543)
 - [vpilot application does not open&lpar;run&rpar;](https://forums.vatsim.net/topic/32345-vpilot-application-does-not-openrun/?do=findComment&comment=184542)
-- [New Member Orientation Test failed due to website crash](https://forums.vatsim.net/topic/32353-new-member-orientation-test-failed-due-to-website-crash/?do=findComment&comment=184541)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
