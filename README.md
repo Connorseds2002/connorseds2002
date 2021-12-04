@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Server list download failed &lpar;2.0.0 beta 6&rpar;](https://forums.vatsim.net/topic/32350-server-list-download-failed-200-beta-6/?do=findComment&comment=184559)
+- [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184558)
 - [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184557)
 - [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184556)
 - [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184555)
@@ -63,8 +65,6 @@
 - [[VATPHIL] Comprehensive Aeronautical Charts Update v1.0](https://forums.vatsim.net/topic/32357-vatphil-comprehensive-aeronautical-charts-update-v10/?do=findComment&comment=184552)
 - [PDC received, whats next?](https://forums.vatsim.net/topic/32352-pdc-received-whats-next/?do=findComment&comment=184551)
 - [Server list download failed &lpar;2.0.0 beta 6&rpar;](https://forums.vatsim.net/topic/32350-server-list-download-failed-200-beta-6/?do=findComment&comment=184550)
-- [PDC received, whats next?](https://forums.vatsim.net/topic/32352-pdc-received-whats-next/?do=findComment&comment=184549)
-- [New VATSIM Spain Domain](https://forums.vatsim.net/topic/32356-new-vatsim-spain-domain/?do=findComment&comment=184548)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
