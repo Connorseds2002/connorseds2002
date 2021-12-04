@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184566)
+- [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184565)
 - [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184564)
 - [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184563)
 - [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184562)
@@ -63,8 +65,6 @@
 - [Server list download failed &lpar;2.0.0 beta 6&rpar;](https://forums.vatsim.net/topic/32350-server-list-download-failed-200-beta-6/?do=findComment&comment=184559)
 - [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184558)
 - [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184557)
-- [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184556)
-- [cant reach myvatsim account](https://forums.vatsim.net/topic/32358-cant-reach-myvatsim-account/?do=findComment&comment=184555)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
