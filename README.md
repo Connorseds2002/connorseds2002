@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VATPHIL] Comprehensive Aeronautical Charts Update v1.0](https://forums.vatsim.net/topic/32357-vatphil-comprehensive-aeronautical-charts-update-v10/?do=findComment&comment=184574)
 - [New Member Orientation Test failed due to website crash](https://forums.vatsim.net/topic/32353-new-member-orientation-test-failed-due-to-website-crash/?do=findComment&comment=184573)
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184572)
 - [VATCAR is Hiring...](https://forums.vatsim.net/topic/17630-vatcar-is-hiring/?do=findComment&comment=184571)
@@ -64,7 +65,6 @@
 - [New Member Orientation Test failed due to website crash](https://forums.vatsim.net/topic/32353-new-member-orientation-test-failed-due-to-website-crash/?do=findComment&comment=184567)
 - [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184566)
 - [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184565)
-- [[xPilot] Audio chat only works in certain channels](https://forums.vatsim.net/topic/32359-xpilot-audio-chat-only-works-in-certain-channels/?do=findComment&comment=184564)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
