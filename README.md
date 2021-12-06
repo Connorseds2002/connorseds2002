@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCWAF4] - Air Traffic Control Training Manager](https://forums.vatsim.net/topic/32367-accwaf4-air-traffic-control-training-manager/?do=findComment&comment=184618)
 - [I have no audio on VPilot](https://forums.vatsim.net/topic/32366-i-have-no-audio-on-vpilot/?do=findComment&comment=184617)
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184616)
 - [Where are the OLD Flight Plans within VATSIM and can I delete them?](https://forums.vatsim.net/topic/32365-where-are-the-old-flight-plans-within-vatsim-and-can-i-delete-them/?do=findComment&comment=184615)
@@ -64,7 +65,6 @@
 - [Communicating between pilots in VATSIM](https://forums.vatsim.net/topic/32362-communicating-between-pilots-in-vatsim/?do=findComment&comment=184611)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184610)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184609)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184608)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
