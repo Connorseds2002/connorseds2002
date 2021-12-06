@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Connecting to Vatsim](https://forums.vatsim.net/topic/32349-connecting-to-vatsim/?do=findComment&comment=184605)
+- [Connecting to Vatsim](https://forums.vatsim.net/topic/32349-connecting-to-vatsim/?do=findComment&comment=184604)
+- [Communicating between pilots in VATSIM](https://forums.vatsim.net/topic/32362-communicating-between-pilots-in-vatsim/?do=findComment&comment=184603)
 - [MSFS with vPilot Networked](https://forums.vatsim.net/topic/32363-msfs-with-vpilot-networked/?do=findComment&comment=184602)
 - [MSFS with vPilot Networked](https://forums.vatsim.net/topic/32363-msfs-with-vpilot-networked/?do=findComment&comment=184601)
 - [Communicating between pilots in VATSIM](https://forums.vatsim.net/topic/32362-communicating-between-pilots-in-vatsim/?do=findComment&comment=184600)
@@ -62,9 +65,6 @@
 - [Communicating between pilots in VATSIM](https://forums.vatsim.net/topic/32362-communicating-between-pilots-in-vatsim/?do=findComment&comment=184598)
 - [PDC received, whats next?](https://forums.vatsim.net/topic/32352-pdc-received-whats-next/?do=findComment&comment=184597)
 - [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184596)
-- [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184595)
-- [Communicating between pilots in VATSIM](https://forums.vatsim.net/topic/32362-communicating-between-pilots-in-vatsim/?do=findComment&comment=184594)
-- [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184593)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
