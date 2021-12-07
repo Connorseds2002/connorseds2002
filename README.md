@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Communicating between pilots in VATSIM](https://forums.vatsim.net/topic/32362-communicating-between-pilots-in-vatsim/?do=findComment&comment=184627)
+- [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184626)
 - [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184625)
 - [MSFS with vPilot Networked](https://forums.vatsim.net/topic/32363-msfs-with-vpilot-networked/?do=findComment&comment=184624)
 - [Where are the OLD Flight Plans within VATSIM and can I delete them?](https://forums.vatsim.net/topic/32365-where-are-the-old-flight-plans-within-vatsim-and-can-i-delete-them/?do=findComment&comment=184623)
@@ -63,8 +65,6 @@
 - [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184620)
 - [[ACCWAF4] - Air Traffic Control Training Manager](https://forums.vatsim.net/topic/32367-accwaf4-air-traffic-control-training-manager/?do=findComment&comment=184618)
 - [I have no audio on VPilot](https://forums.vatsim.net/topic/32366-i-have-no-audio-on-vpilot/?do=findComment&comment=184617)
-- [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184616)
-- [Where are the OLD Flight Plans within VATSIM and can I delete them?](https://forums.vatsim.net/topic/32365-where-are-the-old-flight-plans-within-vatsim-and-can-i-delete-them/?do=findComment&comment=184615)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
