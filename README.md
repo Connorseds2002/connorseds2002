@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184643)
+- [MSFS with vPilot Networked](https://forums.vatsim.net/topic/32363-msfs-with-vpilot-networked/?do=findComment&comment=184642)
+- [Feature Req - Smaller UI and frequency drop in](https://forums.vatsim.net/topic/32371-feature-req-smaller-ui-and-frequency-drop-in/?do=findComment&comment=184641)
 - [[18 DEC 2021] SWISS Virtual LXmas Event](https://forums.vatsim.net/topic/32370-18-dec-2021-swiss-virtual-lxmas-event/?do=findComment&comment=184640)
 - [VR Users - ATC instructions written down?](https://forums.vatsim.net/topic/32341-vr-users-atc-instructions-written-down/?do=findComment&comment=184638)
 - [Where are the OLD Flight Plans within VATSIM and can I delete them?](https://forums.vatsim.net/topic/32365-where-are-the-old-flight-plans-within-vatsim-and-can-i-delete-them/?do=findComment&comment=184637)
@@ -62,9 +65,6 @@
 - [Where are the OLD Flight Plans within VATSIM and can I delete them?](https://forums.vatsim.net/topic/32365-where-are-the-old-flight-plans-within-vatsim-and-can-i-delete-them/?do=findComment&comment=184635)
 - [Where are the OLD Flight Plans within VATSIM and can I delete them?](https://forums.vatsim.net/topic/32365-where-are-the-old-flight-plans-within-vatsim-and-can-i-delete-them/?do=findComment&comment=184634)
 - [Request: Additional info in .aircraft debug window](https://forums.vatsim.net/topic/32368-request-additional-info-in-aircraft-debug-window/?do=findComment&comment=184633)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184632)
-- [Request: Additional info in .aircraft debug window](https://forums.vatsim.net/topic/32368-request-additional-info-in-aircraft-debug-window/?do=findComment&comment=184631)
-- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184630)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
