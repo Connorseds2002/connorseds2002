@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VR Users - ATC instructions written down?](https://forums.vatsim.net/topic/32341-vr-users-atc-instructions-written-down/?do=findComment&comment=184638)
 - [Where are the OLD Flight Plans within VATSIM and can I delete them?](https://forums.vatsim.net/topic/32365-where-are-the-old-flight-plans-within-vatsim-and-can-i-delete-them/?do=findComment&comment=184637)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184636)
 - [Where are the OLD Flight Plans within VATSIM and can I delete them?](https://forums.vatsim.net/topic/32365-where-are-the-old-flight-plans-within-vatsim-and-can-i-delete-them/?do=findComment&comment=184635)
@@ -64,7 +65,6 @@
 - [Request: Additional info in .aircraft debug window](https://forums.vatsim.net/topic/32368-request-additional-info-in-aircraft-debug-window/?do=findComment&comment=184631)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184630)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=184629)
-- [flight filter for map &lpar;feature request&rpar;](https://forums.vatsim.net/topic/31967-flight-filter-for-map-feature-request/?do=findComment&comment=184628)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
