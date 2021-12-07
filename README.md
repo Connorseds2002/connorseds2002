@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Request: Additional info in .aircraft debug window](https://forums.vatsim.net/topic/32368-request-additional-info-in-aircraft-debug-window/?do=findComment&comment=184631)
+- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184630)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=184629)
 - [flight filter for map &lpar;feature request&rpar;](https://forums.vatsim.net/topic/31967-flight-filter-for-map-feature-request/?do=findComment&comment=184628)
 - [Communicating between pilots in VATSIM](https://forums.vatsim.net/topic/32362-communicating-between-pilots-in-vatsim/?do=findComment&comment=184627)
@@ -63,8 +65,6 @@
 - [MSFS with vPilot Networked](https://forums.vatsim.net/topic/32363-msfs-with-vpilot-networked/?do=findComment&comment=184624)
 - [Where are the OLD Flight Plans within VATSIM and can I delete them?](https://forums.vatsim.net/topic/32365-where-are-the-old-flight-plans-within-vatsim-and-can-i-delete-them/?do=findComment&comment=184623)
 - [MSFS with vPilot Networked](https://forums.vatsim.net/topic/32363-msfs-with-vpilot-networked/?do=findComment&comment=184622)
-- [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184621)
-- [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184620)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
