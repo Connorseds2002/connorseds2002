@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Where are the OLD Flight Plans within VATSIM and can I delete them?](https://forums.vatsim.net/topic/32365-where-are-the-old-flight-plans-within-vatsim-and-can-i-delete-them/?do=findComment&comment=184659)
+- [ISSUE:  Some P0 exams are not working properly](https://forums.vatsim.net/topic/32373-issue-some-p0-exams-are-not-working-properly/?do=findComment&comment=184658)
 - [vPilot METAR Source](https://forums.vatsim.net/topic/32372-vpilot-metar-source/?do=findComment&comment=184655)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=184654)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=184653)
@@ -63,8 +65,6 @@
 - [vPilot METAR Source](https://forums.vatsim.net/topic/32372-vpilot-metar-source/?do=findComment&comment=184650)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=184649)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184648)
-- [Tips for Flight Planning &lpar;pilots&rpar;](https://forums.vatsim.net/topic/32291-tips-for-flight-planning-pilots/?do=findComment&comment=184647)
-- [Feature Req - Smaller UI and frequency drop in](https://forums.vatsim.net/topic/32371-feature-req-smaller-ui-and-frequency-drop-in/?do=findComment&comment=184646)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
