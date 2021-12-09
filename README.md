@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Director, Events &amp; Marketing Department - ACCPAK4](https://forums.vatsim.net/topic/32378-vacancy-director-events-marketing-department-accpak4/?do=findComment&comment=184686)
 - [[VACANCY] Director, Membership Department - ACCPAK3](https://forums.vatsim.net/topic/32377-vacancy-director-membership-department-accpak3/?do=findComment&comment=184685)
 - [[VACANCY] Director,  ATS Department / ATC Training - ACCPAK2](https://forums.vatsim.net/topic/32376-vacancy-director-ats-department-atc-training-accpak2/?do=findComment&comment=184684)
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184683)
@@ -64,7 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184679)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184678)
 - [vPilot  causing massive fps drops and low performance on MSFS 2020 in Windows 11](https://forums.vatsim.net/topic/31794-vpilot-causing-massive-fps-drops-and-low-performance-on-msfs-2020-in-windows-11/?do=findComment&comment=184677)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184676)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
