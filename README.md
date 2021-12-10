@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot METAR Source](https://forums.vatsim.net/topic/32372-vpilot-metar-source/?do=findComment&comment=184695)
 - [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184694)
 - [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184693)
 - [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184692)
@@ -64,7 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184688)
 - [Mouse movement on VATsys](https://forums.vatsim.net/topic/32379-mouse-movement-on-vatsys/?do=findComment&comment=184687)
 - [[VACANCY] Director, Events &amp; Marketing Department - ACCPAK4](https://forums.vatsim.net/topic/32378-vacancy-director-events-marketing-department-accpak4/?do=findComment&comment=184686)
-- [[VACANCY] Director, Membership Department - ACCPAK3](https://forums.vatsim.net/topic/32377-vacancy-director-membership-department-accpak3/?do=findComment&comment=184685)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
