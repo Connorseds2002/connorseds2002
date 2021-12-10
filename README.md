@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184714)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184713)
 - [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184712)
 - [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184711)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184710)
@@ -63,8 +65,6 @@
 - [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184707)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184706)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184705)
-- [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184704)
-- [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184703)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
