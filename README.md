@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Mouse movement on VATsys](https://forums.vatsim.net/topic/32379-mouse-movement-on-vatsys/?do=findComment&comment=184701)
 - [Mouse movement on VATsys](https://forums.vatsim.net/topic/32379-mouse-movement-on-vatsys/?do=findComment&comment=184700)
 - [Mouse movement on VATsys](https://forums.vatsim.net/topic/32379-mouse-movement-on-vatsys/?do=findComment&comment=184699)
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184698)
@@ -64,7 +65,6 @@
 - [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184694)
 - [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184693)
 - [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184692)
-- [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184691)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
