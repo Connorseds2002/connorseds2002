@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184705)
+- [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184704)
+- [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184703)
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184702)
 - [Mouse movement on VATsys](https://forums.vatsim.net/topic/32379-mouse-movement-on-vatsys/?do=findComment&comment=184701)
 - [Mouse movement on VATsys](https://forums.vatsim.net/topic/32379-mouse-movement-on-vatsys/?do=findComment&comment=184700)
@@ -62,9 +65,6 @@
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184698)
 - [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184697)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184696)
-- [vPilot METAR Source](https://forums.vatsim.net/topic/32372-vpilot-metar-source/?do=findComment&comment=184695)
-- [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184694)
-- [So many plans with no type....what gives?](https://forums.vatsim.net/topic/32380-so-many-plans-with-no-typewhat-gives/?do=findComment&comment=184693)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
