@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Tip: record your ATC sessions](https://forums.vatsim.net/topic/32392-tip-record-your-atc-sessions/?do=findComment&comment=184766)
+- [Broken Audio](https://forums.vatsim.net/topic/32393-broken-audio/?do=findComment&comment=184765)
 - [Where to do pilot tests?](https://forums.vatsim.net/topic/32391-where-to-do-pilot-tests/?do=findComment&comment=184764)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184763)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184762)
@@ -63,8 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184759)
 - [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184758)
 - [Where to do pilot tests?](https://forums.vatsim.net/topic/32391-where-to-do-pilot-tests/?do=findComment&comment=184757)
-- [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184756)
-- [FIR/ARTCC codes for Australia](https://forums.vatsim.net/topic/32389-firartcc-codes-for-australia/?do=findComment&comment=184755)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
