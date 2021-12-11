@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184736)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184735)
+- [VPilot remote IP address wrong](https://forums.vatsim.net/topic/32385-vpilot-remote-ip-address-wrong/?do=findComment&comment=184734)
 - [VPilot remote IP address wrong](https://forums.vatsim.net/topic/32385-vpilot-remote-ip-address-wrong/?do=findComment&comment=184733)
 - [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184732)
 - [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184731)
@@ -62,9 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184729)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184728)
 - [New Pilot Orientation test not reloading](https://forums.vatsim.net/topic/32383-new-pilot-orientation-test-not-reloading/?do=findComment&comment=184727)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184726)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184725)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=184724)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
