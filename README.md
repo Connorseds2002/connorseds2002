@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS Frequency- Unwanted Changing](https://forums.vatsim.net/topic/32388-msfs-frequency-unwanted-changing/?do=findComment&comment=184748)
+- [MSFS Frequency- Unwanted Changing](https://forums.vatsim.net/topic/32388-msfs-frequency-unwanted-changing/?do=findComment&comment=184747)
+- [vpilot livery](https://forums.vatsim.net/topic/32387-vpilot-livery/?do=findComment&comment=184746)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=184745)
 - [Vatsim Stats who&#39;s online broken](https://forums.vatsim.net/topic/32386-vatsim-stats-whos-online-broken/?do=findComment&comment=184744)
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184743)
@@ -62,9 +65,6 @@
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184741)
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184740)
 - [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184739)
-- [New Pilot Orientation test not reloading](https://forums.vatsim.net/topic/32383-new-pilot-orientation-test-not-reloading/?do=findComment&comment=184738)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184737)
-- [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184736)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
