@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184756)
+- [FIR/ARTCC codes for Australia](https://forums.vatsim.net/topic/32389-firartcc-codes-for-australia/?do=findComment&comment=184755)
 - [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184754)
 - [I can&#39;t find the new-member multiple choice test](https://forums.vatsim.net/topic/32390-i-cant-find-the-new-member-multiple-choice-test/?do=findComment&comment=184753)
 - [FIR/ARTCC codes for Australia](https://forums.vatsim.net/topic/32389-firartcc-codes-for-australia/?do=findComment&comment=184752)
@@ -63,8 +65,6 @@
 - [MSFS Frequency- Unwanted Changing](https://forums.vatsim.net/topic/32388-msfs-frequency-unwanted-changing/?do=findComment&comment=184749)
 - [MSFS Frequency- Unwanted Changing](https://forums.vatsim.net/topic/32388-msfs-frequency-unwanted-changing/?do=findComment&comment=184748)
 - [MSFS Frequency- Unwanted Changing](https://forums.vatsim.net/topic/32388-msfs-frequency-unwanted-changing/?do=findComment&comment=184747)
-- [vpilot livery](https://forums.vatsim.net/topic/32387-vpilot-livery/?do=findComment&comment=184746)
-- [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=184745)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
