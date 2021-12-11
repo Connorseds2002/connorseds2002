@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Tip: record your ATC sessions](https://forums.vatsim.net/topic/32392-tip-record-your-atc-sessions/?do=findComment&comment=184761)
+- [I can&#39;t find the new-member multiple choice test](https://forums.vatsim.net/topic/32390-i-cant-find-the-new-member-multiple-choice-test/?do=findComment&comment=184760)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184759)
+- [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184758)
+- [Where to do pilot tests?](https://forums.vatsim.net/topic/32391-where-to-do-pilot-tests/?do=findComment&comment=184757)
 - [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184756)
 - [FIR/ARTCC codes for Australia](https://forums.vatsim.net/topic/32389-firartcc-codes-for-australia/?do=findComment&comment=184755)
 - [Stream Sniping](https://forums.vatsim.net/topic/32384-stream-sniping/?do=findComment&comment=184754)
 - [I can&#39;t find the new-member multiple choice test](https://forums.vatsim.net/topic/32390-i-cant-find-the-new-member-multiple-choice-test/?do=findComment&comment=184753)
 - [FIR/ARTCC codes for Australia](https://forums.vatsim.net/topic/32389-firartcc-codes-for-australia/?do=findComment&comment=184752)
-- [MSFS Frequency- Unwanted Changing](https://forums.vatsim.net/topic/32388-msfs-frequency-unwanted-changing/?do=findComment&comment=184751)
-- [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184750)
-- [MSFS Frequency- Unwanted Changing](https://forums.vatsim.net/topic/32388-msfs-frequency-unwanted-changing/?do=findComment&comment=184749)
-- [MSFS Frequency- Unwanted Changing](https://forums.vatsim.net/topic/32388-msfs-frequency-unwanted-changing/?do=findComment&comment=184748)
-- [MSFS Frequency- Unwanted Changing](https://forums.vatsim.net/topic/32388-msfs-frequency-unwanted-changing/?do=findComment&comment=184747)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
