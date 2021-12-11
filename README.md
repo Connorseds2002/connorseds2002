@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I can&#39;t find the new-member multiple choice test](https://forums.vatsim.net/topic/32390-i-cant-find-the-new-member-multiple-choice-test/?do=findComment&comment=184753)
 - [FIR/ARTCC codes for Australia](https://forums.vatsim.net/topic/32389-firartcc-codes-for-australia/?do=findComment&comment=184752)
 - [MSFS Frequency- Unwanted Changing](https://forums.vatsim.net/topic/32388-msfs-frequency-unwanted-changing/?do=findComment&comment=184751)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184750)
@@ -64,7 +65,6 @@
 - [vpilot livery](https://forums.vatsim.net/topic/32387-vpilot-livery/?do=findComment&comment=184746)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=184745)
 - [Vatsim Stats who&#39;s online broken](https://forums.vatsim.net/topic/32386-vatsim-stats-whos-online-broken/?do=findComment&comment=184744)
-- [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184743)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
