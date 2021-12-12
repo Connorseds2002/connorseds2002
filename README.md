@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184772)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184771)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184770)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184769)
 - [Tip: record your ATC sessions](https://forums.vatsim.net/topic/32392-tip-record-your-atc-sessions/?do=findComment&comment=184768)
 - [Where to do pilot tests?](https://forums.vatsim.net/topic/32391-where-to-do-pilot-tests/?do=findComment&comment=184767)
@@ -62,9 +65,6 @@
 - [Broken Audio](https://forums.vatsim.net/topic/32393-broken-audio/?do=findComment&comment=184765)
 - [Where to do pilot tests?](https://forums.vatsim.net/topic/32391-where-to-do-pilot-tests/?do=findComment&comment=184764)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184763)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184762)
-- [Tip: record your ATC sessions](https://forums.vatsim.net/topic/32392-tip-record-your-atc-sessions/?do=findComment&comment=184761)
-- [I can&#39;t find the new-member multiple choice test](https://forums.vatsim.net/topic/32390-i-cant-find-the-new-member-multiple-choice-test/?do=findComment&comment=184760)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
