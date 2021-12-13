@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to select PTT &lpar;push to talk&rpar; key](https://forums.vatsim.net/topic/32398-unable-to-select-ptt-push-to-talk-key/?do=findComment&comment=184822)
 - [[12th February 2022] CTL227 - Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/32297-12th-february-2022-ctl227-cross-the-land-westbound-2021/?do=findComment&comment=184821)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184820)
 - [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184819)
@@ -64,7 +65,6 @@
 - [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184815)
 - [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184814)
 - [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184813)
-- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=184812)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
