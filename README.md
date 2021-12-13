@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184815)
+- [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184814)
+- [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184813)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=184812)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184811)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184810)
@@ -62,9 +65,6 @@
 - [Unable to select PTT &lpar;push to talk&rpar; key](https://forums.vatsim.net/topic/32398-unable-to-select-ptt-push-to-talk-key/?do=findComment&comment=184808)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184807)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184806)
-- [Finally Austria 2021](https://forums.vatsim.net/topic/32339-finally-austria-2021/?do=findComment&comment=184805)
-- [Flying between regions](https://forums.vatsim.net/topic/32397-flying-between-regions/?do=findComment&comment=184804)
-- [Why bother flying on VATSIM?](https://forums.vatsim.net/topic/26062-why-bother-flying-on-vatsim/?do=findComment&comment=184803)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
