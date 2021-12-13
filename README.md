@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [BOG meeting minutes?](https://forums.vatsim.net/topic/32401-bog-meeting-minutes/?do=findComment&comment=184825)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=184824)
 - [ISSUE:  Some P0 exams are not working properly](https://forums.vatsim.net/topic/32373-issue-some-p0-exams-are-not-working-properly/?do=findComment&comment=184823)
 - [Unable to select PTT &lpar;push to talk&rpar; key](https://forums.vatsim.net/topic/32398-unable-to-select-ptt-push-to-talk-key/?do=findComment&comment=184822)
@@ -64,7 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184818)
 - [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184817)
 - [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184816)
-- [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184815)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
