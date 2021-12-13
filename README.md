@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problem with the P0 exam](https://forums.vatsim.net/topic/32402-problem-with-the-p0-exam/?do=findComment&comment=184834)
 - [1st Session. AFV does not connect to Sweatbox?](https://forums.vatsim.net/topic/32403-1st-session-afv-does-not-connect-to-sweatbox/?do=findComment&comment=184833)
 - [1st Session. AFV does not connect to Sweatbox?](https://forums.vatsim.net/topic/32403-1st-session-afv-does-not-connect-to-sweatbox/?do=findComment&comment=184832)
 - [BOG meeting minutes?](https://forums.vatsim.net/topic/32401-bog-meeting-minutes/?do=findComment&comment=184831)
@@ -64,7 +65,6 @@
 - [Problem with the P0 exam](https://forums.vatsim.net/topic/32402-problem-with-the-p0-exam/?do=findComment&comment=184827)
 - [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184826)
 - [BOG meeting minutes?](https://forums.vatsim.net/topic/32401-bog-meeting-minutes/?do=findComment&comment=184825)
-- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=184824)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
