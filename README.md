@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dec. 19 1700Z - Virtual United KDEN-KASE](https://forums.vatsim.net/topic/32399-dec-19-1700z-virtual-united-kden-kase/?do=findComment&comment=184809)
 - [Unable to select PTT &lpar;push to talk&rpar; key](https://forums.vatsim.net/topic/32398-unable-to-select-ptt-push-to-talk-key/?do=findComment&comment=184808)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184807)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184806)
@@ -64,7 +65,6 @@
 - [Flying between regions](https://forums.vatsim.net/topic/32397-flying-between-regions/?do=findComment&comment=184802)
 - [Where to do pilot tests?](https://forums.vatsim.net/topic/32391-where-to-do-pilot-tests/?do=findComment&comment=184801)
 - [Flying between regions](https://forums.vatsim.net/topic/32397-flying-between-regions/?do=findComment&comment=184800)
-- [Flying between regions](https://forums.vatsim.net/topic/32397-flying-between-regions/?do=findComment&comment=184799)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
