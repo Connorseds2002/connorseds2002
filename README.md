@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184807)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184806)
 - [Finally Austria 2021](https://forums.vatsim.net/topic/32339-finally-austria-2021/?do=findComment&comment=184805)
 - [Flying between regions](https://forums.vatsim.net/topic/32397-flying-between-regions/?do=findComment&comment=184804)
@@ -64,7 +65,6 @@
 - [Flying between regions](https://forums.vatsim.net/topic/32397-flying-between-regions/?do=findComment&comment=184800)
 - [Flying between regions](https://forums.vatsim.net/topic/32397-flying-between-regions/?do=findComment&comment=184799)
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=184798)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184797)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
