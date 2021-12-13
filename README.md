@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184819)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184818)
+- [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184817)
+- [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184816)
 - [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184815)
 - [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184814)
 - [No assigned Exams](https://forums.vatsim.net/topic/32400-no-assigned-exams/?do=findComment&comment=184813)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=184812)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184811)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184810)
-- [Dec. 19 1700Z - Virtual United KDEN-KASE](https://forums.vatsim.net/topic/32399-dec-19-1700z-virtual-united-kden-kase/?do=findComment&comment=184809)
-- [Unable to select PTT &lpar;push to talk&rpar; key](https://forums.vatsim.net/topic/32398-unable-to-select-ptt-push-to-talk-key/?do=findComment&comment=184808)
-- [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184807)
-- [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184806)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
