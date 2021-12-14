@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATCAR is Hiring...](https://forums.vatsim.net/topic/17630-vatcar-is-hiring/?do=findComment&comment=184841)
 - [VATCAR is Hiring...](https://forums.vatsim.net/topic/17630-vatcar-is-hiring/?do=findComment&comment=184840)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184839)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184838)
@@ -64,7 +65,6 @@
 - [Problem with the P0 exam](https://forums.vatsim.net/topic/32402-problem-with-the-p0-exam/?do=findComment&comment=184834)
 - [1st Session. AFV does not connect to Sweatbox?](https://forums.vatsim.net/topic/32403-1st-session-afv-does-not-connect-to-sweatbox/?do=findComment&comment=184833)
 - [1st Session. AFV does not connect to Sweatbox?](https://forums.vatsim.net/topic/32403-1st-session-afv-does-not-connect-to-sweatbox/?do=findComment&comment=184832)
-- [BOG meeting minutes?](https://forums.vatsim.net/topic/32401-bog-meeting-minutes/?do=findComment&comment=184831)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
