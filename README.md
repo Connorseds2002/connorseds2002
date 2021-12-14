@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184846)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184845)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184844)
 - [ACCNPL2 - Deputy Director Resignation.](https://forums.vatsim.net/topic/32406-accnpl2-deputy-director-resignation/?do=findComment&comment=184843)
@@ -64,7 +65,6 @@
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184839)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184838)
 - [VATSIM Newbie Event - Atlanta Overload [22 Jan 2200z-0300z]](https://forums.vatsim.net/topic/32405-vatsim-newbie-event-atlanta-overload-22-jan-2200z-0300z/?do=findComment&comment=184837)
-- [[Dec 18] Canadian Xpress December 2021 Monthly Fly-In - Bora Bora](https://forums.vatsim.net/topic/32404-dec-18-canadian-xpress-december-2021-monthly-fly-in-bora-bora/?do=findComment&comment=184836)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
