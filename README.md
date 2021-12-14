@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184838)
+- [VATSIM Newbie Event - Atlanta Overload [22 Jan 2200z-0300z]](https://forums.vatsim.net/topic/32405-vatsim-newbie-event-atlanta-overload-22-jan-2200z-0300z/?do=findComment&comment=184837)
 - [[Dec 18] Canadian Xpress December 2021 Monthly Fly-In - Bora Bora](https://forums.vatsim.net/topic/32404-dec-18-canadian-xpress-december-2021-monthly-fly-in-bora-bora/?do=findComment&comment=184836)
 - [1st Session. AFV does not connect to Sweatbox?](https://forums.vatsim.net/topic/32403-1st-session-afv-does-not-connect-to-sweatbox/?do=findComment&comment=184835)
 - [Problem with the P0 exam](https://forums.vatsim.net/topic/32402-problem-with-the-p0-exam/?do=findComment&comment=184834)
@@ -63,8 +65,6 @@
 - [BOG meeting minutes?](https://forums.vatsim.net/topic/32401-bog-meeting-minutes/?do=findComment&comment=184831)
 - [Problem with the P0 exam](https://forums.vatsim.net/topic/32402-problem-with-the-p0-exam/?do=findComment&comment=184830)
 - [1st Session. AFV does not connect to Sweatbox?](https://forums.vatsim.net/topic/32403-1st-session-afv-does-not-connect-to-sweatbox/?do=findComment&comment=184829)
-- [1st Session. AFV does not connect to Sweatbox?](https://forums.vatsim.net/topic/32403-1st-session-afv-does-not-connect-to-sweatbox/?do=findComment&comment=184828)
-- [Problem with the P0 exam](https://forums.vatsim.net/topic/32402-problem-with-the-p0-exam/?do=findComment&comment=184827)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
