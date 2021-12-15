@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=184858)
+- [VPilot remote IP address wrong](https://forums.vatsim.net/topic/32385-vpilot-remote-ip-address-wrong/?do=findComment&comment=184857)
 - [Euroscope Ground Filter Bug](https://forums.vatsim.net/topic/32336-euroscope-ground-filter-bug/?do=findComment&comment=184856)
 - [New to VATSIM? We&#39;re here to help you!](https://forums.vatsim.net/topic/32409-new-to-vatsim-were-here-to-help-you/?do=findComment&comment=184855)
 - [ACCNPL2 - Deputy Director Resignation.](https://forums.vatsim.net/topic/32406-accnpl2-deputy-director-resignation/?do=findComment&comment=184854)
@@ -63,8 +65,6 @@
 - [[APPOINTMENT] Adria vACC Director](https://forums.vatsim.net/topic/32355-appointment-adria-vacc-director/?do=findComment&comment=184851)
 - [VPilot remote IP address wrong](https://forums.vatsim.net/topic/32385-vpilot-remote-ip-address-wrong/?do=findComment&comment=184850)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184849)
-- [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184848)
-- [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184847)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
