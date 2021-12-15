@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Issue with incoming audio](https://forums.vatsim.net/topic/32411-issue-with-incoming-audio/?do=findComment&comment=184866)
+- [ATC and the view from the simulator to the planes](https://forums.vatsim.net/topic/32407-atc-and-the-view-from-the-simulator-to-the-planes/?do=findComment&comment=184865)
+- [Model Matching in MSFS: Give me the scoop on any news](https://forums.vatsim.net/topic/32410-model-matching-in-msfs-give-me-the-scoop-on-any-news/?do=findComment&comment=184864)
 - [Euroscope SMR creation software](https://forums.vatsim.net/topic/32412-euroscope-smr-creation-software/?do=findComment&comment=184863)
 - [Euroscope SMR creation software](https://forums.vatsim.net/topic/32412-euroscope-smr-creation-software/?do=findComment&comment=184862)
 - [Issue with incoming audio](https://forums.vatsim.net/topic/32411-issue-with-incoming-audio/?do=findComment&comment=184861)
@@ -62,9 +65,6 @@
 - [Model Matching in MSFS: Give me the scoop on any news](https://forums.vatsim.net/topic/32410-model-matching-in-msfs-give-me-the-scoop-on-any-news/?do=findComment&comment=184859)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=184858)
 - [VPilot remote IP address wrong](https://forums.vatsim.net/topic/32385-vpilot-remote-ip-address-wrong/?do=findComment&comment=184857)
-- [Euroscope Ground Filter Bug](https://forums.vatsim.net/topic/32336-euroscope-ground-filter-bug/?do=findComment&comment=184856)
-- [New to VATSIM? We&#39;re here to help you!](https://forums.vatsim.net/topic/32409-new-to-vatsim-were-here-to-help-you/?do=findComment&comment=184855)
-- [ACCNPL2 - Deputy Director Resignation.](https://forums.vatsim.net/topic/32406-accnpl2-deputy-director-resignation/?do=findComment&comment=184854)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
