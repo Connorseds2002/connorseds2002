@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New to VATSIM? We&#39;re here to help you!](https://forums.vatsim.net/topic/32409-new-to-vatsim-were-here-to-help-you/?do=findComment&comment=184855)
+- [ACCNPL2 - Deputy Director Resignation.](https://forums.vatsim.net/topic/32406-accnpl2-deputy-director-resignation/?do=findComment&comment=184854)
+- [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=184853)
 - [ATC and the view from the simulator to the planes](https://forums.vatsim.net/topic/32407-atc-and-the-view-from-the-simulator-to-the-planes/?do=findComment&comment=184852)
 - [[APPOINTMENT] Adria vACC Director](https://forums.vatsim.net/topic/32355-appointment-adria-vacc-director/?do=findComment&comment=184851)
 - [VPilot remote IP address wrong](https://forums.vatsim.net/topic/32385-vpilot-remote-ip-address-wrong/?do=findComment&comment=184850)
@@ -62,9 +65,6 @@
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184848)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184847)
 - [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184846)
-- [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184845)
-- [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184844)
-- [ACCNPL2 - Deputy Director Resignation.](https://forums.vatsim.net/topic/32406-accnpl2-deputy-director-resignation/?do=findComment&comment=184843)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
