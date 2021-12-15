@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope Ground Filter Bug](https://forums.vatsim.net/topic/32336-euroscope-ground-filter-bug/?do=findComment&comment=184856)
 - [New to VATSIM? We&#39;re here to help you!](https://forums.vatsim.net/topic/32409-new-to-vatsim-were-here-to-help-you/?do=findComment&comment=184855)
 - [ACCNPL2 - Deputy Director Resignation.](https://forums.vatsim.net/topic/32406-accnpl2-deputy-director-resignation/?do=findComment&comment=184854)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=184853)
@@ -64,7 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184849)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=184848)
 - [vPilot 2.8.4 Released](https://forums.vatsim.net/topic/32294-vpilot-284-released/?do=findComment&comment=184847)
-- [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184846)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
