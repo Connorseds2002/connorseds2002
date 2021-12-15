@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184860)
+- [Model Matching in MSFS: Give me the scoop on any news](https://forums.vatsim.net/topic/32410-model-matching-in-msfs-give-me-the-scoop-on-any-news/?do=findComment&comment=184859)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=184858)
 - [VPilot remote IP address wrong](https://forums.vatsim.net/topic/32385-vpilot-remote-ip-address-wrong/?do=findComment&comment=184857)
 - [Euroscope Ground Filter Bug](https://forums.vatsim.net/topic/32336-euroscope-ground-filter-bug/?do=findComment&comment=184856)
@@ -63,8 +65,6 @@
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=184853)
 - [ATC and the view from the simulator to the planes](https://forums.vatsim.net/topic/32407-atc-and-the-view-from-the-simulator-to-the-planes/?do=findComment&comment=184852)
 - [[APPOINTMENT] Adria vACC Director](https://forums.vatsim.net/topic/32355-appointment-adria-vacc-director/?do=findComment&comment=184851)
-- [VPilot remote IP address wrong](https://forums.vatsim.net/topic/32385-vpilot-remote-ip-address-wrong/?do=findComment&comment=184850)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184849)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
