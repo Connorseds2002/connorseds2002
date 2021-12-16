@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184872)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184871)
 - [ACCNPL2 - Deputy Director Resignation.](https://forums.vatsim.net/topic/32406-accnpl2-deputy-director-resignation/?do=findComment&comment=184870)
 - [Issue with incoming audio](https://forums.vatsim.net/topic/32411-issue-with-incoming-audio/?do=findComment&comment=184869)
@@ -64,7 +65,6 @@
 - [ATC and the view from the simulator to the planes](https://forums.vatsim.net/topic/32407-atc-and-the-view-from-the-simulator-to-the-planes/?do=findComment&comment=184865)
 - [Model Matching in MSFS: Give me the scoop on any news](https://forums.vatsim.net/topic/32410-model-matching-in-msfs-give-me-the-scoop-on-any-news/?do=findComment&comment=184864)
 - [Euroscope SMR creation software](https://forums.vatsim.net/topic/32412-euroscope-smr-creation-software/?do=findComment&comment=184863)
-- [Euroscope SMR creation software](https://forums.vatsim.net/topic/32412-euroscope-smr-creation-software/?do=findComment&comment=184862)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
