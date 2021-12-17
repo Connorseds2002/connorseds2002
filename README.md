@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Should XPILOT work with the SSG 747 &amp; FF757](https://forums.vatsim.net/topic/30479-should-xpilot-work-with-the-ssg-747-ff757/?do=findComment&comment=184875)
 - [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=184874)
 - [Issue with incoming audio](https://forums.vatsim.net/topic/32411-issue-with-incoming-audio/?do=findComment&comment=184873)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=184872)
@@ -64,7 +65,6 @@
 - [VPilot remote IP address wrong](https://forums.vatsim.net/topic/32385-vpilot-remote-ip-address-wrong/?do=findComment&comment=184868)
 - [Model Matching in MSFS: Give me the scoop on any news](https://forums.vatsim.net/topic/32410-model-matching-in-msfs-give-me-the-scoop-on-any-news/?do=findComment&comment=184867)
 - [Issue with incoming audio](https://forums.vatsim.net/topic/32411-issue-with-incoming-audio/?do=findComment&comment=184866)
-- [ATC and the view from the simulator to the planes](https://forums.vatsim.net/topic/32407-atc-and-the-view-from-the-simulator-to-the-planes/?do=findComment&comment=184865)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
