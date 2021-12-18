@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Qutescoop] Updated airspace and airport data available](https://forums.vatsim.net/topic/28027-qutescoop-updated-airspace-and-airport-data-available/?do=findComment&comment=184888)
 - [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184887)
 - [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184886)
 - [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184885)
@@ -64,7 +65,6 @@
 - [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184881)
 - [Issue with incoming audio](https://forums.vatsim.net/topic/32411-issue-with-incoming-audio/?do=findComment&comment=184880)
 - [Should XPILOT work with the SSG 747 &amp; FF757](https://forums.vatsim.net/topic/30479-should-xpilot-work-with-the-ssg-747-ff757/?do=findComment&comment=184879)
-- [[January 8th, 16:00z-20:00z] Saturday Adventure](https://forums.vatsim.net/topic/32414-january-8th-1600z-2000z-saturday-adventure/?do=findComment&comment=184877)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
