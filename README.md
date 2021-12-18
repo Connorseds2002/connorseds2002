@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184885)
+- [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184884)
 - [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=184883)
 - [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184882)
 - [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184881)
@@ -63,8 +65,6 @@
 - [[January 8th, 16:00z-20:00z] Saturday Adventure](https://forums.vatsim.net/topic/32414-january-8th-1600z-2000z-saturday-adventure/?do=findComment&comment=184877)
 - [&lpar;ACCNPL2&rpar; Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/32413-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=184876)
 - [Should XPILOT work with the SSG 747 &amp; FF757](https://forums.vatsim.net/topic/30479-should-xpilot-work-with-the-ssg-747-ff757/?do=findComment&comment=184875)
-- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=184874)
-- [Issue with incoming audio](https://forums.vatsim.net/topic/32411-issue-with-incoming-audio/?do=findComment&comment=184873)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
