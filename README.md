@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184891)
 - [Broken Audio](https://forums.vatsim.net/topic/32393-broken-audio/?do=findComment&comment=184890)
 - [[Qutescoop] Updated airspace and airport data available](https://forums.vatsim.net/topic/28027-qutescoop-updated-airspace-and-airport-data-available/?do=findComment&comment=184889)
 - [[Qutescoop] Updated airspace and airport data available](https://forums.vatsim.net/topic/28027-qutescoop-updated-airspace-and-airport-data-available/?do=findComment&comment=184888)
@@ -64,7 +65,6 @@
 - [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184884)
 - [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=184883)
 - [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184882)
-- [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184881)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
