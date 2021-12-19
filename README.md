@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Exam failed, but I dind`t do a exam](https://forums.vatsim.net/topic/32421-exam-failed-but-i-dindt-do-a-exam/?do=findComment&comment=184910)
+- [question about atc career](https://forums.vatsim.net/topic/32423-question-about-atc-career/?do=findComment&comment=184909)
+- [Euroscope Saving Issues](https://forums.vatsim.net/topic/32396-euroscope-saving-issues/?do=findComment&comment=184908)
 - [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184907)
 - [[VACANCY] vACC Director - Hungary](https://forums.vatsim.net/topic/32422-vacancy-vacc-director-hungary/?do=findComment&comment=184906)
 - [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184905)
@@ -62,9 +65,6 @@
 - [Massive voice lag/stuttering issue](https://forums.vatsim.net/topic/32417-massive-voice-lagstuttering-issue/?do=findComment&comment=184903)
 - [Massive voice lag/stuttering issue](https://forums.vatsim.net/topic/32417-massive-voice-lagstuttering-issue/?do=findComment&comment=184902)
 - [INVALID ICAO codes on FS2020-Caution!](https://forums.vatsim.net/topic/32420-invalid-icao-codes-on-fs2020-caution/?do=findComment&comment=184901)
-- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=184900)
-- [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184899)
-- [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184898)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
