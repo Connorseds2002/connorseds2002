@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184905)
 - [Exam failed, but I dind`t do a exam](https://forums.vatsim.net/topic/32421-exam-failed-but-i-dindt-do-a-exam/?do=findComment&comment=184904)
 - [Massive voice lag/stuttering issue](https://forums.vatsim.net/topic/32417-massive-voice-lagstuttering-issue/?do=findComment&comment=184903)
 - [Massive voice lag/stuttering issue](https://forums.vatsim.net/topic/32417-massive-voice-lagstuttering-issue/?do=findComment&comment=184902)
@@ -64,7 +65,6 @@
 - [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184898)
 - [Sid and Stars charts for FSX  &lpar;2010&rpar;](https://forums.vatsim.net/topic/32419-sid-and-stars-charts-for-fsx-2010/?do=findComment&comment=184897)
 - [Sid and Stars charts for FSX  &lpar;2010&rpar;](https://forums.vatsim.net/topic/32419-sid-and-stars-charts-for-fsx-2010/?do=findComment&comment=184896)
-- [vPilot download not working.](https://forums.vatsim.net/topic/32418-vpilot-download-not-working/?do=findComment&comment=184895)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
