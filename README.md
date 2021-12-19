@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Massive voice lag/stuttering issue](https://forums.vatsim.net/topic/32417-massive-voice-lagstuttering-issue/?do=findComment&comment=184902)
 - [INVALID ICAO codes on FS2020-Caution!](https://forums.vatsim.net/topic/32420-invalid-icao-codes-on-fs2020-caution/?do=findComment&comment=184901)
 - [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=184900)
 - [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184899)
@@ -64,7 +65,6 @@
 - [vPilot download not working.](https://forums.vatsim.net/topic/32418-vpilot-download-not-working/?do=findComment&comment=184895)
 - [Massive voice lag/stuttering issue](https://forums.vatsim.net/topic/32417-massive-voice-lagstuttering-issue/?do=findComment&comment=184894)
 - [vPilot  causing massive fps drops and low performance on MSFS 2020 in Windows 11](https://forums.vatsim.net/topic/31794-vpilot-causing-massive-fps-drops-and-low-performance-on-msfs-2020-in-windows-11/?do=findComment&comment=184893)
-- [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=184892)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
