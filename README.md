@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot download not working.](https://forums.vatsim.net/topic/32418-vpilot-download-not-working/?do=findComment&comment=184912)
+- [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184911)
 - [Exam failed, but I dind`t do a exam](https://forums.vatsim.net/topic/32421-exam-failed-but-i-dindt-do-a-exam/?do=findComment&comment=184910)
 - [question about atc career](https://forums.vatsim.net/topic/32423-question-about-atc-career/?do=findComment&comment=184909)
 - [Euroscope Saving Issues](https://forums.vatsim.net/topic/32396-euroscope-saving-issues/?do=findComment&comment=184908)
@@ -63,8 +65,6 @@
 - [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184905)
 - [Exam failed, but I dind`t do a exam](https://forums.vatsim.net/topic/32421-exam-failed-but-i-dindt-do-a-exam/?do=findComment&comment=184904)
 - [Massive voice lag/stuttering issue](https://forums.vatsim.net/topic/32417-massive-voice-lagstuttering-issue/?do=findComment&comment=184903)
-- [Massive voice lag/stuttering issue](https://forums.vatsim.net/topic/32417-massive-voice-lagstuttering-issue/?do=findComment&comment=184902)
-- [INVALID ICAO codes on FS2020-Caution!](https://forums.vatsim.net/topic/32420-invalid-icao-codes-on-fs2020-caution/?do=findComment&comment=184901)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
