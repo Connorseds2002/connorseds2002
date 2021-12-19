@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184907)
+- [[VACANCY] vACC Director - Hungary](https://forums.vatsim.net/topic/32422-vacancy-vacc-director-hungary/?do=findComment&comment=184906)
 - [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184905)
 - [Exam failed, but I dind`t do a exam](https://forums.vatsim.net/topic/32421-exam-failed-but-i-dindt-do-a-exam/?do=findComment&comment=184904)
 - [Massive voice lag/stuttering issue](https://forums.vatsim.net/topic/32417-massive-voice-lagstuttering-issue/?do=findComment&comment=184903)
@@ -63,8 +65,6 @@
 - [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=184900)
 - [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184899)
 - [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184898)
-- [Sid and Stars charts for FSX  &lpar;2010&rpar;](https://forums.vatsim.net/topic/32419-sid-and-stars-charts-for-fsx-2010/?do=findComment&comment=184897)
-- [Sid and Stars charts for FSX  &lpar;2010&rpar;](https://forums.vatsim.net/topic/32419-sid-and-stars-charts-for-fsx-2010/?do=findComment&comment=184896)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
