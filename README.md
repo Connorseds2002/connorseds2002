@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy would not run.](https://forums.vatsim.net/topic/30856-vat-spy-would-not-run/?do=findComment&comment=184900)
 - [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184899)
 - [New Pilot Questions](https://forums.vatsim.net/topic/32415-new-pilot-questions/?do=findComment&comment=184898)
 - [Sid and Stars charts for FSX  &lpar;2010&rpar;](https://forums.vatsim.net/topic/32419-sid-and-stars-charts-for-fsx-2010/?do=findComment&comment=184897)
@@ -64,7 +65,6 @@
 - [vPilot  causing massive fps drops and low performance on MSFS 2020 in Windows 11](https://forums.vatsim.net/topic/31794-vpilot-causing-massive-fps-drops-and-low-performance-on-msfs-2020-in-windows-11/?do=findComment&comment=184893)
 - [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=184892)
 - [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184891)
-- [Broken Audio](https://forums.vatsim.net/topic/32393-broken-audio/?do=findComment&comment=184890)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
