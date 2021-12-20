@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184923)
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184922)
 - [question about atc career](https://forums.vatsim.net/topic/32423-question-about-atc-career/?do=findComment&comment=184921)
 - [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184920)
@@ -64,7 +65,6 @@
 - [&amp;quot;Hot Micing&amp;quot; in Vpilot](https://forums.vatsim.net/topic/24440-quothot-micingquot-in-vpilot/?do=findComment&comment=184916)
 - [question about atc career](https://forums.vatsim.net/topic/32423-question-about-atc-career/?do=findComment&comment=184915)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184914)
-- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184913)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
