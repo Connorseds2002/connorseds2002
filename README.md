@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=184917)
+- [&amp;quot;Hot Micing&amp;quot; in Vpilot](https://forums.vatsim.net/topic/24440-quothot-micingquot-in-vpilot/?do=findComment&comment=184916)
+- [question about atc career](https://forums.vatsim.net/topic/32423-question-about-atc-career/?do=findComment&comment=184915)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184914)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184913)
 - [vPilot download not working.](https://forums.vatsim.net/topic/32418-vpilot-download-not-working/?do=findComment&comment=184912)
@@ -62,9 +65,6 @@
 - [Exam failed, but I dind`t do a exam](https://forums.vatsim.net/topic/32421-exam-failed-but-i-dindt-do-a-exam/?do=findComment&comment=184910)
 - [question about atc career](https://forums.vatsim.net/topic/32423-question-about-atc-career/?do=findComment&comment=184909)
 - [Euroscope Saving Issues](https://forums.vatsim.net/topic/32396-euroscope-saving-issues/?do=findComment&comment=184908)
-- [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184907)
-- [[VACANCY] vACC Director - Hungary](https://forums.vatsim.net/topic/32422-vacancy-vacc-director-hungary/?do=findComment&comment=184906)
-- [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=184905)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
