@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [looking for a milsim](https://forums.vatsim.net/topic/32432-looking-for-a-milsim/?do=findComment&comment=184942)
+- [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=184941)
 - [LARSHA PEKHAWAR TA!](https://forums.vatsim.net/topic/32431-larsha-pekhawar-ta/?do=findComment&comment=184940)
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184939)
 - [Private Message beep too loud!](https://forums.vatsim.net/topic/27147-private-message-beep-too-loud/?do=findComment&comment=184938)
@@ -63,8 +65,6 @@
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184935)
 - [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184934)
 - [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184933)
-- [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184932)
-- [Position Opening: Hong Kong VACC - Manager, Events &lpar;ACCHKG7&rpar;](https://forums.vatsim.net/topic/32429-position-opening-hong-kong-vacc-manager-events-acchkg7/?do=findComment&comment=184931)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
