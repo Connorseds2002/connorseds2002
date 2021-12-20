@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=184937)
+- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184936)
+- [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184935)
+- [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184934)
 - [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184933)
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184932)
 - [Position Opening: Hong Kong VACC - Manager, Events &lpar;ACCHKG7&rpar;](https://forums.vatsim.net/topic/32429-position-opening-hong-kong-vacc-manager-events-acchkg7/?do=findComment&comment=184931)
 - [Position Opening: Hong Kong VACC - Manager, Training &lpar;ACCHKG3&rpar;](https://forums.vatsim.net/topic/32428-position-opening-hong-kong-vacc-manager-training-acchkg3/?do=findComment&comment=184930)
 - [Position Opening: Hong Kong VACC - Manager, Publications &lpar;ACCHKG5&rpar;](https://forums.vatsim.net/topic/32427-position-opening-hong-kong-vacc-manager-publications-acchkg5/?do=findComment&comment=184929)
 - [Exam failed, but I dind`t do a exam](https://forums.vatsim.net/topic/32421-exam-failed-but-i-dindt-do-a-exam/?do=findComment&comment=184928)
-- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184927)
-- [Position Vacancy - Special Operations Regional Advisor - Oceania](https://forums.vatsim.net/topic/32426-position-vacancy-special-operations-regional-advisor-oceania/?do=findComment&comment=184926)
-- [Position Vacancy - Special Operations Regional Advisor - USA](https://forums.vatsim.net/topic/32113-position-vacancy-special-operations-regional-advisor-usa/?do=findComment&comment=184925)
-- [Opportunity - Chief Flight Instructor Special Operations](https://forums.vatsim.net/topic/32112-opportunity-chief-flight-instructor-special-operations/?do=findComment&comment=184924)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
