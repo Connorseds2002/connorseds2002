@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184927)
 - [Position Vacancy - Special Operations Regional Advisor - Oceania](https://forums.vatsim.net/topic/32426-position-vacancy-special-operations-regional-advisor-oceania/?do=findComment&comment=184926)
 - [Position Vacancy - Special Operations Regional Advisor - USA](https://forums.vatsim.net/topic/32113-position-vacancy-special-operations-regional-advisor-usa/?do=findComment&comment=184925)
 - [Opportunity - Chief Flight Instructor Special Operations](https://forums.vatsim.net/topic/32112-opportunity-chief-flight-instructor-special-operations/?do=findComment&comment=184924)
@@ -64,7 +65,6 @@
 - [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184920)
 - [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184919)
 - [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184918)
-- [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=184917)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
