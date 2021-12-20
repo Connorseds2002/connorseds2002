@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184933)
+- [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184932)
 - [Position Opening: Hong Kong VACC - Manager, Events &lpar;ACCHKG7&rpar;](https://forums.vatsim.net/topic/32429-position-opening-hong-kong-vacc-manager-events-acchkg7/?do=findComment&comment=184931)
 - [Position Opening: Hong Kong VACC - Manager, Training &lpar;ACCHKG3&rpar;](https://forums.vatsim.net/topic/32428-position-opening-hong-kong-vacc-manager-training-acchkg3/?do=findComment&comment=184930)
 - [Position Opening: Hong Kong VACC - Manager, Publications &lpar;ACCHKG5&rpar;](https://forums.vatsim.net/topic/32427-position-opening-hong-kong-vacc-manager-publications-acchkg5/?do=findComment&comment=184929)
@@ -63,8 +65,6 @@
 - [Position Vacancy - Special Operations Regional Advisor - Oceania](https://forums.vatsim.net/topic/32426-position-vacancy-special-operations-regional-advisor-oceania/?do=findComment&comment=184926)
 - [Position Vacancy - Special Operations Regional Advisor - USA](https://forums.vatsim.net/topic/32113-position-vacancy-special-operations-regional-advisor-usa/?do=findComment&comment=184925)
 - [Opportunity - Chief Flight Instructor Special Operations](https://forums.vatsim.net/topic/32112-opportunity-chief-flight-instructor-special-operations/?do=findComment&comment=184924)
-- [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184923)
-- [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184922)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
