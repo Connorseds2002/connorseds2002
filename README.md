@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Exam failed, but I dind`t do a exam](https://forums.vatsim.net/topic/32421-exam-failed-but-i-dindt-do-a-exam/?do=findComment&comment=184928)
 - [Usage of UNICOM](https://forums.vatsim.net/topic/27680-usage-of-unicom/?do=findComment&comment=184927)
 - [Position Vacancy - Special Operations Regional Advisor - Oceania](https://forums.vatsim.net/topic/32426-position-vacancy-special-operations-regional-advisor-oceania/?do=findComment&comment=184926)
 - [Position Vacancy - Special Operations Regional Advisor - USA](https://forums.vatsim.net/topic/32113-position-vacancy-special-operations-regional-advisor-usa/?do=findComment&comment=184925)
@@ -64,7 +65,6 @@
 - [question about atc career](https://forums.vatsim.net/topic/32423-question-about-atc-career/?do=findComment&comment=184921)
 - [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184920)
 - [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184919)
-- [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184918)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
