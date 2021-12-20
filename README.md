@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184943)
 - [looking for a milsim](https://forums.vatsim.net/topic/32432-looking-for-a-milsim/?do=findComment&comment=184942)
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=184941)
 - [LARSHA PEKHAWAR TA!](https://forums.vatsim.net/topic/32431-larsha-pekhawar-ta/?do=findComment&comment=184940)
@@ -64,7 +65,6 @@
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184936)
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184935)
 - [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184934)
-- [EDST](https://forums.vatsim.net/topic/32424-edst/?do=findComment&comment=184933)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
