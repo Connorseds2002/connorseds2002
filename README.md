@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Able to Transmit but Not Receive](https://forums.vatsim.net/topic/32435-able-to-transmit-but-not-receive/?do=findComment&comment=184954)
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=184953)
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=184952)
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184951)
@@ -64,7 +65,6 @@
 - [vectored in for ILS approach a few times and controller does not vector me on final runway heading? is this normal happened a few times](https://forums.vatsim.net/topic/32433-vectored-in-for-ils-approach-a-few-times-and-controller-does-not-vector-me-on-final-runway-heading-is-this-normal-happened-a-few-times/?do=findComment&comment=184947)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=184946)
 - [vectored in for ILS approach a few times and controller does not vector me on final runway heading? is this normal happened a few times](https://forums.vatsim.net/topic/32433-vectored-in-for-ils-approach-a-few-times-and-controller-does-not-vector-me-on-final-runway-heading-is-this-normal-happened-a-few-times/?do=findComment&comment=184945)
-- [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=184944)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
