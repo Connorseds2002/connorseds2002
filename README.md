@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=184966)
 - [[VACANCY] Jordan vACC Deputy Director &lpar;ACCJO2&rpar;](https://forums.vatsim.net/topic/32437-vacancy-jordan-vacc-deputy-director-accjo2/?do=findComment&comment=184965)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=184964)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=184963)
@@ -64,7 +65,6 @@
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=184959)
 - [How can I make the xPilot UI visible in WMR/VR with X-Plane11?](https://forums.vatsim.net/topic/32346-how-can-i-make-the-xpilot-ui-visible-in-wmrvr-with-x-plane11/?do=findComment&comment=184958)
 - [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184957)
-- [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=184956)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
