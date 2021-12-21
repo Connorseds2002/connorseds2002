@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184972)
 - [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184971)
 - [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184970)
 - [Able to Transmit but Not Receive](https://forums.vatsim.net/topic/32435-able-to-transmit-but-not-receive/?do=findComment&comment=184969)
@@ -64,7 +65,6 @@
 - [[VACANCY] Jordan vACC Deputy Director &lpar;ACCJO2&rpar;](https://forums.vatsim.net/topic/32437-vacancy-jordan-vacc-deputy-director-accjo2/?do=findComment&comment=184965)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=184964)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=184963)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=184962)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
