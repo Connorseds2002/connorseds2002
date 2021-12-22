@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184987)
+- [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184986)
 - [Sims](https://forums.vatsim.net/topic/32439-sims/?do=findComment&comment=184985)
 - [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184984)
 - [vectored in for ILS approach a few times and controller does not vector me on final runway heading? is this normal happened a few times](https://forums.vatsim.net/topic/32433-vectored-in-for-ils-approach-a-few-times-and-controller-does-not-vector-me-on-final-runway-heading-is-this-normal-happened-a-few-times/?do=findComment&comment=184983)
@@ -63,8 +65,6 @@
 - [P3D 5.3 freezing when flying online around big airports](https://forums.vatsim.net/topic/32361-p3d-53-freezing-when-flying-online-around-big-airports/?do=findComment&comment=184980)
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184979)
 - [Private Message beep too loud!](https://forums.vatsim.net/topic/27147-private-message-beep-too-loud/?do=findComment&comment=184978)
-- [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=184977)
-- [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184976)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
