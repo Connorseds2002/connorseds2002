@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Massive voice lag/stuttering issue](https://forums.vatsim.net/topic/32417-massive-voice-lagstuttering-issue/?do=findComment&comment=184994)
+- [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184993)
+- [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184992)
 - [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184991)
 - [SimAware Bug](https://forums.vatsim.net/topic/27033-simaware-bug/?do=findComment&comment=184990)
 - [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184989)
@@ -62,9 +65,6 @@
 - [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184987)
 - [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184986)
 - [Sims](https://forums.vatsim.net/topic/32439-sims/?do=findComment&comment=184985)
-- [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184984)
-- [vectored in for ILS approach a few times and controller does not vector me on final runway heading? is this normal happened a few times](https://forums.vatsim.net/topic/32433-vectored-in-for-ils-approach-a-few-times-and-controller-does-not-vector-me-on-final-runway-heading-is-this-normal-happened-a-few-times/?do=findComment&comment=184983)
-- [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184982)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
