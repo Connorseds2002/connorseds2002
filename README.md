@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=184979)
 - [Private Message beep too loud!](https://forums.vatsim.net/topic/27147-private-message-beep-too-loud/?do=findComment&comment=184978)
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=184977)
 - [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184976)
@@ -64,7 +65,6 @@
 - [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184972)
 - [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184971)
 - [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184970)
-- [Able to Transmit but Not Receive](https://forums.vatsim.net/topic/32435-able-to-transmit-but-not-receive/?do=findComment&comment=184969)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
