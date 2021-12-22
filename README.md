@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184999)
+- [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184998)
 - [Where to do pilot tests?](https://forums.vatsim.net/topic/32391-where-to-do-pilot-tests/?do=findComment&comment=184997)
 - [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184996)
 - [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184995)
@@ -63,8 +65,6 @@
 - [Taxi signs and taxiways in MSFS problem for online flying](https://forums.vatsim.net/topic/32307-taxi-signs-and-taxiways-in-msfs-problem-for-online-flying/?do=findComment&comment=184992)
 - [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184991)
 - [SimAware Bug](https://forums.vatsim.net/topic/27033-simaware-bug/?do=findComment&comment=184990)
-- [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184989)
-- [Sims](https://forums.vatsim.net/topic/32439-sims/?do=findComment&comment=184988)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
