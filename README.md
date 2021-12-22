@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sims](https://forums.vatsim.net/topic/32439-sims/?do=findComment&comment=184985)
+- [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184984)
 - [vectored in for ILS approach a few times and controller does not vector me on final runway heading? is this normal happened a few times](https://forums.vatsim.net/topic/32433-vectored-in-for-ils-approach-a-few-times-and-controller-does-not-vector-me-on-final-runway-heading-is-this-normal-happened-a-few-times/?do=findComment&comment=184983)
 - [Need a few tips](https://forums.vatsim.net/topic/32434-need-a-few-tips/?do=findComment&comment=184982)
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=184981)
@@ -63,8 +65,6 @@
 - [Private Message beep too loud!](https://forums.vatsim.net/topic/27147-private-message-beep-too-loud/?do=findComment&comment=184978)
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=184977)
 - [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184976)
-- [Been away from Vatsim for quite some time...what AI models do you guys recommend for MSFS?](https://forums.vatsim.net/topic/32438-been-away-from-vatsim-for-quite-some-timewhat-ai-models-do-you-guys-recommend-for-msfs/?do=findComment&comment=184975)
-- [How can I make the xPilot UI visible in WMR/VR with X-Plane11?](https://forums.vatsim.net/topic/32346-how-can-i-make-the-xpilot-ui-visible-in-wmrvr-with-x-plane11/?do=findComment&comment=184974)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
