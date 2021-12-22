@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SimConnect Error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32440-simconnect-error-illegal_operation-25/?do=findComment&comment=185013)
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=185012)
 - [Private Message beep too loud!](https://forums.vatsim.net/topic/27147-private-message-beep-too-loud/?do=findComment&comment=185011)
 - [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=185010)
@@ -64,7 +65,6 @@
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=185006)
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=185005)
 - [ATIS not working?](https://forums.vatsim.net/topic/28050-atis-not-working/?do=findComment&comment=185004)
-- [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=185003)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
