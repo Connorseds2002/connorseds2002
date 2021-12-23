@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=185024)
+- [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=185023)
 - [Freq&lpar;s&rpar; not showing up in com 1 &amp; 2 &lpar;also wrong frequencies in sidebar&rpar;](https://forums.vatsim.net/topic/32442-freqs-not-showing-up-in-com-1-2-also-wrong-frequencies-in-sidebar/?do=findComment&comment=185022)
 - [Happy Holidays from VATEUD](https://forums.vatsim.net/topic/32441-happy-holidays-from-vateud/?do=findComment&comment=185021)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=185020)
@@ -63,8 +65,6 @@
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=185017)
 - [Freq&lpar;s&rpar; not showing up in com 1 &amp; 2 &lpar;also wrong frequencies in sidebar&rpar;](https://forums.vatsim.net/topic/32442-freqs-not-showing-up-in-com-1-2-also-wrong-frequencies-in-sidebar/?do=findComment&comment=185016)
 - [Happy Holidays from VATEUD](https://forums.vatsim.net/topic/32441-happy-holidays-from-vateud/?do=findComment&comment=185015)
-- [Happy Holidays from VATEUD](https://forums.vatsim.net/topic/32441-happy-holidays-from-vateud/?do=findComment&comment=185014)
-- [SimConnect Error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32440-simconnect-error-illegal_operation-25/?do=findComment&comment=185013)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
