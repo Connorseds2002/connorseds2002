@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=185020)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=185019)
 - [totally blind pilots: continued thank you to pilots and controllers from](https://forums.vatsim.net/topic/32443-totally-blind-pilots-continued-thank-you-to-pilots-and-controllers-from/?do=findComment&comment=185018)
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=185017)
@@ -64,7 +65,6 @@
 - [SimConnect Error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32440-simconnect-error-illegal_operation-25/?do=findComment&comment=185013)
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=185012)
 - [Private Message beep too loud!](https://forums.vatsim.net/topic/27147-private-message-beep-too-loud/?do=findComment&comment=185011)
-- [Don&#39;t use SIMBRIEF &lpar;or any other flightplanning tool&rpar; blindly](https://forums.vatsim.net/topic/32344-dont-use-simbrief-or-any-other-flightplanning-tool-blindly/?do=findComment&comment=185010)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
