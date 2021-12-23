@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SimConnect Error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32440-simconnect-error-illegal_operation-25/?do=findComment&comment=185029)
 - [Vatsim Scandinavia](https://forums.vatsim.net/topic/32444-vatsim-scandinavia/?do=findComment&comment=185028)
 - [Vatsim Scandinavia](https://forums.vatsim.net/topic/32444-vatsim-scandinavia/?do=findComment&comment=185027)
 - [Happy Holidays from VATEUD](https://forums.vatsim.net/topic/32441-happy-holidays-from-vateud/?do=findComment&comment=185026)
@@ -64,7 +65,6 @@
 - [Freq&lpar;s&rpar; not showing up in com 1 &amp; 2 &lpar;also wrong frequencies in sidebar&rpar;](https://forums.vatsim.net/topic/32442-freqs-not-showing-up-in-com-1-2-also-wrong-frequencies-in-sidebar/?do=findComment&comment=185022)
 - [Happy Holidays from VATEUD](https://forums.vatsim.net/topic/32441-happy-holidays-from-vateud/?do=findComment&comment=185021)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=185020)
-- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=185019)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
