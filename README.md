@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC Term Help](https://forums.vatsim.net/topic/32446-atc-term-help/?do=findComment&comment=185039)
+- [ATC Term Help](https://forums.vatsim.net/topic/32446-atc-term-help/?do=findComment&comment=185038)
+- [PO Exam for New Orientation Members](https://forums.vatsim.net/topic/32445-po-exam-for-new-orientation-members/?do=findComment&comment=185037)
 - [PO Exam for New Orientation Members](https://forums.vatsim.net/topic/32445-po-exam-for-new-orientation-members/?do=findComment&comment=185036)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185035)
 - [looking for a milsim](https://forums.vatsim.net/topic/32432-looking-for-a-milsim/?do=findComment&comment=185034)
@@ -62,9 +65,6 @@
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=185032)
 - [Private Message beep too loud!](https://forums.vatsim.net/topic/27147-private-message-beep-too-loud/?do=findComment&comment=185031)
 - [Freq&lpar;s&rpar; not showing up in com 1 &amp; 2 &lpar;also wrong frequencies in sidebar&rpar;](https://forums.vatsim.net/topic/32442-freqs-not-showing-up-in-com-1-2-also-wrong-frequencies-in-sidebar/?do=findComment&comment=185030)
-- [SimConnect Error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32440-simconnect-error-illegal_operation-25/?do=findComment&comment=185029)
-- [Vatsim Scandinavia](https://forums.vatsim.net/topic/32444-vatsim-scandinavia/?do=findComment&comment=185028)
-- [Vatsim Scandinavia](https://forums.vatsim.net/topic/32444-vatsim-scandinavia/?do=findComment&comment=185027)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
