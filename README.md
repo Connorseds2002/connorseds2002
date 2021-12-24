@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC Term Help](https://forums.vatsim.net/topic/32446-atc-term-help/?do=findComment&comment=185043)
 - [ATC Term Help](https://forums.vatsim.net/topic/32446-atc-term-help/?do=findComment&comment=185042)
 - [Flight strips for departures not automatically added?](https://forums.vatsim.net/topic/22054-flight-strips-for-departures-not-automatically-added/?do=findComment&comment=185041)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185040)
@@ -64,7 +65,6 @@
 - [PO Exam for New Orientation Members](https://forums.vatsim.net/topic/32445-po-exam-for-new-orientation-members/?do=findComment&comment=185036)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185035)
 - [looking for a milsim](https://forums.vatsim.net/topic/32432-looking-for-a-milsim/?do=findComment&comment=185034)
-- [looking for a milsim](https://forums.vatsim.net/topic/32432-looking-for-a-milsim/?do=findComment&comment=185033)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
