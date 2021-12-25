@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Merry Christmas and Happy New Year !](https://forums.vatsim.net/topic/32450-merry-christmas-and-happy-new-year/?do=findComment&comment=185054)
 - [Connecting to vatsim without F12 key.](https://forums.vatsim.net/topic/32449-connecting-to-vatsim-without-f12-key/?do=findComment&comment=185053)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185052)
 - [Why does it say my account is inactive](https://forums.vatsim.net/topic/32448-why-does-it-say-my-account-is-inactive/?do=findComment&comment=185051)
@@ -64,7 +65,6 @@
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185047)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185046)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185045)
-- [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185044)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
