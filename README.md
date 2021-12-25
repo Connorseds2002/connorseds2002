@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185066)
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=185065)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185064)
 - [Helping new controllers get started.](https://forums.vatsim.net/topic/32452-helping-new-controllers-get-started/?do=findComment&comment=185063)
@@ -64,7 +65,6 @@
 - [ES - dep list empty ... help?? [RESOLVED]](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help-resolved/?do=findComment&comment=185059)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185058)
 - [Keybind for X-pilot plugin](https://forums.vatsim.net/topic/32451-keybind-for-x-pilot-plugin/?do=findComment&comment=185057)
-- [Why does it say my account is inactive](https://forums.vatsim.net/topic/32448-why-does-it-say-my-account-is-inactive/?do=findComment&comment=185056)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
