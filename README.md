@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why does it say my account is inactive](https://forums.vatsim.net/topic/32448-why-does-it-say-my-account-is-inactive/?do=findComment&comment=185051)
 - [Why does it say my account is inactive](https://forums.vatsim.net/topic/32448-why-does-it-say-my-account-is-inactive/?do=findComment&comment=185050)
 - [Help](https://forums.vatsim.net/topic/32447-help/?do=findComment&comment=185049)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185048)
@@ -64,7 +65,6 @@
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185044)
 - [ATC Term Help](https://forums.vatsim.net/topic/32446-atc-term-help/?do=findComment&comment=185043)
 - [ATC Term Help](https://forums.vatsim.net/topic/32446-atc-term-help/?do=findComment&comment=185042)
-- [Flight strips for departures not automatically added?](https://forums.vatsim.net/topic/22054-flight-strips-for-departures-not-automatically-added/?do=findComment&comment=185041)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
