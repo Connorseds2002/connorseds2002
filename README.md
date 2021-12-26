@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185070)
 - [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=185069)
 - [Able to Transmit but Not Receive](https://forums.vatsim.net/topic/32435-able-to-transmit-but-not-receive/?do=findComment&comment=185068)
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=185067)
@@ -64,7 +65,6 @@
 - [Helping new controllers get started.](https://forums.vatsim.net/topic/32452-helping-new-controllers-get-started/?do=findComment&comment=185063)
 - [Keybind for X-pilot plugin](https://forums.vatsim.net/topic/32451-keybind-for-x-pilot-plugin/?do=findComment&comment=185062)
 - [Keybind for X-pilot plugin](https://forums.vatsim.net/topic/32451-keybind-for-x-pilot-plugin/?do=findComment&comment=185061)
-- [Helping new controllers get started.](https://forums.vatsim.net/topic/32452-helping-new-controllers-get-started/?do=findComment&comment=185060)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
