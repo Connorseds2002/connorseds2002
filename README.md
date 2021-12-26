@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185089)
+- [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=185088)
+- [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=185087)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185086)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185085)
-- [New Member Orientation Exam](https://forums.vatsim.net/topic/32457-new-member-orientation-exam/?do=findComment&comment=185084)
+- [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=185084)
 - [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185083)
 - [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185082)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185081)
 - [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=185080)
-- [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185079)
-- [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=185078)
-- [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185077)
-- [Vatsim problem connecting to freq](https://forums.vatsim.net/topic/32454-vatsim-problem-connecting-to-freq/?do=findComment&comment=185076)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
