@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=185074)
+- [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=185073)
 - [ES - dep list empty ... help?? [RESOLVED]](https://forums.vatsim.net/topic/31132-es-dep-list-empty-help-resolved/?do=findComment&comment=185072)
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=185071)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185070)
@@ -63,8 +65,6 @@
 - [When do I switch off of unicom?](https://forums.vatsim.net/topic/32430-when-do-i-switch-off-of-unicom/?do=findComment&comment=185067)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185066)
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=185065)
-- [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185064)
-- [Helping new controllers get started.](https://forums.vatsim.net/topic/32452-helping-new-controllers-get-started/?do=findComment&comment=185063)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
