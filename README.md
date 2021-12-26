@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=185091)
+- [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=185090)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185089)
 - [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=185088)
 - [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=185087)
@@ -63,8 +65,6 @@
 - [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=185084)
 - [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185083)
 - [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185082)
-- [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185081)
-- [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=185080)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
