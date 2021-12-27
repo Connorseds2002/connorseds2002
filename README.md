@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Use of the public chat for communication](https://forums.vatsim.net/topic/32459-use-of-the-public-chat-for-communication/?do=findComment&comment=185095)
 - [Connecting to vatsim without F12 key.](https://forums.vatsim.net/topic/32449-connecting-to-vatsim-without-f12-key/?do=findComment&comment=185094)
 - [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185093)
 - [Reccuring information on the &quot;File a Flight Plan&quot; page](https://forums.vatsim.net/topic/32458-reccuring-information-on-the-file-a-flight-plan-page/?do=findComment&comment=185092)
@@ -64,7 +65,6 @@
 - [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=185088)
 - [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=185087)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185086)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185085)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
