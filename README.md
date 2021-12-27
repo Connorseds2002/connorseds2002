@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [iniciacion a piloto](https://forums.vatsim.net/topic/32462-iniciacion-a-piloto/?do=findComment&comment=185112)
+- [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185111)
 - [Connecting to vatsim without F12 key.](https://forums.vatsim.net/topic/32449-connecting-to-vatsim-without-f12-key/?do=findComment&comment=185110)
 - [Disconnected from voice server: Lost server connection. Attempting to auto-reconnect...](https://forums.vatsim.net/topic/32463-disconnected-from-voice-server-lost-server-connection-attempting-to-auto-reconnect/?do=findComment&comment=185109)
 - [My is disabled and unable to get it back.](https://forums.vatsim.net/topic/32460-my-is-disabled-and-unable-to-get-it-back/?do=findComment&comment=185108)
@@ -63,8 +65,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185105)
 - [Connecting to vatsim without F12 key.](https://forums.vatsim.net/topic/32449-connecting-to-vatsim-without-f12-key/?do=findComment&comment=185104)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185103)
-- [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185102)
-- [Use of the public chat for communication](https://forums.vatsim.net/topic/32459-use-of-the-public-chat-for-communication/?do=findComment&comment=185101)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
