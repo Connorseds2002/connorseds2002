@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185114)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185113)
 - [iniciacion a piloto](https://forums.vatsim.net/topic/32462-iniciacion-a-piloto/?do=findComment&comment=185112)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185111)
 - [Connecting to vatsim without F12 key.](https://forums.vatsim.net/topic/32449-connecting-to-vatsim-without-f12-key/?do=findComment&comment=185110)
@@ -63,8 +65,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185107)
 - [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=185106)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185105)
-- [Connecting to vatsim without F12 key.](https://forums.vatsim.net/topic/32449-connecting-to-vatsim-without-f12-key/?do=findComment&comment=185104)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185103)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
