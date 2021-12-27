@@ -62,7 +62,7 @@
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185111)
 - [Connecting to vatsim without F12 key.](https://forums.vatsim.net/topic/32449-connecting-to-vatsim-without-f12-key/?do=findComment&comment=185110)
 - [Disconnected from voice server: Lost server connection. Attempting to auto-reconnect...](https://forums.vatsim.net/topic/32463-disconnected-from-voice-server-lost-server-connection-attempting-to-auto-reconnect/?do=findComment&comment=185109)
-- [My is disabled and unable to get it back.](https://forums.vatsim.net/topic/32460-my-is-disabled-and-unable-to-get-it-back/?do=findComment&comment=185108)
+- [Closed](https://forums.vatsim.net/topic/32460-closed/?do=findComment&comment=185108)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185107)
 - [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=185106)
 <!-- VATSIM.NET:END -->
