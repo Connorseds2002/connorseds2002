@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My is disabled and unable to get it back.](https://forums.vatsim.net/topic/32460-my-is-disabled-and-unable-to-get-it-back/?do=findComment&comment=185108)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185107)
 - [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=185106)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185105)
@@ -64,7 +65,6 @@
 - [Use of the public chat for communication](https://forums.vatsim.net/topic/32459-use-of-the-public-chat-for-communication/?do=findComment&comment=185101)
 - [iniciacion a piloto](https://forums.vatsim.net/topic/32462-iniciacion-a-piloto/?do=findComment&comment=185100)
 - [Excellence Virtual Private Air Services | VATSIM VA Associate Program](https://forums.vatsim.net/topic/32461-excellence-virtual-private-air-services-vatsim-va-associate-program/?do=findComment&comment=185099)
-- [Use of the public chat for communication](https://forums.vatsim.net/topic/32459-use-of-the-public-chat-for-communication/?do=findComment&comment=185098)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
