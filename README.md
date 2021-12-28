@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VID as Name](https://forums.vatsim.net/topic/32464-vid-as-name/?do=findComment&comment=185123)
+- [CCAMS &lpar;Centralised code assignment and management system&rpar; plugin](https://forums.vatsim.net/topic/31451-ccams-centralised-code-assignment-and-management-system-plugin/?do=findComment&comment=185122)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185121)
 - [ATC Term Help](https://forums.vatsim.net/topic/32446-atc-term-help/?do=findComment&comment=185120)
 - [VID as Name](https://forums.vatsim.net/topic/32464-vid-as-name/?do=findComment&comment=185119)
@@ -63,8 +65,6 @@
 - [Connecting to vatsim without F12 key.](https://forums.vatsim.net/topic/32449-connecting-to-vatsim-without-f12-key/?do=findComment&comment=185116)
 - [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185115)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185114)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185113)
-- [iniciacion a piloto](https://forums.vatsim.net/topic/32462-iniciacion-a-piloto/?do=findComment&comment=185112)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
