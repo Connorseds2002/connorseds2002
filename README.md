@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Connecting to vatsim without F12 key.](https://forums.vatsim.net/topic/32449-connecting-to-vatsim-without-f12-key/?do=findComment&comment=185116)
 - [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185115)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185114)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185113)
@@ -64,7 +65,6 @@
 - [Disconnected from voice server: Lost server connection. Attempting to auto-reconnect...](https://forums.vatsim.net/topic/32463-disconnected-from-voice-server-lost-server-connection-attempting-to-auto-reconnect/?do=findComment&comment=185109)
 - [Closed](https://forums.vatsim.net/topic/32460-closed/?do=findComment&comment=185108)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185107)
-- [New setup as observer. cant see any aircraft](https://forums.vatsim.net/topic/30292-new-setup-as-observer-cant-see-any-aircraft/?do=findComment&comment=185106)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
