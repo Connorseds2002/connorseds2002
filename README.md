@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=185130)
 - [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185129)
 - [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185128)
 - [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185127)
@@ -64,7 +65,6 @@
 - [VID as Name](https://forums.vatsim.net/topic/32464-vid-as-name/?do=findComment&comment=185123)
 - [CCAMS &lpar;Centralised code assignment and management system&rpar; plugin](https://forums.vatsim.net/topic/31451-ccams-centralised-code-assignment-and-management-system-plugin/?do=findComment&comment=185122)
 - [Controllers signing off due too much traffic](https://forums.vatsim.net/topic/32360-controllers-signing-off-due-too-much-traffic/?do=findComment&comment=185121)
-- [ATC Term Help](https://forums.vatsim.net/topic/32446-atc-term-help/?do=findComment&comment=185120)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
