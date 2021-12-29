@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No ATIS on Vatsim Xpilot](https://forums.vatsim.net/topic/32467-no-atis-on-vatsim-xpilot/?do=findComment&comment=185142)
+- [Beginning on Vatsim - what do I need?](https://forums.vatsim.net/topic/25045-beginning-on-vatsim-what-do-i-need/?do=findComment&comment=185141)
 - [VID as Name](https://forums.vatsim.net/topic/32464-vid-as-name/?do=findComment&comment=185140)
 - [VID as Name](https://forums.vatsim.net/topic/32464-vid-as-name/?do=findComment&comment=185139)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185138)
@@ -63,8 +65,6 @@
 - [PAHO-PAJN](https://forums.vatsim.net/topic/32466-paho-pajn/?do=findComment&comment=185135)
 - [Beginning on Vatsim - what do I need?](https://forums.vatsim.net/topic/25045-beginning-on-vatsim-what-do-i-need/?do=findComment&comment=185134)
 - [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185133)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185132)
-- [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185131)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
