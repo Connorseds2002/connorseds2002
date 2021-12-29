@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185138)
+- [Beginning on Vatsim - what do I need?](https://forums.vatsim.net/topic/25045-beginning-on-vatsim-what-do-i-need/?do=findComment&comment=185137)
 - [Multiple Requested Features](https://forums.vatsim.net/topic/21960-multiple-requested-features/?do=findComment&comment=185136)
 - [PAHO-PAJN](https://forums.vatsim.net/topic/32466-paho-pajn/?do=findComment&comment=185135)
 - [Beginning on Vatsim - what do I need?](https://forums.vatsim.net/topic/25045-beginning-on-vatsim-what-do-i-need/?do=findComment&comment=185134)
@@ -63,8 +65,6 @@
 - [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185131)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=185130)
 - [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185129)
-- [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185128)
-- [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185127)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
