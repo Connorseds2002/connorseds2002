@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Beginning on Vatsim - what do I need?](https://forums.vatsim.net/topic/25045-beginning-on-vatsim-what-do-i-need/?do=findComment&comment=185134)
 - [Little details](https://forums.vatsim.net/topic/32455-little-details/?do=findComment&comment=185133)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185132)
 - [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185131)
@@ -64,7 +65,6 @@
 - [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185127)
 - [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185126)
 - [Disconnected from voice server: Lost server connection. Attempting to auto-reconnect...](https://forums.vatsim.net/topic/32463-disconnected-from-voice-server-lost-server-connection-attempting-to-auto-reconnect/?do=findComment&comment=185125)
-- [Reception of other aircraft transmissions causing issues for ATC centres](https://forums.vatsim.net/topic/32465-reception-of-other-aircraft-transmissions-causing-issues-for-atc-centres/?do=findComment&comment=185124)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
