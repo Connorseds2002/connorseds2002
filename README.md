@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning a DHL virtual airline](https://forums.vatsim.net/topic/32469-planning-a-dhl-virtual-airline/?do=findComment&comment=185151)
 - [Planning a DHL virtual airline](https://forums.vatsim.net/topic/32469-planning-a-dhl-virtual-airline/?do=findComment&comment=185150)
 - [No ATIS on Vatsim Xpilot](https://forums.vatsim.net/topic/32467-no-atis-on-vatsim-xpilot/?do=findComment&comment=185148)
 - [Planning a DHL virtual airline](https://forums.vatsim.net/topic/32469-planning-a-dhl-virtual-airline/?do=findComment&comment=185147)
@@ -64,7 +65,6 @@
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185138)
 - [Beginning on Vatsim - what do I need?](https://forums.vatsim.net/topic/25045-beginning-on-vatsim-what-do-i-need/?do=findComment&comment=185137)
 - [Multiple Requested Features](https://forums.vatsim.net/topic/21960-multiple-requested-features/?do=findComment&comment=185136)
-- [PAHO-PAJN](https://forums.vatsim.net/topic/32466-paho-pajn/?do=findComment&comment=185135)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
