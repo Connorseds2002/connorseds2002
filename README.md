@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185169)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185168)
 - [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185167)
 - [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185166)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=185165)
@@ -63,8 +65,6 @@
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185162)
 - [Virtual Humanitarian flights](https://forums.vatsim.net/topic/32474-virtual-humanitarian-flights/?do=findComment&comment=185161)
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185160)
-- [VATCAN: CZQM/CZQX FIR Webmaster](https://forums.vatsim.net/topic/32472-vatcan-czqmczqx-fir-webmaster/?do=findComment&comment=185159)
-- [Where not to vacate the runway *blush*](https://forums.vatsim.net/topic/32471-where-not-to-vacate-the-runway-blush/?do=findComment&comment=185158)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
