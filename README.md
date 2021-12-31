@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=185165)
+- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185164)
+- [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185163)
+- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185162)
+- [Virtual Humanitarian flights](https://forums.vatsim.net/topic/32474-virtual-humanitarian-flights/?do=findComment&comment=185161)
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185160)
 - [VATCAN: CZQM/CZQX FIR Webmaster](https://forums.vatsim.net/topic/32472-vatcan-czqmczqx-fir-webmaster/?do=findComment&comment=185159)
 - [Where not to vacate the runway *blush*](https://forums.vatsim.net/topic/32471-where-not-to-vacate-the-runway-blush/?do=findComment&comment=185158)
 - [VatSim in a local network](https://forums.vatsim.net/topic/32470-vatsim-in-a-local-network/?do=findComment&comment=185157)
 - [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=185156)
-- [VatSim in a local network](https://forums.vatsim.net/topic/32470-vatsim-in-a-local-network/?do=findComment&comment=185155)
-- [VatSim in a local network](https://forums.vatsim.net/topic/32470-vatsim-in-a-local-network/?do=findComment&comment=185154)
-- [PAHO-PAJN](https://forums.vatsim.net/topic/32466-paho-pajn/?do=findComment&comment=185153)
-- [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=185152)
-- [Planning a DHL virtual airline](https://forums.vatsim.net/topic/32469-planning-a-dhl-virtual-airline/?do=findComment&comment=185151)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
