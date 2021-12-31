@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Question about VATSIM policy](https://forums.vatsim.net/topic/32478-question-about-vatsim-policy/?do=findComment&comment=185181)
+- [LARSHA PEKHAWAR TA!](https://forums.vatsim.net/topic/32479-larsha-pekhawar-ta/?do=findComment&comment=185180)
 - [Question about VATSIM policy](https://forums.vatsim.net/topic/32478-question-about-vatsim-policy/?do=findComment&comment=185179)
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185178)
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185177)
@@ -63,8 +65,6 @@
 - [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185174)
 - [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185173)
 - [Where not to vacate the runway *blush*](https://forums.vatsim.net/topic/32471-where-not-to-vacate-the-runway-blush/?do=findComment&comment=185172)
-- [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185171)
-- [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185170)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
