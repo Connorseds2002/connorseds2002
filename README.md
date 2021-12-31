@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATUSA: When Center is too busy for class C and class D airports](https://forums.vatsim.net/topic/32477-vatusa-when-center-is-too-busy-for-class-c-and-class-d-airports/?do=findComment&comment=185186)
+- [End of Year Message from VATSIM Middle East &amp; North Africa](https://forums.vatsim.net/topic/32480-end-of-year-message-from-vatsim-middle-east-north-africa/?do=findComment&comment=185185)
 - [VATUSA: When Center is too busy for class C and class D airports](https://forums.vatsim.net/topic/32477-vatusa-when-center-is-too-busy-for-class-c-and-class-d-airports/?do=findComment&comment=185184)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185183)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185182)
@@ -63,8 +65,6 @@
 - [Question about VATSIM policy](https://forums.vatsim.net/topic/32478-question-about-vatsim-policy/?do=findComment&comment=185179)
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185178)
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185177)
-- [VATUSA: When Center is too busy for class C and class D airports](https://forums.vatsim.net/topic/32477-vatusa-when-center-is-too-busy-for-class-c-and-class-d-airports/?do=findComment&comment=185176)
-- [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185175)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
