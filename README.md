@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATUSA: When Center is too busy for class C and class D airports](https://forums.vatsim.net/topic/32477-vatusa-when-center-is-too-busy-for-class-c-and-class-d-airports/?do=findComment&comment=185176)
 - [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185175)
 - [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185174)
 - [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185173)
@@ -64,7 +65,6 @@
 - [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185169)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185168)
 - [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185167)
-- [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185166)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
