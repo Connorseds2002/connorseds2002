@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185188)
+- [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185187)
 - [VATUSA: When Center is too busy for class C and class D airports](https://forums.vatsim.net/topic/32477-vatusa-when-center-is-too-busy-for-class-c-and-class-d-airports/?do=findComment&comment=185186)
 - [End of Year Message from VATSIM Middle East &amp; North Africa](https://forums.vatsim.net/topic/32480-end-of-year-message-from-vatsim-middle-east-north-africa/?do=findComment&comment=185185)
 - [VATUSA: When Center is too busy for class C and class D airports](https://forums.vatsim.net/topic/32477-vatusa-when-center-is-too-busy-for-class-c-and-class-d-airports/?do=findComment&comment=185184)
@@ -63,8 +65,6 @@
 - [Question about VATSIM policy](https://forums.vatsim.net/topic/32478-question-about-vatsim-policy/?do=findComment&comment=185181)
 - [LARSHA PEKHAWAR TA!](https://forums.vatsim.net/topic/32479-larsha-pekhawar-ta/?do=findComment&comment=185180)
 - [Question about VATSIM policy](https://forums.vatsim.net/topic/32478-question-about-vatsim-policy/?do=findComment&comment=185179)
-- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185178)
-- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185177)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
