@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185175)
+- [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185174)
+- [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185173)
 - [Where not to vacate the runway *blush*](https://forums.vatsim.net/topic/32471-where-not-to-vacate-the-runway-blush/?do=findComment&comment=185172)
 - [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185171)
 - [What does a closed ticket mean?](https://forums.vatsim.net/topic/32476-what-does-a-closed-ticket-mean/?do=findComment&comment=185170)
@@ -62,9 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185168)
 - [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185167)
 - [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185166)
-- [Getting started in ATC](https://forums.vatsim.net/topic/1474-getting-started-in-atc/?do=findComment&comment=185165)
-- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=185164)
-- [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185163)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
