@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [hi, I have a problem with vpilot i have the correct cid and password and working internet](https://forums.vatsim.net/topic/32488-hi-i-have-a-problem-with-vpilot-i-have-the-correct-cid-and-password-and-working-internet/?do=findComment&comment=185205)
+- [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=185204)
 - [looking for a milsim](https://forums.vatsim.net/topic/32432-looking-for-a-milsim/?do=findComment&comment=185202)
 - [Leave BNN heading 050 - What should be done?](https://forums.vatsim.net/topic/32486-leave-bnn-heading-050-what-should-be-done/?do=findComment&comment=185201)
 - [Leave BNN heading 050 - What should be done?](https://forums.vatsim.net/topic/32486-leave-bnn-heading-050-what-should-be-done/?do=findComment&comment=185200)
@@ -63,8 +65,6 @@
 - [Canadian Xpress January 2022 Monthly Challenge: National Parks III - Lizard Island](https://forums.vatsim.net/topic/32484-canadian-xpress-january-2022-monthly-challenge-national-parks-iii-lizard-island/?do=findComment&comment=185197)
 - [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185196)
 - [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185195)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185194)
-- [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185193)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
