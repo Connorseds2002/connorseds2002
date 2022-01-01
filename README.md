@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [looking for a milsim](https://forums.vatsim.net/topic/32432-looking-for-a-milsim/?do=findComment&comment=185202)
+- [Leave BNN heading 050 - What should be done?](https://forums.vatsim.net/topic/32486-leave-bnn-heading-050-what-should-be-done/?do=findComment&comment=185201)
+- [Leave BNN heading 050 - What should be done?](https://forums.vatsim.net/topic/32486-leave-bnn-heading-050-what-should-be-done/?do=findComment&comment=185200)
 - [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185199)
 - [PIA Virtual Pilot of the month giveaway!](https://forums.vatsim.net/topic/32485-pia-virtual-pilot-of-the-month-giveaway/?do=findComment&comment=185198)
 - [Canadian Xpress January 2022 Monthly Challenge: National Parks III - Lizard Island](https://forums.vatsim.net/topic/32484-canadian-xpress-january-2022-monthly-challenge-national-parks-iii-lizard-island/?do=findComment&comment=185197)
@@ -62,9 +65,6 @@
 - [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185195)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185194)
 - [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185193)
-- [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185192)
-- [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185191)
-- [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185190)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
