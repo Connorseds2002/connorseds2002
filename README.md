@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185242)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185241)
 - [AIG not showing correct aircraft type](https://forums.vatsim.net/topic/32491-aig-not-showing-correct-aircraft-type/?do=findComment&comment=185240)
 - [AIG not showing correct aircraft type](https://forums.vatsim.net/topic/32491-aig-not-showing-correct-aircraft-type/?do=findComment&comment=185239)
@@ -64,7 +65,6 @@
 - [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=185235)
 - [Advice please on who / when to contact.](https://forums.vatsim.net/topic/26241-advice-please-on-who-when-to-contact/?do=findComment&comment=185234)
 - [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185233)
-- [Advice please on who / when to contact.](https://forums.vatsim.net/topic/26241-advice-please-on-who-when-to-contact/?do=findComment&comment=185232)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
