@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185241)
+- [AIG not showing correct aircraft type](https://forums.vatsim.net/topic/32491-aig-not-showing-correct-aircraft-type/?do=findComment&comment=185240)
 - [AIG not showing correct aircraft type](https://forums.vatsim.net/topic/32491-aig-not-showing-correct-aircraft-type/?do=findComment&comment=185239)
 - [hi, I have a problem with vpilot i have the correct cid and password and working internet](https://forums.vatsim.net/topic/32488-hi-i-have-a-problem-with-vpilot-i-have-the-correct-cid-and-password-and-working-internet/?do=findComment&comment=185238)
 - [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185237)
@@ -63,8 +65,6 @@
 - [Advice please on who / when to contact.](https://forums.vatsim.net/topic/26241-advice-please-on-who-when-to-contact/?do=findComment&comment=185234)
 - [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185233)
 - [Advice please on who / when to contact.](https://forums.vatsim.net/topic/26241-advice-please-on-who-when-to-contact/?do=findComment&comment=185232)
-- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185231)
-- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185230)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
