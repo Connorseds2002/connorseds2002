@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185231)
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185230)
+- [Could Not Find VATSIM Connection Error?](https://forums.vatsim.net/topic/31839-could-not-find-vatsim-connection-error/?do=findComment&comment=185229)
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185228)
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185227)
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185226)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185225)
 - [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185224)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185223)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185222)
-- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185221)
-- [SimConnect Error: ILLEGAL_OPERATION 25](https://forums.vatsim.net/topic/32440-simconnect-error-illegal_operation-25/?do=findComment&comment=185220)
-- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185219)
-- [Could Not Find VATSIM Connection Error?](https://forums.vatsim.net/topic/31839-could-not-find-vatsim-connection-error/?do=findComment&comment=185218)
-- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185217)
-- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185216)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
