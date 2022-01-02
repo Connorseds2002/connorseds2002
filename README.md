@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Advice please on who / when to contact.](https://forums.vatsim.net/topic/26241-advice-please-on-who-when-to-contact/?do=findComment&comment=185234)
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185233)
+- [Advice please on who / when to contact.](https://forums.vatsim.net/topic/26241-advice-please-on-who-when-to-contact/?do=findComment&comment=185232)
 - [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185231)
 - [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185230)
 - [Could Not Find VATSIM Connection Error?](https://forums.vatsim.net/topic/31839-could-not-find-vatsim-connection-error/?do=findComment&comment=185229)
@@ -62,9 +65,6 @@
 - [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185227)
 - [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185226)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185225)
-- [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185224)
-- [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185223)
-- [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185222)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
