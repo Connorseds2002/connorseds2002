@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=185210)
 - [Why bother flying on VATSIM?](https://forums.vatsim.net/topic/26062-why-bother-flying-on-vatsim/?do=findComment&comment=185209)
 - [Where to do pilot tests?](https://forums.vatsim.net/topic/32391-where-to-do-pilot-tests/?do=findComment&comment=185208)
 - [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185207)
@@ -64,7 +65,6 @@
 - [looking for a milsim](https://forums.vatsim.net/topic/32432-looking-for-a-milsim/?do=findComment&comment=185202)
 - [Leave BNN heading 050 - What should be done?](https://forums.vatsim.net/topic/32486-leave-bnn-heading-050-what-should-be-done/?do=findComment&comment=185201)
 - [Leave BNN heading 050 - What should be done?](https://forums.vatsim.net/topic/32486-leave-bnn-heading-050-what-should-be-done/?do=findComment&comment=185200)
-- [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185199)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
