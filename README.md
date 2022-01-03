@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185274)
 - [Using ZOOM with VATSIM](https://forums.vatsim.net/topic/32494-using-zoom-with-vatsim/?do=findComment&comment=185273)
 - [Where not to vacate the runway *blush*](https://forums.vatsim.net/topic/32471-where-not-to-vacate-the-runway-blush/?do=findComment&comment=185272)
 - [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185271)
@@ -64,7 +65,6 @@
 - [Flight Plans](https://forums.vatsim.net/topic/32495-flight-plans/?do=findComment&comment=185267)
 - [Flight Plans](https://forums.vatsim.net/topic/32495-flight-plans/?do=findComment&comment=185266)
 - [Flight Plans](https://forums.vatsim.net/topic/32495-flight-plans/?do=findComment&comment=185265)
-- [Flight Plans](https://forums.vatsim.net/topic/32495-flight-plans/?do=findComment&comment=185264)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
