@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [[VACANCY] vACC Director - Ireland](https://forums.vatsim.net/topic/32493-vacancy-vacc-director-ireland/?do=findComment&comment=185243)
-- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185242)
-- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185241)
-- [AIG not showing correct aircraft type](https://forums.vatsim.net/topic/32491-aig-not-showing-correct-aircraft-type/?do=findComment&comment=185240)
-- [AIG not showing correct aircraft type](https://forums.vatsim.net/topic/32491-aig-not-showing-correct-aircraft-type/?do=findComment&comment=185239)
-- [hi, I have a problem with vpilot i have the correct cid and password and working internet](https://forums.vatsim.net/topic/32488-hi-i-have-a-problem-with-vpilot-i-have-the-correct-cid-and-password-and-working-internet/?do=findComment&comment=185238)
-- [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185237)
-- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185236)
-- [How to deal with old airac data without upgrading navdata?](https://forums.vatsim.net/topic/32324-how-to-deal-with-old-airac-data-without-upgrading-navdata/?do=findComment&comment=185235)
-- [Advice please on who / when to contact.](https://forums.vatsim.net/topic/26241-advice-please-on-who-when-to-contact/?do=findComment&comment=185234)
+- [Using ZOOM with VATSIM](https://forums.vatsim.net/topic/32494-using-zoom-with-vatsim/?do=findComment&comment=185257)
+- [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185256)
+- [Using ZOOM with VATSIM](https://forums.vatsim.net/topic/32494-using-zoom-with-vatsim/?do=findComment&comment=185255)
+- [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185254)
+- [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185253)
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185252)
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185251)
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185250)
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185249)
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185248)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
