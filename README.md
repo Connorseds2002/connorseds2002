@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Velocity option -voice not working](https://forums.vatsim.net/topic/32499-velocity-option-voice-not-working/?do=findComment&comment=185287)
+- [Private Sweatbox Server](https://forums.vatsim.net/topic/23767-private-sweatbox-server/?do=findComment&comment=185286)
 - [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185285)
 - [Couldn&#39;t find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=185284)
 - [Problems with receiving audio in AFV](https://forums.vatsim.net/topic/32498-problems-with-receiving-audio-in-afv/?do=findComment&comment=185283)
@@ -63,8 +65,6 @@
 - [[12th February 2022] CTL227 - Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/32297-12th-february-2022-ctl227-cross-the-land-westbound-2021/?do=findComment&comment=185280)
 - [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185279)
 - [AIG not showing correct aircraft type](https://forums.vatsim.net/topic/32491-aig-not-showing-correct-aircraft-type/?do=findComment&comment=185278)
-- [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185277)
-- [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185276)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
