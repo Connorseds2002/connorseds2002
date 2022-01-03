@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185285)
+- [Couldn&#39;t find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=185284)
 - [Problems with receiving audio in AFV](https://forums.vatsim.net/topic/32498-problems-with-receiving-audio-in-afv/?do=findComment&comment=185283)
 - [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185282)
 - [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185281)
@@ -63,8 +65,6 @@
 - [AIG not showing correct aircraft type](https://forums.vatsim.net/topic/32491-aig-not-showing-correct-aircraft-type/?do=findComment&comment=185278)
 - [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185277)
 - [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185276)
-- [vFlybe - New Virtual Airline](https://forums.vatsim.net/topic/32496-vflybe-new-virtual-airline/?do=findComment&comment=185275)
-- [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185274)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
