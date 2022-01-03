@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185282)
+- [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185281)
 - [[12th February 2022] CTL227 - Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/32297-12th-february-2022-ctl227-cross-the-land-westbound-2021/?do=findComment&comment=185280)
 - [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185279)
 - [AIG not showing correct aircraft type](https://forums.vatsim.net/topic/32491-aig-not-showing-correct-aircraft-type/?do=findComment&comment=185278)
@@ -63,8 +65,6 @@
 - [vFlybe - New Virtual Airline](https://forums.vatsim.net/topic/32496-vflybe-new-virtual-airline/?do=findComment&comment=185275)
 - [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185274)
 - [Using ZOOM with VATSIM](https://forums.vatsim.net/topic/32494-using-zoom-with-vatsim/?do=findComment&comment=185273)
-- [Where not to vacate the runway *blush*](https://forums.vatsim.net/topic/32471-where-not-to-vacate-the-runway-blush/?do=findComment&comment=185272)
-- [How to/help spread the world about a callsign?](https://forums.vatsim.net/topic/32481-how-tohelp-spread-the-world-about-a-callsign/?do=findComment&comment=185271)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
