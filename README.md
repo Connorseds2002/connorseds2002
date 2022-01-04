@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185313)
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185312)
 - [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=185311)
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185310)
@@ -64,7 +65,6 @@
 - [Sim Connect Error: Version_Mismatch 5](https://forums.vatsim.net/topic/32502-sim-connect-error-version_mismatch-5/?do=findComment&comment=185306)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185305)
 - [Sim Connect Error: Version_Mismatch 5](https://forums.vatsim.net/topic/32502-sim-connect-error-version_mismatch-5/?do=findComment&comment=185304)
-- [Sim Connect Error: Version_Mismatch 5](https://forums.vatsim.net/topic/32502-sim-connect-error-version_mismatch-5/?do=findComment&comment=185303)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
