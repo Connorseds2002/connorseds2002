@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[EVENT]: City Shuttle - Bengaluru &lpar;VOBL&rpar; and Goa &lpar;VOGO&rpar;](https://forums.vatsim.net/topic/32500-event-city-shuttle-bengaluru-vobl-and-goa-vogo/?do=findComment&comment=185294)
 - [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185293)
 - [Velocity option -voice not working](https://forums.vatsim.net/topic/32499-velocity-option-voice-not-working/?do=findComment&comment=185292)
 - [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185291)
@@ -64,7 +65,6 @@
 - [Velocity option -voice not working](https://forums.vatsim.net/topic/32499-velocity-option-voice-not-working/?do=findComment&comment=185287)
 - [Private Sweatbox Server](https://forums.vatsim.net/topic/23767-private-sweatbox-server/?do=findComment&comment=185286)
 - [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185285)
-- [Couldn&#39;t find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=185284)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
