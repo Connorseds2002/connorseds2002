@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185297)
 - [ATC at un-towered airport](https://forums.vatsim.net/topic/32475-atc-at-un-towered-airport/?do=findComment&comment=185296)
 - [Sunken Aircraft](https://forums.vatsim.net/topic/32501-sunken-aircraft/?do=findComment&comment=185295)
 - [[EVENT]: City Shuttle - Bengaluru &lpar;VOBL&rpar; and Goa &lpar;VOGO&rpar;](https://forums.vatsim.net/topic/32500-event-city-shuttle-bengaluru-vobl-and-goa-vogo/?do=findComment&comment=185294)
@@ -64,7 +65,6 @@
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185290)
 - [Private Sweatbox Server](https://forums.vatsim.net/topic/23767-private-sweatbox-server/?do=findComment&comment=185289)
 - [Velocity option -voice not working](https://forums.vatsim.net/topic/32499-velocity-option-voice-not-working/?do=findComment&comment=185288)
-- [Velocity option -voice not working](https://forums.vatsim.net/topic/32499-velocity-option-voice-not-working/?do=findComment&comment=185287)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
