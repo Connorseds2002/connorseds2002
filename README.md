@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sim Connect Error: Version_Mismatch 5](https://forums.vatsim.net/topic/32502-sim-connect-error-version_mismatch-5/?do=findComment&comment=185308)
+- [VatSpy Opens but nowhere to be found](https://forums.vatsim.net/topic/31753-vatspy-opens-but-nowhere-to-be-found/?do=findComment&comment=185307)
 - [Sim Connect Error: Version_Mismatch 5](https://forums.vatsim.net/topic/32502-sim-connect-error-version_mismatch-5/?do=findComment&comment=185306)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185305)
 - [Sim Connect Error: Version_Mismatch 5](https://forums.vatsim.net/topic/32502-sim-connect-error-version_mismatch-5/?do=findComment&comment=185304)
@@ -63,8 +65,6 @@
 - [Sim Connect Error: Version_Mismatch 5](https://forums.vatsim.net/topic/32502-sim-connect-error-version_mismatch-5/?do=findComment&comment=185301)
 - [Vpilot in FS2020 in VR](https://forums.vatsim.net/topic/32320-vpilot-in-fs2020-in-vr/?do=findComment&comment=185300)
 - [Sim Connect Error: Version_Mismatch 5](https://forums.vatsim.net/topic/32502-sim-connect-error-version_mismatch-5/?do=findComment&comment=185299)
-- [VatSpy Opens but nowhere to be found](https://forums.vatsim.net/topic/31753-vatspy-opens-but-nowhere-to-be-found/?do=findComment&comment=185298)
-- [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185297)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
