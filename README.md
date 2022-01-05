@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=185316)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=185315)
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185314)
 - [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185313)
@@ -64,7 +65,6 @@
 - [VatSpy Opens but nowhere to be found](https://forums.vatsim.net/topic/31753-vatspy-opens-but-nowhere-to-be-found/?do=findComment&comment=185309)
 - [Sim Connect Error: Version_Mismatch 5](https://forums.vatsim.net/topic/32502-sim-connect-error-version_mismatch-5/?do=findComment&comment=185308)
 - [VatSpy Opens but nowhere to be found](https://forums.vatsim.net/topic/31753-vatspy-opens-but-nowhere-to-be-found/?do=findComment&comment=185307)
-- [Sim Connect Error: Version_Mismatch 5](https://forums.vatsim.net/topic/32502-sim-connect-error-version_mismatch-5/?do=findComment&comment=185306)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
