@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185322)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185321)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185320)
 - [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=185319)
@@ -64,7 +65,6 @@
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=185315)
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185314)
 - [Can anyone explain to me how to text another aircraft or respond to another aircraft texting me on X-pilot?](https://forums.vatsim.net/topic/32490-can-anyone-explain-to-me-how-to-text-another-aircraft-or-respond-to-another-aircraft-texting-me-on-x-pilot/?do=findComment&comment=185313)
-- [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185312)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
