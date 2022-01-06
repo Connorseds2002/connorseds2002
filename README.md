@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185360)
 - [Vatsim for Mac](https://forums.vatsim.net/topic/32512-vatsim-for-mac/?do=findComment&comment=185359)
 - [Can&#39;t login to MyVatsim](https://forums.vatsim.net/topic/32511-cant-login-to-myvatsim/?do=findComment&comment=185358)
 - [Can&#39;t login to MyVatsim](https://forums.vatsim.net/topic/32511-cant-login-to-myvatsim/?do=findComment&comment=185357)
@@ -64,7 +65,6 @@
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185353)
 - [Stats getting flights wrong](https://forums.vatsim.net/topic/32510-stats-getting-flights-wrong/?do=findComment&comment=185352)
 - [Need help unlinking my discord account](https://forums.vatsim.net/topic/32509-need-help-unlinking-my-discord-account/?do=findComment&comment=185351)
-- [vMLT - Maleth Aero Virtual](https://forums.vatsim.net/topic/32508-vmlt-maleth-aero-virtual/?do=findComment&comment=185350)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
