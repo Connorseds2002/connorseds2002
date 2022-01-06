@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185341)
+- [Special Operations - Chief Flight Instructor Special Operations ATO Announced](https://forums.vatsim.net/topic/32507-special-operations-chief-flight-instructor-special-operations-ato-announced/?do=findComment&comment=185340)
+- [Opportunity - Chief Flight Instructor Special Operations](https://forums.vatsim.net/topic/32112-opportunity-chief-flight-instructor-special-operations/?do=findComment&comment=185339)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185338)
 - [VATSIM Basics P1 training The Transponder topic requires Flash Player](https://forums.vatsim.net/topic/32506-vatsim-basics-p1-training-the-transponder-topic-requires-flash-player/?do=findComment&comment=185337)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185336)
@@ -62,9 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185334)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185333)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185332)
-- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185331)
-- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185330)
-- [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=185329)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
