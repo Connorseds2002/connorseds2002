@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Stats getting flights wrong](https://forums.vatsim.net/topic/32510-stats-getting-flights-wrong/?do=findComment&comment=185354)
+- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185353)
+- [Stats getting flights wrong](https://forums.vatsim.net/topic/32510-stats-getting-flights-wrong/?do=findComment&comment=185352)
+- [Need help unlinking my discord account](https://forums.vatsim.net/topic/32509-need-help-unlinking-my-discord-account/?do=findComment&comment=185351)
+- [vMLT - Maleth Aero Virtual](https://forums.vatsim.net/topic/32508-vmlt-maleth-aero-virtual/?do=findComment&comment=185350)
 - [Velocity option -voice not working](https://forums.vatsim.net/topic/32499-velocity-option-voice-not-working/?do=findComment&comment=185349)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185348)
 - [Velocity option -voice not working](https://forums.vatsim.net/topic/32499-velocity-option-voice-not-working/?do=findComment&comment=185347)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185346)
 - [Velocity option -voice not working](https://forums.vatsim.net/topic/32499-velocity-option-voice-not-working/?do=findComment&comment=185345)
-- [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185344)
-- [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185343)
-- [VATSIM Basics P1 training The Transponder topic requires Flash Player](https://forums.vatsim.net/topic/32506-vatsim-basics-p1-training-the-transponder-topic-requires-flash-player/?do=findComment&comment=185342)
-- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185341)
-- [Special Operations - Chief Flight Instructor Special Operations ATO Announced](https://forums.vatsim.net/topic/32507-special-operations-chief-flight-instructor-special-operations-ato-announced/?do=findComment&comment=185340)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
