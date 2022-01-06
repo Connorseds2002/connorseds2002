@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185330)
 - [Transfer FLAi to New Computer](https://forums.vatsim.net/topic/31012-transfer-flai-to-new-computer/?do=findComment&comment=185329)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185328)
 - [vFlybe - New Virtual Airline](https://forums.vatsim.net/topic/32496-vflybe-new-virtual-airline/?do=findComment&comment=185327)
@@ -64,7 +65,6 @@
 - [[CLOSED] - Air Traffic Control Training Manager](https://forums.vatsim.net/topic/32367-closed-air-traffic-control-training-manager/?do=findComment&comment=185323)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185322)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185321)
-- [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185320)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
