@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185367)
 - [Vatsim for Mac](https://forums.vatsim.net/topic/32512-vatsim-for-mac/?do=findComment&comment=185366)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185365)
 - [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=185364)
@@ -64,7 +65,6 @@
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185360)
 - [Vatsim for Mac](https://forums.vatsim.net/topic/32512-vatsim-for-mac/?do=findComment&comment=185359)
 - [Can&#39;t login to MyVatsim](https://forums.vatsim.net/topic/32511-cant-login-to-myvatsim/?do=findComment&comment=185358)
-- [Can&#39;t login to MyVatsim](https://forums.vatsim.net/topic/32511-cant-login-to-myvatsim/?do=findComment&comment=185357)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
