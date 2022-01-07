@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Multiple Instructors for a Sweatbox Simulator Session?](https://forums.vatsim.net/topic/32513-multiple-instructors-for-a-sweatbox-simulator-session/?do=findComment&comment=185362)
+- [Disconnect right after connect due to no valid default model set](https://forums.vatsim.net/topic/29576-disconnect-right-after-connect-due-to-no-valid-default-model-set/?do=findComment&comment=185361)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185360)
 - [Vatsim for Mac](https://forums.vatsim.net/topic/32512-vatsim-for-mac/?do=findComment&comment=185359)
 - [Can&#39;t login to MyVatsim](https://forums.vatsim.net/topic/32511-cant-login-to-myvatsim/?do=findComment&comment=185358)
@@ -63,8 +65,6 @@
 - [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=185355)
 - [Stats getting flights wrong](https://forums.vatsim.net/topic/32510-stats-getting-flights-wrong/?do=findComment&comment=185354)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185353)
-- [Stats getting flights wrong](https://forums.vatsim.net/topic/32510-stats-getting-flights-wrong/?do=findComment&comment=185352)
-- [Need help unlinking my discord account](https://forums.vatsim.net/topic/32509-need-help-unlinking-my-discord-account/?do=findComment&comment=185351)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
