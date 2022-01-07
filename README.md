@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=185375)
 - [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=185374)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185373)
 - [Help for VA&#39;s](https://forums.vatsim.net/topic/32514-help-for-vas/?do=findComment&comment=185372)
@@ -64,7 +65,6 @@
 - [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=185368)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185367)
 - [Vatsim for Mac](https://forums.vatsim.net/topic/32512-vatsim-for-mac/?do=findComment&comment=185366)
-- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185365)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
