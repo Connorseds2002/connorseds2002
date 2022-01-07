@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim for Mac](https://forums.vatsim.net/topic/32512-vatsim-for-mac/?do=findComment&comment=185366)
+- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185365)
 - [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=185364)
 - [General questions from a newbie](https://forums.vatsim.net/topic/32140-general-questions-from-a-newbie/?do=findComment&comment=185363)
 - [Multiple Instructors for a Sweatbox Simulator Session?](https://forums.vatsim.net/topic/32513-multiple-instructors-for-a-sweatbox-simulator-session/?do=findComment&comment=185362)
@@ -63,8 +65,6 @@
 - [Vatsim for Mac](https://forums.vatsim.net/topic/32512-vatsim-for-mac/?do=findComment&comment=185359)
 - [Can&#39;t login to MyVatsim](https://forums.vatsim.net/topic/32511-cant-login-to-myvatsim/?do=findComment&comment=185358)
 - [Can&#39;t login to MyVatsim](https://forums.vatsim.net/topic/32511-cant-login-to-myvatsim/?do=findComment&comment=185357)
-- [Sunken Aircraft](https://forums.vatsim.net/topic/32501-sunken-aircraft/?do=findComment&comment=185356)
-- [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=185355)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
