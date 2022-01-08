@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Virtual Air Europa opening 15 Jan 22](https://forums.vatsim.net/topic/32520-virtual-air-europa-opening-15-jan-22/?do=findComment&comment=185394)
+- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185393)
 - [auto-tag](https://forums.vatsim.net/topic/20106-auto-tag/?do=findComment&comment=185392)
 - [AFV could not find frequency](https://forums.vatsim.net/topic/32519-afv-could-not-find-frequency/?do=findComment&comment=185391)
 - [[February 19th 12:00z-18:00z] Zurich - Tel Aviv Winter Tour](https://forums.vatsim.net/topic/32518-february-19th-1200z-1800z-zurich-tel-aviv-winter-tour/?do=findComment&comment=185390)
@@ -63,8 +65,6 @@
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185387)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185386)
 - [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=185385)
-- [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185384)
-- [hi, I have a problem with vpilot i have the correct cid and password and working internet](https://forums.vatsim.net/topic/32488-hi-i-have-a-problem-with-vpilot-i-have-the-correct-cid-and-password-and-working-internet/?do=findComment&comment=185383)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
