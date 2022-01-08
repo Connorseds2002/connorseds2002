@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New member orientation course](https://forums.vatsim.net/topic/32521-new-member-orientation-course/?do=findComment&comment=185398)
 - [Special Operations - Chief Flight Instructor Special Operations ATO Announced](https://forums.vatsim.net/topic/32507-special-operations-chief-flight-instructor-special-operations-ato-announced/?do=findComment&comment=185397)
 - [Special Operations - Chief Flight Instructor Special Operations ATO Announced](https://forums.vatsim.net/topic/32507-special-operations-chief-flight-instructor-special-operations-ato-announced/?do=findComment&comment=185396)
 - [New member orientation course](https://forums.vatsim.net/topic/32521-new-member-orientation-course/?do=findComment&comment=185395)
@@ -64,7 +65,6 @@
 - [AFV could not find frequency](https://forums.vatsim.net/topic/32519-afv-could-not-find-frequency/?do=findComment&comment=185391)
 - [[February 19th 12:00z-18:00z] Zurich - Tel Aviv Winter Tour](https://forums.vatsim.net/topic/32518-february-19th-1200z-1800z-zurich-tel-aviv-winter-tour/?do=findComment&comment=185390)
 - [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=185389)
-- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185388)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
