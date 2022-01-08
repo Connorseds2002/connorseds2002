@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=185385)
+- [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185384)
 - [hi, I have a problem with vpilot i have the correct cid and password and working internet](https://forums.vatsim.net/topic/32488-hi-i-have-a-problem-with-vpilot-i-have-the-correct-cid-and-password-and-working-internet/?do=findComment&comment=185383)
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185382)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185381)
@@ -63,8 +65,6 @@
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185378)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185377)
 - [Problems with receiving audio in AFV](https://forums.vatsim.net/topic/32498-problems-with-receiving-audio-in-afv/?do=findComment&comment=185376)
-- [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=185375)
-- [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=185374)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
