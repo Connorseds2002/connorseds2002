@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[February 19th 12:00z-18:00z] Zurich - Tel Aviv Winter Tour](https://forums.vatsim.net/topic/32518-february-19th-1200z-1800z-zurich-tel-aviv-winter-tour/?do=findComment&comment=185390)
+- [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=185389)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185388)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185387)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185386)
@@ -63,8 +65,6 @@
 - [hi, I have a problem with vpilot i have the correct cid and password and working internet](https://forums.vatsim.net/topic/32488-hi-i-have-a-problem-with-vpilot-i-have-the-correct-cid-and-password-and-working-internet/?do=findComment&comment=185383)
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185382)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185381)
-- [Canadian Xpress Royal Canadian Air Force Tribute Tour](https://forums.vatsim.net/topic/32517-canadian-xpress-royal-canadian-air-force-tribute-tour/?do=findComment&comment=185380)
-- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185379)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
