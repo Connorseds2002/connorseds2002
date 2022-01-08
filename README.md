@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185388)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185387)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185386)
 - [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=185385)
@@ -64,7 +65,6 @@
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185381)
 - [Canadian Xpress Royal Canadian Air Force Tribute Tour](https://forums.vatsim.net/topic/32517-canadian-xpress-royal-canadian-air-force-tribute-tour/?do=findComment&comment=185380)
 - [When contact Center/Control?](https://forums.vatsim.net/topic/32505-when-contact-centercontrol/?do=findComment&comment=185379)
-- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185378)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
