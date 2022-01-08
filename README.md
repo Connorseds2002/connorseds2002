@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [auto-tag](https://forums.vatsim.net/topic/20106-auto-tag/?do=findComment&comment=185392)
 - [AFV could not find frequency](https://forums.vatsim.net/topic/32519-afv-could-not-find-frequency/?do=findComment&comment=185391)
 - [[February 19th 12:00z-18:00z] Zurich - Tel Aviv Winter Tour](https://forums.vatsim.net/topic/32518-february-19th-1200z-1800z-zurich-tel-aviv-winter-tour/?do=findComment&comment=185390)
 - [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=185389)
@@ -64,7 +65,6 @@
 - [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=185385)
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185384)
 - [hi, I have a problem with vpilot i have the correct cid and password and working internet](https://forums.vatsim.net/topic/32488-hi-i-have-a-problem-with-vpilot-i-have-the-correct-cid-and-password-and-working-internet/?do=findComment&comment=185383)
-- [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=185382)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
