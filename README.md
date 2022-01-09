@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [What is VATSIM&#39;s procedure of entering a Restricted Area?](https://forums.vatsim.net/topic/32523-what-is-vatsims-procedure-of-entering-a-restricted-area/?do=findComment&comment=185414)
+- [&lpar;ACCNPL2&rpar; Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/32413-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=185413)
 - [What is VATSIM&#39;s procedure of entering a Restricted Area?](https://forums.vatsim.net/topic/32523-what-is-vatsims-procedure-of-entering-a-restricted-area/?do=findComment&comment=185412)
 - [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185411)
 - [Model matching options for vPilot](https://forums.vatsim.net/topic/32524-model-matching-options-for-vpilot/?do=findComment&comment=185410)
@@ -63,8 +65,6 @@
 - [What is VATSIM&#39;s procedure of entering a Restricted Area?](https://forums.vatsim.net/topic/32523-what-is-vatsims-procedure-of-entering-a-restricted-area/?do=findComment&comment=185407)
 - [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185406)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185405)
-- [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185404)
-- [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185403)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
