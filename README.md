@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=185418)
+- [[Jan 22] Canadian Xpress January 2022 Monthly Fly-In - Cabo San Lucas](https://forums.vatsim.net/topic/32526-jan-22-canadian-xpress-january-2022-monthly-fly-in-cabo-san-lucas/?do=findComment&comment=185417)
 - [Right Click Menu Intermittent](https://forums.vatsim.net/topic/30996-right-click-menu-intermittent/?do=findComment&comment=185416)
 - [Suggestions to improve SimAware](https://forums.vatsim.net/topic/32525-suggestions-to-improve-simaware/?do=findComment&comment=185415)
 - [What is VATSIM&#39;s procedure of entering a Restricted Area?](https://forums.vatsim.net/topic/32523-what-is-vatsims-procedure-of-entering-a-restricted-area/?do=findComment&comment=185414)
@@ -63,8 +65,6 @@
 - [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185411)
 - [Model matching options for vPilot](https://forums.vatsim.net/topic/32524-model-matching-options-for-vpilot/?do=findComment&comment=185410)
 - [AFV could not find frequency](https://forums.vatsim.net/topic/32519-afv-could-not-find-frequency/?do=findComment&comment=185409)
-- [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185408)
-- [What is VATSIM&#39;s procedure of entering a Restricted Area?](https://forums.vatsim.net/topic/32523-what-is-vatsims-procedure-of-entering-a-restricted-area/?do=findComment&comment=185407)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
