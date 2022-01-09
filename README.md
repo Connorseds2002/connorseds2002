@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=185423)
+- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=185422)
+- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=185421)
 - [Suggestions to improve SimAware](https://forums.vatsim.net/topic/32525-suggestions-to-improve-simaware/?do=findComment&comment=185420)
 - [Suggestions to improve SimAware](https://forums.vatsim.net/topic/32525-suggestions-to-improve-simaware/?do=findComment&comment=185419)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=185418)
@@ -62,9 +65,6 @@
 - [Right Click Menu Intermittent](https://forums.vatsim.net/topic/30996-right-click-menu-intermittent/?do=findComment&comment=185416)
 - [Suggestions to improve SimAware](https://forums.vatsim.net/topic/32525-suggestions-to-improve-simaware/?do=findComment&comment=185415)
 - [What is VATSIM&#39;s procedure of entering a Restricted Area?](https://forums.vatsim.net/topic/32523-what-is-vatsims-procedure-of-entering-a-restricted-area/?do=findComment&comment=185414)
-- [&lpar;ACCNPL2&rpar; Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/32413-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=185413)
-- [What is VATSIM&#39;s procedure of entering a Restricted Area?](https://forums.vatsim.net/topic/32523-what-is-vatsims-procedure-of-entering-a-restricted-area/?do=findComment&comment=185412)
-- [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185411)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
