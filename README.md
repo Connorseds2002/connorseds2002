@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185406)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185405)
 - [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185404)
 - [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185403)
@@ -64,7 +65,6 @@
 - [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185399)
 - [New member orientation course](https://forums.vatsim.net/topic/32521-new-member-orientation-course/?do=findComment&comment=185398)
 - [Special Operations - Chief Flight Instructor Special Operations ATO Announced](https://forums.vatsim.net/topic/32507-special-operations-chief-flight-instructor-special-operations-ato-announced/?do=findComment&comment=185397)
-- [Special Operations - Chief Flight Instructor Special Operations ATO Announced](https://forums.vatsim.net/topic/32507-special-operations-chief-flight-instructor-special-operations-ato-announced/?do=findComment&comment=185396)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
