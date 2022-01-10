@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185438)
+- [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185437)
+- [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185436)
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185435)
 - [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185434)
 - [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185433)
@@ -62,9 +65,6 @@
 - [[VACANCY] Director,  ATS Department / ATC Training - ACCPAK2](https://forums.vatsim.net/topic/32376-vacancy-director-ats-department-atc-training-accpak2/?do=findComment&comment=185431)
 - [[VACANCY] Director, Membership Department - ACCPAK3](https://forums.vatsim.net/topic/32377-vacancy-director-membership-department-accpak3/?do=findComment&comment=185430)
 - [[VACANCY] Director, Events &amp; Marketing Department - ACCPAK4](https://forums.vatsim.net/topic/32378-vacancy-director-events-marketing-department-accpak4/?do=findComment&comment=185429)
-- [Could not load the selected vatSys profile](https://forums.vatsim.net/topic/32527-could-not-load-the-selected-vatsys-profile/?do=findComment&comment=185428)
-- [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185427)
-- [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185426)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
