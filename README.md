@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185454)
+- [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185453)
+- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=185452)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185451)
 - [No Audio on vPilot](https://forums.vatsim.net/topic/32533-no-audio-on-vpilot/?do=findComment&comment=185450)
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185449)
@@ -62,9 +65,6 @@
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185447)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185446)
 - [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185445)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185444)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185443)
-- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185442)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
