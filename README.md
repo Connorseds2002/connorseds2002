@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Director,  ATS Department / ATC Training - ACCPAK2](https://forums.vatsim.net/topic/32376-vacancy-director-ats-department-atc-training-accpak2/?do=findComment&comment=185431)
+- [[VACANCY] Director, Membership Department - ACCPAK3](https://forums.vatsim.net/topic/32377-vacancy-director-membership-department-accpak3/?do=findComment&comment=185430)
+- [[VACANCY] Director, Events &amp; Marketing Department - ACCPAK4](https://forums.vatsim.net/topic/32378-vacancy-director-events-marketing-department-accpak4/?do=findComment&comment=185429)
+- [Could not load the selected vatSys profile](https://forums.vatsim.net/topic/32527-could-not-load-the-selected-vatsys-profile/?do=findComment&comment=185428)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185427)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185426)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185425)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185424)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=185423)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=185422)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=185421)
-- [Suggestions to improve SimAware](https://forums.vatsim.net/topic/32525-suggestions-to-improve-simaware/?do=findComment&comment=185420)
-- [Suggestions to improve SimAware](https://forums.vatsim.net/topic/32525-suggestions-to-improve-simaware/?do=findComment&comment=185419)
-- [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=185418)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
