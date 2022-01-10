@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problems with receiving audio in AFV](https://forums.vatsim.net/topic/32498-problems-with-receiving-audio-in-afv/?do=findComment&comment=185455)
 - [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185454)
 - [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185453)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=185452)
@@ -64,7 +65,6 @@
 - [[VACANCY] vACC Director - Poland](https://forums.vatsim.net/topic/32532-vacancy-vacc-director-poland/?do=findComment&comment=185448)
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185447)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185446)
-- [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185445)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
