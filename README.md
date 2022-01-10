@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185451)
+- [No Audio on vPilot](https://forums.vatsim.net/topic/32533-no-audio-on-vpilot/?do=findComment&comment=185450)
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185449)
 - [[VACANCY] vACC Director - Poland](https://forums.vatsim.net/topic/32532-vacancy-vacc-director-poland/?do=findComment&comment=185448)
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185447)
@@ -63,8 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185444)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185443)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185442)
-- [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185441)
-- [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185440)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
