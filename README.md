@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185446)
+- [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185445)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185444)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185443)
+- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185442)
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185441)
 - [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185440)
 - [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185439)
 - [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185438)
 - [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185437)
-- [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185436)
-- [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185435)
-- [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185434)
-- [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185433)
-- [Fundraiser - Ideas needed](https://forums.vatsim.net/topic/32528-fundraiser-ideas-needed/?do=findComment&comment=185432)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
