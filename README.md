@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185427)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185426)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185425)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185424)
@@ -64,7 +65,6 @@
 - [Suggestions to improve SimAware](https://forums.vatsim.net/topic/32525-suggestions-to-improve-simaware/?do=findComment&comment=185420)
 - [Suggestions to improve SimAware](https://forums.vatsim.net/topic/32525-suggestions-to-improve-simaware/?do=findComment&comment=185419)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=185418)
-- [[Jan 22] Canadian Xpress January 2022 Monthly Fly-In - Cabo San Lucas](https://forums.vatsim.net/topic/32526-jan-22-canadian-xpress-january-2022-monthly-fly-in-cabo-san-lucas/?do=findComment&comment=185417)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
