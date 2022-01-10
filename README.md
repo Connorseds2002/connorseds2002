@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185424)
 - [Ident button](https://forums.vatsim.net/topic/30311-ident-button/?do=findComment&comment=185423)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=185422)
 - [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=185421)
@@ -64,7 +65,6 @@
 - [[Jan 22] Canadian Xpress January 2022 Monthly Fly-In - Cabo San Lucas](https://forums.vatsim.net/topic/32526-jan-22-canadian-xpress-january-2022-monthly-fly-in-cabo-san-lucas/?do=findComment&comment=185417)
 - [Right Click Menu Intermittent](https://forums.vatsim.net/topic/30996-right-click-menu-intermittent/?do=findComment&comment=185416)
 - [Suggestions to improve SimAware](https://forums.vatsim.net/topic/32525-suggestions-to-improve-simaware/?do=findComment&comment=185415)
-- [What is VATSIM&#39;s procedure of entering a Restricted Area?](https://forums.vatsim.net/topic/32523-what-is-vatsims-procedure-of-entering-a-restricted-area/?do=findComment&comment=185414)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
