@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185435)
+- [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185434)
 - [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185433)
 - [Fundraiser - Ideas needed](https://forums.vatsim.net/topic/32528-fundraiser-ideas-needed/?do=findComment&comment=185432)
 - [[VACANCY] Director,  ATS Department / ATC Training - ACCPAK2](https://forums.vatsim.net/topic/32376-vacancy-director-ats-department-atc-training-accpak2/?do=findComment&comment=185431)
@@ -63,8 +65,6 @@
 - [Could not load the selected vatSys profile](https://forums.vatsim.net/topic/32527-could-not-load-the-selected-vatsys-profile/?do=findComment&comment=185428)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185427)
 - [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185426)
-- [new pilot: Can I still do airline flights with a p0 rating?](https://forums.vatsim.net/topic/32504-new-pilot-can-i-still-do-airline-flights-with-a-p0-rating/?do=findComment&comment=185425)
-- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185424)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
