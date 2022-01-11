@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185457)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185456)
 - [Problems with receiving audio in AFV](https://forums.vatsim.net/topic/32498-problems-with-receiving-audio-in-afv/?do=findComment&comment=185455)
 - [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185454)
@@ -64,7 +65,6 @@
 - [No Audio on vPilot](https://forums.vatsim.net/topic/32533-no-audio-on-vpilot/?do=findComment&comment=185450)
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185449)
 - [[VACANCY] vACC Director - Poland](https://forums.vatsim.net/topic/32532-vacancy-vacc-director-poland/?do=findComment&comment=185448)
-- [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185447)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
