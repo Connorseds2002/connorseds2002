@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185467)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185466)
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185465)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185464)
@@ -64,7 +65,6 @@
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185460)
 - [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185459)
 - [Vatsim Scandinavia](https://forums.vatsim.net/topic/32444-vatsim-scandinavia/?do=findComment&comment=185458)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=185457)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
