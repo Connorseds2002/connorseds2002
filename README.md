@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can&#39;t file flightplan with OPR/ longer than 3 chars](https://forums.vatsim.net/topic/32537-cant-file-flightplan-with-opr-longer-than-3-chars/?do=findComment&comment=185470)
 - [Election of New Vice President - Operations](https://forums.vatsim.net/topic/32536-election-of-new-vice-president-operations/?do=findComment&comment=185469)
 - [vPilot and MSFS2020 &lpar;simconnect&rpar;](https://forums.vatsim.net/topic/32534-vpilot-and-msfs2020-simconnect/?do=findComment&comment=185468)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185467)
@@ -64,7 +65,6 @@
 - [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185463)
 - [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185462)
 - [vPilot and MSFS2020 &lpar;simconnect&rpar;](https://forums.vatsim.net/topic/32534-vpilot-and-msfs2020-simconnect/?do=findComment&comment=185461)
-- [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185460)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
