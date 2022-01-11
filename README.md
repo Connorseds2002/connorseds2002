@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185462)
 - [vPilot and MSFS2020 &lpar;simconnect&rpar;](https://forums.vatsim.net/topic/32534-vpilot-and-msfs2020-simconnect/?do=findComment&comment=185461)
 - [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185460)
 - [Repositioning on Ground](https://forums.vatsim.net/topic/32529-repositioning-on-ground/?do=findComment&comment=185459)
@@ -64,7 +65,6 @@
 - [Problems with receiving audio in AFV](https://forums.vatsim.net/topic/32498-problems-with-receiving-audio-in-afv/?do=findComment&comment=185455)
 - [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185454)
 - [Are consecutive dot commands possible ?](https://forums.vatsim.net/topic/32531-are-consecutive-dot-commands-possible/?do=findComment&comment=185453)
-- [3.2.1.27 Issues](https://forums.vatsim.net/topic/31135-32127-issues/?do=findComment&comment=185452)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
