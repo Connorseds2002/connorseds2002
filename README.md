@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Bonza Airline 737 Max livery screenshots](https://forums.vatsim.net/topic/32541-bonza-airline-737-max-livery-screenshots/?do=findComment&comment=185476)
+- [Bonza Airline livery screenshots](https://forums.vatsim.net/topic/32540-bonza-airline-livery-screenshots/?do=findComment&comment=185475)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185474)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185473)
 - [Agenda: VATSIM Board of Governors Meeting 2021Q4 - 15 JAN 2022](https://forums.vatsim.net/topic/32538-agenda-vatsim-board-of-governors-meeting-2021q4-15-jan-2022/?do=findComment&comment=185472)
@@ -63,8 +65,6 @@
 - [Election of New Vice President - Operations](https://forums.vatsim.net/topic/32536-election-of-new-vice-president-operations/?do=findComment&comment=185469)
 - [vPilot and MSFS2020 &lpar;simconnect&rpar;](https://forums.vatsim.net/topic/32534-vpilot-and-msfs2020-simconnect/?do=findComment&comment=185468)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185467)
-- [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185466)
-- [Short routes for A350](https://forums.vatsim.net/topic/32530-short-routes-for-a350/?do=findComment&comment=185465)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
