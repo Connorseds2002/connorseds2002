@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185499)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185498)
+- [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185497)
+- [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185496)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185495)
 - [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185494)
 - [No Audio on vPilot](https://forums.vatsim.net/topic/32533-no-audio-on-vpilot/?do=findComment&comment=185493)
 - [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185492)
 - [[APPOINTMENT] Pakistan vACC Director - Events &amp; Marketing &lpar;ACCPAK4&rpar;](https://forums.vatsim.net/topic/32546-appointment-pakistan-vacc-director-events-marketing-accpak4/?do=findComment&comment=185491)
 - [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185490)
-- [[APPOINTMENT]  Pakistan vACC Director - Membership Department &lpar;ACCPAK3&rpar;](https://forums.vatsim.net/topic/32545-appointment-pakistan-vacc-director-membership-department-accpak3/?do=findComment&comment=185489)
-- [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185488)
-- [No Audio on vPilot](https://forums.vatsim.net/topic/32533-no-audio-on-vpilot/?do=findComment&comment=185487)
-- [Able to Transmit but Not Receive](https://forums.vatsim.net/topic/32435-able-to-transmit-but-not-receive/?do=findComment&comment=185486)
-- [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=185485)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
