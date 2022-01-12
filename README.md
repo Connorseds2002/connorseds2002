@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Challenger 650 integration](https://forums.vatsim.net/topic/32542-challenger-650-integration/?do=findComment&comment=185477)
 - [Bonza Airline 737 Max livery screenshots](https://forums.vatsim.net/topic/32541-bonza-airline-737-max-livery-screenshots/?do=findComment&comment=185476)
 - [Bonza Airline livery screenshots](https://forums.vatsim.net/topic/32540-bonza-airline-livery-screenshots/?do=findComment&comment=185475)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185474)
@@ -64,7 +65,6 @@
 - [Can&#39;t file flightplan with OPR/ longer than 3 chars](https://forums.vatsim.net/topic/32537-cant-file-flightplan-with-opr-longer-than-3-chars/?do=findComment&comment=185470)
 - [Election of New Vice President - Operations](https://forums.vatsim.net/topic/32536-election-of-new-vice-president-operations/?do=findComment&comment=185469)
 - [vPilot and MSFS2020 &lpar;simconnect&rpar;](https://forums.vatsim.net/topic/32534-vpilot-and-msfs2020-simconnect/?do=findComment&comment=185468)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185467)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
