@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185481)
+- [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185480)
 - [Can&#39;t file flightplan with OPR/ longer than 3 chars](https://forums.vatsim.net/topic/32537-cant-file-flightplan-with-opr-longer-than-3-chars/?do=findComment&comment=185479)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185478)
 - [Challenger 650 integration](https://forums.vatsim.net/topic/32542-challenger-650-integration/?do=findComment&comment=185477)
@@ -63,8 +65,6 @@
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185474)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185473)
 - [Agenda: VATSIM Board of Governors Meeting 2021Q4 - 15 JAN 2022](https://forums.vatsim.net/topic/32538-agenda-vatsim-board-of-governors-meeting-2021q4-15-jan-2022/?do=findComment&comment=185472)
-- [Can&#39;t file flightplan with OPR/ longer than 3 chars](https://forums.vatsim.net/topic/32537-cant-file-flightplan-with-opr-longer-than-3-chars/?do=findComment&comment=185471)
-- [Can&#39;t file flightplan with OPR/ longer than 3 chars](https://forums.vatsim.net/topic/32537-cant-file-flightplan-with-opr-longer-than-3-chars/?do=findComment&comment=185470)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
