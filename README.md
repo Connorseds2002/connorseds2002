@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Able to Transmit but Not Receive](https://forums.vatsim.net/topic/32435-able-to-transmit-but-not-receive/?do=findComment&comment=185486)
+- [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=185485)
+- [No Audio on vPilot](https://forums.vatsim.net/topic/32533-no-audio-on-vpilot/?do=findComment&comment=185484)
+- [Challenger 650 integration](https://forums.vatsim.net/topic/32542-challenger-650-integration/?do=findComment&comment=185483)
 - [Division Policy Hotfix](https://forums.vatsim.net/topic/32543-division-policy-hotfix/?do=findComment&comment=185482)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185481)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185480)
 - [Can&#39;t file flightplan with OPR/ longer than 3 chars](https://forums.vatsim.net/topic/32537-cant-file-flightplan-with-opr-longer-than-3-chars/?do=findComment&comment=185479)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185478)
 - [Challenger 650 integration](https://forums.vatsim.net/topic/32542-challenger-650-integration/?do=findComment&comment=185477)
-- [Bonza Airline 737 Max livery screenshots](https://forums.vatsim.net/topic/32541-bonza-airline-737-max-livery-screenshots/?do=findComment&comment=185476)
-- [Bonza Airline livery screenshots](https://forums.vatsim.net/topic/32540-bonza-airline-livery-screenshots/?do=findComment&comment=185475)
-- [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185474)
-- [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185473)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
