@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New to PO training](https://forums.vatsim.net/topic/32547-new-to-po-training/?do=findComment&comment=185514)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185513)
 - [No Audio on vPilot](https://forums.vatsim.net/topic/32533-no-audio-on-vpilot/?do=findComment&comment=185512)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185511)
@@ -64,7 +65,6 @@
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185507)
 - [Multiple Instructors for a Sweatbox Simulator Session?](https://forums.vatsim.net/topic/32513-multiple-instructors-for-a-sweatbox-simulator-session/?do=findComment&comment=185506)
 - [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185505)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185504)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
