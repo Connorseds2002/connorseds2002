@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185519)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185518)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185517)
 - [New to PO training](https://forums.vatsim.net/topic/32547-new-to-po-training/?do=findComment&comment=185516)
@@ -64,7 +65,6 @@
 - [No Audio on vPilot](https://forums.vatsim.net/topic/32533-no-audio-on-vpilot/?do=findComment&comment=185512)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185511)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185510)
-- [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185509)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
