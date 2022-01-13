@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185518)
+- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185517)
 - [New to PO training](https://forums.vatsim.net/topic/32547-new-to-po-training/?do=findComment&comment=185516)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185515)
 - [New to PO training](https://forums.vatsim.net/topic/32547-new-to-po-training/?do=findComment&comment=185514)
@@ -63,8 +65,6 @@
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185511)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185510)
 - [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185509)
-- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185508)
-- [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185507)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
