@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185543)
+- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185542)
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=185541)
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=185540)
 - [[FIXED]I can&#39;t hear any Pilots/ATC](https://forums.vatsim.net/topic/25100-fixedi-cant-hear-any-pilotsatc/?do=findComment&comment=185539)
@@ -63,8 +65,6 @@
 - [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185536)
 - [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185535)
 - [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185534)
-- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185533)
-- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=185532)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
