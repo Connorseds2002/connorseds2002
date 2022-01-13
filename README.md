@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185526)
+- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185525)
+- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185524)
+- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185523)
+- [I completed the new orientation course, but the exam doesn’t show up in my dashboard.](https://forums.vatsim.net/topic/32548-i-completed-the-new-orientation-course-but-the-exam-doesn%E2%80%99t-show-up-in-my-dashboard/?do=findComment&comment=185522)
+- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=185521)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185520)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185519)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185518)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185517)
-- [New to PO training](https://forums.vatsim.net/topic/32547-new-to-po-training/?do=findComment&comment=185516)
-- [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185515)
-- [New to PO training](https://forums.vatsim.net/topic/32547-new-to-po-training/?do=findComment&comment=185514)
-- [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185513)
-- [No Audio on vPilot](https://forums.vatsim.net/topic/32533-no-audio-on-vpilot/?do=findComment&comment=185512)
-- [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185511)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
