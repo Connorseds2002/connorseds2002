@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPilot will have V2 similar to XPilot v2?](https://forums.vatsim.net/topic/32550-vpilot-will-have-v2-similar-to-xpilot-v2/?do=findComment&comment=185528)
+- [VPilot will have V2 similar to XPilot v2?](https://forums.vatsim.net/topic/32550-vpilot-will-have-v2-similar-to-xpilot-v2/?do=findComment&comment=185527)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185526)
 - [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185525)
 - [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185524)
@@ -63,8 +65,6 @@
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=185521)
 - [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185520)
 - [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185519)
-- [Problems with transitions](https://forums.vatsim.net/topic/32535-problems-with-transitions/?do=findComment&comment=185518)
-- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185517)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
