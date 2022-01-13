@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185505)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185504)
 - [Feature Req - Smaller UI and frequency drop in](https://forums.vatsim.net/topic/32371-feature-req-smaller-ui-and-frequency-drop-in/?do=findComment&comment=185503)
 - [Vpilot Velocity Alpha](https://forums.vatsim.net/topic/32497-vpilot-velocity-alpha/?do=findComment&comment=185502)
 - [Feature Req - Smaller UI and frequency drop in](https://forums.vatsim.net/topic/32371-feature-req-smaller-ui-and-frequency-drop-in/?do=findComment&comment=185501)
@@ -63,8 +65,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185498)
 - [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185497)
 - [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185496)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185495)
-- [B377 Stratocruiser Aicraft Type Code for VATSIM](https://forums.vatsim.net/topic/32544-b377-stratocruiser-aicraft-type-code-for-vatsim/?do=findComment&comment=185494)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
