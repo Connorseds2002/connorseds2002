@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[FIXED]I can&#39;t hear any Pilots/ATC](https://forums.vatsim.net/topic/25100-fixedi-cant-hear-any-pilotsatc/?do=findComment&comment=185539)
+- [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=185538)
+- [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=185537)
+- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185536)
+- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185535)
+- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185534)
+- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185533)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=185532)
 - [I completed the new orientation course, but the exam doesn’t show up in my dashboard.](https://forums.vatsim.net/topic/32548-i-completed-the-new-orientation-course-but-the-exam-doesn%E2%80%99t-show-up-in-my-dashboard/?do=findComment&comment=185531)
 - [New to PO training](https://forums.vatsim.net/topic/32547-new-to-po-training/?do=findComment&comment=185530)
-- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185529)
-- [VPilot will have V2 similar to XPilot v2?](https://forums.vatsim.net/topic/32550-vpilot-will-have-v2-similar-to-xpilot-v2/?do=findComment&comment=185528)
-- [VPilot will have V2 similar to XPilot v2?](https://forums.vatsim.net/topic/32550-vpilot-will-have-v2-similar-to-xpilot-v2/?do=findComment&comment=185527)
-- [Euroscope ATIS Maker URL](https://forums.vatsim.net/topic/32539-euroscope-atis-maker-url/?do=findComment&comment=185526)
-- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185525)
-- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185524)
-- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185523)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
