@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185546)
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185545)
+- [Bonza Airline 737 Max livery screenshots](https://forums.vatsim.net/topic/32541-bonza-airline-737-max-livery-screenshots/?do=findComment&comment=185544)
 - [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185543)
 - [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185542)
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=185541)
@@ -62,9 +65,6 @@
 - [[FIXED]I can&#39;t hear any Pilots/ATC](https://forums.vatsim.net/topic/25100-fixedi-cant-hear-any-pilotsatc/?do=findComment&comment=185539)
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=185538)
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=185537)
-- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185536)
-- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185535)
-- [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185534)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
