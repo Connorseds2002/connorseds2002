@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185556)
+- [Historic LOWG-LOWL Concorde Hop](https://forums.vatsim.net/topic/31368-historic-lowg-lowl-concorde-hop/?do=findComment&comment=185555)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185554)
 - [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=185553)
 - [PIA Virtual Pilot of the month giveaway!](https://forums.vatsim.net/topic/32485-pia-virtual-pilot-of-the-month-giveaway/?do=findComment&comment=185552)
@@ -63,8 +65,6 @@
 - [Could not load the selected vatSys profile](https://forums.vatsim.net/topic/32527-could-not-load-the-selected-vatsys-profile/?do=findComment&comment=185548)
 - [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185547)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185546)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185545)
-- [Bonza Airline 737 Max livery screenshots](https://forums.vatsim.net/topic/32541-bonza-airline-737-max-livery-screenshots/?do=findComment&comment=185544)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
