@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AFV/vPilot - No RX](https://forums.vatsim.net/topic/32084-afvvpilot-no-rx/?do=findComment&comment=185549)
 - [Could not load the selected vatSys profile](https://forums.vatsim.net/topic/32527-could-not-load-the-selected-vatsys-profile/?do=findComment&comment=185548)
 - [Please help](https://forums.vatsim.net/topic/32549-please-help/?do=findComment&comment=185547)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185546)
@@ -64,7 +65,6 @@
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=185541)
 - [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=185540)
 - [[FIXED]I can&#39;t hear any Pilots/ATC](https://forums.vatsim.net/topic/25100-fixedi-cant-hear-any-pilotsatc/?do=findComment&comment=185539)
-- [Redbird TD2 cannot set PTT button on yoke](https://forums.vatsim.net/topic/32172-redbird-td2-cannot-set-ptt-button-on-yoke/?do=findComment&comment=185538)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
