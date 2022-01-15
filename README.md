@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185562)
 - [I&#39;m new and I have a question.](https://forums.vatsim.net/topic/32552-im-new-and-i-have-a-question/?do=findComment&comment=185561)
 - [I&#39;m new and I have a question.](https://forums.vatsim.net/topic/32552-im-new-and-i-have-a-question/?do=findComment&comment=185560)
 - [I&#39;m new and I have a question.](https://forums.vatsim.net/topic/32552-im-new-and-i-have-a-question/?do=findComment&comment=185559)
@@ -64,7 +65,6 @@
 - [Historic LOWG-LOWL Concorde Hop](https://forums.vatsim.net/topic/31368-historic-lowg-lowl-concorde-hop/?do=findComment&comment=185555)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185554)
 - [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=185553)
-- [PIA Virtual Pilot of the month giveaway!](https://forums.vatsim.net/topic/32485-pia-virtual-pilot-of-the-month-giveaway/?do=findComment&comment=185552)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
