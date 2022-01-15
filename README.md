@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Right Click Menu Intermittent](https://forums.vatsim.net/topic/30996-right-click-menu-intermittent/?do=findComment&comment=185576)
 - [Error message when trying to start Vpilot](https://forums.vatsim.net/topic/32557-error-message-when-trying-to-start-vpilot/?do=findComment&comment=185575)
 - [Error message when trying to start Vpilot](https://forums.vatsim.net/topic/32557-error-message-when-trying-to-start-vpilot/?do=findComment&comment=185574)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185573)
@@ -64,7 +65,6 @@
 - [Receiving no voice on vPilot](https://forums.vatsim.net/topic/32554-receiving-no-voice-on-vpilot/?do=findComment&comment=185569)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185568)
 - [Receiving no voice on vPilot](https://forums.vatsim.net/topic/32554-receiving-no-voice-on-vpilot/?do=findComment&comment=185567)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185566)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
