@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=185571)
+- [Voice Receive problems - ASUS Sonic Studio](https://forums.vatsim.net/topic/32555-voice-receive-problems-asus-sonic-studio/?do=findComment&comment=185570)
+- [Receiving no voice on vPilot](https://forums.vatsim.net/topic/32554-receiving-no-voice-on-vpilot/?do=findComment&comment=185569)
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185568)
+- [Receiving no voice on vPilot](https://forums.vatsim.net/topic/32554-receiving-no-voice-on-vpilot/?do=findComment&comment=185567)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185566)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=185565)
 - [Virtual Air Europa is open](https://forums.vatsim.net/topic/32553-virtual-air-europa-is-open/?do=findComment&comment=185564)
 - [Join into Discord server](https://forums.vatsim.net/topic/32551-join-into-discord-server/?do=findComment&comment=185563)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185562)
-- [I&#39;m new and I have a question.](https://forums.vatsim.net/topic/32552-im-new-and-i-have-a-question/?do=findComment&comment=185561)
-- [I&#39;m new and I have a question.](https://forums.vatsim.net/topic/32552-im-new-and-i-have-a-question/?do=findComment&comment=185560)
-- [I&#39;m new and I have a question.](https://forums.vatsim.net/topic/32552-im-new-and-i-have-a-question/?do=findComment&comment=185559)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185558)
-- [I&#39;m new and I have a question.](https://forums.vatsim.net/topic/32552-im-new-and-i-have-a-question/?do=findComment&comment=185557)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
