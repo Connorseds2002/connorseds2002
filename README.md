@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [V-Pilot.. I don&#39;t ATC frequencies...](https://forums.vatsim.net/topic/32558-v-pilot-i-dont-atc-frequencies/?do=findComment&comment=185580)
+- [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185579)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185578)
 - [Receiving no voice on vPilot](https://forums.vatsim.net/topic/32554-receiving-no-voice-on-vpilot/?do=findComment&comment=185577)
 - [Right Click Menu Intermittent](https://forums.vatsim.net/topic/30996-right-click-menu-intermittent/?do=findComment&comment=185576)
@@ -63,8 +65,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185573)
 - [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185572)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=185571)
-- [Voice Receive problems - ASUS Sonic Studio](https://forums.vatsim.net/topic/32555-voice-receive-problems-asus-sonic-studio/?do=findComment&comment=185570)
-- [Receiving no voice on vPilot](https://forums.vatsim.net/topic/32554-receiving-no-voice-on-vpilot/?do=findComment&comment=185569)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
