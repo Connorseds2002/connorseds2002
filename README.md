@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185599)
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185598)
 - [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185597)
 - [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185596)
@@ -64,7 +65,6 @@
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185592)
 - [Vpilot does not detect my microphone](https://forums.vatsim.net/topic/29696-vpilot-does-not-detect-my-microphone/?do=findComment&comment=185591)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185590)
-- [Mic not functioning on vatsim for MFS2020](https://forums.vatsim.net/topic/32560-mic-not-functioning-on-vatsim-for-mfs2020/?do=findComment&comment=185589)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
