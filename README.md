@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AFV/vPilot - No RX](https://forums.vatsim.net/topic/32084-afvvpilot-no-rx/?do=findComment&comment=185581)
 - [V-Pilot.. I don&#39;t ATC frequencies...](https://forums.vatsim.net/topic/32558-v-pilot-i-dont-atc-frequencies/?do=findComment&comment=185580)
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185579)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185578)
@@ -64,7 +65,6 @@
 - [Error message when trying to start Vpilot](https://forums.vatsim.net/topic/32557-error-message-when-trying-to-start-vpilot/?do=findComment&comment=185574)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185573)
 - [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185572)
-- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=185571)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
