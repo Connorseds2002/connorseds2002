@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=185586)
+- [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185585)
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185584)
 - [I can not connect to Vatsim.](https://forums.vatsim.net/topic/32559-i-can-not-connect-to-vatsim/?do=findComment&comment=185583)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185582)
@@ -63,8 +65,6 @@
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185579)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185578)
 - [Receiving no voice on vPilot](https://forums.vatsim.net/topic/32554-receiving-no-voice-on-vpilot/?do=findComment&comment=185577)
-- [Right Click Menu Intermittent](https://forums.vatsim.net/topic/30996-right-click-menu-intermittent/?do=findComment&comment=185576)
-- [Error message when trying to start Vpilot](https://forums.vatsim.net/topic/32557-error-message-when-trying-to-start-vpilot/?do=findComment&comment=185575)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
