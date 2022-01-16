@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot does not detect my microphone](https://forums.vatsim.net/topic/29696-vpilot-does-not-detect-my-microphone/?do=findComment&comment=185591)
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185590)
+- [Mic not functioning on vatsim for MFS2020](https://forums.vatsim.net/topic/32560-mic-not-functioning-on-vatsim-for-mfs2020/?do=findComment&comment=185589)
 - [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185588)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185587)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=185586)
@@ -62,9 +65,6 @@
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185584)
 - [I can not connect to Vatsim.](https://forums.vatsim.net/topic/32559-i-can-not-connect-to-vatsim/?do=findComment&comment=185583)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185582)
-- [AFV/vPilot - No RX](https://forums.vatsim.net/topic/32084-afvvpilot-no-rx/?do=findComment&comment=185581)
-- [V-Pilot.. I don&#39;t ATC frequencies...](https://forums.vatsim.net/topic/32558-v-pilot-i-dont-atc-frequencies/?do=findComment&comment=185580)
-- [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185579)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
