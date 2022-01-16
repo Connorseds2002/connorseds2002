@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC can hear me but i cannot recieve any voice](https://forums.vatsim.net/topic/30857-atc-can-hear-me-but-i-cannot-recieve-any-voice/?do=findComment&comment=185595)
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185594)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185593)
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185592)
@@ -64,7 +65,6 @@
 - [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185588)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185587)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=185586)
-- [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185585)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
