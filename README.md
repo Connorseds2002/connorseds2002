@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185598)
+- [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185597)
+- [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185596)
 - [ATC can hear me but i cannot recieve any voice](https://forums.vatsim.net/topic/30857-atc-can-hear-me-but-i-cannot-recieve-any-voice/?do=findComment&comment=185595)
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185594)
 - [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185593)
@@ -62,9 +65,6 @@
 - [Vpilot does not detect my microphone](https://forums.vatsim.net/topic/29696-vpilot-does-not-detect-my-microphone/?do=findComment&comment=185591)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185590)
 - [Mic not functioning on vatsim for MFS2020](https://forums.vatsim.net/topic/32560-mic-not-functioning-on-vatsim-for-mfs2020/?do=findComment&comment=185589)
-- [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185588)
-- [vPilot not reporting AC model](https://forums.vatsim.net/topic/32408-vpilot-not-reporting-ac-model/?do=findComment&comment=185587)
-- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=185586)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
