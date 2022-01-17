@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Nepal vACC] Visiting Controller Application Closed!](https://forums.vatsim.net/topic/32566-nepal-vacc-visiting-controller-application-closed/?do=findComment&comment=185609)
 - [Group Flight [Kathmandu to Lukla]](https://forums.vatsim.net/topic/32565-group-flight-kathmandu-to-lukla/?do=findComment&comment=185608)
 - [[EVENT]: Chennai FIR Overload - Hub &amp; Spoke Ops - January 26, 2021 1300Z - 1700Z](https://forums.vatsim.net/topic/32564-event-chennai-fir-overload-hub-spoke-ops-january-26-2021-1300z-1700z/?do=findComment&comment=185607)
 - [I can not connect to Vatsim.](https://forums.vatsim.net/topic/32559-i-can-not-connect-to-vatsim/?do=findComment&comment=185606)
@@ -64,7 +65,6 @@
 - [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185602)
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185601)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185600)
-- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185599)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
