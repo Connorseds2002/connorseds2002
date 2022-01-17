@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I&#39;m new and I have a question.](https://forums.vatsim.net/topic/32552-im-new-and-i-have-a-question/?do=findComment&comment=185617)
+- [I&#39;m new and I have a question.](https://forums.vatsim.net/topic/32552-im-new-and-i-have-a-question/?do=findComment&comment=185616)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185615)
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185614)
 - [[VACANCY] vACC Director - Poland](https://forums.vatsim.net/topic/32532-vacancy-vacc-director-poland/?do=findComment&comment=185613)
@@ -63,8 +65,6 @@
 - [[Nepal vACC] Visiting Controller Application Closed!](https://forums.vatsim.net/topic/32566-nepal-vacc-visiting-controller-application-closed/?do=findComment&comment=185610)
 - [[Nepal vACC] Visiting Controller Application Closed!](https://forums.vatsim.net/topic/32566-nepal-vacc-visiting-controller-application-closed/?do=findComment&comment=185609)
 - [Group Flight [Kathmandu to Lukla]](https://forums.vatsim.net/topic/32565-group-flight-kathmandu-to-lukla/?do=findComment&comment=185608)
-- [[EVENT]: Chennai FIR Overload - Hub &amp; Spoke Ops - January 26, 2021 1300Z - 1700Z](https://forums.vatsim.net/topic/32564-event-chennai-fir-overload-hub-spoke-ops-january-26-2021-1300z-1700z/?do=findComment&comment=185607)
-- [I can not connect to Vatsim.](https://forums.vatsim.net/topic/32559-i-can-not-connect-to-vatsim/?do=findComment&comment=185606)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
