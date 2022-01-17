@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] vACC Director - Poland](https://forums.vatsim.net/topic/32532-vacancy-vacc-director-poland/?do=findComment&comment=185613)
 - [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185612)
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185611)
 - [[Nepal vACC] Visiting Controller Application Closed!](https://forums.vatsim.net/topic/32566-nepal-vacc-visiting-controller-application-closed/?do=findComment&comment=185610)
@@ -64,7 +65,6 @@
 - [I can not connect to Vatsim.](https://forums.vatsim.net/topic/32559-i-can-not-connect-to-vatsim/?do=findComment&comment=185606)
 - [ATC can hear me but i cannot recieve any voice](https://forums.vatsim.net/topic/30857-atc-can-hear-me-but-i-cannot-recieve-any-voice/?do=findComment&comment=185605)
 - [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185604)
-- [ES Saved files](https://forums.vatsim.net/topic/32563-es-saved-files/?do=findComment&comment=185603)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
