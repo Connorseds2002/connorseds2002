@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I can not connect to Vatsim.](https://forums.vatsim.net/topic/32559-i-can-not-connect-to-vatsim/?do=findComment&comment=185606)
+- [ATC can hear me but i cannot recieve any voice](https://forums.vatsim.net/topic/30857-atc-can-hear-me-but-i-cannot-recieve-any-voice/?do=findComment&comment=185605)
+- [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185604)
 - [ES Saved files](https://forums.vatsim.net/topic/32563-es-saved-files/?do=findComment&comment=185603)
 - [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185602)
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185601)
@@ -62,9 +65,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=185599)
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185598)
 - [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185597)
-- [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185596)
-- [ATC can hear me but i cannot recieve any voice](https://forums.vatsim.net/topic/30857-atc-can-hear-me-but-i-cannot-recieve-any-voice/?do=findComment&comment=185595)
-- [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185594)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
