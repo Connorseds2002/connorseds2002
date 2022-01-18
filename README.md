@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Jordan vACC Membership Director &lpar;ACCJO6&rpar;](https://forums.vatsim.net/topic/32567-vacancy-jordan-vacc-membership-director-accjo6/?do=findComment&comment=185621)
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185620)
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185619)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185618)
@@ -64,7 +65,6 @@
 - [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185614)
 - [[VACANCY] vACC Director - Poland](https://forums.vatsim.net/topic/32532-vacancy-vacc-director-poland/?do=findComment&comment=185613)
 - [CTD on Final into KDTW](https://forums.vatsim.net/topic/32556-ctd-on-final-into-kdtw/?do=findComment&comment=185612)
-- [VA tracker immeadiately deemed illegal operation.](https://forums.vatsim.net/topic/32561-va-tracker-immeadiately-deemed-illegal-operation/?do=findComment&comment=185611)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
