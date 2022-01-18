@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185629)
 - [Join into Discord server](https://forums.vatsim.net/topic/32551-join-into-discord-server/?do=findComment&comment=185628)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185627)
 - [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185626)
@@ -64,7 +65,6 @@
 - [Thank you Ian and recruitment of director for Philippines VACC](https://forums.vatsim.net/topic/32568-thank-you-ian-and-recruitment-of-director-for-philippines-vacc/?do=findComment&comment=185622)
 - [[VACANCY] Jordan vACC Membership Director &lpar;ACCJO6&rpar;](https://forums.vatsim.net/topic/32567-vacancy-jordan-vacc-membership-director-accjo6/?do=findComment&comment=185621)
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185620)
-- [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185619)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
