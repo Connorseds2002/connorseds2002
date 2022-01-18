@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Microphone not working with Dell Alienware 7.1 510H gaming headset](https://forums.vatsim.net/topic/32572-microphone-not-working-with-dell-alienware-71-510h-gaming-headset/?do=findComment&comment=185638)
+- [Microphone not working with Dell Alienware 7.1 510H gaming headset](https://forums.vatsim.net/topic/32572-microphone-not-working-with-dell-alienware-71-510h-gaming-headset/?do=findComment&comment=185637)
+- [Can&#39;t Retake Orientation Test](https://forums.vatsim.net/topic/32571-cant-retake-orientation-test/?do=findComment&comment=185636)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185635)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185634)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185633)
@@ -62,9 +65,6 @@
 - [[SOLVED] xPilot Headphones not in &quot;Listen Device&quot;](https://forums.vatsim.net/topic/32570-solved-xpilot-headphones-not-in-listen-device/?do=findComment&comment=185631)
 - [[SOLVED] xPilot Headphones not in &quot;Listen Device&quot;](https://forums.vatsim.net/topic/32570-solved-xpilot-headphones-not-in-listen-device/?do=findComment&comment=185630)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185629)
-- [Join into Discord server](https://forums.vatsim.net/topic/32551-join-into-discord-server/?do=findComment&comment=185628)
-- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185627)
-- [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185626)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
