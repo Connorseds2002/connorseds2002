@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Join into Discord server](https://forums.vatsim.net/topic/32551-join-into-discord-server/?do=findComment&comment=185628)
+- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185627)
 - [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185626)
 - [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185625)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185624)
@@ -63,8 +65,6 @@
 - [[VACANCY] Jordan vACC Membership Director &lpar;ACCJO6&rpar;](https://forums.vatsim.net/topic/32567-vacancy-jordan-vacc-membership-director-accjo6/?do=findComment&comment=185621)
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185620)
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185619)
-- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=185618)
-- [I&#39;m new and I have a question.](https://forums.vatsim.net/topic/32552-im-new-and-i-have-a-question/?do=findComment&comment=185617)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
