@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185633)
+- [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185632)
 - [[SOLVED] xPilot Headphones not in &quot;Listen Device&quot;](https://forums.vatsim.net/topic/32570-solved-xpilot-headphones-not-in-listen-device/?do=findComment&comment=185631)
 - [[SOLVED] xPilot Headphones not in &quot;Listen Device&quot;](https://forums.vatsim.net/topic/32570-solved-xpilot-headphones-not-in-listen-device/?do=findComment&comment=185630)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185629)
@@ -63,8 +65,6 @@
 - [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185626)
 - [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185625)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185624)
-- [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=185623)
-- [Thank you Ian and recruitment of director for Philippines VACC](https://forums.vatsim.net/topic/32568-thank-you-ian-and-recruitment-of-director-for-philippines-vacc/?do=findComment&comment=185622)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
