@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185648)
 - [ATC can hear me but i cannot recieve any voice](https://forums.vatsim.net/topic/30857-atc-can-hear-me-but-i-cannot-recieve-any-voice/?do=findComment&comment=185647)
 - [Unhandled Exception](https://forums.vatsim.net/topic/32028-unhandled-exception/?do=findComment&comment=185646)
 - [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185645)
@@ -64,7 +65,6 @@
 - [Can&#39;t Retake Orientation Test](https://forums.vatsim.net/topic/32571-cant-retake-orientation-test/?do=findComment&comment=185641)
 - [Can&#39;t join on any Discord Server](https://forums.vatsim.net/topic/32573-cant-join-on-any-discord-server/?do=findComment&comment=185640)
 - [Can&#39;t join on any Discord Server](https://forums.vatsim.net/topic/32573-cant-join-on-any-discord-server/?do=findComment&comment=185639)
-- [Microphone not working with Dell Alienware 7.1 510H gaming headset](https://forums.vatsim.net/topic/32572-microphone-not-working-with-dell-alienware-71-510h-gaming-headset/?do=findComment&comment=185638)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
