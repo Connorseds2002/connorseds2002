@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Director,  ATS Department / ATC Training - ACCPAK2](https://forums.vatsim.net/topic/32376-vacancy-director-ats-department-atc-training-accpak2/?do=findComment&comment=185644)
 - [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185643)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185642)
 - [Can&#39;t Retake Orientation Test](https://forums.vatsim.net/topic/32571-cant-retake-orientation-test/?do=findComment&comment=185641)
@@ -64,7 +65,6 @@
 - [Microphone not working with Dell Alienware 7.1 510H gaming headset](https://forums.vatsim.net/topic/32572-microphone-not-working-with-dell-alienware-71-510h-gaming-headset/?do=findComment&comment=185637)
 - [Can&#39;t Retake Orientation Test](https://forums.vatsim.net/topic/32571-cant-retake-orientation-test/?do=findComment&comment=185636)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185635)
-- [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185634)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
