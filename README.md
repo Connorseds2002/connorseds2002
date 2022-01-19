@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT]  Pakistan vACC Director - ATS &lpar;Air Traffic Services&rpar; / ATC Training Department &lpar;ACCPAK2&rpar;](https://forums.vatsim.net/topic/32574-appointment-pakistan-vacc-director-ats-air-traffic-services-atc-training-department-accpak2/?do=findComment&comment=185649)
 - [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185648)
 - [ATC can hear me but i cannot recieve any voice](https://forums.vatsim.net/topic/30857-atc-can-hear-me-but-i-cannot-recieve-any-voice/?do=findComment&comment=185647)
 - [Unhandled Exception](https://forums.vatsim.net/topic/32028-unhandled-exception/?do=findComment&comment=185646)
@@ -64,7 +65,6 @@
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185642)
 - [Can&#39;t Retake Orientation Test](https://forums.vatsim.net/topic/32571-cant-retake-orientation-test/?do=findComment&comment=185641)
 - [Can&#39;t join on any Discord Server](https://forums.vatsim.net/topic/32573-cant-join-on-any-discord-server/?do=findComment&comment=185640)
-- [Can&#39;t join on any Discord Server](https://forums.vatsim.net/topic/32573-cant-join-on-any-discord-server/?do=findComment&comment=185639)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
