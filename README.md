@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Stand numbers in FSX:SE](https://forums.vatsim.net/topic/32576-stand-numbers-in-fsxse/?do=findComment&comment=185652)
 - [Remove me from discord](https://forums.vatsim.net/topic/32575-remove-me-from-discord/?do=findComment&comment=185651)
 - [[12th February 2022] CTL227 - Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/32297-12th-february-2022-ctl227-cross-the-land-westbound-2021/?do=findComment&comment=185650)
 - [[APPOINTMENT]  Pakistan vACC Director - ATS &lpar;Air Traffic Services&rpar; / ATC Training Department &lpar;ACCPAK2&rpar;](https://forums.vatsim.net/topic/32574-appointment-pakistan-vacc-director-ats-air-traffic-services-atc-training-department-accpak2/?do=findComment&comment=185649)
@@ -64,7 +65,6 @@
 - [V-Pilot.. unable to see the ATC radio frequencies](https://forums.vatsim.net/topic/32562-v-pilot-unable-to-see-the-atc-radio-frequencies/?do=findComment&comment=185645)
 - [[VACANCY] Director,  ATS Department / ATC Training - ACCPAK2](https://forums.vatsim.net/topic/32376-vacancy-director-ats-department-atc-training-accpak2/?do=findComment&comment=185644)
 - [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185643)
-- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185642)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
