@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Direct to waypoint](https://forums.vatsim.net/topic/32489-direct-to-waypoint/?do=findComment&comment=185643)
 - [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185642)
 - [Can&#39;t Retake Orientation Test](https://forums.vatsim.net/topic/32571-cant-retake-orientation-test/?do=findComment&comment=185641)
 - [Can&#39;t join on any Discord Server](https://forums.vatsim.net/topic/32573-cant-join-on-any-discord-server/?do=findComment&comment=185640)
@@ -64,7 +65,6 @@
 - [Can&#39;t Retake Orientation Test](https://forums.vatsim.net/topic/32571-cant-retake-orientation-test/?do=findComment&comment=185636)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185635)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185634)
-- [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185633)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
