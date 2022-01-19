@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to join Discord](https://forums.vatsim.net/topic/32516-unable-to-join-discord/?do=findComment&comment=185642)
+- [Can&#39;t Retake Orientation Test](https://forums.vatsim.net/topic/32571-cant-retake-orientation-test/?do=findComment&comment=185641)
+- [Can&#39;t join on any Discord Server](https://forums.vatsim.net/topic/32573-cant-join-on-any-discord-server/?do=findComment&comment=185640)
 - [Can&#39;t join on any Discord Server](https://forums.vatsim.net/topic/32573-cant-join-on-any-discord-server/?do=findComment&comment=185639)
 - [Microphone not working with Dell Alienware 7.1 510H gaming headset](https://forums.vatsim.net/topic/32572-microphone-not-working-with-dell-alienware-71-510h-gaming-headset/?do=findComment&comment=185638)
 - [Microphone not working with Dell Alienware 7.1 510H gaming headset](https://forums.vatsim.net/topic/32572-microphone-not-working-with-dell-alienware-71-510h-gaming-headset/?do=findComment&comment=185637)
@@ -62,9 +65,6 @@
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185635)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185634)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185633)
-- [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185632)
-- [[SOLVED] xPilot Headphones not in &quot;Listen Device&quot;](https://forums.vatsim.net/topic/32570-solved-xpilot-headphones-not-in-listen-device/?do=findComment&comment=185631)
-- [[SOLVED] xPilot Headphones not in &quot;Listen Device&quot;](https://forums.vatsim.net/topic/32570-solved-xpilot-headphones-not-in-listen-device/?do=findComment&comment=185630)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
