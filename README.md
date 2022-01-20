@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Matching](https://forums.vatsim.net/topic/32580-model-matching/?do=findComment&comment=185663)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185662)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185661)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185660)
@@ -64,7 +65,6 @@
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185656)
 - [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185655)
 - [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185654)
-- [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185653)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
