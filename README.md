@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185662)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185661)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185660)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185659)
@@ -64,7 +65,6 @@
 - [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185655)
 - [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185654)
 - [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185653)
-- [Stand numbers in FSX:SE](https://forums.vatsim.net/topic/32576-stand-numbers-in-fsxse/?do=findComment&comment=185652)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
