@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185661)
+- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185660)
+- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185659)
 - [Pacific Control Facility - Feedback broken](https://forums.vatsim.net/topic/32579-pacific-control-facility-feedback-broken/?do=findComment&comment=185658)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185657)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185656)
@@ -62,9 +65,6 @@
 - [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185654)
 - [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185653)
 - [Stand numbers in FSX:SE](https://forums.vatsim.net/topic/32576-stand-numbers-in-fsxse/?do=findComment&comment=185652)
-- [Remove me from discord](https://forums.vatsim.net/topic/32575-remove-me-from-discord/?do=findComment&comment=185651)
-- [[12th February 2022] CTL227 - Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/32297-12th-february-2022-ctl227-cross-the-land-westbound-2021/?do=findComment&comment=185650)
-- [[APPOINTMENT]  Pakistan vACC Director - ATS &lpar;Air Traffic Services&rpar; / ATC Training Department &lpar;ACCPAK2&rpar;](https://forums.vatsim.net/topic/32574-appointment-pakistan-vacc-director-ats-air-traffic-services-atc-training-department-accpak2/?do=findComment&comment=185649)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
