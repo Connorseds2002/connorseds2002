@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=185686)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=185685)
 - [questions from a noob](https://forums.vatsim.net/topic/32584-questions-from-a-noob/?do=findComment&comment=185684)
 - [questions from a noob](https://forums.vatsim.net/topic/32584-questions-from-a-noob/?do=findComment&comment=185683)
@@ -64,7 +65,6 @@
 - [Sorry support team](https://forums.vatsim.net/topic/32582-sorry-support-team/?do=findComment&comment=185679)
 - [Highly annoying sounds during flight coming from xPilot](https://forums.vatsim.net/topic/32583-highly-annoying-sounds-during-flight-coming-from-xpilot/?do=findComment&comment=185678)
 - [Sorry support team](https://forums.vatsim.net/topic/32582-sorry-support-team/?do=findComment&comment=185677)
-- [PIAv Group Flight Karachi - Sharjah](https://forums.vatsim.net/topic/32581-piav-group-flight-karachi-sharjah/?do=findComment&comment=185676)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
