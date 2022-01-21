@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [questions from a noob](https://forums.vatsim.net/topic/32584-questions-from-a-noob/?do=findComment&comment=185684)
+- [questions from a noob](https://forums.vatsim.net/topic/32584-questions-from-a-noob/?do=findComment&comment=185683)
+- [questions from a noob](https://forums.vatsim.net/topic/32584-questions-from-a-noob/?do=findComment&comment=185682)
+- [questions from a noob](https://forums.vatsim.net/topic/32584-questions-from-a-noob/?do=findComment&comment=185681)
 - [Highly annoying sounds during flight coming from xPilot](https://forums.vatsim.net/topic/32583-highly-annoying-sounds-during-flight-coming-from-xpilot/?do=findComment&comment=185680)
 - [Sorry support team](https://forums.vatsim.net/topic/32582-sorry-support-team/?do=findComment&comment=185679)
 - [Highly annoying sounds during flight coming from xPilot](https://forums.vatsim.net/topic/32583-highly-annoying-sounds-during-flight-coming-from-xpilot/?do=findComment&comment=185678)
 - [Sorry support team](https://forums.vatsim.net/topic/32582-sorry-support-team/?do=findComment&comment=185677)
 - [PIAv Group Flight Karachi - Sharjah](https://forums.vatsim.net/topic/32581-piav-group-flight-karachi-sharjah/?do=findComment&comment=185676)
 - [PIAv Group Flight Karachi - Sharjah](https://forums.vatsim.net/topic/32581-piav-group-flight-karachi-sharjah/?do=findComment&comment=185675)
-- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185674)
-- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185673)
-- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185672)
-- [Pacific Control Facility - Feedback broken](https://forums.vatsim.net/topic/32579-pacific-control-facility-feedback-broken/?do=findComment&comment=185671)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
