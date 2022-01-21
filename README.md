@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PIAv Group Flight Karachi - Sharjah](https://forums.vatsim.net/topic/32581-piav-group-flight-karachi-sharjah/?do=findComment&comment=185676)
+- [PIAv Group Flight Karachi - Sharjah](https://forums.vatsim.net/topic/32581-piav-group-flight-karachi-sharjah/?do=findComment&comment=185675)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185674)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185673)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185672)
@@ -63,8 +65,6 @@
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185669)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185668)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185667)
-- [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185666)
-- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185665)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
