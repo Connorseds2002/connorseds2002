@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185693)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185692)
 - [MSFS settings questions](https://forums.vatsim.net/topic/32585-msfs-settings-questions/?do=findComment&comment=185691)
 - [Stand numbers in FSX:SE](https://forums.vatsim.net/topic/32576-stand-numbers-in-fsxse/?do=findComment&comment=185690)
@@ -64,7 +65,6 @@
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=185686)
 - [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=185685)
 - [questions from a noob](https://forums.vatsim.net/topic/32584-questions-from-a-noob/?do=findComment&comment=185684)
-- [questions from a noob](https://forums.vatsim.net/topic/32584-questions-from-a-noob/?do=findComment&comment=185683)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
