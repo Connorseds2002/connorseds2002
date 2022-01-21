@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185674)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185673)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185672)
 - [Pacific Control Facility - Feedback broken](https://forums.vatsim.net/topic/32579-pacific-control-facility-feedback-broken/?do=findComment&comment=185671)
@@ -64,7 +65,6 @@
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185667)
 - [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185666)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185665)
-- [New pilot](https://forums.vatsim.net/topic/32577-new-pilot/?do=findComment&comment=185664)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
