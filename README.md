@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM without ATC and a suggestion about progress](https://forums.vatsim.net/topic/32586-vatsim-without-atc-and-a-suggestion-about-progress/?do=findComment&comment=185702)
 - [VATSIM without ATC and a suggestion about progress](https://forums.vatsim.net/topic/32586-vatsim-without-atc-and-a-suggestion-about-progress/?do=findComment&comment=185701)
 - [vpilot just crashing on launch](https://forums.vatsim.net/topic/32587-vpilot-just-crashing-on-launch/?do=findComment&comment=185700)
 - [VATSIM without ATC and a suggestion about progress](https://forums.vatsim.net/topic/32586-vatsim-without-atc-and-a-suggestion-about-progress/?do=findComment&comment=185699)
@@ -64,7 +65,6 @@
 - [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=185695)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185694)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185693)
-- [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185692)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
