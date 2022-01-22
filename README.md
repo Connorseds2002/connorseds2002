@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=185697)
 - [XPilot Disconnecting](https://forums.vatsim.net/topic/27366-xpilot-disconnecting/?do=findComment&comment=185696)
 - [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=185695)
 - [Please help!](https://forums.vatsim.net/topic/32578-please-help/?do=findComment&comment=185694)
@@ -64,7 +65,6 @@
 - [Stand numbers in FSX:SE](https://forums.vatsim.net/topic/32576-stand-numbers-in-fsxse/?do=findComment&comment=185690)
 - [MSFS settings questions](https://forums.vatsim.net/topic/32585-msfs-settings-questions/?do=findComment&comment=185689)
 - [MSFS settings questions](https://forums.vatsim.net/topic/32585-msfs-settings-questions/?do=findComment&comment=185688)
-- [You have no exams assigned](https://forums.vatsim.net/topic/30701-you-have-no-exams-assigned/?do=findComment&comment=185687)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
