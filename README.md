@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=185716)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185715)
 - [&quot;Realistic Audio&quot; adjustment](https://forums.vatsim.net/topic/32590-realistic-audio-adjustment/?do=findComment&comment=185714)
 - [&quot;Realistic Audio&quot; adjustment](https://forums.vatsim.net/topic/32590-realistic-audio-adjustment/?do=findComment&comment=185713)
@@ -64,7 +65,6 @@
 - [VATSIM without ATC and a suggestion about progress](https://forums.vatsim.net/topic/32586-vatsim-without-atc-and-a-suggestion-about-progress/?do=findComment&comment=185709)
 - [[12th February 2022] CTL227 - Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/32297-12th-february-2022-ctl227-cross-the-land-westbound-2021/?do=findComment&comment=185708)
 - [VATSIM without ATC and a suggestion about progress](https://forums.vatsim.net/topic/32586-vatsim-without-atc-and-a-suggestion-about-progress/?do=findComment&comment=185707)
-- [Simbrief stopover](https://forums.vatsim.net/topic/32589-simbrief-stopover/?do=findComment&comment=185706)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
