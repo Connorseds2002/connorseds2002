@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185724)
 - [&quot;Server Full&quot;](https://forums.vatsim.net/topic/32592-server-full/?do=findComment&comment=185723)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185722)
 - [&quot;Server Full&quot;](https://forums.vatsim.net/topic/32592-server-full/?do=findComment&comment=185721)
@@ -64,7 +65,6 @@
 - [Simbrief stopover](https://forums.vatsim.net/topic/32589-simbrief-stopover/?do=findComment&comment=185717)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=185716)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185715)
-- [&quot;Realistic Audio&quot; adjustment](https://forums.vatsim.net/topic/32590-realistic-audio-adjustment/?do=findComment&comment=185714)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
