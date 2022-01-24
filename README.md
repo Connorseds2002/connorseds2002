@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Introduction . . . and an observation](https://forums.vatsim.net/topic/32596-introduction-and-an-observation/?do=findComment&comment=185741)
 - [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185740)
 - [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185739)
 - [Yesterday &lpar;2022-01-24&rpar; afternoon/evening at KCHS](https://forums.vatsim.net/topic/32594-yesterday-2022-01-24-afternoonevening-at-kchs/?do=findComment&comment=185738)
@@ -64,7 +65,6 @@
 - [Model Matching](https://forums.vatsim.net/topic/32580-model-matching/?do=findComment&comment=185734)
 - [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185733)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=185732)
-- [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185731)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
