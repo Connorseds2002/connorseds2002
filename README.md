@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185760)
 - [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=185759)
 - [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=185758)
 - [How and where to change flight callsign](https://forums.vatsim.net/topic/32597-how-and-where-to-change-flight-callsign/?do=findComment&comment=185757)
@@ -64,7 +65,6 @@
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185753)
 - [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185752)
 - [Sorry support team](https://forums.vatsim.net/topic/32582-sorry-support-team/?do=findComment&comment=185751)
-- [VATSIM without ATC and a suggestion about progress](https://forums.vatsim.net/topic/32586-vatsim-without-atc-and-a-suggestion-about-progress/?do=findComment&comment=185750)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
