@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185798)
+- [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185797)
+- [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185796)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185795)
 - [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185794)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185793)
@@ -62,9 +65,6 @@
 - [I&#39;m a newbie.  Tell me what I did wrong, please?](https://forums.vatsim.net/topic/32602-im-a-newbie-tell-me-what-i-did-wrong-please/?do=findComment&comment=185791)
 - [I&#39;m a newbie.  Tell me what I did wrong, please?](https://forums.vatsim.net/topic/32602-im-a-newbie-tell-me-what-i-did-wrong-please/?do=findComment&comment=185790)
 - [Parse URL strings](https://forums.vatsim.net/topic/32603-parse-url-strings/?do=findComment&comment=185789)
-- [I&#39;m a newbie.  Tell me what I did wrong, please?](https://forums.vatsim.net/topic/32602-im-a-newbie-tell-me-what-i-did-wrong-please/?do=findComment&comment=185788)
-- [I&#39;m a newbie.  Tell me what I did wrong, please?](https://forums.vatsim.net/topic/32602-im-a-newbie-tell-me-what-i-did-wrong-please/?do=findComment&comment=185787)
-- [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=185786)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
