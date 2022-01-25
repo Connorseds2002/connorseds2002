@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185773)
 - [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185772)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185771)
 - [Speakers &amp; mic](https://forums.vatsim.net/topic/32599-speakers-mic/?do=findComment&comment=185770)
@@ -64,7 +65,6 @@
 - [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185766)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185765)
 - [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185764)
-- [How and where to change flight callsign](https://forums.vatsim.net/topic/32597-how-and-where-to-change-flight-callsign/?do=findComment&comment=185763)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
