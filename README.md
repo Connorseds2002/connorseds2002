@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185765)
+- [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185764)
 - [How and where to change flight callsign](https://forums.vatsim.net/topic/32597-how-and-where-to-change-flight-callsign/?do=findComment&comment=185763)
 - [VATSIM without ATC and a suggestion about progress](https://forums.vatsim.net/topic/32586-vatsim-without-atc-and-a-suggestion-about-progress/?do=findComment&comment=185762)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185761)
@@ -63,8 +65,6 @@
 - [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=185758)
 - [How and where to change flight callsign](https://forums.vatsim.net/topic/32597-how-and-where-to-change-flight-callsign/?do=findComment&comment=185757)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=185756)
-- [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185755)
-- [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185754)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
