@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM without ATC and a suggestion about progress](https://forums.vatsim.net/topic/32586-vatsim-without-atc-and-a-suggestion-about-progress/?do=findComment&comment=185762)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185761)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185760)
 - [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=185759)
@@ -64,7 +65,6 @@
 - [IFR approaches and departures in the real world in commercial flights](https://forums.vatsim.net/topic/32522-ifr-approaches-and-departures-in-the-real-world-in-commercial-flights/?do=findComment&comment=185755)
 - [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185754)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185753)
-- [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185752)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
