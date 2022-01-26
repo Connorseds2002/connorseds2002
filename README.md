@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Viewing aircraft on external view machines &lpar;2nd computer&rpar; in x-plane](https://forums.vatsim.net/topic/32606-viewing-aircraft-on-external-view-machines-2nd-computer-in-x-plane/?do=findComment&comment=185841)
 - [xPilot dataref behavior issue tied to CSLs &lpar;HotStart Challenger 650&rpar;](https://forums.vatsim.net/topic/32604-xpilot-dataref-behavior-issue-tied-to-csls-hotstart-challenger-650/?do=findComment&comment=185840)
 - [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185839)
 - [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185838)
@@ -64,7 +65,6 @@
 - [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185834)
 - [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185833)
 - [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185832)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185831)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
