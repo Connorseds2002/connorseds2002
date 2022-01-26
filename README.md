@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=185831)
+- [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185830)
 - [Sectorfiles in Euroscope V 3.2](https://forums.vatsim.net/topic/32605-sectorfiles-in-euroscope-v-32/?do=findComment&comment=185829)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185828)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185827)
@@ -63,8 +65,6 @@
 - [I&#39;m a newbie.  Tell me what I did wrong, please?](https://forums.vatsim.net/topic/32602-im-a-newbie-tell-me-what-i-did-wrong-please/?do=findComment&comment=185824)
 - [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185823)
 - [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185822)
-- [I&#39;m a newbie.  Tell me what I did wrong, please?](https://forums.vatsim.net/topic/32602-im-a-newbie-tell-me-what-i-did-wrong-please/?do=findComment&comment=185821)
-- [Different FL in flight.](https://forums.vatsim.net/topic/32588-different-fl-in-flight/?do=findComment&comment=185820)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
