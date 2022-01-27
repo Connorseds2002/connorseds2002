@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185870)
+- [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185869)
+- [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185868)
+- [Any way to improve atc voice quality?](https://forums.vatsim.net/topic/32607-any-way-to-improve-atc-voice-quality/?do=findComment&comment=185867)
 - [My account is suspended](https://forums.vatsim.net/topic/32608-my-account-is-suspended/?do=findComment&comment=185866)
 - [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185865)
 - [Splits [EuroControl Maastricht UAC] Operational from AIRAC 2112](https://forums.vatsim.net/topic/32187-splits-eurocontrol-maastricht-uac-operational-from-airac-2112/?do=findComment&comment=185864)
 - [Any way to improve atc voice quality?](https://forums.vatsim.net/topic/32607-any-way-to-improve-atc-voice-quality/?do=findComment&comment=185863)
 - [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185862)
 - [Any way to improve atc voice quality?](https://forums.vatsim.net/topic/32607-any-way-to-improve-atc-voice-quality/?do=findComment&comment=185861)
-- [Splits [EuroControl Maastricht UAC] Operational from AIRAC 2112](https://forums.vatsim.net/topic/32187-splits-eurocontrol-maastricht-uac-operational-from-airac-2112/?do=findComment&comment=185860)
-- [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185859)
-- [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185858)
-- [no ATC details](https://forums.vatsim.net/topic/32609-no-atc-details/?do=findComment&comment=185857)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
