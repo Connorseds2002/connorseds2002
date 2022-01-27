@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=185851)
+- [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185850)
+- [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185849)
 - [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185848)
 - [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185847)
 - [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185846)
@@ -62,9 +65,6 @@
 - [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185844)
 - [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185843)
 - [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=185842)
-- [Viewing aircraft on external view machines &lpar;2nd computer&rpar; in x-plane](https://forums.vatsim.net/topic/32606-viewing-aircraft-on-external-view-machines-2nd-computer-in-x-plane/?do=findComment&comment=185841)
-- [xPilot dataref behavior issue tied to CSLs &lpar;HotStart Challenger 650&rpar;](https://forums.vatsim.net/topic/32604-xpilot-dataref-behavior-issue-tied-to-csls-hotstart-challenger-650/?do=findComment&comment=185840)
-- [Trying to install Swift and have reached a dead end, help please](https://forums.vatsim.net/topic/32591-trying-to-install-swift-and-have-reached-a-dead-end-help-please/?do=findComment&comment=185839)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
