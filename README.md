@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My account is suspended](https://forums.vatsim.net/topic/32608-my-account-is-suspended/?do=findComment&comment=185856)
+- [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185855)
 - [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185854)
 - [Any way to improve atc voice quality?](https://forums.vatsim.net/topic/32607-any-way-to-improve-atc-voice-quality/?do=findComment&comment=185853)
 - [Account suspended](https://forums.vatsim.net/topic/28305-account-suspended/?do=findComment&comment=185852)
@@ -63,8 +65,6 @@
 - [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185849)
 - [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185848)
 - [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185847)
-- [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185846)
-- [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185845)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
