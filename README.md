@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[ACCWAF8] - Operations Manager](https://forums.vatsim.net/topic/32612-accwaf8-operations-manager/?do=findComment&comment=185876)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185875)
 - [My account is suspended](https://forums.vatsim.net/topic/32608-my-account-is-suspended/?do=findComment&comment=185874)
 - [Discord account stolen with connection to vatsim servers.](https://forums.vatsim.net/topic/32610-discord-account-stolen-with-connection-to-vatsim-servers/?do=findComment&comment=185873)
 - [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185872)
@@ -63,8 +65,6 @@
 - [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185869)
 - [Introduction . . . and observations](https://forums.vatsim.net/topic/32596-introduction-and-observations/?do=findComment&comment=185868)
 - [Any way to improve atc voice quality?](https://forums.vatsim.net/topic/32607-any-way-to-improve-atc-voice-quality/?do=findComment&comment=185867)
-- [My account is suspended](https://forums.vatsim.net/topic/32608-my-account-is-suspended/?do=findComment&comment=185866)
-- [Issue with .ASDEX](https://forums.vatsim.net/topic/32600-issue-with-asdex/?do=findComment&comment=185865)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
