@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Creation and Update of Sector Files VATIL](https://forums.vatsim.net/topic/32111-creation-and-update-of-sector-files-vatil/?do=findComment&comment=185910)
+- [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=185909)
 - [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=185908)
 - [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=185907)
 - [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=185906)
@@ -63,8 +65,6 @@
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185903)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185902)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185901)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185900)
-- [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=185899)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
