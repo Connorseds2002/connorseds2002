@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New User - No Audio](https://forums.vatsim.net/topic/32626-new-user-no-audio/?do=findComment&comment=185946)
+- [error](https://forums.vatsim.net/topic/32625-error/?do=findComment&comment=185945)
 - [Remove me from discord](https://forums.vatsim.net/topic/32575-remove-me-from-discord/?do=findComment&comment=185944)
 - [What does it mean &quot;Below the line&quot; whenver doing checklists?](https://forums.vatsim.net/topic/32624-what-does-it-mean-below-the-line-whenver-doing-checklists/?do=findComment&comment=185943)
 - [What does it mean &quot;Below the line&quot; whenver doing checklists?](https://forums.vatsim.net/topic/32624-what-does-it-mean-below-the-line-whenver-doing-checklists/?do=findComment&comment=185942)
@@ -63,8 +65,6 @@
 - [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185939)
 - [EVENT: Capital Connect - New Delhi &lpar;VIDP&rpar; to Islamabad &lpar;OPIS&rpar; - February 5th from 1300Z to 1730Z](https://forums.vatsim.net/topic/32623-event-capital-connect-new-delhi-vidp-to-islamabad-opis-february-5th-from-1300z-to-1730z/?do=findComment&comment=185938)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185937)
-- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=185936)
-- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185935)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
