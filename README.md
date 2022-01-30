@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [EVENT: Capital Connect - New Delhi &lpar;VIDP&rpar; to Islamabad &lpar;OPIS&rpar; - February 5th from 1300Z to 1730Z](https://forums.vatsim.net/topic/32623-event-capital-connect-new-delhi-vidp-to-islamabad-opis-february-5th-from-1300z-to-1730z/?do=findComment&comment=185938)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185937)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=185936)
 - [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185935)
 - [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185934)
@@ -63,8 +65,6 @@
 - [You are currently suspended from the VATSIM Network.](https://forums.vatsim.net/topic/32616-you-are-currently-suspended-from-the-vatsim-network/?do=findComment&comment=185931)
 - [Just getting back into it.](https://forums.vatsim.net/topic/32621-just-getting-back-into-it/?do=findComment&comment=185930)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185929)
-- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=185928)
-- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=185927)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
