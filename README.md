@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185932)
 - [You are currently suspended from the VATSIM Network.](https://forums.vatsim.net/topic/32616-you-are-currently-suspended-from-the-vatsim-network/?do=findComment&comment=185931)
 - [Just getting back into it.](https://forums.vatsim.net/topic/32621-just-getting-back-into-it/?do=findComment&comment=185930)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185929)
@@ -64,7 +65,6 @@
 - [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=185925)
 - [VATSIM Announces Velocity Release Date and Rollout Plan](https://forums.vatsim.net/topic/32619-vatsim-announces-velocity-release-date-and-rollout-plan/?do=findComment&comment=185924)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185922)
-- [You are currently suspended from the VATSIM Network.](https://forums.vatsim.net/topic/32616-you-are-currently-suspended-from-the-vatsim-network/?do=findComment&comment=185921)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
