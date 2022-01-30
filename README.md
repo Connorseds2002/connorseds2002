@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185958)
+- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185957)
+- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185956)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185955)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185954)
 - [Viewing aircraft on external view machines &lpar;2nd computer&rpar; in x-plane](https://forums.vatsim.net/topic/32606-viewing-aircraft-on-external-view-machines-2nd-computer-in-x-plane/?do=findComment&comment=185953)
 - [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185952)
 - [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185951)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=185950)
 - [Model Matching MSFS2020](https://forums.vatsim.net/topic/32627-model-matching-msfs2020/?do=findComment&comment=185949)
-- [error](https://forums.vatsim.net/topic/32625-error/?do=findComment&comment=185948)
-- [Moving Plug-ins list entries results in multiple errors and a freeze of ES when closing the application](https://forums.vatsim.net/topic/27189-moving-plug-ins-list-entries-results-in-multiple-errors-and-a-freeze-of-es-when-closing-the-application/?do=findComment&comment=185947)
-- [New User - No Audio](https://forums.vatsim.net/topic/32626-new-user-no-audio/?do=findComment&comment=185946)
-- [error](https://forums.vatsim.net/topic/32625-error/?do=findComment&comment=185945)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
