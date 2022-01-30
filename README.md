@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Matching MSFS2020](https://forums.vatsim.net/topic/32627-model-matching-msfs2020/?do=findComment&comment=185949)
+- [error](https://forums.vatsim.net/topic/32625-error/?do=findComment&comment=185948)
 - [Moving Plug-ins list entries results in multiple errors and a freeze of ES when closing the application](https://forums.vatsim.net/topic/27189-moving-plug-ins-list-entries-results-in-multiple-errors-and-a-freeze-of-es-when-closing-the-application/?do=findComment&comment=185947)
 - [New User - No Audio](https://forums.vatsim.net/topic/32626-new-user-no-audio/?do=findComment&comment=185946)
 - [error](https://forums.vatsim.net/topic/32625-error/?do=findComment&comment=185945)
@@ -63,8 +65,6 @@
 - [What does it mean &quot;Below the line&quot; whenver doing checklists?](https://forums.vatsim.net/topic/32624-what-does-it-mean-below-the-line-whenver-doing-checklists/?do=findComment&comment=185942)
 - [What does it mean &quot;Below the line&quot; whenver doing checklists?](https://forums.vatsim.net/topic/32624-what-does-it-mean-below-the-line-whenver-doing-checklists/?do=findComment&comment=185941)
 - [What does it mean &quot;Below the line&quot; whenver doing checklists?](https://forums.vatsim.net/topic/32624-what-does-it-mean-below-the-line-whenver-doing-checklists/?do=findComment&comment=185940)
-- [Complete lack of understanding of the euro sectors has really put me off. Can anyone offer any encouragement?](https://forums.vatsim.net/topic/32595-complete-lack-of-understanding-of-the-euro-sectors-has-really-put-me-off-can-anyone-offer-any-encouragement/?do=findComment&comment=185939)
-- [EVENT: Capital Connect - New Delhi &lpar;VIDP&rpar; to Islamabad &lpar;OPIS&rpar; - February 5th from 1300Z to 1730Z](https://forums.vatsim.net/topic/32623-event-capital-connect-new-delhi-vidp-to-islamabad-opis-february-5th-from-1300z-to-1730z/?do=findComment&comment=185938)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
