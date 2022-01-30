@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185961)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185960)
+- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185959)
 - [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185958)
 - [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185957)
 - [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185956)
@@ -62,9 +65,6 @@
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185954)
 - [Viewing aircraft on external view machines &lpar;2nd computer&rpar; in x-plane](https://forums.vatsim.net/topic/32606-viewing-aircraft-on-external-view-machines-2nd-computer-in-x-plane/?do=findComment&comment=185953)
 - [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185952)
-- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185951)
-- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=185950)
-- [Model Matching MSFS2020](https://forums.vatsim.net/topic/32627-model-matching-msfs2020/?do=findComment&comment=185949)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
