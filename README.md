@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [You are currently suspended from the VATSIM Network.](https://forums.vatsim.net/topic/32616-you-are-currently-suspended-from-the-vatsim-network/?do=findComment&comment=185931)
+- [Just getting back into it.](https://forums.vatsim.net/topic/32621-just-getting-back-into-it/?do=findComment&comment=185930)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185929)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=185928)
 - [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=185927)
@@ -63,8 +65,6 @@
 - [VATSIM Announces Velocity Release Date and Rollout Plan](https://forums.vatsim.net/topic/32619-vatsim-announces-velocity-release-date-and-rollout-plan/?do=findComment&comment=185924)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185922)
 - [You are currently suspended from the VATSIM Network.](https://forums.vatsim.net/topic/32616-you-are-currently-suspended-from-the-vatsim-network/?do=findComment&comment=185921)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185920)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185919)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
