@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=186023)
 - [Canadian Xpress February 2022 Monthly Challenge: National Parks IV - Amazon](https://forums.vatsim.net/topic/32635-canadian-xpress-february-2022-monthly-challenge-national-parks-iv-amazon/?do=findComment&comment=186022)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186021)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186020)
@@ -64,7 +65,6 @@
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186016)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186015)
 - [Invalid CID/Password    //  new beta xPilot client    //   no P0   //   NOT A NEW ACCOUNT](https://forums.vatsim.net/topic/32634-invalid-cidpassword-new-beta-xpilot-client-no-p0-not-a-new-account/?do=findComment&comment=186014)
-- [Invalid CID/Password    //  new beta xPilot client    //   no P0   //   NOT A NEW ACCOUNT](https://forums.vatsim.net/topic/32634-invalid-cidpassword-new-beta-xpilot-client-no-p0-not-a-new-account/?do=findComment&comment=186013)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
