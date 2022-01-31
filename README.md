@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unistall the older version of Xpilot correctly](https://forums.vatsim.net/topic/32632-unistall-the-older-version-of-xpilot-correctly/?do=findComment&comment=186011)
+- [X pilot beta &quot;voice server error&quot;](https://forums.vatsim.net/topic/32630-x-pilot-beta-voice-server-error/?do=findComment&comment=186010)
+- [Unistall the older version of Xpilot correctly](https://forums.vatsim.net/topic/32632-unistall-the-older-version-of-xpilot-correctly/?do=findComment&comment=186009)
+- [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186008)
+- [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186007)
 - [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186006)
 - [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186005)
 - [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186004)
 - [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=186003)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186002)
-- [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186001)
-- [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=186000)
-- [Question about altitude changes and flight following](https://forums.vatsim.net/topic/18998-question-about-altitude-changes-and-flight-following/?do=findComment&comment=185999)
-- [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=185998)
-- [Viewing aircraft on external view machines &lpar;2nd computer&rpar; in x-plane](https://forums.vatsim.net/topic/32606-viewing-aircraft-on-external-view-machines-2nd-computer-in-x-plane/?do=findComment&comment=185997)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
