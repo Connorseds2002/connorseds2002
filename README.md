@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New ATC Trainee](https://forums.vatsim.net/topic/32252-new-atc-trainee/?do=findComment&comment=185973)
+- [Euroscope does not open](https://forums.vatsim.net/topic/31796-euroscope-does-not-open/?do=findComment&comment=185972)
+- [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=185971)
+- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185970)
+- [What does it mean &quot;Below the line&quot; whenver doing checklists?](https://forums.vatsim.net/topic/32624-what-does-it-mean-below-the-line-whenver-doing-checklists/?do=findComment&comment=185969)
+- [What does it mean &quot;Below the line&quot; whenver doing checklists?](https://forums.vatsim.net/topic/32624-what-does-it-mean-below-the-line-whenver-doing-checklists/?do=findComment&comment=185968)
+- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185967)
+- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=185966)
+- [Cant contect to vatsim](https://forums.vatsim.net/topic/32628-cant-contect-to-vatsim/?do=findComment&comment=185965)
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=185964)
-- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185963)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185962)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185961)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185960)
-- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185959)
-- [Loud Distortion - Realistic ATC Audio](https://forums.vatsim.net/topic/32569-loud-distortion-realistic-atc-audio/?do=findComment&comment=185958)
-- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185957)
-- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185956)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185955)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
