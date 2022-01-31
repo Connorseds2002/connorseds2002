@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=186000)
+- [Question about altitude changes and flight following](https://forums.vatsim.net/topic/18998-question-about-altitude-changes-and-flight-following/?do=findComment&comment=185999)
+- [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=185998)
+- [Viewing aircraft on external view machines &lpar;2nd computer&rpar; in x-plane](https://forums.vatsim.net/topic/32606-viewing-aircraft-on-external-view-machines-2nd-computer-in-x-plane/?do=findComment&comment=185997)
 - [Different sizes of Controlled Airspace](https://forums.vatsim.net/topic/32631-different-sizes-of-controlled-airspace/?do=findComment&comment=185996)
 - [Special Operations - Chief Flight Instructor Special Operations ATO Announced](https://forums.vatsim.net/topic/32507-special-operations-chief-flight-instructor-special-operations-ato-announced/?do=findComment&comment=185995)
 - [Different sizes of Controlled Airspace](https://forums.vatsim.net/topic/32631-different-sizes-of-controlled-airspace/?do=findComment&comment=185994)
 - [Unistall the older version of Xpilot correctly](https://forums.vatsim.net/topic/32632-unistall-the-older-version-of-xpilot-correctly/?do=findComment&comment=185993)
 - [Different sizes of Controlled Airspace](https://forums.vatsim.net/topic/32631-different-sizes-of-controlled-airspace/?do=findComment&comment=185992)
 - [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=185991)
-- [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=185990)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185989)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185988)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185987)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
