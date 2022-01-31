@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=185980)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=185979)
 - [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=185978)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=185977)
@@ -64,7 +65,6 @@
 - [New ATC Trainee](https://forums.vatsim.net/topic/32252-new-atc-trainee/?do=findComment&comment=185973)
 - [Euroscope does not open](https://forums.vatsim.net/topic/31796-euroscope-does-not-open/?do=findComment&comment=185972)
 - [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=185971)
-- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185970)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
