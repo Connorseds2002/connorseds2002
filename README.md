@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=185979)
+- [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=185978)
+- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=185977)
+- [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=185976)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=185975)
 - [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185974)
 - [New ATC Trainee](https://forums.vatsim.net/topic/32252-new-atc-trainee/?do=findComment&comment=185973)
 - [Euroscope does not open](https://forums.vatsim.net/topic/31796-euroscope-does-not-open/?do=findComment&comment=185972)
 - [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=185971)
 - [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185970)
-- [What does it mean &quot;Below the line&quot; whenver doing checklists?](https://forums.vatsim.net/topic/32624-what-does-it-mean-below-the-line-whenver-doing-checklists/?do=findComment&comment=185969)
-- [What does it mean &quot;Below the line&quot; whenver doing checklists?](https://forums.vatsim.net/topic/32624-what-does-it-mean-below-the-line-whenver-doing-checklists/?do=findComment&comment=185968)
-- [error on start up](https://forums.vatsim.net/topic/32622-error-on-start-up/?do=findComment&comment=185967)
-- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=185966)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
