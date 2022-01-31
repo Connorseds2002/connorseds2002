@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [X pilot beta &quot;voice server error&quot;](https://forums.vatsim.net/topic/32630-x-pilot-beta-voice-server-error/?do=findComment&comment=186012)
 - [Unistall the older version of Xpilot correctly](https://forums.vatsim.net/topic/32632-unistall-the-older-version-of-xpilot-correctly/?do=findComment&comment=186011)
 - [X pilot beta &quot;voice server error&quot;](https://forums.vatsim.net/topic/32630-x-pilot-beta-voice-server-error/?do=findComment&comment=186010)
 - [Unistall the older version of Xpilot correctly](https://forums.vatsim.net/topic/32632-unistall-the-older-version-of-xpilot-correctly/?do=findComment&comment=186009)
@@ -64,7 +65,6 @@
 - [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186005)
 - [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186004)
 - [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=186003)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186002)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
