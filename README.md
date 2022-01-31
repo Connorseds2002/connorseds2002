@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid CID/Password    //  new beta xPilot client    //   no P0   //   NOT A NEW ACCOUNT](https://forums.vatsim.net/topic/32634-invalid-cidpassword-new-beta-xpilot-client-no-p0-not-a-new-account/?do=findComment&comment=186014)
+- [Invalid CID/Password    //  new beta xPilot client    //   no P0   //   NOT A NEW ACCOUNT](https://forums.vatsim.net/topic/32634-invalid-cidpassword-new-beta-xpilot-client-no-p0-not-a-new-account/?do=findComment&comment=186013)
 - [X pilot beta &quot;voice server error&quot;](https://forums.vatsim.net/topic/32630-x-pilot-beta-voice-server-error/?do=findComment&comment=186012)
 - [Unistall the older version of Xpilot correctly](https://forums.vatsim.net/topic/32632-unistall-the-older-version-of-xpilot-correctly/?do=findComment&comment=186011)
 - [X pilot beta &quot;voice server error&quot;](https://forums.vatsim.net/topic/32630-x-pilot-beta-voice-server-error/?do=findComment&comment=186010)
@@ -63,8 +65,6 @@
 - [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186007)
 - [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186006)
 - [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186005)
-- [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186004)
-- [Atis on unicom frequency](https://forums.vatsim.net/topic/32629-atis-on-unicom-frequency/?do=findComment&comment=186003)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
