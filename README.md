@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186175)
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186174)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186173)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186172)
+- [Crackling noise when text messages appear](https://forums.vatsim.net/topic/32645-crackling-noise-when-text-messages-appear/?do=findComment&comment=186171)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186170)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186169)
 - [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186168)
 - [vPilot Error Performing Version Checking](https://forums.vatsim.net/topic/32661-vpilot-error-performing-version-checking/?do=findComment&comment=186167)
 - [vPilot Error Performing Version Checking](https://forums.vatsim.net/topic/32661-vpilot-error-performing-version-checking/?do=findComment&comment=186166)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186165)
-- [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186164)
-- [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186163)
-- [Not connecting after server maintenance saying pilot client error, etc. How do I fix?](https://forums.vatsim.net/topic/32639-not-connecting-after-server-maintenance-saying-pilot-client-error-etc-how-do-i-fix/?do=findComment&comment=186162)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186161)
-- [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186160)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
