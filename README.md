@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186146)
-- [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186145)
-- [Not connecting after server maintenance saying pilot client error, etc. How do I fix?](https://forums.vatsim.net/topic/32639-not-connecting-after-server-maintenance-saying-pilot-client-error-etc-how-do-i-fix/?do=findComment&comment=186144)
-- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186143)
-- [Not connecting after server maintenance saying pilot client error, etc. How do I fix?](https://forums.vatsim.net/topic/32639-not-connecting-after-server-maintenance-saying-pilot-client-error-etc-how-do-i-fix/?do=findComment&comment=186142)
-- [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186141)
-- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186140)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186139)
-- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186138)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186137)
+- [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186160)
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186159)
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186158)
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186157)
+- [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186156)
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186155)
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186154)
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186153)
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186152)
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186151)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
