@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186053)
+- [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186052)
 - [xPilot v2.0.0-beta 18 and floating aircraft](https://forums.vatsim.net/topic/32641-xpilot-v200-beta-18-and-floating-aircraft/?do=findComment&comment=186051)
 - [xPilot v2.0.0-beta 18 and floating aircraft](https://forums.vatsim.net/topic/32641-xpilot-v200-beta-18-and-floating-aircraft/?do=findComment&comment=186050)
 - [COM2 124.850 RX always actice on vPilot...](https://forums.vatsim.net/topic/32640-com2-124850-rx-always-actice-on-vpilot/?do=findComment&comment=186049)
@@ -63,8 +65,6 @@
 - [COM2 124.850 RX always actice on vPilot...](https://forums.vatsim.net/topic/32640-com2-124850-rx-always-actice-on-vpilot/?do=findComment&comment=186046)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186045)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186044)
-- [Not connecting after server maintenance saying pilot client error, etc. How do I fix?](https://forums.vatsim.net/topic/32639-not-connecting-after-server-maintenance-saying-pilot-client-error-etc-how-do-i-fix/?do=findComment&comment=186043)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186042)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
