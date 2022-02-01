@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186108)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186107)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186106)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186105)
-- [Livery selection with correct reg based on x](https://forums.vatsim.net/topic/32648-livery-selection-with-correct-reg-based-on-x/?do=findComment&comment=186104)
-- [Livery selection with correct reg based on x](https://forums.vatsim.net/topic/32648-livery-selection-with-correct-reg-based-on-x/?do=findComment&comment=186103)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186102)
-- [Free book!](https://forums.vatsim.net/topic/32654-free-book/?do=findComment&comment=186101)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186100)
-- [[APPOINTMENT] India vACC Director - Director, ATC Training Department [ACCIND3]](https://forums.vatsim.net/topic/32653-appointment-india-vacc-director-director-atc-training-department-accind3/?do=findComment&comment=186099)
+- [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186118)
+- [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186117)
+- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186116)
+- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186115)
+- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186114)
+- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186113)
+- [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186112)
+- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=186111)
+- [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186110)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186109)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
