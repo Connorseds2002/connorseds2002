@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186044)
+- [Not connecting after server maintenance saying pilot client error, etc. How do I fix?](https://forums.vatsim.net/topic/32639-not-connecting-after-server-maintenance-saying-pilot-client-error-etc-how-do-i-fix/?do=findComment&comment=186043)
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186042)
+- [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186041)
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186040)
+- [x-pilot BETA is it?](https://forums.vatsim.net/topic/32638-x-pilot-beta-is-it/?do=findComment&comment=186039)
+- [Suspended???](https://forums.vatsim.net/topic/32637-suspended/?do=findComment&comment=186038)
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186037)
 - [Suspended???](https://forums.vatsim.net/topic/32637-suspended/?do=findComment&comment=186036)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186035)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186034)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186033)
-- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186032)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186031)
-- [Suspended???](https://forums.vatsim.net/topic/32637-suspended/?do=findComment&comment=186030)
-- [What does it mean &quot;Below the line&quot; whenver doing checklists?](https://forums.vatsim.net/topic/32624-what-does-it-mean-below-the-line-whenver-doing-checklists/?do=findComment&comment=186029)
-- [Suspended???](https://forums.vatsim.net/topic/32637-suspended/?do=findComment&comment=186028)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186027)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
