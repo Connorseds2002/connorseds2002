@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to connect since VATSIM maintenance last night 31 Jan 2022.](https://forums.vatsim.net/topic/32644-unable-to-connect-since-vatsim-maintenance-last-night-31-jan-2022/?do=findComment&comment=186067)
+- [Unable to connect since VATSIM maintenance last night 31 Jan 2022.](https://forums.vatsim.net/topic/32644-unable-to-connect-since-vatsim-maintenance-last-night-31-jan-2022/?do=findComment&comment=186066)
+- [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186065)
+- [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=186064)
 - [Cant contect to vatsim](https://forums.vatsim.net/topic/32628-cant-contect-to-vatsim/?do=findComment&comment=186063)
 - [Cant contect to vatsim](https://forums.vatsim.net/topic/32628-cant-contect-to-vatsim/?do=findComment&comment=186062)
 - [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186061)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=186060)
 - [X-plane connection not found](https://forums.vatsim.net/topic/32642-x-plane-connection-not-found/?do=findComment&comment=186059)
 - [x-pilot BETA is it?](https://forums.vatsim.net/topic/32638-x-pilot-beta-is-it/?do=findComment&comment=186058)
-- [Thanks!](https://forums.vatsim.net/topic/32643-thanks/?do=findComment&comment=186057)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186056)
-- [X-plane connection not found](https://forums.vatsim.net/topic/32642-x-plane-connection-not-found/?do=findComment&comment=186055)
-- [X-plane connection not found](https://forums.vatsim.net/topic/32642-x-plane-connection-not-found/?do=findComment&comment=186054)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
