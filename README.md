@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Livery selection with correct reg based on x](https://forums.vatsim.net/topic/32648-livery-selection-with-correct-reg-based-on-x/?do=findComment&comment=186104)
+- [Livery selection with correct reg based on x](https://forums.vatsim.net/topic/32648-livery-selection-with-correct-reg-based-on-x/?do=findComment&comment=186103)
 - [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186102)
 - [Free book!](https://forums.vatsim.net/topic/32654-free-book/?do=findComment&comment=186101)
 - [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186100)
@@ -63,8 +65,6 @@
 - [How I do my route planning](https://forums.vatsim.net/topic/32652-how-i-do-my-route-planning/?do=findComment&comment=186097)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186096)
 - [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186095)
-- [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186094)
-- [How to change alert-, notification-, private sound&#39;s  etc. v2.0.0 beta 19](https://forums.vatsim.net/topic/32651-how-to-change-alert-notification-private-sounds-etc-v200-beta-19/?do=findComment&comment=186093)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
