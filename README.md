@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186061)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=186060)
 - [X-plane connection not found](https://forums.vatsim.net/topic/32642-x-plane-connection-not-found/?do=findComment&comment=186059)
 - [x-pilot BETA is it?](https://forums.vatsim.net/topic/32638-x-pilot-beta-is-it/?do=findComment&comment=186058)
@@ -64,7 +65,6 @@
 - [X-plane connection not found](https://forums.vatsim.net/topic/32642-x-plane-connection-not-found/?do=findComment&comment=186054)
 - [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186053)
 - [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186052)
-- [xPilot v2.0.0-beta 18 and floating aircraft](https://forums.vatsim.net/topic/32641-xpilot-v200-beta-18-and-floating-aircraft/?do=findComment&comment=186050)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
