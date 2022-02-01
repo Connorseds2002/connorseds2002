@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Xpilot and Traffic Global co existing](https://forums.vatsim.net/topic/32649-xpilot-and-traffic-global-co-existing/?do=findComment&comment=186076)
-- [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=186075)
-- [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=186074)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186073)
-- [Livery selection with correct reg based on x](https://forums.vatsim.net/topic/32648-livery-selection-with-correct-reg-based-on-x/?do=findComment&comment=186072)
-- [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=186071)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186070)
-- [Some other aircraft not appearing](https://forums.vatsim.net/topic/32646-some-other-aircraft-not-appearing/?do=findComment&comment=186069)
-- [Crackling noise when text messages appear](https://forums.vatsim.net/topic/32645-crackling-noise-when-text-messages-appear/?do=findComment&comment=186068)
-- [Unable to connect since VATSIM maintenance last night 31 Jan 2022.](https://forums.vatsim.net/topic/32644-unable-to-connect-since-vatsim-maintenance-last-night-31-jan-2022/?do=findComment&comment=186067)
+- [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186091)
+- [Livery selection with correct reg based on x](https://forums.vatsim.net/topic/32648-livery-selection-with-correct-reg-based-on-x/?do=findComment&comment=186090)
+- [Xpilot cannot be opened in win10](https://forums.vatsim.net/topic/32650-xpilot-cannot-be-opened-in-win10/?do=findComment&comment=186089)
+- [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=186088)
+- [Livery selection with correct reg based on x](https://forums.vatsim.net/topic/32648-livery-selection-with-correct-reg-based-on-x/?do=findComment&comment=186087)
+- [Xpilot cannot be opened in win10](https://forums.vatsim.net/topic/32650-xpilot-cannot-be-opened-in-win10/?do=findComment&comment=186086)
+- [Allow modified ATIS callsign connect](https://forums.vatsim.net/topic/32598-allow-modified-atis-callsign-connect/?do=findComment&comment=186085)
+- [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186084)
+- [Model Matching MSFS2020](https://forums.vatsim.net/topic/32627-model-matching-msfs2020/?do=findComment&comment=186083)
+- [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186082)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
