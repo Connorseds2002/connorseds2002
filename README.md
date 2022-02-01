@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cant contect to vatsim](https://forums.vatsim.net/topic/32628-cant-contect-to-vatsim/?do=findComment&comment=186063)
 - [Cant contect to vatsim](https://forums.vatsim.net/topic/32628-cant-contect-to-vatsim/?do=findComment&comment=186062)
 - [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186061)
 - [Access to make sector for Sudan](https://forums.vatsim.net/topic/31829-access-to-make-sector-for-sudan/?do=findComment&comment=186060)
@@ -64,7 +65,6 @@
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186056)
 - [X-plane connection not found](https://forums.vatsim.net/topic/32642-x-plane-connection-not-found/?do=findComment&comment=186055)
 - [X-plane connection not found](https://forums.vatsim.net/topic/32642-x-plane-connection-not-found/?do=findComment&comment=186054)
-- [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186053)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
