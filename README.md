@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot v2.0.0-beta 18 and floating aircraft](https://forums.vatsim.net/topic/32641-xpilot-v200-beta-18-and-floating-aircraft/?do=findComment&comment=186051)
+- [xPilot v2.0.0-beta 18 and floating aircraft](https://forums.vatsim.net/topic/32641-xpilot-v200-beta-18-and-floating-aircraft/?do=findComment&comment=186050)
+- [COM2 124.850 RX always actice on vPilot...](https://forums.vatsim.net/topic/32640-com2-124850-rx-always-actice-on-vpilot/?do=findComment&comment=186049)
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186048)
+- [Not connecting after server maintenance saying pilot client error, etc. How do I fix?](https://forums.vatsim.net/topic/32639-not-connecting-after-server-maintenance-saying-pilot-client-error-etc-how-do-i-fix/?do=findComment&comment=186047)
+- [COM2 124.850 RX always actice on vPilot...](https://forums.vatsim.net/topic/32640-com2-124850-rx-always-actice-on-vpilot/?do=findComment&comment=186046)
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186045)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186044)
 - [Not connecting after server maintenance saying pilot client error, etc. How do I fix?](https://forums.vatsim.net/topic/32639-not-connecting-after-server-maintenance-saying-pilot-client-error-etc-how-do-i-fix/?do=findComment&comment=186043)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186042)
-- [xPilot v2.0.0-beta.18 plugin not starting](https://forums.vatsim.net/topic/32633-xpilot-v200-beta18-plugin-not-starting/?do=findComment&comment=186041)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186040)
-- [x-pilot BETA is it?](https://forums.vatsim.net/topic/32638-x-pilot-beta-is-it/?do=findComment&comment=186039)
-- [Suspended???](https://forums.vatsim.net/topic/32637-suspended/?do=findComment&comment=186038)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186037)
-- [Suspended???](https://forums.vatsim.net/topic/32637-suspended/?do=findComment&comment=186036)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186035)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
