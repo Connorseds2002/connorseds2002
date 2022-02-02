@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=186193)
+- [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=186192)
+- [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=186191)
 - [I get the message Error performing version check: Value cannot be null. Parameter name: inputwhen trying to connect](https://forums.vatsim.net/topic/32665-i-get-the-message-error-performing-version-check-value-cannot-be-null-parameter-name-inputwhen-trying-to-connect/?do=findComment&comment=186190)
 - [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186189)
 - [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186188)
@@ -62,9 +65,6 @@
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186186)
 - [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186185)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186184)
-- [COM2 124.850 RX always actice on vPilot...](https://forums.vatsim.net/topic/32640-com2-124850-rx-always-actice-on-vpilot/?do=findComment&comment=186183)
-- [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=186182)
-- [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186181)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
