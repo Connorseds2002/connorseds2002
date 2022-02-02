@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot v2.0.0-beta.16 crashed sim](https://forums.vatsim.net/topic/32666-xpilot-v200-beta16-crashed-sim/?do=findComment&comment=186202)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186201)
+- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186200)
+- [xPilot v2.0.0-beta.16 crashed sim](https://forums.vatsim.net/topic/32666-xpilot-v200-beta16-crashed-sim/?do=findComment&comment=186199)
+- [Cannot install v3.0.6](https://forums.vatsim.net/topic/32668-cannot-install-v306/?do=findComment&comment=186198)
+- [Increasing Pitch ATC volume and static](https://forums.vatsim.net/topic/32667-increasing-pitch-atc-volume-and-static/?do=findComment&comment=186197)
 - [Using vPilot on a Dual Seat Trainer](https://forums.vatsim.net/topic/19543-using-vpilot-on-a-dual-seat-trainer/?do=findComment&comment=186196)
 - [I get the message Error performing version check: Value cannot be null. Parameter name: inputwhen trying to connect](https://forums.vatsim.net/topic/32665-i-get-the-message-error-performing-version-check-value-cannot-be-null-parameter-name-inputwhen-trying-to-connect/?do=findComment&comment=186195)
 - [xPilot v2.0.0-beta.16 crashed sim](https://forums.vatsim.net/topic/32666-xpilot-v200-beta16-crashed-sim/?do=findComment&comment=186194)
 - [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=186193)
-- [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=186192)
-- [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=186191)
-- [I get the message Error performing version check: Value cannot be null. Parameter name: inputwhen trying to connect](https://forums.vatsim.net/topic/32665-i-get-the-message-error-performing-version-check-value-cannot-be-null-parameter-name-inputwhen-trying-to-connect/?do=findComment&comment=186190)
-- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186189)
-- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186188)
-- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186187)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
