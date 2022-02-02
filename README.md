@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot v2.0.0-beta.16 crashed sim](https://forums.vatsim.net/topic/32666-xpilot-v200-beta16-crashed-sim/?do=findComment&comment=186194)
 - [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=186193)
 - [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=186192)
 - [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=186191)
@@ -64,7 +65,6 @@
 - [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186187)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186186)
 - [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186185)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186184)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
