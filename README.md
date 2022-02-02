@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186213)
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186212)
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186211)
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186210)
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186209)
 - [LUA ARCAL script Pilot Activated Lighting using PTT and VATSIM](https://forums.vatsim.net/topic/32670-lua-arcal-script-pilot-activated-lighting-using-ptt-and-vatsim/?do=findComment&comment=186208)
 - [Xpilot and Traffic Global co existing](https://forums.vatsim.net/topic/32649-xpilot-and-traffic-global-co-existing/?do=findComment&comment=186207)
 - [Flight plan won&#39;t load](https://forums.vatsim.net/topic/32655-flight-plan-wont-load/?do=findComment&comment=186206)
 - [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186205)
 - [xPilot v2.0.0-beta.16 crashed sim](https://forums.vatsim.net/topic/32666-xpilot-v200-beta16-crashed-sim/?do=findComment&comment=186204)
-- [Cannot login to VATSIM using xpilot v2 beta 18](https://forums.vatsim.net/topic/32636-cannot-login-to-vatsim-using-xpilot-v2-beta-18/?do=findComment&comment=186203)
-- [xPilot v2.0.0-beta.16 crashed sim](https://forums.vatsim.net/topic/32666-xpilot-v200-beta16-crashed-sim/?do=findComment&comment=186202)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186201)
-- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186200)
-- [xPilot v2.0.0-beta.16 crashed sim](https://forums.vatsim.net/topic/32666-xpilot-v200-beta16-crashed-sim/?do=findComment&comment=186199)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
