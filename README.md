@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Using vPilot on a Dual Seat Trainer](https://forums.vatsim.net/topic/19543-using-vpilot-on-a-dual-seat-trainer/?do=findComment&comment=186196)
+- [I get the message Error performing version check: Value cannot be null. Parameter name: inputwhen trying to connect](https://forums.vatsim.net/topic/32665-i-get-the-message-error-performing-version-check-value-cannot-be-null-parameter-name-inputwhen-trying-to-connect/?do=findComment&comment=186195)
 - [xPilot v2.0.0-beta.16 crashed sim](https://forums.vatsim.net/topic/32666-xpilot-v200-beta16-crashed-sim/?do=findComment&comment=186194)
 - [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=186193)
 - [Transmit Voice Nearly Unreadable by ATC](https://forums.vatsim.net/topic/32515-transmit-voice-nearly-unreadable-by-atc/?do=findComment&comment=186192)
@@ -63,8 +65,6 @@
 - [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186189)
 - [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186188)
 - [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186187)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186186)
-- [xPilot update](https://forums.vatsim.net/topic/32656-xpilot-update/?do=findComment&comment=186185)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
