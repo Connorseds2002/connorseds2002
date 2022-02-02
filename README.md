@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186250)
+- [[APPOINTMENTS] vACC Directors - Hungary and Poland](https://forums.vatsim.net/topic/32673-appointments-vacc-directors-hungary-and-poland/?do=findComment&comment=186249)
+- [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186248)
+- [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186247)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186246)
 - [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186245)
 - [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186244)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186243)
 - [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186242)
 - [I can not connect to Vatsim.](https://forums.vatsim.net/topic/32559-i-can-not-connect-to-vatsim/?do=findComment&comment=186241)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186240)
-- [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186239)
-- [xPilot v2.0.0-beta.16 crashed sim](https://forums.vatsim.net/topic/32666-xpilot-v200-beta16-crashed-sim/?do=findComment&comment=186238)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186237)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
