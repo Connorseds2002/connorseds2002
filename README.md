@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186246)
+- [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186245)
 - [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186244)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186243)
 - [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186242)
@@ -63,8 +65,6 @@
 - [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186239)
 - [xPilot v2.0.0-beta.16 crashed sim](https://forums.vatsim.net/topic/32666-xpilot-v200-beta16-crashed-sim/?do=findComment&comment=186238)
 - [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186237)
-- [I can not connect to Vatsim.](https://forums.vatsim.net/topic/32559-i-can-not-connect-to-vatsim/?do=findComment&comment=186236)
-- [Vpilot not finding all model folders](https://forums.vatsim.net/topic/32669-vpilot-not-finding-all-model-folders/?do=findComment&comment=186235)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
