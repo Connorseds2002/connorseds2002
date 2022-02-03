@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [&quot;Pop-up&quot; IFR Clearance](https://forums.vatsim.net/topic/32676-pop-up-ifr-clearance/?do=findComment&comment=186269)
 - [&quot;Pop-up&quot; IFR Clearance](https://forums.vatsim.net/topic/32676-pop-up-ifr-clearance/?do=findComment&comment=186268)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186267)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186266)
@@ -64,7 +65,6 @@
 - [Oculus Keybind](https://forums.vatsim.net/topic/32674-oculus-keybind/?do=findComment&comment=186262)
 - [Oculus Keybind](https://forums.vatsim.net/topic/32674-oculus-keybind/?do=findComment&comment=186261)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186260)
-- [xPilot v2.0.0 Beta Installation Notes](https://forums.vatsim.net/topic/32672-xpilot-v200-beta-installation-notes/?do=findComment&comment=186259)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
