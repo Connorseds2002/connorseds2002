@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=186288)
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186287)
+- [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186286)
+- [&quot;Pop-up&quot; IFR Clearance](https://forums.vatsim.net/topic/32676-pop-up-ifr-clearance/?do=findComment&comment=186285)
 - [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186284)
 - [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186283)
 - [Xplane 11 xpilot new beta](https://forums.vatsim.net/topic/32675-xplane-11-xpilot-new-beta/?do=findComment&comment=186282)
 - [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186281)
 - [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186280)
 - [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186279)
-- [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186278)
-- [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186277)
-- [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186276)
-- [[APPOINTMENTS] vACC Directors - Hungary and Poland](https://forums.vatsim.net/topic/32673-appointments-vacc-directors-hungary-and-poland/?do=findComment&comment=186275)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
