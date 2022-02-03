@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186293)
+- [Latest xPilot not recognizing X-Plane Root Folder](https://forums.vatsim.net/topic/32678-latest-xpilot-not-recognizing-x-plane-root-folder/?do=findComment&comment=186292)
 - [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186291)
 - [Weather Radar possible?](https://forums.vatsim.net/topic/16253-weather-radar-possible/?do=findComment&comment=186290)
 - [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186289)
@@ -63,8 +65,6 @@
 - [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186286)
 - [&quot;Pop-up&quot; IFR Clearance](https://forums.vatsim.net/topic/32676-pop-up-ifr-clearance/?do=findComment&comment=186285)
 - [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186284)
-- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186283)
-- [Xplane 11 xpilot new beta](https://forums.vatsim.net/topic/32675-xplane-11-xpilot-new-beta/?do=findComment&comment=186282)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
