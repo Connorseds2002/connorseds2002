@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186276)
+- [[APPOINTMENTS] vACC Directors - Hungary and Poland](https://forums.vatsim.net/topic/32673-appointments-vacc-directors-hungary-and-poland/?do=findComment&comment=186275)
 - [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186274)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186273)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186272)
@@ -63,8 +65,6 @@
 - [&quot;Pop-up&quot; IFR Clearance](https://forums.vatsim.net/topic/32676-pop-up-ifr-clearance/?do=findComment&comment=186269)
 - [&quot;Pop-up&quot; IFR Clearance](https://forums.vatsim.net/topic/32676-pop-up-ifr-clearance/?do=findComment&comment=186268)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186267)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186266)
-- [&quot;Pop-up&quot; IFR Clearance](https://forums.vatsim.net/topic/32676-pop-up-ifr-clearance/?do=findComment&comment=186265)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
