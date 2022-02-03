@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186291)
+- [Weather Radar possible?](https://forums.vatsim.net/topic/16253-weather-radar-possible/?do=findComment&comment=186290)
+- [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186289)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=186288)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186287)
 - [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186286)
@@ -62,9 +65,6 @@
 - [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186284)
 - [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186283)
 - [Xplane 11 xpilot new beta](https://forums.vatsim.net/topic/32675-xplane-11-xpilot-new-beta/?do=findComment&comment=186282)
-- [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186281)
-- [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186280)
-- [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186279)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
