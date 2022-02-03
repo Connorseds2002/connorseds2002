@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186271)
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186270)
 - [&quot;Pop-up&quot; IFR Clearance](https://forums.vatsim.net/topic/32676-pop-up-ifr-clearance/?do=findComment&comment=186269)
 - [&quot;Pop-up&quot; IFR Clearance](https://forums.vatsim.net/topic/32676-pop-up-ifr-clearance/?do=findComment&comment=186268)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186267)
@@ -63,8 +65,6 @@
 - [Xplane 11 xpilot new beta](https://forums.vatsim.net/topic/32675-xplane-11-xpilot-new-beta/?do=findComment&comment=186264)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186263)
 - [Oculus Keybind](https://forums.vatsim.net/topic/32674-oculus-keybind/?do=findComment&comment=186262)
-- [Oculus Keybind](https://forums.vatsim.net/topic/32674-oculus-keybind/?do=findComment&comment=186261)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186260)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
