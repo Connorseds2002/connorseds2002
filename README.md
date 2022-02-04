@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How can assign CTRL button on Xpilot 2.0?](https://forums.vatsim.net/topic/32684-how-can-assign-ctrl-button-on-xpilot-20/?do=findComment&comment=186339)
 - [How can assign CTRL button on Xpilot 2.0?](https://forums.vatsim.net/topic/32684-how-can-assign-ctrl-button-on-xpilot-20/?do=findComment&comment=186338)
 - [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186337)
 - [xPilot won&#39;t download](https://forums.vatsim.net/topic/32671-xpilot-wont-download/?do=findComment&comment=186336)
@@ -64,7 +65,6 @@
 - [Formation F-18](https://forums.vatsim.net/topic/32682-formation-f-18/?do=findComment&comment=186332)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186331)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186330)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186329)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
