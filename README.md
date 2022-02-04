@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=186325)
+- [Xpilot Beta .21 not compatible Mac Mojave?](https://forums.vatsim.net/topic/32681-xpilot-beta-21-not-compatible-mac-mojave/?do=findComment&comment=186324)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186323)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186322)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186321)
@@ -63,8 +65,6 @@
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=186318)
 - [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=186317)
 - [Assigning PTT](https://forums.vatsim.net/topic/32679-assigning-ptt/?do=findComment&comment=186316)
-- [Xpilot Beta .21 not compatible Mac Mojave?](https://forums.vatsim.net/topic/32681-xpilot-beta-21-not-compatible-mac-mojave/?do=findComment&comment=186315)
-- [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=186314)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
