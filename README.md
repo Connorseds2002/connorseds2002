@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186359)
+- [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186358)
+- [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186357)
 - [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186356)
 - [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186355)
 - [Xpilot not linking with Xplane](https://forums.vatsim.net/topic/32689-xpilot-not-linking-with-xplane/?do=findComment&comment=186354)
@@ -62,9 +65,6 @@
 - [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186352)
 - [lots of tiles appearing on map display](https://forums.vatsim.net/topic/32683-lots-of-tiles-appearing-on-map-display/?do=findComment&comment=186351)
 - [Xpilot Beta .21 not compatible Mac Mojave?](https://forums.vatsim.net/topic/32681-xpilot-beta-21-not-compatible-mac-mojave/?do=findComment&comment=186350)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186349)
-- [Changelog for 3.0.8?](https://forums.vatsim.net/topic/32685-changelog-for-308/?do=findComment&comment=186348)
-- [lots of tiles appearing on map display](https://forums.vatsim.net/topic/32683-lots-of-tiles-appearing-on-map-display/?do=findComment&comment=186347)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
