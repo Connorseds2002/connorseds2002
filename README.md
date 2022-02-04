@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How can assign CTRL button on Xpilot 2.0?](https://forums.vatsim.net/topic/32684-how-can-assign-ctrl-button-on-xpilot-20/?do=findComment&comment=186338)
+- [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186337)
+- [xPilot won&#39;t download](https://forums.vatsim.net/topic/32671-xpilot-wont-download/?do=findComment&comment=186336)
 - [xPilot won&#39;t download](https://forums.vatsim.net/topic/32671-xpilot-wont-download/?do=findComment&comment=186335)
 - [[APPOINTMENTS] vACC Directors - Hungary and Poland](https://forums.vatsim.net/topic/32673-appointments-vacc-directors-hungary-and-poland/?do=findComment&comment=186334)
 - [lots of tiles appearing on map display](https://forums.vatsim.net/topic/32683-lots-of-tiles-appearing-on-map-display/?do=findComment&comment=186333)
@@ -62,9 +65,6 @@
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186331)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186330)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186329)
-- [How I do my route planning](https://forums.vatsim.net/topic/32652-how-i-do-my-route-planning/?do=findComment&comment=186328)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186327)
-- [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186326)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
