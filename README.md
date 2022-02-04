@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186349)
+- [Changelog for 3.0.8?](https://forums.vatsim.net/topic/32685-changelog-for-308/?do=findComment&comment=186348)
+- [lots of tiles appearing on map display](https://forums.vatsim.net/topic/32683-lots-of-tiles-appearing-on-map-display/?do=findComment&comment=186347)
+- [Can&#39;t connect to VATSIM](https://forums.vatsim.net/topic/32686-cant-connect-to-vatsim/?do=findComment&comment=186346)
+- [Can&#39;t connect to VATSIM](https://forums.vatsim.net/topic/32686-cant-connect-to-vatsim/?do=findComment&comment=186345)
+- [Can&#39;t connect to VATSIM](https://forums.vatsim.net/topic/32686-cant-connect-to-vatsim/?do=findComment&comment=186344)
 - [Changelog for 3.0.8?](https://forums.vatsim.net/topic/32685-changelog-for-308/?do=findComment&comment=186343)
 - [lots of tiles appearing on map display](https://forums.vatsim.net/topic/32683-lots-of-tiles-appearing-on-map-display/?do=findComment&comment=186342)
 - [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186341)
 - [Any way to improve atc voice quality?](https://forums.vatsim.net/topic/32607-any-way-to-improve-atc-voice-quality/?do=findComment&comment=186340)
-- [How can assign CTRL button on Xpilot 2.0?](https://forums.vatsim.net/topic/32684-how-can-assign-ctrl-button-on-xpilot-20/?do=findComment&comment=186339)
-- [How can assign CTRL button on Xpilot 2.0?](https://forums.vatsim.net/topic/32684-how-can-assign-ctrl-button-on-xpilot-20/?do=findComment&comment=186338)
-- [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=186337)
-- [xPilot won&#39;t download](https://forums.vatsim.net/topic/32671-xpilot-wont-download/?do=findComment&comment=186336)
-- [xPilot won&#39;t download](https://forums.vatsim.net/topic/32671-xpilot-wont-download/?do=findComment&comment=186335)
-- [[APPOINTMENTS] vACC Directors - Hungary and Poland](https://forums.vatsim.net/topic/32673-appointments-vacc-directors-hungary-and-poland/?do=findComment&comment=186334)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
