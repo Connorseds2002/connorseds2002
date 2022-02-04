@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot Beta .21 not compatible Mac Mojave?](https://forums.vatsim.net/topic/32681-xpilot-beta-21-not-compatible-mac-mojave/?do=findComment&comment=186350)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186349)
 - [Changelog for 3.0.8?](https://forums.vatsim.net/topic/32685-changelog-for-308/?do=findComment&comment=186348)
 - [lots of tiles appearing on map display](https://forums.vatsim.net/topic/32683-lots-of-tiles-appearing-on-map-display/?do=findComment&comment=186347)
@@ -64,7 +65,6 @@
 - [Changelog for 3.0.8?](https://forums.vatsim.net/topic/32685-changelog-for-308/?do=findComment&comment=186343)
 - [lots of tiles appearing on map display](https://forums.vatsim.net/topic/32683-lots-of-tiles-appearing-on-map-display/?do=findComment&comment=186342)
 - [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186341)
-- [Any way to improve atc voice quality?](https://forums.vatsim.net/topic/32607-any-way-to-improve-atc-voice-quality/?do=findComment&comment=186340)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
