@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=186317)
+- [Assigning PTT](https://forums.vatsim.net/topic/32679-assigning-ptt/?do=findComment&comment=186316)
+- [Xpilot Beta .21 not compatible Mac Mojave?](https://forums.vatsim.net/topic/32681-xpilot-beta-21-not-compatible-mac-mojave/?do=findComment&comment=186315)
 - [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=186314)
 - [Assigning PTT](https://forums.vatsim.net/topic/32679-assigning-ptt/?do=findComment&comment=186313)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186312)
@@ -62,9 +65,6 @@
 - [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=186310)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186309)
 - [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=186307)
-- [How I do my route planning](https://forums.vatsim.net/topic/32652-how-i-do-my-route-planning/?do=findComment&comment=186306)
-- [Assigning PTT](https://forums.vatsim.net/topic/32679-assigning-ptt/?do=findComment&comment=186305)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186304)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
