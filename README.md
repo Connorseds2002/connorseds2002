@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Not Connected To Server](https://forums.vatsim.net/topic/32692-not-connected-to-server/?do=findComment&comment=186361)
 - [EuroScope Sector Provider](https://forums.vatsim.net/topic/32691-euroscope-sector-provider/?do=findComment&comment=186360)
 - [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186359)
 - [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186358)
@@ -64,7 +65,6 @@
 - [Xpilot not linking with Xplane](https://forums.vatsim.net/topic/32689-xpilot-not-linking-with-xplane/?do=findComment&comment=186354)
 - [First impressions were ok..but 3 flights later...](https://forums.vatsim.net/topic/32688-first-impressions-were-okbut-3-flights-later/?do=findComment&comment=186353)
 - [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186352)
-- [lots of tiles appearing on map display](https://forums.vatsim.net/topic/32683-lots-of-tiles-appearing-on-map-display/?do=findComment&comment=186351)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
