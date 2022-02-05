@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=186376)
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186375)
 - [Xpilot Beta .21 not compatible Mac Mojave?](https://forums.vatsim.net/topic/32681-xpilot-beta-21-not-compatible-mac-mojave/?do=findComment&comment=186374)
 - [New UK VA](https://forums.vatsim.net/topic/32697-new-uk-va/?do=findComment&comment=186373)
@@ -64,7 +65,6 @@
 - [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=186369)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186368)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186367)
-- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=186366)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
