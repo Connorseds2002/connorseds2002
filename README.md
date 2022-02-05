@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186367)
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=186366)
 - [Xpilot not linking with Xplane](https://forums.vatsim.net/topic/32689-xpilot-not-linking-with-xplane/?do=findComment&comment=186365)
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186364)
 - [[Feb 19] Canadian Xpress February 2022 Monthly Fly-In - Telluride](https://forums.vatsim.net/topic/32694-feb-19-canadian-xpress-february-2022-monthly-fly-in-telluride/?do=findComment&comment=186363)
@@ -63,8 +65,6 @@
 - [EuroScope Sector Provider](https://forums.vatsim.net/topic/32691-euroscope-sector-provider/?do=findComment&comment=186360)
 - [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186359)
 - [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186358)
-- [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186357)
-- [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186356)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
