@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Feb 19] Canadian Xpress February 2022 Monthly Fly-In - Telluride](https://forums.vatsim.net/topic/32694-feb-19-canadian-xpress-february-2022-monthly-fly-in-telluride/?do=findComment&comment=186363)
+- [My AFV keep crashing.](https://forums.vatsim.net/topic/32693-my-afv-keep-crashing/?do=findComment&comment=186362)
 - [Not Connected To Server](https://forums.vatsim.net/topic/32692-not-connected-to-server/?do=findComment&comment=186361)
 - [EuroScope Sector Provider](https://forums.vatsim.net/topic/32691-euroscope-sector-provider/?do=findComment&comment=186360)
 - [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186359)
@@ -63,8 +65,6 @@
 - [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186356)
 - [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186355)
 - [Xpilot not linking with Xplane](https://forums.vatsim.net/topic/32689-xpilot-not-linking-with-xplane/?do=findComment&comment=186354)
-- [First impressions were ok..but 3 flights later...](https://forums.vatsim.net/topic/32688-first-impressions-were-okbut-3-flights-later/?do=findComment&comment=186353)
-- [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186352)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
