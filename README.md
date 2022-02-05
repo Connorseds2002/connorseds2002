@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186364)
 - [[Feb 19] Canadian Xpress February 2022 Monthly Fly-In - Telluride](https://forums.vatsim.net/topic/32694-feb-19-canadian-xpress-february-2022-monthly-fly-in-telluride/?do=findComment&comment=186363)
 - [My AFV keep crashing.](https://forums.vatsim.net/topic/32693-my-afv-keep-crashing/?do=findComment&comment=186362)
 - [Not Connected To Server](https://forums.vatsim.net/topic/32692-not-connected-to-server/?do=findComment&comment=186361)
@@ -64,7 +65,6 @@
 - [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186357)
 - [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186356)
 - [Disconnect at cruise?](https://forums.vatsim.net/topic/32687-disconnect-at-cruise/?do=findComment&comment=186355)
-- [Xpilot not linking with Xplane](https://forums.vatsim.net/topic/32689-xpilot-not-linking-with-xplane/?do=findComment&comment=186354)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
