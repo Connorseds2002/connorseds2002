@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186388)
+- [EuroScope Sector Provider](https://forums.vatsim.net/topic/32691-euroscope-sector-provider/?do=findComment&comment=186387)
 - [EuroScope Sector Provider](https://forums.vatsim.net/topic/32691-euroscope-sector-provider/?do=findComment&comment=186386)
 - [Tour of the hardest approaches in Europe](https://forums.vatsim.net/topic/32456-tour-of-the-hardest-approaches-in-europe/?do=findComment&comment=186385)
 - [Last Xpilot Beta](https://forums.vatsim.net/topic/32677-last-xpilot-beta/?do=findComment&comment=186384)
@@ -63,8 +65,6 @@
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186381)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186380)
 - [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186379)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186378)
-- [[Qutescoop] Updated airspace and airport data available](https://forums.vatsim.net/topic/28027-qutescoop-updated-airspace-and-airport-data-available/?do=findComment&comment=186377)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
