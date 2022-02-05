@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186381)
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186380)
+- [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186379)
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186378)
+- [[Qutescoop] Updated airspace and airport data available](https://forums.vatsim.net/topic/28027-qutescoop-updated-airspace-and-airport-data-available/?do=findComment&comment=186377)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=186376)
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186375)
 - [Xpilot Beta .21 not compatible Mac Mojave?](https://forums.vatsim.net/topic/32681-xpilot-beta-21-not-compatible-mac-mojave/?do=findComment&comment=186374)
 - [New UK VA](https://forums.vatsim.net/topic/32697-new-uk-va/?do=findComment&comment=186373)
 - [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186372)
-- [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186371)
-- [[Qutescoop] Updated airspace and airport data available](https://forums.vatsim.net/topic/28027-qutescoop-updated-airspace-and-airport-data-available/?do=findComment&comment=186370)
-- [Vatstats.net not working?](https://forums.vatsim.net/topic/31643-vatstatsnet-not-working/?do=findComment&comment=186369)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186368)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186367)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
