@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186406)
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186405)
+- [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186404)
+- [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=186403)
+- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186402)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186401)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186400)
 - [Mic not functioning on vatsim for MFS2020](https://forums.vatsim.net/topic/32560-mic-not-functioning-on-vatsim-for-mfs2020/?do=findComment&comment=186399)
 - [Xpilot not linking with Xplane](https://forums.vatsim.net/topic/32689-xpilot-not-linking-with-xplane/?do=findComment&comment=186398)
 - [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186397)
-- [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186396)
-- [Model Matching MSFS2020](https://forums.vatsim.net/topic/32627-model-matching-msfs2020/?do=findComment&comment=186395)
-- [xPilot not liking to work with Vulkan](https://forums.vatsim.net/topic/32698-xpilot-not-liking-to-work-with-vulkan/?do=findComment&comment=186394)
-- [EuroScope Sector Provider](https://forums.vatsim.net/topic/32691-euroscope-sector-provider/?do=findComment&comment=186393)
-- [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186392)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
