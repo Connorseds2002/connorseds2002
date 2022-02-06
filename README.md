@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186454)
 - [plugin for swift?](https://forums.vatsim.net/topic/32708-plugin-for-swift/?do=findComment&comment=186453)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186452)
 - [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186451)
@@ -64,7 +65,6 @@
 - [plugin for swift?](https://forums.vatsim.net/topic/32708-plugin-for-swift/?do=findComment&comment=186447)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=186446)
 - [Legacy status proxy - providing data feed compatibility to passive clients not migrated to JSON yet](https://forums.vatsim.net/topic/31116-legacy-status-proxy-providing-data-feed-compatibility-to-passive-clients-not-migrated-to-json-yet/?do=findComment&comment=186445)
-- [CSL directory structure and xsb_aircraft file](https://forums.vatsim.net/topic/32707-csl-directory-structure-and-xsb_aircraft-file/?do=findComment&comment=186444)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
