@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vpilot 3.0.7 wont open](https://forums.vatsim.net/topic/32704-vpilot-307-wont-open/?do=findComment&comment=186441)
+- [Microphone problems](https://forums.vatsim.net/topic/32705-microphone-problems/?do=findComment&comment=186440)
+- [.net Exceptions on 3.2.0.0](https://forums.vatsim.net/topic/32593-net-exceptions-on-3200/?do=findComment&comment=186439)
+- [vpilot 3.0.7 wont open](https://forums.vatsim.net/topic/32704-vpilot-307-wont-open/?do=findComment&comment=186438)
 - [.net Exceptions on 3.2.0.0](https://forums.vatsim.net/topic/32593-net-exceptions-on-3200/?do=findComment&comment=186437)
 - [Xpilot not linking with Xplane](https://forums.vatsim.net/topic/32689-xpilot-not-linking-with-xplane/?do=findComment&comment=186436)
 - [How can assign CTRL button on Xpilot 2.0?](https://forums.vatsim.net/topic/32684-how-can-assign-ctrl-button-on-xpilot-20/?do=findComment&comment=186435)
 - [Floating Aircraft Labels in VR - X-Plane](https://forums.vatsim.net/topic/31961-floating-aircraft-labels-in-vr-x-plane/?do=findComment&comment=186434)
 - [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186433)
 - [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=186432)
-- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186431)
-- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186430)
-- [How can assign CTRL button on Xpilot 2.0?](https://forums.vatsim.net/topic/32684-how-can-assign-ctrl-button-on-xpilot-20/?do=findComment&comment=186429)
-- [update xpilot &lpar; velocity!!&rpar;](https://forums.vatsim.net/topic/32703-update-xpilot-velocity/?do=findComment&comment=186428)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
