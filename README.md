@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=186432)
+- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186431)
+- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186430)
+- [How can assign CTRL button on Xpilot 2.0?](https://forums.vatsim.net/topic/32684-how-can-assign-ctrl-button-on-xpilot-20/?do=findComment&comment=186429)
 - [update xpilot &lpar; velocity!!&rpar;](https://forums.vatsim.net/topic/32703-update-xpilot-velocity/?do=findComment&comment=186428)
 - [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=186427)
 - [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=186426)
 - [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186425)
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186424)
 - [update xpilot &lpar; velocity!!&rpar;](https://forums.vatsim.net/topic/32703-update-xpilot-velocity/?do=findComment&comment=186423)
-- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186422)
-- [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=186421)
-- [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=186420)
-- [Embarresed!](https://forums.vatsim.net/topic/32701-embarresed/?do=findComment&comment=186419)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
