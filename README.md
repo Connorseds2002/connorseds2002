@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [update xpilot &lpar; velocity!!&rpar;](https://forums.vatsim.net/topic/32703-update-xpilot-velocity/?do=findComment&comment=186428)
+- [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=186427)
+- [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=186426)
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186425)
+- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186424)
+- [update xpilot &lpar; velocity!!&rpar;](https://forums.vatsim.net/topic/32703-update-xpilot-velocity/?do=findComment&comment=186423)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186422)
 - [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=186421)
 - [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=186420)
 - [Embarresed!](https://forums.vatsim.net/topic/32701-embarresed/?do=findComment&comment=186419)
-- [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=186418)
-- [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=186417)
-- [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=186416)
-- [Changelog for 3.0.8?](https://forums.vatsim.net/topic/32685-changelog-for-308/?do=findComment&comment=186415)
-- [Embarresed!](https://forums.vatsim.net/topic/32701-embarresed/?do=findComment&comment=186414)
-- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186413)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
