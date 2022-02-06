@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Embarresed!](https://forums.vatsim.net/topic/32701-embarresed/?do=findComment&comment=186419)
+- [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=186418)
+- [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=186417)
 - [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=186416)
 - [Changelog for 3.0.8?](https://forums.vatsim.net/topic/32685-changelog-for-308/?do=findComment&comment=186415)
 - [Embarresed!](https://forums.vatsim.net/topic/32701-embarresed/?do=findComment&comment=186414)
@@ -62,9 +65,6 @@
 - [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186412)
 - [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186411)
 - [Vacancy - Instrument Rating Instructor, VATSIM-UK](https://forums.vatsim.net/topic/32699-vacancy-instrument-rating-instructor-vatsim-uk/?do=findComment&comment=186410)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186409)
-- [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186408)
-- [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186407)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
