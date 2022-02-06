@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Embarresed!](https://forums.vatsim.net/topic/32701-embarresed/?do=findComment&comment=186414)
+- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186413)
+- [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186412)
+- [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186411)
+- [Vacancy - Instrument Rating Instructor, VATSIM-UK](https://forums.vatsim.net/topic/32699-vacancy-instrument-rating-instructor-vatsim-uk/?do=findComment&comment=186410)
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186409)
 - [&quot;Accelerated&quot; aircraft since Velocity release/Spurious TCAS Warnings](https://forums.vatsim.net/topic/32696-accelerated-aircraft-since-velocity-releasespurious-tcas-warnings/?do=findComment&comment=186408)
 - [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186407)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186406)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186405)
-- [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186404)
-- [Cannot change region to Europe.](https://forums.vatsim.net/topic/30781-cannot-change-region-to-europe/?do=findComment&comment=186403)
-- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186402)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186401)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186400)
-- [Mic not functioning on vatsim for MFS2020](https://forums.vatsim.net/topic/32560-mic-not-functioning-on-vatsim-for-mfs2020/?do=findComment&comment=186399)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
