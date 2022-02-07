@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186475)
+- [Difference between MSFS and Jeppesen published airport layout &lpar;parking&rpar; - what to do ?](https://forums.vatsim.net/topic/32713-difference-between-msfs-and-jeppesen-published-airport-layout-parking-what-to-do/?do=findComment&comment=186474)
+- [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186473)
+- [Adding/Creating Specific Airline Logo to CSL File](https://forums.vatsim.net/topic/32711-addingcreating-specific-airline-logo-to-csl-file/?do=findComment&comment=186472)
+- [Problems with receiving audio in AFV](https://forums.vatsim.net/topic/32498-problems-with-receiving-audio-in-afv/?do=findComment&comment=186471)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=186470)
 - [VATCAN: CZQM/CZQX FIR Webmaster](https://forums.vatsim.net/topic/32472-vatcan-czqmczqx-fir-webmaster/?do=findComment&comment=186469)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=186468)
 - [vpilot squelching g noise](https://forums.vatsim.net/topic/19640-vpilot-squelching-g-noise/?do=findComment&comment=186467)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186466)
-- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186465)
-- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186464)
-- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186463)
-- [Revoada de Carnaval - vatbrz](https://forums.vatsim.net/topic/32710-revoada-de-carnaval-vatbrz/?do=findComment&comment=186462)
-- [vpilot squelching g noise](https://forums.vatsim.net/topic/19640-vpilot-squelching-g-noise/?do=findComment&comment=186461)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
