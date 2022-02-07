@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim and...](https://forums.vatsim.net/topic/32715-vatsim-and/?do=findComment&comment=186477)
+- [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186476)
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186475)
 - [Difference between MSFS and Jeppesen published airport layout &lpar;parking&rpar; - what to do ?](https://forums.vatsim.net/topic/32713-difference-between-msfs-and-jeppesen-published-airport-layout-parking-what-to-do/?do=findComment&comment=186474)
 - [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186473)
@@ -63,8 +65,6 @@
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=186470)
 - [VATCAN: CZQM/CZQX FIR Webmaster](https://forums.vatsim.net/topic/32472-vatcan-czqmczqx-fir-webmaster/?do=findComment&comment=186469)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=186468)
-- [vpilot squelching g noise](https://forums.vatsim.net/topic/19640-vpilot-squelching-g-noise/?do=findComment&comment=186467)
-- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186466)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
