@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186503)
+- [Underlying Connection was Closed](https://forums.vatsim.net/topic/32718-underlying-connection-was-closed/?do=findComment&comment=186502)
+- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186501)
 - [Model Matching MSFS2020](https://forums.vatsim.net/topic/32627-model-matching-msfs2020/?do=findComment&comment=186500)
 - [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186499)
 - [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186498)
@@ -62,9 +65,6 @@
 - [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186496)
 - [Connect failed &lpar;Forbidden - &rpar;](https://forums.vatsim.net/topic/29563-connect-failed-forbidden/?do=findComment&comment=186495)
 - [[APPOINTMENT] vACC Director - Ireland](https://forums.vatsim.net/topic/32717-appointment-vacc-director-ireland/?do=findComment&comment=186494)
-- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186493)
-- [Adding/Creating Specific Airline Logo to CSL File](https://forums.vatsim.net/topic/32711-addingcreating-specific-airline-logo-to-csl-file/?do=findComment&comment=186492)
-- [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186491)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
