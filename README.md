@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vpilot squelching g noise](https://forums.vatsim.net/topic/19640-vpilot-squelching-g-noise/?do=findComment&comment=186467)
+- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186466)
+- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186465)
+- [Centralised Overview of booked ATC sessions](https://forums.vatsim.net/topic/32615-centralised-overview-of-booked-atc-sessions/?do=findComment&comment=186464)
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=186463)
+- [Revoada de Carnaval - vatbrz](https://forums.vatsim.net/topic/32710-revoada-de-carnaval-vatbrz/?do=findComment&comment=186462)
+- [vpilot squelching g noise](https://forums.vatsim.net/topic/19640-vpilot-squelching-g-noise/?do=findComment&comment=186461)
 - [vpilot squelching g noise](https://forums.vatsim.net/topic/19640-vpilot-squelching-g-noise/?do=findComment&comment=186460)
 - [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186459)
 - [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186457)
-- [EuroScope Sector Provider](https://forums.vatsim.net/topic/32691-euroscope-sector-provider/?do=findComment&comment=186456)
-- [CSL directory structure and xsb_aircraft file](https://forums.vatsim.net/topic/32707-csl-directory-structure-and-xsb_aircraft-file/?do=findComment&comment=186455)
-- [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186454)
-- [plugin for swift?](https://forums.vatsim.net/topic/32708-plugin-for-swift/?do=findComment&comment=186453)
-- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186452)
-- [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186451)
-- [plugin for swift?](https://forums.vatsim.net/topic/32708-plugin-for-swift/?do=findComment&comment=186450)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
