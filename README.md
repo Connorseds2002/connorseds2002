@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186524)
 - [ES saving issue](https://forums.vatsim.net/topic/32722-es-saving-issue/?do=findComment&comment=186523)
 - [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186522)
 - [Embarresed!](https://forums.vatsim.net/topic/32701-embarresed/?do=findComment&comment=186521)
@@ -64,7 +65,6 @@
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186517)
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186516)
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186515)
-- [Adding/Creating Specific Airline Logo to CSL File](https://forums.vatsim.net/topic/32711-addingcreating-specific-airline-logo-to-csl-file/?do=findComment&comment=186514)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
