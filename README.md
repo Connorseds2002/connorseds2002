@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186496)
+- [Connect failed &lpar;Forbidden - &rpar;](https://forums.vatsim.net/topic/29563-connect-failed-forbidden/?do=findComment&comment=186495)
+- [[APPOINTMENT] vACC Director - Ireland](https://forums.vatsim.net/topic/32717-appointment-vacc-director-ireland/?do=findComment&comment=186494)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186493)
 - [Adding/Creating Specific Airline Logo to CSL File](https://forums.vatsim.net/topic/32711-addingcreating-specific-airline-logo-to-csl-file/?do=findComment&comment=186492)
 - [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186491)
@@ -62,9 +65,6 @@
 - [Difference between MSFS and Jeppesen published airport layout &lpar;parking&rpar; - what to do ?](https://forums.vatsim.net/topic/32713-difference-between-msfs-and-jeppesen-published-airport-layout-parking-what-to-do/?do=findComment&comment=186489)
 - [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186488)
 - [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186487)
-- [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186486)
-- [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186485)
-- [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186484)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
