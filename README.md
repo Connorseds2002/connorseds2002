@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=186468)
 - [vpilot squelching g noise](https://forums.vatsim.net/topic/19640-vpilot-squelching-g-noise/?do=findComment&comment=186467)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186466)
 - [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186465)
@@ -64,7 +65,6 @@
 - [vpilot squelching g noise](https://forums.vatsim.net/topic/19640-vpilot-squelching-g-noise/?do=findComment&comment=186461)
 - [vpilot squelching g noise](https://forums.vatsim.net/topic/19640-vpilot-squelching-g-noise/?do=findComment&comment=186460)
 - [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186459)
-- [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186457)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
