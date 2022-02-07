@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CPDLC](https://forums.vatsim.net/topic/30339-cpdlc/?do=findComment&comment=186493)
+- [Adding/Creating Specific Airline Logo to CSL File](https://forums.vatsim.net/topic/32711-addingcreating-specific-airline-logo-to-csl-file/?do=findComment&comment=186492)
+- [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186491)
 - [Difference between MSFS and Jeppesen published airport layout &lpar;parking&rpar; - what to do ?](https://forums.vatsim.net/topic/32713-difference-between-msfs-and-jeppesen-published-airport-layout-parking-what-to-do/?do=findComment&comment=186490)
 - [Difference between MSFS and Jeppesen published airport layout &lpar;parking&rpar; - what to do ?](https://forums.vatsim.net/topic/32713-difference-between-msfs-and-jeppesen-published-airport-layout-parking-what-to-do/?do=findComment&comment=186489)
 - [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186488)
@@ -62,9 +65,6 @@
 - [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186486)
 - [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186485)
 - [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186484)
-- [Difference between MSFS and Jeppesen published airport layout &lpar;parking&rpar; - what to do ?](https://forums.vatsim.net/topic/32713-difference-between-msfs-and-jeppesen-published-airport-layout-parking-what-to-do/?do=findComment&comment=186483)
-- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186482)
-- [ATIS in text available?](https://forums.vatsim.net/topic/32712-atis-in-text-available/?do=findComment&comment=186481)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
