@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim and...](https://forums.vatsim.net/topic/32715-vatsim-and/?do=findComment&comment=186478)
 - [Vatsim and...](https://forums.vatsim.net/topic/32715-vatsim-and/?do=findComment&comment=186477)
 - [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186476)
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186475)
@@ -64,7 +65,6 @@
 - [Problems with receiving audio in AFV](https://forums.vatsim.net/topic/32498-problems-with-receiving-audio-in-afv/?do=findComment&comment=186471)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=186470)
 - [VATCAN: CZQM/CZQX FIR Webmaster](https://forums.vatsim.net/topic/32472-vatcan-czqmczqx-fir-webmaster/?do=findComment&comment=186469)
-- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=186468)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
