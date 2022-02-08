@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Confusion at Gatwick](https://forums.vatsim.net/topic/32724-confusion-at-gatwick/?do=findComment&comment=186548)
+- [Confusion at Gatwick](https://forums.vatsim.net/topic/32724-confusion-at-gatwick/?do=findComment&comment=186547)
+- [Confusion at Gatwick](https://forums.vatsim.net/topic/32724-confusion-at-gatwick/?do=findComment&comment=186546)
+- [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186545)
+- [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=186544)
+- [Adding/Creating Specific Airline Logo to CSL File](https://forums.vatsim.net/topic/32711-addingcreating-specific-airline-logo-to-csl-file/?do=findComment&comment=186543)
 - [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186542)
 - [Confusion at Gatwick](https://forums.vatsim.net/topic/32724-confusion-at-gatwick/?do=findComment&comment=186541)
 - [Confusion at Gatwick](https://forums.vatsim.net/topic/32724-confusion-at-gatwick/?do=findComment&comment=186540)
 - [[APPOINTMENT] vACC Director - Ireland](https://forums.vatsim.net/topic/32717-appointment-vacc-director-ireland/?do=findComment&comment=186539)
-- [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186538)
-- [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186537)
-- [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186536)
-- [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186535)
-- [Adding/Creating Specific Airline Logo to CSL File](https://forums.vatsim.net/topic/32711-addingcreating-specific-airline-logo-to-csl-file/?do=findComment&comment=186534)
-- [Adding/Creating Specific Airline Logo to CSL File](https://forums.vatsim.net/topic/32711-addingcreating-specific-airline-logo-to-csl-file/?do=findComment&comment=186533)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
