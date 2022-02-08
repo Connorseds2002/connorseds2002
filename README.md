@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186538)
 - [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186537)
 - [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186536)
 - [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186535)
@@ -64,7 +65,6 @@
 - [Update from VATSIM Technology Teams](https://forums.vatsim.net/topic/32723-update-from-vatsim-technology-teams/?do=findComment&comment=186531)
 - [please with the vpilot mode matching](https://forums.vatsim.net/topic/32721-please-with-the-vpilot-mode-matching/?do=findComment&comment=186530)
 - [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186529)
-- [Update from VATSIM Technology Teams](https://forums.vatsim.net/topic/32723-update-from-vatsim-technology-teams/?do=findComment&comment=186528)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
