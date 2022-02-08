@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Update from VATSIM Technology Teams](https://forums.vatsim.net/topic/32723-update-from-vatsim-technology-teams/?do=findComment&comment=186528)
+- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186527)
 - [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186526)
 - [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186525)
 - [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186524)
@@ -63,8 +65,6 @@
 - [Embarresed!](https://forums.vatsim.net/topic/32701-embarresed/?do=findComment&comment=186521)
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186520)
 - [[APPOINTMENT] vACC Director - Ireland](https://forums.vatsim.net/topic/32717-appointment-vacc-director-ireland/?do=findComment&comment=186519)
-- [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186518)
-- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186517)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
