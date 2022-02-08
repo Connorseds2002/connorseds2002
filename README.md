@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Assistant ATC Training Director for the Arabian vACC](https://forums.vatsim.net/topic/32726-vacancy-assistant-atc-training-director-for-the-arabian-vacc/?do=findComment&comment=186555)
 - [Need help unlinking my discord account](https://forums.vatsim.net/topic/32719-need-help-unlinking-my-discord-account/?do=findComment&comment=186554)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186553)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186552)
@@ -64,7 +65,6 @@
 - [Confusion at Gatwick](https://forums.vatsim.net/topic/32724-confusion-at-gatwick/?do=findComment&comment=186548)
 - [Confusion at Gatwick](https://forums.vatsim.net/topic/32724-confusion-at-gatwick/?do=findComment&comment=186547)
 - [Confusion at Gatwick](https://forums.vatsim.net/topic/32724-confusion-at-gatwick/?do=findComment&comment=186546)
-- [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186545)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
