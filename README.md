@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186562)
 - [Audio for VATSIM Standalone v1.9.4 Released](https://forums.vatsim.net/topic/32727-audio-for-vatsim-standalone-v194-released/?do=findComment&comment=186561)
 - [ES saving issue](https://forums.vatsim.net/topic/32722-es-saving-issue/?do=findComment&comment=186560)
 - [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186559)
@@ -64,7 +65,6 @@
 - [[VACANCY] Assistant ATC Training Director for the Arabian vACC](https://forums.vatsim.net/topic/32726-vacancy-assistant-atc-training-director-for-the-arabian-vacc/?do=findComment&comment=186555)
 - [Need help unlinking my discord account](https://forums.vatsim.net/topic/32719-need-help-unlinking-my-discord-account/?do=findComment&comment=186554)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186553)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186552)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
