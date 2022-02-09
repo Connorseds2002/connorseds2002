@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=186576)
+- [ES saving issue](https://forums.vatsim.net/topic/32722-es-saving-issue/?do=findComment&comment=186575)
 - [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186574)
 - [ES saving issue](https://forums.vatsim.net/topic/32722-es-saving-issue/?do=findComment&comment=186573)
 - [ES saving issue](https://forums.vatsim.net/topic/32722-es-saving-issue/?do=findComment&comment=186572)
@@ -63,8 +65,6 @@
 - [Voicemeeter Issues with AFV](https://forums.vatsim.net/topic/32729-voicemeeter-issues-with-afv/?do=findComment&comment=186569)
 - [Voicemeeter Issues with AFV](https://forums.vatsim.net/topic/32729-voicemeeter-issues-with-afv/?do=findComment&comment=186568)
 - [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=186567)
-- [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=186566)
-- [Canadian Xpress American Rockies Tour](https://forums.vatsim.net/topic/32728-canadian-xpress-american-rockies-tour/?do=findComment&comment=186564)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
