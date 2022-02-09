@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186579)
+- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186578)
+- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186577)
 - [VPILOT will not RX](https://forums.vatsim.net/topic/32416-vpilot-will-not-rx/?do=findComment&comment=186576)
 - [ES saving issue](https://forums.vatsim.net/topic/32722-es-saving-issue/?do=findComment&comment=186575)
 - [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186574)
@@ -62,9 +65,6 @@
 - [ES saving issue](https://forums.vatsim.net/topic/32722-es-saving-issue/?do=findComment&comment=186572)
 - [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186571)
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186570)
-- [Voicemeeter Issues with AFV](https://forums.vatsim.net/topic/32729-voicemeeter-issues-with-afv/?do=findComment&comment=186569)
-- [Voicemeeter Issues with AFV](https://forums.vatsim.net/topic/32729-voicemeeter-issues-with-afv/?do=findComment&comment=186568)
-- [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=186567)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
