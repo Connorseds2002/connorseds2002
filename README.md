@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ES saving issue](https://forums.vatsim.net/topic/32722-es-saving-issue/?do=findComment&comment=186572)
 - [I busted the Sydney airspace. Help?](https://forums.vatsim.net/topic/32714-i-busted-the-sydney-airspace-help/?do=findComment&comment=186571)
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186570)
 - [Voicemeeter Issues with AFV](https://forums.vatsim.net/topic/32729-voicemeeter-issues-with-afv/?do=findComment&comment=186569)
@@ -64,7 +65,6 @@
 - [Canadian Xpress American Rockies Tour](https://forums.vatsim.net/topic/32728-canadian-xpress-american-rockies-tour/?do=findComment&comment=186564)
 - [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186563)
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186562)
-- [Audio for VATSIM Standalone v1.9.4 Released](https://forums.vatsim.net/topic/32727-audio-for-vatsim-standalone-v194-released/?do=findComment&comment=186561)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
