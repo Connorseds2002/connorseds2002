@@ -55,8 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=186567)
 - [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=186566)
-- [[FIXED]I can&#39;t hear any Pilots/ATC](https://forums.vatsim.net/topic/25100-fixedi-cant-hear-any-pilotsatc/?do=findComment&comment=186565)
 - [Canadian Xpress American Rockies Tour](https://forums.vatsim.net/topic/32728-canadian-xpress-american-rockies-tour/?do=findComment&comment=186564)
 - [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186563)
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186562)
