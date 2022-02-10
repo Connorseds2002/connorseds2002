@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186599)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186598)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186597)
 - [Displaying SRW &lpar;The approach window&rpar; of vSMR automatically ?](https://forums.vatsim.net/topic/32732-displaying-srw-the-approach-window-of-vsmr-automatically/?do=findComment&comment=186596)
@@ -64,7 +65,6 @@
 - [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=186592)
 - [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186591)
 - [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186590)
-- [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186589)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
