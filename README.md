@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Freighters Run - 01MAR etd 1730z LPPT-EBLG](https://forums.vatsim.net/topic/32734-freighters-run-01mar-etd-1730z-lppt-eblg/?do=findComment&comment=186605)
+- [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186604)
 - [AFV won&#39;t Connect](https://forums.vatsim.net/topic/29620-afv-wont-connect/?do=findComment&comment=186603)
 - [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186602)
 - [X-Pilot](https://forums.vatsim.net/topic/32733-x-pilot/?do=findComment&comment=186601)
@@ -63,8 +65,6 @@
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186597)
 - [Displaying SRW &lpar;The approach window&rpar; of vSMR automatically ?](https://forums.vatsim.net/topic/32732-displaying-srw-the-approach-window-of-vsmr-automatically/?do=findComment&comment=186596)
 - [Can&#39;t hear aircraft noises](https://forums.vatsim.net/topic/29381-cant-hear-aircraft-noises/?do=findComment&comment=186595)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=186594)
-- [[EVENT] Malabar Express - Bengaluru &lpar;VOBL&rpar; to Trivandrum &lpar;VOTV&rpar;](https://forums.vatsim.net/topic/32731-event-malabar-express-bengaluru-vobl-to-trivandrum-votv/?do=findComment&comment=186593)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
