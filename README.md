@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186616)
+- [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186615)
+- [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186614)
+- [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186613)
+- [XPilot not working](https://forums.vatsim.net/topic/32736-xpilot-not-working/?do=findComment&comment=186612)
+- [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186611)
+- [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186610)
+- [Livery Matching in Swift](https://forums.vatsim.net/topic/32735-livery-matching-in-swift/?do=findComment&comment=186609)
 - [Freighters Run - 01MAR etd 1730z LPPT-EBLG](https://forums.vatsim.net/topic/32734-freighters-run-01mar-etd-1730z-lppt-eblg/?do=findComment&comment=186608)
 - [Freighters Run - 01MAR etd 1730z LPPT-EBLG](https://forums.vatsim.net/topic/32734-freighters-run-01mar-etd-1730z-lppt-eblg/?do=findComment&comment=186607)
-- [Livery Matching in Swift](https://forums.vatsim.net/topic/32735-livery-matching-in-swift/?do=findComment&comment=186606)
-- [Freighters Run - 01MAR etd 1730z LPPT-EBLG](https://forums.vatsim.net/topic/32734-freighters-run-01mar-etd-1730z-lppt-eblg/?do=findComment&comment=186605)
-- [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186604)
-- [AFV won&#39;t Connect](https://forums.vatsim.net/topic/29620-afv-wont-connect/?do=findComment&comment=186603)
-- [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186602)
-- [X-Pilot](https://forums.vatsim.net/topic/32733-x-pilot/?do=findComment&comment=186601)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186599)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186598)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
