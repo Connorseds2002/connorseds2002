@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can&#39;t connect &lpar;MSFS&rpar;](https://forums.vatsim.net/topic/28721-cant-connect-msfs/?do=findComment&comment=186618)
+- [vPilot 3.1.0 released](https://forums.vatsim.net/topic/32737-vpilot-310-released/?do=findComment&comment=186617)
 - [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186616)
 - [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186615)
 - [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186614)
@@ -63,8 +65,6 @@
 - [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186611)
 - [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186610)
 - [Livery Matching in Swift](https://forums.vatsim.net/topic/32735-livery-matching-in-swift/?do=findComment&comment=186609)
-- [Freighters Run - 01MAR etd 1730z LPPT-EBLG](https://forums.vatsim.net/topic/32734-freighters-run-01mar-etd-1730z-lppt-eblg/?do=findComment&comment=186608)
-- [Freighters Run - 01MAR etd 1730z LPPT-EBLG](https://forums.vatsim.net/topic/32734-freighters-run-01mar-etd-1730z-lppt-eblg/?do=findComment&comment=186607)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
