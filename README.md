@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[EVENT] Malabar Express - Bengaluru &lpar;VOBL&rpar; to Trivandrum &lpar;VOTV&rpar;](https://forums.vatsim.net/topic/32731-event-malabar-express-bengaluru-vobl-to-trivandrum-votv/?do=findComment&comment=186593)
+- [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=186592)
 - [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186591)
 - [.NET Framework requirements for plugins](https://forums.vatsim.net/topic/32709-net-framework-requirements-for-plugins/?do=findComment&comment=186590)
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186589)
@@ -63,8 +65,6 @@
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186586)
 - [vPilot 3.0.7 Released](https://forums.vatsim.net/topic/32700-vpilot-307-released/?do=findComment&comment=186585)
 - [No ATC voices with Vpilot](https://forums.vatsim.net/topic/30688-no-atc-voices-with-vpilot/?do=findComment&comment=186584)
-- [Appointment of Divisional Operations Director](https://forums.vatsim.net/topic/32730-appointment-of-divisional-operations-director/?do=findComment&comment=186583)
-- [ES saving issue](https://forums.vatsim.net/topic/32722-es-saving-issue/?do=findComment&comment=186582)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
