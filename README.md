@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SID and STAR Tutorial video](https://forums.vatsim.net/topic/5784-sid-and-star-tutorial-video/?do=findComment&comment=186636)
 - [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186635)
 - [Aircrafts sometimes move not smoothly](https://forums.vatsim.net/topic/32738-aircrafts-sometimes-move-not-smoothly/?do=findComment&comment=186634)
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186633)
@@ -64,7 +65,6 @@
 - [Livery Matching in Swift](https://forums.vatsim.net/topic/32735-livery-matching-in-swift/?do=findComment&comment=186629)
 - [Livery Matching in Swift](https://forums.vatsim.net/topic/32735-livery-matching-in-swift/?do=findComment&comment=186628)
 - [Livery Matching in Swift](https://forums.vatsim.net/topic/32735-livery-matching-in-swift/?do=findComment&comment=186627)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186626)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
