@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=186648)
+- [No disconnect warning sound](https://forums.vatsim.net/topic/32742-no-disconnect-warning-sound/?do=findComment&comment=186647)
+- [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186646)
+- [XPilot not working](https://forums.vatsim.net/topic/32736-xpilot-not-working/?do=findComment&comment=186645)
+- [No disconnect warning sound](https://forums.vatsim.net/topic/32742-no-disconnect-warning-sound/?do=findComment&comment=186644)
 - [No disconnect warning sound](https://forums.vatsim.net/topic/32742-no-disconnect-warning-sound/?do=findComment&comment=186643)
 - [FSD socket error](https://forums.vatsim.net/topic/32741-fsd-socket-error/?do=findComment&comment=186642)
 - [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186641)
 - [[Uruguay] Download Source for Charts?](https://forums.vatsim.net/topic/32740-uruguay-download-source-for-charts/?do=findComment&comment=186640)
 - [[Uruguay] Download Source for Charts?](https://forums.vatsim.net/topic/32740-uruguay-download-source-for-charts/?do=findComment&comment=186639)
-- [нет подключения xpilot](https://forums.vatsim.net/topic/32739-%D0%BD%D0%B5%D1%82-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-xpilot/?do=findComment&comment=186638)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186637)
-- [SID and STAR Tutorial video](https://forums.vatsim.net/topic/5784-sid-and-star-tutorial-video/?do=findComment&comment=186636)
-- [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186635)
-- [Aircrafts sometimes move not smoothly](https://forums.vatsim.net/topic/32738-aircrafts-sometimes-move-not-smoothly/?do=findComment&comment=186634)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
