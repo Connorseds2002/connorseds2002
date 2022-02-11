@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186653)
+- [Audio Problems / From time to time hear only static](https://forums.vatsim.net/topic/32744-audio-problems-from-time-to-time-hear-only-static/?do=findComment&comment=186652)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186651)
 - [Crossing the Atlantic on the south side](https://forums.vatsim.net/topic/32743-crossing-the-atlantic-on-the-south-side/?do=findComment&comment=186650)
 - [[Uruguay] Download Source for Charts?](https://forums.vatsim.net/topic/32740-uruguay-download-source-for-charts/?do=findComment&comment=186649)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=186648)
@@ -62,9 +65,6 @@
 - [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186646)
 - [XPilot not working](https://forums.vatsim.net/topic/32736-xpilot-not-working/?do=findComment&comment=186645)
 - [No disconnect warning sound](https://forums.vatsim.net/topic/32742-no-disconnect-warning-sound/?do=findComment&comment=186644)
-- [No disconnect warning sound](https://forums.vatsim.net/topic/32742-no-disconnect-warning-sound/?do=findComment&comment=186643)
-- [FSD socket error](https://forums.vatsim.net/topic/32741-fsd-socket-error/?do=findComment&comment=186642)
-- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186641)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
