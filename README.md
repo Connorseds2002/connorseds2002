@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Crossing the Atlantic on the south side](https://forums.vatsim.net/topic/32743-crossing-the-atlantic-on-the-south-side/?do=findComment&comment=186650)
+- [[Uruguay] Download Source for Charts?](https://forums.vatsim.net/topic/32740-uruguay-download-source-for-charts/?do=findComment&comment=186649)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=186648)
 - [No disconnect warning sound](https://forums.vatsim.net/topic/32742-no-disconnect-warning-sound/?do=findComment&comment=186647)
 - [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186646)
@@ -63,8 +65,6 @@
 - [No disconnect warning sound](https://forums.vatsim.net/topic/32742-no-disconnect-warning-sound/?do=findComment&comment=186643)
 - [FSD socket error](https://forums.vatsim.net/topic/32741-fsd-socket-error/?do=findComment&comment=186642)
 - [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186641)
-- [[Uruguay] Download Source for Charts?](https://forums.vatsim.net/topic/32740-uruguay-download-source-for-charts/?do=findComment&comment=186640)
-- [[Uruguay] Download Source for Charts?](https://forums.vatsim.net/topic/32740-uruguay-download-source-for-charts/?do=findComment&comment=186639)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
