@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Uruguay] Download Source for Charts?](https://forums.vatsim.net/topic/32740-uruguay-download-source-for-charts/?do=findComment&comment=186639)
+- [нет подключения xpilot](https://forums.vatsim.net/topic/32739-%D0%BD%D0%B5%D1%82-%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-xpilot/?do=findComment&comment=186638)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=186637)
 - [SID and STAR Tutorial video](https://forums.vatsim.net/topic/5784-sid-and-star-tutorial-video/?do=findComment&comment=186636)
 - [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186635)
 - [Aircrafts sometimes move not smoothly](https://forums.vatsim.net/topic/32738-aircrafts-sometimes-move-not-smoothly/?do=findComment&comment=186634)
@@ -62,9 +65,6 @@
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186632)
 - [vPilot  causing massive fps drops and low performance on MSFS 2020 in Windows 11](https://forums.vatsim.net/topic/31794-vpilot-causing-massive-fps-drops-and-low-performance-on-msfs-2020-in-windows-11/?do=findComment&comment=186631)
 - [[APPOINTMENTS] vACC Directors - Hungary and Poland](https://forums.vatsim.net/topic/32673-appointments-vacc-directors-hungary-and-poland/?do=findComment&comment=186630)
-- [Livery Matching in Swift](https://forums.vatsim.net/topic/32735-livery-matching-in-swift/?do=findComment&comment=186629)
-- [Livery Matching in Swift](https://forums.vatsim.net/topic/32735-livery-matching-in-swift/?do=findComment&comment=186628)
-- [Livery Matching in Swift](https://forums.vatsim.net/topic/32735-livery-matching-in-swift/?do=findComment&comment=186627)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
