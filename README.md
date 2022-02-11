@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot  causing massive fps drops and low performance on MSFS 2020 in Windows 11](https://forums.vatsim.net/topic/31794-vpilot-causing-massive-fps-drops-and-low-performance-on-msfs-2020-in-windows-11/?do=findComment&comment=186657)
 - [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186656)
 - [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186655)
 - [xPilot won&#39;t download](https://forums.vatsim.net/topic/32671-xpilot-wont-download/?do=findComment&comment=186654)
@@ -64,7 +65,6 @@
 - [Crossing the Atlantic on the south side](https://forums.vatsim.net/topic/32743-crossing-the-atlantic-on-the-south-side/?do=findComment&comment=186650)
 - [[Uruguay] Download Source for Charts?](https://forums.vatsim.net/topic/32740-uruguay-download-source-for-charts/?do=findComment&comment=186649)
 - [Custom colour themes for VAT-Spy](https://forums.vatsim.net/topic/30567-custom-colour-themes-for-vat-spy/?do=findComment&comment=186648)
-- [No disconnect warning sound](https://forums.vatsim.net/topic/32742-no-disconnect-warning-sound/?do=findComment&comment=186647)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
