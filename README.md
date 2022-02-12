@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Traffic Global with Xpilot](https://forums.vatsim.net/topic/31647-traffic-global-with-xpilot/?do=findComment&comment=186662)
+- [Thanks to VATUSA for the nice shout out for my voice work on these courses!!  Need voice work?  I&#39;m your guy!!](https://forums.vatsim.net/topic/32747-thanks-to-vatusa-for-the-nice-shout-out-for-my-voice-work-on-these-courses-need-voice-work-im-your-guy/?do=findComment&comment=186661)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=186660)
 - [[Uruguay] Download Source for Charts?](https://forums.vatsim.net/topic/32740-uruguay-download-source-for-charts/?do=findComment&comment=186659)
 - [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186658)
@@ -63,8 +65,6 @@
 - [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186655)
 - [xPilot won&#39;t download](https://forums.vatsim.net/topic/32671-xpilot-wont-download/?do=findComment&comment=186654)
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186653)
-- [Audio Problems / From time to time hear only static](https://forums.vatsim.net/topic/32744-audio-problems-from-time-to-time-hear-only-static/?do=findComment&comment=186652)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186651)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
