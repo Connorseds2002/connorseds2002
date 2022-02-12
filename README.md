@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186681)
+- [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186680)
+- [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186679)
+- [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186678)
+- [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186677)
+- [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186676)
 - [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186675)
 - [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=186674)
 - [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=186673)
 - [Progressing in Vatsim](https://forums.vatsim.net/topic/32752-progressing-in-vatsim/?do=findComment&comment=186672)
-- [[Qutescoop] Updated airspace and airport data available](https://forums.vatsim.net/topic/28027-qutescoop-updated-airspace-and-airport-data-available/?do=findComment&comment=186671)
-- [QuteScoop 2022 &lpar;VATSIM online status viewer Win/Linux/Mac&rpar;](https://forums.vatsim.net/topic/32751-qutescoop-2022-vatsim-online-status-viewer-winlinuxmac/?do=findComment&comment=186670)
-- [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=186669)
-- [Beta .22 Crashes mid-flight.](https://forums.vatsim.net/topic/32749-beta-22-crashes-mid-flight/?do=findComment&comment=186668)
-- [Problems running with wine &lpar;standalone for EuroScope&rpar;](https://forums.vatsim.net/topic/32620-problems-running-with-wine-standalone-for-euroscope/?do=findComment&comment=186667)
-- [Crossing the Atlantic on the south side](https://forums.vatsim.net/topic/32743-crossing-the-atlantic-on-the-south-side/?do=findComment&comment=186666)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
