@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186663)
 - [Traffic Global with Xpilot](https://forums.vatsim.net/topic/31647-traffic-global-with-xpilot/?do=findComment&comment=186662)
 - [Thanks to VATUSA for the nice shout out for my voice work on these courses!!  Need voice work?  I&#39;m your guy!!](https://forums.vatsim.net/topic/32747-thanks-to-vatusa-for-the-nice-shout-out-for-my-voice-work-on-these-courses-need-voice-work-im-your-guy/?do=findComment&comment=186661)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=186660)
@@ -64,7 +65,6 @@
 - [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186656)
 - [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186655)
 - [xPilot won&#39;t download](https://forums.vatsim.net/topic/32671-xpilot-wont-download/?do=findComment&comment=186654)
-- [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186653)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
