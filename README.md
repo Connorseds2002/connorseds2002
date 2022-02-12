@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186686)
+- [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186685)
+- [How can I see my VAT SIM ID](https://forums.vatsim.net/topic/32756-how-can-i-see-my-vat-sim-id/?do=findComment&comment=186684)
+- [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186683)
+- [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186682)
 - [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186681)
 - [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186680)
 - [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186679)
 - [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186678)
 - [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186677)
-- [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186676)
-- [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186675)
-- [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=186674)
-- [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=186673)
-- [Progressing in Vatsim](https://forums.vatsim.net/topic/32752-progressing-in-vatsim/?do=findComment&comment=186672)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
