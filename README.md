@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Caribbean event](https://forums.vatsim.net/topic/32757-caribbean-event/?do=findComment&comment=186687)
 - [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186686)
 - [X Pilot 200 21 no receiving sound](https://forums.vatsim.net/topic/32690-x-pilot-200-21-no-receiving-sound/?do=findComment&comment=186685)
 - [How can I see my VAT SIM ID](https://forums.vatsim.net/topic/32756-how-can-i-see-my-vat-sim-id/?do=findComment&comment=186684)
@@ -64,7 +65,6 @@
 - [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186680)
 - [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186679)
 - [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186678)
-- [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186677)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
