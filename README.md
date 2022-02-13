@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Sat Feb. 18-19] JFK-HND Konbanwa Nyūyōku [+ATC]](https://forums.vatsim.net/topic/32764-sat-feb-18-19-jfk-hnd-konbanwa-ny%C5%ABy%C5%8Dku-atc/?do=findComment&comment=186714)
 - [Vatsim Discord help](https://forums.vatsim.net/topic/32763-vatsim-discord-help/?do=findComment&comment=186713)
 - [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186712)
 - [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186711)
@@ -64,7 +65,6 @@
 - [Audio Problems / From time to time hear only static](https://forums.vatsim.net/topic/32744-audio-problems-from-time-to-time-hear-only-static/?do=findComment&comment=186707)
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=186706)
 - [Moving Plug-ins list entries results in multiple errors and a freeze of ES when closing the application](https://forums.vatsim.net/topic/27189-moving-plug-ins-list-entries-results-in-multiple-errors-and-a-freeze-of-es-when-closing-the-application/?do=findComment&comment=186705)
-- [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186704)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
