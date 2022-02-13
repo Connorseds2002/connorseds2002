@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186698)
 - [Audio Problems / From time to time hear only static](https://forums.vatsim.net/topic/32744-audio-problems-from-time-to-time-hear-only-static/?do=findComment&comment=186697)
 - [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186696)
 - [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186695)
@@ -64,7 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186691)
 - [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=186690)
 - [&quot;User account is suspended&quot;](https://forums.vatsim.net/topic/32758-user-account-is-suspended/?do=findComment&comment=186689)
-- [How can I see my VAT SIM ID](https://forums.vatsim.net/topic/32756-how-can-i-see-my-vat-sim-id/?do=findComment&comment=186688)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
