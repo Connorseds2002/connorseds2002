@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186700)
+- [[REXAIR VIRTUEL] Recrutement en cours](https://forums.vatsim.net/topic/32761-rexair-virtuel-recrutement-en-cours/?do=findComment&comment=186699)
 - [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186698)
 - [Audio Problems / From time to time hear only static](https://forums.vatsim.net/topic/32744-audio-problems-from-time-to-time-hear-only-static/?do=findComment&comment=186697)
 - [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186696)
@@ -63,8 +65,6 @@
 - [xplane11 crashed by xpilote 2.0](https://forums.vatsim.net/topic/32759-xplane11-crashed-by-xpilote-20/?do=findComment&comment=186693)
 - [&quot;User account is suspended&quot;](https://forums.vatsim.net/topic/32758-user-account-is-suspended/?do=findComment&comment=186692)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186691)
-- [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=186690)
-- [&quot;User account is suspended&quot;](https://forums.vatsim.net/topic/32758-user-account-is-suspended/?do=findComment&comment=186689)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
