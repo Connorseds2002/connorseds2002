@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=186690)
+- [&quot;User account is suspended&quot;](https://forums.vatsim.net/topic/32758-user-account-is-suspended/?do=findComment&comment=186689)
 - [How can I see my VAT SIM ID](https://forums.vatsim.net/topic/32756-how-can-i-see-my-vat-sim-id/?do=findComment&comment=186688)
 - [Caribbean event](https://forums.vatsim.net/topic/32757-caribbean-event/?do=findComment&comment=186687)
 - [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186686)
@@ -63,8 +65,6 @@
 - [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186683)
 - [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186682)
 - [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186681)
-- [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186680)
-- [XSquawkBox possibly conflicting with xPilot](https://forums.vatsim.net/topic/32753-xsquawkbox-possibly-conflicting-with-xpilot/?do=findComment&comment=186679)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
