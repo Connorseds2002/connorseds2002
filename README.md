@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim Discord help](https://forums.vatsim.net/topic/32763-vatsim-discord-help/?do=findComment&comment=186713)
+- [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186712)
+- [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186711)
 - [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186710)
 - [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186709)
 - [ES Saved files](https://forums.vatsim.net/topic/32563-es-saved-files/?do=findComment&comment=186708)
@@ -62,9 +65,6 @@
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=186706)
 - [Moving Plug-ins list entries results in multiple errors and a freeze of ES when closing the application](https://forums.vatsim.net/topic/27189-moving-plug-ins-list-entries-results-in-multiple-errors-and-a-freeze-of-es-when-closing-the-application/?do=findComment&comment=186705)
 - [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186704)
-- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=186703)
-- [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186702)
-- [&quot;User account is suspended&quot;](https://forums.vatsim.net/topic/32758-user-account-is-suspended/?do=findComment&comment=186701)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
