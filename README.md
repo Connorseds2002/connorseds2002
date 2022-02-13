@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186710)
+- [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186709)
 - [ES Saved files](https://forums.vatsim.net/topic/32563-es-saved-files/?do=findComment&comment=186708)
 - [Audio Problems / From time to time hear only static](https://forums.vatsim.net/topic/32744-audio-problems-from-time-to-time-hear-only-static/?do=findComment&comment=186707)
 - [COPX feature request](https://forums.vatsim.net/topic/17669-copx-feature-request/?do=findComment&comment=186706)
@@ -63,8 +65,6 @@
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=186703)
 - [Alias: .msg... character limit?](https://forums.vatsim.net/topic/32716-alias-msg-character-limit/?do=findComment&comment=186702)
 - [&quot;User account is suspended&quot;](https://forums.vatsim.net/topic/32758-user-account-is-suspended/?do=findComment&comment=186701)
-- [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186700)
-- [[REXAIR VIRTUEL] Recrutement en cours](https://forums.vatsim.net/topic/32761-rexair-virtuel-recrutement-en-cours/?do=findComment&comment=186699)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
