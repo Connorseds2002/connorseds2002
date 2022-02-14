@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186733)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186732)
+- [AFV: Connect failed &lpar;Forbidden-&rpar;](https://forums.vatsim.net/topic/32768-afv-connect-failed-forbidden/?do=findComment&comment=186731)
+- [Installation issues](https://forums.vatsim.net/topic/32767-installation-issues/?do=findComment&comment=186730)
 - [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186729)
 - [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186728)
 - [Installation issues](https://forums.vatsim.net/topic/32767-installation-issues/?do=findComment&comment=186727)
 - [Flight Plan through Vpilot](https://forums.vatsim.net/topic/32725-flight-plan-through-vpilot/?do=findComment&comment=186726)
 - [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186725)
 - [Installation issues](https://forums.vatsim.net/topic/32767-installation-issues/?do=findComment&comment=186724)
-- [Xsqaukbox unauthorized](https://forums.vatsim.net/topic/32766-xsqaukbox-unauthorized/?do=findComment&comment=186723)
-- [Xsqaukbox unauthorized](https://forums.vatsim.net/topic/32766-xsqaukbox-unauthorized/?do=findComment&comment=186722)
-- [Issues with voice connection](https://forums.vatsim.net/topic/32755-issues-with-voice-connection/?do=findComment&comment=186721)
-- [Flight Plan through Vpilot](https://forums.vatsim.net/topic/32725-flight-plan-through-vpilot/?do=findComment&comment=186720)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
