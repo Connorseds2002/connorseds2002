@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186736)
+- [Learning Center Link Issue](https://forums.vatsim.net/topic/32770-learning-center-link-issue/?do=findComment&comment=186735)
 - [sound files location -  new beta version.](https://forums.vatsim.net/topic/32769-sound-files-location-new-beta-version/?do=findComment&comment=186734)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186733)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186732)
@@ -63,8 +65,6 @@
 - [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186729)
 - [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186728)
 - [Installation issues](https://forums.vatsim.net/topic/32767-installation-issues/?do=findComment&comment=186727)
-- [Flight Plan through Vpilot](https://forums.vatsim.net/topic/32725-flight-plan-through-vpilot/?do=findComment&comment=186726)
-- [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186725)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
