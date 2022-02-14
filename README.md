@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flight Plan through Vpilot](https://forums.vatsim.net/topic/32725-flight-plan-through-vpilot/?do=findComment&comment=186726)
 - [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186725)
 - [Installation issues](https://forums.vatsim.net/topic/32767-installation-issues/?do=findComment&comment=186724)
 - [Xsqaukbox unauthorized](https://forums.vatsim.net/topic/32766-xsqaukbox-unauthorized/?do=findComment&comment=186723)
@@ -64,7 +65,6 @@
 - [vPilot 3.2.0 released](https://forums.vatsim.net/topic/32765-vpilot-320-released/?do=findComment&comment=186719)
 - [Vatsim Discord help](https://forums.vatsim.net/topic/32763-vatsim-discord-help/?do=findComment&comment=186718)
 - [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186717)
-- [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186716)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
