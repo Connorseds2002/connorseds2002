@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Installation issues](https://forums.vatsim.net/topic/32767-installation-issues/?do=findComment&comment=186738)
 - [ANYONE ONE HELP WITH VAT SIM CRASHING ON MAC?](https://forums.vatsim.net/topic/32771-anyone-one-help-with-vat-sim-crashing-on-mac/?do=findComment&comment=186737)
 - [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186736)
 - [Learning Center Link Issue](https://forums.vatsim.net/topic/32770-learning-center-link-issue/?do=findComment&comment=186735)
@@ -64,7 +65,6 @@
 - [AFV: Connect failed &lpar;Forbidden-&rpar;](https://forums.vatsim.net/topic/32768-afv-connect-failed-forbidden/?do=findComment&comment=186731)
 - [Installation issues](https://forums.vatsim.net/topic/32767-installation-issues/?do=findComment&comment=186730)
 - [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186729)
-- [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186728)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
