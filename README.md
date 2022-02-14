@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186717)
 - [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186716)
 - [Vatsim Discord help](https://forums.vatsim.net/topic/32763-vatsim-discord-help/?do=findComment&comment=186715)
 - [[Sat Feb. 18-19] JFK-HND Konbanwa Nyūyōku [+ATC]](https://forums.vatsim.net/topic/32764-sat-feb-18-19-jfk-hnd-konbanwa-ny%C5%ABy%C5%8Dku-atc/?do=findComment&comment=186714)
@@ -64,7 +65,6 @@
 - [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186710)
 - [vEARM can not activate the GL rendering context](https://forums.vatsim.net/topic/32745-vearm-can-not-activate-the-gl-rendering-context/?do=findComment&comment=186709)
 - [ES Saved files](https://forums.vatsim.net/topic/32563-es-saved-files/?do=findComment&comment=186708)
-- [Audio Problems / From time to time hear only static](https://forums.vatsim.net/topic/32744-audio-problems-from-time-to-time-hear-only-static/?do=findComment&comment=186707)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
