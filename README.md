@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Learning Center Link Issue](https://forums.vatsim.net/topic/32770-learning-center-link-issue/?do=findComment&comment=186745)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186744)
+- [AFV: Connect failed &lpar;Forbidden-&rpar;](https://forums.vatsim.net/topic/32768-afv-connect-failed-forbidden/?do=findComment&comment=186743)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186742)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186741)
 - [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186740)
 - [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186739)
 - [Installation issues](https://forums.vatsim.net/topic/32767-installation-issues/?do=findComment&comment=186738)
 - [ANYONE ONE HELP WITH VAT SIM CRASHING ON MAC?](https://forums.vatsim.net/topic/32771-anyone-one-help-with-vat-sim-crashing-on-mac/?do=findComment&comment=186737)
 - [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186736)
-- [Learning Center Link Issue](https://forums.vatsim.net/topic/32770-learning-center-link-issue/?do=findComment&comment=186735)
-- [sound files location -  new beta version.](https://forums.vatsim.net/topic/32769-sound-files-location-new-beta-version/?do=findComment&comment=186734)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186733)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186732)
-- [AFV: Connect failed &lpar;Forbidden-&rpar;](https://forums.vatsim.net/topic/32768-afv-connect-failed-forbidden/?do=findComment&comment=186731)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
