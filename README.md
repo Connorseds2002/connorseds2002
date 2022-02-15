@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [The Scramble into KORD &lpar;Tonight!&rpar;](https://forums.vatsim.net/topic/32778-the-scramble-into-kord-tonight/?do=findComment&comment=186771)
 - [EndReceive failed &lpar;10054&rpar; error in current vPilot across DE and UK server](https://forums.vatsim.net/topic/32777-endreceive-failed-10054-error-in-current-vpilot-across-de-and-uk-server/?do=findComment&comment=186770)
 - [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186769)
 - [EndReceive failed &lpar;10054&rpar; error in current vPilot across DE and UK server](https://forums.vatsim.net/topic/32777-endreceive-failed-10054-error-in-current-vpilot-across-de-and-uk-server/?do=findComment&comment=186768)
@@ -64,7 +65,6 @@
 - [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186764)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=186763)
 - [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186762)
-- [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186761)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
