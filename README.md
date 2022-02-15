@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AfV HF Capabilities and NAT-D Frequency Utilization](https://forums.vatsim.net/topic/32772-afv-hf-capabilities-and-nat-d-frequency-utilization/?do=findComment&comment=186749)
 - [Progressing in Vatsim](https://forums.vatsim.net/topic/32752-progressing-in-vatsim/?do=findComment&comment=186748)
 - [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186747)
 - [Learning Center Link Issue](https://forums.vatsim.net/topic/32770-learning-center-link-issue/?do=findComment&comment=186746)
@@ -64,7 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186742)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186741)
 - [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186740)
-- [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186739)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
