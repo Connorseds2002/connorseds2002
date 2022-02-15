@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186767)
+- [VatSpy map loads unproperly](https://forums.vatsim.net/topic/32776-vatspy-map-loads-unproperly/?do=findComment&comment=186766)
 - [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186765)
 - [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186764)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=186763)
@@ -63,8 +65,6 @@
 - [AFV: Connect failed &lpar;Forbidden-&rpar;](https://forums.vatsim.net/topic/32768-afv-connect-failed-forbidden/?do=findComment&comment=186760)
 - [ATC Training](https://forums.vatsim.net/topic/32775-atc-training/?do=findComment&comment=186759)
 - [ATC Training](https://forums.vatsim.net/topic/32775-atc-training/?do=findComment&comment=186758)
-- [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186757)
-- [AFV: Connect failed &lpar;Forbidden-&rpar;](https://forums.vatsim.net/topic/32768-afv-connect-failed-forbidden/?do=findComment&comment=186756)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
