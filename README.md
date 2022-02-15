@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AfV HF Capabilities and NAT-D Frequency Utilization](https://forums.vatsim.net/topic/32772-afv-hf-capabilities-and-nat-d-frequency-utilization/?do=findComment&comment=186754)
+- [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186753)
 - [[12th February 2022] CTL227 - Cross the Land: Westbound 2021](https://forums.vatsim.net/topic/32297-12th-february-2022-ctl227-cross-the-land-westbound-2021/?do=findComment&comment=186752)
 - [AFV: Connect failed &lpar;Forbidden-&rpar;](https://forums.vatsim.net/topic/32768-afv-connect-failed-forbidden/?do=findComment&comment=186751)
 - [Voice Server Error: Timout](https://forums.vatsim.net/topic/32773-voice-server-error-timout/?do=findComment&comment=186750)
@@ -63,8 +65,6 @@
 - [VPILOT error after recent updates](https://forums.vatsim.net/topic/32760-vpilot-error-after-recent-updates/?do=findComment&comment=186747)
 - [Learning Center Link Issue](https://forums.vatsim.net/topic/32770-learning-center-link-issue/?do=findComment&comment=186746)
 - [Learning Center Link Issue](https://forums.vatsim.net/topic/32770-learning-center-link-issue/?do=findComment&comment=186745)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=186744)
-- [AFV: Connect failed &lpar;Forbidden-&rpar;](https://forums.vatsim.net/topic/32768-afv-connect-failed-forbidden/?do=findComment&comment=186743)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
