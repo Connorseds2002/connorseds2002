@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186780)
+- [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186779)
+- [EndReceive failed &lpar;10054&rpar; error in current vPilot across DE and UK server](https://forums.vatsim.net/topic/32777-endreceive-failed-10054-error-in-current-vpilot-across-de-and-uk-server/?do=findComment&comment=186778)
 - [[EVENT] The Indo-French Connection: Paris Charles de Gaulle &lpar;LFPG&rpar; to Mumbai &lpar;VABB&rpar; on March 12th &lpar;0900Z - 1800Z&rpar;](https://forums.vatsim.net/topic/32780-event-the-indo-french-connection-paris-charles-de-gaulle-lfpg-to-mumbai-vabb-on-march-12th-0900z-1800z/?do=findComment&comment=186777)
 - [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186776)
 - [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186775)
@@ -62,9 +65,6 @@
 - [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186773)
 - [ES Filtering feature](https://forums.vatsim.net/topic/32779-es-filtering-feature/?do=findComment&comment=186772)
 - [The Scramble into KORD &lpar;Tonight!&rpar;](https://forums.vatsim.net/topic/32778-the-scramble-into-kord-tonight/?do=findComment&comment=186771)
-- [EndReceive failed &lpar;10054&rpar; error in current vPilot across DE and UK server](https://forums.vatsim.net/topic/32777-endreceive-failed-10054-error-in-current-vpilot-across-de-and-uk-server/?do=findComment&comment=186770)
-- [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186769)
-- [EndReceive failed &lpar;10054&rpar; error in current vPilot across DE and UK server](https://forums.vatsim.net/topic/32777-endreceive-failed-10054-error-in-current-vpilot-across-de-and-uk-server/?do=findComment&comment=186768)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
