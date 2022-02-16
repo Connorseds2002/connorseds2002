@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[EVENT] The Indo-French Connection: Paris Charles de Gaulle &lpar;LFPG&rpar; to Mumbai &lpar;VABB&rpar; on March 12th &lpar;0900Z - 1800Z&rpar;](https://forums.vatsim.net/topic/32780-event-the-indo-french-connection-paris-charles-de-gaulle-lfpg-to-mumbai-vabb-on-march-12th-0900z-1800z/?do=findComment&comment=186777)
+- [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186776)
 - [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186775)
 - [ATC Training](https://forums.vatsim.net/topic/32775-atc-training/?do=findComment&comment=186774)
 - [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186773)
@@ -63,8 +65,6 @@
 - [EndReceive failed &lpar;10054&rpar; error in current vPilot across DE and UK server](https://forums.vatsim.net/topic/32777-endreceive-failed-10054-error-in-current-vpilot-across-de-and-uk-server/?do=findComment&comment=186770)
 - [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186769)
 - [EndReceive failed &lpar;10054&rpar; error in current vPilot across DE and UK server](https://forums.vatsim.net/topic/32777-endreceive-failed-10054-error-in-current-vpilot-across-de-and-uk-server/?do=findComment&comment=186768)
-- [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186767)
-- [VatSpy map loads unproperly](https://forums.vatsim.net/topic/32776-vatspy-map-loads-unproperly/?do=findComment&comment=186766)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
