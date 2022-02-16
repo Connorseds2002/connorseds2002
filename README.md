@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186781)
 - [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186780)
 - [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186779)
 - [EndReceive failed &lpar;10054&rpar; error in current vPilot across DE and UK server](https://forums.vatsim.net/topic/32777-endreceive-failed-10054-error-in-current-vpilot-across-de-and-uk-server/?do=findComment&comment=186778)
@@ -64,7 +65,6 @@
 - [ATC Training](https://forums.vatsim.net/topic/32775-atc-training/?do=findComment&comment=186774)
 - [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186773)
 - [ES Filtering feature](https://forums.vatsim.net/topic/32779-es-filtering-feature/?do=findComment&comment=186772)
-- [The Scramble into KORD &lpar;Tonight!&rpar;](https://forums.vatsim.net/topic/32778-the-scramble-into-kord-tonight/?do=findComment&comment=186771)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
