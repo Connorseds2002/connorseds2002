@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC Training](https://forums.vatsim.net/topic/32775-atc-training/?do=findComment&comment=186774)
 - [xPilot update 2.0.0](https://forums.vatsim.net/topic/32662-xpilot-update-200/?do=findComment&comment=186773)
 - [ES Filtering feature](https://forums.vatsim.net/topic/32779-es-filtering-feature/?do=findComment&comment=186772)
 - [The Scramble into KORD &lpar;Tonight!&rpar;](https://forums.vatsim.net/topic/32778-the-scramble-into-kord-tonight/?do=findComment&comment=186771)
@@ -64,7 +65,6 @@
 - [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186767)
 - [VatSpy map loads unproperly](https://forums.vatsim.net/topic/32776-vatspy-map-loads-unproperly/?do=findComment&comment=186766)
 - [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186765)
-- [Model Matching FSX problem.](https://forums.vatsim.net/topic/32774-model-matching-fsx-problem/?do=findComment&comment=186764)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
