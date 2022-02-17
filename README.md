@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186787)
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186786)
 - [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186785)
 - [vPilot 3.2.0 released](https://forums.vatsim.net/topic/32765-vpilot-320-released/?do=findComment&comment=186784)
@@ -64,7 +65,6 @@
 - [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186780)
 - [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186779)
 - [EndReceive failed &lpar;10054&rpar; error in current vPilot across DE and UK server](https://forums.vatsim.net/topic/32777-endreceive-failed-10054-error-in-current-vpilot-across-de-and-uk-server/?do=findComment&comment=186778)
-- [[EVENT] The Indo-French Connection: Paris Charles de Gaulle &lpar;LFPG&rpar; to Mumbai &lpar;VABB&rpar; on March 12th &lpar;0900Z - 1800Z&rpar;](https://forums.vatsim.net/topic/32780-event-the-indo-french-connection-paris-charles-de-gaulle-lfpg-to-mumbai-vabb-on-march-12th-0900z-1800z/?do=findComment&comment=186777)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
