@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186811)
+- [VATSIM community discord setting](https://forums.vatsim.net/topic/32789-vatsim-community-discord-setting/?do=findComment&comment=186810)
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186809)
 - [Request a change in xpilot settings](https://forums.vatsim.net/topic/32785-request-a-change-in-xpilot-settings/?do=findComment&comment=186808)
 - [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186807)
@@ -63,8 +65,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=186804)
 - [Orientation course for new pilots](https://forums.vatsim.net/topic/32787-orientation-course-for-new-pilots/?do=findComment&comment=186803)
 - [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186802)
-- [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186801)
-- [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186800)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
