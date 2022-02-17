@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Request a change in xpilot settings](https://forums.vatsim.net/topic/32785-request-a-change-in-xpilot-settings/?do=findComment&comment=186798)
 - [Beta 24 Not recognizing xPlane is running](https://forums.vatsim.net/topic/32784-beta-24-not-recognizing-xplane-is-running/?do=findComment&comment=186797)
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186796)
 - [Beta 24 Not recognizing xPlane is running](https://forums.vatsim.net/topic/32784-beta-24-not-recognizing-xplane-is-running/?do=findComment&comment=186795)
@@ -64,7 +65,6 @@
 - [ES Filtering feature](https://forums.vatsim.net/topic/32779-es-filtering-feature/?do=findComment&comment=186790)
 - [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186789)
 - [[Sat Feb. 18-19] JFK-HND Konbanwa Nyūyōku [+ATC]](https://forums.vatsim.net/topic/32764-sat-feb-18-19-jfk-hnd-konbanwa-ny%C5%ABy%C5%8Dku-atc/?do=findComment&comment=186788)
-- [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186787)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
