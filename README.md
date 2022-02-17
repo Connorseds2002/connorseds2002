@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186793)
+- [vPilot 3.2.0 released](https://forums.vatsim.net/topic/32765-vpilot-320-released/?do=findComment&comment=186792)
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186791)
 - [ES Filtering feature](https://forums.vatsim.net/topic/32779-es-filtering-feature/?do=findComment&comment=186790)
 - [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186789)
@@ -63,8 +65,6 @@
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186786)
 - [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186785)
 - [vPilot 3.2.0 released](https://forums.vatsim.net/topic/32765-vpilot-320-released/?do=findComment&comment=186784)
-- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=186783)
-- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=186782)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
