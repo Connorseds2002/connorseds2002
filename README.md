@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=186816)
 - [Previous Version Download Links](https://forums.vatsim.net/topic/32792-previous-version-download-links/?do=findComment&comment=186815)
 - [Beta 24 Not recognizing xPlane is running](https://forums.vatsim.net/topic/32784-beta-24-not-recognizing-xplane-is-running/?do=findComment&comment=186814)
 - [Route Checker issue](https://forums.vatsim.net/topic/32791-route-checker-issue/?do=findComment&comment=186813)
@@ -64,7 +65,6 @@
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186809)
 - [Request a change in xpilot settings](https://forums.vatsim.net/topic/32785-request-a-change-in-xpilot-settings/?do=findComment&comment=186808)
 - [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186807)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=186806)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
