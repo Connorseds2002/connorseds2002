@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ES Filtering feature](https://forums.vatsim.net/topic/32779-es-filtering-feature/?do=findComment&comment=186790)
 - [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186789)
 - [[Sat Feb. 18-19] JFK-HND Konbanwa Nyūyōku [+ATC]](https://forums.vatsim.net/topic/32764-sat-feb-18-19-jfk-hnd-konbanwa-ny%C5%ABy%C5%8Dku-atc/?do=findComment&comment=186788)
 - [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186787)
@@ -64,7 +65,6 @@
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=186783)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=186782)
 - [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186781)
-- [v pilot quit opening](https://forums.vatsim.net/topic/32781-v-pilot-quit-opening/?do=findComment&comment=186780)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
