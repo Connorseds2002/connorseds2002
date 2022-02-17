@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Previous Version Download Links](https://forums.vatsim.net/topic/32792-previous-version-download-links/?do=findComment&comment=186815)
+- [Beta 24 Not recognizing xPlane is running](https://forums.vatsim.net/topic/32784-beta-24-not-recognizing-xplane-is-running/?do=findComment&comment=186814)
+- [Route Checker issue](https://forums.vatsim.net/topic/32791-route-checker-issue/?do=findComment&comment=186813)
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=186812)
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186811)
 - [VATSIM community discord setting](https://forums.vatsim.net/topic/32789-vatsim-community-discord-setting/?do=findComment&comment=186810)
 - [PTT Issues](https://forums.vatsim.net/topic/32695-ptt-issues/?do=findComment&comment=186809)
 - [Request a change in xpilot settings](https://forums.vatsim.net/topic/32785-request-a-change-in-xpilot-settings/?do=findComment&comment=186808)
 - [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186807)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=186806)
-- [Vpilot crashing after recent updates](https://forums.vatsim.net/topic/32788-vpilot-crashing-after-recent-updates/?do=findComment&comment=186805)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=186804)
-- [Orientation course for new pilots](https://forums.vatsim.net/topic/32787-orientation-course-for-new-pilots/?do=findComment&comment=186803)
-- [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186802)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
