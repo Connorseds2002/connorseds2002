@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186860)
+- [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186859)
+- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186858)
+- [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186857)
+- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186856)
+- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186855)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186854)
 - [Join into Discord server](https://forums.vatsim.net/topic/32551-join-into-discord-server/?do=findComment&comment=186853)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186852)
 - [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186851)
-- [i cant find the xplane.exe folder when xpilot asks me to find it in the root folder after downloading x pilot](https://forums.vatsim.net/topic/32793-i-cant-find-the-xplaneexe-folder-when-xpilot-asks-me-to-find-it-in-the-root-folder-after-downloading-x-pilot/?do=findComment&comment=186850)
-- [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186849)
-- [i cant find the xplane.exe folder when xpilot asks me to find it in the root folder after downloading x pilot](https://forums.vatsim.net/topic/32793-i-cant-find-the-xplaneexe-folder-when-xpilot-asks-me-to-find-it-in-the-root-folder-after-downloading-x-pilot/?do=findComment&comment=186848)
-- [i cant find the xplane.exe folder when xpilot asks me to find it in the root folder after downloading x pilot](https://forums.vatsim.net/topic/32793-i-cant-find-the-xplaneexe-folder-when-xpilot-asks-me-to-find-it-in-the-root-folder-after-downloading-x-pilot/?do=findComment&comment=186847)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186846)
-- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186845)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
