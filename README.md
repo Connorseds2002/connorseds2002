@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186843)
 - [Incorrect credentials.](https://forums.vatsim.net/topic/32795-incorrect-credentials/?do=findComment&comment=186842)
 - [Vpilot crashing after recent updates](https://forums.vatsim.net/topic/32788-vpilot-crashing-after-recent-updates/?do=findComment&comment=186841)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186840)
@@ -64,7 +65,6 @@
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186836)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186835)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186834)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186833)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
