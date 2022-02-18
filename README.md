@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186827)
 - [Route Checker issue](https://forums.vatsim.net/topic/32791-route-checker-issue/?do=findComment&comment=186826)
 - [i cant find the xplane.exe folder when xpilot asks me to find it in the root folder after downloading x pilot](https://forums.vatsim.net/topic/32793-i-cant-find-the-xplaneexe-folder-when-xpilot-asks-me-to-find-it-in-the-root-folder-after-downloading-x-pilot/?do=findComment&comment=186825)
 - [i cant find the xplane.exe folder when xpilot asks me to find it in the root folder after downloading x pilot](https://forums.vatsim.net/topic/32793-i-cant-find-the-xplaneexe-folder-when-xpilot-asks-me-to-find-it-in-the-root-folder-after-downloading-x-pilot/?do=findComment&comment=186824)
@@ -64,7 +65,6 @@
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186820)
 - [Beta 24 Not recognizing xPlane is running](https://forums.vatsim.net/topic/32784-beta-24-not-recognizing-xplane-is-running/?do=findComment&comment=186819)
 - [Previous Version Download Links](https://forums.vatsim.net/topic/32792-previous-version-download-links/?do=findComment&comment=186818)
-- [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186817)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
