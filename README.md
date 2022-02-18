@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=186823)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=186822)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=186821)
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186820)
@@ -64,7 +65,6 @@
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=186816)
 - [Previous Version Download Links](https://forums.vatsim.net/topic/32792-previous-version-download-links/?do=findComment&comment=186815)
 - [Beta 24 Not recognizing xPlane is running](https://forums.vatsim.net/topic/32784-beta-24-not-recognizing-xplane-is-running/?do=findComment&comment=186814)
-- [Route Checker issue](https://forums.vatsim.net/topic/32791-route-checker-issue/?do=findComment&comment=186813)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
