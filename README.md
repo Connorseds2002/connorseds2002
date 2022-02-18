@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186854)
+- [Join into Discord server](https://forums.vatsim.net/topic/32551-join-into-discord-server/?do=findComment&comment=186853)
+- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186852)
+- [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186851)
+- [i cant find the xplane.exe folder when xpilot asks me to find it in the root folder after downloading x pilot](https://forums.vatsim.net/topic/32793-i-cant-find-the-xplaneexe-folder-when-xpilot-asks-me-to-find-it-in-the-root-folder-after-downloading-x-pilot/?do=findComment&comment=186850)
+- [Visual Computer not working with Xpilot update](https://forums.vatsim.net/topic/32754-visual-computer-not-working-with-xpilot-update/?do=findComment&comment=186849)
 - [i cant find the xplane.exe folder when xpilot asks me to find it in the root folder after downloading x pilot](https://forums.vatsim.net/topic/32793-i-cant-find-the-xplaneexe-folder-when-xpilot-asks-me-to-find-it-in-the-root-folder-after-downloading-x-pilot/?do=findComment&comment=186848)
 - [i cant find the xplane.exe folder when xpilot asks me to find it in the root folder after downloading x pilot](https://forums.vatsim.net/topic/32793-i-cant-find-the-xplaneexe-folder-when-xpilot-asks-me-to-find-it-in-the-root-folder-after-downloading-x-pilot/?do=findComment&comment=186847)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186846)
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186845)
-- [&quot;User account is suspended&quot;](https://forums.vatsim.net/topic/32758-user-account-is-suspended/?do=findComment&comment=186844)
-- [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=186843)
-- [Vpilot crashing after recent updates](https://forums.vatsim.net/topic/32788-vpilot-crashing-after-recent-updates/?do=findComment&comment=186841)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186840)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186839)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186838)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
