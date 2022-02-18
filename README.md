@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [i cant find the xplane.exe folder when xpilot asks me to find it in the root folder after downloading x pilot](https://forums.vatsim.net/topic/32793-i-cant-find-the-xplaneexe-folder-when-xpilot-asks-me-to-find-it-in-the-root-folder-after-downloading-x-pilot/?do=findComment&comment=186825)
+- [i cant find the xplane.exe folder when xpilot asks me to find it in the root folder after downloading x pilot](https://forums.vatsim.net/topic/32793-i-cant-find-the-xplaneexe-folder-when-xpilot-asks-me-to-find-it-in-the-root-folder-after-downloading-x-pilot/?do=findComment&comment=186824)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=186823)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=186822)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=186821)
@@ -63,8 +65,6 @@
 - [Previous Version Download Links](https://forums.vatsim.net/topic/32792-previous-version-download-links/?do=findComment&comment=186818)
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186817)
 - [To the newbie - First Time Jitters](https://forums.vatsim.net/topic/1115-to-the-newbie-first-time-jitters/?do=findComment&comment=186816)
-- [Previous Version Download Links](https://forums.vatsim.net/topic/32792-previous-version-download-links/?do=findComment&comment=186815)
-- [Beta 24 Not recognizing xPlane is running](https://forums.vatsim.net/topic/32784-beta-24-not-recognizing-xplane-is-running/?do=findComment&comment=186814)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
