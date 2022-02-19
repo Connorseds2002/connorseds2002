@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186865)
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186864)
 - [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186863)
 - [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186862)
@@ -64,7 +65,6 @@
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186858)
 - [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186857)
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186856)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186855)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
