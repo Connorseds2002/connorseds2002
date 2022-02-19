@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=186904)
+- [fs2020 model matching issue](https://forums.vatsim.net/topic/32799-fs2020-model-matching-issue/?do=findComment&comment=186903)
+- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186902)
+- [Swift on Widows XP](https://forums.vatsim.net/topic/31537-swift-on-widows-xp/?do=findComment&comment=186901)
+- [Could you help getting Reality XP GNS530 working?](https://forums.vatsim.net/topic/32800-could-you-help-getting-reality-xp-gns530-working/?do=findComment&comment=186900)
 - [New Pilot Question](https://forums.vatsim.net/topic/32798-new-pilot-question/?do=findComment&comment=186899)
 - [New Pilot Question](https://forums.vatsim.net/topic/32798-new-pilot-question/?do=findComment&comment=186898)
 - [Why bother flying on VATSIM?](https://forums.vatsim.net/topic/26062-why-bother-flying-on-vatsim/?do=findComment&comment=186897)
 - [fs2020 model matching issue](https://forums.vatsim.net/topic/32799-fs2020-model-matching-issue/?do=findComment&comment=186896)
 - [fs2020 model matching issue](https://forums.vatsim.net/topic/32799-fs2020-model-matching-issue/?do=findComment&comment=186895)
-- [fs2020 model matching issue](https://forums.vatsim.net/topic/32799-fs2020-model-matching-issue/?do=findComment&comment=186894)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186893)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186892)
-- [Why bother flying on VATSIM?](https://forums.vatsim.net/topic/26062-why-bother-flying-on-vatsim/?do=findComment&comment=186891)
-- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186890)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
