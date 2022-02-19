@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When installing xPilot it will not create the folder in my X-Plane 11/Resources/Plugin folder](https://forums.vatsim.net/topic/32663-when-installing-xpilot-it-will-not-create-the-folder-in-my-x-plane-11resourcesplugin-folder/?do=findComment&comment=186879)
+- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186878)
+- [vpilote](https://forums.vatsim.net/topic/32786-vpilote/?do=findComment&comment=186877)
+- [Orientation course for new pilots](https://forums.vatsim.net/topic/32787-orientation-course-for-new-pilots/?do=findComment&comment=186876)
+- [New Pilot Question](https://forums.vatsim.net/topic/32798-new-pilot-question/?do=findComment&comment=186875)
+- [New Pilot Question](https://forums.vatsim.net/topic/32798-new-pilot-question/?do=findComment&comment=186874)
 - [Vpilot crashing after recent updates](https://forums.vatsim.net/topic/32788-vpilot-crashing-after-recent-updates/?do=findComment&comment=186873)
 - [New Pilot Question](https://forums.vatsim.net/topic/32798-new-pilot-question/?do=findComment&comment=186872)
 - [New Pilot Question](https://forums.vatsim.net/topic/32798-new-pilot-question/?do=findComment&comment=186871)
 - [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186870)
-- [New User - No Audio](https://forums.vatsim.net/topic/32626-new-user-no-audio/?do=findComment&comment=186869)
-- [Length of Local Op Data and Global Op Data fields](https://forums.vatsim.net/topic/32797-length-of-local-op-data-and-global-op-data-fields/?do=findComment&comment=186868)
-- [Join into Discord server](https://forums.vatsim.net/topic/32551-join-into-discord-server/?do=findComment&comment=186867)
-- [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186866)
-- [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186865)
-- [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186864)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
