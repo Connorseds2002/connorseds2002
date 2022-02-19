@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186870)
+- [New User - No Audio](https://forums.vatsim.net/topic/32626-new-user-no-audio/?do=findComment&comment=186869)
 - [Length of Local Op Data and Global Op Data fields](https://forums.vatsim.net/topic/32797-length-of-local-op-data-and-global-op-data-fields/?do=findComment&comment=186868)
 - [Join into Discord server](https://forums.vatsim.net/topic/32551-join-into-discord-server/?do=findComment&comment=186867)
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186866)
@@ -63,8 +65,6 @@
 - [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186863)
 - [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186862)
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=186861)
-- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186860)
-- [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186859)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
