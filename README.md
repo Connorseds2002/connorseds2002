@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Join into Discord server](https://forums.vatsim.net/topic/32551-join-into-discord-server/?do=findComment&comment=186867)
+- [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186866)
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186865)
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186864)
 - [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186863)
@@ -63,8 +65,6 @@
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186860)
 - [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186859)
 - [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186858)
-- [I don&#39;t know how to talk to ATC](https://forums.vatsim.net/topic/32796-i-dont-know-how-to-talk-to-atc/?do=findComment&comment=186857)
-- [Release new reworked vPilot](https://forums.vatsim.net/topic/32473-release-new-reworked-vpilot/?do=findComment&comment=186856)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
