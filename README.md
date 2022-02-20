@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186931)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186930)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186929)
+- [vPilot 3.2.0 released](https://forums.vatsim.net/topic/32765-vpilot-320-released/?do=findComment&comment=186928)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186927)
 - [How to increase Rating in Vatsim and Join Pilot Training Dapartment.](https://forums.vatsim.net/topic/32805-how-to-increase-rating-in-vatsim-and-join-pilot-training-dapartment/?do=findComment&comment=186926)
 - [Cant connect to x pilot](https://forums.vatsim.net/topic/30099-cant-connect-to-x-pilot/?do=findComment&comment=186925)
 - [VATSIM Pilot Training](https://forums.vatsim.net/topic/32803-vatsim-pilot-training/?do=findComment&comment=186924)
 - [Voice Server Error: Timout](https://forums.vatsim.net/topic/32773-voice-server-error-timout/?do=findComment&comment=186923)
 - [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186922)
-- [VATSIM Pilot Training](https://forums.vatsim.net/topic/32803-vatsim-pilot-training/?do=findComment&comment=186921)
-- [Length of Local Op Data and Global Op Data fields](https://forums.vatsim.net/topic/32797-length-of-local-op-data-and-global-op-data-fields/?do=findComment&comment=186920)
-- [Length of Local Op Data and Global Op Data fields](https://forums.vatsim.net/topic/32797-length-of-local-op-data-and-global-op-data-fields/?do=findComment&comment=186919)
-- [VATSIM Pilot Training](https://forums.vatsim.net/topic/32803-vatsim-pilot-training/?do=findComment&comment=186918)
-- [AFV could not find frequency](https://forums.vatsim.net/topic/32519-afv-could-not-find-frequency/?do=findComment&comment=186917)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
