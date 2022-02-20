@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [WHO CAN MAKE ATIS?A](https://forums.vatsim.net/topic/32812-who-can-make-atisa/?do=findComment&comment=186973)
+- [WHO CAN MAKE ATIS?A](https://forums.vatsim.net/topic/32812-who-can-make-atisa/?do=findComment&comment=186972)
+- [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186971)
 - [How to increase Rating in Vatsim and Join Pilot Training Dapartment.](https://forums.vatsim.net/topic/32805-how-to-increase-rating-in-vatsim-and-join-pilot-training-dapartment/?do=findComment&comment=186970)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186969)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186968)
@@ -62,9 +65,6 @@
 - [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186966)
 - [Minimum App window width](https://forums.vatsim.net/topic/32811-minimum-app-window-width/?do=findComment&comment=186965)
 - [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186964)
-- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186963)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186962)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186961)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
