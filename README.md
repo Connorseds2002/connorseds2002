@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=186974)
 - [WHO CAN MAKE ATIS?A](https://forums.vatsim.net/topic/32812-who-can-make-atisa/?do=findComment&comment=186973)
 - [WHO CAN MAKE ATIS?A](https://forums.vatsim.net/topic/32812-who-can-make-atisa/?do=findComment&comment=186972)
 - [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186971)
@@ -64,7 +65,6 @@
 - [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186967)
 - [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186966)
 - [Minimum App window width](https://forums.vatsim.net/topic/32811-minimum-app-window-width/?do=findComment&comment=186965)
-- [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186964)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
