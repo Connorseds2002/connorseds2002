@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186960)
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186959)
+- [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=186958)
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186957)
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186956)
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186955)
+- [Random aircraft models freeze issue &lpar;beta 27&rpar;](https://forums.vatsim.net/topic/32808-random-aircraft-models-freeze-issue-beta-27/?do=findComment&comment=186954)
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186952)
+- [Type code dont work](https://forums.vatsim.net/topic/32806-type-code-dont-work/?do=findComment&comment=186951)
 - [Type code dont work](https://forums.vatsim.net/topic/32806-type-code-dont-work/?do=findComment&comment=186950)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186949)
-- [Type code dont work](https://forums.vatsim.net/topic/32806-type-code-dont-work/?do=findComment&comment=186948)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186947)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186946)
-- [Thanks to VATUSA for the nice shout out for my voice work on these courses!!  Need voice work?  I&#39;m your guy!!](https://forums.vatsim.net/topic/32747-thanks-to-vatusa-for-the-nice-shout-out-for-my-voice-work-on-these-courses-need-voice-work-im-your-guy/?do=findComment&comment=186945)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=186944)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186943)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186942)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186941)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
