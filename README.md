@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186922)
+- [VATSIM Pilot Training](https://forums.vatsim.net/topic/32803-vatsim-pilot-training/?do=findComment&comment=186921)
 - [Length of Local Op Data and Global Op Data fields](https://forums.vatsim.net/topic/32797-length-of-local-op-data-and-global-op-data-fields/?do=findComment&comment=186920)
 - [Length of Local Op Data and Global Op Data fields](https://forums.vatsim.net/topic/32797-length-of-local-op-data-and-global-op-data-fields/?do=findComment&comment=186919)
 - [VATSIM Pilot Training](https://forums.vatsim.net/topic/32803-vatsim-pilot-training/?do=findComment&comment=186918)
@@ -63,8 +65,6 @@
 - [vPilot audio issue : Rare](https://forums.vatsim.net/topic/32802-vpilot-audio-issue-rare/?do=findComment&comment=186915)
 - [VPILOT ISSUE HELP!](https://forums.vatsim.net/topic/32647-vpilot-issue-help/?do=findComment&comment=186914)
 - [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186913)
-- [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186912)
-- [VATATIS - A modern ATIS Maker for Euroscope](https://forums.vatsim.net/topic/32783-vatatis-a-modern-atis-maker-for-euroscope/?do=findComment&comment=186911)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
