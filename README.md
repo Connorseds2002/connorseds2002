@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186936)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186935)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186934)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186933)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186932)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186931)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186930)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186929)
-- [vPilot 3.2.0 released](https://forums.vatsim.net/topic/32765-vpilot-320-released/?do=findComment&comment=186928)
-- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186927)
+- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186947)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186946)
+- [Thanks to VATUSA for the nice shout out for my voice work on these courses!!  Need voice work?  I&#39;m your guy!!](https://forums.vatsim.net/topic/32747-thanks-to-vatusa-for-the-nice-shout-out-for-my-voice-work-on-these-courses-need-voice-work-im-your-guy/?do=findComment&comment=186945)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=186944)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186943)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186942)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186941)
+- [vPilot Asus Realtek Audio Drivers](https://forums.vatsim.net/topic/26981-vpilot-asus-realtek-audio-drivers/?do=findComment&comment=186940)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186939)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186938)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
