@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186964)
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186963)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186962)
+- [Very poor and arogant steps within flight today at Vatsim](https://forums.vatsim.net/topic/32804-very-poor-and-arogant-steps-within-flight-today-at-vatsim/?do=findComment&comment=186961)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186960)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186959)
 - [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=186958)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186957)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186956)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186955)
-- [Random aircraft models freeze issue &lpar;beta 27&rpar;](https://forums.vatsim.net/topic/32808-random-aircraft-models-freeze-issue-beta-27/?do=findComment&comment=186954)
-- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186952)
-- [Type code dont work](https://forums.vatsim.net/topic/32806-type-code-dont-work/?do=findComment&comment=186951)
-- [Type code dont work](https://forums.vatsim.net/topic/32806-type-code-dont-work/?do=findComment&comment=186950)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
