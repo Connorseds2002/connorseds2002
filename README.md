@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=186996)
 - [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=186995)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=186994)
 - [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=186993)
@@ -64,7 +65,6 @@
 - [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=186989)
 - [vPilot 3.2.0 released](https://forums.vatsim.net/topic/32765-vpilot-320-released/?do=findComment&comment=186988)
 - [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=186987)
-- [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=186986)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
