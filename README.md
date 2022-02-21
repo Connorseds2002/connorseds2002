@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187013)
+- [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=187012)
 - [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187011)
 - [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187010)
 - [How to increase Rating in Vatsim and Join Pilot Training Dapartment.](https://forums.vatsim.net/topic/32805-how-to-increase-rating-in-vatsim-and-join-pilot-training-dapartment/?do=findComment&comment=187009)
@@ -63,8 +65,6 @@
 - [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=187006)
 - [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=187005)
 - [Can I do this?](https://forums.vatsim.net/topic/32820-can-i-do-this/?do=findComment&comment=187004)
-- [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=187003)
-- [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=187002)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
