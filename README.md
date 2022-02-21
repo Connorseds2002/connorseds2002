@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot Mac Monterey](https://forums.vatsim.net/topic/32816-xpilot-mac-monterey/?do=findComment&comment=186983)
+- [QuteScoop 2022 &lpar;VATSIM online status viewer Win/Linux/Mac&rpar;](https://forums.vatsim.net/topic/32751-qutescoop-2022-vatsim-online-status-viewer-winlinuxmac/?do=findComment&comment=186982)
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186981)
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186980)
+- [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=186979)
+- [vPilot 3.2.0 released](https://forums.vatsim.net/topic/32765-vpilot-320-released/?do=findComment&comment=186978)
+- [vPilot Freeze when Disconnected from Network](https://forums.vatsim.net/topic/32814-vpilot-freeze-when-disconnected-from-network/?do=findComment&comment=186977)
+- [vPilot Freeze when Disconnected from Network](https://forums.vatsim.net/topic/32814-vpilot-freeze-when-disconnected-from-network/?do=findComment&comment=186976)
 - [Model Matching with AIG and &quot;imaginary&quot; Airline &amp; Model Combinations](https://forums.vatsim.net/topic/32782-model-matching-with-aig-and-imaginary-airline-model-combinations/?do=findComment&comment=186975)
 - [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=186974)
-- [WHO CAN MAKE ATIS?A](https://forums.vatsim.net/topic/32812-who-can-make-atisa/?do=findComment&comment=186973)
-- [WHO CAN MAKE ATIS?A](https://forums.vatsim.net/topic/32812-who-can-make-atisa/?do=findComment&comment=186972)
-- [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186971)
-- [How to increase Rating in Vatsim and Join Pilot Training Dapartment.](https://forums.vatsim.net/topic/32805-how-to-increase-rating-in-vatsim-and-join-pilot-training-dapartment/?do=findComment&comment=186970)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=186969)
-- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186968)
-- [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186967)
-- [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=186966)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
