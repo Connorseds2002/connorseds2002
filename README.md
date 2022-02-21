@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=186995)
+- [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=186994)
+- [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=186993)
+- [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=186992)
+- [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=186991)
 - [FSUIPC Custom Key Mapping](https://forums.vatsim.net/topic/32818-fsuipc-custom-key-mapping/?do=findComment&comment=186990)
 - [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=186989)
 - [vPilot 3.2.0 released](https://forums.vatsim.net/topic/32765-vpilot-320-released/?do=findComment&comment=186988)
 - [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=186987)
 - [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=186986)
-- [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=186985)
-- [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=186984)
-- [xPilot Mac Monterey](https://forums.vatsim.net/topic/32816-xpilot-mac-monterey/?do=findComment&comment=186983)
-- [QuteScoop 2022 &lpar;VATSIM online status viewer Win/Linux/Mac&rpar;](https://forums.vatsim.net/topic/32751-qutescoop-2022-vatsim-online-status-viewer-winlinuxmac/?do=findComment&comment=186982)
-- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=186981)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
