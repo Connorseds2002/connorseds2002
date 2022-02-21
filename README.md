@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can I do this?](https://forums.vatsim.net/topic/32820-can-i-do-this/?do=findComment&comment=187004)
+- [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=187003)
 - [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=187002)
 - [vPilot 3.0.6 not enabling Squawk Mode-C](https://forums.vatsim.net/topic/32660-vpilot-306-not-enabling-squawk-mode-c/?do=findComment&comment=187001)
 - [vPilot Freeze when Disconnected from Network](https://forums.vatsim.net/topic/32814-vpilot-freeze-when-disconnected-from-network/?do=findComment&comment=187000)
@@ -63,8 +65,6 @@
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=186997)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=186996)
 - [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=186995)
-- [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=186994)
-- [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=186993)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
