@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim frequencies for Alaska](https://forums.vatsim.net/topic/32822-vatsim-frequencies-for-alaska/?do=findComment&comment=187015)
 - [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187014)
 - [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187013)
 - [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=187012)
@@ -64,7 +65,6 @@
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187008)
 - [Can I do this?](https://forums.vatsim.net/topic/32820-can-i-do-this/?do=findComment&comment=187007)
 - [X Pilot up date](https://forums.vatsim.net/topic/32810-x-pilot-up-date/?do=findComment&comment=187006)
-- [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=187005)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
