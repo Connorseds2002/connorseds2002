@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187046)
+- [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187045)
 - [Feature request: option to initially disable the XP ATIS](https://forums.vatsim.net/topic/32829-feature-request-option-to-initially-disable-the-xp-atis/?do=findComment&comment=187044)
 - [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187043)
 - [Vacancy - ACC Manager - Southern Africa ACC &lpar;ACCSAF1&rpar;](https://forums.vatsim.net/topic/32828-vacancy-acc-manager-southern-africa-acc-accsaf1/?do=findComment&comment=187042)
@@ -63,8 +65,6 @@
 - [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187039)
 - [vPilot Freeze when Disconnected from Network](https://forums.vatsim.net/topic/32814-vpilot-freeze-when-disconnected-from-network/?do=findComment&comment=187038)
 - [I can&#39;t tranmit on Xpilot](https://forums.vatsim.net/topic/32827-i-cant-tranmit-on-xpilot/?do=findComment&comment=187037)
-- [.net Exceptions on 3.2.0.0](https://forums.vatsim.net/topic/32593-net-exceptions-on-3200/?do=findComment&comment=187036)
-- [Network authentication error: Password is Incorrect](https://forums.vatsim.net/topic/32825-network-authentication-error-password-is-incorrect/?do=findComment&comment=187035)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
