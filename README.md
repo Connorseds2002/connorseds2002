@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187051)
+- [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187050)
+- [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=187049)
+- [Land if you can](https://forums.vatsim.net/topic/31632-land-if-you-can/?do=findComment&comment=187048)
+- [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187047)
 - [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187046)
 - [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187045)
 - [Feature request: option to initially disable the XP ATIS](https://forums.vatsim.net/topic/32829-feature-request-option-to-initially-disable-the-xp-atis/?do=findComment&comment=187044)
 - [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187043)
 - [Vacancy - ACC Manager - Southern Africa ACC &lpar;ACCSAF1&rpar;](https://forums.vatsim.net/topic/32828-vacancy-acc-manager-southern-africa-acc-accsaf1/?do=findComment&comment=187042)
-- [Network authentication error: Password is Incorrect](https://forums.vatsim.net/topic/32825-network-authentication-error-password-is-incorrect/?do=findComment&comment=187041)
-- [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187040)
-- [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187039)
-- [vPilot Freeze when Disconnected from Network](https://forums.vatsim.net/topic/32814-vpilot-freeze-when-disconnected-from-network/?do=findComment&comment=187038)
-- [I can&#39;t tranmit on Xpilot](https://forums.vatsim.net/topic/32827-i-cant-tranmit-on-xpilot/?do=findComment&comment=187037)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
