@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=187025)
+- [Vatsim frequencies for Alaska](https://forums.vatsim.net/topic/32822-vatsim-frequencies-for-alaska/?do=findComment&comment=187024)
+- [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=187023)
+- [How to define default model for matching aircraft?](https://forums.vatsim.net/topic/32823-how-to-define-default-model-for-matching-aircraft/?do=findComment&comment=187022)
+- [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=187021)
 - [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=187020)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187019)
 - [How to define default model for matching aircraft?](https://forums.vatsim.net/topic/32823-how-to-define-default-model-for-matching-aircraft/?do=findComment&comment=187018)
 - [Progressing in Vatsim](https://forums.vatsim.net/topic/32752-progressing-in-vatsim/?do=findComment&comment=187017)
 - [Floating Aircraft Labels in VR - X-Plane](https://forums.vatsim.net/topic/31961-floating-aircraft-labels-in-vr-x-plane/?do=findComment&comment=187016)
-- [Vatsim frequencies for Alaska](https://forums.vatsim.net/topic/32822-vatsim-frequencies-for-alaska/?do=findComment&comment=187015)
-- [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187014)
-- [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187013)
-- [Incorrect CID/Password even after 24 hours from password reset](https://forums.vatsim.net/topic/28780-incorrect-cidpassword-even-after-24-hours-from-password-reset/?do=findComment&comment=187012)
-- [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187011)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
