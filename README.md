@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to define default model for matching aircraft?](https://forums.vatsim.net/topic/32823-how-to-define-default-model-for-matching-aircraft/?do=findComment&comment=187027)
 - [How to define default model for matching aircraft?](https://forums.vatsim.net/topic/32823-how-to-define-default-model-for-matching-aircraft/?do=findComment&comment=187026)
 - [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=187025)
 - [Vatsim frequencies for Alaska](https://forums.vatsim.net/topic/32822-vatsim-frequencies-for-alaska/?do=findComment&comment=187024)
@@ -64,7 +65,6 @@
 - [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=187020)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187019)
 - [How to define default model for matching aircraft?](https://forums.vatsim.net/topic/32823-how-to-define-default-model-for-matching-aircraft/?do=findComment&comment=187018)
-- [Progressing in Vatsim](https://forums.vatsim.net/topic/32752-progressing-in-vatsim/?do=findComment&comment=187017)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
