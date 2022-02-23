@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187098)
+- [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187097)
+- [Pilot hours not updating in my profile!](https://forums.vatsim.net/topic/32840-pilot-hours-not-updating-in-my-profile/?do=findComment&comment=187096)
+- [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187095)
 - [Problem VPilot](https://forums.vatsim.net/topic/32838-problem-vpilot/?do=findComment&comment=187094)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187093)
 - [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187092)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187091)
 - [Vatsys North Africa sector](https://forums.vatsim.net/topic/30607-vatsys-north-africa-sector/?do=findComment&comment=187090)
 - [vPilot Freeze when Disconnected from Network](https://forums.vatsim.net/topic/32814-vpilot-freeze-when-disconnected-from-network/?do=findComment&comment=187089)
-- [How to get rid of Failed to create aircraft using model on Vpilot](https://forums.vatsim.net/topic/32836-how-to-get-rid-of-failed-to-create-aircraft-using-model-on-vpilot/?do=findComment&comment=187088)
-- [How to get rid of Failed to create aircraft using model on Vpilot](https://forums.vatsim.net/topic/32836-how-to-get-rid-of-failed-to-create-aircraft-using-model-on-vpilot/?do=findComment&comment=187087)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187086)
-- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187085)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
