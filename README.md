@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187080)
+- [I can&#39;t tranmit on Xpilot](https://forums.vatsim.net/topic/32827-i-cant-tranmit-on-xpilot/?do=findComment&comment=187079)
+- [Unable to connect with Beta 27](https://forums.vatsim.net/topic/32832-unable-to-connect-with-beta-27/?do=findComment&comment=187078)
+- [Voice Server Error: Timout](https://forums.vatsim.net/topic/32773-voice-server-error-timout/?do=findComment&comment=187077)
+- [Patching in XP10 support?](https://forums.vatsim.net/topic/32834-patching-in-xp10-support/?do=findComment&comment=187076)
+- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187075)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187074)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187073)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187072)
 - [vPilot Freeze when Disconnected from Network](https://forums.vatsim.net/topic/32814-vpilot-freeze-when-disconnected-from-network/?do=findComment&comment=187071)
-- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187070)
-- [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187069)
-- [PTT clicks have stopped](https://forums.vatsim.net/topic/32831-ptt-clicks-have-stopped/?do=findComment&comment=187068)
-- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187067)
-- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187066)
-- [Patching in XP10 support?](https://forums.vatsim.net/topic/32834-patching-in-xp10-support/?do=findComment&comment=187065)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
