@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187060)
+- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187059)
+- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187058)
 - [Unable to connect with Beta 27](https://forums.vatsim.net/topic/32832-unable-to-connect-with-beta-27/?do=findComment&comment=187057)
 - [vPilot Freeze when Disconnected from Network](https://forums.vatsim.net/topic/32814-vpilot-freeze-when-disconnected-from-network/?do=findComment&comment=187056)
 - [Feature request: option to initially disable the XP ATIS](https://forums.vatsim.net/topic/32829-feature-request-option-to-initially-disable-the-xp-atis/?do=findComment&comment=187055)
@@ -62,9 +65,6 @@
 - [PTT clicks have stopped](https://forums.vatsim.net/topic/32831-ptt-clicks-have-stopped/?do=findComment&comment=187053)
 - [Voice Server Error: Timout](https://forums.vatsim.net/topic/32773-voice-server-error-timout/?do=findComment&comment=187052)
 - [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187051)
-- [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187050)
-- [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=187049)
-- [Land if you can](https://forums.vatsim.net/topic/31632-land-if-you-can/?do=findComment&comment=187048)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
