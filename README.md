@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to get rid of Failed to create aircraft using model on Vpilot](https://forums.vatsim.net/topic/32836-how-to-get-rid-of-failed-to-create-aircraft-using-model-on-vpilot/?do=findComment&comment=187088)
+- [How to get rid of Failed to create aircraft using model on Vpilot](https://forums.vatsim.net/topic/32836-how-to-get-rid-of-failed-to-create-aircraft-using-model-on-vpilot/?do=findComment&comment=187087)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187086)
+- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187085)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187084)
 - [Patching in XP10 support?](https://forums.vatsim.net/topic/32834-patching-in-xp10-support/?do=findComment&comment=187083)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187082)
 - [I can&#39;t tranmit on Xpilot](https://forums.vatsim.net/topic/32827-i-cant-tranmit-on-xpilot/?do=findComment&comment=187081)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187080)
 - [I can&#39;t tranmit on Xpilot](https://forums.vatsim.net/topic/32827-i-cant-tranmit-on-xpilot/?do=findComment&comment=187079)
-- [Unable to connect with Beta 27](https://forums.vatsim.net/topic/32832-unable-to-connect-with-beta-27/?do=findComment&comment=187078)
-- [Voice Server Error: Timout](https://forums.vatsim.net/topic/32773-voice-server-error-timout/?do=findComment&comment=187077)
-- [Patching in XP10 support?](https://forums.vatsim.net/topic/32834-patching-in-xp10-support/?do=findComment&comment=187076)
-- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187075)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187074)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
