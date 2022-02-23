@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Patching in XP10 support?](https://forums.vatsim.net/topic/32834-patching-in-xp10-support/?do=findComment&comment=187083)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187082)
 - [I can&#39;t tranmit on Xpilot](https://forums.vatsim.net/topic/32827-i-cant-tranmit-on-xpilot/?do=findComment&comment=187081)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187080)
@@ -64,7 +65,6 @@
 - [Patching in XP10 support?](https://forums.vatsim.net/topic/32834-patching-in-xp10-support/?do=findComment&comment=187076)
 - [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187075)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187074)
-- [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187073)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
