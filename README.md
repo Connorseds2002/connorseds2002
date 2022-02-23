@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to connect with Beta 27](https://forums.vatsim.net/topic/32832-unable-to-connect-with-beta-27/?do=findComment&comment=187057)
 - [vPilot Freeze when Disconnected from Network](https://forums.vatsim.net/topic/32814-vpilot-freeze-when-disconnected-from-network/?do=findComment&comment=187056)
 - [Feature request: option to initially disable the XP ATIS](https://forums.vatsim.net/topic/32829-feature-request-option-to-initially-disable-the-xp-atis/?do=findComment&comment=187055)
 - [How I do my route planning](https://forums.vatsim.net/topic/32652-how-i-do-my-route-planning/?do=findComment&comment=187054)
@@ -64,7 +65,6 @@
 - [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187050)
 - [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=187049)
 - [Land if you can](https://forums.vatsim.net/topic/31632-land-if-you-can/?do=findComment&comment=187048)
-- [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187047)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
