@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187069)
+- [PTT clicks have stopped](https://forums.vatsim.net/topic/32831-ptt-clicks-have-stopped/?do=findComment&comment=187068)
+- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187067)
+- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187066)
+- [Patching in XP10 support?](https://forums.vatsim.net/topic/32834-patching-in-xp10-support/?do=findComment&comment=187065)
 - [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187064)
 - [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187063)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187062)
 - [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187061)
 - [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187060)
-- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187059)
-- [No sound](https://forums.vatsim.net/topic/32833-no-sound/?do=findComment&comment=187058)
-- [Unable to connect with Beta 27](https://forums.vatsim.net/topic/32832-unable-to-connect-with-beta-27/?do=findComment&comment=187057)
-- [vPilot Freeze when Disconnected from Network](https://forums.vatsim.net/topic/32814-vpilot-freeze-when-disconnected-from-network/?do=findComment&comment=187056)
-- [Feature request: option to initially disable the XP ATIS](https://forums.vatsim.net/topic/32829-feature-request-option-to-initially-disable-the-xp-atis/?do=findComment&comment=187055)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
