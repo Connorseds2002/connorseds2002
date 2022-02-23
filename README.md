@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How I do my route planning](https://forums.vatsim.net/topic/32652-how-i-do-my-route-planning/?do=findComment&comment=187054)
 - [PTT clicks have stopped](https://forums.vatsim.net/topic/32831-ptt-clicks-have-stopped/?do=findComment&comment=187053)
 - [Voice Server Error: Timout](https://forums.vatsim.net/topic/32773-voice-server-error-timout/?do=findComment&comment=187052)
 - [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187051)
@@ -64,7 +65,6 @@
 - [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187047)
 - [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187046)
 - [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187045)
-- [Feature request: option to initially disable the XP ATIS](https://forums.vatsim.net/topic/32829-feature-request-option-to-initially-disable-the-xp-atis/?do=findComment&comment=187044)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
