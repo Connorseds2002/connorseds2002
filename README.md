@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PTT clicks have stopped](https://forums.vatsim.net/topic/32831-ptt-clicks-have-stopped/?do=findComment&comment=187053)
+- [Voice Server Error: Timout](https://forums.vatsim.net/topic/32773-voice-server-error-timout/?do=findComment&comment=187052)
 - [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187051)
 - [X-Plane 10 Linux options in 2022?](https://forums.vatsim.net/topic/32830-x-plane-10-linux-options-in-2022/?do=findComment&comment=187050)
 - [Oh dear - worst flight ever](https://forums.vatsim.net/topic/32817-oh-dear-worst-flight-ever/?do=findComment&comment=187049)
@@ -63,8 +65,6 @@
 - [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187046)
 - [WHO CAN MAKE ATIS?](https://forums.vatsim.net/topic/32821-who-can-make-atis/?do=findComment&comment=187045)
 - [Feature request: option to initially disable the XP ATIS](https://forums.vatsim.net/topic/32829-feature-request-option-to-initially-disable-the-xp-atis/?do=findComment&comment=187044)
-- [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187043)
-- [Vacancy - ACC Manager - Southern Africa ACC &lpar;ACCSAF1&rpar;](https://forums.vatsim.net/topic/32828-vacancy-acc-manager-southern-africa-acc-accsaf1/?do=findComment&comment=187042)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
