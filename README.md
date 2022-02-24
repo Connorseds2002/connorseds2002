@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187113)
+- [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187112)
+- [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=187111)
 - [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=187110)
 - [vPilot audio issue : Rare](https://forums.vatsim.net/topic/32802-vpilot-audio-issue-rare/?do=findComment&comment=187109)
 - [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187108)
@@ -62,9 +65,6 @@
 - [xPilot crashing upon installation](https://forums.vatsim.net/topic/32842-xpilot-crashing-upon-installation/?do=findComment&comment=187106)
 - [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187105)
 - [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187104)
-- [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187103)
-- [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187102)
-- [Caribbean event](https://forums.vatsim.net/topic/32757-caribbean-event/?do=findComment&comment=187101)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
