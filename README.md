@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=187128)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187127)
 - [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187126)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187125)
@@ -64,7 +65,6 @@
 - [Sector files](https://forums.vatsim.net/topic/32843-sector-files/?do=findComment&comment=187121)
 - [Sector files](https://forums.vatsim.net/topic/32843-sector-files/?do=findComment&comment=187120)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187119)
-- [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=187118)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
