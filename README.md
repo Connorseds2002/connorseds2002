@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187108)
 - [RESOLVED - PTT clicks have stopped](https://forums.vatsim.net/topic/32831-resolved-ptt-clicks-have-stopped/?do=findComment&comment=187107)
 - [xPilot crashing upon installation](https://forums.vatsim.net/topic/32842-xpilot-crashing-upon-installation/?do=findComment&comment=187106)
 - [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187105)
@@ -64,7 +65,6 @@
 - [Caribbean event](https://forums.vatsim.net/topic/32757-caribbean-event/?do=findComment&comment=187101)
 - [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187100)
 - [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187099)
-- [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187098)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
