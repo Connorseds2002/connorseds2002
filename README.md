@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [RESOLVED - PTT clicks have stopped](https://forums.vatsim.net/topic/32831-resolved-ptt-clicks-have-stopped/?do=findComment&comment=187107)
+- [xPilot crashing upon installation](https://forums.vatsim.net/topic/32842-xpilot-crashing-upon-installation/?do=findComment&comment=187106)
+- [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187105)
+- [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187104)
+- [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187103)
 - [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187102)
 - [Caribbean event](https://forums.vatsim.net/topic/32757-caribbean-event/?do=findComment&comment=187101)
 - [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187100)
 - [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187099)
 - [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187098)
-- [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187097)
-- [Pilot hours not updating in my profile!](https://forums.vatsim.net/topic/32840-pilot-hours-not-updating-in-my-profile/?do=findComment&comment=187096)
-- [New - Main screen](https://forums.vatsim.net/topic/32839-new-main-screen/?do=findComment&comment=187095)
-- [Problem VPilot](https://forums.vatsim.net/topic/32838-problem-vpilot/?do=findComment&comment=187094)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187093)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
