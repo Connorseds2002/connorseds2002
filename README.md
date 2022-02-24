@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sector files](https://forums.vatsim.net/topic/32843-sector-files/?do=findComment&comment=187121)
+- [Sector files](https://forums.vatsim.net/topic/32843-sector-files/?do=findComment&comment=187120)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187119)
 - [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=187118)
 - [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=187117)
@@ -63,8 +65,6 @@
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187114)
 - [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187113)
 - [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187112)
-- [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=187111)
-- [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=187110)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
