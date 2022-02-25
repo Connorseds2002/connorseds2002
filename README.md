@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Feature request: option to initially disable the XP ATIS](https://forums.vatsim.net/topic/32829-feature-request-option-to-initially-disable-the-xp-atis/?do=findComment&comment=187139)
+- [Resize &quot;ATC Details&quot; window?](https://forums.vatsim.net/topic/30752-resize-atc-details-window/?do=findComment&comment=187138)
+- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187137)
 - [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=187136)
 - [Feature request: option to initially disable the XP ATIS](https://forums.vatsim.net/topic/32829-feature-request-option-to-initially-disable-the-xp-atis/?do=findComment&comment=187135)
 - [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187134)
@@ -62,9 +65,6 @@
 - [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187132)
 - [Caribbean event](https://forums.vatsim.net/topic/32757-caribbean-event/?do=findComment&comment=187131)
 - [Problem VPilot](https://forums.vatsim.net/topic/32838-problem-vpilot/?do=findComment&comment=187130)
-- [vPilot audio issue : Rare](https://forums.vatsim.net/topic/32802-vpilot-audio-issue-rare/?do=findComment&comment=187129)
-- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=187128)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187127)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
