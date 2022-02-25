@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [sound files location -  new beta version.](https://forums.vatsim.net/topic/32769-sound-files-location-new-beta-version/?do=findComment&comment=187154)
+- [Disconnected ATC still in the controller list in xPilot](https://forums.vatsim.net/topic/32845-disconnected-atc-still-in-the-controller-list-in-xpilot/?do=findComment&comment=187153)
+- [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187152)
+- [xPilot low FPS](https://forums.vatsim.net/topic/32844-xpilot-low-fps/?do=findComment&comment=187151)
 - [xPilot low FPS](https://forums.vatsim.net/topic/32844-xpilot-low-fps/?do=findComment&comment=187150)
 - [xPilot low FPS](https://forums.vatsim.net/topic/32844-xpilot-low-fps/?do=findComment&comment=187149)
 - [xPilot low FPS](https://forums.vatsim.net/topic/32844-xpilot-low-fps/?do=findComment&comment=187148)
 - [xPilot low FPS](https://forums.vatsim.net/topic/32844-xpilot-low-fps/?do=findComment&comment=187147)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187146)
 - [xPilot low FPS](https://forums.vatsim.net/topic/32844-xpilot-low-fps/?do=findComment&comment=187145)
-- [xPilot low FPS](https://forums.vatsim.net/topic/32844-xpilot-low-fps/?do=findComment&comment=187144)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187143)
-- [Feature request: option to initially disable the XP ATIS](https://forums.vatsim.net/topic/32829-feature-request-option-to-initially-disable-the-xp-atis/?do=findComment&comment=187142)
-- [xPilot low FPS](https://forums.vatsim.net/topic/32844-xpilot-low-fps/?do=findComment&comment=187141)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
