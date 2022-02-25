@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187132)
+- [Caribbean event](https://forums.vatsim.net/topic/32757-caribbean-event/?do=findComment&comment=187131)
+- [Problem VPilot](https://forums.vatsim.net/topic/32838-problem-vpilot/?do=findComment&comment=187130)
+- [vPilot audio issue : Rare](https://forums.vatsim.net/topic/32802-vpilot-audio-issue-rare/?do=findComment&comment=187129)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=187128)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187127)
 - [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187126)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=187125)
 - [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187124)
 - [Patching in XP10 support?](https://forums.vatsim.net/topic/32834-patching-in-xp10-support/?do=findComment&comment=187123)
-- [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=187122)
-- [Sector files](https://forums.vatsim.net/topic/32843-sector-files/?do=findComment&comment=187121)
-- [Sector files](https://forums.vatsim.net/topic/32843-sector-files/?do=findComment&comment=187120)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187119)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
