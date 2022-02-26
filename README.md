@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187191)
 - [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187189)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187188)
 - [Nearby ATC callsign list in alphabetical order per section?](https://forums.vatsim.net/topic/32854-nearby-atc-callsign-list-in-alphabetical-order-per-section/?do=findComment&comment=187187)
@@ -64,7 +65,6 @@
 - [Community Hub &lpar;Discord&rpar; site is broken](https://forums.vatsim.net/topic/32853-community-hub-discord-site-is-broken/?do=findComment&comment=187183)
 - [Community Hub &lpar;Discord&rpar; site is broken](https://forums.vatsim.net/topic/32853-community-hub-discord-site-is-broken/?do=findComment&comment=187182)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187181)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187180)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
