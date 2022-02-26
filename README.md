@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Community Hub &lpar;Discord&rpar; site is broken](https://forums.vatsim.net/topic/32853-community-hub-discord-site-is-broken/?do=findComment&comment=187185)
+- [Community Hub &lpar;Discord&rpar; site is broken](https://forums.vatsim.net/topic/32853-community-hub-discord-site-is-broken/?do=findComment&comment=187184)
 - [Community Hub &lpar;Discord&rpar; site is broken](https://forums.vatsim.net/topic/32853-community-hub-discord-site-is-broken/?do=findComment&comment=187183)
 - [Community Hub &lpar;Discord&rpar; site is broken](https://forums.vatsim.net/topic/32853-community-hub-discord-site-is-broken/?do=findComment&comment=187182)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187181)
@@ -63,8 +65,6 @@
 - [Virtual liveries for Model Matching](https://forums.vatsim.net/topic/32851-virtual-liveries-for-model-matching/?do=findComment&comment=187178)
 - [Vpilot inside MSFS display](https://forums.vatsim.net/topic/32850-vpilot-inside-msfs-display/?do=findComment&comment=187177)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187176)
-- [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187175)
-- [vPilot audio issue : Rare](https://forums.vatsim.net/topic/32802-vpilot-audio-issue-rare/?do=findComment&comment=187174)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
