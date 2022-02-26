@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187180)
 - [Nearby ATC pop up frozen](https://forums.vatsim.net/topic/32852-nearby-atc-pop-up-frozen/?do=findComment&comment=187179)
 - [Virtual liveries for Model Matching](https://forums.vatsim.net/topic/32851-virtual-liveries-for-model-matching/?do=findComment&comment=187178)
 - [Vpilot inside MSFS display](https://forums.vatsim.net/topic/32850-vpilot-inside-msfs-display/?do=findComment&comment=187177)
@@ -64,7 +65,6 @@
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187173)
 - [Questions regarding known xPilot connection issue](https://forums.vatsim.net/topic/32849-questions-regarding-known-xpilot-connection-issue/?do=findComment&comment=187172)
 - [Resize &quot;ATC Details&quot; window?](https://forums.vatsim.net/topic/30752-resize-atc-details-window/?do=findComment&comment=187171)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187170)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
