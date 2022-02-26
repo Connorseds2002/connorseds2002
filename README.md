@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187175)
+- [vPilot audio issue : Rare](https://forums.vatsim.net/topic/32802-vpilot-audio-issue-rare/?do=findComment&comment=187174)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187173)
 - [Questions regarding known xPilot connection issue](https://forums.vatsim.net/topic/32849-questions-regarding-known-xpilot-connection-issue/?do=findComment&comment=187172)
 - [Resize &quot;ATC Details&quot; window?](https://forums.vatsim.net/topic/30752-resize-atc-details-window/?do=findComment&comment=187171)
@@ -63,8 +65,6 @@
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187168)
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187167)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187166)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187165)
-- [Ability to assign squawk to an uncorrelated aircraft?](https://forums.vatsim.net/topic/32826-ability-to-assign-squawk-to-an-uncorrelated-aircraft/?do=findComment&comment=187164)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
