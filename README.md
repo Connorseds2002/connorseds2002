@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Resize &quot;ATC Details&quot; window?](https://forums.vatsim.net/topic/30752-resize-atc-details-window/?do=findComment&comment=187171)
+- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187170)
 - [Flight plan not showing up](https://forums.vatsim.net/topic/32664-flight-plan-not-showing-up/?do=findComment&comment=187169)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187168)
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187167)
@@ -63,8 +65,6 @@
 - [Ability to assign squawk to an uncorrelated aircraft?](https://forums.vatsim.net/topic/32826-ability-to-assign-squawk-to-an-uncorrelated-aircraft/?do=findComment&comment=187164)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187163)
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187162)
-- [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=187158)
-- [Problem VPilot](https://forums.vatsim.net/topic/32838-problem-vpilot/?do=findComment&comment=187157)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
