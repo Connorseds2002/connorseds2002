@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187213)
+- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187212)
+- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32861-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187211)
+- [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187210)
+- [What is you favorite airliner](https://forums.vatsim.net/topic/32862-what-is-you-favorite-airliner/?do=findComment&comment=187209)
+- [What is you favorite airliner](https://forums.vatsim.net/topic/32862-what-is-you-favorite-airliner/?do=findComment&comment=187208)
+- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32861-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187207)
+- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187206)
 - [Main window gone](https://forums.vatsim.net/topic/32859-main-window-gone/?do=findComment&comment=187205)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187204)
-- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=187203)
-- [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187202)
-- [Minimised unclickable screen](https://forums.vatsim.net/topic/32858-minimised-unclickable-screen/?do=findComment&comment=187201)
-- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187200)
-- [How do I disable the reduction in sim audio whenever someone speaks over the comm?](https://forums.vatsim.net/topic/32857-how-do-i-disable-the-reduction-in-sim-audio-whenever-someone-speaks-over-the-comm/?do=findComment&comment=187199)
-- [How do I disable the reduction in sim audio whenever someone speaks over the comm?](https://forums.vatsim.net/topic/32857-how-do-i-disable-the-reduction-in-sim-audio-whenever-someone-speaks-over-the-comm/?do=findComment&comment=187198)
-- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187197)
-- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187196)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
