@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187223)
+- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187222)
+- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187221)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187220)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187219)
 - [sound files location -  new beta version.](https://forums.vatsim.net/topic/32769-sound-files-location-new-beta-version/?do=findComment&comment=187218)
@@ -62,9 +65,6 @@
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187216)
 - [Minimised unclickable screen](https://forums.vatsim.net/topic/32858-minimised-unclickable-screen/?do=findComment&comment=187215)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187214)
-- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187213)
-- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187212)
-- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32861-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187211)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
