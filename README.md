@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187204)
+- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=187203)
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187202)
 - [Minimised unclickable screen](https://forums.vatsim.net/topic/32858-minimised-unclickable-screen/?do=findComment&comment=187201)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187200)
@@ -63,8 +65,6 @@
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187197)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187196)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187195)
-- [QuteScoop 2022 &lpar;VATSIM online status viewer Win/Linux/Mac&rpar;](https://forums.vatsim.net/topic/32751-qutescoop-2022-vatsim-online-status-viewer-winlinuxmac/?do=findComment&comment=187194)
-- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187193)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
