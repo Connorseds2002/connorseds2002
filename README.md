@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187220)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187219)
 - [sound files location -  new beta version.](https://forums.vatsim.net/topic/32769-sound-files-location-new-beta-version/?do=findComment&comment=187218)
 - [xPilot low FPS](https://forums.vatsim.net/topic/32844-xpilot-low-fps/?do=findComment&comment=187217)
@@ -64,7 +65,6 @@
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187213)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187212)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32861-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187211)
-- [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187210)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
