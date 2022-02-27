@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot low FPS](https://forums.vatsim.net/topic/32844-xpilot-low-fps/?do=findComment&comment=187217)
+- [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187216)
+- [Minimised unclickable screen](https://forums.vatsim.net/topic/32858-minimised-unclickable-screen/?do=findComment&comment=187215)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187214)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187213)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187212)
@@ -62,9 +65,6 @@
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187210)
 - [What is you favorite airliner](https://forums.vatsim.net/topic/32862-what-is-you-favorite-airliner/?do=findComment&comment=187209)
 - [What is you favorite airliner](https://forums.vatsim.net/topic/32862-what-is-you-favorite-airliner/?do=findComment&comment=187208)
-- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32861-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187207)
-- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187206)
-- [Main window gone](https://forums.vatsim.net/topic/32859-main-window-gone/?do=findComment&comment=187205)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
