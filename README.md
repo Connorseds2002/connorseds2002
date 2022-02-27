@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Main window gone](https://forums.vatsim.net/topic/32859-main-window-gone/?do=findComment&comment=187205)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187204)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=187203)
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187202)
@@ -64,7 +65,6 @@
 - [How do I disable the reduction in sim audio whenever someone speaks over the comm?](https://forums.vatsim.net/topic/32857-how-do-i-disable-the-reduction-in-sim-audio-whenever-someone-speaks-over-the-comm/?do=findComment&comment=187198)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187197)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187196)
-- [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187195)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
