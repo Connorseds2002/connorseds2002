@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187214)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187213)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187212)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32861-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187211)
@@ -64,7 +65,6 @@
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32861-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187207)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187206)
 - [Main window gone](https://forums.vatsim.net/topic/32859-main-window-gone/?do=findComment&comment=187205)
-- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187204)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
