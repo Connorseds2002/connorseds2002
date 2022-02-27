@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187197)
+- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187196)
+- [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187195)
+- [QuteScoop 2022 &lpar;VATSIM online status viewer Win/Linux/Mac&rpar;](https://forums.vatsim.net/topic/32751-qutescoop-2022-vatsim-online-status-viewer-winlinuxmac/?do=findComment&comment=187194)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187193)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187192)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187191)
 - [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187189)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187188)
 - [Nearby ATC callsign list in alphabetical order per section?](https://forums.vatsim.net/topic/32854-nearby-atc-callsign-list-in-alphabetical-order-per-section/?do=findComment&comment=187187)
-- [Vatsim controllers forgetting is common?](https://forums.vatsim.net/topic/32794-vatsim-controllers-forgetting-is-common/?do=findComment&comment=187186)
-- [Community Hub &lpar;Discord&rpar; site is broken](https://forums.vatsim.net/topic/32853-community-hub-discord-site-is-broken/?do=findComment&comment=187185)
-- [Community Hub &lpar;Discord&rpar; site is broken](https://forums.vatsim.net/topic/32853-community-hub-discord-site-is-broken/?do=findComment&comment=187184)
-- [Community Hub &lpar;Discord&rpar; site is broken](https://forums.vatsim.net/topic/32853-community-hub-discord-site-is-broken/?do=findComment&comment=187183)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
