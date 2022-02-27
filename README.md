@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How do I disable the reduction in sim audio whenever someone speaks over the comm?](https://forums.vatsim.net/topic/32857-how-do-i-disable-the-reduction-in-sim-audio-whenever-someone-speaks-over-the-comm/?do=findComment&comment=187198)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187197)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187196)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187195)
@@ -64,7 +65,6 @@
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187191)
 - [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187189)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187188)
-- [Nearby ATC callsign list in alphabetical order per section?](https://forums.vatsim.net/topic/32854-nearby-atc-callsign-list-in-alphabetical-order-per-section/?do=findComment&comment=187187)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
