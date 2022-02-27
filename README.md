@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187200)
 - [How do I disable the reduction in sim audio whenever someone speaks over the comm?](https://forums.vatsim.net/topic/32857-how-do-i-disable-the-reduction-in-sim-audio-whenever-someone-speaks-over-the-comm/?do=findComment&comment=187199)
 - [How do I disable the reduction in sim audio whenever someone speaks over the comm?](https://forums.vatsim.net/topic/32857-how-do-i-disable-the-reduction-in-sim-audio-whenever-someone-speaks-over-the-comm/?do=findComment&comment=187198)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187197)
@@ -64,7 +65,6 @@
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187193)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187192)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=187191)
-- [ALGERIA SECTOR DAAA FIR](https://forums.vatsim.net/topic/32837-algeria-sector-daaa-fir/?do=findComment&comment=187189)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
