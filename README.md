@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187242)
 - [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187241)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187240)
 - [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187239)
@@ -64,7 +65,6 @@
 - [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187235)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=187234)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187233)
-- [XPilot needing frequent updates &lpar;every time I launch it&rpar; and crashing XPlane 11 to the desktop.](https://forums.vatsim.net/topic/32865-xpilot-needing-frequent-updates-every-time-i-launch-it-and-crashing-xplane-11-to-the-desktop/?do=findComment&comment=187232)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
