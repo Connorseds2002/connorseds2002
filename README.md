@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187256)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187255)
 - [What is you favorite airliner](https://forums.vatsim.net/topic/32862-what-is-you-favorite-airliner/?do=findComment&comment=187254)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=187253)
@@ -64,7 +65,6 @@
 - [TowerView | Euroscope and swift](https://forums.vatsim.net/topic/32864-towerview-euroscope-and-swift/?do=findComment&comment=187249)
 - [Minimised unclickable screen](https://forums.vatsim.net/topic/32858-minimised-unclickable-screen/?do=findComment&comment=187248)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32861-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187247)
-- [Vpilot inside MSFS display](https://forums.vatsim.net/topic/32850-vpilot-inside-msfs-display/?do=findComment&comment=187246)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
