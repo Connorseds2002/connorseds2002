@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=187253)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=187252)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=187251)
 - [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187250)
@@ -64,7 +65,6 @@
 - [Vpilot inside MSFS display](https://forums.vatsim.net/topic/32850-vpilot-inside-msfs-display/?do=findComment&comment=187246)
 - [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187245)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187244)
-- [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187243)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
