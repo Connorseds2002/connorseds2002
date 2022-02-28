@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32861-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187247)
+- [Vpilot inside MSFS display](https://forums.vatsim.net/topic/32850-vpilot-inside-msfs-display/?do=findComment&comment=187246)
 - [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187245)
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187244)
 - [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187243)
@@ -63,8 +65,6 @@
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187240)
 - [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187239)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=187238)
-- [TowerView | Euroscope and swift](https://forums.vatsim.net/topic/32864-towerview-euroscope-and-swift/?do=findComment&comment=187237)
-- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187236)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
