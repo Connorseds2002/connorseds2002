@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187240)
+- [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187239)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=187238)
 - [TowerView | Euroscope and swift](https://forums.vatsim.net/topic/32864-towerview-euroscope-and-swift/?do=findComment&comment=187237)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=187236)
@@ -63,8 +65,6 @@
 - [Weather](https://forums.vatsim.net/topic/32856-weather/?do=findComment&comment=187233)
 - [XPilot needing frequent updates &lpar;every time I launch it&rpar; and crashing XPlane 11 to the desktop.](https://forums.vatsim.net/topic/32865-xpilot-needing-frequent-updates-every-time-i-launch-it-and-crashing-xplane-11-to-the-desktop/?do=findComment&comment=187232)
 - [XPilot needing frequent updates &lpar;every time I launch it&rpar; and crashing XPlane 11 to the desktop.](https://forums.vatsim.net/topic/32865-xpilot-needing-frequent-updates-every-time-i-launch-it-and-crashing-xplane-11-to-the-desktop/?do=findComment&comment=187231)
-- [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187230)
-- [TowerView | Euroscope and swift](https://forums.vatsim.net/topic/32864-towerview-euroscope-and-swift/?do=findComment&comment=187229)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
