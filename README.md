@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=187262)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187261)
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187260)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187259)
@@ -64,7 +65,6 @@
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187255)
 - [What is you favorite airliner](https://forums.vatsim.net/topic/32862-what-is-you-favorite-airliner/?do=findComment&comment=187254)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=187253)
-- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=187252)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
