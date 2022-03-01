@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Frontier Virtual?](https://forums.vatsim.net/topic/32869-frontier-virtual/?do=findComment&comment=187267)
 - [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187266)
 - [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187265)
 - [Pilot flying hours.](https://forums.vatsim.net/topic/32867-pilot-flying-hours/?do=findComment&comment=187264)
@@ -64,7 +65,6 @@
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187260)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187259)
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187258)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187257)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
