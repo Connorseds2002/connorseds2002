@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187265)
+- [Pilot flying hours.](https://forums.vatsim.net/topic/32867-pilot-flying-hours/?do=findComment&comment=187264)
 - [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187263)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=187262)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187261)
@@ -63,8 +65,6 @@
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187258)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187257)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187256)
-- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187255)
-- [What is you favorite airliner](https://forums.vatsim.net/topic/32862-what-is-you-favorite-airliner/?do=findComment&comment=187254)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
