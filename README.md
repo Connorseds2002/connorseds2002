@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187269)
 - [Equipment suffix shows controller /U when I filed /A](https://forums.vatsim.net/topic/32870-equipment-suffix-shows-controller-u-when-i-filed-a/?do=findComment&comment=187268)
 - [Frontier Virtual?](https://forums.vatsim.net/topic/32869-frontier-virtual/?do=findComment&comment=187267)
 - [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187266)
@@ -64,7 +65,6 @@
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=187262)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187261)
 - [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187260)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187259)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
