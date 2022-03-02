@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187269)
+- [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187272)
+- [Canadian Xpress March 2022 Monthly Challenge: National Parks V - England](https://forums.vatsim.net/topic/32872-canadian-xpress-march-2022-monthly-challenge-national-parks-v-england/?do=findComment&comment=187271)
+- [Error opening file for writing](https://forums.vatsim.net/topic/32871-error-opening-file-for-writing/?do=findComment&comment=187270)
+- [Error opening file for writing](https://forums.vatsim.net/topic/32871-error-opening-file-for-writing/?do=findComment&comment=187269)
 - [Equipment suffix shows controller /U when I filed /A](https://forums.vatsim.net/topic/32870-equipment-suffix-shows-controller-u-when-i-filed-a/?do=findComment&comment=187268)
 - [Frontier Virtual?](https://forums.vatsim.net/topic/32869-frontier-virtual/?do=findComment&comment=187267)
 - [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187266)
 - [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187265)
 - [Pilot flying hours.](https://forums.vatsim.net/topic/32867-pilot-flying-hours/?do=findComment&comment=187264)
 - [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187263)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=187262)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187261)
-- [xPilot/Euroscope Towerview](https://forums.vatsim.net/topic/26015-xpiloteuroscope-towerview/?do=findComment&comment=187260)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
