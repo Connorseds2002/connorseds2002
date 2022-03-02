@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187277)
+- [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187276)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187275)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187274)
 - [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=187273)
@@ -63,8 +65,6 @@
 - [Error opening file for writing](https://forums.vatsim.net/topic/32871-error-opening-file-for-writing/?do=findComment&comment=187270)
 - [Error opening file for writing](https://forums.vatsim.net/topic/32871-error-opening-file-for-writing/?do=findComment&comment=187269)
 - [Equipment suffix shows controller /U when I filed /A](https://forums.vatsim.net/topic/32870-equipment-suffix-shows-controller-u-when-i-filed-a/?do=findComment&comment=187268)
-- [Frontier Virtual?](https://forums.vatsim.net/topic/32869-frontier-virtual/?do=findComment&comment=187267)
-- [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187266)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
