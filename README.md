@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Main window gone](https://forums.vatsim.net/topic/32859-main-window-gone/?do=findComment&comment=187311)
+- [Military Flying, but no active VSOs?](https://forums.vatsim.net/topic/32878-military-flying-but-no-active-vsos/?do=findComment&comment=187310)
+- [Military Flying, but no active VSOs?](https://forums.vatsim.net/topic/32878-military-flying-but-no-active-vsos/?do=findComment&comment=187309)
+- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187308)
+- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187307)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187306)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187305)
 - [Military Flying, but no active VSOs?](https://forums.vatsim.net/topic/32878-military-flying-but-no-active-vsos/?do=findComment&comment=187304)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187303)
 - [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=187302)
-- [More than 4 runways in scenario files](https://forums.vatsim.net/topic/32877-more-than-4-runways-in-scenario-files/?do=findComment&comment=187301)
-- [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187300)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187299)
-- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187298)
-- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=187297)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
