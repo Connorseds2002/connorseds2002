@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187299)
+- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187298)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=187297)
 - [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=187296)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187295)
@@ -63,8 +65,6 @@
 - [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187292)
 - [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187291)
 - [[March 19th 14:00z-20:00z] Vienna - Tel Aviv Trip](https://forums.vatsim.net/topic/32876-march-19th-1400z-2000z-vienna-tel-aviv-trip/?do=findComment&comment=187290)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187289)
-- [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187288)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
