@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Military Flying, but no active VSOs?](https://forums.vatsim.net/topic/32878-military-flying-but-no-active-vsos/?do=findComment&comment=187312)
 - [Main window gone](https://forums.vatsim.net/topic/32859-main-window-gone/?do=findComment&comment=187311)
 - [Military Flying, but no active VSOs?](https://forums.vatsim.net/topic/32878-military-flying-but-no-active-vsos/?do=findComment&comment=187310)
 - [Military Flying, but no active VSOs?](https://forums.vatsim.net/topic/32878-military-flying-but-no-active-vsos/?do=findComment&comment=187309)
@@ -64,7 +65,6 @@
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187305)
 - [Military Flying, but no active VSOs?](https://forums.vatsim.net/topic/32878-military-flying-but-no-active-vsos/?do=findComment&comment=187304)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187303)
-- [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=187302)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
