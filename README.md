@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187303)
 - [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=187302)
 - [More than 4 runways in scenario files](https://forums.vatsim.net/topic/32877-more-than-4-runways-in-scenario-files/?do=findComment&comment=187301)
 - [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187300)
@@ -64,7 +65,6 @@
 - [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=187296)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187295)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187294)
-- [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187293)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
