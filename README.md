@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187329)
+- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187328)
+- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187327)
 - [No online traffic showing in MSFS SU8](https://forums.vatsim.net/topic/32881-no-online-traffic-showing-in-msfs-su8/?do=findComment&comment=187326)
 - [No online traffic showing in MSFS SU8](https://forums.vatsim.net/topic/32881-no-online-traffic-showing-in-msfs-su8/?do=findComment&comment=187325)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=187324)
@@ -62,9 +65,6 @@
 - [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=187322)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187321)
 - [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187320)
-- [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187319)
-- [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187318)
-- [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187317)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
