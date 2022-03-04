@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SmartCopilot &amp; XPlane, ZIBO738, FF767 &lpar;Freighter and Pax&rpar;, SSG 748 &lpar;Freighter only&rpar;](https://forums.vatsim.net/topic/32880-smartcopilot-xplane-zibo738-ff767-freighter-and-pax-ssg-748-freighter-only/?do=findComment&comment=187323)
+- [Shared Cockpit Xplane 11 or MSFS](https://forums.vatsim.net/topic/31867-shared-cockpit-xplane-11-or-msfs/?do=findComment&comment=187322)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187321)
 - [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187320)
 - [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187319)
@@ -63,8 +65,6 @@
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187316)
 - [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187315)
 - [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187314)
-- [Main window gone](https://forums.vatsim.net/topic/32859-main-window-gone/?do=findComment&comment=187313)
-- [Military Flying, but no active VSOs?](https://forums.vatsim.net/topic/32878-military-flying-but-no-active-vsos/?do=findComment&comment=187312)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
