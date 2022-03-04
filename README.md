@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [LH-Virtual.com awaits you!](https://forums.vatsim.net/topic/31438-lh-virtualcom-awaits-you/?do=findComment&comment=187335)
+- [Couldn&#39;t find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=187334)
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187333)
 - [Couldn&#39;t find active VATSIM Connection, please connect to Vatsim first....](https://forums.vatsim.net/topic/32040-couldnt-find-active-vatsim-connection-please-connect-to-vatsim-first/?do=findComment&comment=187332)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=187331)
@@ -63,8 +65,6 @@
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187328)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=187327)
 - [No online traffic showing in MSFS SU8](https://forums.vatsim.net/topic/32881-no-online-traffic-showing-in-msfs-su8/?do=findComment&comment=187326)
-- [No online traffic showing in MSFS SU8](https://forums.vatsim.net/topic/32881-no-online-traffic-showing-in-msfs-su8/?do=findComment&comment=187325)
-- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=187324)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
