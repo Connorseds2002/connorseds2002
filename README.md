@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187321)
+- [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187320)
 - [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187319)
 - [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187318)
 - [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187317)
@@ -63,8 +65,6 @@
 - [Flight plan not showing](https://forums.vatsim.net/topic/32879-flight-plan-not-showing/?do=findComment&comment=187314)
 - [Main window gone](https://forums.vatsim.net/topic/32859-main-window-gone/?do=findComment&comment=187313)
 - [Military Flying, but no active VSOs?](https://forums.vatsim.net/topic/32878-military-flying-but-no-active-vsos/?do=findComment&comment=187312)
-- [Main window gone](https://forums.vatsim.net/topic/32859-main-window-gone/?do=findComment&comment=187311)
-- [Military Flying, but no active VSOs?](https://forums.vatsim.net/topic/32878-military-flying-but-no-active-vsos/?do=findComment&comment=187310)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
