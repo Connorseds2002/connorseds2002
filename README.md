@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187346)
+- [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187345)
 - [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=187344)
 - [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187343)
 - [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=187342)
@@ -63,8 +65,6 @@
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187339)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187338)
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187337)
-- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=187336)
-- [LH-Virtual.com awaits you!](https://forums.vatsim.net/topic/31438-lh-virtualcom-awaits-you/?do=findComment&comment=187335)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
