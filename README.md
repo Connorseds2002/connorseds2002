@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sim Aware - Rating display question](https://forums.vatsim.net/topic/32813-sim-aware-rating-display-question/?do=findComment&comment=187348)
+- [Vpilot crashes JBL Quantum 7.1 sound system drivers freezing msfs](https://forums.vatsim.net/topic/32883-vpilot-crashes-jbl-quantum-71-sound-system-drivers-freezing-msfs/?do=findComment&comment=187347)
 - [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187346)
 - [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187345)
 - [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=187344)
@@ -63,8 +65,6 @@
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187341)
 - [No online traffic showing in MSFS SU8](https://forums.vatsim.net/topic/32881-no-online-traffic-showing-in-msfs-su8/?do=findComment&comment=187340)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187339)
-- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187338)
-- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187337)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
