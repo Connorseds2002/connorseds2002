@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187363)
 - [Controller contact request crashed XP11 to desktop](https://forums.vatsim.net/topic/32886-controller-contact-request-crashed-xp11-to-desktop/?do=findComment&comment=187362)
 - [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187361)
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187360)
@@ -64,7 +65,6 @@
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187356)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187355)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187354)
-- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187353)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
