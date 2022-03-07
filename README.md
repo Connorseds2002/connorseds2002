@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187377)
+- [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187376)
+- [Center listings](https://forums.vatsim.net/topic/32888-center-listings/?do=findComment&comment=187375)
 - [Vatsim account is  linked to my old discord account](https://forums.vatsim.net/topic/32890-vatsim-account-is-linked-to-my-old-discord-account/?do=findComment&comment=187374)
 - [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187373)
 - [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187372)
@@ -62,9 +65,6 @@
 - [Center listings](https://forums.vatsim.net/topic/32888-center-listings/?do=findComment&comment=187370)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187369)
 - [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187368)
-- [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187367)
-- [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187366)
-- [Vpilot crashes JBL Quantum 7.1 sound system drivers freezing msfs](https://forums.vatsim.net/topic/32883-vpilot-crashes-jbl-quantum-71-sound-system-drivers-freezing-msfs/?do=findComment&comment=187365)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
