@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187368)
 - [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187367)
 - [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187366)
 - [Vpilot crashes JBL Quantum 7.1 sound system drivers freezing msfs](https://forums.vatsim.net/topic/32883-vpilot-crashes-jbl-quantum-71-sound-system-drivers-freezing-msfs/?do=findComment&comment=187365)
@@ -64,7 +65,6 @@
 - [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187361)
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187360)
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187359)
-- [VATSIM Pilot Hours Problem](https://forums.vatsim.net/topic/32702-vatsim-pilot-hours-problem/?do=findComment&comment=187358)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
