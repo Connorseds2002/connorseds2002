@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187383)
 - [Vatsim account is  linked to my old discord account](https://forums.vatsim.net/topic/32890-vatsim-account-is-linked-to-my-old-discord-account/?do=findComment&comment=187382)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187381)
 - [FSD unknown packet:](https://forums.vatsim.net/topic/32762-fsd-unknown-packet/?do=findComment&comment=187380)
@@ -64,7 +65,6 @@
 - [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187376)
 - [Center listings](https://forums.vatsim.net/topic/32888-center-listings/?do=findComment&comment=187375)
 - [Vatsim account is  linked to my old discord account](https://forums.vatsim.net/topic/32890-vatsim-account-is-linked-to-my-old-discord-account/?do=findComment&comment=187374)
-- [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187373)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
