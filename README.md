@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187373)
 - [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187372)
 - [Syncing ATIS info with Euroscope](https://forums.vatsim.net/topic/32889-syncing-atis-info-with-euroscope/?do=findComment&comment=187371)
 - [Center listings](https://forums.vatsim.net/topic/32888-center-listings/?do=findComment&comment=187370)
@@ -64,7 +65,6 @@
 - [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187366)
 - [Vpilot crashes JBL Quantum 7.1 sound system drivers freezing msfs](https://forums.vatsim.net/topic/32883-vpilot-crashes-jbl-quantum-71-sound-system-drivers-freezing-msfs/?do=findComment&comment=187365)
 - [Vpilot crashes JBL Quantum 7.1 sound system drivers freezing msfs](https://forums.vatsim.net/topic/32883-vpilot-crashes-jbl-quantum-71-sound-system-drivers-freezing-msfs/?do=findComment&comment=187364)
-- [When there is no ATIS](https://forums.vatsim.net/topic/32885-when-there-is-no-atis/?do=findComment&comment=187363)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
