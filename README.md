@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187378)
 - [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187377)
 - [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187376)
 - [Center listings](https://forums.vatsim.net/topic/32888-center-listings/?do=findComment&comment=187375)
@@ -64,7 +65,6 @@
 - [Syncing ATIS info with Euroscope](https://forums.vatsim.net/topic/32889-syncing-atis-info-with-euroscope/?do=findComment&comment=187371)
 - [Center listings](https://forums.vatsim.net/topic/32888-center-listings/?do=findComment&comment=187370)
 - [Last aircraft calling?](https://forums.vatsim.net/topic/32815-last-aircraft-calling/?do=findComment&comment=187369)
-- [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187368)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
