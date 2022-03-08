@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187400)
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187399)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187398)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187397)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187396)
@@ -63,8 +65,6 @@
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187393)
 - [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=187392)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187391)
-- [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187390)
-- [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187389)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
