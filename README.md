@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187391)
 - [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187390)
 - [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187389)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187388)
@@ -64,7 +65,6 @@
 - [The Coming &amp; Going Scramble into KORD &lpar;Sun,13 March&rpar;](https://forums.vatsim.net/topic/32892-the-coming-going-scramble-into-kord-sun13-march/?do=findComment&comment=187384)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187383)
 - [Vatsim account is  linked to my old discord account](https://forums.vatsim.net/topic/32890-vatsim-account-is-linked-to-my-old-discord-account/?do=findComment&comment=187382)
-- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=187381)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
