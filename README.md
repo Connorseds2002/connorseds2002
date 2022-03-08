@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187394)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187393)
 - [Cannot transmit on vPilot](https://forums.vatsim.net/topic/26892-cannot-transmit-on-vpilot/?do=findComment&comment=187392)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187391)
@@ -64,7 +65,6 @@
 - [Real-life pilot ratings](https://forums.vatsim.net/topic/32893-real-life-pilot-ratings/?do=findComment&comment=187387)
 - [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187386)
 - [Real-life pilot ratings](https://forums.vatsim.net/topic/32893-real-life-pilot-ratings/?do=findComment&comment=187385)
-- [The Coming &amp; Going Scramble into KORD &lpar;Sun,13 March&rpar;](https://forums.vatsim.net/topic/32892-the-coming-going-scramble-into-kord-sun13-march/?do=findComment&comment=187384)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
