@@ -56,7 +56,6 @@
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
 - [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187411)
-- [VACANCY: Head Developer at the CaptainAB VATSIM Training Program](https://forums.vatsim.net/topic/32894-vacancy-head-developer-at-the-captainab-vatsim-training-program/?do=findComment&comment=187410)
 - [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187409)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187408)
 - [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187407)
@@ -65,6 +64,7 @@
 - [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187404)
 - [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187403)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187402)
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187401)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
