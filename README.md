@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187415)
+- [Quick Question](https://forums.vatsim.net/topic/32895-quick-question/?do=findComment&comment=187414)
 - [Vatsim account is  linked to my old discord account](https://forums.vatsim.net/topic/32890-vatsim-account-is-linked-to-my-old-discord-account/?do=findComment&comment=187413)
 - [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187412)
 - [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187411)
@@ -63,8 +65,6 @@
 - [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187407)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187406)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187405)
-- [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187404)
-- [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187403)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
