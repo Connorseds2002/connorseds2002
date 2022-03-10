@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187435)
+- [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187434)
 - [Speaker option from v 1.9.4](https://forums.vatsim.net/topic/32900-speaker-option-from-v-194/?do=findComment&comment=187433)
 - [Quick Question](https://forums.vatsim.net/topic/32895-quick-question/?do=findComment&comment=187432)
 - [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187431)
@@ -63,8 +65,6 @@
 - [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187428)
 - [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187427)
 - [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187426)
-- [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187425)
-- [Speaker option from v 1.9.4](https://forums.vatsim.net/topic/32900-speaker-option-from-v-194/?do=findComment&comment=187424)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
