@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Procedures for VATSIM-JAPAN visiting controllers?](https://forums.vatsim.net/topic/6566-procedures-for-vatsim-japan-visiting-controllers/?do=findComment&comment=187418)
 - [Going from Ground to Unicom to Ground](https://forums.vatsim.net/topic/32896-going-from-ground-to-unicom-to-ground/?do=findComment&comment=187417)
 - [Going from Ground to Unicom to Ground](https://forums.vatsim.net/topic/32896-going-from-ground-to-unicom-to-ground/?do=findComment&comment=187416)
 - [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187415)
@@ -64,7 +65,6 @@
 - [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187411)
 - [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187409)
 - [Listen on COM2 not correct works](https://forums.vatsim.net/topic/32835-listen-on-com2-not-correct-works/?do=findComment&comment=187408)
-- [Logitech Issues / joystick related](https://forums.vatsim.net/topic/32887-logitech-issues-joystick-related/?do=findComment&comment=187407)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
