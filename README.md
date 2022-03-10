@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187423)
+- [xPilot Download error](https://forums.vatsim.net/topic/32897-xpilot-download-error/?do=findComment&comment=187422)
 - [Procedures for VATSIM-JAPAN visiting controllers?](https://forums.vatsim.net/topic/6566-procedures-for-vatsim-japan-visiting-controllers/?do=findComment&comment=187421)
 - [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187420)
 - [xPilot Download error](https://forums.vatsim.net/topic/32897-xpilot-download-error/?do=findComment&comment=187419)
@@ -63,8 +65,6 @@
 - [Going from Ground to Unicom to Ground](https://forums.vatsim.net/topic/32896-going-from-ground-to-unicom-to-ground/?do=findComment&comment=187416)
 - [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187415)
 - [Quick Question](https://forums.vatsim.net/topic/32895-quick-question/?do=findComment&comment=187414)
-- [Vatsim account is  linked to my old discord account](https://forums.vatsim.net/topic/32890-vatsim-account-is-linked-to-my-old-discord-account/?do=findComment&comment=187413)
-- [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187412)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
