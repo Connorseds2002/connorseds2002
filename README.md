@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187431)
+- [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187430)
+- [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187429)
+- [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187428)
+- [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187427)
+- [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187426)
 - [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187425)
 - [Speaker option from v 1.9.4](https://forums.vatsim.net/topic/32900-speaker-option-from-v-194/?do=findComment&comment=187424)
 - [v1.9.4 speaker option - how?](https://forums.vatsim.net/topic/32899-v194-speaker-option-how/?do=findComment&comment=187423)
 - [xPilot Download error](https://forums.vatsim.net/topic/32897-xpilot-download-error/?do=findComment&comment=187422)
-- [Procedures for VATSIM-JAPAN visiting controllers?](https://forums.vatsim.net/topic/6566-procedures-for-vatsim-japan-visiting-controllers/?do=findComment&comment=187421)
-- [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187420)
-- [xPilot Download error](https://forums.vatsim.net/topic/32897-xpilot-download-error/?do=findComment&comment=187419)
-- [Procedures for VATSIM-JAPAN visiting controllers?](https://forums.vatsim.net/topic/6566-procedures-for-vatsim-japan-visiting-controllers/?do=findComment&comment=187418)
-- [Going from Ground to Unicom to Ground](https://forums.vatsim.net/topic/32896-going-from-ground-to-unicom-to-ground/?do=findComment&comment=187417)
-- [Going from Ground to Unicom to Ground](https://forums.vatsim.net/topic/32896-going-from-ground-to-unicom-to-ground/?do=findComment&comment=187416)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
