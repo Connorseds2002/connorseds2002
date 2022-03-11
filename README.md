@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SPAD driver help](https://forums.vatsim.net/topic/32904-spad-driver-help/?do=findComment&comment=187450)
 - [Invalid client version ???](https://forums.vatsim.net/topic/32901-invalid-client-version/?do=findComment&comment=187449)
 - [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=187448)
 - [I cannot access the CTP booking URL](https://forums.vatsim.net/topic/32903-i-cannot-access-the-ctp-booking-url/?do=findComment&comment=187447)
@@ -64,7 +65,6 @@
 - [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187443)
 - [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187442)
 - [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187441)
-- [Going from Ground to Unicom to Ground](https://forums.vatsim.net/topic/32896-going-from-ground-to-unicom-to-ground/?do=findComment&comment=187440)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
