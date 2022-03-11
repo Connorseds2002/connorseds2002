@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=187453)
 - [network error - invalid client](https://forums.vatsim.net/topic/32905-network-error-invalid-client/?do=findComment&comment=187452)
 - [network error - invalid client](https://forums.vatsim.net/topic/32905-network-error-invalid-client/?do=findComment&comment=187451)
 - [SPAD driver help](https://forums.vatsim.net/topic/32904-spad-driver-help/?do=findComment&comment=187450)
@@ -64,7 +65,6 @@
 - [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=187446)
 - [Invalid client version ???](https://forums.vatsim.net/topic/32901-invalid-client-version/?do=findComment&comment=187445)
 - [Invalid client version ???](https://forums.vatsim.net/topic/32901-invalid-client-version/?do=findComment&comment=187444)
-- [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187443)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
