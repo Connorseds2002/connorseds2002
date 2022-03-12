@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187473)
 - [Gabriel Dalio Bernardes steps down - VATBRZ DD](https://forums.vatsim.net/topic/32909-gabriel-dalio-bernardes-steps-down-vatbrz-dd/?do=findComment&comment=187472)
 - [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187471)
 - [AFV - Constant Voice Disconnects on vPilot](https://forums.vatsim.net/topic/28436-afv-constant-voice-disconnects-on-vpilot/?do=findComment&comment=187470)
@@ -64,7 +65,6 @@
 - [Import a Simbrief flight plan](https://forums.vatsim.net/topic/32911-import-a-simbrief-flight-plan/?do=findComment&comment=187466)
 - [Hold on…](https://forums.vatsim.net/topic/32910-hold-on%E2%80%A6/?do=findComment&comment=187465)
 - [Import a Simbrief flight plan](https://forums.vatsim.net/topic/32911-import-a-simbrief-flight-plan/?do=findComment&comment=187464)
-- [Hold on…](https://forums.vatsim.net/topic/32910-hold-on%E2%80%A6/?do=findComment&comment=187463)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
