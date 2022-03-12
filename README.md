@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Import a Simbrief flight plan](https://forums.vatsim.net/topic/32911-import-a-simbrief-flight-plan/?do=findComment&comment=187466)
+- [Hold on…](https://forums.vatsim.net/topic/32910-hold-on%E2%80%A6/?do=findComment&comment=187465)
+- [Import a Simbrief flight plan](https://forums.vatsim.net/topic/32911-import-a-simbrief-flight-plan/?do=findComment&comment=187464)
+- [Hold on…](https://forums.vatsim.net/topic/32910-hold-on%E2%80%A6/?do=findComment&comment=187463)
+- [Gabriel Dalio Bernardes steps down - VATBRZ DD](https://forums.vatsim.net/topic/32909-gabriel-dalio-bernardes-steps-down-vatbrz-dd/?do=findComment&comment=187462)
 - [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187461)
 - [Scenario Problem on Euroscope beta](https://forums.vatsim.net/topic/32908-scenario-problem-on-euroscope-beta/?do=findComment&comment=187460)
 - [How I do my route planning](https://forums.vatsim.net/topic/32652-how-i-do-my-route-planning/?do=findComment&comment=187459)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=187458)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=187457)
-- [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=187456)
-- [How I do my route planning](https://forums.vatsim.net/topic/32652-how-i-do-my-route-planning/?do=findComment&comment=187455)
-- [[VACANCY] Director ATC Training - VATWA3](https://forums.vatsim.net/topic/32907-vacancy-director-atc-training-vatwa3/?do=findComment&comment=187454)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=187453)
-- [network error - invalid client](https://forums.vatsim.net/topic/32905-network-error-invalid-client/?do=findComment&comment=187452)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
