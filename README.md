@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Gabriel Dalio Bernardes steps down - VATBRZ DD](https://forums.vatsim.net/topic/32909-gabriel-dalio-bernardes-steps-down-vatbrz-dd/?do=findComment&comment=187475)
 - [OPEN POSITION - VATBRZ Divisional Director](https://forums.vatsim.net/topic/32913-open-position-vatbrz-divisional-director/?do=findComment&comment=187474)
 - [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187473)
 - [Gabriel Dalio Bernardes steps down - VATBRZ DD](https://forums.vatsim.net/topic/32909-gabriel-dalio-bernardes-steps-down-vatbrz-dd/?do=findComment&comment=187472)
@@ -64,7 +65,6 @@
 - [ILS RWY 14 Zürich](https://forums.vatsim.net/topic/32912-ils-rwy-14-z%C3%BCrich/?do=findComment&comment=187468)
 - [ILS RWY 14 Zürich](https://forums.vatsim.net/topic/32912-ils-rwy-14-z%C3%BCrich/?do=findComment&comment=187467)
 - [Import a Simbrief flight plan](https://forums.vatsim.net/topic/32911-import-a-simbrief-flight-plan/?do=findComment&comment=187466)
-- [Hold on…](https://forums.vatsim.net/topic/32910-hold-on%E2%80%A6/?do=findComment&comment=187465)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
