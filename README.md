@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Scenario Problem on Euroscope beta](https://forums.vatsim.net/topic/32908-scenario-problem-on-euroscope-beta/?do=findComment&comment=187460)
 - [How I do my route planning](https://forums.vatsim.net/topic/32652-how-i-do-my-route-planning/?do=findComment&comment=187459)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=187458)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=187457)
@@ -64,7 +65,6 @@
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=187453)
 - [network error - invalid client](https://forums.vatsim.net/topic/32905-network-error-invalid-client/?do=findComment&comment=187452)
 - [network error - invalid client](https://forums.vatsim.net/topic/32905-network-error-invalid-client/?do=findComment&comment=187451)
-- [SPAD driver help](https://forums.vatsim.net/topic/32904-spad-driver-help/?do=findComment&comment=187450)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
