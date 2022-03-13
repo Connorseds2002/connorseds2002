@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to download CSL model set in xpilot](https://forums.vatsim.net/topic/32914-unable-to-download-csl-model-set-in-xpilot/?do=findComment&comment=187477)
 - [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187476)
 - [Gabriel Dalio Bernardes steps down - VATBRZ DD](https://forums.vatsim.net/topic/32909-gabriel-dalio-bernardes-steps-down-vatbrz-dd/?do=findComment&comment=187475)
 - [OPEN POSITION - VATBRZ Divisional Director](https://forums.vatsim.net/topic/32913-open-position-vatbrz-divisional-director/?do=findComment&comment=187474)
@@ -64,7 +65,6 @@
 - [AFV - Constant Voice Disconnects on vPilot](https://forums.vatsim.net/topic/28436-afv-constant-voice-disconnects-on-vpilot/?do=findComment&comment=187470)
 - [Import a Simbrief flight plan](https://forums.vatsim.net/topic/32911-import-a-simbrief-flight-plan/?do=findComment&comment=187469)
 - [ILS RWY 14 Zürich](https://forums.vatsim.net/topic/32912-ils-rwy-14-z%C3%BCrich/?do=findComment&comment=187468)
-- [ILS RWY 14 Zürich](https://forums.vatsim.net/topic/32912-ils-rwy-14-z%C3%BCrich/?do=findComment&comment=187467)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
