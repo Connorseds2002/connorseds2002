@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Hold on…](https://forums.vatsim.net/topic/32910-hold-on%E2%80%A6/?do=findComment&comment=187490)
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=187489)
 - [Unable to download CSL model set in xpilot](https://forums.vatsim.net/topic/32914-unable-to-download-csl-model-set-in-xpilot/?do=findComment&comment=187488)
 - [Gabriel Dalio Bernardes steps down - VATBRZ DD](https://forums.vatsim.net/topic/32909-gabriel-dalio-bernardes-steps-down-vatbrz-dd/?do=findComment&comment=187487)
 - [The Coming &amp; Going Scramble into KORD &lpar;Sun,13 March&rpar;](https://forums.vatsim.net/topic/32892-the-coming-going-scramble-into-kord-sun13-march/?do=findComment&comment=187486)
@@ -63,8 +65,6 @@
 - [A350K never shows up in sim &lpar;FSPXAI and UTT&rpar;](https://forums.vatsim.net/topic/32898-a350k-never-shows-up-in-sim-fspxai-and-utt/?do=findComment&comment=187483)
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187482)
 - [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=187481)
-- [Hold on…](https://forums.vatsim.net/topic/32910-hold-on%E2%80%A6/?do=findComment&comment=187480)
-- [Unable to download CSL model set in xpilot](https://forums.vatsim.net/topic/32914-unable-to-download-csl-model-set-in-xpilot/?do=findComment&comment=187479)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
