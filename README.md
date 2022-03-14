@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to download CSL model set in xpilot](https://forums.vatsim.net/topic/32914-unable-to-download-csl-model-set-in-xpilot/?do=findComment&comment=187505)
 - [Inactive accounts](https://forums.vatsim.net/topic/32916-inactive-accounts/?do=findComment&comment=187504)
 - [Unable to download CSL model set in xpilot](https://forums.vatsim.net/topic/32914-unable-to-download-csl-model-set-in-xpilot/?do=findComment&comment=187503)
 - [vpilot](https://forums.vatsim.net/topic/32915-vpilot/?do=findComment&comment=187502)
@@ -64,7 +65,6 @@
 - [Inactive accounts](https://forums.vatsim.net/topic/32916-inactive-accounts/?do=findComment&comment=187498)
 - [I cannot access the CTP booking URL](https://forums.vatsim.net/topic/32903-i-cannot-access-the-ctp-booking-url/?do=findComment&comment=187497)
 - [vpilot](https://forums.vatsim.net/topic/32915-vpilot/?do=findComment&comment=187496)
-- [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187495)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
