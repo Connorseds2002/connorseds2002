@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SmartCopilot &amp; XPlane, ZIBO738, FF767 &lpar;Freighter and Pax&rpar;, SSG 748 &lpar;Freighter only&rpar;](https://forums.vatsim.net/topic/32880-smartcopilot-xplane-zibo738-ff767-freighter-and-pax-ssg-748-freighter-only/?do=findComment&comment=187500)
 - [[19th March, 12-16z] First Wings - City Triangle &lpar;VVNB-ZGGG-ZGKL&rpar;](https://forums.vatsim.net/topic/32917-19th-march-12-16z-first-wings-city-triangle-vvnb-zggg-zgkl/?do=findComment&comment=187499)
 - [Inactive accounts](https://forums.vatsim.net/topic/32916-inactive-accounts/?do=findComment&comment=187498)
 - [I cannot access the CTP booking URL](https://forums.vatsim.net/topic/32903-i-cannot-access-the-ctp-booking-url/?do=findComment&comment=187497)
@@ -64,7 +65,6 @@
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187493)
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187492)
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187491)
-- [Hold on…](https://forums.vatsim.net/topic/32910-hold-on%E2%80%A6/?do=findComment&comment=187490)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
