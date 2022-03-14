@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vpilot](https://forums.vatsim.net/topic/32915-vpilot/?do=findComment&comment=187496)
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187495)
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187494)
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=187493)
@@ -64,7 +65,6 @@
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=187489)
 - [Unable to download CSL model set in xpilot](https://forums.vatsim.net/topic/32914-unable-to-download-csl-model-set-in-xpilot/?do=findComment&comment=187488)
 - [Gabriel Dalio Bernardes steps down - VATBRZ DD](https://forums.vatsim.net/topic/32909-gabriel-dalio-bernardes-steps-down-vatbrz-dd/?do=findComment&comment=187487)
-- [The Coming &amp; Going Scramble into KORD &lpar;Sun,13 March&rpar;](https://forums.vatsim.net/topic/32892-the-coming-going-scramble-into-kord-sun13-march/?do=findComment&comment=187486)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
