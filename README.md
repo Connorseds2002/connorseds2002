@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=187517)
 - [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187516)
 - [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187515)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187514)
@@ -64,7 +65,6 @@
 - [[Mar 26] Canadian Xpress March 2022 Monthly Fly-In - March Break](https://forums.vatsim.net/topic/32919-mar-26-canadian-xpress-march-2022-monthly-fly-in-march-break/?do=findComment&comment=187510)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187509)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187508)
-- [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187507)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
