@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[Mar 26] Canadian Xpress March 2022 Monthly Fly-In - March Break](https://forums.vatsim.net/topic/32919-mar-26-canadian-xpress-march-2022-monthly-fly-in-march-break/?do=findComment&comment=187510)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187509)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187508)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187507)
@@ -64,7 +65,6 @@
 - [Unable to download CSL model set in xpilot](https://forums.vatsim.net/topic/32914-unable-to-download-csl-model-set-in-xpilot/?do=findComment&comment=187503)
 - [vpilot](https://forums.vatsim.net/topic/32915-vpilot/?do=findComment&comment=187502)
 - [Inactive accounts](https://forums.vatsim.net/topic/32916-inactive-accounts/?do=findComment&comment=187501)
-- [SmartCopilot &amp; XPlane, ZIBO738, FF767 &lpar;Freighter and Pax&rpar;, SSG 748 &lpar;Freighter only&rpar;](https://forums.vatsim.net/topic/32880-smartcopilot-xplane-zibo738-ff767-freighter-and-pax-ssg-748-freighter-only/?do=findComment&comment=187500)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
