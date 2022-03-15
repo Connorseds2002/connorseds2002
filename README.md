@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Town Hall Meeting 19MAR at 1900z](https://forums.vatsim.net/topic/32920-vatsim-town-hall-meeting-19mar-at-1900z/?do=findComment&comment=187512)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187511)
 - [[Mar 26] Canadian Xpress March 2022 Monthly Fly-In - March Break](https://forums.vatsim.net/topic/32919-mar-26-canadian-xpress-march-2022-monthly-fly-in-march-break/?do=findComment&comment=187510)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187509)
@@ -64,7 +65,6 @@
 - [Unable to download CSL model set in xpilot](https://forums.vatsim.net/topic/32914-unable-to-download-csl-model-set-in-xpilot/?do=findComment&comment=187505)
 - [Inactive accounts](https://forums.vatsim.net/topic/32916-inactive-accounts/?do=findComment&comment=187504)
 - [Unable to download CSL model set in xpilot](https://forums.vatsim.net/topic/32914-unable-to-download-csl-model-set-in-xpilot/?do=findComment&comment=187503)
-- [vpilot](https://forums.vatsim.net/topic/32915-vpilot/?do=findComment&comment=187502)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
