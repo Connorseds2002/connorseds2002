@@ -55,7 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [I can&#39;t bind a key to PTT](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt/?do=findComment&comment=187515)
+- [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187516)
+- [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187515)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187514)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187513)
 - [VATSIM Town Hall Meeting 19MAR at 1900z](https://forums.vatsim.net/topic/32920-vatsim-town-hall-meeting-19mar-at-1900z/?do=findComment&comment=187512)
@@ -64,7 +65,6 @@
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187509)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187508)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187507)
-- [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=187506)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
