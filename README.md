@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187514)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187513)
 - [VATSIM Town Hall Meeting 19MAR at 1900z](https://forums.vatsim.net/topic/32920-vatsim-town-hall-meeting-19mar-at-1900z/?do=findComment&comment=187512)
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187511)
@@ -64,7 +65,6 @@
 - [Parking/Gate available](https://forums.vatsim.net/topic/32918-parkinggate-available/?do=findComment&comment=187507)
 - [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=187506)
 - [Unable to download CSL model set in xpilot](https://forums.vatsim.net/topic/32914-unable-to-download-csl-model-set-in-xpilot/?do=findComment&comment=187505)
-- [Inactive accounts](https://forums.vatsim.net/topic/32916-inactive-accounts/?do=findComment&comment=187504)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
