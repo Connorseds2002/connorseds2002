@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187526)
 - [This ever happen to you?](https://forums.vatsim.net/topic/32922-this-ever-happen-to-you/?do=findComment&comment=187525)
 - [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187524)
 - [This ever happen to you?](https://forums.vatsim.net/topic/32922-this-ever-happen-to-you/?do=findComment&comment=187523)
@@ -64,7 +65,6 @@
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=187519)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187518)
 - [VATSIM Velocity](https://forums.vatsim.net/topic/32436-vatsim-velocity/?do=findComment&comment=187517)
-- [VATSpy crashes when loading FIR defined by certain Callsign Prefixes](https://forums.vatsim.net/topic/32809-vatspy-crashes-when-loading-fir-defined-by-certain-callsign-prefixes/?do=findComment&comment=187516)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
