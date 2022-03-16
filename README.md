@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My account is suspended, but how long?](https://forums.vatsim.net/topic/32925-my-account-is-suspended-but-how-long/?do=findComment&comment=187534)
 - [FSUIPC Custom Key Mapping](https://forums.vatsim.net/topic/32818-fsuipc-custom-key-mapping/?do=findComment&comment=187533)
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187532)
 - [FSD socket error](https://forums.vatsim.net/topic/32741-fsd-socket-error/?do=findComment&comment=187531)
@@ -64,7 +65,6 @@
 - [This ever happen to you?](https://forums.vatsim.net/topic/32922-this-ever-happen-to-you/?do=findComment&comment=187527)
 - [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187526)
 - [This ever happen to you?](https://forums.vatsim.net/topic/32922-this-ever-happen-to-you/?do=findComment&comment=187525)
-- [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187524)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
