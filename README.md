@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187530)
 - [[CURACAO] AIR TRAFFIC MANAGER VACANCY](https://forums.vatsim.net/topic/32924-curacao-air-traffic-manager-vacancy/?do=findComment&comment=187529)
 - [[VATCAR] [CURACAO] AIR TRAFFIC MANAGER VACANCY](https://forums.vatsim.net/topic/32923-vatcar-curacao-air-traffic-manager-vacancy/?do=findComment&comment=187528)
 - [This ever happen to you?](https://forums.vatsim.net/topic/32922-this-ever-happen-to-you/?do=findComment&comment=187527)
@@ -64,7 +65,6 @@
 - [This ever happen to you?](https://forums.vatsim.net/topic/32922-this-ever-happen-to-you/?do=findComment&comment=187523)
 - [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187522)
 - [Finding routes and flight numbers](https://forums.vatsim.net/topic/32863-finding-routes-and-flight-numbers/?do=findComment&comment=187521)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187520)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
