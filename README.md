@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187532)
 - [FSD socket error](https://forums.vatsim.net/topic/32741-fsd-socket-error/?do=findComment&comment=187531)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187530)
 - [[CURACAO] AIR TRAFFIC MANAGER VACANCY](https://forums.vatsim.net/topic/32924-curacao-air-traffic-manager-vacancy/?do=findComment&comment=187529)
@@ -64,7 +65,6 @@
 - [This ever happen to you?](https://forums.vatsim.net/topic/32922-this-ever-happen-to-you/?do=findComment&comment=187525)
 - [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187524)
 - [This ever happen to you?](https://forums.vatsim.net/topic/32922-this-ever-happen-to-you/?do=findComment&comment=187523)
-- [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187522)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
