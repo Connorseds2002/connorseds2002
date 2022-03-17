@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187553)
+- [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187552)
 - [Yet another xPilot CTD](https://forums.vatsim.net/topic/32927-yet-another-xpilot-ctd/?do=findComment&comment=187551)
 - [Yet another xPilot CTD](https://forums.vatsim.net/topic/32927-yet-another-xpilot-ctd/?do=findComment&comment=187550)
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187548)
@@ -63,8 +65,6 @@
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187545)
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187544)
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187543)
-- [3 DAY EVENT =&gt; YSSY- VHHH- RKSI- PANC  29/30/31MARCH ETD 1200Z](https://forums.vatsim.net/topic/32929-3-day-event-yssy-vhhh-rksi-panc-293031march-etd-1200z/?do=findComment&comment=187542)
-- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187541)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
