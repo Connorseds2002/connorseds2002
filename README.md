@@ -55,7 +55,6 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=187549)
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187548)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=187547)
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187546)
@@ -65,6 +64,7 @@
 - [3 DAY EVENT =&gt; YSSY- VHHH- RKSI- PANC  29/30/31MARCH ETD 1200Z](https://forums.vatsim.net/topic/32929-3-day-event-yssy-vhhh-rksi-panc-293031march-etd-1200z/?do=findComment&comment=187542)
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187541)
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187540)
+- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187539)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
