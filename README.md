@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187541)
+- [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187540)
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187539)
 - [Yet another xPilot CTD](https://forums.vatsim.net/topic/32927-yet-another-xpilot-ctd/?do=findComment&comment=187538)
 - [Yet another xPilot CTD](https://forums.vatsim.net/topic/32927-yet-another-xpilot-ctd/?do=findComment&comment=187537)
@@ -63,8 +65,6 @@
 - [FSUIPC Custom Key Mapping](https://forums.vatsim.net/topic/32818-fsuipc-custom-key-mapping/?do=findComment&comment=187533)
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187532)
 - [FSD socket error](https://forums.vatsim.net/topic/32741-fsd-socket-error/?do=findComment&comment=187531)
-- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187530)
-- [[CURACAO] AIR TRAFFIC MANAGER VACANCY](https://forums.vatsim.net/topic/32924-curacao-air-traffic-manager-vacancy/?do=findComment&comment=187529)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
