@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Low update rate after the Velocity update](https://forums.vatsim.net/topic/32931-low-update-rate-after-the-velocity-update/?do=findComment&comment=187559)
+- [Pilot cert training](https://forums.vatsim.net/topic/32930-pilot-cert-training/?do=findComment&comment=187558)
+- [Pilot cert training](https://forums.vatsim.net/topic/32930-pilot-cert-training/?do=findComment&comment=187557)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187556)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187555)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187554)
@@ -62,9 +65,6 @@
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187552)
 - [Yet another xPilot CTD](https://forums.vatsim.net/topic/32927-yet-another-xpilot-ctd/?do=findComment&comment=187551)
 - [Yet another xPilot CTD](https://forums.vatsim.net/topic/32927-yet-another-xpilot-ctd/?do=findComment&comment=187550)
-- [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187548)
-- [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=187547)
-- [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187546)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
