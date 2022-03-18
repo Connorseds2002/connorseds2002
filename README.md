@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Invalid client version ???](https://forums.vatsim.net/topic/32901-invalid-client-version/?do=findComment&comment=187565)
+- [Invalid client version ???](https://forums.vatsim.net/topic/32901-invalid-client-version/?do=findComment&comment=187564)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=187563)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=187562)
 - [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187561)
@@ -63,8 +65,6 @@
 - [Pilot cert training](https://forums.vatsim.net/topic/32930-pilot-cert-training/?do=findComment&comment=187558)
 - [Pilot cert training](https://forums.vatsim.net/topic/32930-pilot-cert-training/?do=findComment&comment=187557)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187556)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187555)
-- [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187554)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
