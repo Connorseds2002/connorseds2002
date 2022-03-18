@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187556)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187555)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187554)
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187553)
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187552)
@@ -63,8 +65,6 @@
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187548)
 - [Findings from testing r33](https://forums.vatsim.net/topic/32492-findings-from-testing-r33/?do=findComment&comment=187547)
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187546)
-- [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187545)
-- [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=187544)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
