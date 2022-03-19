@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot audio broken when in background](https://forums.vatsim.net/topic/32933-vpilot-audio-broken-when-in-background/?do=findComment&comment=187580)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=187579)
 - [Opportunity: VATSIM Membership Manager](https://forums.vatsim.net/topic/32937-opportunity-vatsim-membership-manager/?do=findComment&comment=187578)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=187577)
@@ -64,7 +65,6 @@
 - [Couldn&#39;t find active VATSIM connection error](https://forums.vatsim.net/topic/32934-couldnt-find-active-vatsim-connection-error/?do=findComment&comment=187572)
 - [Couldn&#39;t find active VATSIM connection error](https://forums.vatsim.net/topic/32934-couldnt-find-active-vatsim-connection-error/?do=findComment&comment=187571)
 - [Vpilot audio broken when in background](https://forums.vatsim.net/topic/32933-vpilot-audio-broken-when-in-background/?do=findComment&comment=187570)
-- [Vpilot audio broken when in background](https://forums.vatsim.net/topic/32933-vpilot-audio-broken-when-in-background/?do=findComment&comment=187569)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
