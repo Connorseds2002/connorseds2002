@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=187579)
+- [Opportunity: VATSIM Membership Manager](https://forums.vatsim.net/topic/32937-opportunity-vatsim-membership-manager/?do=findComment&comment=187578)
+- [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=187577)
 - [Using text as well as voice.](https://forums.vatsim.net/topic/32936-using-text-as-well-as-voice/?do=findComment&comment=187576)
-- [Suspended Account](https://forums.vatsim.net/topic/32935-suspended-account/?do=findComment&comment=187575)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187574)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187573)
 - [Couldn&#39;t find active VATSIM connection error](https://forums.vatsim.net/topic/32934-couldnt-find-active-vatsim-connection-error/?do=findComment&comment=187572)
 - [Couldn&#39;t find active VATSIM connection error](https://forums.vatsim.net/topic/32934-couldnt-find-active-vatsim-connection-error/?do=findComment&comment=187571)
 - [Vpilot audio broken when in background](https://forums.vatsim.net/topic/32933-vpilot-audio-broken-when-in-background/?do=findComment&comment=187570)
 - [Vpilot audio broken when in background](https://forums.vatsim.net/topic/32933-vpilot-audio-broken-when-in-background/?do=findComment&comment=187569)
-- [Invalid client version ???](https://forums.vatsim.net/topic/32901-invalid-client-version/?do=findComment&comment=187565)
-- [Invalid client version ???](https://forums.vatsim.net/topic/32901-invalid-client-version/?do=findComment&comment=187564)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
