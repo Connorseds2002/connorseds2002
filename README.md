@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot audio broken when in background](https://forums.vatsim.net/topic/32933-vpilot-audio-broken-when-in-background/?do=findComment&comment=187569)
 - [Account Suspension](https://forums.vatsim.net/topic/32932-account-suspension/?do=findComment&comment=187568)
 - [Account Suspension](https://forums.vatsim.net/topic/32932-account-suspension/?do=findComment&comment=187567)
 - [Account Suspension](https://forums.vatsim.net/topic/32932-account-suspension/?do=findComment&comment=187566)
@@ -64,7 +65,6 @@
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=187562)
 - [I can&#39;t bind a key to PTT &lpar;application hangs&rpar;](https://forums.vatsim.net/topic/32921-i-cant-bind-a-key-to-ptt-application-hangs/?do=findComment&comment=187561)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=187560)
-- [Low update rate after the Velocity update](https://forums.vatsim.net/topic/32931-low-update-rate-after-the-velocity-update/?do=findComment&comment=187559)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
