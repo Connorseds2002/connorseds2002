@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187573)
 - [Couldn&#39;t find active VATSIM connection error](https://forums.vatsim.net/topic/32934-couldnt-find-active-vatsim-connection-error/?do=findComment&comment=187572)
 - [Couldn&#39;t find active VATSIM connection error](https://forums.vatsim.net/topic/32934-couldnt-find-active-vatsim-connection-error/?do=findComment&comment=187571)
 - [Vpilot audio broken when in background](https://forums.vatsim.net/topic/32933-vpilot-audio-broken-when-in-background/?do=findComment&comment=187570)
@@ -64,7 +65,6 @@
 - [Account Suspension](https://forums.vatsim.net/topic/32932-account-suspension/?do=findComment&comment=187566)
 - [Invalid client version ???](https://forums.vatsim.net/topic/32901-invalid-client-version/?do=findComment&comment=187565)
 - [Invalid client version ???](https://forums.vatsim.net/topic/32901-invalid-client-version/?do=findComment&comment=187564)
-- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=187563)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
