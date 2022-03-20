@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187591)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187590)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187589)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187588)
 - [Vpilot Talking Issue](https://forums.vatsim.net/topic/28854-vpilot-talking-issue/?do=findComment&comment=187587)
@@ -63,8 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187584)
 - [Equipment Code](https://forums.vatsim.net/topic/28654-equipment-code/?do=findComment&comment=187583)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=187582)
-- [Using text as well as voice.](https://forums.vatsim.net/topic/32936-using-text-as-well-as-voice/?do=findComment&comment=187581)
-- [Vpilot audio broken when in background](https://forums.vatsim.net/topic/32933-vpilot-audio-broken-when-in-background/?do=findComment&comment=187580)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
