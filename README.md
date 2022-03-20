@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot Talking Issue](https://forums.vatsim.net/topic/28854-vpilot-talking-issue/?do=findComment&comment=187587)
 - [Couldn&#39;t find active VATSIM connection error](https://forums.vatsim.net/topic/32934-couldnt-find-active-vatsim-connection-error/?do=findComment&comment=187586)
 - [Couldn&#39;t find active VATSIM connection error](https://forums.vatsim.net/topic/32934-couldnt-find-active-vatsim-connection-error/?do=findComment&comment=187585)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187584)
@@ -64,7 +65,6 @@
 - [Vpilot audio broken when in background](https://forums.vatsim.net/topic/32933-vpilot-audio-broken-when-in-background/?do=findComment&comment=187580)
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=187579)
 - [Opportunity: VATSIM Membership Manager](https://forums.vatsim.net/topic/32937-opportunity-vatsim-membership-manager/?do=findComment&comment=187578)
-- [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=187577)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
