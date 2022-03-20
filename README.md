@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187589)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187588)
 - [Vpilot Talking Issue](https://forums.vatsim.net/topic/28854-vpilot-talking-issue/?do=findComment&comment=187587)
 - [Couldn&#39;t find active VATSIM connection error](https://forums.vatsim.net/topic/32934-couldnt-find-active-vatsim-connection-error/?do=findComment&comment=187586)
 - [Couldn&#39;t find active VATSIM connection error](https://forums.vatsim.net/topic/32934-couldnt-find-active-vatsim-connection-error/?do=findComment&comment=187585)
@@ -63,8 +65,6 @@
 - [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=187582)
 - [Using text as well as voice.](https://forums.vatsim.net/topic/32936-using-text-as-well-as-voice/?do=findComment&comment=187581)
 - [Vpilot audio broken when in background](https://forums.vatsim.net/topic/32933-vpilot-audio-broken-when-in-background/?do=findComment&comment=187580)
-- [new xpilot beta](https://forums.vatsim.net/topic/32746-new-xpilot-beta/?do=findComment&comment=187579)
-- [Opportunity: VATSIM Membership Manager](https://forums.vatsim.net/topic/32937-opportunity-vatsim-membership-manager/?do=findComment&comment=187578)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
