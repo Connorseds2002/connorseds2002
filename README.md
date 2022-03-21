@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Download Error: Host Requires Authentication??????](https://forums.vatsim.net/topic/32939-download-error-host-requires-authentication/?do=findComment&comment=187602)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187601)
 - [Download Error: Host Requires Authentication??????](https://forums.vatsim.net/topic/32939-download-error-host-requires-authentication/?do=findComment&comment=187600)
 - [Yet another xPilot CTD](https://forums.vatsim.net/topic/32927-yet-another-xpilot-ctd/?do=findComment&comment=187599)
@@ -64,7 +65,6 @@
 - [Model Matching Error](https://forums.vatsim.net/topic/32938-model-matching-error/?do=findComment&comment=187595)
 - [Model Matching Error](https://forums.vatsim.net/topic/32938-model-matching-error/?do=findComment&comment=187594)
 - [Model Matching Error](https://forums.vatsim.net/topic/32938-model-matching-error/?do=findComment&comment=187593)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187592)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
