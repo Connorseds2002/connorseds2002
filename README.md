@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187608)
+- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187607)
 - [Download Error: Host Requires Authentication??????](https://forums.vatsim.net/topic/32939-download-error-host-requires-authentication/?do=findComment&comment=187606)
 - [Swift Client: text mode communication issues with some US controllers](https://forums.vatsim.net/topic/32940-swift-client-text-mode-communication-issues-with-some-us-controllers/?do=findComment&comment=187605)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187604)
@@ -63,8 +65,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187601)
 - [Download Error: Host Requires Authentication??????](https://forums.vatsim.net/topic/32939-download-error-host-requires-authentication/?do=findComment&comment=187600)
 - [Yet another xPilot CTD](https://forums.vatsim.net/topic/32927-yet-another-xpilot-ctd/?do=findComment&comment=187599)
-- [Yet another xPilot CTD](https://forums.vatsim.net/topic/32927-yet-another-xpilot-ctd/?do=findComment&comment=187598)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187597)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
