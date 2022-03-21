@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Swift Client: text mode communication issues with some US controllers](https://forums.vatsim.net/topic/32940-swift-client-text-mode-communication-issues-with-some-us-controllers/?do=findComment&comment=187603)
 - [Download Error: Host Requires Authentication??????](https://forums.vatsim.net/topic/32939-download-error-host-requires-authentication/?do=findComment&comment=187602)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187601)
 - [Download Error: Host Requires Authentication??????](https://forums.vatsim.net/topic/32939-download-error-host-requires-authentication/?do=findComment&comment=187600)
@@ -64,7 +65,6 @@
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187596)
 - [Model Matching Error](https://forums.vatsim.net/topic/32938-model-matching-error/?do=findComment&comment=187595)
 - [Model Matching Error](https://forums.vatsim.net/topic/32938-model-matching-error/?do=findComment&comment=187594)
-- [Model Matching Error](https://forums.vatsim.net/topic/32938-model-matching-error/?do=findComment&comment=187593)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
