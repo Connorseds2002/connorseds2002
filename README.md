@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Datablock colours, wrong logic?](https://forums.vatsim.net/topic/31309-datablock-colours-wrong-logic/?do=findComment&comment=187615)
+- [Voice constant disconnect/re-connect plus a serious bug report](https://forums.vatsim.net/topic/32941-voice-constant-disconnectre-connect-plus-a-serious-bug-report/?do=findComment&comment=187614)
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187613)
 - [Voice constant disconnect/re-connect plus a serious bug report](https://forums.vatsim.net/topic/32941-voice-constant-disconnectre-connect-plus-a-serious-bug-report/?do=findComment&comment=187612)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187611)
@@ -63,8 +65,6 @@
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187608)
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187607)
 - [Download Error: Host Requires Authentication??????](https://forums.vatsim.net/topic/32939-download-error-host-requires-authentication/?do=findComment&comment=187606)
-- [Swift Client: text mode communication issues with some US controllers](https://forums.vatsim.net/topic/32940-swift-client-text-mode-communication-issues-with-some-us-controllers/?do=findComment&comment=187605)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187604)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
