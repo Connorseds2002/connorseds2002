@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187641)
+- [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187640)
+- [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187639)
+- [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187638)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187637)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187636)
 - [ATC/pilot How to communicate](https://forums.vatsim.net/topic/32874-atcpilot-how-to-communicate/?do=findComment&comment=187635)
 - [What is you favorite airliner](https://forums.vatsim.net/topic/32862-what-is-you-favorite-airliner/?do=findComment&comment=187634)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187633)
 - [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187632)
-- [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187631)
-- [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187630)
-- [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187629)
-- [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187628)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
