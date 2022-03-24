@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Deputy Events Director - VATWA8](https://forums.vatsim.net/topic/32947-vacancy-deputy-events-director-vatwa8/?do=findComment&comment=187659)
+- [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=187658)
+- [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=187657)
+- [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=187656)
 - [Xpilot Not Connecting](https://forums.vatsim.net/topic/32946-xpilot-not-connecting/?do=findComment&comment=187655)
 - [Accidentally changed to other region](https://forums.vatsim.net/topic/32944-accidentally-changed-to-other-region/?do=findComment&comment=187654)
 - [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=187653)
 - [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=187652)
 - [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187651)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187650)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187649)
-- [QuteScoop 2022 &lpar;VATSIM online status viewer Win/Linux/Mac&rpar;](https://forums.vatsim.net/topic/32751-qutescoop-2022-vatsim-online-status-viewer-winlinuxmac/?do=findComment&comment=187648)
-- [Reporting of Flight Incident](https://forums.vatsim.net/topic/32945-reporting-of-flight-incident/?do=findComment&comment=187647)
-- [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187646)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
