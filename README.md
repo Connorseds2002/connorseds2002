@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=187653)
 - [XPilot window resize](https://forums.vatsim.net/topic/32680-xpilot-window-resize/?do=findComment&comment=187652)
 - [Xpilot installation troubles](https://forums.vatsim.net/topic/32875-xpilot-installation-troubles/?do=findComment&comment=187651)
 - [One callsign should be banned](https://forums.vatsim.net/topic/32807-one-callsign-should-be-banned/?do=findComment&comment=187650)
@@ -64,7 +65,6 @@
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187646)
 - [Reporting of Flight Incident](https://forums.vatsim.net/topic/32945-reporting-of-flight-incident/?do=findComment&comment=187645)
 - [Accidentally changed to other region](https://forums.vatsim.net/topic/32944-accidentally-changed-to-other-region/?do=findComment&comment=187644)
-- [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187643)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
