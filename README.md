@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187702)
+- [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=187701)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187700)
 - [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=187699)
 - [Model/Rendering](https://forums.vatsim.net/topic/32954-modelrendering/?do=findComment&comment=187698)
@@ -63,8 +65,6 @@
 - [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187695)
 - [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187694)
 - [Retorno](https://forums.vatsim.net/topic/32953-retorno/?do=findComment&comment=187693)
-- [No voice on Flight Factor 767](https://forums.vatsim.net/topic/25263-no-voice-on-flight-factor-767/?do=findComment&comment=187692)
-- [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187691)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
