@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187689)
+- [Division Change](https://forums.vatsim.net/topic/32949-division-change/?do=findComment&comment=187688)
 - [Dynamic sectors within Euroscope](https://forums.vatsim.net/topic/32882-dynamic-sectors-within-euroscope/?do=findComment&comment=187687)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187686)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187685)
@@ -63,8 +65,6 @@
 - [Password](https://forums.vatsim.net/topic/32951-password/?do=findComment&comment=187682)
 - [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187681)
 - [Division Change](https://forums.vatsim.net/topic/32949-division-change/?do=findComment&comment=187680)
-- [Division Change](https://forums.vatsim.net/topic/32949-division-change/?do=findComment&comment=187679)
-- [Division Change](https://forums.vatsim.net/topic/32949-division-change/?do=findComment&comment=187678)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
