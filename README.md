@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187700)
+- [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=187699)
+- [Model/Rendering](https://forums.vatsim.net/topic/32954-modelrendering/?do=findComment&comment=187698)
 - [Retorno](https://forums.vatsim.net/topic/32953-retorno/?do=findComment&comment=187697)
 - [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=187696)
 - [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187695)
@@ -62,9 +65,6 @@
 - [Retorno](https://forums.vatsim.net/topic/32953-retorno/?do=findComment&comment=187693)
 - [No voice on Flight Factor 767](https://forums.vatsim.net/topic/25263-no-voice-on-flight-factor-767/?do=findComment&comment=187692)
 - [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187691)
-- [West Asia Division Official Discord Server](https://forums.vatsim.net/topic/32952-west-asia-division-official-discord-server/?do=findComment&comment=187690)
-- [Flying NON-RNAV &lpar;INS&rpar; aircraft on CTP &lpar;2022&rpar;](https://forums.vatsim.net/topic/32943-flying-non-rnav-ins-aircraft-on-ctp-2022/?do=findComment&comment=187689)
-- [Division Change](https://forums.vatsim.net/topic/32949-division-change/?do=findComment&comment=187688)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
