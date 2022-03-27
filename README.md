@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187726)
 - [Error connecting to voice server](https://forums.vatsim.net/topic/32959-error-connecting-to-voice-server/?do=findComment&comment=187725)
 - [Slot trade](https://forums.vatsim.net/topic/32958-slot-trade/?do=findComment&comment=187724)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187723)
@@ -64,7 +65,6 @@
 - [Vpilot x FSX](https://forums.vatsim.net/topic/32956-vpilot-x-fsx/?do=findComment&comment=187719)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187718)
 - [Model/Rendering](https://forums.vatsim.net/topic/32954-modelrendering/?do=findComment&comment=187717)
-- [[VACANCY] Director ATC Training - VATWA3](https://forums.vatsim.net/topic/32907-vacancy-director-atc-training-vatwa3/?do=findComment&comment=187716)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
