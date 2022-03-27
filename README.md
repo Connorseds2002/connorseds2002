@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sector file downloader cannot update plugins](https://forums.vatsim.net/topic/32957-sector-file-downloader-cannot-update-plugins/?do=findComment&comment=187720)
+- [Vpilot x FSX](https://forums.vatsim.net/topic/32956-vpilot-x-fsx/?do=findComment&comment=187719)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187718)
 - [Model/Rendering](https://forums.vatsim.net/topic/32954-modelrendering/?do=findComment&comment=187717)
 - [[VACANCY] Director ATC Training - VATWA3](https://forums.vatsim.net/topic/32907-vacancy-director-atc-training-vatwa3/?do=findComment&comment=187716)
@@ -63,8 +65,6 @@
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187713)
 - [Retorno](https://forums.vatsim.net/topic/32953-retorno/?do=findComment&comment=187712)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187711)
-- [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187710)
-- [Vatsim account is  linked to my old discord account](https://forums.vatsim.net/topic/32890-vatsim-account-is-linked-to-my-old-discord-account/?do=findComment&comment=187709)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
