@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187722)
+- [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187721)
 - [Sector file downloader cannot update plugins](https://forums.vatsim.net/topic/32957-sector-file-downloader-cannot-update-plugins/?do=findComment&comment=187720)
 - [Vpilot x FSX](https://forums.vatsim.net/topic/32956-vpilot-x-fsx/?do=findComment&comment=187719)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187718)
@@ -63,8 +65,6 @@
 - [letl Scenery Needed For FSX Please](https://forums.vatsim.net/topic/32955-letl-scenery-needed-for-fsx-please/?do=findComment&comment=187715)
 - [Model/Rendering](https://forums.vatsim.net/topic/32954-modelrendering/?do=findComment&comment=187714)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187713)
-- [Retorno](https://forums.vatsim.net/topic/32953-retorno/?do=findComment&comment=187712)
-- [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187711)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
