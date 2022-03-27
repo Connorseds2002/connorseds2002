@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [letl Scenery Needed For FSX Please](https://forums.vatsim.net/topic/32955-letl-scenery-needed-for-fsx-please/?do=findComment&comment=187715)
+- [Model/Rendering](https://forums.vatsim.net/topic/32954-modelrendering/?do=findComment&comment=187714)
+- [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187713)
 - [Retorno](https://forums.vatsim.net/topic/32953-retorno/?do=findComment&comment=187712)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187711)
 - [vPilot 3.2.1 released](https://forums.vatsim.net/topic/32868-vpilot-321-released/?do=findComment&comment=187710)
@@ -62,9 +65,6 @@
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187708)
 - [Retorno](https://forums.vatsim.net/topic/32953-retorno/?do=findComment&comment=187707)
 - [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=187706)
-- [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=187705)
-- [Retorno](https://forums.vatsim.net/topic/32953-retorno/?do=findComment&comment=187704)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187703)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
