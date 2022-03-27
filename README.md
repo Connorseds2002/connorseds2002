@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Director ATC Training - VATWA3](https://forums.vatsim.net/topic/32907-vacancy-director-atc-training-vatwa3/?do=findComment&comment=187716)
 - [letl Scenery Needed For FSX Please](https://forums.vatsim.net/topic/32955-letl-scenery-needed-for-fsx-please/?do=findComment&comment=187715)
 - [Model/Rendering](https://forums.vatsim.net/topic/32954-modelrendering/?do=findComment&comment=187714)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187713)
@@ -64,7 +65,6 @@
 - [Vatsim account is  linked to my old discord account](https://forums.vatsim.net/topic/32890-vatsim-account-is-linked-to-my-old-discord-account/?do=findComment&comment=187709)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187708)
 - [Retorno](https://forums.vatsim.net/topic/32953-retorno/?do=findComment&comment=187707)
-- [the plane is not detected in the simulator msfs2004](https://forums.vatsim.net/topic/32503-the-plane-is-not-detected-in-the-simulator-msfs2004/?do=findComment&comment=187706)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
