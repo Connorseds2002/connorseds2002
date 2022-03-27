@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Error connecting to voice server](https://forums.vatsim.net/topic/32959-error-connecting-to-voice-server/?do=findComment&comment=187725)
+- [Slot trade](https://forums.vatsim.net/topic/32958-slot-trade/?do=findComment&comment=187724)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187723)
 - [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187722)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187721)
@@ -63,8 +65,6 @@
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187718)
 - [Model/Rendering](https://forums.vatsim.net/topic/32954-modelrendering/?do=findComment&comment=187717)
 - [[VACANCY] Director ATC Training - VATWA3](https://forums.vatsim.net/topic/32907-vacancy-director-atc-training-vatwa3/?do=findComment&comment=187716)
-- [letl Scenery Needed For FSX Please](https://forums.vatsim.net/topic/32955-letl-scenery-needed-for-fsx-please/?do=findComment&comment=187715)
-- [Model/Rendering](https://forums.vatsim.net/topic/32954-modelrendering/?do=findComment&comment=187714)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
