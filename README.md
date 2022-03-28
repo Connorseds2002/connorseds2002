@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187731)
 - [[FSX/vPilot/AI Traffic] What is the best freeware AI Traffic for vPilot Model Matching in FSX?](https://forums.vatsim.net/topic/32961-fsxvpilotai-traffic-what-is-the-best-freeware-ai-traffic-for-vpilot-model-matching-in-fsx/?do=findComment&comment=187730)
 - [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187729)
 - [Slot trade](https://forums.vatsim.net/topic/32958-slot-trade/?do=findComment&comment=187728)
@@ -64,7 +65,6 @@
 - [Slot trade](https://forums.vatsim.net/topic/32958-slot-trade/?do=findComment&comment=187724)
 - [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187723)
 - [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187722)
-- [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187721)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
