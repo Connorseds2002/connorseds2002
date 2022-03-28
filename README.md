@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [API: HTTP server for getting traffic and controller info](https://forums.vatsim.net/topic/32963-api-http-server-for-getting-traffic-and-controller-info/?do=findComment&comment=187740)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187739)
 - [Sector file downloader cannot update plugins](https://forums.vatsim.net/topic/32957-sector-file-downloader-cannot-update-plugins/?do=findComment&comment=187738)
 - [Sector file downloader cannot update plugins](https://forums.vatsim.net/topic/32957-sector-file-downloader-cannot-update-plugins/?do=findComment&comment=187737)
 - [SimAware](https://forums.vatsim.net/topic/32962-simaware/?do=findComment&comment=187736)
@@ -63,8 +65,6 @@
 - [Accidentally changed to other region](https://forums.vatsim.net/topic/32944-accidentally-changed-to-other-region/?do=findComment&comment=187733)
 - [Vpilot x FSX](https://forums.vatsim.net/topic/32956-vpilot-x-fsx/?do=findComment&comment=187732)
 - [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187731)
-- [[FSX/vPilot/AI Traffic] What is the best freeware AI Traffic for vPilot Model Matching in FSX?](https://forums.vatsim.net/topic/32961-fsxvpilotai-traffic-what-is-the-best-freeware-ai-traffic-for-vpilot-model-matching-in-fsx/?do=findComment&comment=187730)
-- [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187729)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
