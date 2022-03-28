@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187743)
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187742)
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187741)
 - [API: HTTP server for getting traffic and controller info](https://forums.vatsim.net/topic/32963-api-http-server-for-getting-traffic-and-controller-info/?do=findComment&comment=187740)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187739)
 - [Sector file downloader cannot update plugins](https://forums.vatsim.net/topic/32957-sector-file-downloader-cannot-update-plugins/?do=findComment&comment=187738)
@@ -62,9 +65,6 @@
 - [SimAware](https://forums.vatsim.net/topic/32962-simaware/?do=findComment&comment=187736)
 - [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187735)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187734)
-- [Accidentally changed to other region](https://forums.vatsim.net/topic/32944-accidentally-changed-to-other-region/?do=findComment&comment=187733)
-- [Vpilot x FSX](https://forums.vatsim.net/topic/32956-vpilot-x-fsx/?do=findComment&comment=187732)
-- [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187731)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
