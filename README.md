@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187735)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187734)
+- [Accidentally changed to other region](https://forums.vatsim.net/topic/32944-accidentally-changed-to-other-region/?do=findComment&comment=187733)
+- [Vpilot x FSX](https://forums.vatsim.net/topic/32956-vpilot-x-fsx/?do=findComment&comment=187732)
 - [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187731)
 - [[FSX/vPilot/AI Traffic] What is the best freeware AI Traffic for vPilot Model Matching in FSX?](https://forums.vatsim.net/topic/32961-fsxvpilotai-traffic-what-is-the-best-freeware-ai-traffic-for-vpilot-model-matching-in-fsx/?do=findComment&comment=187730)
 - [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187729)
 - [Slot trade](https://forums.vatsim.net/topic/32958-slot-trade/?do=findComment&comment=187728)
 - [Free charts?](https://forums.vatsim.net/topic/27144-free-charts/?do=findComment&comment=187727)
 - [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187726)
-- [Error connecting to voice server](https://forums.vatsim.net/topic/32959-error-connecting-to-voice-server/?do=findComment&comment=187725)
-- [Slot trade](https://forums.vatsim.net/topic/32958-slot-trade/?do=findComment&comment=187724)
-- [Euroscope Tower View](https://forums.vatsim.net/topic/25665-euroscope-tower-view/?do=findComment&comment=187723)
-- [No audio](https://forums.vatsim.net/topic/32891-no-audio/?do=findComment&comment=187722)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
