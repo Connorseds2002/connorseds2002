@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sector file downloader cannot update plugins](https://forums.vatsim.net/topic/32957-sector-file-downloader-cannot-update-plugins/?do=findComment&comment=187758)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187757)
 - [SimAware](https://forums.vatsim.net/topic/32962-simaware/?do=findComment&comment=187756)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=187755)
@@ -64,7 +65,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187751)
 - [Mode C not working!](https://forums.vatsim.net/topic/32966-mode-c-not-working/?do=findComment&comment=187750)
 - [Mode C not working!](https://forums.vatsim.net/topic/32966-mode-c-not-working/?do=findComment&comment=187749)
-- [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187748)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
