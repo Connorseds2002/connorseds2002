@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPilot not connecting to the newtwork in MSFS2020](https://forums.vatsim.net/topic/32969-vpilot-not-connecting-to-the-newtwork-in-msfs2020/?do=findComment&comment=187765)
 - [Strange Landing Attitude on Dash 8 Traffic](https://forums.vatsim.net/topic/32967-strange-landing-attitude-on-dash-8-traffic/?do=findComment&comment=187764)
 - [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187763)
 - [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187762)
@@ -64,7 +65,6 @@
 - [Sector file downloader cannot update plugins](https://forums.vatsim.net/topic/32957-sector-file-downloader-cannot-update-plugins/?do=findComment&comment=187758)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187757)
 - [SimAware](https://forums.vatsim.net/topic/32962-simaware/?do=findComment&comment=187756)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=187755)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
