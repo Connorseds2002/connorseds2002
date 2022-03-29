@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SimAware](https://forums.vatsim.net/topic/32962-simaware/?do=findComment&comment=187756)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=187755)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187754)
 - [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187753)
 - [Strange Landing Attitude on Dash 8 Traffic](https://forums.vatsim.net/topic/32967-strange-landing-attitude-on-dash-8-traffic/?do=findComment&comment=187752)
@@ -63,8 +65,6 @@
 - [Mode C not working!](https://forums.vatsim.net/topic/32966-mode-c-not-working/?do=findComment&comment=187749)
 - [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187748)
 - [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187747)
-- [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187746)
-- [Authentication failed: user not found issue in connecting to VATSIM with MSFS 2020](https://forums.vatsim.net/topic/32964-authentication-failed-user-not-found-issue-in-connecting-to-vatsim-with-msfs-2020/?do=findComment&comment=187745)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
