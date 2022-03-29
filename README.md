@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Mode C not working!](https://forums.vatsim.net/topic/32966-mode-c-not-working/?do=findComment&comment=187749)
+- [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187748)
+- [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187747)
+- [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187746)
+- [Authentication failed: user not found issue in connecting to VATSIM with MSFS 2020](https://forums.vatsim.net/topic/32964-authentication-failed-user-not-found-issue-in-connecting-to-vatsim-with-msfs-2020/?do=findComment&comment=187745)
+- [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187744)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187743)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187742)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187741)
 - [API: HTTP server for getting traffic and controller info](https://forums.vatsim.net/topic/32963-api-http-server-for-getting-traffic-and-controller-info/?do=findComment&comment=187740)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187739)
-- [Sector file downloader cannot update plugins](https://forums.vatsim.net/topic/32957-sector-file-downloader-cannot-update-plugins/?do=findComment&comment=187738)
-- [Sector file downloader cannot update plugins](https://forums.vatsim.net/topic/32957-sector-file-downloader-cannot-update-plugins/?do=findComment&comment=187737)
-- [SimAware](https://forums.vatsim.net/topic/32962-simaware/?do=findComment&comment=187736)
-- [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187735)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187734)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
