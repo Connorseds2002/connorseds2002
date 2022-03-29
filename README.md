@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Going to Unicom](https://forums.vatsim.net/topic/32970-going-to-unicom/?do=findComment&comment=187768)
 - [Traffic Nametag using FS2020](https://forums.vatsim.net/topic/28989-traffic-nametag-using-fs2020/?do=findComment&comment=187767)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187766)
 - [VPilot not connecting to the newtwork in MSFS2020](https://forums.vatsim.net/topic/32969-vpilot-not-connecting-to-the-newtwork-in-msfs2020/?do=findComment&comment=187765)
@@ -64,7 +65,6 @@
 - [Which mfs2020 Airliner would you choose for the upcoming Cross the Pond?](https://forums.vatsim.net/topic/32968-which-mfs2020-airliner-would-you-choose-for-the-upcoming-cross-the-pond/?do=findComment&comment=187761)
 - [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187760)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187759)
-- [Sector file downloader cannot update plugins](https://forums.vatsim.net/topic/32957-sector-file-downloader-cannot-update-plugins/?do=findComment&comment=187758)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
