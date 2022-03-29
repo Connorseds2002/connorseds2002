@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Mode C not working!](https://forums.vatsim.net/topic/32966-mode-c-not-working/?do=findComment&comment=187750)
 - [Mode C not working!](https://forums.vatsim.net/topic/32966-mode-c-not-working/?do=findComment&comment=187749)
 - [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187748)
 - [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187747)
@@ -64,7 +65,6 @@
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187743)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187742)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187741)
-- [API: HTTP server for getting traffic and controller info](https://forums.vatsim.net/topic/32963-api-http-server-for-getting-traffic-and-controller-info/?do=findComment&comment=187740)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
