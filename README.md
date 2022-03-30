@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187785)
+- [[VATSSA] ACCRAC4 Operations Manager](https://forums.vatsim.net/topic/32974-vatssa-accrac4-operations-manager/?do=findComment&comment=187784)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187783)
 - [Problem to confirm for Cross the Pond Saturday](https://forums.vatsim.net/topic/32973-problem-to-confirm-for-cross-the-pond-saturday/?do=findComment&comment=187782)
 - [Strange Landing Attitude on Dash 8 Traffic](https://forums.vatsim.net/topic/32967-strange-landing-attitude-on-dash-8-traffic/?do=findComment&comment=187781)
@@ -63,8 +65,6 @@
 - [Going to Unicom](https://forums.vatsim.net/topic/32970-going-to-unicom/?do=findComment&comment=187778)
 - [ATIS](https://forums.vatsim.net/topic/32971-atis/?do=findComment&comment=187777)
 - [Which mfs2020 Airliner would you choose for the upcoming Cross the Pond?](https://forums.vatsim.net/topic/32968-which-mfs2020-airliner-would-you-choose-for-the-upcoming-cross-the-pond/?do=findComment&comment=187776)
-- [ATIS](https://forums.vatsim.net/topic/32971-atis/?do=findComment&comment=187775)
-- [VPilot not connecting to the newtwork in MSFS2020](https://forums.vatsim.net/topic/32969-vpilot-not-connecting-to-the-newtwork-in-msfs2020/?do=findComment&comment=187774)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
