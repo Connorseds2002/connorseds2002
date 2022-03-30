@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Strange Landing Attitude on Dash 8 Traffic](https://forums.vatsim.net/topic/32967-strange-landing-attitude-on-dash-8-traffic/?do=findComment&comment=187781)
 - [XPilot needing frequent updates &lpar;every time I launch it&rpar; and crashing XPlane 11 to the desktop.](https://forums.vatsim.net/topic/32865-xpilot-needing-frequent-updates-every-time-i-launch-it-and-crashing-xplane-11-to-the-desktop/?do=findComment&comment=187780)
 - [Import a Simbrief flight plan](https://forums.vatsim.net/topic/32911-import-a-simbrief-flight-plan/?do=findComment&comment=187779)
 - [Going to Unicom](https://forums.vatsim.net/topic/32970-going-to-unicom/?do=findComment&comment=187778)
@@ -64,7 +65,6 @@
 - [VPilot not connecting to the newtwork in MSFS2020](https://forums.vatsim.net/topic/32969-vpilot-not-connecting-to-the-newtwork-in-msfs2020/?do=findComment&comment=187774)
 - [Pilot cert training](https://forums.vatsim.net/topic/32930-pilot-cert-training/?do=findComment&comment=187773)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187772)
-- [ROCAF](https://forums.vatsim.net/topic/32972-rocaf/?do=findComment&comment=187771)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
