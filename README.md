@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187772)
+- [ROCAF](https://forums.vatsim.net/topic/32972-rocaf/?do=findComment&comment=187771)
+- [ATIS](https://forums.vatsim.net/topic/32971-atis/?do=findComment&comment=187770)
+- [SimAware](https://forums.vatsim.net/topic/32962-simaware/?do=findComment&comment=187769)
 - [Going to Unicom](https://forums.vatsim.net/topic/32970-going-to-unicom/?do=findComment&comment=187768)
 - [Traffic Nametag using FS2020](https://forums.vatsim.net/topic/28989-traffic-nametag-using-fs2020/?do=findComment&comment=187767)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187766)
 - [VPilot not connecting to the newtwork in MSFS2020](https://forums.vatsim.net/topic/32969-vpilot-not-connecting-to-the-newtwork-in-msfs2020/?do=findComment&comment=187765)
 - [Strange Landing Attitude on Dash 8 Traffic](https://forums.vatsim.net/topic/32967-strange-landing-attitude-on-dash-8-traffic/?do=findComment&comment=187764)
 - [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187763)
-- [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187762)
-- [Which mfs2020 Airliner would you choose for the upcoming Cross the Pond?](https://forums.vatsim.net/topic/32968-which-mfs2020-airliner-would-you-choose-for-the-upcoming-cross-the-pond/?do=findComment&comment=187761)
-- [Modern aircraft performance data for scenarios](https://forums.vatsim.net/topic/32960-modern-aircraft-performance-data-for-scenarios/?do=findComment&comment=187760)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=187759)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
