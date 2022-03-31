@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Non-Vatsim traffic??](https://forums.vatsim.net/topic/32977-non-vatsim-traffic/?do=findComment&comment=187797)
 - [Going to Unicom](https://forums.vatsim.net/topic/32970-going-to-unicom/?do=findComment&comment=187796)
 - [Non-Vatsim traffic??](https://forums.vatsim.net/topic/32977-non-vatsim-traffic/?do=findComment&comment=187795)
 - [ATIS](https://forums.vatsim.net/topic/32971-atis/?do=findComment&comment=187794)
@@ -64,7 +65,6 @@
 - [Logitech Radio panel stop working](https://forums.vatsim.net/topic/32976-logitech-radio-panel-stop-working/?do=findComment&comment=187790)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187789)
 - [Which mfs2020 Airliner would you choose for the upcoming Cross the Pond?](https://forums.vatsim.net/topic/32968-which-mfs2020-airliner-would-you-choose-for-the-upcoming-cross-the-pond/?do=findComment&comment=187788)
-- [Less Controllers in Asia?](https://forums.vatsim.net/topic/32975-less-controllers-in-asia/?do=findComment&comment=187787)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
