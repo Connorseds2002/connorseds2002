@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187799)
 - [FSX x SWIFT](https://forums.vatsim.net/topic/32978-fsx-x-swift/?do=findComment&comment=187798)
 - [Non-Vatsim traffic??](https://forums.vatsim.net/topic/32977-non-vatsim-traffic/?do=findComment&comment=187797)
 - [Going to Unicom](https://forums.vatsim.net/topic/32970-going-to-unicom/?do=findComment&comment=187796)
@@ -64,7 +65,6 @@
 - [Non-Vatsim traffic??](https://forums.vatsim.net/topic/32977-non-vatsim-traffic/?do=findComment&comment=187792)
 - [Non-Vatsim traffic??](https://forums.vatsim.net/topic/32977-non-vatsim-traffic/?do=findComment&comment=187791)
 - [Logitech Radio panel stop working](https://forums.vatsim.net/topic/32976-logitech-radio-panel-stop-working/?do=findComment&comment=187790)
-- [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187789)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
