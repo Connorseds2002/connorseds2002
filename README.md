@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=187826)
+- [Less Controllers in Asia?](https://forums.vatsim.net/topic/32975-less-controllers-in-asia/?do=findComment&comment=187825)
+- [NO ASIA ON VATSIM MAP](https://forums.vatsim.net/topic/32982-no-asia-on-vatsim-map/?do=findComment&comment=187824)
 - [Less Controllers in Asia?](https://forums.vatsim.net/topic/32975-less-controllers-in-asia/?do=findComment&comment=187823)
 - [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187822)
 - [747-400 Virgin Atlantic London - LasVegas Shared Cockpit](https://forums.vatsim.net/topic/32981-747-400-virgin-atlantic-london-lasvegas-shared-cockpit/?do=findComment&comment=187821)
@@ -62,9 +65,6 @@
 - [Less Controllers in Asia?](https://forums.vatsim.net/topic/32975-less-controllers-in-asia/?do=findComment&comment=187819)
 - [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187818)
 - [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187817)
-- [Non-Vatsim traffic??](https://forums.vatsim.net/topic/32977-non-vatsim-traffic/?do=findComment&comment=187816)
-- [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187815)
-- [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187814)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
