@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Non-Vatsim traffic??](https://forums.vatsim.net/topic/32977-non-vatsim-traffic/?do=findComment&comment=187791)
+- [Logitech Radio panel stop working](https://forums.vatsim.net/topic/32976-logitech-radio-panel-stop-working/?do=findComment&comment=187790)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187789)
 - [Which mfs2020 Airliner would you choose for the upcoming Cross the Pond?](https://forums.vatsim.net/topic/32968-which-mfs2020-airliner-would-you-choose-for-the-upcoming-cross-the-pond/?do=findComment&comment=187788)
 - [Less Controllers in Asia?](https://forums.vatsim.net/topic/32975-less-controllers-in-asia/?do=findComment&comment=187787)
@@ -63,8 +65,6 @@
 - [[VATSSA] ACCRAC4 Operations Manager](https://forums.vatsim.net/topic/32974-vatssa-accrac4-operations-manager/?do=findComment&comment=187784)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187783)
 - [Strange Landing Attitude on Dash 8 Traffic](https://forums.vatsim.net/topic/32967-strange-landing-attitude-on-dash-8-traffic/?do=findComment&comment=187781)
-- [XPilot needing frequent updates &lpar;every time I launch it&rpar; and crashing XPlane 11 to the desktop.](https://forums.vatsim.net/topic/32865-xpilot-needing-frequent-updates-every-time-i-launch-it-and-crashing-xplane-11-to-the-desktop/?do=findComment&comment=187780)
-- [Import a Simbrief flight plan](https://forums.vatsim.net/topic/32911-import-a-simbrief-flight-plan/?do=findComment&comment=187779)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
