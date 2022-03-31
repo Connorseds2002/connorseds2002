@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187814)
+- [Non-Vatsim traffic??](https://forums.vatsim.net/topic/32977-non-vatsim-traffic/?do=findComment&comment=187813)
+- [ATIS](https://forums.vatsim.net/topic/32971-atis/?do=findComment&comment=187812)
+- [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187811)
+- [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187810)
 - [Appointment VATBRZ Divisional Director](https://forums.vatsim.net/topic/32979-appointment-vatbrz-divisional-director/?do=findComment&comment=187809)
 - [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=187807)
 - [Appointment VATBRZ Divisional Director](https://forums.vatsim.net/topic/32979-appointment-vatbrz-divisional-director/?do=findComment&comment=187806)
 - [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=187805)
 - [Less Controllers in Asia?](https://forums.vatsim.net/topic/32975-less-controllers-in-asia/?do=findComment&comment=187804)
-- [A question about map.vatsim.net](https://forums.vatsim.net/topic/32750-a-question-about-mapvatsimnet/?do=findComment&comment=187803)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187802)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187801)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187800)
-- [Looking to trade CTP Dep/Arr Airports](https://forums.vatsim.net/topic/32965-looking-to-trade-ctp-deparr-airports/?do=findComment&comment=187799)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
