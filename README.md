@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187850)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187849)
 - [Vatsim Switzerland Basic Lesson](https://forums.vatsim.net/topic/32989-vatsim-switzerland-basic-lesson/?do=findComment&comment=187847)
 - [How to unbook Cross The pond booking](https://forums.vatsim.net/topic/32988-how-to-unbook-cross-the-pond-booking/?do=findComment&comment=187846)
@@ -64,7 +65,6 @@
 - [Can&#39;t connect to VPilot with MSFS  &quot;authentification failed: User not found&quot;](https://forums.vatsim.net/topic/32985-cant-connect-to-vpilot-with-msfs-authentification-failed-user-not-found/?do=findComment&comment=187842)
 - [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=187841)
 - [Help configuring Swift...](https://forums.vatsim.net/topic/32984-help-configuring-swift/?do=findComment&comment=187839)
-- [NO ASIA ON VATSIM MAP](https://forums.vatsim.net/topic/32982-no-asia-on-vatsim-map/?do=findComment&comment=187838)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
