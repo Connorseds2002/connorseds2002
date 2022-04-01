@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Finally transitioned to a Wineries 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-wineries-7-sim/?do=findComment&comment=187832)
 - [Can&#39;t connect to VPilot with MSFS  &quot;authentification failed: User not found&quot;](https://forums.vatsim.net/topic/32985-cant-connect-to-vpilot-with-msfs-authentification-failed-user-not-found/?do=findComment&comment=187831)
 - [Help configuring Swift...](https://forums.vatsim.net/topic/32984-help-configuring-swift/?do=findComment&comment=187830)
 - [Canadian Xpress April 2022 Monthly Challenge: National Parks VI - Cape Breton Highlands](https://forums.vatsim.net/topic/32983-canadian-xpress-april-2022-monthly-challenge-national-parks-vi-cape-breton-highlands/?do=findComment&comment=187829)
@@ -64,7 +65,6 @@
 - [Less Controllers in Asia?](https://forums.vatsim.net/topic/32975-less-controllers-in-asia/?do=findComment&comment=187825)
 - [NO ASIA ON VATSIM MAP](https://forums.vatsim.net/topic/32982-no-asia-on-vatsim-map/?do=findComment&comment=187824)
 - [Less Controllers in Asia?](https://forums.vatsim.net/topic/32975-less-controllers-in-asia/?do=findComment&comment=187823)
-- [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187822)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
