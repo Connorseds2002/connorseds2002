@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187844)
 - [Can&#39;t connect to VPilot with MSFS  &quot;authentification failed: User not found&quot;](https://forums.vatsim.net/topic/32985-cant-connect-to-vpilot-with-msfs-authentification-failed-user-not-found/?do=findComment&comment=187843)
 - [Can&#39;t connect to VPilot with MSFS  &quot;authentification failed: User not found&quot;](https://forums.vatsim.net/topic/32985-cant-connect-to-vpilot-with-msfs-authentification-failed-user-not-found/?do=findComment&comment=187842)
 - [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=187841)
@@ -64,7 +65,6 @@
 - [NO ASIA ON VATSIM MAP](https://forums.vatsim.net/topic/32982-no-asia-on-vatsim-map/?do=findComment&comment=187836)
 - [NO ASIA ON VATSIM MAP](https://forums.vatsim.net/topic/32982-no-asia-on-vatsim-map/?do=findComment&comment=187835)
 - [Can&#39;t connect to VPilot with MSFS  &quot;authentification failed: User not found&quot;](https://forums.vatsim.net/topic/32985-cant-connect-to-vpilot-with-msfs-authentification-failed-user-not-found/?do=findComment&comment=187834)
-- [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=187833)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
