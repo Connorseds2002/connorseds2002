@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187860)
 - [Vatsim Switzerland Basic Lesson](https://forums.vatsim.net/topic/32989-vatsim-switzerland-basic-lesson/?do=findComment&comment=187859)
 - [How to unbook Cross The pond booking](https://forums.vatsim.net/topic/32988-how-to-unbook-cross-the-pond-booking/?do=findComment&comment=187858)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187857)
@@ -64,7 +65,6 @@
 - [How to unbook Cross The pond booking](https://forums.vatsim.net/topic/32988-how-to-unbook-cross-the-pond-booking/?do=findComment&comment=187852)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187851)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187850)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187849)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
