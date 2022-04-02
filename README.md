@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187881)
 - [Xpilot COM1 volume goes to zero after frequency change. Bug?](https://forums.vatsim.net/topic/32994-xpilot-com1-volume-goes-to-zero-after-frequency-change-bug/?do=findComment&comment=187880)
 - [Never seen](https://forums.vatsim.net/topic/32996-never-seen/?do=findComment&comment=187879)
 - [Never seen](https://forums.vatsim.net/topic/32996-never-seen/?do=findComment&comment=187878)
@@ -64,7 +65,6 @@
 - [Sat April 2  no voice or responses to Flight Plan](https://forums.vatsim.net/topic/32993-sat-april-2-no-voice-or-responses-to-flight-plan/?do=findComment&comment=187874)
 - [Help configuring Swift...](https://forums.vatsim.net/topic/32984-help-configuring-swift/?do=findComment&comment=187873)
 - [Displaying SRW &lpar;The approach window&rpar; of vSMR automatically ?](https://forums.vatsim.net/topic/32732-displaying-srw-the-approach-window-of-vsmr-automatically/?do=findComment&comment=187872)
-- [NO ASIA ON VATSIM MAP](https://forums.vatsim.net/topic/32982-no-asia-on-vatsim-map/?do=findComment&comment=187871)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
