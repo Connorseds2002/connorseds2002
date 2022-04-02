@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Never seen](https://forums.vatsim.net/topic/32996-never-seen/?do=findComment&comment=187879)
+- [Never seen](https://forums.vatsim.net/topic/32996-never-seen/?do=findComment&comment=187878)
+- [[VATWA3] Director ATC Training Appointed](https://forums.vatsim.net/topic/32995-vatwa3-director-atc-training-appointed/?do=findComment&comment=187877)
 - [Xpilot COM1 volume goes to zero after frequency change. Bug?](https://forums.vatsim.net/topic/32994-xpilot-com1-volume-goes-to-zero-after-frequency-change-bug/?do=findComment&comment=187876)
 - [Vpilot does not connect and I keep getting Authentication failed](https://forums.vatsim.net/topic/32992-vpilot-does-not-connect-and-i-keep-getting-authentication-failed/?do=findComment&comment=187875)
 - [Sat April 2  no voice or responses to Flight Plan](https://forums.vatsim.net/topic/32993-sat-april-2-no-voice-or-responses-to-flight-plan/?do=findComment&comment=187874)
@@ -62,9 +65,6 @@
 - [Displaying SRW &lpar;The approach window&rpar; of vSMR automatically ?](https://forums.vatsim.net/topic/32732-displaying-srw-the-approach-window-of-vsmr-automatically/?do=findComment&comment=187872)
 - [NO ASIA ON VATSIM MAP](https://forums.vatsim.net/topic/32982-no-asia-on-vatsim-map/?do=findComment&comment=187871)
 - [FS2020 Oculus quest 2 Vpilot](https://forums.vatsim.net/topic/31926-fs2020-oculus-quest-2-vpilot/?do=findComment&comment=187870)
-- [Vpilot does not connect and I keep getting Authentication failed](https://forums.vatsim.net/topic/32992-vpilot-does-not-connect-and-i-keep-getting-authentication-failed/?do=findComment&comment=187869)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187868)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187867)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
