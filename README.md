@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [NO ASIA ON VATSIM MAP](https://forums.vatsim.net/topic/32982-no-asia-on-vatsim-map/?do=findComment&comment=187871)
+- [FS2020 Oculus quest 2 Vpilot](https://forums.vatsim.net/topic/31926-fs2020-oculus-quest-2-vpilot/?do=findComment&comment=187870)
 - [Vpilot does not connect and I keep getting Authentication failed](https://forums.vatsim.net/topic/32992-vpilot-does-not-connect-and-i-keep-getting-authentication-failed/?do=findComment&comment=187869)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187868)
 - [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187867)
@@ -63,8 +65,6 @@
 - [Vatsim Switzerland Basic Lesson](https://forums.vatsim.net/topic/32989-vatsim-switzerland-basic-lesson/?do=findComment&comment=187864)
 - [How to unbook Cross The pond booking](https://forums.vatsim.net/topic/32988-how-to-unbook-cross-the-pond-booking/?do=findComment&comment=187863)
 - [Less Controllers in Asia?](https://forums.vatsim.net/topic/32975-less-controllers-in-asia/?do=findComment&comment=187862)
-- [NO ASIA ON VATSIM MAP](https://forums.vatsim.net/topic/32982-no-asia-on-vatsim-map/?do=findComment&comment=187861)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187860)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
