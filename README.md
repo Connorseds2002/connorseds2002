@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187903)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187902)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=187901)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187900)
@@ -64,7 +65,6 @@
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187896)
 - [vPilot VMR checker website](https://forums.vatsim.net/topic/33001-vpilot-vmr-checker-website/?do=findComment&comment=187895)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=187894)
-- [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187893)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
