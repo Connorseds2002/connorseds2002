@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [no traffic on ND](https://forums.vatsim.net/topic/33003-no-traffic-on-nd/?do=findComment&comment=187899)
 - [[VACANCY] VATSIM Middle East &amp; North Africa Technical Director](https://forums.vatsim.net/topic/33002-vacancy-vatsim-middle-east-north-africa-technical-director/?do=findComment&comment=187898)
 - [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187897)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187896)
@@ -64,7 +65,6 @@
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=187892)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187891)
 - [Xpilot won&#39;t launch](https://forums.vatsim.net/topic/33000-xpilot-wont-launch/?do=findComment&comment=187890)
-- [Thanks for another great CTP](https://forums.vatsim.net/topic/32999-thanks-for-another-great-ctp/?do=findComment&comment=187889)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
