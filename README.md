@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187891)
+- [Xpilot won&#39;t launch](https://forums.vatsim.net/topic/33000-xpilot-wont-launch/?do=findComment&comment=187890)
 - [Thanks for another great CTP](https://forums.vatsim.net/topic/32999-thanks-for-another-great-ctp/?do=findComment&comment=187889)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187888)
 - [Never seen](https://forums.vatsim.net/topic/32996-never-seen/?do=findComment&comment=187887)
@@ -63,8 +65,6 @@
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187884)
 - [Vatsim!  WOW!  My best flight ever...](https://forums.vatsim.net/topic/32998-vatsim-wow-my-best-flight-ever/?do=findComment&comment=187883)
 - [Thanks and Appreciation!](https://forums.vatsim.net/topic/32997-thanks-and-appreciation/?do=findComment&comment=187882)
-- [[2nd April 2022] Cross the Pond Westbound - Discussion Thread](https://forums.vatsim.net/topic/32790-2nd-april-2022-cross-the-pond-westbound-discussion-thread/?do=findComment&comment=187881)
-- [Xpilot COM1 volume goes to zero after frequency change. Bug?](https://forums.vatsim.net/topic/32994-xpilot-com1-volume-goes-to-zero-after-frequency-change-bug/?do=findComment&comment=187880)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
