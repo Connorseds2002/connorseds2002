@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Never seen](https://forums.vatsim.net/topic/32996-never-seen/?do=findComment&comment=187887)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187886)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187885)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187884)
@@ -64,7 +65,6 @@
 - [Xpilot COM1 volume goes to zero after frequency change. Bug?](https://forums.vatsim.net/topic/32994-xpilot-com1-volume-goes-to-zero-after-frequency-change-bug/?do=findComment&comment=187880)
 - [Never seen](https://forums.vatsim.net/topic/32996-never-seen/?do=findComment&comment=187879)
 - [Never seen](https://forums.vatsim.net/topic/32996-never-seen/?do=findComment&comment=187878)
-- [[VATWA3] Director ATC Training Appointed](https://forums.vatsim.net/topic/32995-vatwa3-director-atc-training-appointed/?do=findComment&comment=187877)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
