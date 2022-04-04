@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Events Director - VATWA7](https://forums.vatsim.net/topic/33010-vacancy-events-director-vatwa7/?do=findComment&comment=187926)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187925)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187924)
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=187923)
@@ -64,7 +65,6 @@
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=187919)
 - [When Controllers Just Log On...](https://forums.vatsim.net/topic/22581-when-controllers-just-log-on/?do=findComment&comment=187918)
 - [Help configuring Swift...](https://forums.vatsim.net/topic/32984-help-configuring-swift/?do=findComment&comment=187917)
-- [no traffic on ND](https://forums.vatsim.net/topic/33003-no-traffic-on-nd/?do=findComment&comment=187916)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
