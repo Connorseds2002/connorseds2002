@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FS9 Not Starting Up](https://forums.vatsim.net/topic/33012-fs9-not-starting-up/?do=findComment&comment=187955)
+- [VATSIM And Float Planes?](https://forums.vatsim.net/topic/33014-vatsim-and-float-planes/?do=findComment&comment=187954)
 - [VATSIM And Float Planes?](https://forums.vatsim.net/topic/33014-vatsim-and-float-planes/?do=findComment&comment=187953)
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=187952)
 - [Flight plan problem on filing](https://forums.vatsim.net/topic/33013-flight-plan-problem-on-filing/?do=findComment&comment=187951)
@@ -63,8 +65,6 @@
 - [VATSIM And Float Planes?](https://forums.vatsim.net/topic/33014-vatsim-and-float-planes/?do=findComment&comment=187948)
 - [Flight plan problem on filing](https://forums.vatsim.net/topic/33013-flight-plan-problem-on-filing/?do=findComment&comment=187947)
 - [VATSIM And Float Planes?](https://forums.vatsim.net/topic/33014-vatsim-and-float-planes/?do=findComment&comment=187946)
-- [Flight plan problem on filing](https://forums.vatsim.net/topic/33013-flight-plan-problem-on-filing/?do=findComment&comment=187945)
-- [no traffic on ND](https://forums.vatsim.net/topic/33003-no-traffic-on-nd/?do=findComment&comment=187944)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
