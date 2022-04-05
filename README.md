@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FS9 Not Starting Up](https://forums.vatsim.net/topic/33012-fs9-not-starting-up/?do=findComment&comment=187939)
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=187938)
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=187937)
 - [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187936)
@@ -64,7 +65,6 @@
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=187932)
 - [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187931)
 - [no traffic on ND](https://forums.vatsim.net/topic/33003-no-traffic-on-nd/?do=findComment&comment=187930)
-- [New &lpar;FNO&rpar; event](https://forums.vatsim.net/topic/33011-new-fno-event/?do=findComment&comment=187929)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
