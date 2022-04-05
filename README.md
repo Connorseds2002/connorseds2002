@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=187938)
+- [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=187937)
+- [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187936)
 - [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187935)
 - [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187934)
 - [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187933)
@@ -62,9 +65,6 @@
 - [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187931)
 - [no traffic on ND](https://forums.vatsim.net/topic/33003-no-traffic-on-nd/?do=findComment&comment=187930)
 - [New &lpar;FNO&rpar; event](https://forums.vatsim.net/topic/33011-new-fno-event/?do=findComment&comment=187929)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=187928)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=187927)
-- [[VACANCY] Events Director - VATWA7](https://forums.vatsim.net/topic/33010-vacancy-events-director-vatwa7/?do=findComment&comment=187926)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
