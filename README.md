@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot for MFS2020 unable to contact ATC/no audio](https://forums.vatsim.net/topic/33021-vpilot-for-mfs2020-unable-to-contact-atcno-audio/?do=findComment&comment=187998)
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187997)
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187996)
 - [Discord Community hub problem](https://forums.vatsim.net/topic/33020-discord-community-hub-problem/?do=findComment&comment=187995)
@@ -64,7 +65,6 @@
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=187991)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=187990)
 - [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187989)
-- [Arrival slowing down too fast](https://forums.vatsim.net/topic/33018-arrival-slowing-down-too-fast/?do=findComment&comment=187988)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
