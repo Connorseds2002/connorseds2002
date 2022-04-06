@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187993)
+- [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187992)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=187991)
 - [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=187990)
 - [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187989)
@@ -63,8 +65,6 @@
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187986)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187985)
 - [VATSIM And Float Planes?](https://forums.vatsim.net/topic/33014-vatsim-and-float-planes/?do=findComment&comment=187984)
-- [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187983)
-- [New Sim Pilot Looking For Humans To Fly With](https://forums.vatsim.net/topic/30815-new-sim-pilot-looking-for-humans-to-fly-with/?do=findComment&comment=187982)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
