@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187976)
+- [How to add Topsky to Euroscope](https://forums.vatsim.net/topic/33016-how-to-add-topsky-to-euroscope/?do=findComment&comment=187975)
+- [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187974)
+- [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=187973)
+- [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187972)
 - [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187971)
 - [New &lpar;FNO&rpar; event](https://forums.vatsim.net/topic/33011-new-fno-event/?do=findComment&comment=187970)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187969)
 - [no traffic on ND](https://forums.vatsim.net/topic/33003-no-traffic-on-nd/?do=findComment&comment=187968)
 - [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187967)
-- [Ultimate traffic live compatibility](https://forums.vatsim.net/topic/19672-ultimate-traffic-live-compatibility/?do=findComment&comment=187966)
-- [Communicating between pilots in VATSIM](https://forums.vatsim.net/topic/32362-communicating-between-pilots-in-vatsim/?do=findComment&comment=187965)
-- [Help configuring Swift...](https://forums.vatsim.net/topic/32984-help-configuring-swift/?do=findComment&comment=187964)
-- [Communicating between pilots in VATSIM](https://forums.vatsim.net/topic/32362-communicating-between-pilots-in-vatsim/?do=findComment&comment=187963)
-- [Help configuring Swift...](https://forums.vatsim.net/topic/32984-help-configuring-swift/?do=findComment&comment=187962)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
