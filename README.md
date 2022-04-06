@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187987)
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187986)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187985)
 - [VATSIM And Float Planes?](https://forums.vatsim.net/topic/33014-vatsim-and-float-planes/?do=findComment&comment=187984)
 - [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=187983)
@@ -63,8 +65,6 @@
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187980)
 - [CLT &lpar;KCLT&rpar; Control Tower](https://forums.vatsim.net/topic/33017-clt-kclt-control-tower/?do=findComment&comment=187979)
 - [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187978)
-- [How to add Topsky to Euroscope](https://forums.vatsim.net/topic/33016-how-to-add-topsky-to-euroscope/?do=findComment&comment=187977)
-- [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187976)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
