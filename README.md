@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arrival slowing down too fast](https://forums.vatsim.net/topic/33018-arrival-slowing-down-too-fast/?do=findComment&comment=187988)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187987)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187986)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187985)
@@ -64,7 +65,6 @@
 - [Use of Ultimate Traffic Live as model matching for vPilot](https://forums.vatsim.net/topic/31245-use-of-ultimate-traffic-live-as-model-matching-for-vpilot/?do=findComment&comment=187981)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=187980)
 - [CLT &lpar;KCLT&rpar; Control Tower](https://forums.vatsim.net/topic/33017-clt-kclt-control-tower/?do=findComment&comment=187979)
-- [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187978)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
