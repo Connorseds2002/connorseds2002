@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [How to add Topsky to Euroscope](https://forums.vatsim.net/topic/33016-how-to-add-topsky-to-euroscope/?do=findComment&comment=187977)
 - [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187976)
 - [How to add Topsky to Euroscope](https://forums.vatsim.net/topic/33016-how-to-add-topsky-to-euroscope/?do=findComment&comment=187975)
 - [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187974)
@@ -64,7 +65,6 @@
 - [New &lpar;FNO&rpar; event](https://forums.vatsim.net/topic/33011-new-fno-event/?do=findComment&comment=187970)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=187969)
 - [no traffic on ND](https://forums.vatsim.net/topic/33003-no-traffic-on-nd/?do=findComment&comment=187968)
-- [Ability to See Other Aircraft on VATSIM](https://forums.vatsim.net/topic/33005-ability-to-see-other-aircraft-on-vatsim/?do=findComment&comment=187967)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
