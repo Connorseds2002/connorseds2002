@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=188001)
 - [Voicemeeter Issues with AFV](https://forums.vatsim.net/topic/32729-voicemeeter-issues-with-afv/?do=findComment&comment=188000)
 - [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=187999)
 - [vPilot for MFS2020 unable to contact ATC/no audio](https://forums.vatsim.net/topic/33021-vpilot-for-mfs2020-unable-to-contact-atcno-audio/?do=findComment&comment=187998)
@@ -64,7 +65,6 @@
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187994)
 - [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187993)
 - [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187992)
-- [P3D Screenshots](https://forums.vatsim.net/topic/31388-p3d-screenshots/?do=findComment&comment=187991)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
