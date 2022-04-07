@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=188003)
 - [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=188002)
 - [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=188001)
 - [Voicemeeter Issues with AFV](https://forums.vatsim.net/topic/32729-voicemeeter-issues-with-afv/?do=findComment&comment=188000)
@@ -64,7 +65,6 @@
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187996)
 - [Discord Community hub problem](https://forums.vatsim.net/topic/33020-discord-community-hub-problem/?do=findComment&comment=187995)
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187994)
-- [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=187993)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
