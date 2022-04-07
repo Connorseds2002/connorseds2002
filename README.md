@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sdk/ api](https://forums.vatsim.net/topic/33023-sdk-api/?do=findComment&comment=188006)
 - [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=188005)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188004)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=188003)
@@ -64,7 +65,6 @@
 - [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=187999)
 - [vPilot for MFS2020 unable to contact ATC/no audio](https://forums.vatsim.net/topic/33021-vpilot-for-mfs2020-unable-to-contact-atcno-audio/?do=findComment&comment=187998)
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187997)
-- [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187996)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
