@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188004)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=188003)
 - [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=188002)
 - [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=188001)
@@ -64,7 +65,6 @@
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187997)
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187996)
 - [Discord Community hub problem](https://forums.vatsim.net/topic/33020-discord-community-hub-problem/?do=findComment&comment=187995)
-- [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187994)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
