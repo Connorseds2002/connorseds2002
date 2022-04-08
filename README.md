@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Help configuring Swift...](https://forums.vatsim.net/topic/32984-help-configuring-swift/?do=findComment&comment=188008)
+- [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=188007)
 - [Sdk/ api](https://forums.vatsim.net/topic/33023-sdk-api/?do=findComment&comment=188006)
 - [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=188005)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188004)
@@ -63,8 +65,6 @@
 - [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=188001)
 - [Voicemeeter Issues with AFV](https://forums.vatsim.net/topic/32729-voicemeeter-issues-with-afv/?do=findComment&comment=188000)
 - [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=187999)
-- [vPilot for MFS2020 unable to contact ATC/no audio](https://forums.vatsim.net/topic/33021-vpilot-for-mfs2020-unable-to-contact-atcno-audio/?do=findComment&comment=187998)
-- [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=187997)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
