@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Discord Community hub problem](https://forums.vatsim.net/topic/33020-discord-community-hub-problem/?do=findComment&comment=188009)
 - [Help configuring Swift...](https://forums.vatsim.net/topic/32984-help-configuring-swift/?do=findComment&comment=188008)
 - [FS2004 Swift Wx](https://forums.vatsim.net/topic/33015-fs2004-swift-wx/?do=findComment&comment=188007)
 - [Sdk/ api](https://forums.vatsim.net/topic/33023-sdk-api/?do=findComment&comment=188006)
@@ -64,7 +65,6 @@
 - [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=188002)
 - [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=188001)
 - [Voicemeeter Issues with AFV](https://forums.vatsim.net/topic/32729-voicemeeter-issues-with-afv/?do=findComment&comment=188000)
-- [Transponder](https://forums.vatsim.net/topic/33022-transponder/?do=findComment&comment=187999)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
