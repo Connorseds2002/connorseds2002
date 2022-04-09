@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188018)
 - [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188017)
 - [[Apr 23] Canadian Xpress April 2022 Monthly Fly-In - Not the Largest](https://forums.vatsim.net/topic/33027-apr-23-canadian-xpress-april-2022-monthly-fly-in-not-the-largest/?do=findComment&comment=188016)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=188015)
@@ -64,7 +65,6 @@
 - [vPilot 3.3.0 Released](https://forums.vatsim.net/topic/33024-vpilot-330-released/?do=findComment&comment=188011)
 - [QuteScoop 2022 &lpar;VATSIM online status viewer Win/Linux/Mac&rpar;](https://forums.vatsim.net/topic/32751-qutescoop-2022-vatsim-online-status-viewer-winlinuxmac/?do=findComment&comment=188010)
 - [Discord Community hub problem](https://forums.vatsim.net/topic/33020-discord-community-hub-problem/?do=findComment&comment=188009)
-- [Help configuring Swift...](https://forums.vatsim.net/topic/32984-help-configuring-swift/?do=findComment&comment=188008)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
