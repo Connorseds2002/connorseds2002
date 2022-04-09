@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188030)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188029)
 - [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188028)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188027)
@@ -64,7 +65,6 @@
 - [Voice Server Error: Timout](https://forums.vatsim.net/topic/32773-voice-server-error-timout/?do=findComment&comment=188023)
 - [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188022)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188021)
-- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188020)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
