@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.3.0 Released](https://forums.vatsim.net/topic/33024-vpilot-330-released/?do=findComment&comment=188051)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188050)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188049)
 - [Kuwait vACC Establishment!](https://forums.vatsim.net/topic/28738-kuwait-vacc-establishment/?do=findComment&comment=188048)
@@ -64,7 +65,6 @@
 - [vPilot 3.3.0 Released](https://forums.vatsim.net/topic/33024-vpilot-330-released/?do=findComment&comment=188044)
 - [VAT-Spy](https://forums.vatsim.net/topic/24314-vat-spy/?do=findComment&comment=188043)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188042)
-- [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=188041)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
