@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy](https://forums.vatsim.net/topic/24314-vat-spy/?do=findComment&comment=188043)
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188042)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=188041)
 - [Parse URL strings](https://forums.vatsim.net/topic/32603-parse-url-strings/?do=findComment&comment=188040)
 - [Metric support](https://forums.vatsim.net/topic/33030-metric-support/?do=findComment&comment=188039)
@@ -63,8 +65,6 @@
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188036)
 - [Euroscope application font changed](https://forums.vatsim.net/topic/33029-euroscope-application-font-changed/?do=findComment&comment=188035)
 - [Euroscope application font changed](https://forums.vatsim.net/topic/33029-euroscope-application-font-changed/?do=findComment&comment=188034)
-- [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188033)
-- [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188032)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
