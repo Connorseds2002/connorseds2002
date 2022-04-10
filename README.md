@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope application font changed](https://forums.vatsim.net/topic/33029-euroscope-application-font-changed/?do=findComment&comment=188035)
 - [Euroscope application font changed](https://forums.vatsim.net/topic/33029-euroscope-application-font-changed/?do=findComment&comment=188034)
 - [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188033)
 - [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188032)
@@ -64,7 +65,6 @@
 - [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188028)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188027)
 - [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188026)
-- [Euroscope application font changed](https://forums.vatsim.net/topic/33029-euroscope-application-font-changed/?do=findComment&comment=188025)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
