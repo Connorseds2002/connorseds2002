@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=188041)
 - [Parse URL strings](https://forums.vatsim.net/topic/32603-parse-url-strings/?do=findComment&comment=188040)
 - [Metric support](https://forums.vatsim.net/topic/33030-metric-support/?do=findComment&comment=188039)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188038)
@@ -64,7 +65,6 @@
 - [Euroscope application font changed](https://forums.vatsim.net/topic/33029-euroscope-application-font-changed/?do=findComment&comment=188034)
 - [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188033)
 - [Default Model Not Recognized, Disconnecting from server. How do I fix this?](https://forums.vatsim.net/topic/33028-default-model-not-recognized-disconnecting-from-server-how-do-i-fix-this/?do=findComment&comment=188032)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188031)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
