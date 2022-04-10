@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188057)
+- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188056)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188055)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188054)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188053)
@@ -63,8 +65,6 @@
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188050)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188049)
 - [Kuwait vACC Establishment!](https://forums.vatsim.net/topic/28738-kuwait-vacc-establishment/?do=findComment&comment=188048)
-- [Canadian Xpress Caribbean Cruise Tour](https://forums.vatsim.net/topic/33031-canadian-xpress-caribbean-cruise-tour/?do=findComment&comment=188047)
-- [VAT-Spy](https://forums.vatsim.net/topic/24314-vat-spy/?do=findComment&comment=188045)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
