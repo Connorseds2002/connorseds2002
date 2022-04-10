@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Canadian Xpress Caribbean Cruise Tour](https://forums.vatsim.net/topic/33031-canadian-xpress-caribbean-cruise-tour/?do=findComment&comment=188047)
 - [VAT-Spy](https://forums.vatsim.net/topic/24314-vat-spy/?do=findComment&comment=188045)
 - [Lithuania VACC](https://forums.vatsim.net/topic/29747-lithuania-vacc/?do=findComment&comment=188046)
 - [vPilot 3.3.0 Released](https://forums.vatsim.net/topic/33024-vpilot-330-released/?do=findComment&comment=188044)
@@ -64,7 +65,6 @@
 - [Parse URL strings](https://forums.vatsim.net/topic/32603-parse-url-strings/?do=findComment&comment=188040)
 - [Metric support](https://forums.vatsim.net/topic/33030-metric-support/?do=findComment&comment=188039)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188038)
-- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188037)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
