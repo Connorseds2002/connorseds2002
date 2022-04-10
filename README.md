@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VAT-Spy](https://forums.vatsim.net/topic/24314-vat-spy/?do=findComment&comment=188045)
+- [Lithuania VACC](https://forums.vatsim.net/topic/29747-lithuania-vacc/?do=findComment&comment=188046)
+- [vPilot 3.3.0 Released](https://forums.vatsim.net/topic/33024-vpilot-330-released/?do=findComment&comment=188044)
 - [VAT-Spy](https://forums.vatsim.net/topic/24314-vat-spy/?do=findComment&comment=188043)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188042)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=188041)
@@ -62,9 +65,6 @@
 - [Metric support](https://forums.vatsim.net/topic/33030-metric-support/?do=findComment&comment=188039)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188038)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188037)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188036)
-- [Euroscope application font changed](https://forums.vatsim.net/topic/33029-euroscope-application-font-changed/?do=findComment&comment=188035)
-- [Euroscope application font changed](https://forums.vatsim.net/topic/33029-euroscope-application-font-changed/?do=findComment&comment=188034)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
