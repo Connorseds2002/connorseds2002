@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188073)
+- [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188072)
+- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188071)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188070)
 - [&lpar;ACCNPL2&rpar; Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/33035-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=188069)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188068)
@@ -62,9 +65,6 @@
 - [&lpar;ACCNPL2&rpar; Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/32413-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=188066)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188065)
 - [Re-Organized VA &#39;Pacific Northwest Virtual&#39; recruiting pilots today!](https://forums.vatsim.net/topic/33033-re-organized-va-pacific-northwest-virtual-recruiting-pilots-today/?do=findComment&comment=188064)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188063)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188062)
-- [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188061)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
