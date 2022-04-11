@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188061)
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188060)
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188059)
+- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188058)
 - [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188057)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188056)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188055)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188054)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188053)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188052)
-- [vPilot 3.3.0 Released](https://forums.vatsim.net/topic/33024-vpilot-330-released/?do=findComment&comment=188051)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188050)
-- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188049)
-- [Kuwait vACC Establishment!](https://forums.vatsim.net/topic/28738-kuwait-vacc-establishment/?do=findComment&comment=188048)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
