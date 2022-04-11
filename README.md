@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188062)
 - [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188061)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188060)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188059)
@@ -64,7 +65,6 @@
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188055)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188054)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188053)
-- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188052)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
