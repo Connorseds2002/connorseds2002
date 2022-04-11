@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188067)
 - [&lpar;ACCNPL2&rpar; Deputy Director Nepal vACC Vacancy](https://forums.vatsim.net/topic/32413-accnpl2-deputy-director-nepal-vacc-vacancy/?do=findComment&comment=188066)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188065)
 - [Re-Organized VA &#39;Pacific Northwest Virtual&#39; recruiting pilots today!](https://forums.vatsim.net/topic/33033-re-organized-va-pacific-northwest-virtual-recruiting-pilots-today/?do=findComment&comment=188064)
@@ -64,7 +65,6 @@
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188060)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188059)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188058)
-- [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188057)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
