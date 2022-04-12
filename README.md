@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188080)
+- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188079)
+- [Sector Files Location](https://forums.vatsim.net/topic/33038-sector-files-location/?do=findComment&comment=188078)
 - [Ninject and GeoVR issues launching AFV on Linux via Wine](https://forums.vatsim.net/topic/29843-ninject-and-geovr-issues-launching-afv-on-linux-via-wine/?do=findComment&comment=188077)
 - [[GUIDE] How to run EuroScope and the AudioForVatsim Standalone Client on Linux.](https://forums.vatsim.net/topic/33037-guide-how-to-run-euroscope-and-the-audioforvatsim-standalone-client-on-linux/?do=findComment&comment=188076)
 - [[GUIDE] How to run EuroScope and the AudioForVatsim Standalone Client on Linux.](https://forums.vatsim.net/topic/33037-guide-how-to-run-euroscope-and-the-audioforvatsim-standalone-client-on-linux/?do=findComment&comment=188075)
@@ -62,9 +65,6 @@
 - [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188073)
 - [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188072)
 - [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188071)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188070)
-- [&lpar;ACCNPL2&rpar; Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/33035-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=188069)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188068)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
