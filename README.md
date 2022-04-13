@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188105)
 - [Headset/Microphone](https://forums.vatsim.net/topic/33026-headsetmicrophone/?do=findComment&comment=188104)
 - [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188103)
 - [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=188102)
@@ -64,7 +65,6 @@
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188098)
 - [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188097)
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=188096)
-- [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=188095)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
