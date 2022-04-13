@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188098)
+- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188097)
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=188096)
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=188095)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188094)
@@ -63,8 +65,6 @@
 - [Is anyone using Swift with FS2004 on Windows 7 64 bit?](https://forums.vatsim.net/topic/33040-is-anyone-using-swift-with-fs2004-on-windows-7-64-bit/?do=findComment&comment=188091)
 - [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188090)
 - [Password](https://forums.vatsim.net/topic/32950-password/?do=findComment&comment=188089)
-- [Password](https://forums.vatsim.net/topic/32951-password/?do=findComment&comment=188088)
-- [&lpar;ACCNPL2&rpar; Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/33035-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=188087)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
