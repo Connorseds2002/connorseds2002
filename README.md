@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=188095)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188094)
 - [Headset/Microphone](https://forums.vatsim.net/topic/33026-headsetmicrophone/?do=findComment&comment=188093)
 - [CLT &lpar;KCLT&rpar; Control Tower](https://forums.vatsim.net/topic/33017-clt-kclt-control-tower/?do=findComment&comment=188092)
@@ -64,7 +65,6 @@
 - [Password](https://forums.vatsim.net/topic/32951-password/?do=findComment&comment=188088)
 - [&lpar;ACCNPL2&rpar; Deputy Director Nepal vACC Appointed](https://forums.vatsim.net/topic/33035-accnpl2-deputy-director-nepal-vacc-appointed/?do=findComment&comment=188087)
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=188086)
-- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188085)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
