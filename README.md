@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Headset/Microphone](https://forums.vatsim.net/topic/33026-headsetmicrophone/?do=findComment&comment=188093)
+- [CLT &lpar;KCLT&rpar; Control Tower](https://forums.vatsim.net/topic/33017-clt-kclt-control-tower/?do=findComment&comment=188092)
+- [Is anyone using Swift with FS2004 on Windows 7 64 bit?](https://forums.vatsim.net/topic/33040-is-anyone-using-swift-with-fs2004-on-windows-7-64-bit/?do=findComment&comment=188091)
 - [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188090)
 - [Password](https://forums.vatsim.net/topic/32950-password/?do=findComment&comment=188089)
 - [Password](https://forums.vatsim.net/topic/32951-password/?do=findComment&comment=188088)
@@ -62,9 +65,6 @@
 - [Can you still use FS9 aka FS2004 with Vatsim](https://forums.vatsim.net/topic/32928-can-you-still-use-fs9-aka-fs2004-with-vatsim/?do=findComment&comment=188086)
 - [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188085)
 - [Walker Air Transport - Freedom to Fly](https://forums.vatsim.net/topic/33039-walker-air-transport-freedom-to-fly/?do=findComment&comment=188084)
-- [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188083)
-- [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=188082)
-- [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188081)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
