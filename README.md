@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188103)
 - [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=188102)
 - [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188101)
 - [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188100)
@@ -64,7 +65,6 @@
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=188096)
 - [Tower View not working](https://forums.vatsim.net/topic/33019-tower-view-not-working/?do=findComment&comment=188095)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188094)
-- [Headset/Microphone](https://forums.vatsim.net/topic/33026-headsetmicrophone/?do=findComment&comment=188093)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
