@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P3Dv5.3 HF2 crashes when GSX am vatsim is connected](https://forums.vatsim.net/topic/33043-p3dv53-hf2-crashes-when-gsx-am-vatsim-is-connected/?do=findComment&comment=188123)
+- [P3Dv5.3 HF2 crashes when GSX am vatsim is connected](https://forums.vatsim.net/topic/33043-p3dv53-hf2-crashes-when-gsx-am-vatsim-is-connected/?do=findComment&comment=188122)
 - [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188121)
 - [xPilot on a twin-PC-operated Flight Simulator](https://forums.vatsim.net/topic/32873-xpilot-on-a-twin-pc-operated-flight-simulator/?do=findComment&comment=188120)
 - [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188119)
@@ -63,8 +65,6 @@
 - [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188116)
 - [XPilot Plugin menu hidden in Xplane 11.](https://forums.vatsim.net/topic/33042-xpilot-plugin-menu-hidden-in-xplane-11/?do=findComment&comment=188115)
 - [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188114)
-- [XPilot Plugin menu hidden in Xplane 11.](https://forums.vatsim.net/topic/33042-xpilot-plugin-menu-hidden-in-xplane-11/?do=findComment&comment=188113)
-- [Is anyone using Swift with FS2004 on Windows 7 64 bit?](https://forums.vatsim.net/topic/33040-is-anyone-using-swift-with-fs2004-on-windows-7-64-bit/?do=findComment&comment=188112)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
