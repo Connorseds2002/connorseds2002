@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [XPilot Plugin menu hidden in Xplane 11.](https://forums.vatsim.net/topic/33042-xpilot-plugin-menu-hidden-in-xplane-11/?do=findComment&comment=188113)
+- [Is anyone using Swift with FS2004 on Windows 7 64 bit?](https://forums.vatsim.net/topic/33040-is-anyone-using-swift-with-fs2004-on-windows-7-64-bit/?do=findComment&comment=188112)
+- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188111)
+- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188110)
 - [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188109)
 - [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188108)
 - [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188107)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188106)
 - [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188105)
 - [Headset/Microphone](https://forums.vatsim.net/topic/33026-headsetmicrophone/?do=findComment&comment=188104)
-- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188103)
-- [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=188102)
-- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188101)
-- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188100)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
