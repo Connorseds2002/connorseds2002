@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188116)
 - [XPilot Plugin menu hidden in Xplane 11.](https://forums.vatsim.net/topic/33042-xpilot-plugin-menu-hidden-in-xplane-11/?do=findComment&comment=188115)
 - [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188114)
 - [XPilot Plugin menu hidden in Xplane 11.](https://forums.vatsim.net/topic/33042-xpilot-plugin-menu-hidden-in-xplane-11/?do=findComment&comment=188113)
@@ -64,7 +65,6 @@
 - [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188109)
 - [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188108)
 - [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188107)
-- [Altitude](https://forums.vatsim.net/topic/31832-altitude/?do=findComment&comment=188106)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
