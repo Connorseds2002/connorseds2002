@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Walker Air Transport - Freedom to Fly](https://forums.vatsim.net/topic/33039-walker-air-transport-freedom-to-fly/?do=findComment&comment=188135)
+- [vPilot &quot;No supported Flight Simulators URGENT](https://forums.vatsim.net/topic/33046-vpilot-no-supported-flight-simulators-urgent/?do=findComment&comment=188134)
+- [vPilot &quot;No supported Flight Simulators&quot;](https://forums.vatsim.net/topic/28698-vpilot-no-supported-flight-simulators/?do=findComment&comment=188133)
 - [MSFS, cannot see SOME other pilots](https://forums.vatsim.net/topic/33045-msfs-cannot-see-some-other-pilots/?do=findComment&comment=188132)
 - [Is anyone using Swift with FS2004 on Windows 7 64 bit?](https://forums.vatsim.net/topic/33040-is-anyone-using-swift-with-fs2004-on-windows-7-64-bit/?do=findComment&comment=188131)
 - [Xpilot not working](https://forums.vatsim.net/topic/32902-xpilot-not-working/?do=findComment&comment=188130)
@@ -62,9 +65,6 @@
 - [Agenda: VATSIM Board of Governors Meeting 2022Q1 - 16 APR 2022](https://forums.vatsim.net/topic/33044-agenda-vatsim-board-of-governors-meeting-2022q1-16-apr-2022/?do=findComment&comment=188128)
 - [Is anyone using Swift with FS2004 on Windows 7 64 bit?](https://forums.vatsim.net/topic/33040-is-anyone-using-swift-with-fs2004-on-windows-7-64-bit/?do=findComment&comment=188127)
 - [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188126)
-- [Model matching problems.](https://forums.vatsim.net/topic/33041-model-matching-problems/?do=findComment&comment=188125)
-- [Walker Air Transport - Freedom to Fly](https://forums.vatsim.net/topic/33039-walker-air-transport-freedom-to-fly/?do=findComment&comment=188124)
-- [P3Dv5.3 HF2 crashes when GSX am vatsim is connected](https://forums.vatsim.net/topic/33043-p3dv53-hf2-crashes-when-gsx-am-vatsim-is-connected/?do=findComment&comment=188123)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
