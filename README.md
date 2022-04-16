@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot METAR Source](https://forums.vatsim.net/topic/32372-vpilot-metar-source/?do=findComment&comment=188149)
 - [I am new to Aviation in general but even more new to Vatsim and need help finding resources for atc communication](https://forums.vatsim.net/topic/33048-i-am-new-to-aviation-in-general-but-even-more-new-to-vatsim-and-need-help-finding-resources-for-atc-communication/?do=findComment&comment=188148)
 - [I am new to Aviation in general but even more new to Vatsim and need help finding resources for atc communication](https://forums.vatsim.net/topic/33048-i-am-new-to-aviation-in-general-but-even-more-new-to-vatsim-and-need-help-finding-resources-for-atc-communication/?do=findComment&comment=188147)
 - [Is anyone using Swift with FS2004 on Windows 7 64 bit?](https://forums.vatsim.net/topic/33040-is-anyone-using-swift-with-fs2004-on-windows-7-64-bit/?do=findComment&comment=188146)
@@ -64,7 +65,6 @@
 - [Is anyone using Swift with FS2004 on Windows 7 64 bit?](https://forums.vatsim.net/topic/33040-is-anyone-using-swift-with-fs2004-on-windows-7-64-bit/?do=findComment&comment=188142)
 - [Is anyone using Swift with FS2004 on Windows 7 64 bit?](https://forums.vatsim.net/topic/33040-is-anyone-using-swift-with-fs2004-on-windows-7-64-bit/?do=findComment&comment=188141)
 - [Is anyone using Swift with FS2004 on Windows 7 64 bit?](https://forums.vatsim.net/topic/33040-is-anyone-using-swift-with-fs2004-on-windows-7-64-bit/?do=findComment&comment=188140)
-- [You Think P3D, XP-11, and MS2020 Can Beat FSX?](https://forums.vatsim.net/topic/30494-you-think-p3d-xp-11-and-ms2020-can-beat-fsx/?do=findComment&comment=188139)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
