@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188159)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188158)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188157)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188156)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188155)
@@ -63,8 +65,6 @@
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188152)
 - [I am new to Aviation in general but even more new to Vatsim and need help finding resources for atc communication](https://forums.vatsim.net/topic/33048-i-am-new-to-aviation-in-general-but-even-more-new-to-vatsim-and-need-help-finding-resources-for-atc-communication/?do=findComment&comment=188151)
 - [Equipment suffix shows controller /U when I filed /A](https://forums.vatsim.net/topic/32870-equipment-suffix-shows-controller-u-when-i-filed-a/?do=findComment&comment=188150)
-- [vPilot METAR Source](https://forums.vatsim.net/topic/32372-vpilot-metar-source/?do=findComment&comment=188149)
-- [I am new to Aviation in general but even more new to Vatsim and need help finding resources for atc communication](https://forums.vatsim.net/topic/33048-i-am-new-to-aviation-in-general-but-even-more-new-to-vatsim-and-need-help-finding-resources-for-atc-communication/?do=findComment&comment=188148)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
