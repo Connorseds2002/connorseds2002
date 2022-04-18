@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188180)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188179)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=188178)
 - [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188177)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=188176)
@@ -63,8 +65,6 @@
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188173)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188172)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188171)
-- [Controller&#39;s Schedule](https://forums.vatsim.net/topic/33036-controllers-schedule/?do=findComment&comment=188170)
-- [Scenario Problem on Euroscope beta](https://forums.vatsim.net/topic/32908-scenario-problem-on-euroscope-beta/?do=findComment&comment=188169)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
