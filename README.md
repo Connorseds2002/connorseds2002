@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vat Spy Stopped working?](https://forums.vatsim.net/topic/33054-vat-spy-stopped-working/?do=findComment&comment=188189)
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188188)
 - [[Open] Visiting Application Intake Open!](https://forums.vatsim.net/topic/33053-open-visiting-application-intake-open/?do=findComment&comment=188187)
 - [Hoppin&#39; the North East - Guwahati &lpar;VEGT&rpar; to Kolkata &lpar;VECC&rpar; on April 29, 2022](https://forums.vatsim.net/topic/33052-hoppin-the-north-east-guwahati-vegt-to-kolkata-vecc-on-april-29-2022/?do=findComment&comment=188186)
@@ -64,7 +65,6 @@
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188182)
 - [Cannot hear any audio from vPilot](https://forums.vatsim.net/topic/33051-cannot-hear-any-audio-from-vpilot/?do=findComment&comment=188181)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188180)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188179)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
