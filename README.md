@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vat Spy Stopped working?](https://forums.vatsim.net/topic/33054-vat-spy-stopped-working/?do=findComment&comment=188192)
+- [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188191)
 - [FSX crash when connect to Vpilot](https://forums.vatsim.net/topic/33055-fsx-crash-when-connect-to-vpilot/?do=findComment&comment=188190)
 - [Vat Spy Stopped working?](https://forums.vatsim.net/topic/33054-vat-spy-stopped-working/?do=findComment&comment=188189)
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188188)
@@ -63,8 +65,6 @@
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188185)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188184)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188183)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188182)
-- [Cannot hear any audio from vPilot](https://forums.vatsim.net/topic/33051-cannot-hear-any-audio-from-vpilot/?do=findComment&comment=188181)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
