@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188211)
 - [vATIS V4 Question on saved composites](https://forums.vatsim.net/topic/33058-vatis-v4-question-on-saved-composites/?do=findComment&comment=188210)
 - [vATIS V4 Question on saved composites](https://forums.vatsim.net/topic/33058-vatis-v4-question-on-saved-composites/?do=findComment&comment=188209)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188208)
@@ -64,7 +65,6 @@
 - [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=188204)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=188203)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188202)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188201)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
