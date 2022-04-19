@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS v4 Now Available](https://forums.vatsim.net/topic/33056-vatis-v4-now-available/?do=findComment&comment=188194)
+- [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188193)
 - [Vat Spy Stopped working?](https://forums.vatsim.net/topic/33054-vat-spy-stopped-working/?do=findComment&comment=188192)
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188191)
 - [FSX crash when connect to Vpilot](https://forums.vatsim.net/topic/33055-fsx-crash-when-connect-to-vpilot/?do=findComment&comment=188190)
@@ -63,8 +65,6 @@
 - [[Open] Visiting Application Intake Open!](https://forums.vatsim.net/topic/33053-open-visiting-application-intake-open/?do=findComment&comment=188187)
 - [Hoppin&#39; the North East - Guwahati &lpar;VEGT&rpar; to Kolkata &lpar;VECC&rpar; on April 29, 2022](https://forums.vatsim.net/topic/33052-hoppin-the-north-east-guwahati-vegt-to-kolkata-vecc-on-april-29-2022/?do=findComment&comment=188186)
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188185)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188184)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188183)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
