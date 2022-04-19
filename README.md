@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=188204)
+- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=188203)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188202)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188201)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188200)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188199)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188198)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188197)
 - [Kuwait vACC Establishment!](https://forums.vatsim.net/topic/28738-kuwait-vacc-establishment/?do=findComment&comment=188196)
 - [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188195)
-- [vATIS v4 Now Available](https://forums.vatsim.net/topic/33056-vatis-v4-now-available/?do=findComment&comment=188194)
-- [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188193)
-- [Vat Spy Stopped working?](https://forums.vatsim.net/topic/33054-vat-spy-stopped-working/?do=findComment&comment=188192)
-- [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188191)
-- [FSX crash when connect to Vpilot](https://forums.vatsim.net/topic/33055-fsx-crash-when-connect-to-vpilot/?do=findComment&comment=188190)
-- [Vat Spy Stopped working?](https://forums.vatsim.net/topic/33054-vat-spy-stopped-working/?do=findComment&comment=188189)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
