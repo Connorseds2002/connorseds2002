@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS v4 - Incorrect frequency in text-ATIS](https://forums.vatsim.net/topic/33057-vatis-v4-incorrect-frequency-in-text-atis/?do=findComment&comment=188207)
+- [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188206)
+- [How to plan your flight for best VATSIM coverage](https://forums.vatsim.net/topic/33047-how-to-plan-your-flight-for-best-vatsim-coverage/?do=findComment&comment=188205)
 - [New to VATSIM and I always start a flight, get close to an airspace that has a controller and disconnect due to confidence issues](https://forums.vatsim.net/topic/32980-new-to-vatsim-and-i-always-start-a-flight-get-close-to-an-airspace-that-has-a-controller-and-disconnect-due-to-confidence-issues/?do=findComment&comment=188204)
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=188203)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188202)
@@ -62,9 +65,6 @@
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188200)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188199)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188198)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188197)
-- [Kuwait vACC Establishment!](https://forums.vatsim.net/topic/28738-kuwait-vacc-establishment/?do=findComment&comment=188196)
-- [P3D Towerview: traffic not moving](https://forums.vatsim.net/topic/33009-p3d-towerview-traffic-not-moving/?do=findComment&comment=188195)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
