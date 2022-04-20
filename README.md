@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188247)
+- [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=188246)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188245)
+- [Introducing ChartFox...](https://forums.vatsim.net/topic/23296-introducing-chartfox/?do=findComment&comment=188244)
 - [vATIS 4 Resolution issue](https://forums.vatsim.net/topic/33059-vatis-4-resolution-issue/?do=findComment&comment=188243)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188242)
 - [Cannot hear any audio from vPilot](https://forums.vatsim.net/topic/33051-cannot-hear-any-audio-from-vpilot/?do=findComment&comment=188241)
 - [Cannot hear any audio from vPilot](https://forums.vatsim.net/topic/33051-cannot-hear-any-audio-from-vpilot/?do=findComment&comment=188240)
 - [Sectorfiles in Euroscope V 3.2](https://forums.vatsim.net/topic/32605-sectorfiles-in-euroscope-v-32/?do=findComment&comment=188239)
 - [How to plan your flight for best VATSIM coverage](https://forums.vatsim.net/topic/33047-how-to-plan-your-flight-for-best-vatsim-coverage/?do=findComment&comment=188238)
-- [Introducing ChartFox...](https://forums.vatsim.net/topic/23296-introducing-chartfox/?do=findComment&comment=188237)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188236)
-- [How to plan your flight for best VATSIM coverage](https://forums.vatsim.net/topic/33047-how-to-plan-your-flight-for-best-vatsim-coverage/?do=findComment&comment=188235)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188234)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
