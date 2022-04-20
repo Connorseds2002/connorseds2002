@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Cannot hear any audio from vPilot](https://forums.vatsim.net/topic/33051-cannot-hear-any-audio-from-vpilot/?do=findComment&comment=188240)
+- [Sectorfiles in Euroscope V 3.2](https://forums.vatsim.net/topic/32605-sectorfiles-in-euroscope-v-32/?do=findComment&comment=188239)
+- [How to plan your flight for best VATSIM coverage](https://forums.vatsim.net/topic/33047-how-to-plan-your-flight-for-best-vatsim-coverage/?do=findComment&comment=188238)
 - [Introducing ChartFox...](https://forums.vatsim.net/topic/23296-introducing-chartfox/?do=findComment&comment=188237)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188236)
 - [How to plan your flight for best VATSIM coverage](https://forums.vatsim.net/topic/33047-how-to-plan-your-flight-for-best-vatsim-coverage/?do=findComment&comment=188235)
@@ -62,9 +65,6 @@
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188233)
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188232)
 - [vATIS 4 Suggestion: MiniWindow](https://forums.vatsim.net/topic/33064-vatis-4-suggestion-miniwindow/?do=findComment&comment=188231)
-- [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188230)
-- [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188229)
-- [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188228)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
