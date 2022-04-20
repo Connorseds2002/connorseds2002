@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188253)
+- [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188252)
 - [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188251)
 - [vATIS Suggestions](https://forums.vatsim.net/topic/33065-vatis-suggestions/?do=findComment&comment=188250)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188249)
@@ -63,8 +65,6 @@
 - [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=188246)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188245)
 - [Introducing ChartFox...](https://forums.vatsim.net/topic/23296-introducing-chartfox/?do=findComment&comment=188244)
-- [vATIS 4 Resolution issue](https://forums.vatsim.net/topic/33059-vatis-4-resolution-issue/?do=findComment&comment=188243)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188242)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
