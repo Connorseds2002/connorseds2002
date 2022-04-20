@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Introducing ChartFox...](https://forums.vatsim.net/topic/23296-introducing-chartfox/?do=findComment&comment=188237)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188236)
+- [How to plan your flight for best VATSIM coverage](https://forums.vatsim.net/topic/33047-how-to-plan-your-flight-for-best-vatsim-coverage/?do=findComment&comment=188235)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188234)
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188233)
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188232)
 - [vATIS 4 Suggestion: MiniWindow](https://forums.vatsim.net/topic/33064-vatis-4-suggestion-miniwindow/?do=findComment&comment=188231)
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188230)
 - [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188229)
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188228)
-- [Profile failed to load](https://forums.vatsim.net/topic/33061-profile-failed-to-load/?do=findComment&comment=188227)
-- [vATIS 4 Resolution issue](https://forums.vatsim.net/topic/33059-vatis-4-resolution-issue/?do=findComment&comment=188226)
-- [SimAware / map.vatsim.net : Missing airport &lpar;DTNH&rpar;](https://forums.vatsim.net/topic/33063-simaware-mapvatsimnet-missing-airport-dtnh/?do=findComment&comment=188225)
-- [ATIS](https://forums.vatsim.net/topic/33062-atis/?do=findComment&comment=188224)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
