@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188229)
+- [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188228)
+- [Profile failed to load](https://forums.vatsim.net/topic/33061-profile-failed-to-load/?do=findComment&comment=188227)
+- [vATIS 4 Resolution issue](https://forums.vatsim.net/topic/33059-vatis-4-resolution-issue/?do=findComment&comment=188226)
 - [SimAware / map.vatsim.net : Missing airport &lpar;DTNH&rpar;](https://forums.vatsim.net/topic/33063-simaware-mapvatsimnet-missing-airport-dtnh/?do=findComment&comment=188225)
 - [ATIS](https://forums.vatsim.net/topic/33062-atis/?do=findComment&comment=188224)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188223)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188222)
 - [QuteScoop 2022 &lpar;VATSIM online status viewer Win/Linux/Mac&rpar;](https://forums.vatsim.net/topic/32751-qutescoop-2022-vatsim-online-status-viewer-winlinuxmac/?do=findComment&comment=188221)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188220)
-- [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188219)
-- [vATIS 4 Resolution issue](https://forums.vatsim.net/topic/33059-vatis-4-resolution-issue/?do=findComment&comment=188218)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188217)
-- [Profile failed to load](https://forums.vatsim.net/topic/33061-profile-failed-to-load/?do=findComment&comment=188216)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
