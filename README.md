@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188222)
 - [QuteScoop 2022 &lpar;VATSIM online status viewer Win/Linux/Mac&rpar;](https://forums.vatsim.net/topic/32751-qutescoop-2022-vatsim-online-status-viewer-winlinuxmac/?do=findComment&comment=188221)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188220)
 - [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188219)
@@ -64,7 +65,6 @@
 - [vATIS 4 Resolution issue](https://forums.vatsim.net/topic/33059-vatis-4-resolution-issue/?do=findComment&comment=188215)
 - [vATIS Version 4.0 Beta and Multiple ATIS Trial Period.](https://forums.vatsim.net/topic/33060-vatis-version-40-beta-and-multiple-atis-trial-period/?do=findComment&comment=188214)
 - [vATIS 4 Resolution issue](https://forums.vatsim.net/topic/33059-vatis-4-resolution-issue/?do=findComment&comment=188213)
-- [[FUN] Share your funniest moments at VATSIM!](https://forums.vatsim.net/topic/629-fun-share-your-funniest-moments-at-vatsim/?do=findComment&comment=188212)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
