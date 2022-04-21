@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VPilot 3.3.0 issue with entering credentials](https://forums.vatsim.net/topic/33067-vpilot-330-issue-with-entering-credentials/?do=findComment&comment=188271)
+- [VPilot 3.3.0 issue with entering credentials](https://forums.vatsim.net/topic/33067-vpilot-330-issue-with-entering-credentials/?do=findComment&comment=188270)
 - [[May 28] Flight of the Concordes](https://forums.vatsim.net/topic/33068-may-28-flight-of-the-concordes/?do=findComment&comment=188269)
 - [VPilot 3.3.0 issue with entering credentials](https://forums.vatsim.net/topic/33067-vpilot-330-issue-with-entering-credentials/?do=findComment&comment=188268)
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188267)
@@ -63,8 +65,6 @@
 - [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188264)
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188263)
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188262)
-- [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188261)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188260)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
