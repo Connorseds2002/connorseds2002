@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188266)
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188265)
+- [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188264)
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188263)
 - [Windows XP not working with new AFV audio system](https://forums.vatsim.net/topic/25140-windows-xp-not-working-with-new-afv-audio-system/?do=findComment&comment=188262)
 - [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188261)
@@ -62,9 +65,6 @@
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188259)
 - [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188258)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188257)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188256)
-- [ATIS](https://forums.vatsim.net/topic/33062-atis/?do=findComment&comment=188255)
-- [ATIS](https://forums.vatsim.net/topic/33062-atis/?do=findComment&comment=188254)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
