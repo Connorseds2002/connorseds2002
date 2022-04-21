@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188260)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188259)
+- [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188258)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188257)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188256)
 - [ATIS](https://forums.vatsim.net/topic/33062-atis/?do=findComment&comment=188255)
@@ -62,9 +65,6 @@
 - [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188253)
 - [Headset query](https://forums.vatsim.net/topic/33032-headset-query/?do=findComment&comment=188252)
 - [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188251)
-- [vATIS Suggestions](https://forums.vatsim.net/topic/33065-vatis-suggestions/?do=findComment&comment=188250)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188249)
-- [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188248)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
