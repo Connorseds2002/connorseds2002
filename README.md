@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188287)
 - [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188286)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188285)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188284)
@@ -64,7 +65,6 @@
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188280)
 - [VPilot 3.3.0 issue with entering credentials](https://forums.vatsim.net/topic/33067-vpilot-330-issue-with-entering-credentials/?do=findComment&comment=188279)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188278)
-- [Sectorfiles in Euroscope V 3.2](https://forums.vatsim.net/topic/32605-sectorfiles-in-euroscope-v-32/?do=findComment&comment=188277)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
