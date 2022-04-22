@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188281)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188280)
 - [VPilot 3.3.0 issue with entering credentials](https://forums.vatsim.net/topic/33067-vpilot-330-issue-with-entering-credentials/?do=findComment&comment=188279)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188278)
 - [Sectorfiles in Euroscope V 3.2](https://forums.vatsim.net/topic/32605-sectorfiles-in-euroscope-v-32/?do=findComment&comment=188277)
@@ -63,8 +65,6 @@
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188274)
 - [ES running poorly on Windows 10](https://forums.vatsim.net/topic/27960-es-running-poorly-on-windows-10/?do=findComment&comment=188273)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188272)
-- [VPilot 3.3.0 issue with entering credentials](https://forums.vatsim.net/topic/33067-vpilot-330-issue-with-entering-credentials/?do=findComment&comment=188271)
-- [VPilot 3.3.0 issue with entering credentials](https://forums.vatsim.net/topic/33067-vpilot-330-issue-with-entering-credentials/?do=findComment&comment=188270)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
