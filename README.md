@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATIS frequency out of available range &lpar;vATIS 4&rpar;](https://forums.vatsim.net/topic/33071-atis-frequency-out-of-available-range-vatis-4/?do=findComment&comment=188290)
+- [Support for first flight/audio issues](https://forums.vatsim.net/topic/33070-support-for-first-flightaudio-issues/?do=findComment&comment=188289)
+- [Logging on as an observer / ATC training](https://forums.vatsim.net/topic/33069-logging-on-as-an-observer-atc-training/?do=findComment&comment=188288)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188287)
 - [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188286)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188285)
@@ -62,9 +65,6 @@
 - [Profile failed to load](https://forums.vatsim.net/topic/33061-profile-failed-to-load/?do=findComment&comment=188283)
 - [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188282)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188281)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188280)
-- [VPilot 3.3.0 issue with entering credentials](https://forums.vatsim.net/topic/33067-vpilot-330-issue-with-entering-credentials/?do=findComment&comment=188279)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188278)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
