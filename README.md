@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Logging on as an observer / ATC training](https://forums.vatsim.net/topic/33069-logging-on-as-an-observer-atc-training/?do=findComment&comment=188292)
 - [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188291)
 - [ATIS frequency out of available range &lpar;vATIS 4&rpar;](https://forums.vatsim.net/topic/33071-atis-frequency-out-of-available-range-vatis-4/?do=findComment&comment=188290)
 - [Support for first flight/audio issues](https://forums.vatsim.net/topic/33070-support-for-first-flightaudio-issues/?do=findComment&comment=188289)
@@ -64,7 +65,6 @@
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188285)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188284)
 - [Profile failed to load](https://forums.vatsim.net/topic/33061-profile-failed-to-load/?do=findComment&comment=188283)
-- [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188282)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
