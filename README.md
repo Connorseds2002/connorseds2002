@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188295)
+- [Logging on as an observer / ATC training](https://forums.vatsim.net/topic/33069-logging-on-as-an-observer-atc-training/?do=findComment&comment=188294)
+- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188293)
 - [Logging on as an observer / ATC training](https://forums.vatsim.net/topic/33069-logging-on-as-an-observer-atc-training/?do=findComment&comment=188292)
 - [map.vatsim](https://forums.vatsim.net/topic/33050-mapvatsim/?do=findComment&comment=188291)
 - [ATIS frequency out of available range &lpar;vATIS 4&rpar;](https://forums.vatsim.net/topic/33071-atis-frequency-out-of-available-range-vatis-4/?do=findComment&comment=188290)
@@ -62,9 +65,6 @@
 - [Logging on as an observer / ATC training](https://forums.vatsim.net/topic/33069-logging-on-as-an-observer-atc-training/?do=findComment&comment=188288)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188287)
 - [ATC Cancelling Clearances](https://forums.vatsim.net/topic/33066-atc-cancelling-clearances/?do=findComment&comment=188286)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188285)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188284)
-- [Profile failed to load](https://forums.vatsim.net/topic/33061-profile-failed-to-load/?do=findComment&comment=188283)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
