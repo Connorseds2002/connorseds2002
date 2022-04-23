@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188304)
+- [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=188303)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188302)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188301)
 - [ATIS frequency out of available range &lpar;vATIS 4&rpar;](https://forums.vatsim.net/topic/33071-atis-frequency-out-of-available-range-vatis-4/?do=findComment&comment=188300)
@@ -63,8 +65,6 @@
 - [ATIS frequency out of available range &lpar;vATIS 4&rpar;](https://forums.vatsim.net/topic/33071-atis-frequency-out-of-available-range-vatis-4/?do=findComment&comment=188297)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188296)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188295)
-- [Logging on as an observer / ATC training](https://forums.vatsim.net/topic/33069-logging-on-as-an-observer-atc-training/?do=findComment&comment=188294)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188293)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
