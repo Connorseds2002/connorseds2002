@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Razr Black Shark V2 Pro &lpar;how do I test audio?&rpar;](https://forums.vatsim.net/topic/33078-razr-black-shark-v2-pro-how-do-i-test-audio/?do=findComment&comment=188320)
 - [new member orientation](https://forums.vatsim.net/topic/33077-new-member-orientation/?do=findComment&comment=188319)
 - [Discord link problem](https://forums.vatsim.net/topic/33076-discord-link-problem/?do=findComment&comment=188318)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188317)
@@ -64,7 +65,6 @@
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188313)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188312)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188311)
-- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188310)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
