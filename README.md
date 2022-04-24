@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ES running poorly on Windows 10](https://forums.vatsim.net/topic/27960-es-running-poorly-on-windows-10/?do=findComment&comment=188314)
+- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188313)
+- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188312)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188311)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188310)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188309)
@@ -62,9 +65,6 @@
 - [[CLOSED] Morocco vACC Director](https://forums.vatsim.net/topic/30064-closed-morocco-vacc-director/?do=findComment&comment=188307)
 - [Admin Priveliges Needed?](https://forums.vatsim.net/topic/33074-admin-priveliges-needed/?do=findComment&comment=188306)
 - [Simconnect Error: ILLEGAL_OPPERATION 25](https://forums.vatsim.net/topic/33073-simconnect-error-illegal_opperation-25/?do=findComment&comment=188305)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188304)
-- [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=188303)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188302)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
