@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Discord link problem](https://forums.vatsim.net/topic/33076-discord-link-problem/?do=findComment&comment=188318)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188317)
 - [Appointment of Divisional Technical Director](https://forums.vatsim.net/topic/33075-appointment-of-divisional-technical-director/?do=findComment&comment=188316)
 - [World of AI package downloader](https://forums.vatsim.net/topic/17296-world-of-ai-package-downloader/?do=findComment&comment=188315)
@@ -64,7 +65,6 @@
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188311)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188310)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188309)
-- [[CLOSED] Morocco vACC Director](https://forums.vatsim.net/topic/30064-closed-morocco-vacc-director/?do=findComment&comment=188307)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
