@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188311)
+- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188310)
+- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188309)
 - [[CLOSED] VATSIM Middle East &amp; North Africa Technical Director](https://forums.vatsim.net/topic/33002-closed-vatsim-middle-east-north-africa-technical-director/?do=findComment&comment=188308)
 - [[CLOSED] Morocco vACC Director](https://forums.vatsim.net/topic/30064-closed-morocco-vacc-director/?do=findComment&comment=188307)
 - [Admin Priveliges Needed?](https://forums.vatsim.net/topic/33074-admin-priveliges-needed/?do=findComment&comment=188306)
@@ -62,9 +65,6 @@
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188304)
 - [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=188303)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188302)
-- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188301)
-- [ATIS frequency out of available range &lpar;vATIS 4&rpar;](https://forums.vatsim.net/topic/33071-atis-frequency-out-of-available-range-vatis-4/?do=findComment&comment=188300)
-- [ATIS frequency out of available range &lpar;vATIS 4&rpar;](https://forums.vatsim.net/topic/33071-atis-frequency-out-of-available-range-vatis-4/?do=findComment&comment=188299)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
