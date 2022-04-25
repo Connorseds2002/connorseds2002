@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot does not connect and I keep getting Authentication failed](https://forums.vatsim.net/topic/32992-vpilot-does-not-connect-and-i-keep-getting-authentication-failed/?do=findComment&comment=188346)
+- [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=188345)
+- [How to plan your flight for best VATSIM coverage](https://forums.vatsim.net/topic/33047-how-to-plan-your-flight-for-best-vatsim-coverage/?do=findComment&comment=188344)
 - [Controlled airspace - how to know](https://forums.vatsim.net/topic/33081-controlled-airspace-how-to-know/?do=findComment&comment=188343)
 - [Controlled airspace - how to know](https://forums.vatsim.net/topic/33081-controlled-airspace-how-to-know/?do=findComment&comment=188342)
 - [Controlled airspace - how to know](https://forums.vatsim.net/topic/33081-controlled-airspace-how-to-know/?do=findComment&comment=188341)
@@ -62,9 +65,6 @@
 - [Audio For Vatsim not launching](https://forums.vatsim.net/topic/30770-audio-for-vatsim-not-launching/?do=findComment&comment=188339)
 - [OnFunctionCall called twice when using the OpenPopupEdit function](https://forums.vatsim.net/topic/31542-onfunctioncall-called-twice-when-using-the-openpopupedit-function/?do=findComment&comment=188338)
 - [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188337)
-- [Controlled airspace - how to know](https://forums.vatsim.net/topic/33081-controlled-airspace-how-to-know/?do=findComment&comment=188336)
-- [Razr Black Shark V2 Pro &lpar;how do I test audio?&rpar;](https://forums.vatsim.net/topic/33078-razr-black-shark-v2-pro-how-do-i-test-audio/?do=findComment&comment=188335)
-- [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188334)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
