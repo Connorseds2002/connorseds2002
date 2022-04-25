@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Controlled airspace - how to know](https://forums.vatsim.net/topic/33081-controlled-airspace-how-to-know/?do=findComment&comment=188340)
+- [Audio For Vatsim not launching](https://forums.vatsim.net/topic/30770-audio-for-vatsim-not-launching/?do=findComment&comment=188339)
 - [OnFunctionCall called twice when using the OpenPopupEdit function](https://forums.vatsim.net/topic/31542-onfunctioncall-called-twice-when-using-the-openpopupedit-function/?do=findComment&comment=188338)
 - [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188337)
 - [Controlled airspace - how to know](https://forums.vatsim.net/topic/33081-controlled-airspace-how-to-know/?do=findComment&comment=188336)
@@ -63,8 +65,6 @@
 - [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188333)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188332)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188331)
-- [new member orientation](https://forums.vatsim.net/topic/33077-new-member-orientation/?do=findComment&comment=188330)
-- [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188329)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
