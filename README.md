@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188332)
+- [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188331)
 - [new member orientation](https://forums.vatsim.net/topic/33077-new-member-orientation/?do=findComment&comment=188330)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188329)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188328)
@@ -63,8 +65,6 @@
 - [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188325)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188324)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188323)
-- [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188322)
-- [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188321)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
