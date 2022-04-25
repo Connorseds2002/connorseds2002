@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188323)
+- [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188322)
+- [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188321)
 - [Razr Black Shark V2 Pro &lpar;how do I test audio?&rpar;](https://forums.vatsim.net/topic/33078-razr-black-shark-v2-pro-how-do-i-test-audio/?do=findComment&comment=188320)
 - [new member orientation](https://forums.vatsim.net/topic/33077-new-member-orientation/?do=findComment&comment=188319)
 - [Discord link problem](https://forums.vatsim.net/topic/33076-discord-link-problem/?do=findComment&comment=188318)
@@ -62,9 +65,6 @@
 - [Appointment of Divisional Technical Director](https://forums.vatsim.net/topic/33075-appointment-of-divisional-technical-director/?do=findComment&comment=188316)
 - [World of AI package downloader](https://forums.vatsim.net/topic/17296-world-of-ai-package-downloader/?do=findComment&comment=188315)
 - [ES running poorly on Windows 10](https://forums.vatsim.net/topic/27960-es-running-poorly-on-windows-10/?do=findComment&comment=188314)
-- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188313)
-- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188312)
-- [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188311)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
