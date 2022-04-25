@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188325)
+- [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188324)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188323)
 - [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188322)
 - [Error](https://forums.vatsim.net/topic/33079-error/?do=findComment&comment=188321)
@@ -63,8 +65,6 @@
 - [Discord link problem](https://forums.vatsim.net/topic/33076-discord-link-problem/?do=findComment&comment=188318)
 - [Vpilot only works when in focus](https://forums.vatsim.net/topic/33072-vpilot-only-works-when-in-focus/?do=findComment&comment=188317)
 - [Appointment of Divisional Technical Director](https://forums.vatsim.net/topic/33075-appointment-of-divisional-technical-director/?do=findComment&comment=188316)
-- [World of AI package downloader](https://forums.vatsim.net/topic/17296-world-of-ai-package-downloader/?do=findComment&comment=188315)
-- [ES running poorly on Windows 10](https://forums.vatsim.net/topic/27960-es-running-poorly-on-windows-10/?do=findComment&comment=188314)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
