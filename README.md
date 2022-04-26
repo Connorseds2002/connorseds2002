@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Plane problem with SmartCoPilot](https://forums.vatsim.net/topic/33085-plane-problem-with-smartcopilot/?do=findComment&comment=188365)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188364)
 - [[May 7th] The Great Freight Flight for Charity! KMEM-KRFD](https://forums.vatsim.net/topic/33086-may-7th-the-great-freight-flight-for-charity-kmem-krfd/?do=findComment&comment=188363)
 - [I can&#39;t link my new Discord Account to Vatsim](https://forums.vatsim.net/topic/33084-i-cant-link-my-new-discord-account-to-vatsim/?do=findComment&comment=188362)
@@ -64,7 +65,6 @@
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=188358)
 - [Appointment of Divisional Technical Director](https://forums.vatsim.net/topic/33075-appointment-of-divisional-technical-director/?do=findComment&comment=188357)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=188356)
-- [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=188355)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
