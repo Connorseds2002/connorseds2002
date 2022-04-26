@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188351)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188350)
 - [VACANCY | Events and Marketing Team Member &lpar;Gander Oceanic&rpar;](https://forums.vatsim.net/topic/33082-vacancy-events-and-marketing-team-member-gander-oceanic/?do=findComment&comment=188349)
 - [Appointment VATBRZ Divisional Director](https://forums.vatsim.net/topic/32979-appointment-vatbrz-divisional-director/?do=findComment&comment=188348)
@@ -64,7 +65,6 @@
 - [How to plan your flight for best VATSIM coverage](https://forums.vatsim.net/topic/33047-how-to-plan-your-flight-for-best-vatsim-coverage/?do=findComment&comment=188344)
 - [Controlled airspace - how to know](https://forums.vatsim.net/topic/33081-controlled-airspace-how-to-know/?do=findComment&comment=188343)
 - [Controlled airspace - how to know](https://forums.vatsim.net/topic/33081-controlled-airspace-how-to-know/?do=findComment&comment=188342)
-- [Controlled airspace - how to know](https://forums.vatsim.net/topic/33081-controlled-airspace-how-to-know/?do=findComment&comment=188341)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
