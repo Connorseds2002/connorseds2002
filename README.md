@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xplane11 crashed by xpilote 2.0](https://forums.vatsim.net/topic/32759-xplane11-crashed-by-xpilote-20/?do=findComment&comment=188367)
 - [Plane problem with SmartCoPilot](https://forums.vatsim.net/topic/33085-plane-problem-with-smartcopilot/?do=findComment&comment=188366)
 - [Plane problem with SmartCoPilot](https://forums.vatsim.net/topic/33085-plane-problem-with-smartcopilot/?do=findComment&comment=188365)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188364)
@@ -64,7 +65,6 @@
 - [Plane problem with SmartCoPilot](https://forums.vatsim.net/topic/33085-plane-problem-with-smartcopilot/?do=findComment&comment=188360)
 - [I can&#39;t link my new Discord Account to Vatsim](https://forums.vatsim.net/topic/33084-i-cant-link-my-new-discord-account-to-vatsim/?do=findComment&comment=188359)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=188358)
-- [Appointment of Divisional Technical Director](https://forums.vatsim.net/topic/33075-appointment-of-divisional-technical-director/?do=findComment&comment=188357)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
