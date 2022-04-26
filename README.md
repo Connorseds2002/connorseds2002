@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=188361)
 - [Plane problem with SmartCoPilot](https://forums.vatsim.net/topic/33085-plane-problem-with-smartcopilot/?do=findComment&comment=188360)
 - [I can&#39;t link my new Discord Account to Vatsim](https://forums.vatsim.net/topic/33084-i-cant-link-my-new-discord-account-to-vatsim/?do=findComment&comment=188359)
 - [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=188358)
@@ -64,7 +65,6 @@
 - [Wishlist for Flightplan Prefile](https://forums.vatsim.net/topic/33083-wishlist-for-flightplan-prefile/?do=findComment&comment=188354)
 - [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188353)
 - [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188352)
-- [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188351)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
