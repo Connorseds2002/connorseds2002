@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Plane problem with SmartCoPilot](https://forums.vatsim.net/topic/33085-plane-problem-with-smartcopilot/?do=findComment&comment=188360)
+- [I can&#39;t link my new Discord Account to Vatsim](https://forums.vatsim.net/topic/33084-i-cant-link-my-new-discord-account-to-vatsim/?do=findComment&comment=188359)
+- [Euroscope on Linux HOWTO](https://forums.vatsim.net/topic/31019-euroscope-on-linux-howto/?do=findComment&comment=188358)
 - [Appointment of Divisional Technical Director](https://forums.vatsim.net/topic/33075-appointment-of-divisional-technical-director/?do=findComment&comment=188357)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=188356)
 - [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=188355)
@@ -62,9 +65,6 @@
 - [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188353)
 - [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188352)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188351)
-- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188350)
-- [VACANCY | Events and Marketing Team Member &lpar;Gander Oceanic&rpar;](https://forums.vatsim.net/topic/33082-vacancy-events-and-marketing-team-member-gander-oceanic/?do=findComment&comment=188349)
-- [Appointment VATBRZ Divisional Director](https://forums.vatsim.net/topic/32979-appointment-vatbrz-divisional-director/?do=findComment&comment=188348)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
