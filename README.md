@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=188375)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188374)
 - [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188373)
 - [Situation display refresh rate](https://forums.vatsim.net/topic/33087-situation-display-refresh-rate/?do=findComment&comment=188372)
@@ -64,7 +65,6 @@
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188368)
 - [xplane11 crashed by xpilote 2.0](https://forums.vatsim.net/topic/32759-xplane11-crashed-by-xpilote-20/?do=findComment&comment=188367)
 - [Plane problem with SmartCoPilot](https://forums.vatsim.net/topic/33085-plane-problem-with-smartcopilot/?do=findComment&comment=188366)
-- [Plane problem with SmartCoPilot](https://forums.vatsim.net/topic/33085-plane-problem-with-smartcopilot/?do=findComment&comment=188365)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
