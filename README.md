@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188385)
+- [Wish I had the confidence to fly VFR](https://forums.vatsim.net/topic/33088-wish-i-had-the-confidence-to-fly-vfr/?do=findComment&comment=188384)
+- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188383)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188382)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188381)
 - [Wish I had the confidence to fly VFR](https://forums.vatsim.net/topic/33088-wish-i-had-the-confidence-to-fly-vfr/?do=findComment&comment=188380)
@@ -62,9 +65,6 @@
 - [Wish I had the confidence to fly VFR](https://forums.vatsim.net/topic/33088-wish-i-had-the-confidence-to-fly-vfr/?do=findComment&comment=188378)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188377)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188376)
-- [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=188375)
-- [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188374)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188373)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
