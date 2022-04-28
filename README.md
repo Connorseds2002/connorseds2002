@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188400)
 - [How to use the software](https://forums.vatsim.net/topic/33091-how-to-use-the-software/?do=findComment&comment=188399)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188398)
 - [vPilot 3.3.1 : Error performing version check : Plage IL incorrect](https://forums.vatsim.net/topic/33090-vpilot-331-error-performing-version-check-plage-il-incorrect/?do=findComment&comment=188397)
@@ -64,7 +65,6 @@
 - [Wish I had the confidence to fly VFR](https://forums.vatsim.net/topic/33088-wish-i-had-the-confidence-to-fly-vfr/?do=findComment&comment=188393)
 - [Wish I had the confidence to fly VFR](https://forums.vatsim.net/topic/33088-wish-i-had-the-confidence-to-fly-vfr/?do=findComment&comment=188392)
 - [Model Matching: Entry in VMR ignored by vPilot](https://forums.vatsim.net/topic/33089-model-matching-entry-in-vmr-ignored-by-vpilot/?do=findComment&comment=188391)
-- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188390)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
