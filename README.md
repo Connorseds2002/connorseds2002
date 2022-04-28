@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.3.1 : Error performing version check : Plage IL incorrect](https://forums.vatsim.net/topic/33090-vpilot-331-error-performing-version-check-plage-il-incorrect/?do=findComment&comment=188395)
 - [vPilot 3.3.1 : Error performing version check : Plage IL incorrect](https://forums.vatsim.net/topic/33090-vpilot-331-error-performing-version-check-plage-il-incorrect/?do=findComment&comment=188394)
 - [Wish I had the confidence to fly VFR](https://forums.vatsim.net/topic/33088-wish-i-had-the-confidence-to-fly-vfr/?do=findComment&comment=188393)
 - [Wish I had the confidence to fly VFR](https://forums.vatsim.net/topic/33088-wish-i-had-the-confidence-to-fly-vfr/?do=findComment&comment=188392)
@@ -64,7 +65,6 @@
 - [Model Matching: Entry in VMR ignored by vPilot](https://forums.vatsim.net/topic/33089-model-matching-entry-in-vmr-ignored-by-vpilot/?do=findComment&comment=188388)
 - [Resending an existing flp with XPilot](https://forums.vatsim.net/topic/33034-resending-an-existing-flp-with-xpilot/?do=findComment&comment=188387)
 - [Wish I had the confidence to fly VFR](https://forums.vatsim.net/topic/33088-wish-i-had-the-confidence-to-fly-vfr/?do=findComment&comment=188386)
-- [ATC deviates from flight plan](https://forums.vatsim.net/topic/33049-atc-deviates-from-flight-plan/?do=findComment&comment=188385)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
