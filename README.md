@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188407)
+- [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188406)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188405)
 - [Appointment of Divisional Technical Director](https://forums.vatsim.net/topic/33075-appointment-of-divisional-technical-director/?do=findComment&comment=188404)
 - [How to use the software](https://forums.vatsim.net/topic/33091-how-to-use-the-software/?do=findComment&comment=188403)
@@ -63,8 +65,6 @@
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188400)
 - [How to use the software](https://forums.vatsim.net/topic/33091-how-to-use-the-software/?do=findComment&comment=188399)
 - [I wish everyone would use unicom](https://forums.vatsim.net/topic/33080-i-wish-everyone-would-use-unicom/?do=findComment&comment=188398)
-- [vPilot 3.3.1 : Error performing version check : Plage IL incorrect](https://forums.vatsim.net/topic/33090-vpilot-331-error-performing-version-check-plage-il-incorrect/?do=findComment&comment=188397)
-- [vPilot 3.3.1 : Error performing version check : Plage IL incorrect](https://forums.vatsim.net/topic/33090-vpilot-331-error-performing-version-check-plage-il-incorrect/?do=findComment&comment=188396)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
