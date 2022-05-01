@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPILOT does not model match after installing MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33101-vpilot-does-not-model-match-after-installing-mytraffic-professional-60a/?do=findComment&comment=188459)
+- [SimAware / map.vatsim.net / ULLL FIR](https://forums.vatsim.net/topic/33100-simaware-mapvatsimnet-ulll-fir/?do=findComment&comment=188458)
 - [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188457)
 - [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188456)
 - [vPILOT does not model match after installing MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33101-vpilot-does-not-model-match-after-installing-mytraffic-professional-60a/?do=findComment&comment=188455)
@@ -63,8 +65,6 @@
 - [SimAware / map.vatsim.net / ULLL FIR](https://forums.vatsim.net/topic/33100-simaware-mapvatsimnet-ulll-fir/?do=findComment&comment=188452)
 - [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188451)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188450)
-- [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188449)
-- [New Pilot Intro / CJ4 Questions](https://forums.vatsim.net/topic/33094-new-pilot-intro-cj4-questions/?do=findComment&comment=188448)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
