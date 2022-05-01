@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Pilot Intro / CJ4 Questions](https://forums.vatsim.net/topic/33094-new-pilot-intro-cj4-questions/?do=findComment&comment=188447)
+- [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=188446)
 - [Shared cockpit help!?!?](https://forums.vatsim.net/topic/33098-shared-cockpit-help/?do=findComment&comment=188445)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188444)
 - [Shared cockpit help!?!?](https://forums.vatsim.net/topic/33098-shared-cockpit-help/?do=findComment&comment=188443)
@@ -63,8 +65,6 @@
 - [VATSIM seeks Vice President, Membership &lpar;VATGOV11&rpar;](https://forums.vatsim.net/topic/33097-vatsim-seeks-vice-president-membership-vatgov11/?do=findComment&comment=188440)
 - [vATIS 4 Resolution issue](https://forums.vatsim.net/topic/33059-vatis-4-resolution-issue/?do=findComment&comment=188439)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188438)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188437)
-- [vATIS 4 Resolution issue](https://forums.vatsim.net/topic/33059-vatis-4-resolution-issue/?do=findComment&comment=188436)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
