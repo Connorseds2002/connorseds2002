@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188450)
+- [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188449)
 - [New Pilot Intro / CJ4 Questions](https://forums.vatsim.net/topic/33094-new-pilot-intro-cj4-questions/?do=findComment&comment=188448)
 - [New Pilot Intro / CJ4 Questions](https://forums.vatsim.net/topic/33094-new-pilot-intro-cj4-questions/?do=findComment&comment=188447)
 - [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=188446)
@@ -63,8 +65,6 @@
 - [Shared cockpit help!?!?](https://forums.vatsim.net/topic/33098-shared-cockpit-help/?do=findComment&comment=188443)
 - [New Pilot Intro / CJ4 Questions](https://forums.vatsim.net/topic/33094-new-pilot-intro-cj4-questions/?do=findComment&comment=188442)
 - [New Pilot Intro / CJ4 Questions](https://forums.vatsim.net/topic/33094-new-pilot-intro-cj4-questions/?do=findComment&comment=188441)
-- [VATSIM seeks Vice President, Membership &lpar;VATGOV11&rpar;](https://forums.vatsim.net/topic/33097-vatsim-seeks-vice-president-membership-vatgov11/?do=findComment&comment=188440)
-- [vATIS 4 Resolution issue](https://forums.vatsim.net/topic/33059-vatis-4-resolution-issue/?do=findComment&comment=188439)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
