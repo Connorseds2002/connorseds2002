@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Parse URL strings](https://forums.vatsim.net/topic/32603-parse-url-strings/?do=findComment&comment=188466)
 - [No Audio at all FSX](https://forums.vatsim.net/topic/33104-no-audio-at-all-fsx/?do=findComment&comment=188465)
 - [No Audio at all FSX](https://forums.vatsim.net/topic/33104-no-audio-at-all-fsx/?do=findComment&comment=188464)
 - [There is no Connect button](https://forums.vatsim.net/topic/33103-there-is-no-connect-button/?do=findComment&comment=188463)
@@ -64,7 +65,6 @@
 - [vPILOT does not model match after installing MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33101-vpilot-does-not-model-match-after-installing-mytraffic-professional-60a/?do=findComment&comment=188459)
 - [SimAware / map.vatsim.net / ULLL FIR](https://forums.vatsim.net/topic/33100-simaware-mapvatsimnet-ulll-fir/?do=findComment&comment=188458)
 - [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188457)
-- [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188456)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
