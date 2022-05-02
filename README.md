@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New Pilot Intro / CJ4 Questions](https://forums.vatsim.net/topic/33094-new-pilot-intro-cj4-questions/?do=findComment&comment=188478)
+- [XPilot Flight Log](https://forums.vatsim.net/topic/33102-xpilot-flight-log/?do=findComment&comment=188477)
 - [[8th May 2000-0200z] VATSIM First Wings &lpar;VFR &amp; IFR&rpar;](https://forums.vatsim.net/topic/33106-8th-may-2000-0200z-vatsim-first-wings-vfr-ifr/?do=findComment&comment=188476)
 - [You haven’t seen a tree until you’ve seen its shadow from the sky. Amelia Earhart](https://forums.vatsim.net/profile/305545-alan-cooke/?status=10&type=status)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=188475)
@@ -63,8 +65,6 @@
 - [vPILOT does not model match after installing MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33101-vpilot-does-not-model-match-after-installing-mytraffic-professional-60a/?do=findComment&comment=188472)
 - [vATIS Suggestions](https://forums.vatsim.net/topic/33065-vatis-suggestions/?do=findComment&comment=188471)
 - [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188470)
-- [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188469)
-- [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188468)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
