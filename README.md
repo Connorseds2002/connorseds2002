@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS Suggestions](https://forums.vatsim.net/topic/33065-vatis-suggestions/?do=findComment&comment=188471)
 - [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188470)
 - [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188469)
 - [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188468)
@@ -64,7 +65,6 @@
 - [No Audio at all FSX](https://forums.vatsim.net/topic/33104-no-audio-at-all-fsx/?do=findComment&comment=188464)
 - [There is no Connect button](https://forums.vatsim.net/topic/33103-there-is-no-connect-button/?do=findComment&comment=188463)
 - [There is no Connect button](https://forums.vatsim.net/topic/33103-there-is-no-connect-button/?do=findComment&comment=188462)
-- [There is no Connect button](https://forums.vatsim.net/topic/33103-there-is-no-connect-button/?do=findComment&comment=188461)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
