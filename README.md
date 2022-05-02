@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188474)
+- [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188473)
+- [vPILOT does not model match after installing MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33101-vpilot-does-not-model-match-after-installing-mytraffic-professional-60a/?do=findComment&comment=188472)
 - [vATIS Suggestions](https://forums.vatsim.net/topic/33065-vatis-suggestions/?do=findComment&comment=188471)
 - [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188470)
 - [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188469)
@@ -62,9 +65,6 @@
 - [vPILOT does not model match after installing MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33101-vpilot-does-not-model-match-after-installing-mytraffic-professional-60a/?do=findComment&comment=188467)
 - [Parse URL strings](https://forums.vatsim.net/topic/32603-parse-url-strings/?do=findComment&comment=188466)
 - [No Audio at all FSX](https://forums.vatsim.net/topic/33104-no-audio-at-all-fsx/?do=findComment&comment=188465)
-- [No Audio at all FSX](https://forums.vatsim.net/topic/33104-no-audio-at-all-fsx/?do=findComment&comment=188464)
-- [There is no Connect button](https://forums.vatsim.net/topic/33103-there-is-no-connect-button/?do=findComment&comment=188463)
-- [There is no Connect button](https://forums.vatsim.net/topic/33103-there-is-no-connect-button/?do=findComment&comment=188462)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
