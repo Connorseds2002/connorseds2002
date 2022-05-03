@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.3.0 Released](https://forums.vatsim.net/topic/33024-vpilot-330-released/?do=findComment&comment=188486)
 - [If a pilot is doing VFR circuits in a airport which under a Class B, would they squawk &quot;1200&quot; or have to get squawk assigned by ATC?](https://forums.vatsim.net/topic/33107-if-a-pilot-is-doing-vfr-circuits-in-a-airport-which-under-a-class-b-would-they-squawk-1200-or-have-to-get-squawk-assigned-by-atc/?do=findComment&comment=188485)
 - [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188484)
 - [XPilot Flight Log](https://forums.vatsim.net/topic/33102-xpilot-flight-log/?do=findComment&comment=188483)
@@ -64,7 +65,6 @@
 - [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188479)
 - [New Pilot Intro / CJ4 Questions](https://forums.vatsim.net/topic/33094-new-pilot-intro-cj4-questions/?do=findComment&comment=188478)
 - [XPilot Flight Log](https://forums.vatsim.net/topic/33102-xpilot-flight-log/?do=findComment&comment=188477)
-- [[8th May 2000-0200z] VATSIM First Wings &lpar;VFR &amp; IFR&rpar;](https://forums.vatsim.net/topic/33106-8th-may-2000-0200z-vatsim-first-wings-vfr-ifr/?do=findComment&comment=188476)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
