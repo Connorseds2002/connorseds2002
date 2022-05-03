@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188482)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=188481)
 - [If a pilot is doing VFR circuits in a airport which under a Class B, would they squawk &quot;1200&quot; or have to get squawk assigned by ATC?](https://forums.vatsim.net/topic/33107-if-a-pilot-is-doing-vfr-circuits-in-a-airport-which-under-a-class-b-would-they-squawk-1200-or-have-to-get-squawk-assigned-by-atc/?do=findComment&comment=188480)
 - [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188479)
@@ -64,7 +65,6 @@
 - [You haven’t seen a tree until you’ve seen its shadow from the sky. Amelia Earhart](https://forums.vatsim.net/profile/305545-alan-cooke/?status=10&type=status)
 - [Is it common procedure for a Controller to book their availability?](https://forums.vatsim.net/topic/32942-is-it-common-procedure-for-a-controller-to-book-their-availability/?do=findComment&comment=188475)
 - [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188474)
-- [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188473)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
