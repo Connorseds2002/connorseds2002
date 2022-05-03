@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [problem .towerview mode](https://forums.vatsim.net/topic/33105-problem-towerview-mode/?do=findComment&comment=188490)
 - [vPilot 3.3.0 Released](https://forums.vatsim.net/topic/33024-vpilot-330-released/?do=findComment&comment=188489)
 - [XPilot Flight Log](https://forums.vatsim.net/topic/33102-xpilot-flight-log/?do=findComment&comment=188487)
 - [vPilot 3.3.0 Released](https://forums.vatsim.net/topic/33024-vpilot-330-released/?do=findComment&comment=188486)
@@ -64,7 +65,6 @@
 - [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188482)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=188481)
 - [If a pilot is doing VFR circuits in a airport which under a Class B, would they squawk &quot;1200&quot; or have to get squawk assigned by ATC?](https://forums.vatsim.net/topic/33107-if-a-pilot-is-doing-vfr-circuits-in-a-airport-which-under-a-class-b-would-they-squawk-1200-or-have-to-get-squawk-assigned-by-atc/?do=findComment&comment=188480)
-- [Account inactive](https://forums.vatsim.net/topic/33099-account-inactive/?do=findComment&comment=188479)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
