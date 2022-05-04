@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188530)
 - [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188529)
 - [Coming soon: vatSysServer](https://forums.vatsim.net/topic/33110-coming-soon-vatsysserver/?do=findComment&comment=188528)
 - [Coming soon: vatSysServer](https://forums.vatsim.net/topic/33110-coming-soon-vatsysserver/?do=findComment&comment=188527)
@@ -64,7 +65,6 @@
 - [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188523)
 - [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188522)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188521)
-- [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188520)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
