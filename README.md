@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188520)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188519)
 - [Coming soon: vatSysServer](https://forums.vatsim.net/topic/33110-coming-soon-vatsysserver/?do=findComment&comment=188518)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188517)
@@ -64,7 +65,6 @@
 - [Default AFV frq](https://forums.vatsim.net/topic/33111-default-afv-frq/?do=findComment&comment=188513)
 - [Coming soon: vatSysServer](https://forums.vatsim.net/topic/33110-coming-soon-vatsysserver/?do=findComment&comment=188512)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188511)
-- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188510)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
