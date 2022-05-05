@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188544)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188543)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188542)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188541)
@@ -64,7 +65,6 @@
 - [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188537)
 - [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188536)
 - [If a pilot is doing VFR circuits in a airport which under a Class B, would they squawk &quot;1200&quot; or have to get squawk assigned by ATC?](https://forums.vatsim.net/topic/33107-if-a-pilot-is-doing-vfr-circuits-in-a-airport-which-under-a-class-b-would-they-squawk-1200-or-have-to-get-squawk-assigned-by-atc/?do=findComment&comment=188535)
-- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188534)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
