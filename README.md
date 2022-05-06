@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unhandled exception](https://forums.vatsim.net/topic/33113-unhandled-exception/?do=findComment&comment=188554)
 - [ModelMatching improvement &lpar;TypeCode&rpar;](https://forums.vatsim.net/topic/33116-modelmatching-improvement-typecode/?do=findComment&comment=188553)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188552)
 - [vATIS 4 Not Showing Connect Button](https://forums.vatsim.net/topic/33095-vatis-4-not-showing-connect-button/?do=findComment&comment=188551)
@@ -64,7 +65,6 @@
 - [Federico Navarro Announces Retirement from VATSIM Board of Governors](https://forums.vatsim.net/topic/33114-federico-navarro-announces-retirement-from-vatsim-board-of-governors/?do=findComment&comment=188547)
 - [Unhandled exception](https://forums.vatsim.net/topic/33113-unhandled-exception/?do=findComment&comment=188546)
 - [Unhandled exception](https://forums.vatsim.net/topic/33113-unhandled-exception/?do=findComment&comment=188545)
-- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188544)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
