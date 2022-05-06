@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=188548)
+- [Federico Navarro Announces Retirement from VATSIM Board of Governors](https://forums.vatsim.net/topic/33114-federico-navarro-announces-retirement-from-vatsim-board-of-governors/?do=findComment&comment=188547)
 - [Unhandled exception](https://forums.vatsim.net/topic/33113-unhandled-exception/?do=findComment&comment=188546)
 - [Unhandled exception](https://forums.vatsim.net/topic/33113-unhandled-exception/?do=findComment&comment=188545)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188544)
@@ -63,8 +65,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188541)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188540)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188539)
-- [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188538)
-- [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188537)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
