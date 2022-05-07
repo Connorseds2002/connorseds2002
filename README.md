@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot](https://forums.vatsim.net/topic/33120-vpilot/?do=findComment&comment=188566)
 - [Vpilot](https://forums.vatsim.net/topic/33120-vpilot/?do=findComment&comment=188565)
 - [[May 28] Canadian Xpress May 2022 Monthly Fly-In - Juneau](https://forums.vatsim.net/topic/33119-may-28-canadian-xpress-may-2022-monthly-fly-in-juneau/?do=findComment&comment=188564)
 - [[APPOINTMENT] Hellenic vACC Director](https://forums.vatsim.net/topic/33109-appointment-hellenic-vacc-director/?do=findComment&comment=188563)
@@ -64,7 +65,6 @@
 - [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=188559)
 - [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=188558)
 - [Vatsim ATC Clients.](https://forums.vatsim.net/topic/33117-vatsim-atc-clients/?do=findComment&comment=188557)
-- [Unhandled exception](https://forums.vatsim.net/topic/33113-unhandled-exception/?do=findComment&comment=188556)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
