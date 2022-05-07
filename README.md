@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[APPOINTMENT] Hellenic vACC Director](https://forums.vatsim.net/topic/33109-appointment-hellenic-vacc-director/?do=findComment&comment=188563)
+- [Vatsim ATC Clients.](https://forums.vatsim.net/topic/33117-vatsim-atc-clients/?do=findComment&comment=188562)
 - [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=188561)
 - [Vatsim ATC Clients.](https://forums.vatsim.net/topic/33117-vatsim-atc-clients/?do=findComment&comment=188560)
 - [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=188559)
@@ -63,8 +65,6 @@
 - [Unhandled exception](https://forums.vatsim.net/topic/33113-unhandled-exception/?do=findComment&comment=188556)
 - [Expired  FSD server license](https://forums.vatsim.net/topic/33112-expired-fsd-server-license/?do=findComment&comment=188555)
 - [Unhandled exception](https://forums.vatsim.net/topic/33113-unhandled-exception/?do=findComment&comment=188554)
-- [ModelMatching improvement &lpar;TypeCode&rpar;](https://forums.vatsim.net/topic/33116-modelmatching-improvement-typecode/?do=findComment&comment=188553)
-- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188552)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
