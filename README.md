@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=188561)
 - [Vatsim ATC Clients.](https://forums.vatsim.net/topic/33117-vatsim-atc-clients/?do=findComment&comment=188560)
 - [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=188559)
 - [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=188558)
@@ -64,7 +65,6 @@
 - [Unhandled exception](https://forums.vatsim.net/topic/33113-unhandled-exception/?do=findComment&comment=188554)
 - [ModelMatching improvement &lpar;TypeCode&rpar;](https://forums.vatsim.net/topic/33116-modelmatching-improvement-typecode/?do=findComment&comment=188553)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188552)
-- [vATIS 4 Not Showing Connect Button](https://forums.vatsim.net/topic/33095-vatis-4-not-showing-connect-button/?do=findComment&comment=188551)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
