@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Network error: Connection failed: &rpar;10061&rpar; No connection could be made because the target machine actively refused it.](https://forums.vatsim.net/topic/33121-network-error-connection-failed-10061-no-connection-could-be-made-because-the-target-machine-actively-refused-it/?do=findComment&comment=188567)
 - [Vpilot](https://forums.vatsim.net/topic/33120-vpilot/?do=findComment&comment=188566)
 - [Vpilot](https://forums.vatsim.net/topic/33120-vpilot/?do=findComment&comment=188565)
 - [[May 28] Canadian Xpress May 2022 Monthly Fly-In - Juneau](https://forums.vatsim.net/topic/33119-may-28-canadian-xpress-may-2022-monthly-fly-in-juneau/?do=findComment&comment=188564)
@@ -64,7 +65,6 @@
 - [Vatsim ATC Clients.](https://forums.vatsim.net/topic/33117-vatsim-atc-clients/?do=findComment&comment=188560)
 - [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=188559)
 - [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=188558)
-- [Vatsim ATC Clients.](https://forums.vatsim.net/topic/33117-vatsim-atc-clients/?do=findComment&comment=188557)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
