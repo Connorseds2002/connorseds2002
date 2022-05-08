@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188584)
+- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188583)
+- [I cannot get audio to work. I get a exception error at start. Error Log included](https://forums.vatsim.net/topic/33124-i-cannot-get-audio-to-work-i-get-a-exception-error-at-start-error-log-included/?do=findComment&comment=188582)
 - [[14th May] Inbound Lahore](https://forums.vatsim.net/topic/33123-14th-may-inbound-lahore/?do=findComment&comment=188581)
 - [VATMENA Helpdesk now in use!](https://forums.vatsim.net/topic/33122-vatmena-helpdesk-now-in-use/?do=findComment&comment=188580)
 - [Unacceptable sudden volume increase](https://forums.vatsim.net/topic/27159-unacceptable-sudden-volume-increase/?do=findComment&comment=188579)
@@ -62,9 +65,6 @@
 - [Network error: Connection failed: &rpar;10061&rpar; No connection could be made because the target machine actively refused it.](https://forums.vatsim.net/topic/33121-network-error-connection-failed-10061-no-connection-could-be-made-because-the-target-machine-actively-refused-it/?do=findComment&comment=188577)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188576)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188575)
-- [VATNAF1 Resignation](https://forums.vatsim.net/topic/28401-vatnaf1-resignation/?do=findComment&comment=188574)
-- [VATNAF1 Resignation](https://forums.vatsim.net/topic/28401-vatnaf1-resignation/?do=findComment&comment=188573)
-- [Network error: Connection failed: &rpar;10061&rpar; No connection could be made because the target machine actively refused it.](https://forums.vatsim.net/topic/33121-network-error-connection-failed-10061-no-connection-could-be-made-because-the-target-machine-actively-refused-it/?do=findComment&comment=188572)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
