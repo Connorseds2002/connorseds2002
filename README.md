@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188585)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188584)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188583)
 - [I cannot get audio to work. I get a exception error at start. Error Log included](https://forums.vatsim.net/topic/33124-i-cannot-get-audio-to-work-i-get-a-exception-error-at-start-error-log-included/?do=findComment&comment=188582)
@@ -64,7 +65,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188578)
 - [Network error: Connection failed: &rpar;10061&rpar; No connection could be made because the target machine actively refused it.](https://forums.vatsim.net/topic/33121-network-error-connection-failed-10061-no-connection-could-be-made-because-the-target-machine-actively-refused-it/?do=findComment&comment=188577)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188576)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188575)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
