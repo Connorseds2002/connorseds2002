@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188569)
+- [Network error: Connection failed: &rpar;10061&rpar; No connection could be made because the target machine actively refused it.](https://forums.vatsim.net/topic/33121-network-error-connection-failed-10061-no-connection-could-be-made-because-the-target-machine-actively-refused-it/?do=findComment&comment=188568)
 - [Network error: Connection failed: &rpar;10061&rpar; No connection could be made because the target machine actively refused it.](https://forums.vatsim.net/topic/33121-network-error-connection-failed-10061-no-connection-could-be-made-because-the-target-machine-actively-refused-it/?do=findComment&comment=188567)
 - [Vpilot](https://forums.vatsim.net/topic/33120-vpilot/?do=findComment&comment=188566)
 - [Vpilot](https://forums.vatsim.net/topic/33120-vpilot/?do=findComment&comment=188565)
@@ -63,8 +65,6 @@
 - [Vatsim ATC Clients.](https://forums.vatsim.net/topic/33117-vatsim-atc-clients/?do=findComment&comment=188562)
 - [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=188561)
 - [Vatsim ATC Clients.](https://forums.vatsim.net/topic/33117-vatsim-atc-clients/?do=findComment&comment=188560)
-- [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=188559)
-- [Xpilot beta 2. Flightplan](https://forums.vatsim.net/topic/32453-xpilot-beta-2-flightplan/?do=findComment&comment=188558)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
