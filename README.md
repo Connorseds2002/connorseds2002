@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pin button](https://forums.vatsim.net/topic/33130-pin-button/?do=findComment&comment=188601)
+- [Vpilot](https://forums.vatsim.net/topic/33120-vpilot/?do=findComment&comment=188600)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188599)
 - [vPilot Audio and traffic issue](https://forums.vatsim.net/topic/33129-vpilot-audio-and-traffic-issue/?do=findComment&comment=188598)
 - [vPilot Audio and traffic issue](https://forums.vatsim.net/topic/33129-vpilot-audio-and-traffic-issue/?do=findComment&comment=188597)
@@ -63,8 +65,6 @@
 - [Thank-you KZTL!](https://forums.vatsim.net/topic/33128-thank-you-kztl/?do=findComment&comment=188594)
 - [Position Opening: Hong Kong VACC - Manager, Training &lpar;ACCHKG3&rpar;](https://forums.vatsim.net/topic/33127-position-opening-hong-kong-vacc-manager-training-acchkg3/?do=findComment&comment=188593)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188592)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188591)
-- [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=188590)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
