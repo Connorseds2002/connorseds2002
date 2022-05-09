@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188591)
+- [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=188590)
 - [ATC Asked for &quot;IDENT&quot;](https://forums.vatsim.net/topic/33125-atc-asked-for-ident/?do=findComment&comment=188589)
 - [ATC Asked for &quot;IDENT&quot;](https://forums.vatsim.net/topic/33125-atc-asked-for-ident/?do=findComment&comment=188588)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188587)
@@ -63,8 +65,6 @@
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188584)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188583)
 - [I cannot get audio to work. I get a exception error at start. Error Log included](https://forums.vatsim.net/topic/33124-i-cannot-get-audio-to-work-i-get-a-exception-error-at-start-error-log-included/?do=findComment&comment=188582)
-- [[14th May] Inbound Lahore](https://forums.vatsim.net/topic/33123-14th-may-inbound-lahore/?do=findComment&comment=188581)
-- [VATMENA Helpdesk now in use!](https://forums.vatsim.net/topic/33122-vatmena-helpdesk-now-in-use/?do=findComment&comment=188580)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
