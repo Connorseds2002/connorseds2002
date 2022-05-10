@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188625)
+- [vPilot Audio and traffic issue](https://forums.vatsim.net/topic/33129-vpilot-audio-and-traffic-issue/?do=findComment&comment=188624)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188623)
 - [vPilot Audio and traffic issue](https://forums.vatsim.net/topic/33129-vpilot-audio-and-traffic-issue/?do=findComment&comment=188622)
 - [XPilot Flight Log](https://forums.vatsim.net/topic/33102-xpilot-flight-log/?do=findComment&comment=188621)
@@ -63,8 +65,6 @@
 - [Vatsim ATC Clients.](https://forums.vatsim.net/topic/33117-vatsim-atc-clients/?do=findComment&comment=188618)
 - [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188617)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188616)
-- [ATC Asked for &quot;IDENT&quot;](https://forums.vatsim.net/topic/33125-atc-asked-for-ident/?do=findComment&comment=188615)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188614)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
