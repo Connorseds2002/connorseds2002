@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188623)
 - [vPilot Audio and traffic issue](https://forums.vatsim.net/topic/33129-vpilot-audio-and-traffic-issue/?do=findComment&comment=188622)
 - [XPilot Flight Log](https://forums.vatsim.net/topic/33102-xpilot-flight-log/?do=findComment&comment=188621)
 - [XPilot Flight Log](https://forums.vatsim.net/topic/33102-xpilot-flight-log/?do=findComment&comment=188620)
@@ -64,7 +65,6 @@
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188616)
 - [ATC Asked for &quot;IDENT&quot;](https://forums.vatsim.net/topic/33125-atc-asked-for-ident/?do=findComment&comment=188615)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188614)
-- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=188613)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
