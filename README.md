@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Network error: Connection failed: &rpar;10061&rpar; No connection could be made because the target machine actively refused it.](https://forums.vatsim.net/topic/33121-network-error-connection-failed-10061-no-connection-could-be-made-because-the-target-machine-actively-refused-it/?do=findComment&comment=188637)
 - [XPilot Flight Log](https://forums.vatsim.net/topic/33102-xpilot-flight-log/?do=findComment&comment=188636)
 - [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=188635)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188634)
@@ -64,7 +65,6 @@
 - [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=188630)
 - [vPilot Audio and traffic issue](https://forums.vatsim.net/topic/33129-vpilot-audio-and-traffic-issue/?do=findComment&comment=188629)
 - [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=188628)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188627)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
