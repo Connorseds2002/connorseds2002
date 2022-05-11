@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [approach plate](https://forums.vatsim.net/topic/33133-approach-plate/?do=findComment&comment=188647)
+- [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188646)
+- [approach plate](https://forums.vatsim.net/topic/33133-approach-plate/?do=findComment&comment=188645)
 - [vPilot stuttering](https://forums.vatsim.net/topic/33132-vpilot-stuttering/?do=findComment&comment=188644)
 - [Vpilot](https://forums.vatsim.net/topic/33120-vpilot/?do=findComment&comment=188643)
 - [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188642)
@@ -62,9 +65,6 @@
 - [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188640)
 - [vPilot Audio and traffic issue](https://forums.vatsim.net/topic/33129-vpilot-audio-and-traffic-issue/?do=findComment&comment=188639)
 - [XPilot Flight Log](https://forums.vatsim.net/topic/33102-xpilot-flight-log/?do=findComment&comment=188636)
-- [hold generator?](https://forums.vatsim.net/topic/15456-hold-generator/?do=findComment&comment=188635)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188634)
-- [SIM CONNECT ERROR: VERSION_MISMATCH 5](https://forums.vatsim.net/topic/33108-sim-connect-error-version_mismatch-5/?do=findComment&comment=188633)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
