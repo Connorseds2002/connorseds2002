@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188649)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188648)
 - [approach plate](https://forums.vatsim.net/topic/33133-approach-plate/?do=findComment&comment=188647)
 - [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188646)
 - [approach plate](https://forums.vatsim.net/topic/33133-approach-plate/?do=findComment&comment=188645)
@@ -63,8 +65,6 @@
 - [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188642)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188641)
 - [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188640)
-- [vPilot Audio and traffic issue](https://forums.vatsim.net/topic/33129-vpilot-audio-and-traffic-issue/?do=findComment&comment=188639)
-- [XPilot Flight Log](https://forums.vatsim.net/topic/33102-xpilot-flight-log/?do=findComment&comment=188636)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
