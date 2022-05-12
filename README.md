@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vERAM 1.3.2 now available with 12 character callsign support](https://forums.vatsim.net/topic/33136-veram-132-now-available-with-12-character-callsign-support/?do=findComment&comment=188662)
+- [vSTARS 1.4.4 now available with 12 character callsign support](https://forums.vatsim.net/topic/33135-vstars-144-now-available-with-12-character-callsign-support/?do=findComment&comment=188661)
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188660)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=188659)
 - [VPilot annoying Audio Lag](https://forums.vatsim.net/topic/33134-vpilot-annoying-audio-lag/?do=findComment&comment=188658)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=188657)
 - [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=188656)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188655)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188654)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188653)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188652)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188651)
-- [approach plate](https://forums.vatsim.net/topic/33133-approach-plate/?do=findComment&comment=188650)
-- [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188649)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
