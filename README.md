@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Freshjet starts operations from Glasgow](https://forums.vatsim.net/topic/33137-freshjet-starts-operations-from-glasgow/?do=findComment&comment=188663)
 - [vERAM 1.3.2 now available with 12 character callsign support](https://forums.vatsim.net/topic/33136-veram-132-now-available-with-12-character-callsign-support/?do=findComment&comment=188662)
 - [vSTARS 1.4.4 now available with 12 character callsign support](https://forums.vatsim.net/topic/33135-vstars-144-now-available-with-12-character-callsign-support/?do=findComment&comment=188661)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188660)
@@ -64,7 +65,6 @@
 - [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=188656)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188655)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188654)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188653)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
