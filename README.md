@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188669)
 - [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188668)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188667)
 - [How to plan your flight for best VATSIM coverage](https://forums.vatsim.net/topic/33047-how-to-plan-your-flight-for-best-vatsim-coverage/?do=findComment&comment=188666)
@@ -64,7 +65,6 @@
 - [vERAM 1.3.2 now available with 12 character callsign support](https://forums.vatsim.net/topic/33136-veram-132-now-available-with-12-character-callsign-support/?do=findComment&comment=188662)
 - [vSTARS 1.4.4 now available with 12 character callsign support](https://forums.vatsim.net/topic/33135-vstars-144-now-available-with-12-character-callsign-support/?do=findComment&comment=188661)
 - [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188660)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=188659)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
