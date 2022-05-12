@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188654)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188653)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188652)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188651)
@@ -64,7 +65,6 @@
 - [approach plate](https://forums.vatsim.net/topic/33133-approach-plate/?do=findComment&comment=188647)
 - [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188646)
 - [approach plate](https://forums.vatsim.net/topic/33133-approach-plate/?do=findComment&comment=188645)
-- [vPilot stuttering](https://forums.vatsim.net/topic/33132-vpilot-stuttering/?do=findComment&comment=188644)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
