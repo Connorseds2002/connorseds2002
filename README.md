@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FPS problem, NEW ideas](https://forums.vatsim.net/topic/33140-fps-problem-new-ideas/?do=findComment&comment=188690)
+- [SimAware / map.vatsim.net : Missing airport &lpar;DTNH&rpar;](https://forums.vatsim.net/topic/33063-simaware-mapvatsimnet-missing-airport-dtnh/?do=findComment&comment=188689)
 - [SimAware / map.vatsim.net : Missing airport &lpar;DTNH&rpar;](https://forums.vatsim.net/topic/33063-simaware-mapvatsimnet-missing-airport-dtnh/?do=findComment&comment=188688)
 - [[SOLVED]Voice does not work](https://forums.vatsim.net/topic/25136-solvedvoice-does-not-work/?do=findComment&comment=188687)
 - [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188686)
@@ -63,8 +65,6 @@
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188683)
 - [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188682)
 - [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188681)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188680)
-- [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188679)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
