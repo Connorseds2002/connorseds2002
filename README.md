@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188693)
 - [vpilot aircraft problem](https://forums.vatsim.net/topic/33141-vpilot-aircraft-problem/?do=findComment&comment=188692)
 - [FPS problem, NEW ideas](https://forums.vatsim.net/topic/33140-fps-problem-new-ideas/?do=findComment&comment=188691)
 - [FPS problem, NEW ideas](https://forums.vatsim.net/topic/33140-fps-problem-new-ideas/?do=findComment&comment=188690)
@@ -64,7 +65,6 @@
 - [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188686)
 - [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188685)
 - [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188684)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188683)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
