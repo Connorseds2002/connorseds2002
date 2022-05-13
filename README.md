@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Looking for resource - differences between US and EU ATC](https://forums.vatsim.net/topic/33143-looking-for-resource-differences-between-us-and-eu-atc/?do=findComment&comment=188699)
 - [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188698)
 - [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188697)
 - [vpilot aircraft problem](https://forums.vatsim.net/topic/33141-vpilot-aircraft-problem/?do=findComment&comment=188696)
@@ -64,7 +65,6 @@
 - [vpilot aircraft problem](https://forums.vatsim.net/topic/33141-vpilot-aircraft-problem/?do=findComment&comment=188692)
 - [FPS problem, NEW ideas](https://forums.vatsim.net/topic/33140-fps-problem-new-ideas/?do=findComment&comment=188691)
 - [FPS problem, NEW ideas](https://forums.vatsim.net/topic/33140-fps-problem-new-ideas/?do=findComment&comment=188690)
-- [SimAware / map.vatsim.net : Missing airport &lpar;DTNH&rpar;](https://forums.vatsim.net/topic/33063-simaware-mapvatsimnet-missing-airport-dtnh/?do=findComment&comment=188689)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
