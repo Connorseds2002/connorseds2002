@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188683)
+- [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188682)
+- [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188681)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188680)
 - [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188679)
 - [How is the nattrak site doing?](https://forums.vatsim.net/topic/33139-how-is-the-nattrak-site-doing/?do=findComment&comment=188678)
@@ -62,9 +65,6 @@
 - [Vpilot](https://forums.vatsim.net/topic/33120-vpilot/?do=findComment&comment=188676)
 - [Vpilot](https://forums.vatsim.net/topic/33120-vpilot/?do=findComment&comment=188675)
 - [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188674)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188673)
-- [It Really Irks me](https://forums.vatsim.net/topic/32611-it-really-irks-me/?do=findComment&comment=188672)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188671)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
