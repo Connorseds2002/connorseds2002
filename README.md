@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Audio Problem](https://forums.vatsim.net/topic/33131-audio-problem/?do=findComment&comment=188697)
+- [vpilot aircraft problem](https://forums.vatsim.net/topic/33141-vpilot-aircraft-problem/?do=findComment&comment=188696)
 - [Model Matching coexistence between FSX and MSFS 2020](https://forums.vatsim.net/topic/33142-model-matching-coexistence-between-fsx-and-msfs-2020/?do=findComment&comment=188695)
 - [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=188694)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188693)
@@ -63,8 +65,6 @@
 - [FPS problem, NEW ideas](https://forums.vatsim.net/topic/33140-fps-problem-new-ideas/?do=findComment&comment=188690)
 - [SimAware / map.vatsim.net : Missing airport &lpar;DTNH&rpar;](https://forums.vatsim.net/topic/33063-simaware-mapvatsimnet-missing-airport-dtnh/?do=findComment&comment=188689)
 - [SimAware / map.vatsim.net : Missing airport &lpar;DTNH&rpar;](https://forums.vatsim.net/topic/33063-simaware-mapvatsimnet-missing-airport-dtnh/?do=findComment&comment=188688)
-- [[SOLVED]Voice does not work](https://forums.vatsim.net/topic/25136-solvedvoice-does-not-work/?do=findComment&comment=188687)
-- [VATSIM data Older than 20 minutes](https://forums.vatsim.net/topic/33138-vatsim-data-older-than-20-minutes/?do=findComment&comment=188686)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
