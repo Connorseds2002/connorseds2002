@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188710)
 - [Looking for resource - differences between US and EU ATC](https://forums.vatsim.net/topic/33143-looking-for-resource-differences-between-us-and-eu-atc/?do=findComment&comment=188709)
 - [I cannot get audio to work. I get a exception error at start. Error Log included](https://forums.vatsim.net/topic/33124-i-cannot-get-audio-to-work-i-get-a-exception-error-at-start-error-log-included/?do=findComment&comment=188708)
 - [Looking for resource - differences between US and EU ATC](https://forums.vatsim.net/topic/33143-looking-for-resource-differences-between-us-and-eu-atc/?do=findComment&comment=188707)
@@ -64,7 +65,6 @@
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188703)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188702)
 - [Looking for resource - differences between US and EU ATC](https://forums.vatsim.net/topic/33143-looking-for-resource-differences-between-us-and-eu-atc/?do=findComment&comment=188701)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188700)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
