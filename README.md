@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188718)
 - [NatTrack web Site Down](https://forums.vatsim.net/topic/33145-nattrack-web-site-down/?do=findComment&comment=188717)
 - [NatTrack web Site Down](https://forums.vatsim.net/topic/33145-nattrack-web-site-down/?do=findComment&comment=188716)
 - [NatTrack web Site Down](https://forums.vatsim.net/topic/33145-nattrack-web-site-down/?do=findComment&comment=188715)
@@ -64,7 +65,6 @@
 - [I can&#39;t take the exam because error 404](https://forums.vatsim.net/topic/32157-i-cant-take-the-exam-because-error-404/?do=findComment&comment=188711)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188710)
 - [Looking for resource - differences between US and EU ATC](https://forums.vatsim.net/topic/33143-looking-for-resource-differences-between-us-and-eu-atc/?do=findComment&comment=188709)
-- [I cannot get audio to work. I get a exception error at start. Error Log included](https://forums.vatsim.net/topic/33124-i-cannot-get-audio-to-work-i-get-a-exception-error-at-start-error-log-included/?do=findComment&comment=188708)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
