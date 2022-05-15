@@ -55,7 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [Account suspended](https://forums.vatsim.net/topic/33151-account-suspended/?do=findComment&comment=188744)
+- [xpilot](https://forums.vatsim.net/topic/33152-xpilot/?do=findComment&comment=188745)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188743)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188742)
 - [Sat April 2  no voice or responses to Flight Plan](https://forums.vatsim.net/topic/32993-sat-april-2-no-voice-or-responses-to-flight-plan/?do=findComment&comment=188741)
