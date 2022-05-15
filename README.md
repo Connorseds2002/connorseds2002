@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [«Необрабатываемое исключение в приложении»: как исправить может кто сталкивался, подскажите.](https://forums.vatsim.net/topic/33147-%C2%AB%D0%BD%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D0%B5-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8%C2%BB-%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%BC%D0%BE%D0%B6%D0%B5%D1%82-%D0%BA%D1%82%D0%BE-%D1%81%D1%82%D0%B0%D0%BB%D0%BA%D0%B8%D0%B2%D0%B0%D0%BB%D1%81%D1%8F-%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5/?do=findComment&comment=188739)
+- [«Необрабатываемое исключение в приложении»: как исправить может кто сталкивался, подскажите.](https://forums.vatsim.net/topic/33147-%C2%AB%D0%BD%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D0%B5-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8%C2%BB-%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%BC%D0%BE%D0%B6%D0%B5%D1%82-%D0%BA%D1%82%D0%BE-%D1%81%D1%82%D0%B0%D0%BB%D0%BA%D0%B8%D0%B2%D0%B0%D0%BB%D1%81%D1%8F-%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5/?do=findComment&comment=188738)
 - [«Необрабатываемое исключение в приложении»: как исправить может кто сталкивался, подскажите.](https://forums.vatsim.net/topic/33147-%C2%AB%D0%BD%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D0%B5-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8%C2%BB-%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%BC%D0%BE%D0%B6%D0%B5%D1%82-%D0%BA%D1%82%D0%BE-%D1%81%D1%82%D0%B0%D0%BB%D0%BA%D0%B8%D0%B2%D0%B0%D0%BB%D1%81%D1%8F-%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5/?do=findComment&comment=188737)
 - [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188736)
 - [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188735)
@@ -63,8 +65,6 @@
 - [Global Scenario Collection](https://forums.vatsim.net/topic/33150-global-scenario-collection/?do=findComment&comment=188732)
 - [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188731)
 - [vPilot Audio and traffic issue](https://forums.vatsim.net/topic/33129-vpilot-audio-and-traffic-issue/?do=findComment&comment=188730)
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188729)
-- [Simulation - aircraft climbing to FL311177](https://forums.vatsim.net/topic/33149-simulation-aircraft-climbing-to-fl311177/?do=findComment&comment=188728)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
