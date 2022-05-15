@@ -27,11 +27,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[IVAO] Flying arround the UK and Irland](https://www.youtube.com/watch?v=MP3ugNMNOsU)
+- [[IVAO] Flying across the UK and Irland](https://www.youtube.com/watch?v=4sehsgBF-WE)
 - [GTAV EP1](https://www.youtube.com/watch?v=FQz6MR7OTLU)
 - [Driving Trains across the UK](https://www.youtube.com/watch?v=mZavlUz3YZY)
 - [[ATC] Manchester Ground VATSIM EGCC_GND](https://www.youtube.com/watch?v=2gOB_NWOp2o)
-- [There is a motivation video that i had created fro you all](https://www.youtube.com/watch?v=cKzpUc_jYaw)
-- [Sedspvp Aviation #1](https://www.youtube.com/watch?v=6Z4TeOA4d0A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
