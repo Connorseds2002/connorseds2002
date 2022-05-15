@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188726)
 - [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188725)
 - [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188724)
 - [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188723)
@@ -64,7 +65,6 @@
 - [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=188719)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188718)
 - [NatTrack web Site Down](https://forums.vatsim.net/topic/33145-nattrack-web-site-down/?do=findComment&comment=188717)
-- [NatTrack web Site Down](https://forums.vatsim.net/topic/33145-nattrack-web-site-down/?do=findComment&comment=188716)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
