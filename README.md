@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot - ArgumentException &lpar;Not implemented&rpar; - nothing helps](https://forums.vatsim.net/topic/33156-vpilot-argumentexception-not-implemented-nothing-helps/?do=findComment&comment=188794)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188793)
 - [COM SET UP IN AIRCRAFT](https://forums.vatsim.net/topic/33154-com-set-up-in-aircraft/?do=findComment&comment=188767)
 - [Entering to a controlled area](https://forums.vatsim.net/topic/26586-entering-to-a-controlled-area/?do=findComment&comment=188766)
@@ -64,7 +65,6 @@
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188757)
 - [Houston Tonight -- Scramble into KIAH &lpar;Mon, 23rd May&rpar;](https://forums.vatsim.net/topic/33153-houston-tonight-scramble-into-kiah-mon-23rd-may/?do=findComment&comment=188756)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188755)
-- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188754)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
