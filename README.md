@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188758)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188757)
 - [Houston Tonight -- Scramble into KIAH &lpar;Mon, 23rd May&rpar;](https://forums.vatsim.net/topic/33153-houston-tonight-scramble-into-kiah-mon-23rd-may/?do=findComment&comment=188756)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188755)
@@ -64,7 +65,6 @@
 - [Entering to a controlled area](https://forums.vatsim.net/topic/26586-entering-to-a-controlled-area/?do=findComment&comment=188751)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188750)
 - [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188749)
-- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188748)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
