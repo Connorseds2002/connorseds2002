@@ -57,7 +57,7 @@
 <!-- VATSIM.NET:START -->
 - [vPilot - ArgumentException &lpar;Not implemented&rpar; - nothing helps](https://forums.vatsim.net/topic/33156-vpilot-argumentexception-not-implemented-nothing-helps/?do=findComment&comment=188794)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188793)
-- [COM SET UP IN AIRCRAFT](https://forums.vatsim.net/topic/33154-com-set-up-in-aircraft/?do=findComment&comment=188767)
+- [COM setup in aircraft](https://forums.vatsim.net/topic/33154-com-setup-in-aircraft/?do=findComment&comment=188767)
 - [Entering to a controlled area](https://forums.vatsim.net/topic/26586-entering-to-a-controlled-area/?do=findComment&comment=188766)
 - [TowerView | Euroscope and swift](https://forums.vatsim.net/topic/32864-towerview-euroscope-and-swift/?do=findComment&comment=188763)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188761)
