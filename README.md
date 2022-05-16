@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188780)
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188779)
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188778)
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188777)
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188776)
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188775)
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188774)
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188773)
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188772)
-- [training scenario&#39;s EHAM wanted.](https://forums.vatsim.net/topic/33148-training-scenarios-eham-wanted/?do=findComment&comment=188771)
+- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188793)
+- [COM SET UP IN AIRCRAFT](https://forums.vatsim.net/topic/33154-com-set-up-in-aircraft/?do=findComment&comment=188767)
+- [Entering to a controlled area](https://forums.vatsim.net/topic/26586-entering-to-a-controlled-area/?do=findComment&comment=188766)
+- [TowerView | Euroscope and swift](https://forums.vatsim.net/topic/32864-towerview-euroscope-and-swift/?do=findComment&comment=188763)
+- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188761)
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188760)
+- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188757)
+- [Houston Tonight -- Scramble into KIAH &lpar;Mon, 23rd May&rpar;](https://forums.vatsim.net/topic/33153-houston-tonight-scramble-into-kiah-mon-23rd-may/?do=findComment&comment=188756)
+- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188755)
+- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188754)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
