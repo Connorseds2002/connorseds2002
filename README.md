@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=188813)
+- [Vatspy problem -- error loading config](https://forums.vatsim.net/topic/7719-vatspy-problem-error-loading-config/?do=findComment&comment=188812)
+- [Need help removing Discord account](https://forums.vatsim.net/topic/33162-need-help-removing-discord-account/?do=findComment&comment=188811)
 - [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188810)
 - [Simbrief prefile - flightplan not found on server](https://forums.vatsim.net/topic/33163-simbrief-prefile-flightplan-not-found-on-server/?do=findComment&comment=188809)
 - [vPilot - ArgumentException &lpar;Not implemented&rpar; - nothing helps](https://forums.vatsim.net/topic/33156-vpilot-argumentexception-not-implemented-nothing-helps/?do=findComment&comment=188808)
@@ -62,9 +65,6 @@
 - [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188806)
 - [Need help removing Discord account](https://forums.vatsim.net/topic/33162-need-help-removing-discord-account/?do=findComment&comment=188805)
 - [Default model is asobo a320 - very fps demaning](https://forums.vatsim.net/topic/33161-default-model-is-asobo-a320-very-fps-demaning/?do=findComment&comment=188804)
-- [Formatting tab missing](https://forums.vatsim.net/topic/33160-formatting-tab-missing/?do=findComment&comment=188803)
-- [Public API for Flight Charts](https://forums.vatsim.net/topic/33159-public-api-for-flight-charts/?do=findComment&comment=188802)
-- [vPilot - ArgumentException &lpar;Not implemented&rpar; - nothing helps](https://forums.vatsim.net/topic/33156-vpilot-argumentexception-not-implemented-nothing-helps/?do=findComment&comment=188801)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
