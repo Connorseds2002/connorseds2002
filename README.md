@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Formatting tab missing](https://forums.vatsim.net/topic/33160-formatting-tab-missing/?do=findComment&comment=188803)
 - [Public API for Flight Charts](https://forums.vatsim.net/topic/33159-public-api-for-flight-charts/?do=findComment&comment=188802)
 - [vPilot - ArgumentException &lpar;Not implemented&rpar; - nothing helps](https://forums.vatsim.net/topic/33156-vpilot-argumentexception-not-implemented-nothing-helps/?do=findComment&comment=188801)
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=188800)
@@ -64,7 +65,6 @@
 - [VPilot annoying Audio Lag](https://forums.vatsim.net/topic/33134-vpilot-annoying-audio-lag/?do=findComment&comment=188796)
 - [Can someone fly with me to learn me?](https://forums.vatsim.net/topic/33157-can-someone-fly-with-me-to-learn-me/?do=findComment&comment=188795)
 - [vPilot - ArgumentException &lpar;Not implemented&rpar; - nothing helps](https://forums.vatsim.net/topic/33156-vpilot-argumentexception-not-implemented-nothing-helps/?do=findComment&comment=188794)
-- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188793)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
