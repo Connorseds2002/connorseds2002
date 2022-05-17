@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Need help removing Discord account](https://forums.vatsim.net/topic/33162-need-help-removing-discord-account/?do=findComment&comment=188805)
+- [Default model is asobo a320 - very fps demaning](https://forums.vatsim.net/topic/33161-default-model-is-asobo-a320-very-fps-demaning/?do=findComment&comment=188804)
 - [Formatting tab missing](https://forums.vatsim.net/topic/33160-formatting-tab-missing/?do=findComment&comment=188803)
 - [Public API for Flight Charts](https://forums.vatsim.net/topic/33159-public-api-for-flight-charts/?do=findComment&comment=188802)
 - [vPilot - ArgumentException &lpar;Not implemented&rpar; - nothing helps](https://forums.vatsim.net/topic/33156-vpilot-argumentexception-not-implemented-nothing-helps/?do=findComment&comment=188801)
@@ -63,8 +65,6 @@
 - [A320 on MSFS 2020 RNAV question.](https://forums.vatsim.net/topic/33158-a320-on-msfs-2020-rnav-question/?do=findComment&comment=188798)
 - [A320 on MSFS 2020 RNAV question.](https://forums.vatsim.net/topic/33158-a320-on-msfs-2020-rnav-question/?do=findComment&comment=188797)
 - [VPilot annoying Audio Lag](https://forums.vatsim.net/topic/33134-vpilot-annoying-audio-lag/?do=findComment&comment=188796)
-- [Can someone fly with me to learn me?](https://forums.vatsim.net/topic/33157-can-someone-fly-with-me-to-learn-me/?do=findComment&comment=188795)
-- [vPilot - ArgumentException &lpar;Not implemented&rpar; - nothing helps](https://forums.vatsim.net/topic/33156-vpilot-argumentexception-not-implemented-nothing-helps/?do=findComment&comment=188794)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
