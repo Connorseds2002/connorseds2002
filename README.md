@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188807)
+- [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188806)
 - [Need help removing Discord account](https://forums.vatsim.net/topic/33162-need-help-removing-discord-account/?do=findComment&comment=188805)
 - [Default model is asobo a320 - very fps demaning](https://forums.vatsim.net/topic/33161-default-model-is-asobo-a320-very-fps-demaning/?do=findComment&comment=188804)
 - [Formatting tab missing](https://forums.vatsim.net/topic/33160-formatting-tab-missing/?do=findComment&comment=188803)
@@ -63,8 +65,6 @@
 - [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=188800)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188799)
 - [A320 on MSFS 2020 RNAV question.](https://forums.vatsim.net/topic/33158-a320-on-msfs-2020-rnav-question/?do=findComment&comment=188798)
-- [A320 on MSFS 2020 RNAV question.](https://forums.vatsim.net/topic/33158-a320-on-msfs-2020-rnav-question/?do=findComment&comment=188797)
-- [VPilot annoying Audio Lag](https://forums.vatsim.net/topic/33134-vpilot-annoying-audio-lag/?do=findComment&comment=188796)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
