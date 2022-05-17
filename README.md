@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Westwind Airlines - Callsign Confusion?](https://forums.vatsim.net/topic/32884-westwind-airlines-callsign-confusion/?do=findComment&comment=188800)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188799)
 - [A320 on MSFS 2020 RNAV question.](https://forums.vatsim.net/topic/33158-a320-on-msfs-2020-rnav-question/?do=findComment&comment=188798)
 - [A320 on MSFS 2020 RNAV question.](https://forums.vatsim.net/topic/33158-a320-on-msfs-2020-rnav-question/?do=findComment&comment=188797)
@@ -64,7 +65,6 @@
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188793)
 - [COM setup in aircraft](https://forums.vatsim.net/topic/33154-com-setup-in-aircraft/?do=findComment&comment=188767)
 - [Entering to a controlled area](https://forums.vatsim.net/topic/26586-entering-to-a-controlled-area/?do=findComment&comment=188766)
-- [TowerView | Euroscope and swift](https://forums.vatsim.net/topic/32864-towerview-euroscope-and-swift/?do=findComment&comment=188763)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
