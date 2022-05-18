@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Simbrief prefile - flightplan not found on server](https://forums.vatsim.net/topic/33163-simbrief-prefile-flightplan-not-found-on-server/?do=findComment&comment=188827)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33165-can-you-fly-as-an-observer/?do=findComment&comment=188826)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33165-can-you-fly-as-an-observer/?do=findComment&comment=188825)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188824)
@@ -64,7 +65,6 @@
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188820)
 - [Need help removing Discord account](https://forums.vatsim.net/topic/33162-need-help-removing-discord-account/?do=findComment&comment=188819)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188818)
-- [ATIS not showing on map.vatsim.net?](https://forums.vatsim.net/topic/33164-atis-not-showing-on-mapvatsimnet/?do=findComment&comment=188817)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
