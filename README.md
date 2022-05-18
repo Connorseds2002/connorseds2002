@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is Vroute still relevant.... ?](https://forums.vatsim.net/topic/33167-is-vroute-still-relevant/?do=findComment&comment=188833)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188832)
 - [Is Vroute still relevant.... ?](https://forums.vatsim.net/topic/33167-is-vroute-still-relevant/?do=findComment&comment=188831)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188830)
@@ -64,7 +65,6 @@
 - [can you fly as an observer](https://forums.vatsim.net/topic/33165-can-you-fly-as-an-observer/?do=findComment&comment=188826)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33165-can-you-fly-as-an-observer/?do=findComment&comment=188825)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188824)
-- [can you fly as an observer](https://forums.vatsim.net/topic/33165-can-you-fly-as-an-observer/?do=findComment&comment=188823)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
