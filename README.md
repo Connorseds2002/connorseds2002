@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATIS not showing on map.vatsim.net?](https://forums.vatsim.net/topic/33164-atis-not-showing-on-mapvatsimnet/?do=findComment&comment=188817)
+- [ATIS not showing on map.vatsim.net?](https://forums.vatsim.net/topic/33164-atis-not-showing-on-mapvatsimnet/?do=findComment&comment=188816)
 - [Simbrief prefile - flightplan not found on server](https://forums.vatsim.net/topic/33163-simbrief-prefile-flightplan-not-found-on-server/?do=findComment&comment=188815)
 - [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188814)
 - [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=188813)
@@ -63,8 +65,6 @@
 - [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188810)
 - [Simbrief prefile - flightplan not found on server](https://forums.vatsim.net/topic/33163-simbrief-prefile-flightplan-not-found-on-server/?do=findComment&comment=188809)
 - [vPilot - ArgumentException &lpar;Not implemented&rpar; - nothing helps](https://forums.vatsim.net/topic/33156-vpilot-argumentexception-not-implemented-nothing-helps/?do=findComment&comment=188808)
-- [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188807)
-- [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188806)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
