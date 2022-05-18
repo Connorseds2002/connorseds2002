@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Unable to transmit](https://forums.vatsim.net/topic/29042-unable-to-transmit/?do=findComment&comment=188822)
+- [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=188821)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188820)
 - [Need help removing Discord account](https://forums.vatsim.net/topic/33162-need-help-removing-discord-account/?do=findComment&comment=188819)
 - [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188818)
@@ -63,8 +65,6 @@
 - [Simbrief prefile - flightplan not found on server](https://forums.vatsim.net/topic/33163-simbrief-prefile-flightplan-not-found-on-server/?do=findComment&comment=188815)
 - [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188814)
 - [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=188813)
-- [Vatspy problem -- error loading config](https://forums.vatsim.net/topic/7719-vatspy-problem-error-loading-config/?do=findComment&comment=188812)
-- [Need help removing Discord account](https://forums.vatsim.net/topic/33162-need-help-removing-discord-account/?do=findComment&comment=188811)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
