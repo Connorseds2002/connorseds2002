@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Is Vroute still relevant.... ?](https://forums.vatsim.net/topic/33167-is-vroute-still-relevant/?do=findComment&comment=188831)
+- [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188830)
+- [Simbrief prefile - flightplan not found on server](https://forums.vatsim.net/topic/33163-simbrief-prefile-flightplan-not-found-on-server/?do=findComment&comment=188829)
+- [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188828)
 - [Simbrief prefile - flightplan not found on server](https://forums.vatsim.net/topic/33163-simbrief-prefile-flightplan-not-found-on-server/?do=findComment&comment=188827)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33165-can-you-fly-as-an-observer/?do=findComment&comment=188826)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33165-can-you-fly-as-an-observer/?do=findComment&comment=188825)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188824)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33165-can-you-fly-as-an-observer/?do=findComment&comment=188823)
 - [Unable to transmit](https://forums.vatsim.net/topic/29042-unable-to-transmit/?do=findComment&comment=188822)
-- [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=188821)
-- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=188820)
-- [Need help removing Discord account](https://forums.vatsim.net/topic/33162-need-help-removing-discord-account/?do=findComment&comment=188819)
-- [P0 exam not showing in assigned exams](https://forums.vatsim.net/topic/32364-p0-exam-not-showing-in-assigned-exams/?do=findComment&comment=188818)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
