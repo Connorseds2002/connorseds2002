@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=188838)
+- [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188837)
+- [VPilot annoying Audio Lag](https://forums.vatsim.net/topic/33134-vpilot-annoying-audio-lag/?do=findComment&comment=188836)
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188835)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188834)
 - [Is Vroute still relevant.... ?](https://forums.vatsim.net/topic/33167-is-vroute-still-relevant/?do=findComment&comment=188833)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188832)
 - [Is Vroute still relevant.... ?](https://forums.vatsim.net/topic/33167-is-vroute-still-relevant/?do=findComment&comment=188831)
 - [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188830)
 - [Simbrief prefile - flightplan not found on server](https://forums.vatsim.net/topic/33163-simbrief-prefile-flightplan-not-found-on-server/?do=findComment&comment=188829)
-- [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188828)
-- [Simbrief prefile - flightplan not found on server](https://forums.vatsim.net/topic/33163-simbrief-prefile-flightplan-not-found-on-server/?do=findComment&comment=188827)
-- [can you fly as an observer](https://forums.vatsim.net/topic/33165-can-you-fly-as-an-observer/?do=findComment&comment=188826)
-- [can you fly as an observer](https://forums.vatsim.net/topic/33165-can-you-fly-as-an-observer/?do=findComment&comment=188825)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
