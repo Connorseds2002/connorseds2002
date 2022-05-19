@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Pilot competency and network use...](https://forums.vatsim.net/topic/33168-pilot-competency-and-network-use/?do=findComment&comment=188847)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188846)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188845)
 - [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=188844)
@@ -64,7 +65,6 @@
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=188840)
 - [Simbrief prefile - flightplan not found on server](https://forums.vatsim.net/topic/33163-simbrief-prefile-flightplan-not-found-on-server/?do=findComment&comment=188839)
 - [VATBOARD / VATBOARD.WEB - Arrivals/Departures board](https://forums.vatsim.net/topic/26910-vatboard-vatboardweb-arrivalsdepartures-board/?do=findComment&comment=188838)
-- [can you fly as an observer](https://forums.vatsim.net/topic/33166-can-you-fly-as-an-observer/?do=findComment&comment=188837)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
