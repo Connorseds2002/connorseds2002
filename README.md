@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC: Couldn&#39;t find active VATSIM connection, please connect](https://forums.vatsim.net/topic/26026-atc-couldnt-find-active-vatsim-connection-please-connect/?do=findComment&comment=188866)
+- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=188865)
+- [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188864)
 - [ATC: Couldn&#39;t find active VATSIM connection, please connect](https://forums.vatsim.net/topic/26026-atc-couldnt-find-active-vatsim-connection-please-connect/?do=findComment&comment=188863)
 - [ATC: Couldn&#39;t find active VATSIM connection, please connect](https://forums.vatsim.net/topic/26026-atc-couldnt-find-active-vatsim-connection-please-connect/?do=findComment&comment=188862)
 - [An anthem for VATEUD/VATSIM: Pilots and controllers, unite!](https://forums.vatsim.net/topic/33173-an-anthem-for-vateudvatsim-pilots-and-controllers-unite/?do=findComment&comment=188861)
@@ -62,9 +65,6 @@
 - [Eurocat](https://forums.vatsim.net/topic/12005-eurocat/?do=findComment&comment=188859)
 - [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188858)
 - [Eurocat](https://forums.vatsim.net/topic/12005-eurocat/?do=findComment&comment=188857)
-- [Flying from the Pearl of the Orient - Welcome to Lion Rock Aviation.](https://forums.vatsim.net/topic/33172-flying-from-the-pearl-of-the-orient-welcome-to-lion-rock-aviation/?do=findComment&comment=188856)
-- [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188855)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188854)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
