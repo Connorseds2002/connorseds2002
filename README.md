@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=188868)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188867)
 - [ATC: Couldn&#39;t find active VATSIM connection, please connect](https://forums.vatsim.net/topic/26026-atc-couldnt-find-active-vatsim-connection-please-connect/?do=findComment&comment=188866)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=188865)
@@ -64,7 +65,6 @@
 - [An anthem for VATEUD/VATSIM: Pilots and controllers, unite!](https://forums.vatsim.net/topic/33173-an-anthem-for-vateudvatsim-pilots-and-controllers-unite/?do=findComment&comment=188861)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188860)
 - [Eurocat](https://forums.vatsim.net/topic/12005-eurocat/?do=findComment&comment=188859)
-- [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188858)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
