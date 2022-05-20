@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flying from the Pearl of the Orient - Welcome to Lion Rock Aviation.](https://forums.vatsim.net/topic/33172-flying-from-the-pearl-of-the-orient-welcome-to-lion-rock-aviation/?do=findComment&comment=188856)
+- [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188855)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188854)
 - [vSTARS 1.4.6 now available](https://forums.vatsim.net/topic/33170-vstars-146-now-available/?do=findComment&comment=188853)
 - [vERAM 1.3.4 now available](https://forums.vatsim.net/topic/33169-veram-134-now-available/?do=findComment&comment=188852)
@@ -63,8 +65,6 @@
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=188849)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188848)
 - [Pilot competency and network use...](https://forums.vatsim.net/topic/33168-pilot-competency-and-network-use/?do=findComment&comment=188847)
-- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188846)
-- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188845)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
