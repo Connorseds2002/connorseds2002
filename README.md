@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC: Couldn&#39;t find active VATSIM connection, please connect](https://forums.vatsim.net/topic/26026-atc-couldnt-find-active-vatsim-connection-please-connect/?do=findComment&comment=188863)
 - [ATC: Couldn&#39;t find active VATSIM connection, please connect](https://forums.vatsim.net/topic/26026-atc-couldnt-find-active-vatsim-connection-please-connect/?do=findComment&comment=188862)
 - [An anthem for VATEUD/VATSIM: Pilots and controllers, unite!](https://forums.vatsim.net/topic/33173-an-anthem-for-vateudvatsim-pilots-and-controllers-unite/?do=findComment&comment=188861)
 - [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188860)
@@ -64,7 +65,6 @@
 - [Flying from the Pearl of the Orient - Welcome to Lion Rock Aviation.](https://forums.vatsim.net/topic/33172-flying-from-the-pearl-of-the-orient-welcome-to-lion-rock-aviation/?do=findComment&comment=188856)
 - [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188855)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188854)
-- [vSTARS 1.4.6 now available](https://forums.vatsim.net/topic/33170-vstars-146-now-available/?do=findComment&comment=188853)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
