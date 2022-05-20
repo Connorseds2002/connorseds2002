@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=188854)
+- [vSTARS 1.4.6 now available](https://forums.vatsim.net/topic/33170-vstars-146-now-available/?do=findComment&comment=188853)
+- [vERAM 1.3.4 now available](https://forums.vatsim.net/topic/33169-veram-134-now-available/?do=findComment&comment=188852)
 - [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188851)
 - [Need help removing Discord account](https://forums.vatsim.net/topic/33162-need-help-removing-discord-account/?do=findComment&comment=188850)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=188849)
@@ -62,9 +65,6 @@
 - [Pilot competency and network use...](https://forums.vatsim.net/topic/33168-pilot-competency-and-network-use/?do=findComment&comment=188847)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188846)
 - [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188845)
-- [MSFS2020 model matching](https://forums.vatsim.net/topic/32841-msfs2020-model-matching/?do=findComment&comment=188844)
-- [Finally transitioned to a Windows 7 Sim](https://forums.vatsim.net/topic/32986-finally-transitioned-to-a-windows-7-sim/?do=findComment&comment=188843)
-- [I cannot get audio to work. I get a exception error at start. Error Log included](https://forums.vatsim.net/topic/33124-i-cannot-get-audio-to-work-i-get-a-exception-error-at-start-error-log-included/?do=findComment&comment=188842)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
