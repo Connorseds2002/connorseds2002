@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188871)
 - [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=188870)
 - [Can someone fly with me to learn me?](https://forums.vatsim.net/topic/33157-can-someone-fly-with-me-to-learn-me/?do=findComment&comment=188869)
 - [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=188868)
@@ -64,7 +65,6 @@
 - [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188864)
 - [ATC: Couldn&#39;t find active VATSIM connection, please connect](https://forums.vatsim.net/topic/26026-atc-couldnt-find-active-vatsim-connection-please-connect/?do=findComment&comment=188863)
 - [ATC: Couldn&#39;t find active VATSIM connection, please connect](https://forums.vatsim.net/topic/26026-atc-couldnt-find-active-vatsim-connection-please-connect/?do=findComment&comment=188862)
-- [An anthem for VATEUD/VATSIM: Pilots and controllers, unite!](https://forums.vatsim.net/topic/33173-an-anthem-for-vateudvatsim-pilots-and-controllers-unite/?do=findComment&comment=188861)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
