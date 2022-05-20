@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188860)
 - [Eurocat](https://forums.vatsim.net/topic/12005-eurocat/?do=findComment&comment=188859)
 - [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188858)
 - [Eurocat](https://forums.vatsim.net/topic/12005-eurocat/?do=findComment&comment=188857)
@@ -64,7 +65,6 @@
 - [vSTARS 1.4.6 now available](https://forums.vatsim.net/topic/33170-vstars-146-now-available/?do=findComment&comment=188853)
 - [vERAM 1.3.4 now available](https://forums.vatsim.net/topic/33169-veram-134-now-available/?do=findComment&comment=188852)
 - [ICAO Flight plan - Fuel endurance](https://forums.vatsim.net/topic/32987-icao-flight-plan-fuel-endurance/?do=findComment&comment=188851)
-- [Need help removing Discord account](https://forums.vatsim.net/topic/33162-need-help-removing-discord-account/?do=findComment&comment=188850)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
