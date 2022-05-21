@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188880)
 - [Euroscope updated to support vatsim velocity](https://forums.vatsim.net/topic/33176-euroscope-updated-to-support-vatsim-velocity/?do=findComment&comment=188879)
 - [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188878)
 - [Euroscope updated to support vatsim velocity](https://forums.vatsim.net/topic/33176-euroscope-updated-to-support-vatsim-velocity/?do=findComment&comment=188877)
@@ -64,7 +65,6 @@
 - [Using stock FSX GPS and Flight Planner](https://forums.vatsim.net/topic/33174-using-stock-fsx-gps-and-flight-planner/?do=findComment&comment=188872)
 - [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188871)
 - [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=188870)
-- [Can someone fly with me to learn me?](https://forums.vatsim.net/topic/33157-can-someone-fly-with-me-to-learn-me/?do=findComment&comment=188869)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
