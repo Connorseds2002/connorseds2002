@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188892)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188891)
 - [[VATCAR] EVENTS COORDINATOR VACANCY](https://forums.vatsim.net/topic/33183-vatcar-events-coordinator-vacancy/?do=findComment&comment=188890)
 - [[VATCAR][SANTO DOMINGO] AIR TRAFFIC MANAGER VACANCY](https://forums.vatsim.net/topic/33182-vatcarsanto-domingo-air-traffic-manager-vacancy/?do=findComment&comment=188889)
@@ -64,7 +65,6 @@
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188885)
 - [Whoa! Just Whoa! Chicago Center 5/21/22, 16:54&#39;ish Z](https://forums.vatsim.net/topic/33180-whoa-just-whoa-chicago-center-52122-1654ish-z/?do=findComment&comment=188884)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188883)
-- [AIG MSFS model matching help](https://forums.vatsim.net/topic/33179-aig-msfs-model-matching-help/?do=findComment&comment=188882)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
