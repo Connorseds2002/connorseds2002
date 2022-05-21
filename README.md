@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [AIG MSFS model matching help](https://forums.vatsim.net/topic/33179-aig-msfs-model-matching-help/?do=findComment&comment=188886)
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188885)
 - [Whoa! Just Whoa! Chicago Center 5/21/22, 16:54&#39;ish Z](https://forums.vatsim.net/topic/33180-whoa-just-whoa-chicago-center-52122-1654ish-z/?do=findComment&comment=188884)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188883)
 - [AIG MSFS model matching help](https://forums.vatsim.net/topic/33179-aig-msfs-model-matching-help/?do=findComment&comment=188882)
@@ -63,8 +65,6 @@
 - [Euroscope updated to support vatsim velocity](https://forums.vatsim.net/topic/33176-euroscope-updated-to-support-vatsim-velocity/?do=findComment&comment=188879)
 - [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188878)
 - [Euroscope updated to support vatsim velocity](https://forums.vatsim.net/topic/33176-euroscope-updated-to-support-vatsim-velocity/?do=findComment&comment=188877)
-- [Euroscope updated to support vatsim velocity](https://forums.vatsim.net/topic/33176-euroscope-updated-to-support-vatsim-velocity/?do=findComment&comment=188876)
-- [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188875)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
