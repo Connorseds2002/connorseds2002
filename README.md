@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VATCAR] INFORMATION SYSTEMS COORDINATOR](https://forums.vatsim.net/topic/33181-vatcar-information-systems-coordinator/?do=findComment&comment=188888)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188887)
 - [AIG MSFS model matching help](https://forums.vatsim.net/topic/33179-aig-msfs-model-matching-help/?do=findComment&comment=188886)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188885)
@@ -64,7 +65,6 @@
 - [AIG MSFS model matching help](https://forums.vatsim.net/topic/33179-aig-msfs-model-matching-help/?do=findComment&comment=188881)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188880)
 - [Euroscope updated to support vatsim velocity](https://forums.vatsim.net/topic/33176-euroscope-updated-to-support-vatsim-velocity/?do=findComment&comment=188879)
-- [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188878)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
