@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188878)
+- [Euroscope updated to support vatsim velocity](https://forums.vatsim.net/topic/33176-euroscope-updated-to-support-vatsim-velocity/?do=findComment&comment=188877)
 - [Euroscope updated to support vatsim velocity](https://forums.vatsim.net/topic/33176-euroscope-updated-to-support-vatsim-velocity/?do=findComment&comment=188876)
 - [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188875)
 - [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188874)
@@ -63,8 +65,6 @@
 - [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=188870)
 - [Can someone fly with me to learn me?](https://forums.vatsim.net/topic/33157-can-someone-fly-with-me-to-learn-me/?do=findComment&comment=188869)
 - [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=188868)
-- [Planning ahead for retiring VRC](https://forums.vatsim.net/topic/31274-planning-ahead-for-retiring-vrc/?do=findComment&comment=188867)
-- [ATC: Couldn&#39;t find active VATSIM connection, please connect](https://forums.vatsim.net/topic/26026-atc-couldnt-find-active-vatsim-connection-please-connect/?do=findComment&comment=188866)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
