@@ -55,9 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Euroscope updated to support vatsim velocity](https://forums.vatsim.net/topic/33176-euroscope-updated-to-support-vatsim-velocity/?do=findComment&comment=188876)
 - [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188875)
 - [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188874)
-- [Voice Receive problems - ASUS Sonic Studio](https://forums.vatsim.net/topic/32555-voice-receive-problems-asus-sonic-studio/?do=findComment&comment=188873)
 - [Using stock FSX GPS and Flight Planner](https://forums.vatsim.net/topic/33174-using-stock-fsx-gps-and-flight-planner/?do=findComment&comment=188872)
 - [Arriving IFR into an airport with only a control tower](https://forums.vatsim.net/topic/33171-arriving-ifr-into-an-airport-with-only-a-control-tower/?do=findComment&comment=188871)
 - [I failed in the test](https://forums.vatsim.net/topic/30594-i-failed-in-the-test/?do=findComment&comment=188870)
