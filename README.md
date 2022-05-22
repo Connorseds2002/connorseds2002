@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188911)
+- [SOP Question](https://forums.vatsim.net/topic/33187-sop-question/?do=findComment&comment=188910)
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188909)
+- [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188908)
+- [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188907)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188906)
 - [vPilot Unhandled exception has occurred in your application](https://forums.vatsim.net/topic/33186-vpilot-unhandled-exception-has-occurred-in-your-application/?do=findComment&comment=188905)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188904)
 - [I cant talk to atc](https://forums.vatsim.net/topic/33185-i-cant-talk-to-atc/?do=findComment&comment=188903)
 - [I cant talk to atc](https://forums.vatsim.net/topic/33185-i-cant-talk-to-atc/?do=findComment&comment=188902)
-- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188901)
-- [ATC: Couldn&#39;t find active VATSIM connection, please connect](https://forums.vatsim.net/topic/26026-atc-couldnt-find-active-vatsim-connection-please-connect/?do=findComment&comment=188900)
-- [Using stock FSX GPS and Flight Planner](https://forums.vatsim.net/topic/33174-using-stock-fsx-gps-and-flight-planner/?do=findComment&comment=188899)
-- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188898)
-- [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=188897)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
