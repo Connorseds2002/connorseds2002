@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188914)
 - [SOP Question](https://forums.vatsim.net/topic/33187-sop-question/?do=findComment&comment=188913)
 - [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188912)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188911)
@@ -64,7 +65,6 @@
 - [Any way to get a list of aircraft around you?](https://forums.vatsim.net/topic/33175-any-way-to-get-a-list-of-aircraft-around-you/?do=findComment&comment=188907)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188906)
 - [vPilot Unhandled exception has occurred in your application](https://forums.vatsim.net/topic/33186-vpilot-unhandled-exception-has-occurred-in-your-application/?do=findComment&comment=188905)
-- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188904)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
