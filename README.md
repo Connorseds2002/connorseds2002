@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=188896)
 - [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=188895)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188894)
 - [Whoa! Just Whoa! Chicago Center 5/21/22, 16:54&#39;ish Z](https://forums.vatsim.net/topic/33180-whoa-just-whoa-chicago-center-52122-1654ish-z/?do=findComment&comment=188893)
@@ -64,7 +65,6 @@
 - [[VATCAR][SANTO DOMINGO] AIR TRAFFIC MANAGER VACANCY](https://forums.vatsim.net/topic/33182-vatcarsanto-domingo-air-traffic-manager-vacancy/?do=findComment&comment=188889)
 - [[VATCAR] INFORMATION SYSTEMS COORDINATOR](https://forums.vatsim.net/topic/33181-vatcar-information-systems-coordinator/?do=findComment&comment=188888)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188887)
-- [AIG MSFS model matching help](https://forums.vatsim.net/topic/33179-aig-msfs-model-matching-help/?do=findComment&comment=188886)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
