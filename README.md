@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Houston Tonight -- Scramble into KIAH &lpar;Mon, 23rd May&rpar;](https://forums.vatsim.net/topic/33153-houston-tonight-scramble-into-kiah-mon-23rd-may/?do=findComment&comment=188938)
+- [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188937)
 - [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188936)
 - [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188935)
 - [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188934)
@@ -63,8 +65,6 @@
 - [V-Pilot authentication failure](https://forums.vatsim.net/topic/33190-v-pilot-authentication-failure/?do=findComment&comment=188931)
 - [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=188930)
 - [SOP Question](https://forums.vatsim.net/topic/33187-sop-question/?do=findComment&comment=188929)
-- [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=188928)
-- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188927)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
