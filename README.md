@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.4.0 BETA released](https://forums.vatsim.net/topic/33192-vpilot-340-beta-released/?do=findComment&comment=188946)
+- [VATSUR Hit Squad closed](https://forums.vatsim.net/topic/31171-vatsur-hit-squad-closed/?do=findComment&comment=188945)
+- [VATSUR Hit Squad closed](https://forums.vatsim.net/topic/31171-vatsur-hit-squad-closed/?do=findComment&comment=188944)
+- [Whoa! Just Whoa! Chicago Center 5/21/22, 16:54&#39;ish Z](https://forums.vatsim.net/topic/33180-whoa-just-whoa-chicago-center-52122-1654ish-z/?do=findComment&comment=188943)
+- [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188942)
 - [Position Vacancy: Port-Au-Prince Events Coordinator](https://forums.vatsim.net/topic/33191-position-vacancy-port-au-prince-events-coordinator/?do=findComment&comment=188941)
 - [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=188940)
 - [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188939)
 - [Houston Tonight -- Scramble into KIAH &lpar;Mon, 23rd May&rpar;](https://forums.vatsim.net/topic/33153-houston-tonight-scramble-into-kiah-mon-23rd-may/?do=findComment&comment=188938)
 - [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188937)
-- [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188936)
-- [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188935)
-- [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188934)
-- [V-Pilot authentication failure](https://forums.vatsim.net/topic/33190-v-pilot-authentication-failure/?do=findComment&comment=188933)
-- [V-Pilot authentication failure](https://forums.vatsim.net/topic/33190-v-pilot-authentication-failure/?do=findComment&comment=188932)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
