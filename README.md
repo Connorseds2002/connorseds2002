@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188958)
 - [A little &quot;how to fly transitions in Germany&quot;](https://forums.vatsim.net/topic/28619-a-little-how-to-fly-transitions-in-germany/?do=findComment&comment=188957)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188956)
 - [SOP Question](https://forums.vatsim.net/topic/33187-sop-question/?do=findComment&comment=188955)
@@ -64,7 +65,6 @@
 - [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=188951)
 - [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=188950)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188949)
-- [Vacante: Director de Tecnología de VATSUR](https://forums.vatsim.net/topic/33193-vacante-director-de-tecnolog%C3%ADa-de-vatsur/?do=findComment&comment=188948)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
