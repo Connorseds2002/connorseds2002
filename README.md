@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188953)
+- [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=188952)
+- [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=188951)
+- [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=188950)
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188949)
 - [Vacante: Director de Tecnología de VATSUR](https://forums.vatsim.net/topic/33193-vacante-director-de-tecnolog%C3%ADa-de-vatsur/?do=findComment&comment=188948)
 - [SOP Question](https://forums.vatsim.net/topic/33187-sop-question/?do=findComment&comment=188947)
 - [vPilot 3.4.0 BETA released](https://forums.vatsim.net/topic/33192-vpilot-340-beta-released/?do=findComment&comment=188946)
 - [VATSUR Hit Squad closed](https://forums.vatsim.net/topic/31171-vatsur-hit-squad-closed/?do=findComment&comment=188945)
 - [VATSUR Hit Squad closed](https://forums.vatsim.net/topic/31171-vatsur-hit-squad-closed/?do=findComment&comment=188944)
-- [Whoa! Just Whoa! Chicago Center 5/21/22, 16:54&#39;ish Z](https://forums.vatsim.net/topic/33180-whoa-just-whoa-chicago-center-52122-1654ish-z/?do=findComment&comment=188943)
-- [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188942)
-- [Position Vacancy: Port-Au-Prince Events Coordinator](https://forums.vatsim.net/topic/33191-position-vacancy-port-au-prince-events-coordinator/?do=findComment&comment=188941)
-- [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=188940)
-- [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188939)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
