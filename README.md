@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188983)
+- [Computer setup help](https://forums.vatsim.net/topic/33197-computer-setup-help/?do=findComment&comment=188982)
 - [Question - Using uniATIS to create ATIS](https://forums.vatsim.net/topic/33196-question-using-uniatis-to-create-atis/?do=findComment&comment=188981)
 - [SOP Question](https://forums.vatsim.net/topic/33187-sop-question/?do=findComment&comment=188980)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188979)
@@ -63,8 +65,6 @@
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188976)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188975)
 - [vPILOT does NOT recognize MyTraffic Professional 6.0a](https://forums.vatsim.net/topic/33188-vpilot-does-not-recognize-mytraffic-professional-60a/?do=findComment&comment=188974)
-- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188973)
-- [A little &quot;how to fly transitions in Germany&quot;](https://forums.vatsim.net/topic/28619-a-little-how-to-fly-transitions-in-germany/?do=findComment&comment=188972)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
