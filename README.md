@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vacante: Director de Tecnología de VATSUR](https://forums.vatsim.net/topic/33193-vacante-director-de-tecnolog%C3%ADa-de-vatsur/?do=findComment&comment=189004)
+- [Florida area controller?](https://forums.vatsim.net/topic/33201-florida-area-controller/?do=findComment&comment=189003)
 - [Florida area controller?](https://forums.vatsim.net/topic/33201-florida-area-controller/?do=findComment&comment=189002)
 - [Florida area controller?](https://forums.vatsim.net/topic/33201-florida-area-controller/?do=findComment&comment=189001)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189000)
@@ -63,8 +65,6 @@
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188997)
 - [Vacante: Director de Tecnología de VATSUR](https://forums.vatsim.net/topic/33193-vacante-director-de-tecnolog%C3%ADa-de-vatsur/?do=findComment&comment=188996)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=188995)
-- [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188994)
-- [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188993)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
