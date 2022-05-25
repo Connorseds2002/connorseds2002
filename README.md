@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Florida area controller?](https://forums.vatsim.net/topic/33201-florida-area-controller/?do=findComment&comment=189002)
+- [Florida area controller?](https://forums.vatsim.net/topic/33201-florida-area-controller/?do=findComment&comment=189001)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189000)
 - [Temporary Altitude Bug](https://forums.vatsim.net/topic/33200-temporary-altitude-bug/?do=findComment&comment=188999)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188998)
@@ -63,8 +65,6 @@
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=188995)
 - [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188994)
 - [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188993)
-- [I can&#39;t login](https://forums.vatsim.net/topic/33199-i-cant-login/?do=findComment&comment=188992)
-- [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=188991)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
