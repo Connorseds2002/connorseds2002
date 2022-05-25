@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Temporary Altitude Bug](https://forums.vatsim.net/topic/33200-temporary-altitude-bug/?do=findComment&comment=188999)
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188998)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188997)
 - [Vacante: Director de Tecnología de VATSUR](https://forums.vatsim.net/topic/33193-vacante-director-de-tecnolog%C3%ADa-de-vatsur/?do=findComment&comment=188996)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=188995)
@@ -63,8 +65,6 @@
 - [I can&#39;t login](https://forums.vatsim.net/topic/33199-i-cant-login/?do=findComment&comment=188992)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=188991)
 - [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188990)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188989)
-- [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=188988)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
