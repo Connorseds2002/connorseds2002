@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=188988)
 - [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188987)
 - [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188986)
 - [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188985)
@@ -64,7 +65,6 @@
 - [Question - Using uniATIS to create ATIS](https://forums.vatsim.net/topic/33196-question-using-uniatis-to-create-atis/?do=findComment&comment=188981)
 - [SOP Question](https://forums.vatsim.net/topic/33187-sop-question/?do=findComment&comment=188980)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188979)
-- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188978)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
