@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [I can&#39;t login](https://forums.vatsim.net/topic/33199-i-cant-login/?do=findComment&comment=188992)
+- [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=188991)
 - [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188990)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=188989)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=188988)
@@ -63,8 +65,6 @@
 - [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188985)
 - [Text cursor impedes macros](https://forums.vatsim.net/topic/33198-text-cursor-impedes-macros/?do=findComment&comment=188984)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=188983)
-- [Computer setup help](https://forums.vatsim.net/topic/33197-computer-setup-help/?do=findComment&comment=188982)
-- [Question - Using uniATIS to create ATIS](https://forums.vatsim.net/topic/33196-question-using-uniatis-to-create-atis/?do=findComment&comment=188981)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
