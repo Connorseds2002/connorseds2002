@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=189011)
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=189010)
 - [Temporary Altitude Bug](https://forums.vatsim.net/topic/33200-temporary-altitude-bug/?do=findComment&comment=189009)
 - [Temporary Altitude Bug](https://forums.vatsim.net/topic/33200-temporary-altitude-bug/?do=findComment&comment=189008)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189007)
@@ -63,8 +65,6 @@
 - [Vacante: Director de Tecnología de VATSUR](https://forums.vatsim.net/topic/33193-vacante-director-de-tecnolog%C3%ADa-de-vatsur/?do=findComment&comment=189004)
 - [Florida area controller?](https://forums.vatsim.net/topic/33201-florida-area-controller/?do=findComment&comment=189003)
 - [Florida area controller?](https://forums.vatsim.net/topic/33201-florida-area-controller/?do=findComment&comment=189002)
-- [Florida area controller?](https://forums.vatsim.net/topic/33201-florida-area-controller/?do=findComment&comment=189001)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189000)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
