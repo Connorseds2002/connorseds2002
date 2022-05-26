@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Temporary Altitude Bug](https://forums.vatsim.net/topic/33200-temporary-altitude-bug/?do=findComment&comment=189009)
 - [Temporary Altitude Bug](https://forums.vatsim.net/topic/33200-temporary-altitude-bug/?do=findComment&comment=189008)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189007)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189006)
@@ -64,7 +65,6 @@
 - [Florida area controller?](https://forums.vatsim.net/topic/33201-florida-area-controller/?do=findComment&comment=189002)
 - [Florida area controller?](https://forums.vatsim.net/topic/33201-florida-area-controller/?do=findComment&comment=189001)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189000)
-- [Temporary Altitude Bug](https://forums.vatsim.net/topic/33200-temporary-altitude-bug/?do=findComment&comment=188999)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
