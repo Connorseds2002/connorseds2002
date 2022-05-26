@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189019)
+- [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=189018)
+- [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189017)
+- [Model Matching only matching aircraft type not working](https://forums.vatsim.net/topic/33202-model-matching-only-matching-aircraft-type-not-working/?do=findComment&comment=189016)
 - [Model Matching only matching aircraft type not working](https://forums.vatsim.net/topic/33202-model-matching-only-matching-aircraft-type-not-working/?do=findComment&comment=189015)
 - [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=189014)
 - [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=189013)
 - [Model Matching only matching aircraft type not working](https://forums.vatsim.net/topic/33202-model-matching-only-matching-aircraft-type-not-working/?do=findComment&comment=189012)
 - [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=189011)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=189010)
-- [Temporary Altitude Bug](https://forums.vatsim.net/topic/33200-temporary-altitude-bug/?do=findComment&comment=189009)
-- [Temporary Altitude Bug](https://forums.vatsim.net/topic/33200-temporary-altitude-bug/?do=findComment&comment=189008)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189007)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189006)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
