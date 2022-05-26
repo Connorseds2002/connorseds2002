@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM And Float Planes?](https://forums.vatsim.net/topic/33014-vatsim-and-float-planes/?do=findComment&comment=189024)
+- [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=189023)
 - [Why has VATSIM turned into the anti-pilot network under current leadership? A solution.](https://forums.vatsim.net/topic/33178-why-has-vatsim-turned-into-the-anti-pilot-network-under-current-leadership-a-solution/?do=findComment&comment=189022)
 - [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189021)
 - [Model Matching only matching aircraft type not working](https://forums.vatsim.net/topic/33202-model-matching-only-matching-aircraft-type-not-working/?do=findComment&comment=189020)
@@ -63,8 +65,6 @@
 - [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189017)
 - [Model Matching only matching aircraft type not working](https://forums.vatsim.net/topic/33202-model-matching-only-matching-aircraft-type-not-working/?do=findComment&comment=189016)
 - [Model Matching only matching aircraft type not working](https://forums.vatsim.net/topic/33202-model-matching-only-matching-aircraft-type-not-working/?do=findComment&comment=189015)
-- [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=189014)
-- [Still in VATSIM Limbo](https://forums.vatsim.net/topic/32847-still-in-vatsim-limbo/?do=findComment&comment=189013)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
