@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189080)
+- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189079)
 - [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189078)
 - [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189077)
 - [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=189076)
@@ -63,8 +65,6 @@
 - [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=189073)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189072)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189071)
-- [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189070)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189069)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
