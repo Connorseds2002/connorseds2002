@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189049)
+- [Ultimate Traffic Live 2](https://forums.vatsim.net/topic/33207-ultimate-traffic-live-2/?do=findComment&comment=189048)
 - [Ultimate Traffic Live 2](https://forums.vatsim.net/topic/33207-ultimate-traffic-live-2/?do=findComment&comment=189047)
 - [Ultimate Traffic Live 2](https://forums.vatsim.net/topic/33207-ultimate-traffic-live-2/?do=findComment&comment=189046)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189045)
@@ -63,8 +65,6 @@
 - [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189042)
 - [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189041)
 - [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189040)
-- [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189039)
-- [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189038)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
