@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=189051)
+- [No audio from first transceiver](https://forums.vatsim.net/topic/33208-no-audio-from-first-transceiver/?do=findComment&comment=189050)
 - [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189049)
 - [Ultimate Traffic Live 2](https://forums.vatsim.net/topic/33207-ultimate-traffic-live-2/?do=findComment&comment=189048)
 - [Ultimate Traffic Live 2](https://forums.vatsim.net/topic/33207-ultimate-traffic-live-2/?do=findComment&comment=189047)
@@ -63,8 +65,6 @@
 - [Sunday Night Ops - VIDP &lt;-&gt; VILK | June 26, 2022](https://forums.vatsim.net/topic/33206-sunday-night-ops-vidp-vilk-june-26-2022/?do=findComment&comment=189044)
 - [Sunday Night Ops - VABB &lt;-&gt; VABP | June 5, 2022](https://forums.vatsim.net/topic/33205-sunday-night-ops-vabb-vabp-june-5-2022/?do=findComment&comment=189043)
 - [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189042)
-- [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189041)
-- [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189040)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
