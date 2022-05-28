@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189111)
+- [Flight Management System](https://forums.vatsim.net/topic/33217-flight-management-system/?do=findComment&comment=189110)
+- [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189108)
 - [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=189107)
 - [Hello and New to the Vatsim Community](https://forums.vatsim.net/topic/33214-hello-and-new-to-the-vatsim-community/?do=findComment&comment=189106)
 - [VHHH Updated Scenery](https://forums.vatsim.net/topic/33211-vhhh-updated-scenery/?do=findComment&comment=189105)
@@ -62,9 +65,6 @@
 - [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=189103)
 - [Hello and New to the Vatsim Community](https://forums.vatsim.net/topic/33214-hello-and-new-to-the-vatsim-community/?do=findComment&comment=189102)
 - [vERAM 1.3.5 now available](https://forums.vatsim.net/topic/33213-veram-135-now-available/?do=findComment&comment=189101)
-- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189100)
-- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189099)
-- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189098)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
