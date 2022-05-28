@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189086)
 - [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=189085)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189084)
 - [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189083)
@@ -64,7 +65,6 @@
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189079)
 - [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189078)
 - [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189077)
-- [Callsign to livery?](https://forums.vatsim.net/topic/32824-callsign-to-livery/?do=findComment&comment=189076)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
