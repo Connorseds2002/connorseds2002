@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189095)
+- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189094)
 - [VATSIM And Float Planes?](https://forums.vatsim.net/topic/33014-vatsim-and-float-planes/?do=findComment&comment=189093)
 - [Euroscope DLL](https://forums.vatsim.net/topic/33212-euroscope-dll/?do=findComment&comment=189092)
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189091)
@@ -63,8 +65,6 @@
 - [VHHH Updated Scenery](https://forums.vatsim.net/topic/33211-vhhh-updated-scenery/?do=findComment&comment=189088)
 - [Looking for resource - differences between US and EU ATC](https://forums.vatsim.net/topic/33143-looking-for-resource-differences-between-us-and-eu-atc/?do=findComment&comment=189087)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189086)
-- [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=189085)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189084)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
