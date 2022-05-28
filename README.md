@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VHHH Updated Scenery](https://forums.vatsim.net/topic/33211-vhhh-updated-scenery/?do=findComment&comment=189088)
 - [Looking for resource - differences between US and EU ATC](https://forums.vatsim.net/topic/33143-looking-for-resource-differences-between-us-and-eu-atc/?do=findComment&comment=189087)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189086)
 - [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=189085)
@@ -64,7 +65,6 @@
 - [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189081)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189080)
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189079)
-- [ATP to Controller](https://forums.vatsim.net/topic/33203-atp-to-controller/?do=findComment&comment=189078)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
