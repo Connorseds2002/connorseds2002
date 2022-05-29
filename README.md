@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] VATEUD ATC Training Department open positions](https://forums.vatsim.net/topic/33222-vacancy-vateud-atc-training-department-open-positions/?do=findComment&comment=189144)
+- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189143)
 - [xPilot is unable to connect to X-Plane 11](https://forums.vatsim.net/topic/33219-xpilot-is-unable-to-connect-to-x-plane-11/?do=findComment&comment=189142)
 - [What do I do If there is tower but no center or approach controller online](https://forums.vatsim.net/topic/33221-what-do-i-do-if-there-is-tower-but-no-center-or-approach-controller-online/?do=findComment&comment=189141)
 - [Entering to a controlled area](https://forums.vatsim.net/topic/26586-entering-to-a-controlled-area/?do=findComment&comment=189140)
@@ -63,8 +65,6 @@
 - [xPilot is unable to connect to X-Plane 11](https://forums.vatsim.net/topic/33219-xpilot-is-unable-to-connect-to-x-plane-11/?do=findComment&comment=189137)
 - [xPilot is unable to connect to X-Plane 11](https://forums.vatsim.net/topic/33219-xpilot-is-unable-to-connect-to-x-plane-11/?do=findComment&comment=189136)
 - [Transponder/ATC and TCAS settings](https://forums.vatsim.net/topic/33220-transponderatc-and-tcas-settings/?do=findComment&comment=189135)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189134)
-- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189133)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
