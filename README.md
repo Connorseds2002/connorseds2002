@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot stuttering](https://forums.vatsim.net/topic/33132-vpilot-stuttering/?do=findComment&comment=189128)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189127)
 - [No hours shown](https://forums.vatsim.net/topic/33218-no-hours-shown/?do=findComment&comment=189126)
 - [Flight Management System](https://forums.vatsim.net/topic/33217-flight-management-system/?do=findComment&comment=189125)
@@ -64,7 +65,6 @@
 - [No hours shown](https://forums.vatsim.net/topic/33218-no-hours-shown/?do=findComment&comment=189121)
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189120)
 - [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189119)
-- [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189118)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
