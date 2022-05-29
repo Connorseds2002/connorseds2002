@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
-- [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189113)
-- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189112)
-- [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189111)
-- [Flight Management System](https://forums.vatsim.net/topic/33217-flight-management-system/?do=findComment&comment=189110)
-- [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189108)
-- [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=189107)
-- [Hello and New to the Vatsim Community](https://forums.vatsim.net/topic/33214-hello-and-new-to-the-vatsim-community/?do=findComment&comment=189106)
-- [VHHH Updated Scenery](https://forums.vatsim.net/topic/33211-vhhh-updated-scenery/?do=findComment&comment=189105)
-- [Hello and New to the Vatsim Community](https://forums.vatsim.net/topic/33214-hello-and-new-to-the-vatsim-community/?do=findComment&comment=189104)
-- [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=189103)
+- [No hours shown](https://forums.vatsim.net/topic/33218-no-hours-shown/?do=findComment&comment=189126)
+- [Flight Management System](https://forums.vatsim.net/topic/33217-flight-management-system/?do=findComment&comment=189125)
+- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189124)
+- [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189123)
+- [xPilot is unable to connect to X-Plane 11](https://forums.vatsim.net/topic/33219-xpilot-is-unable-to-connect-to-x-plane-11/?do=findComment&comment=189122)
+- [No hours shown](https://forums.vatsim.net/topic/33218-no-hours-shown/?do=findComment&comment=189121)
+- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189120)
+- [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189119)
+- [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189118)
+- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189117)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
