@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VHHH Updated Scenery](https://forums.vatsim.net/topic/33211-vhhh-updated-scenery/?do=findComment&comment=189153)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189152)
 - [Using stock FSX GPS and Flight Planner](https://forums.vatsim.net/topic/33174-using-stock-fsx-gps-and-flight-planner/?do=findComment&comment=189151)
 - [This Auto Disconnect has got to go](https://forums.vatsim.net/topic/25992-this-auto-disconnect-has-got-to-go/?do=findComment&comment=189150)
@@ -64,7 +65,6 @@
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189146)
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189145)
 - [[VACANCY] VATEUD ATC Training Department open positions](https://forums.vatsim.net/topic/33222-vacancy-vateud-atc-training-department-open-positions/?do=findComment&comment=189144)
-- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189143)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
