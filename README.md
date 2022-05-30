@@ -55,10 +55,10 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189170)
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189169)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189168)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189167)
-- [The account is administratively disabled forever](https://forums.vatsim.net/topic/33226-the-account-is-administratively-disabled-forever/?do=findComment&comment=189166)
-- [The account is administratively disabled forever](https://forums.vatsim.net/topic/33226-the-account-is-administratively-disabled-forever/?do=findComment&comment=189165)
 - [No Exam available after new member orientation](https://forums.vatsim.net/topic/33225-no-exam-available-after-new-member-orientation/?do=findComment&comment=189164)
 - [No ATC Sound &amp; Invalid Configuration](https://forums.vatsim.net/topic/33223-no-atc-sound-invalid-configuration/?do=findComment&comment=189163)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189162)
