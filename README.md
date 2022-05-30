@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189178)
 - [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=189177)
 - [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=189176)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189175)
@@ -64,7 +65,6 @@
 - [No ATC Sound &amp; Invalid Configuration](https://forums.vatsim.net/topic/33223-no-atc-sound-invalid-configuration/?do=findComment&comment=189171)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189170)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189169)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189168)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
