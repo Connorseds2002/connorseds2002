@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No Audio for Vatsim](https://forums.vatsim.net/topic/33231-no-audio-for-vatsim/?do=findComment&comment=189207)
+- [No Audio for Vatsim](https://forums.vatsim.net/topic/33231-no-audio-for-vatsim/?do=findComment&comment=189206)
 - [No Audio for Vatsim](https://forums.vatsim.net/topic/33231-no-audio-for-vatsim/?do=findComment&comment=189205)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189204)
 - [P0 EXAM finished by mistake](https://forums.vatsim.net/topic/33229-p0-exam-finished-by-mistake/?do=findComment&comment=189203)
@@ -63,8 +65,6 @@
 - [P0 EXAM finished by mistake](https://forums.vatsim.net/topic/33229-p0-exam-finished-by-mistake/?do=findComment&comment=189200)
 - [VFR GA Flight Corridors over Mexico City](https://forums.vatsim.net/topic/33230-vfr-ga-flight-corridors-over-mexico-city/?do=findComment&comment=189199)
 - [P0 EXAM finished by mistake](https://forums.vatsim.net/topic/33229-p0-exam-finished-by-mistake/?do=findComment&comment=189198)
-- [PO Exam for New Orientation Members](https://forums.vatsim.net/topic/32445-po-exam-for-new-orientation-members/?do=findComment&comment=189197)
-- [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189196)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
