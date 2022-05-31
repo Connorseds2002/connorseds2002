@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189196)
+- [I Can&#39;t Change my region to Russia](https://forums.vatsim.net/topic/33228-i-cant-change-my-region-to-russia/?do=findComment&comment=189195)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189194)
 - [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189193)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189192)
@@ -63,8 +65,6 @@
 - [I Can&#39;t Change my region to Russia](https://forums.vatsim.net/topic/33228-i-cant-change-my-region-to-russia/?do=findComment&comment=189189)
 - [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189188)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189187)
-- [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189186)
-- [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189185)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
