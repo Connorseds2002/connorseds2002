@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [PO Exam for New Orientation Members](https://forums.vatsim.net/topic/32445-po-exam-for-new-orientation-members/?do=findComment&comment=189201)
+- [P0 EXAM finished by mistake](https://forums.vatsim.net/topic/33229-p0-exam-finished-by-mistake/?do=findComment&comment=189200)
+- [VFR GA Flight Corridors over Mexico City](https://forums.vatsim.net/topic/33230-vfr-ga-flight-corridors-over-mexico-city/?do=findComment&comment=189199)
+- [P0 EXAM finished by mistake](https://forums.vatsim.net/topic/33229-p0-exam-finished-by-mistake/?do=findComment&comment=189198)
+- [PO Exam for New Orientation Members](https://forums.vatsim.net/topic/32445-po-exam-for-new-orientation-members/?do=findComment&comment=189197)
 - [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189196)
 - [I Can&#39;t Change my region to Russia](https://forums.vatsim.net/topic/33228-i-cant-change-my-region-to-russia/?do=findComment&comment=189195)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189194)
 - [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189193)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189192)
-- [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189191)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189190)
-- [I Can&#39;t Change my region to Russia](https://forums.vatsim.net/topic/33228-i-cant-change-my-region-to-russia/?do=findComment&comment=189189)
-- [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189188)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189187)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
