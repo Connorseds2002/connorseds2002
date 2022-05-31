@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No Audio for Vatsim](https://forums.vatsim.net/topic/33231-no-audio-for-vatsim/?do=findComment&comment=189205)
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189204)
+- [P0 EXAM finished by mistake](https://forums.vatsim.net/topic/33229-p0-exam-finished-by-mistake/?do=findComment&comment=189203)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189202)
 - [PO Exam for New Orientation Members](https://forums.vatsim.net/topic/32445-po-exam-for-new-orientation-members/?do=findComment&comment=189201)
 - [P0 EXAM finished by mistake](https://forums.vatsim.net/topic/33229-p0-exam-finished-by-mistake/?do=findComment&comment=189200)
@@ -62,9 +65,6 @@
 - [P0 EXAM finished by mistake](https://forums.vatsim.net/topic/33229-p0-exam-finished-by-mistake/?do=findComment&comment=189198)
 - [PO Exam for New Orientation Members](https://forums.vatsim.net/topic/32445-po-exam-for-new-orientation-members/?do=findComment&comment=189197)
 - [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189196)
-- [I Can&#39;t Change my region to Russia](https://forums.vatsim.net/topic/33228-i-cant-change-my-region-to-russia/?do=findComment&comment=189195)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189194)
-- [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189193)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
