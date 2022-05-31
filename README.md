@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189188)
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189187)
 - [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189186)
 - [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189185)
 - [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189184)
@@ -63,8 +65,6 @@
 - [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189181)
 - [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189180)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189179)
-- [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189178)
-- [How to become an Air Traffic Controller?](https://forums.vatsim.net/topic/32457-how-to-become-an-air-traffic-controller/?do=findComment&comment=189177)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
