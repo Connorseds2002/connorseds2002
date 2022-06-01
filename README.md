@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Canadian Xpress June 2022 Monthly Challenge: National Parks VIII - Iceland](https://forums.vatsim.net/topic/33233-canadian-xpress-june-2022-monthly-challenge-national-parks-viii-iceland/?do=findComment&comment=189213)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189212)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189211)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189210)
@@ -64,7 +65,6 @@
 - [No Audio for Vatsim](https://forums.vatsim.net/topic/33231-no-audio-for-vatsim/?do=findComment&comment=189206)
 - [No Audio for Vatsim](https://forums.vatsim.net/topic/33231-no-audio-for-vatsim/?do=findComment&comment=189205)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189204)
-- [P0 EXAM finished by mistake](https://forums.vatsim.net/topic/33229-p0-exam-finished-by-mistake/?do=findComment&comment=189203)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
