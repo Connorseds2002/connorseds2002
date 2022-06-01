@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Suggestion - Automated real world ATIS when ATC is offline](https://forums.vatsim.net/topic/33234-suggestion-automated-real-world-atis-when-atc-is-offline/?do=findComment&comment=189218)
 - [When to contact approach at my destination airport if it&#39;s the only ATC online](https://forums.vatsim.net/topic/33232-when-to-contact-approach-at-my-destination-airport-if-its-the-only-atc-online/?do=findComment&comment=189217)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189216)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189215)
@@ -64,7 +65,6 @@
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189211)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189210)
 - [No Audio for Vatsim](https://forums.vatsim.net/topic/33231-no-audio-for-vatsim/?do=findComment&comment=189209)
-- [When to contact approach at my destination airport if it&#39;s the only ATC online](https://forums.vatsim.net/topic/33232-when-to-contact-approach-at-my-destination-airport-if-its-the-only-atc-online/?do=findComment&comment=189208)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
