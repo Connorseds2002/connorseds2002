@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No longer able to see which services are online](https://forums.vatsim.net/topic/33235-no-longer-able-to-see-which-services-are-online/?do=findComment&comment=189222)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189221)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189220)
 - [Suggestion - Automated real world ATIS when ATC is offline](https://forums.vatsim.net/topic/33234-suggestion-automated-real-world-atis-when-atc-is-offline/?do=findComment&comment=189219)
@@ -64,7 +65,6 @@
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189215)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189214)
 - [Canadian Xpress June 2022 Monthly Challenge: National Parks VIII - Iceland](https://forums.vatsim.net/topic/33233-canadian-xpress-june-2022-monthly-challenge-national-parks-viii-iceland/?do=findComment&comment=189213)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189212)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
