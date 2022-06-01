@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189215)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189214)
 - [Canadian Xpress June 2022 Monthly Challenge: National Parks VIII - Iceland](https://forums.vatsim.net/topic/33233-canadian-xpress-june-2022-monthly-challenge-national-parks-viii-iceland/?do=findComment&comment=189213)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189212)
@@ -64,7 +65,6 @@
 - [When to contact approach at my destination airport if it&#39;s the only ATC online](https://forums.vatsim.net/topic/33232-when-to-contact-approach-at-my-destination-airport-if-its-the-only-atc-online/?do=findComment&comment=189208)
 - [No Audio for Vatsim](https://forums.vatsim.net/topic/33231-no-audio-for-vatsim/?do=findComment&comment=189207)
 - [No Audio for Vatsim](https://forums.vatsim.net/topic/33231-no-audio-for-vatsim/?do=findComment&comment=189206)
-- [No Audio for Vatsim](https://forums.vatsim.net/topic/33231-no-audio-for-vatsim/?do=findComment&comment=189205)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
