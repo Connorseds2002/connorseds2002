@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No longer able to see which services are online](https://forums.vatsim.net/topic/33235-no-longer-able-to-see-which-services-are-online/?do=findComment&comment=189237)
 - [UTC clock](https://forums.vatsim.net/topic/33239-utc-clock/?do=findComment&comment=189236)
 - [UTC clock](https://forums.vatsim.net/topic/33239-utc-clock/?do=findComment&comment=189235)
 - [UTC clock](https://forums.vatsim.net/topic/33239-utc-clock/?do=findComment&comment=189234)
@@ -64,7 +65,6 @@
 - [[Event]: Bay of Bengal Hopper - WIMM -&gt; VOMM on June 12, 2022 - 1200Z to 1700Z](https://forums.vatsim.net/topic/33238-event-bay-of-bengal-hopper-wimm-vomm-on-june-12-2022-1200z-to-1700z/?do=findComment&comment=189230)
 - [Command failed. Please ensure that a flight is loaded. FSX:SE](https://forums.vatsim.net/topic/33237-command-failed-please-ensure-that-a-flight-is-loaded-fsxse/?do=findComment&comment=189229)
 - [Command failed. Please ensure that a flight is loaded. FSX:SE](https://forums.vatsim.net/topic/33237-command-failed-please-ensure-that-a-flight-is-loaded-fsxse/?do=findComment&comment=189228)
-- [Command failed. Please ensure that a flight is loaded. FSX:SE](https://forums.vatsim.net/topic/33237-command-failed-please-ensure-that-a-flight-is-loaded-fsxse/?do=findComment&comment=189227)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
