@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Need Help with changing my region](https://forums.vatsim.net/topic/33243-need-help-with-changing-my-region/?do=findComment&comment=189246)
+- [Need Help with changing my region](https://forums.vatsim.net/topic/33243-need-help-with-changing-my-region/?do=findComment&comment=189245)
+- [[New to VATSIM] Cannot find communications panel in AFV/VCR](https://forums.vatsim.net/topic/33244-new-to-vatsim-cannot-find-communications-panel-in-afvvcr/?do=findComment&comment=189244)
 - [[New to VATSIM] Cannot find communications panel in AFV/VCR](https://forums.vatsim.net/topic/33244-new-to-vatsim-cannot-find-communications-panel-in-afvvcr/?do=findComment&comment=189243)
 - [Need Help with changing my region](https://forums.vatsim.net/topic/33243-need-help-with-changing-my-region/?do=findComment&comment=189242)
 - [Deputy Director of Special Operations Announced.](https://forums.vatsim.net/topic/33242-deputy-director-of-special-operations-announced/?do=findComment&comment=189241)
@@ -62,9 +65,6 @@
 - [Vatsim Exam P0](https://forums.vatsim.net/topic/33240-vatsim-exam-p0/?do=findComment&comment=189239)
 - [VFR flying over Mexico City](https://forums.vatsim.net/topic/33224-vfr-flying-over-mexico-city/?do=findComment&comment=189238)
 - [No longer able to see which services are online](https://forums.vatsim.net/topic/33235-no-longer-able-to-see-which-services-are-online/?do=findComment&comment=189237)
-- [UTC clock](https://forums.vatsim.net/topic/33239-utc-clock/?do=findComment&comment=189236)
-- [UTC clock](https://forums.vatsim.net/topic/33239-utc-clock/?do=findComment&comment=189235)
-- [UTC clock](https://forums.vatsim.net/topic/33239-utc-clock/?do=findComment&comment=189234)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
