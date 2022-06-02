@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Command failed. Please ensure that a flight is loaded. FSX:SE](https://forums.vatsim.net/topic/33237-command-failed-please-ensure-that-a-flight-is-loaded-fsxse/?do=findComment&comment=189229)
+- [Command failed. Please ensure that a flight is loaded. FSX:SE](https://forums.vatsim.net/topic/33237-command-failed-please-ensure-that-a-flight-is-loaded-fsxse/?do=findComment&comment=189228)
+- [Command failed. Please ensure that a flight is loaded. FSX:SE](https://forums.vatsim.net/topic/33237-command-failed-please-ensure-that-a-flight-is-loaded-fsxse/?do=findComment&comment=189227)
+- [Command failed. Please ensure that a flight is loaded. FSX:SE](https://forums.vatsim.net/topic/33237-command-failed-please-ensure-that-a-flight-is-loaded-fsxse/?do=findComment&comment=189226)
+- [Command failed. Please ensure that a flight is loaded. FSX:SE](https://forums.vatsim.net/topic/33237-command-failed-please-ensure-that-a-flight-is-loaded-fsxse/?do=findComment&comment=189225)
 - [Who can operate an FSS?](https://forums.vatsim.net/topic/33236-who-can-operate-an-fss/?do=findComment&comment=189224)
 - [Who can operate an FSS?](https://forums.vatsim.net/topic/33236-who-can-operate-an-fss/?do=findComment&comment=189223)
 - [No longer able to see which services are online](https://forums.vatsim.net/topic/33235-no-longer-able-to-see-which-services-are-online/?do=findComment&comment=189222)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189221)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189220)
-- [Suggestion - Automated real world ATIS when ATC is offline](https://forums.vatsim.net/topic/33234-suggestion-automated-real-world-atis-when-atc-is-offline/?do=findComment&comment=189219)
-- [Suggestion - Automated real world ATIS when ATC is offline](https://forums.vatsim.net/topic/33234-suggestion-automated-real-world-atis-when-atc-is-offline/?do=findComment&comment=189218)
-- [When to contact approach at my destination airport if it&#39;s the only ATC online](https://forums.vatsim.net/topic/33232-when-to-contact-approach-at-my-destination-airport-if-its-the-only-atc-online/?do=findComment&comment=189217)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189216)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189215)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
