@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Who can operate an FSS?](https://forums.vatsim.net/topic/33236-who-can-operate-an-fss/?do=findComment&comment=189251)
+- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189250)
 - [[New to VATSIM] Cannot find communications panel in AFV/VCR](https://forums.vatsim.net/topic/33244-new-to-vatsim-cannot-find-communications-panel-in-afvvcr/?do=findComment&comment=189248)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189247)
 - [Need Help with changing my region](https://forums.vatsim.net/topic/33243-need-help-with-changing-my-region/?do=findComment&comment=189246)
@@ -63,8 +65,6 @@
 - [[New to VATSIM] Cannot find communications panel in AFV/VCR](https://forums.vatsim.net/topic/33244-new-to-vatsim-cannot-find-communications-panel-in-afvvcr/?do=findComment&comment=189243)
 - [Need Help with changing my region](https://forums.vatsim.net/topic/33243-need-help-with-changing-my-region/?do=findComment&comment=189242)
 - [Deputy Director of Special Operations Announced.](https://forums.vatsim.net/topic/33242-deputy-director-of-special-operations-announced/?do=findComment&comment=189241)
-- [Uploading .gz files from facility](https://forums.vatsim.net/topic/33241-uploading-gz-files-from-facility/?do=findComment&comment=189240)
-- [Vatsim Exam P0](https://forums.vatsim.net/topic/33240-vatsim-exam-p0/?do=findComment&comment=189239)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
