@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189268)
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189267)
+- [Who can operate an FSS?](https://forums.vatsim.net/topic/33236-who-can-operate-an-fss/?do=findComment&comment=189266)
 - [Looking for planes](https://forums.vatsim.net/topic/33246-looking-for-planes/?do=findComment&comment=189265)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189264)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189263)
@@ -62,9 +65,6 @@
 - [I&#39;ve tried several different Model Matching files and none will work!](https://forums.vatsim.net/topic/33245-ive-tried-several-different-model-matching-files-and-none-will-work/?do=findComment&comment=189261)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189260)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189259)
-- [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189258)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189257)
-- [Uploading .gz files from facility](https://forums.vatsim.net/topic/33241-uploading-gz-files-from-facility/?do=findComment&comment=189256)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
