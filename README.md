@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189283)
+- [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189282)
 - [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189281)
 - [vPilot radios not working in Fenix A320 unless menu is open](https://forums.vatsim.net/topic/33249-vpilot-radios-not-working-in-fenix-a320-unless-menu-is-open/?do=findComment&comment=189280)
 - [vPilot radios not working in Fenix A320 unless menu is open](https://forums.vatsim.net/topic/33249-vpilot-radios-not-working-in-fenix-a320-unless-menu-is-open/?do=findComment&comment=189279)
@@ -63,8 +65,6 @@
 - [I&#39;ve tried several different Model Matching files and none will work!](https://forums.vatsim.net/topic/33245-ive-tried-several-different-model-matching-files-and-none-will-work/?do=findComment&comment=189276)
 - [Who can operate an FSS?](https://forums.vatsim.net/topic/33236-who-can-operate-an-fss/?do=findComment&comment=189275)
 - [V pilot error](https://forums.vatsim.net/topic/33247-v-pilot-error/?do=findComment&comment=189274)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189273)
-- [Who can operate an FSS?](https://forums.vatsim.net/topic/33236-who-can-operate-an-fss/?do=findComment&comment=189272)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
