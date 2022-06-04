@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189288)
+- [Can&#39;t talk to the ATC unless i have vPilot on top of everything [P3Dv5]](https://forums.vatsim.net/topic/33250-cant-talk-to-the-atc-unless-i-have-vpilot-on-top-of-everything-p3dv5/?do=findComment&comment=189287)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189286)
 - [I&#39;ve tried several different Model Matching files and none will work!](https://forums.vatsim.net/topic/33245-ive-tried-several-different-model-matching-files-and-none-will-work/?do=findComment&comment=189285)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189284)
@@ -63,8 +65,6 @@
 - [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189281)
 - [vPilot radios not working in Fenix A320 unless menu is open](https://forums.vatsim.net/topic/33249-vpilot-radios-not-working-in-fenix-a320-unless-menu-is-open/?do=findComment&comment=189280)
 - [vPilot radios not working in Fenix A320 unless menu is open](https://forums.vatsim.net/topic/33249-vpilot-radios-not-working-in-fenix-a320-unless-menu-is-open/?do=findComment&comment=189279)
-- [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189278)
-- [Voice Transmitting ONLY when Com1 &amp; Com2 are on same Freq](https://forums.vatsim.net/topic/33248-voice-transmitting-only-when-com1-com2-are-on-same-freq/?do=findComment&comment=189277)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
