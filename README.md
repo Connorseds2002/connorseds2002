@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189292)
 - [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189291)
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189290)
 - [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=189289)
@@ -64,7 +65,6 @@
 - [I&#39;ve tried several different Model Matching files and none will work!](https://forums.vatsim.net/topic/33245-ive-tried-several-different-model-matching-files-and-none-will-work/?do=findComment&comment=189285)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189284)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189283)
-- [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189282)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
