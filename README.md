@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189314)
 - [When to contact approach at my destination airport if it&#39;s the only ATC online](https://forums.vatsim.net/topic/33232-when-to-contact-approach-at-my-destination-airport-if-its-the-only-atc-online/?do=findComment&comment=189313)
 - [Suggestion - Automated real world ATIS when ATC is offline](https://forums.vatsim.net/topic/33234-suggestion-automated-real-world-atis-when-atc-is-offline/?do=findComment&comment=189312)
 - [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189311)
@@ -64,7 +65,6 @@
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189307)
 - [Apple Airpods and Vpilot 3.4.0, a generic Bluetooth headset issue?](https://forums.vatsim.net/topic/33256-apple-airpods-and-vpilot-340-a-generic-bluetooth-headset-issue/?do=findComment&comment=189306)
 - [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189305)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189304)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
