@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Multi-player traffic not reporting Transponder state and code in simconnect &lpar;MSFS2020 vPilot 3.4.0&rpar;](https://forums.vatsim.net/topic/33255-multi-player-traffic-not-reporting-transponder-state-and-code-in-simconnect-msfs2020-vpilot-340/?do=findComment&comment=189303)
+- [Can&#39;t join VATEUD Discord Server](https://forums.vatsim.net/topic/33254-cant-join-vateud-discord-server/?do=findComment&comment=189302)
 - [Can&#39;t talk to the ATC unless i have vPilot on top of everything [P3Dv5]](https://forums.vatsim.net/topic/33250-cant-talk-to-the-atc-unless-i-have-vpilot-on-top-of-everything-p3dv5/?do=findComment&comment=189301)
 - [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189300)
 - [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189299)
@@ -63,8 +65,6 @@
 - [Wrong CID](https://forums.vatsim.net/topic/33252-wrong-cid/?do=findComment&comment=189296)
 - [V-Pilot Glitching](https://forums.vatsim.net/topic/33251-v-pilot-glitching/?do=findComment&comment=189295)
 - [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189294)
-- [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189293)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189292)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
