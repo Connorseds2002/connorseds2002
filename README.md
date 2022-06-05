@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=189326)
 - [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189325)
 - [Can&#39;t join VATEUD Discord Server](https://forums.vatsim.net/topic/33254-cant-join-vateud-discord-server/?do=findComment&comment=189324)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189323)
@@ -64,7 +65,6 @@
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189319)
 - [Multi-player traffic not reporting Transponder state and code in simconnect &lpar;MSFS2020 vPilot 3.4.0&rpar;](https://forums.vatsim.net/topic/33255-multi-player-traffic-not-reporting-transponder-state-and-code-in-simconnect-msfs2020-vpilot-340/?do=findComment&comment=189318)
 - [XPilot slows down XPlane to below 20fps when connected](https://forums.vatsim.net/topic/33260-xpilot-slows-down-xplane-to-below-20fps-when-connected/?do=findComment&comment=189317)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189316)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
