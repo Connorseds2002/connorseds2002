@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189300)
+- [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189299)
 - [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189298)
 - [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189297)
 - [Wrong CID](https://forums.vatsim.net/topic/33252-wrong-cid/?do=findComment&comment=189296)
@@ -63,8 +65,6 @@
 - [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189293)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189292)
 - [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189291)
-- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189290)
-- [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=189289)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
