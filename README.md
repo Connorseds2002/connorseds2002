@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189311)
 - [I shouldn&#39;t beat myself up about it...but...](https://forums.vatsim.net/topic/33258-i-shouldnt-beat-myself-up-about-itbut/?do=findComment&comment=189310)
 - [[3rd September 2022] Cross the Land: Eastbound 2022](https://forums.vatsim.net/topic/33257-3rd-september-2022-cross-the-land-eastbound-2022/?do=findComment&comment=189309)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189308)
@@ -64,7 +65,6 @@
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189304)
 - [Multi-player traffic not reporting Transponder state and code in simconnect &lpar;MSFS2020 vPilot 3.4.0&rpar;](https://forums.vatsim.net/topic/33255-multi-player-traffic-not-reporting-transponder-state-and-code-in-simconnect-msfs2020-vpilot-340/?do=findComment&comment=189303)
 - [Can&#39;t join VATEUD Discord Server](https://forums.vatsim.net/topic/33254-cant-join-vateud-discord-server/?do=findComment&comment=189302)
-- [Can&#39;t talk to the ATC unless i have vPilot on top of everything [P3Dv5]](https://forums.vatsim.net/topic/33250-cant-talk-to-the-atc-unless-i-have-vpilot-on-top-of-everything-p3dv5/?do=findComment&comment=189301)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
