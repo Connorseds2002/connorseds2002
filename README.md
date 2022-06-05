@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189319)
+- [Multi-player traffic not reporting Transponder state and code in simconnect &lpar;MSFS2020 vPilot 3.4.0&rpar;](https://forums.vatsim.net/topic/33255-multi-player-traffic-not-reporting-transponder-state-and-code-in-simconnect-msfs2020-vpilot-340/?do=findComment&comment=189318)
 - [XPilot slows down XPlane to below 20fps when connected](https://forums.vatsim.net/topic/33260-xpilot-slows-down-xplane-to-below-20fps-when-connected/?do=findComment&comment=189317)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189316)
 - [VATSIM audio issue &lpar;RAZER THX Spatial&rpar;](https://forums.vatsim.net/topic/33259-vatsim-audio-issue-razer-thx-spatial/?do=findComment&comment=189315)
@@ -63,8 +65,6 @@
 - [Suggestion - Automated real world ATIS when ATC is offline](https://forums.vatsim.net/topic/33234-suggestion-automated-real-world-atis-when-atc-is-offline/?do=findComment&comment=189312)
 - [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189311)
 - [I shouldn&#39;t beat myself up about it...but...](https://forums.vatsim.net/topic/33258-i-shouldnt-beat-myself-up-about-itbut/?do=findComment&comment=189310)
-- [[3rd September 2022] Cross the Land: Eastbound 2022](https://forums.vatsim.net/topic/33257-3rd-september-2022-cross-the-land-eastbound-2022/?do=findComment&comment=189309)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189308)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
