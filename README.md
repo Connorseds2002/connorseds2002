@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189298)
+- [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189297)
 - [Wrong CID](https://forums.vatsim.net/topic/33252-wrong-cid/?do=findComment&comment=189296)
 - [V-Pilot Glitching](https://forums.vatsim.net/topic/33251-v-pilot-glitching/?do=findComment&comment=189295)
 - [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189294)
@@ -63,8 +65,6 @@
 - [vPilot 3.4.0, 0 Models found](https://forums.vatsim.net/topic/33204-vpilot-340-0-models-found/?do=findComment&comment=189291)
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189290)
 - [Random screenshots](https://forums.vatsim.net/topic/29593-random-screenshots/?do=findComment&comment=189289)
-- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189288)
-- [Can&#39;t talk to the ATC unless i have vPilot on top of everything [P3Dv5]](https://forums.vatsim.net/topic/33250-cant-talk-to-the-atc-unless-i-have-vpilot-on-top-of-everything-p3dv5/?do=findComment&comment=189287)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
