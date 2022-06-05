@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [XPilot slows down XPlane to below 20fps when connected](https://forums.vatsim.net/topic/33260-xpilot-slows-down-xplane-to-below-20fps-when-connected/?do=findComment&comment=189317)
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189316)
+- [VATSIM audio issue &lpar;RAZER THX Spatial&rpar;](https://forums.vatsim.net/topic/33259-vatsim-audio-issue-razer-thx-spatial/?do=findComment&comment=189315)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189314)
 - [When to contact approach at my destination airport if it&#39;s the only ATC online](https://forums.vatsim.net/topic/33232-when-to-contact-approach-at-my-destination-airport-if-its-the-only-atc-online/?do=findComment&comment=189313)
 - [Suggestion - Automated real world ATIS when ATC is offline](https://forums.vatsim.net/topic/33234-suggestion-automated-real-world-atis-when-atc-is-offline/?do=findComment&comment=189312)
@@ -62,9 +65,6 @@
 - [I shouldn&#39;t beat myself up about it...but...](https://forums.vatsim.net/topic/33258-i-shouldnt-beat-myself-up-about-itbut/?do=findComment&comment=189310)
 - [[3rd September 2022] Cross the Land: Eastbound 2022](https://forums.vatsim.net/topic/33257-3rd-september-2022-cross-the-land-eastbound-2022/?do=findComment&comment=189309)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189308)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189307)
-- [Apple Airpods and Vpilot 3.4.0, a generic Bluetooth headset issue?](https://forums.vatsim.net/topic/33256-apple-airpods-and-vpilot-340-a-generic-bluetooth-headset-issue/?do=findComment&comment=189306)
-- [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189305)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
