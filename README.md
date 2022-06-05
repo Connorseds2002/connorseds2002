@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189323)
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189322)
 - [vPilot 3.4.1 released](https://forums.vatsim.net/topic/33261-vpilot-341-released/?do=findComment&comment=189321)
 - [Looks like vPilot doesn&#39;t care about custom model matching rule](https://forums.vatsim.net/topic/33209-looks-like-vpilot-doesnt-care-about-custom-model-matching-rule/?do=findComment&comment=189320)
@@ -64,7 +65,6 @@
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189316)
 - [VATSIM audio issue &lpar;RAZER THX Spatial&rpar;](https://forums.vatsim.net/topic/33259-vatsim-audio-issue-razer-thx-spatial/?do=findComment&comment=189315)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189314)
-- [When to contact approach at my destination airport if it&#39;s the only ATC online](https://forums.vatsim.net/topic/33232-when-to-contact-approach-at-my-destination-airport-if-its-the-only-atc-online/?do=findComment&comment=189313)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
