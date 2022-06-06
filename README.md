@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatsim Exam P0](https://forums.vatsim.net/topic/33240-vatsim-exam-p0/?do=findComment&comment=189343)
+- [vSTARS 1.4.7 now available](https://forums.vatsim.net/topic/33264-vstars-147-now-available/?do=findComment&comment=189342)
+- [Simulation - aircraft climbing to FL311177](https://forums.vatsim.net/topic/33149-simulation-aircraft-climbing-to-fl311177/?do=findComment&comment=189341)
 - [Vatsim Exam P0](https://forums.vatsim.net/topic/33240-vatsim-exam-p0/?do=findComment&comment=189340)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189339)
 - [natTrack Website - No Controller Online](https://forums.vatsim.net/topic/33263-nattrack-website-no-controller-online/?do=findComment&comment=189338)
@@ -62,9 +65,6 @@
 - [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189336)
 - [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=189335)
 - [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189334)
-- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189333)
-- [[VACANY] Nepal vACC Staff Vacancies](https://forums.vatsim.net/topic/31549-vacany-nepal-vacc-staff-vacancies/?do=findComment&comment=189332)
-- [[OPEN] ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/33262-open-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=189331)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
