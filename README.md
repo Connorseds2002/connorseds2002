@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Voice Transmitting ONLY when Com1 &amp; Com2 are on same Freq](https://forums.vatsim.net/topic/33248-voice-transmitting-only-when-com1-com2-are-on-same-freq/?do=findComment&comment=189345)
+- [vPilot radios not working in Fenix A320 unless menu is open](https://forums.vatsim.net/topic/33249-vpilot-radios-not-working-in-fenix-a320-unless-menu-is-open/?do=findComment&comment=189344)
 - [Vatsim Exam P0](https://forums.vatsim.net/topic/33240-vatsim-exam-p0/?do=findComment&comment=189343)
 - [vSTARS 1.4.7 now available](https://forums.vatsim.net/topic/33264-vstars-147-now-available/?do=findComment&comment=189342)
 - [Simulation - aircraft climbing to FL311177](https://forums.vatsim.net/topic/33149-simulation-aircraft-climbing-to-fl311177/?do=findComment&comment=189341)
@@ -63,8 +65,6 @@
 - [natTrack Website - No Controller Online](https://forums.vatsim.net/topic/33263-nattrack-website-no-controller-online/?do=findComment&comment=189338)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189337)
 - [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189336)
-- [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=189335)
-- [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189334)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
