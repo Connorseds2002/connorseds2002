@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189337)
+- [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189336)
+- [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=189335)
 - [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189334)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189333)
 - [[VACANY] Nepal vACC Staff Vacancies](https://forums.vatsim.net/topic/31549-vacany-nepal-vacc-staff-vacancies/?do=findComment&comment=189332)
@@ -62,9 +65,6 @@
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189330)
 - [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189329)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189328)
-- [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=189327)
-- [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=189326)
-- [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189325)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
