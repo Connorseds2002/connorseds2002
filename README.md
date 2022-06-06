@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.4.1 released](https://forums.vatsim.net/topic/33261-vpilot-341-released/?do=findComment&comment=189348)
+- [vPilot 3.4.1 released](https://forums.vatsim.net/topic/33261-vpilot-341-released/?do=findComment&comment=189347)
+- [Voice Transmitting ONLY when Com1 &amp; Com2 are on same Freq](https://forums.vatsim.net/topic/33248-voice-transmitting-only-when-com1-com2-are-on-same-freq/?do=findComment&comment=189346)
 - [Voice Transmitting ONLY when Com1 &amp; Com2 are on same Freq](https://forums.vatsim.net/topic/33248-voice-transmitting-only-when-com1-com2-are-on-same-freq/?do=findComment&comment=189345)
 - [vPilot radios not working in Fenix A320 unless menu is open](https://forums.vatsim.net/topic/33249-vpilot-radios-not-working-in-fenix-a320-unless-menu-is-open/?do=findComment&comment=189344)
 - [Vatsim Exam P0](https://forums.vatsim.net/topic/33240-vatsim-exam-p0/?do=findComment&comment=189343)
@@ -62,9 +65,6 @@
 - [Simulation - aircraft climbing to FL311177](https://forums.vatsim.net/topic/33149-simulation-aircraft-climbing-to-fl311177/?do=findComment&comment=189341)
 - [Vatsim Exam P0](https://forums.vatsim.net/topic/33240-vatsim-exam-p0/?do=findComment&comment=189340)
 - [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189339)
-- [natTrack Website - No Controller Online](https://forums.vatsim.net/topic/33263-nattrack-website-no-controller-online/?do=findComment&comment=189338)
-- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189337)
-- [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189336)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
