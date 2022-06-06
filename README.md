@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [where to report rude ATC personnel](https://forums.vatsim.net/topic/33253-where-to-report-rude-atc-personnel/?do=findComment&comment=189334)
+- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189333)
 - [[VACANY] Nepal vACC Staff Vacancies](https://forums.vatsim.net/topic/31549-vacany-nepal-vacc-staff-vacancies/?do=findComment&comment=189332)
 - [[OPEN] ACCNPL4 - Nepal vACC Membership Director Vacancy](https://forums.vatsim.net/topic/33262-open-accnpl4-nepal-vacc-membership-director-vacancy/?do=findComment&comment=189331)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189330)
@@ -63,8 +65,6 @@
 - [Beta R34](https://forums.vatsim.net/topic/33126-beta-r34/?do=findComment&comment=189327)
 - [Thanks Esteban!](https://forums.vatsim.net/topic/33118-thanks-esteban/?do=findComment&comment=189326)
 - [Nuevo Vicedirector de VATSUR &lpar;VATSUR2&rpar;](https://forums.vatsim.net/topic/33194-nuevo-vicedirector-de-vatsur-vatsur2/?do=findComment&comment=189325)
-- [Can&#39;t join VATEUD Discord Server](https://forums.vatsim.net/topic/33254-cant-join-vateud-discord-server/?do=findComment&comment=189324)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189323)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
