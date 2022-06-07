@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=189350)
+- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189349)
 - [vPilot 3.4.1 released](https://forums.vatsim.net/topic/33261-vpilot-341-released/?do=findComment&comment=189348)
 - [vPilot 3.4.1 released](https://forums.vatsim.net/topic/33261-vpilot-341-released/?do=findComment&comment=189347)
 - [Voice Transmitting ONLY when Com1 &amp; Com2 are on same Freq](https://forums.vatsim.net/topic/33248-voice-transmitting-only-when-com1-com2-are-on-same-freq/?do=findComment&comment=189346)
@@ -63,8 +65,6 @@
 - [Vatsim Exam P0](https://forums.vatsim.net/topic/33240-vatsim-exam-p0/?do=findComment&comment=189343)
 - [vSTARS 1.4.7 now available](https://forums.vatsim.net/topic/33264-vstars-147-now-available/?do=findComment&comment=189342)
 - [Simulation - aircraft climbing to FL311177](https://forums.vatsim.net/topic/33149-simulation-aircraft-climbing-to-fl311177/?do=findComment&comment=189341)
-- [Vatsim Exam P0](https://forums.vatsim.net/topic/33240-vatsim-exam-p0/?do=findComment&comment=189340)
-- [Flights operated by Russian companies](https://forums.vatsim.net/topic/32866-flights-operated-by-russian-companies/?do=findComment&comment=189339)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
