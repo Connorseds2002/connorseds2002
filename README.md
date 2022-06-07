@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.4.1 released](https://forums.vatsim.net/topic/33261-vpilot-341-released/?do=findComment&comment=189368)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189367)
 - [Como conecto FS9 ???](https://forums.vatsim.net/topic/33265-como-conecto-fs9/?do=findComment&comment=189366)
 - [Wind report Beta .2](https://forums.vatsim.net/topic/33266-wind-report-beta-2/?do=findComment&comment=189365)
@@ -64,7 +65,6 @@
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189361)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189360)
 - [Como conecto FS9 ???](https://forums.vatsim.net/topic/33265-como-conecto-fs9/?do=findComment&comment=189359)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189358)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
