@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.4.2 released](https://forums.vatsim.net/topic/33272-vpilot-342-released/?do=findComment&comment=189398)
+- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189397)
+- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189396)
+- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189395)
+- [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189394)
+- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189393)
+- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189392)
+- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189391)
+- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189390)
 - [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189389)
-- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189388)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189387)
-- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189386)
-- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189385)
-- [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189384)
-- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189383)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189382)
-- [vatis4 not parsing runway numbers correctly](https://forums.vatsim.net/topic/33270-vatis4-not-parsing-runway-numbers-correctly/?do=findComment&comment=189381)
-- [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189380)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
