@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189361)
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189360)
+- [Como conecto FS9 ???](https://forums.vatsim.net/topic/33265-como-conecto-fs9/?do=findComment&comment=189359)
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189358)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189357)
 - [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=189356)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189355)
 - [Suggestion - Automated real world ATIS when ATC is offline](https://forums.vatsim.net/topic/33234-suggestion-automated-real-world-atis-when-atc-is-offline/?do=findComment&comment=189354)
 - [I shouldn&#39;t beat myself up about it...but...](https://forums.vatsim.net/topic/33258-i-shouldnt-beat-myself-up-about-itbut/?do=findComment&comment=189353)
 - [Xpilot won&#39;t launch](https://forums.vatsim.net/topic/33000-xpilot-wont-launch/?do=findComment&comment=189352)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189351)
-- [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=189350)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189349)
-- [vPilot 3.4.1 released](https://forums.vatsim.net/topic/33261-vpilot-341-released/?do=findComment&comment=189348)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
