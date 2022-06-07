@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=189356)
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189355)
+- [Suggestion - Automated real world ATIS when ATC is offline](https://forums.vatsim.net/topic/33234-suggestion-automated-real-world-atis-when-atc-is-offline/?do=findComment&comment=189354)
 - [I shouldn&#39;t beat myself up about it...but...](https://forums.vatsim.net/topic/33258-i-shouldnt-beat-myself-up-about-itbut/?do=findComment&comment=189353)
 - [Xpilot won&#39;t launch](https://forums.vatsim.net/topic/33000-xpilot-wont-launch/?do=findComment&comment=189352)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189351)
@@ -62,9 +65,6 @@
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189349)
 - [vPilot 3.4.1 released](https://forums.vatsim.net/topic/33261-vpilot-341-released/?do=findComment&comment=189348)
 - [vPilot 3.4.1 released](https://forums.vatsim.net/topic/33261-vpilot-341-released/?do=findComment&comment=189347)
-- [Voice Transmitting ONLY when Com1 &amp; Com2 are on same Freq](https://forums.vatsim.net/topic/33248-voice-transmitting-only-when-com1-com2-are-on-same-freq/?do=findComment&comment=189346)
-- [Voice Transmitting ONLY when Com1 &amp; Com2 are on same Freq](https://forums.vatsim.net/topic/33248-voice-transmitting-only-when-com1-com2-are-on-same-freq/?do=findComment&comment=189345)
-- [vPilot radios not working in Fenix A320 unless menu is open](https://forums.vatsim.net/topic/33249-vpilot-radios-not-working-in-fenix-a320-unless-menu-is-open/?do=findComment&comment=189344)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
