@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [3.4.1 Settings&gt;Model Matching &lpar;P3Dv5&rpar; Unable to change default model](https://forums.vatsim.net/topic/33267-341-settingsmodel-matching-p3dv5-unable-to-change-default-model/?do=findComment&comment=189373)
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189372)
+- [3.4.1 Settings&gt;Model Matching &lpar;P3Dv5&rpar; Unable to change default model](https://forums.vatsim.net/topic/33267-341-settingsmodel-matching-p3dv5-unable-to-change-default-model/?do=findComment&comment=189371)
 - [3.4.1 Settings&gt;Model Matching &lpar;P3Dv5&rpar; Unable to change default model](https://forums.vatsim.net/topic/33267-341-settingsmodel-matching-p3dv5-unable-to-change-default-model/?do=findComment&comment=189370)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189369)
 - [vPilot 3.4.1 released](https://forums.vatsim.net/topic/33261-vpilot-341-released/?do=findComment&comment=189368)
@@ -62,9 +65,6 @@
 - [Como conecto FS9 ???](https://forums.vatsim.net/topic/33265-como-conecto-fs9/?do=findComment&comment=189366)
 - [Wind report Beta .2](https://forums.vatsim.net/topic/33266-wind-report-beta-2/?do=findComment&comment=189365)
 - [Como conecto FS9 ???](https://forums.vatsim.net/topic/33265-como-conecto-fs9/?do=findComment&comment=189364)
-- [I shouldn&#39;t beat myself up about it...but...](https://forums.vatsim.net/topic/33258-i-shouldnt-beat-myself-up-about-itbut/?do=findComment&comment=189363)
-- [Como conecto FS9 ???](https://forums.vatsim.net/topic/33265-como-conecto-fs9/?do=findComment&comment=189362)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189361)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
