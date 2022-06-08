@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VFR GA Flight Corridors over Mexico City](https://forums.vatsim.net/topic/33230-vfr-ga-flight-corridors-over-mexico-city/?do=findComment&comment=189404)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189403)
 - [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189402)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189401)
@@ -64,7 +65,6 @@
 - [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189397)
 - [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189396)
 - [suddenly a lot of corrupt and missing airlines in P3D5 &lpar;never before&rpar;](https://forums.vatsim.net/topic/33269-suddenly-a-lot-of-corrupt-and-missing-airlines-in-p3d5-never-before/?do=findComment&comment=189395)
-- [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189394)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
