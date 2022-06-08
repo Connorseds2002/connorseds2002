@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No voice on xpilot](https://forums.vatsim.net/topic/33273-no-voice-on-xpilot/?do=findComment&comment=189419)
 - [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189418)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189417)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189416)
@@ -64,7 +65,6 @@
 - [Loganair Virtual](https://forums.vatsim.net/topic/33275-loganair-virtual/?do=findComment&comment=189412)
 - [[11th June 2022] S3 CPT | VNKT_APP](https://forums.vatsim.net/topic/33274-11th-june-2022-s3-cpt-vnkt_app/?do=findComment&comment=189411)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189410)
-- [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189409)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
