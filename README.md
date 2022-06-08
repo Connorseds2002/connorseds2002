@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189425)
 - [vPilot messing with microphone input](https://forums.vatsim.net/topic/33276-vpilot-messing-with-microphone-input/?do=findComment&comment=189424)
 - [vATIS not working on a 32bit Windows 7 system](https://forums.vatsim.net/topic/33277-vatis-not-working-on-a-32bit-windows-7-system/?do=findComment&comment=189423)
 - [vPilot messing with microphone input](https://forums.vatsim.net/topic/33276-vpilot-messing-with-microphone-input/?do=findComment&comment=189422)
@@ -64,7 +65,6 @@
 - [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189418)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189417)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189416)
-- [Loganair Virtual](https://forums.vatsim.net/topic/33275-loganair-virtual/?do=findComment&comment=189415)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
