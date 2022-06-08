@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot messing with microphone input](https://forums.vatsim.net/topic/33276-vpilot-messing-with-microphone-input/?do=findComment&comment=189424)
+- [vATIS not working on a 32bit Windows 7 system](https://forums.vatsim.net/topic/33277-vatis-not-working-on-a-32bit-windows-7-system/?do=findComment&comment=189423)
+- [vPilot messing with microphone input](https://forums.vatsim.net/topic/33276-vpilot-messing-with-microphone-input/?do=findComment&comment=189422)
+- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=189421)
+- [vPilot messing with microphone input](https://forums.vatsim.net/topic/33276-vpilot-messing-with-microphone-input/?do=findComment&comment=189420)
 - [No voice on xpilot](https://forums.vatsim.net/topic/33273-no-voice-on-xpilot/?do=findComment&comment=189419)
 - [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189418)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189417)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189416)
 - [Loganair Virtual](https://forums.vatsim.net/topic/33275-loganair-virtual/?do=findComment&comment=189415)
-- [Loganair Virtual](https://forums.vatsim.net/topic/33275-loganair-virtual/?do=findComment&comment=189414)
-- [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189413)
-- [Loganair Virtual](https://forums.vatsim.net/topic/33275-loganair-virtual/?do=findComment&comment=189412)
-- [[11th June 2022] S3 CPT | VNKT_APP](https://forums.vatsim.net/topic/33274-11th-june-2022-s3-cpt-vnkt_app/?do=findComment&comment=189411)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189410)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
