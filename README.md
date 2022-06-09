@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189436)
 - [vPilot 3.4.2 released](https://forums.vatsim.net/topic/33272-vpilot-342-released/?do=findComment&comment=189435)
 - [Updated website](https://forums.vatsim.net/topic/33279-updated-website/?do=findComment&comment=189434)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189433)
@@ -64,7 +65,6 @@
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189429)
 - [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=189428)
 - [I shouldn&#39;t beat myself up about it...but...](https://forums.vatsim.net/topic/33258-i-shouldnt-beat-myself-up-about-itbut/?do=findComment&comment=189427)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189426)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
