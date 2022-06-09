@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=189428)
+- [I shouldn&#39;t beat myself up about it...but...](https://forums.vatsim.net/topic/33258-i-shouldnt-beat-myself-up-about-itbut/?do=findComment&comment=189427)
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189426)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189425)
 - [vPilot messing with microphone input](https://forums.vatsim.net/topic/33276-vpilot-messing-with-microphone-input/?do=findComment&comment=189424)
 - [vATIS not working on a 32bit Windows 7 system](https://forums.vatsim.net/topic/33277-vatis-not-working-on-a-32bit-windows-7-system/?do=findComment&comment=189423)
@@ -62,9 +65,6 @@
 - [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=189421)
 - [vPilot messing with microphone input](https://forums.vatsim.net/topic/33276-vpilot-messing-with-microphone-input/?do=findComment&comment=189420)
 - [No voice on xpilot](https://forums.vatsim.net/topic/33273-no-voice-on-xpilot/?do=findComment&comment=189419)
-- [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189418)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189417)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189416)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
