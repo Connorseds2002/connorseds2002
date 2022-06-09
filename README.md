@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189442)
 - [Model matching question](https://forums.vatsim.net/topic/33280-model-matching-question/?do=findComment&comment=189441)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189440)
 - [Model matching question](https://forums.vatsim.net/topic/33280-model-matching-question/?do=findComment&comment=189439)
@@ -64,7 +65,6 @@
 - [vPilot 3.4.2 released](https://forums.vatsim.net/topic/33272-vpilot-342-released/?do=findComment&comment=189435)
 - [Updated website](https://forums.vatsim.net/topic/33279-updated-website/?do=findComment&comment=189434)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189433)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189432)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
