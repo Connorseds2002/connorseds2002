@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Planning Penguin Logistics Virtual Airlines](https://forums.vatsim.net/topic/33278-planning-penguin-logistics-virtual-airlines/?do=findComment&comment=189431)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189430)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189429)
 - [STAR constraints...](https://forums.vatsim.net/topic/33184-star-constraints/?do=findComment&comment=189428)
@@ -64,7 +65,6 @@
 - [vPilot messing with microphone input](https://forums.vatsim.net/topic/33276-vpilot-messing-with-microphone-input/?do=findComment&comment=189424)
 - [vATIS not working on a 32bit Windows 7 system](https://forums.vatsim.net/topic/33277-vatis-not-working-on-a-32bit-windows-7-system/?do=findComment&comment=189423)
 - [vPilot messing with microphone input](https://forums.vatsim.net/topic/33276-vpilot-messing-with-microphone-input/?do=findComment&comment=189422)
-- [HOW TO READBACK A OCEANIC CLEARENCE](https://forums.vatsim.net/topic/32860-how-to-readback-a-oceanic-clearence/?do=findComment&comment=189421)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
