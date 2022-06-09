@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Updated website](https://forums.vatsim.net/topic/33279-updated-website/?do=findComment&comment=189434)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189433)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189432)
 - [Planning Penguin Logistics Virtual Airlines](https://forums.vatsim.net/topic/33278-planning-penguin-logistics-virtual-airlines/?do=findComment&comment=189431)
@@ -64,7 +65,6 @@
 - [I shouldn&#39;t beat myself up about it...but...](https://forums.vatsim.net/topic/33258-i-shouldnt-beat-myself-up-about-itbut/?do=findComment&comment=189427)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189426)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189425)
-- [vPilot messing with microphone input](https://forums.vatsim.net/topic/33276-vpilot-messing-with-microphone-input/?do=findComment&comment=189424)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
