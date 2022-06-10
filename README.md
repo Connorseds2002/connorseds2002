@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching question](https://forums.vatsim.net/topic/33280-model-matching-question/?do=findComment&comment=189449)
 - [Aircraft Operator Livery Selection](https://forums.vatsim.net/topic/33281-aircraft-operator-livery-selection/?do=findComment&comment=189448)
 - [Model matching question](https://forums.vatsim.net/topic/33280-model-matching-question/?do=findComment&comment=189447)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189446)
@@ -64,7 +65,6 @@
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189442)
 - [Model matching question](https://forums.vatsim.net/topic/33280-model-matching-question/?do=findComment&comment=189441)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189440)
-- [Model matching question](https://forums.vatsim.net/topic/33280-model-matching-question/?do=findComment&comment=189439)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
