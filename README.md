@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189471)
 - [This Auto Disconnect has got to go](https://forums.vatsim.net/topic/25992-this-auto-disconnect-has-got-to-go/?do=findComment&comment=189470)
 - [Getting d/c ed during flight many times msg. &quot;disconnected from network&quot;](https://forums.vatsim.net/topic/33286-getting-dc-ed-during-flight-many-times-msg-disconnected-from-network/?do=findComment&comment=189469)
 - [Getting d/c ed during flight many times msg. &quot;disconnected from network&quot;](https://forums.vatsim.net/topic/33286-getting-dc-ed-during-flight-many-times-msg-disconnected-from-network/?do=findComment&comment=189468)
@@ -64,7 +65,6 @@
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189464)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189461)
 - [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189460)
-- [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189459)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
