@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189472)
 - [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189471)
 - [This Auto Disconnect has got to go](https://forums.vatsim.net/topic/25992-this-auto-disconnect-has-got-to-go/?do=findComment&comment=189470)
 - [Getting d/c ed during flight many times msg. &quot;disconnected from network&quot;](https://forums.vatsim.net/topic/33286-getting-dc-ed-during-flight-many-times-msg-disconnected-from-network/?do=findComment&comment=189469)
@@ -64,7 +65,6 @@
 - [ES Crashes when pilot disconnects while controller in FLP screen](https://forums.vatsim.net/topic/33285-es-crashes-when-pilot-disconnects-while-controller-in-flp-screen/?do=findComment&comment=189465)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189464)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189461)
-- [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189460)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
