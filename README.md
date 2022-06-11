@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189457)
 - [Morocco vACC Reopening](https://forums.vatsim.net/topic/33284-morocco-vacc-reopening/?do=findComment&comment=189456)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189455)
 - [Need help unlinking my discord account](https://forums.vatsim.net/topic/29551-need-help-unlinking-my-discord-account/?do=findComment&comment=189454)
@@ -64,7 +65,6 @@
 - [Aircraft Operator Livery Selection](https://forums.vatsim.net/topic/33281-aircraft-operator-livery-selection/?do=findComment&comment=189450)
 - [Model matching question](https://forums.vatsim.net/topic/33280-model-matching-question/?do=findComment&comment=189449)
 - [Aircraft Operator Livery Selection](https://forums.vatsim.net/topic/33281-aircraft-operator-livery-selection/?do=findComment&comment=189448)
-- [Model matching question](https://forums.vatsim.net/topic/33280-model-matching-question/?do=findComment&comment=189447)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
