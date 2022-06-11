@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Need help unlinking my discord account](https://forums.vatsim.net/topic/29551-need-help-unlinking-my-discord-account/?do=findComment&comment=189454)
 - [Seeing only people that are also using vatsim??](https://forums.vatsim.net/topic/33283-seeing-only-people-that-are-also-using-vatsim/?do=findComment&comment=189453)
 - [VACANCY - VATSIM Europe Division Director](https://forums.vatsim.net/topic/33282-vacancy-vatsim-europe-division-director/?do=findComment&comment=189452)
 - [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189451)
@@ -64,7 +65,6 @@
 - [Model matching question](https://forums.vatsim.net/topic/33280-model-matching-question/?do=findComment&comment=189447)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189446)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189445)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189444)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
