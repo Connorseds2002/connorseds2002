@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189460)
 - [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189459)
 - [Seeing only people that are also using vatsim??](https://forums.vatsim.net/topic/33283-seeing-only-people-that-are-also-using-vatsim/?do=findComment&comment=189458)
 - [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189457)
@@ -64,7 +65,6 @@
 - [Seeing only people that are also using vatsim??](https://forums.vatsim.net/topic/33283-seeing-only-people-that-are-also-using-vatsim/?do=findComment&comment=189453)
 - [VACANCY - VATSIM Europe Division Director](https://forums.vatsim.net/topic/33282-vacancy-vatsim-europe-division-director/?do=findComment&comment=189452)
 - [vPilot Hangs When Trying To Set PTT](https://forums.vatsim.net/topic/33215-vpilot-hangs-when-trying-to-set-ptt/?do=findComment&comment=189451)
-- [Aircraft Operator Livery Selection](https://forums.vatsim.net/topic/33281-aircraft-operator-livery-selection/?do=findComment&comment=189450)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
