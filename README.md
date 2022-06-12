@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS v4b2 Unhandled Exception On Every Wx Update](https://forums.vatsim.net/topic/33288-vatis-v4b2-unhandled-exception-on-every-wx-update/?do=findComment&comment=189485)
 - [This is a simple question, regarding after failing the exam](https://forums.vatsim.net/topic/33289-this-is-a-simple-question-regarding-after-failing-the-exam/?do=findComment&comment=189484)
 - [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189483)
 - [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189482)
@@ -64,7 +65,6 @@
 - [This is a simple question, regarding after failing the exam](https://forums.vatsim.net/topic/33289-this-is-a-simple-question-regarding-after-failing-the-exam/?do=findComment&comment=189478)
 - [vATIS v4b2 Unhandled Exception On Every Wx Update](https://forums.vatsim.net/topic/33288-vatis-v4b2-unhandled-exception-on-every-wx-update/?do=findComment&comment=189477)
 - [vATIS v4b2 Unhandled Exception On Every Wx Update](https://forums.vatsim.net/topic/33288-vatis-v4b2-unhandled-exception-on-every-wx-update/?do=findComment&comment=189476)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189475)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
