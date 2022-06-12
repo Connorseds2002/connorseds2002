@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[VACANCY] Mentor&lpar;s&rpar; - VATEUD Members Support Group](https://forums.vatsim.net/topic/33291-vacancy-mentors-vateud-members-support-group/?do=findComment&comment=189494)
 - [Plano de voo](https://forums.vatsim.net/topic/33290-plano-de-voo/?do=findComment&comment=189493)
 - [Plano de voo](https://forums.vatsim.net/topic/33290-plano-de-voo/?do=findComment&comment=189492)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189491)
@@ -64,7 +65,6 @@
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189487)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189486)
 - [vATIS v4b2 Unhandled Exception On Every Wx Update](https://forums.vatsim.net/topic/33288-vatis-v4b2-unhandled-exception-on-every-wx-update/?do=findComment&comment=189485)
-- [This is a simple question, regarding after failing the exam](https://forums.vatsim.net/topic/33289-this-is-a-simple-question-regarding-after-failing-the-exam/?do=findComment&comment=189484)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
