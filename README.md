@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [[June 25] Canadian Xpress June 2022 Monthly Fly-In - Queenstown](https://forums.vatsim.net/topic/33293-june-25-canadian-xpress-june-2022-monthly-fly-in-queenstown/?do=findComment&comment=189502)
+- [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189501)
+- [Flight planning](https://forums.vatsim.net/topic/33290-flight-planning/?do=findComment&comment=189500)
+- [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189499)
 - [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189498)
 - [[RESIGNATION] VATEUD Division Director](https://forums.vatsim.net/topic/33271-resignation-vateud-division-director/?do=findComment&comment=189497)
 - [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189496)
 - [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189495)
 - [[VACANCY] Mentor&lpar;s&rpar; - VATEUD Members Support Group](https://forums.vatsim.net/topic/33291-vacancy-mentors-vateud-members-support-group/?do=findComment&comment=189494)
-- [Plano de voo](https://forums.vatsim.net/topic/33290-plano-de-voo/?do=findComment&comment=189493)
-- [Plano de voo](https://forums.vatsim.net/topic/33290-plano-de-voo/?do=findComment&comment=189492)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189491)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189490)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189489)
+- [Flight planning](https://forums.vatsim.net/topic/33290-flight-planning/?do=findComment&comment=189493)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
