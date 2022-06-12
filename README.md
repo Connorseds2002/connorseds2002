@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189496)
+- [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189495)
 - [[VACANCY] Mentor&lpar;s&rpar; - VATEUD Members Support Group](https://forums.vatsim.net/topic/33291-vacancy-mentors-vateud-members-support-group/?do=findComment&comment=189494)
 - [Plano de voo](https://forums.vatsim.net/topic/33290-plano-de-voo/?do=findComment&comment=189493)
 - [Plano de voo](https://forums.vatsim.net/topic/33290-plano-de-voo/?do=findComment&comment=189492)
@@ -63,8 +65,6 @@
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189489)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189488)
 - [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189487)
-- [Sector file tools for conversion of coordinates](https://forums.vatsim.net/topic/32483-sector-file-tools-for-conversion-of-coordinates/?do=findComment&comment=189486)
-- [vATIS v4b2 Unhandled Exception On Every Wx Update](https://forums.vatsim.net/topic/33288-vatis-v4b2-unhandled-exception-on-every-wx-update/?do=findComment&comment=189485)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
