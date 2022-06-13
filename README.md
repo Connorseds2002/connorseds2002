@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189515)
+- [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=189514)
 - [Possible to have the .aircraft window remember its last position?](https://forums.vatsim.net/topic/33296-possible-to-have-the-aircraft-window-remember-its-last-position/?do=findComment&comment=189513)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189512)
 - [Seeing only people that are also using vatsim??](https://forums.vatsim.net/topic/33283-seeing-only-people-that-are-also-using-vatsim/?do=findComment&comment=189511)
@@ -63,8 +65,6 @@
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=189508)
 - [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189507)
 - [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189506)
-- [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189505)
-- [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189504)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
