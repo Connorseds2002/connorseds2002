@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189535)
+- [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189534)
+- [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189533)
+- [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189532)
+- [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189531)
+- [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189530)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189529)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189528)
 - [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189527)
 - [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=189526)
-- [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189525)
-- [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189524)
-- [Possible to have the .aircraft window remember its last position?](https://forums.vatsim.net/topic/33296-possible-to-have-the-aircraft-window-remember-its-last-position/?do=findComment&comment=189523)
-- [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=189522)
-- [ATC automated text assistant](https://forums.vatsim.net/topic/33297-atc-automated-text-assistant/?do=findComment&comment=189520)
-- [Possible to have the .aircraft window remember its last position?](https://forums.vatsim.net/topic/33296-possible-to-have-the-aircraft-window-remember-its-last-position/?do=findComment&comment=189518)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
