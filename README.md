@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=189522)
 - [ATC Text and Voice assist utility](https://forums.vatsim.net/topic/33298-atc-text-and-voice-assist-utility/?do=findComment&comment=189521)
 - [ATC automated text assistant](https://forums.vatsim.net/topic/33297-atc-automated-text-assistant/?do=findComment&comment=189520)
 - [ATC Text and Voice assist utility](https://forums.vatsim.net/topic/33298-atc-text-and-voice-assist-utility/?do=findComment&comment=189519)
@@ -64,7 +65,6 @@
 - [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189515)
 - [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=189514)
 - [Possible to have the .aircraft window remember its last position?](https://forums.vatsim.net/topic/33296-possible-to-have-the-aircraft-window-remember-its-last-position/?do=findComment&comment=189513)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189512)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
