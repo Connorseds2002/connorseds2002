@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vatspy problem -- error loading config](https://forums.vatsim.net/topic/7719-vatspy-problem-error-loading-config/?do=findComment&comment=189538)
+- [Vatspy problem -- error loading config](https://forums.vatsim.net/topic/7719-vatspy-problem-error-loading-config/?do=findComment&comment=189537)
+- [Euroscope install with thrustmaster error?](https://forums.vatsim.net/topic/33299-euroscope-install-with-thrustmaster-error/?do=findComment&comment=189536)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189535)
 - [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189534)
 - [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189533)
@@ -62,9 +65,6 @@
 - [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189531)
 - [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189530)
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189529)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189528)
-- [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189527)
-- [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=189526)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
