@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Seeing only people that are also using vatsim??](https://forums.vatsim.net/topic/33283-seeing-only-people-that-are-also-using-vatsim/?do=findComment&comment=189511)
 - [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189510)
 - [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189509)
 - [MSFS freezing due to vPilot after last update.](https://forums.vatsim.net/topic/32425-msfs-freezing-due-to-vpilot-after-last-update/?do=findComment&comment=189508)
@@ -64,7 +65,6 @@
 - [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189504)
 - [vPilot 3.4.3 Released](https://forums.vatsim.net/topic/33294-vpilot-343-released/?do=findComment&comment=189503)
 - [[June 25] Canadian Xpress June 2022 Monthly Fly-In - Queenstown](https://forums.vatsim.net/topic/33293-june-25-canadian-xpress-june-2022-monthly-fly-in-queenstown/?do=findComment&comment=189502)
-- [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189501)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
