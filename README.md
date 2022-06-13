@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189525)
 - [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189524)
 - [Possible to have the .aircraft window remember its last position?](https://forums.vatsim.net/topic/33296-possible-to-have-the-aircraft-window-remember-its-last-position/?do=findComment&comment=189523)
 - [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=189522)
@@ -64,7 +65,6 @@
 - [ATC automated text assistant](https://forums.vatsim.net/topic/33297-atc-automated-text-assistant/?do=findComment&comment=189516)
 - [Model matching problem - 0 identified](https://forums.vatsim.net/topic/33287-model-matching-problem-0-identified/?do=findComment&comment=189515)
 - [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=189514)
-- [Possible to have the .aircraft window remember its last position?](https://forums.vatsim.net/topic/33296-possible-to-have-the-aircraft-window-remember-its-last-position/?do=findComment&comment=189513)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
