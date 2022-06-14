@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [single frequency but dual audio output](https://forums.vatsim.net/topic/33301-single-frequency-but-dual-audio-output/?do=findComment&comment=189542)
 - [Error on launch](https://forums.vatsim.net/topic/33300-error-on-launch/?do=findComment&comment=189541)
 - [Error on launch](https://forums.vatsim.net/topic/33300-error-on-launch/?do=findComment&comment=189540)
 - [Error on launch](https://forums.vatsim.net/topic/33300-error-on-launch/?do=findComment&comment=189539)
@@ -64,7 +65,6 @@
 - [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189535)
 - [Error when launching VPilot for the first time](https://forums.vatsim.net/topic/33295-error-when-launching-vpilot-for-the-first-time/?do=findComment&comment=189534)
 - [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189533)
-- [vatsys xml tools](https://forums.vatsim.net/topic/29277-vatsys-xml-tools/?do=findComment&comment=189532)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
