@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Connecting to VATSIM audio without a flight simulator](https://forums.vatsim.net/topic/33302-connecting-to-vatsim-audio-without-a-flight-simulator/?do=findComment&comment=189547)
+- [Connecting to VATSIM audio without a flight simulator](https://forums.vatsim.net/topic/33302-connecting-to-vatsim-audio-without-a-flight-simulator/?do=findComment&comment=189546)
+- [Massive Voice Lag w/Fenix 320](https://forums.vatsim.net/topic/33303-massive-voice-lag-wfenix-320/?do=findComment&comment=189545)
 - [Connecting to VATSIM audio without a flight simulator](https://forums.vatsim.net/topic/33302-connecting-to-vatsim-audio-without-a-flight-simulator/?do=findComment&comment=189544)
 - [Connecting to VATSIM audio without a flight simulator](https://forums.vatsim.net/topic/33302-connecting-to-vatsim-audio-without-a-flight-simulator/?do=findComment&comment=189543)
 - [single frequency but dual audio output](https://forums.vatsim.net/topic/33301-single-frequency-but-dual-audio-output/?do=findComment&comment=189542)
@@ -62,9 +65,6 @@
 - [Error on launch](https://forums.vatsim.net/topic/33300-error-on-launch/?do=findComment&comment=189540)
 - [Error on launch](https://forums.vatsim.net/topic/33300-error-on-launch/?do=findComment&comment=189539)
 - [Vatspy problem -- error loading config](https://forums.vatsim.net/topic/7719-vatspy-problem-error-loading-config/?do=findComment&comment=189538)
-- [Vatspy problem -- error loading config](https://forums.vatsim.net/topic/7719-vatspy-problem-error-loading-config/?do=findComment&comment=189537)
-- [Euroscope install with thrustmaster error?](https://forums.vatsim.net/topic/33299-euroscope-install-with-thrustmaster-error/?do=findComment&comment=189536)
-- [Are hypersonic aircraft allowed on Vatsim?](https://forums.vatsim.net/topic/33210-are-hypersonic-aircraft-allowed-on-vatsim/?do=findComment&comment=189535)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
