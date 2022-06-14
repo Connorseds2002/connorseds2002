@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189554)
+- [single frequency but dual audio output](https://forums.vatsim.net/topic/33301-single-frequency-but-dual-audio-output/?do=findComment&comment=189553)
+- [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189552)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189551)
 - [vpilot causes msfs to pause ??](https://forums.vatsim.net/topic/33115-vpilot-causes-msfs-to-pause/?do=findComment&comment=189550)
 - [Vatspy Data Download warning](https://forums.vatsim.net/topic/33304-vatspy-data-download-warning/?do=findComment&comment=189549)
@@ -62,9 +65,6 @@
 - [Connecting to VATSIM audio without a flight simulator](https://forums.vatsim.net/topic/33302-connecting-to-vatsim-audio-without-a-flight-simulator/?do=findComment&comment=189547)
 - [Connecting to VATSIM audio without a flight simulator](https://forums.vatsim.net/topic/33302-connecting-to-vatsim-audio-without-a-flight-simulator/?do=findComment&comment=189546)
 - [Massive Voice Lag w/Fenix 320](https://forums.vatsim.net/topic/33303-massive-voice-lag-wfenix-320/?do=findComment&comment=189545)
-- [Connecting to VATSIM audio without a flight simulator](https://forums.vatsim.net/topic/33302-connecting-to-vatsim-audio-without-a-flight-simulator/?do=findComment&comment=189544)
-- [Connecting to VATSIM audio without a flight simulator](https://forums.vatsim.net/topic/33302-connecting-to-vatsim-audio-without-a-flight-simulator/?do=findComment&comment=189543)
-- [single frequency but dual audio output](https://forums.vatsim.net/topic/33301-single-frequency-but-dual-audio-output/?do=findComment&comment=189542)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
