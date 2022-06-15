@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.4.3 Released](https://forums.vatsim.net/topic/33294-vpilot-343-released/?do=findComment&comment=189567)
 - [vPilot 3.4.3 Released](https://forums.vatsim.net/topic/33294-vpilot-343-released/?do=findComment&comment=189566)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189565)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189564)
@@ -64,7 +65,6 @@
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189560)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189559)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189558)
-- [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189557)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
