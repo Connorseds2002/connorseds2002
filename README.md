@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Position Opening: Hong Kong vACC - Manager, Web Services &lpar;ACCHKG8&rpar;](https://forums.vatsim.net/topic/33308-position-opening-hong-kong-vacc-manager-web-services-acchkg8/?do=findComment&comment=189570)
 - [contact controller](https://forums.vatsim.net/topic/33307-contact-controller/?do=findComment&comment=189569)
 - [contact controller](https://forums.vatsim.net/topic/33307-contact-controller/?do=findComment&comment=189568)
 - [vPilot 3.4.3 Released](https://forums.vatsim.net/topic/33294-vpilot-343-released/?do=findComment&comment=189567)
@@ -64,7 +65,6 @@
 - [single frequency but dual audio output](https://forums.vatsim.net/topic/33301-single-frequency-but-dual-audio-output/?do=findComment&comment=189563)
 - [vatis4 not parsing runway numbers correctly](https://forums.vatsim.net/topic/33270-vatis4-not-parsing-runway-numbers-correctly/?do=findComment&comment=189562)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189561)
-- [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189560)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
