@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [contact controller](https://forums.vatsim.net/topic/33307-contact-controller/?do=findComment&comment=189569)
+- [contact controller](https://forums.vatsim.net/topic/33307-contact-controller/?do=findComment&comment=189568)
 - [vPilot 3.4.3 Released](https://forums.vatsim.net/topic/33294-vpilot-343-released/?do=findComment&comment=189567)
 - [vPilot 3.4.3 Released](https://forums.vatsim.net/topic/33294-vpilot-343-released/?do=findComment&comment=189566)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189565)
@@ -63,8 +65,6 @@
 - [vatis4 not parsing runway numbers correctly](https://forums.vatsim.net/topic/33270-vatis4-not-parsing-runway-numbers-correctly/?do=findComment&comment=189562)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189561)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189560)
-- [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189559)
-- [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189558)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
