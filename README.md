@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189618)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189617)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189616)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189615)
@@ -64,7 +65,6 @@
 - [Controller location in v3 data feed](https://forums.vatsim.net/topic/30347-controller-location-in-v3-data-feed/?do=findComment&comment=189611)
 - [No Realtek microphone](https://forums.vatsim.net/topic/33311-no-realtek-microphone/?do=findComment&comment=189610)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189609)
-- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189608)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
