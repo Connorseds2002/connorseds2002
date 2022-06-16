@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189648)
+- [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189647)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189646)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189645)
 - [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189644)
@@ -63,8 +65,6 @@
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189641)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189640)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189639)
-- [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189638)
-- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189637)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
