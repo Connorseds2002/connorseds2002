@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.4.3 Released](https://forums.vatsim.net/topic/33294-vpilot-343-released/?do=findComment&comment=189602)
+- [vPilot 3.4.3 Released](https://forums.vatsim.net/topic/33294-vpilot-343-released/?do=findComment&comment=189601)
+- [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189600)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189599)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189598)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189597)
@@ -62,9 +65,6 @@
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189595)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189594)
 - [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189593)
-- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189592)
-- [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189591)
-- [Failed to create aircraft using model...](https://forums.vatsim.net/topic/33305-failed-to-create-aircraft-using-model/?do=findComment&comment=189590)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
