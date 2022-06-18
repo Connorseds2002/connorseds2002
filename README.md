@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189661)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189660)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189659)
 - [VFR GA Flight Corridors over Mexico City](https://forums.vatsim.net/topic/33230-vfr-ga-flight-corridors-over-mexico-city/?do=findComment&comment=189658)
@@ -64,7 +65,6 @@
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189654)
 - [Lithuania VACC](https://forums.vatsim.net/topic/29747-lithuania-vacc/?do=findComment&comment=189653)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189652)
-- [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189651)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
