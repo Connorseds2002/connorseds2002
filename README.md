@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189664)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189663)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189662)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189661)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189660)
@@ -63,8 +65,6 @@
 - [No models found on vpilot using msfs](https://forums.vatsim.net/topic/33313-no-models-found-on-vpilot-using-msfs/?do=findComment&comment=189657)
 - [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189656)
 - [Ratings are difficult to get](https://forums.vatsim.net/topic/33189-ratings-are-difficult-to-get/?do=findComment&comment=189655)
-- [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189654)
-- [Lithuania VACC](https://forums.vatsim.net/topic/29747-lithuania-vacc/?do=findComment&comment=189653)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
