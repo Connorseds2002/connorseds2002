@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vATIS 4 Beta 2 Install Error](https://forums.vatsim.net/topic/33315-vatis-4-beta-2-install-error/?do=findComment&comment=189672)
 - [[25th June 0600-0800/1200-1500]Tokyo to Ho Chi Minh One-way](https://forums.vatsim.net/topic/33314-25th-june-0600-08001200-1500tokyo-to-ho-chi-minh-one-way/?do=findComment&comment=189671)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189670)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189669)
@@ -64,7 +65,6 @@
 - [Morocco vACC Reopening](https://forums.vatsim.net/topic/33284-morocco-vacc-reopening/?do=findComment&comment=189665)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189664)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189663)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189662)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
