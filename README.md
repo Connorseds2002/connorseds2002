@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.4.4 and 3.4.5 Released](https://forums.vatsim.net/topic/33318-vpilot-344-and-345-released/?do=findComment&comment=189679)
+- [Error 404](https://forums.vatsim.net/topic/33317-error-404/?do=findComment&comment=189678)
 - [Error 404](https://forums.vatsim.net/topic/33317-error-404/?do=findComment&comment=189677)
 - [Error 404](https://forums.vatsim.net/topic/33317-error-404/?do=findComment&comment=189676)
 - [Vpilot disconnecting every 2 mins](https://forums.vatsim.net/topic/33316-vpilot-disconnecting-every-2-mins/?do=findComment&comment=189675)
@@ -63,8 +65,6 @@
 - [vATIS 4 Beta 2 Install Error](https://forums.vatsim.net/topic/33315-vatis-4-beta-2-install-error/?do=findComment&comment=189672)
 - [[25th June 0600-0800/1200-1500]Tokyo to Ho Chi Minh One-way](https://forums.vatsim.net/topic/33314-25th-june-0600-08001200-1500tokyo-to-ho-chi-minh-one-way/?do=findComment&comment=189671)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189670)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189669)
-- [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189668)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
