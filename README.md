@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Vpilot disconnecting every 2 mins](https://forums.vatsim.net/topic/33316-vpilot-disconnecting-every-2-mins/?do=findComment&comment=189675)
 - [Vpilot disconnecting every 2 mins](https://forums.vatsim.net/topic/33316-vpilot-disconnecting-every-2-mins/?do=findComment&comment=189674)
 - [Vpilot disconnecting every 2 mins](https://forums.vatsim.net/topic/33316-vpilot-disconnecting-every-2-mins/?do=findComment&comment=189673)
 - [vATIS 4 Beta 2 Install Error](https://forums.vatsim.net/topic/33315-vatis-4-beta-2-install-error/?do=findComment&comment=189672)
@@ -64,7 +65,6 @@
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189668)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189667)
 - [Proper Equipment Code](https://forums.vatsim.net/topic/33306-proper-equipment-code/?do=findComment&comment=189666)
-- [Morocco vACC Reopening](https://forums.vatsim.net/topic/33284-morocco-vacc-reopening/?do=findComment&comment=189665)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
