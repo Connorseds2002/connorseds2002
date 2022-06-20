@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Newbies to Vatsim using ATC](https://forums.vatsim.net/topic/31885-newbies-to-vatsim-using-atc/?do=findComment&comment=189684)
 - [[ATC] Unable to hear Pilots](https://forums.vatsim.net/topic/33320-atc-unable-to-hear-pilots/?do=findComment&comment=189683)
 - [GVSC_CTR Sal Oceanic Division doubt](https://forums.vatsim.net/topic/33319-gvsc_ctr-sal-oceanic-division-doubt/?do=findComment&comment=189682)
 - [Error 404](https://forums.vatsim.net/topic/33317-error-404/?do=findComment&comment=189681)
@@ -64,7 +65,6 @@
 - [Error 404](https://forums.vatsim.net/topic/33317-error-404/?do=findComment&comment=189677)
 - [Error 404](https://forums.vatsim.net/topic/33317-error-404/?do=findComment&comment=189676)
 - [Vpilot disconnecting every 2 mins](https://forums.vatsim.net/topic/33316-vpilot-disconnecting-every-2-mins/?do=findComment&comment=189675)
-- [Vpilot disconnecting every 2 mins](https://forums.vatsim.net/topic/33316-vpilot-disconnecting-every-2-mins/?do=findComment&comment=189674)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
