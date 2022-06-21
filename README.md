@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=189690)
 - [Vatis installation error](https://forums.vatsim.net/topic/33321-vatis-installation-error/?do=findComment&comment=189689)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189688)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189687)
@@ -64,7 +65,6 @@
 - [[ATC] Unable to hear Pilots](https://forums.vatsim.net/topic/33320-atc-unable-to-hear-pilots/?do=findComment&comment=189683)
 - [GVSC_CTR Sal Oceanic Division doubt](https://forums.vatsim.net/topic/33319-gvsc_ctr-sal-oceanic-division-doubt/?do=findComment&comment=189682)
 - [Error 404](https://forums.vatsim.net/topic/33317-error-404/?do=findComment&comment=189681)
-- [GVSC_CTR Sal Oceanic Division doubt](https://forums.vatsim.net/topic/33319-gvsc_ctr-sal-oceanic-division-doubt/?do=findComment&comment=189680)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
