@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Mic not functioning on vatsim for MFS2020](https://forums.vatsim.net/topic/32560-mic-not-functioning-on-vatsim-for-mfs2020/?do=findComment&comment=189692)
+- [Simulation with 2 pseudopilots not working](https://forums.vatsim.net/topic/33322-simulation-with-2-pseudopilots-not-working/?do=findComment&comment=189691)
 - [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=189690)
 - [Vatis installation error](https://forums.vatsim.net/topic/33321-vatis-installation-error/?do=findComment&comment=189689)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189688)
@@ -63,8 +65,6 @@
 - [[ATC] Unable to hear Pilots](https://forums.vatsim.net/topic/33320-atc-unable-to-hear-pilots/?do=findComment&comment=189685)
 - [Newbies to Vatsim using ATC](https://forums.vatsim.net/topic/31885-newbies-to-vatsim-using-atc/?do=findComment&comment=189684)
 - [[ATC] Unable to hear Pilots](https://forums.vatsim.net/topic/33320-atc-unable-to-hear-pilots/?do=findComment&comment=189683)
-- [GVSC_CTR Sal Oceanic Division doubt](https://forums.vatsim.net/topic/33319-gvsc_ctr-sal-oceanic-division-doubt/?do=findComment&comment=189682)
-- [Error 404](https://forums.vatsim.net/topic/33317-error-404/?do=findComment&comment=189681)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
