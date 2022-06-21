@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189699)
 - [Where Can We See Our Total Time of Flight on The Vatsim?](https://forums.vatsim.net/topic/33325-where-can-we-see-our-total-time-of-flight-on-the-vatsim/?do=findComment&comment=189698)
 - [Where Can We See Our Total Time of Flight on The Vatsim?](https://forums.vatsim.net/topic/33325-where-can-we-see-our-total-time-of-flight-on-the-vatsim/?do=findComment&comment=189697)
 - [[Event] IndiGo Mumbai Real Ops - July 3, 2022 | India vACC in collaboration with Infinity Virtual](https://forums.vatsim.net/topic/33324-event-indigo-mumbai-real-ops-july-3-2022-india-vacc-in-collaboration-with-infinity-virtual/?do=findComment&comment=189696)
@@ -64,7 +65,6 @@
 - [Mic not functioning on vatsim for MFS2020](https://forums.vatsim.net/topic/32560-mic-not-functioning-on-vatsim-for-mfs2020/?do=findComment&comment=189692)
 - [Simulation with 2 pseudopilots not working](https://forums.vatsim.net/topic/33322-simulation-with-2-pseudopilots-not-working/?do=findComment&comment=189691)
 - [Changelog](https://forums.vatsim.net/topic/26810-changelog/?do=findComment&comment=189690)
-- [Vatis installation error](https://forums.vatsim.net/topic/33321-vatis-installation-error/?do=findComment&comment=189689)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
