@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [vPilot 3.4.6 Released](https://forums.vatsim.net/topic/33326-vpilot-346-released/?do=findComment&comment=189701)
 - [Mic not functioning on vatsim for MFS2020](https://forums.vatsim.net/topic/32560-mic-not-functioning-on-vatsim-for-mfs2020/?do=findComment&comment=189700)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189699)
 - [Where Can We See Our Total Time of Flight on The Vatsim?](https://forums.vatsim.net/topic/33325-where-can-we-see-our-total-time-of-flight-on-the-vatsim/?do=findComment&comment=189698)
@@ -64,7 +65,6 @@
 - [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189694)
 - [GoFly Virtual](https://forums.vatsim.net/topic/33323-gofly-virtual/?do=findComment&comment=189693)
 - [Mic not functioning on vatsim for MFS2020](https://forums.vatsim.net/topic/32560-mic-not-functioning-on-vatsim-for-mfs2020/?do=findComment&comment=189692)
-- [Simulation with 2 pseudopilots not working](https://forums.vatsim.net/topic/33322-simulation-with-2-pseudopilots-not-working/?do=findComment&comment=189691)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
