@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189706)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189705)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189704)
 - [XPilot slows down XPlane to below 20fps when connected](https://forums.vatsim.net/topic/33260-xpilot-slows-down-xplane-to-below-20fps-when-connected/?do=findComment&comment=189703)
@@ -64,7 +65,6 @@
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189699)
 - [Where Can We See Our Total Time of Flight on The Vatsim?](https://forums.vatsim.net/topic/33325-where-can-we-see-our-total-time-of-flight-on-the-vatsim/?do=findComment&comment=189698)
 - [Where Can We See Our Total Time of Flight on The Vatsim?](https://forums.vatsim.net/topic/33325-where-can-we-see-our-total-time-of-flight-on-the-vatsim/?do=findComment&comment=189697)
-- [[Event] IndiGo Mumbai Real Ops - July 3, 2022 | India vACC in collaboration with Infinity Virtual](https://forums.vatsim.net/topic/33324-event-indigo-mumbai-real-ops-july-3-2022-india-vacc-in-collaboration-with-infinity-virtual/?do=findComment&comment=189696)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
