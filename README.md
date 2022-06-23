@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [XPilot slows down XPlane to below 20fps when connected](https://forums.vatsim.net/topic/33260-xpilot-slows-down-xplane-to-below-20fps-when-connected/?do=findComment&comment=189715)
 - [Menu settings in MSFS for vPilot to work without problems with internal AI/ATC](https://forums.vatsim.net/topic/33327-menu-settings-in-msfs-for-vpilot-to-work-without-problems-with-internal-aiatc/?do=findComment&comment=189714)
 - [Menu settings in MSFS for vPilot to work without problems with internal AI/ATC](https://forums.vatsim.net/topic/33327-menu-settings-in-msfs-for-vpilot-to-work-without-problems-with-internal-aiatc/?do=findComment&comment=189713)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189712)
@@ -64,7 +65,6 @@
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189708)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189707)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189706)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189705)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
