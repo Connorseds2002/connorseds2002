@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Dealing with Newbie/Problem Pilots](https://forums.vatsim.net/topic/33329-dealing-with-newbieproblem-pilots/?do=findComment&comment=189720)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189719)
 - [Houston Again -- Scramble, Sun 26th June](https://forums.vatsim.net/topic/33328-houston-again-scramble-sun-26th-june/?do=findComment&comment=189718)
 - [Menu settings in MSFS for vPilot to work without problems with internal AI/ATC](https://forums.vatsim.net/topic/33327-menu-settings-in-msfs-for-vpilot-to-work-without-problems-with-internal-aiatc/?do=findComment&comment=189717)
@@ -64,7 +65,6 @@
 - [Menu settings in MSFS for vPilot to work without problems with internal AI/ATC](https://forums.vatsim.net/topic/33327-menu-settings-in-msfs-for-vpilot-to-work-without-problems-with-internal-aiatc/?do=findComment&comment=189713)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189712)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189711)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189710)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
