@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189719)
+- [Houston Again -- Scramble, Sun 26th June](https://forums.vatsim.net/topic/33328-houston-again-scramble-sun-26th-june/?do=findComment&comment=189718)
 - [Menu settings in MSFS for vPilot to work without problems with internal AI/ATC](https://forums.vatsim.net/topic/33327-menu-settings-in-msfs-for-vpilot-to-work-without-problems-with-internal-aiatc/?do=findComment&comment=189717)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189716)
 - [XPilot slows down XPlane to below 20fps when connected](https://forums.vatsim.net/topic/33260-xpilot-slows-down-xplane-to-below-20fps-when-connected/?do=findComment&comment=189715)
@@ -63,8 +65,6 @@
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189712)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189711)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189710)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189709)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189708)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
