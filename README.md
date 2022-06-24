@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189729)
+- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189728)
 - [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189727)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189726)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189725)
@@ -63,8 +65,6 @@
 - [Dealing with Newbie/Problem Pilots](https://forums.vatsim.net/topic/33329-dealing-with-newbieproblem-pilots/?do=findComment&comment=189722)
 - [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189721)
 - [Dealing with Newbie/Problem Pilots](https://forums.vatsim.net/topic/33329-dealing-with-newbieproblem-pilots/?do=findComment&comment=189720)
-- [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189719)
-- [Houston Again -- Scramble, Sun 26th June](https://forums.vatsim.net/topic/33328-houston-again-scramble-sun-26th-june/?do=findComment&comment=189718)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
