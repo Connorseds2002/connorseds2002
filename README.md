@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189734)
 - [P3D model match rule generating tool](https://forums.vatsim.net/topic/33330-p3d-model-match-rule-generating-tool/?do=findComment&comment=189733)
 - [Dealing with Newbie/Problem Pilots](https://forums.vatsim.net/topic/33329-dealing-with-newbieproblem-pilots/?do=findComment&comment=189732)
 - [Dealing with Newbie/Problem Pilots](https://forums.vatsim.net/topic/33329-dealing-with-newbieproblem-pilots/?do=findComment&comment=189731)
@@ -64,7 +65,6 @@
 - [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189727)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189726)
 - [ATC: how to approach beginners on the network](https://forums.vatsim.net/topic/27548-atc-how-to-approach-beginners-on-the-network/?do=findComment&comment=189725)
-- [Menu settings in MSFS for vPilot to work without problems with internal AI/ATC](https://forums.vatsim.net/topic/33327-menu-settings-in-msfs-for-vpilot-to-work-without-problems-with-internal-aiatc/?do=findComment&comment=189724)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
