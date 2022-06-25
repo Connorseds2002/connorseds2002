@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189743)
+- [P3D model match rule generating tool](https://forums.vatsim.net/topic/33330-p3d-model-match-rule-generating-tool/?do=findComment&comment=189742)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189741)
 - [P3D model match rule generating tool](https://forums.vatsim.net/topic/33330-p3d-model-match-rule-generating-tool/?do=findComment&comment=189740)
 - [xPilot for VATSIM: text cannot be copied from xpilot](https://forums.vatsim.net/topic/33331-xpilot-for-vatsim-text-cannot-be-copied-from-xpilot/?do=findComment&comment=189739)
@@ -63,8 +65,6 @@
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189736)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189735)
 - [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189734)
-- [P3D model match rule generating tool](https://forums.vatsim.net/topic/33330-p3d-model-match-rule-generating-tool/?do=findComment&comment=189733)
-- [Dealing with Newbie/Problem Pilots](https://forums.vatsim.net/topic/33329-dealing-with-newbieproblem-pilots/?do=findComment&comment=189732)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
