@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [VATSIM Indicators](https://forums.vatsim.net/topic/33335-vatsim-indicators/?do=findComment&comment=189768)
+- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189767)
 - [Do not fly STARs](https://forums.vatsim.net/topic/33332-do-not-fly-stars/?do=findComment&comment=189766)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=189765)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=189764)
@@ -63,8 +65,6 @@
 - [Fly By Wire A320 not receiving ATIS](https://forums.vatsim.net/topic/33334-fly-by-wire-a320-not-receiving-atis/?do=findComment&comment=189761)
 - [call signs](https://forums.vatsim.net/topic/33333-call-signs/?do=findComment&comment=189760)
 - [call signs](https://forums.vatsim.net/topic/33333-call-signs/?do=findComment&comment=189759)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189758)
-- [Houston Again -- Scramble, Sun 26th June](https://forums.vatsim.net/topic/33328-houston-again-scramble-sun-26th-june/?do=findComment&comment=189757)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
