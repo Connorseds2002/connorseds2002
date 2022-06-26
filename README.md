@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [call signs](https://forums.vatsim.net/topic/33333-call-signs/?do=findComment&comment=189763)
+- [call signs](https://forums.vatsim.net/topic/33333-call-signs/?do=findComment&comment=189762)
+- [Fly By Wire A320 not receiving ATIS](https://forums.vatsim.net/topic/33334-fly-by-wire-a320-not-receiving-atis/?do=findComment&comment=189761)
+- [call signs](https://forums.vatsim.net/topic/33333-call-signs/?do=findComment&comment=189760)
+- [call signs](https://forums.vatsim.net/topic/33333-call-signs/?do=findComment&comment=189759)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189758)
 - [Houston Again -- Scramble, Sun 26th June](https://forums.vatsim.net/topic/33328-houston-again-scramble-sun-26th-june/?do=findComment&comment=189757)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=189756)
 - [Do not fly STARs](https://forums.vatsim.net/topic/33332-do-not-fly-stars/?do=findComment&comment=189755)
 - [Do not fly STARs](https://forums.vatsim.net/topic/33332-do-not-fly-stars/?do=findComment&comment=189754)
-- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=189753)
-- [Do not fly STARs](https://forums.vatsim.net/topic/33332-do-not-fly-stars/?do=findComment&comment=189752)
-- [P3D model match rule generating tool](https://forums.vatsim.net/topic/33330-p3d-model-match-rule-generating-tool/?do=findComment&comment=189751)
-- [Messages in VR](https://forums.vatsim.net/topic/32906-messages-in-vr/?do=findComment&comment=189750)
-- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189749)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
