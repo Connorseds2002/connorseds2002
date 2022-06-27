@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189799)
+- [Do not fly STARs](https://forums.vatsim.net/topic/33332-do-not-fly-stars/?do=findComment&comment=189798)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189797)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189796)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189795)
@@ -63,8 +65,6 @@
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189792)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189791)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189790)
-- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189789)
-- [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189788)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
