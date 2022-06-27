@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot for VATSIM: text cannot be copied from xpilot](https://forums.vatsim.net/topic/33331-xpilot-for-vatsim-text-cannot-be-copied-from-xpilot/?do=findComment&comment=189772)
 - [Using Noi Bai Int&#39;l VVNB, Hanoi, Viet Nam](https://forums.vatsim.net/topic/33336-using-noi-bai-intl-vvnb-hanoi-viet-nam/?do=findComment&comment=189771)
 - [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189770)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189769)
@@ -64,7 +65,6 @@
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=189765)
 - [&quot;Authentication Failed: A task was canceled&quot; upon connection attempt](https://forums.vatsim.net/topic/32848-authentication-failed-a-task-was-canceled-upon-connection-attempt/?do=findComment&comment=189764)
 - [call signs](https://forums.vatsim.net/topic/33333-call-signs/?do=findComment&comment=189763)
-- [call signs](https://forums.vatsim.net/topic/33333-call-signs/?do=findComment&comment=189762)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
