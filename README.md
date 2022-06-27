@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189793)
+- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189792)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189791)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189790)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189789)
 - [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189788)
-- [I have been suspended from the network for invalid personal details](https://forums.vatsim.net/topic/33338-i-have-been-suspended-from-the-network-for-invalid-personal-details/?do=findComment&comment=189787)
-- [I have been suspended from the network for invalid personal details](https://forums.vatsim.net/topic/33338-i-have-been-suspended-from-the-network-for-invalid-personal-details/?do=findComment&comment=189786)
-- [I have been suspended from the network for invalid personal details](https://forums.vatsim.net/topic/33338-i-have-been-suspended-from-the-network-for-invalid-personal-details/?do=findComment&comment=189785)
 - [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=189784)
 - [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189783)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189782)
+- [Some Controllers Are Harsh!](https://forums.vatsim.net/topic/33227-some-controllers-are-harsh/?do=findComment&comment=189781)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
