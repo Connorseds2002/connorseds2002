@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189797)
+- [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189796)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189795)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189794)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189793)
@@ -63,8 +65,6 @@
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189790)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189789)
 - [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189788)
-- [Feedback requested on proposed model matching changes](https://forums.vatsim.net/topic/32314-feedback-requested-on-proposed-model-matching-changes/?do=findComment&comment=189784)
-- [Send Only Vatsim Option](https://forums.vatsim.net/topic/33312-send-only-vatsim-option/?do=findComment&comment=189783)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
