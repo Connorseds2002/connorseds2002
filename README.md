@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [xPilot on Ubuntu 22.04](https://forums.vatsim.net/topic/33342-xpilot-on-ubuntu-2204/?do=findComment&comment=189807)
+- [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189806)
 - [Fly By Wire A320 not receiving ATIS](https://forums.vatsim.net/topic/33334-fly-by-wire-a320-not-receiving-atis/?do=findComment&comment=189805)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189804)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189803)
@@ -63,8 +65,6 @@
 - [Alan Cooke selected as Vice President - Membership](https://forums.vatsim.net/topic/33340-alan-cooke-selected-as-vice-president-membership/?do=findComment&comment=189800)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189799)
 - [Do not fly STARs](https://forums.vatsim.net/topic/33332-do-not-fly-stars/?do=findComment&comment=189798)
-- [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189797)
-- [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189796)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
