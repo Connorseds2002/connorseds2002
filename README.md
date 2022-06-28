@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189810)
+- [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189809)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189808)
 - [xPilot on Ubuntu 22.04](https://forums.vatsim.net/topic/33342-xpilot-on-ubuntu-2204/?do=findComment&comment=189807)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189806)
@@ -63,8 +65,6 @@
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189803)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189802)
 - [VATSIM seeks volunteer front-end developers](https://forums.vatsim.net/topic/33341-vatsim-seeks-volunteer-front-end-developers/?do=findComment&comment=189801)
-- [Alan Cooke selected as Vice President - Membership](https://forums.vatsim.net/topic/33340-alan-cooke-selected-as-vice-president-membership/?do=findComment&comment=189800)
-- [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189799)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
