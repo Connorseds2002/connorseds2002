@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [New version of swift pilot client available - important fixes](https://forums.vatsim.net/topic/33343-new-version-of-swift-pilot-client-available-important-fixes/?do=findComment&comment=189812)
+- [Using Noi Bai Int&#39;l VVNB, Hanoi, Viet Nam](https://forums.vatsim.net/topic/33336-using-noi-bai-intl-vvnb-hanoi-viet-nam/?do=findComment&comment=189811)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189810)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189809)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189808)
@@ -63,8 +65,6 @@
 - [Fly By Wire A320 not receiving ATIS](https://forums.vatsim.net/topic/33334-fly-by-wire-a320-not-receiving-atis/?do=findComment&comment=189805)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189804)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189803)
-- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189802)
-- [VATSIM seeks volunteer front-end developers](https://forums.vatsim.net/topic/33341-vatsim-seeks-volunteer-front-end-developers/?do=findComment&comment=189801)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
