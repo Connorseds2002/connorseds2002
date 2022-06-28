@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189802)
+- [VATSIM seeks volunteer front-end developers](https://forums.vatsim.net/topic/33341-vatsim-seeks-volunteer-front-end-developers/?do=findComment&comment=189801)
+- [Alan Cooke selected as Vice President - Membership](https://forums.vatsim.net/topic/33340-alan-cooke-selected-as-vice-president-membership/?do=findComment&comment=189800)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189799)
 - [Do not fly STARs](https://forums.vatsim.net/topic/33332-do-not-fly-stars/?do=findComment&comment=189798)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189797)
@@ -62,9 +65,6 @@
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189795)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189794)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189793)
-- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189792)
-- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189791)
-- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189790)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
