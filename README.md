@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Special Thanks to ALL the VATSIM Controllers](https://forums.vatsim.net/topic/33345-special-thanks-to-all-the-vatsim-controllers/?do=findComment&comment=189816)
 - [Special Thanks to ALL the VATSIM Controllers](https://forums.vatsim.net/topic/33345-special-thanks-to-all-the-vatsim-controllers/?do=findComment&comment=189815)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189814)
 - [New version of swift pilot client available - important fixes](https://forums.vatsim.net/topic/33343-new-version-of-swift-pilot-client-available-important-fixes/?do=findComment&comment=189812)
@@ -64,7 +65,6 @@
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189808)
 - [xPilot on Ubuntu 22.04](https://forums.vatsim.net/topic/33342-xpilot-on-ubuntu-2204/?do=findComment&comment=189807)
 - [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189806)
-- [Fly By Wire A320 not receiving ATIS](https://forums.vatsim.net/topic/33334-fly-by-wire-a320-not-receiving-atis/?do=findComment&comment=189805)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
