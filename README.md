@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [FIR/UIR Boundaries](https://forums.vatsim.net/topic/33337-firuir-boundaries/?do=findComment&comment=189820)
+- [Special Thanks to ALL the VATSIM Controllers](https://forums.vatsim.net/topic/33345-special-thanks-to-all-the-vatsim-controllers/?do=findComment&comment=189819)
 - [xPilot on Ubuntu 22.04](https://forums.vatsim.net/topic/33342-xpilot-on-ubuntu-2204/?do=findComment&comment=189818)
 - [xPilot on Ubuntu 22.04](https://forums.vatsim.net/topic/33342-xpilot-on-ubuntu-2204/?do=findComment&comment=189817)
 - [Special Thanks to ALL the VATSIM Controllers](https://forums.vatsim.net/topic/33345-special-thanks-to-all-the-vatsim-controllers/?do=findComment&comment=189816)
@@ -63,8 +65,6 @@
 - [New version of swift pilot client available - important fixes](https://forums.vatsim.net/topic/33343-new-version-of-swift-pilot-client-available-important-fixes/?do=findComment&comment=189812)
 - [Using Noi Bai Int&#39;l VVNB, Hanoi, Viet Nam](https://forums.vatsim.net/topic/33336-using-noi-bai-intl-vvnb-hanoi-viet-nam/?do=findComment&comment=189811)
 - [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189810)
-- [Atc](https://forums.vatsim.net/topic/33339-atc/?do=findComment&comment=189809)
-- [Ghost mode?](https://forums.vatsim.net/topic/33309-ghost-mode/?do=findComment&comment=189808)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
