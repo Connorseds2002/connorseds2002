@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189822)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189821)
 - [FIR/UIR Boundaries](https://forums.vatsim.net/topic/33337-firuir-boundaries/?do=findComment&comment=189820)
 - [Special Thanks to ALL the VATSIM Controllers](https://forums.vatsim.net/topic/33345-special-thanks-to-all-the-vatsim-controllers/?do=findComment&comment=189819)
@@ -64,7 +65,6 @@
 - [Special Thanks to ALL the VATSIM Controllers](https://forums.vatsim.net/topic/33345-special-thanks-to-all-the-vatsim-controllers/?do=findComment&comment=189815)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189814)
 - [New version of swift pilot client available - important fixes](https://forums.vatsim.net/topic/33343-new-version-of-swift-pilot-client-available-important-fixes/?do=findComment&comment=189812)
-- [Using Noi Bai Int&#39;l VVNB, Hanoi, Viet Nam](https://forums.vatsim.net/topic/33336-using-noi-bai-intl-vvnb-hanoi-viet-nam/?do=findComment&comment=189811)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
