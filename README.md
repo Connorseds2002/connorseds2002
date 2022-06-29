@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [X-Pilot CSL files just not happening..](https://forums.vatsim.net/topic/33348-x-pilot-csl-files-just-not-happening/?do=findComment&comment=189828)
+- [FIR/UIR Boundaries](https://forums.vatsim.net/topic/33337-firuir-boundaries/?do=findComment&comment=189827)
+- [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189826)
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189825)
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189824)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189823)
@@ -62,9 +65,6 @@
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189821)
 - [FIR/UIR Boundaries](https://forums.vatsim.net/topic/33337-firuir-boundaries/?do=findComment&comment=189820)
 - [Special Thanks to ALL the VATSIM Controllers](https://forums.vatsim.net/topic/33345-special-thanks-to-all-the-vatsim-controllers/?do=findComment&comment=189819)
-- [xPilot on Ubuntu 22.04](https://forums.vatsim.net/topic/33342-xpilot-on-ubuntu-2204/?do=findComment&comment=189818)
-- [xPilot on Ubuntu 22.04](https://forums.vatsim.net/topic/33342-xpilot-on-ubuntu-2204/?do=findComment&comment=189817)
-- [Special Thanks to ALL the VATSIM Controllers](https://forums.vatsim.net/topic/33345-special-thanks-to-all-the-vatsim-controllers/?do=findComment&comment=189816)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
