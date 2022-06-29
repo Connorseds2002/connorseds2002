@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189825)
+- [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189824)
+- [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189823)
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189822)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189821)
 - [FIR/UIR Boundaries](https://forums.vatsim.net/topic/33337-firuir-boundaries/?do=findComment&comment=189820)
@@ -62,9 +65,6 @@
 - [xPilot on Ubuntu 22.04](https://forums.vatsim.net/topic/33342-xpilot-on-ubuntu-2204/?do=findComment&comment=189818)
 - [xPilot on Ubuntu 22.04](https://forums.vatsim.net/topic/33342-xpilot-on-ubuntu-2204/?do=findComment&comment=189817)
 - [Special Thanks to ALL the VATSIM Controllers](https://forums.vatsim.net/topic/33345-special-thanks-to-all-the-vatsim-controllers/?do=findComment&comment=189816)
-- [Special Thanks to ALL the VATSIM Controllers](https://forums.vatsim.net/topic/33345-special-thanks-to-all-the-vatsim-controllers/?do=findComment&comment=189815)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189814)
-- [New version of swift pilot client available - important fixes](https://forums.vatsim.net/topic/33343-new-version-of-swift-pilot-client-available-important-fixes/?do=findComment&comment=189812)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
