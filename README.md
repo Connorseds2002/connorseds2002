@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [No Exam available after new member orientation](https://forums.vatsim.net/topic/33225-no-exam-available-after-new-member-orientation/?do=findComment&comment=189850)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189849)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189848)
 - [Using Noi Bai Int&#39;l VVNB, Hanoi, Viet Nam](https://forums.vatsim.net/topic/33336-using-noi-bai-intl-vvnb-hanoi-viet-nam/?do=findComment&comment=189847)
@@ -64,7 +65,6 @@
 - [[Event] Sunday Night Ops - VOHS-VOGO-VOHS | July 10, 2022](https://forums.vatsim.net/topic/33350-event-sunday-night-ops-vohs-vogo-vohs-july-10-2022/?do=findComment&comment=189843)
 - [No Exam available after new member orientation](https://forums.vatsim.net/topic/33225-no-exam-available-after-new-member-orientation/?do=findComment&comment=189842)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189841)
-- [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189840)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
