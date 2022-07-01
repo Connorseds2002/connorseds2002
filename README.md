@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Using Noi Bai Int&#39;l VVNB, Hanoi, Viet Nam](https://forums.vatsim.net/topic/33336-using-noi-bai-intl-vvnb-hanoi-viet-nam/?do=findComment&comment=189847)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189846)
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189845)
 - [[Event] Sunday Night Ops - VOMM-VOML-VOMM | July 24, 2022](https://forums.vatsim.net/topic/33351-event-sunday-night-ops-vomm-voml-vomm-july-24-2022/?do=findComment&comment=189844)
@@ -64,7 +65,6 @@
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189840)
 - [Playback logfile after running a scenario &lpar;r34&rpar;](https://forums.vatsim.net/topic/33349-playback-logfile-after-running-a-scenario-r34/?do=findComment&comment=189839)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189838)
-- [xPilot on Ubuntu 22.04 [Solved]](https://forums.vatsim.net/topic/33342-xpilot-on-ubuntu-2204-solved/?do=findComment&comment=189837)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
