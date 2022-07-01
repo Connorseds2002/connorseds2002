@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Canadian Xpress July 2022 Monthly Challenge: National Parks IX - Yellowstone](https://forums.vatsim.net/topic/33353-canadian-xpress-july-2022-monthly-challenge-national-parks-ix-yellowstone/?do=findComment&comment=189853)
 - [CAVOK OUTPUT](https://forums.vatsim.net/topic/33352-cavok-output/?do=findComment&comment=189852)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189851)
 - [No Exam available after new member orientation](https://forums.vatsim.net/topic/33225-no-exam-available-after-new-member-orientation/?do=findComment&comment=189850)
@@ -64,7 +65,6 @@
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189846)
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189845)
 - [[Event] Sunday Night Ops - VOMM-VOML-VOMM | July 24, 2022](https://forums.vatsim.net/topic/33351-event-sunday-night-ops-vomm-voml-vomm-july-24-2022/?do=findComment&comment=189844)
-- [[Event] Sunday Night Ops - VOHS-VOGO-VOHS | July 10, 2022](https://forums.vatsim.net/topic/33350-event-sunday-night-ops-vohs-vogo-vohs-july-10-2022/?do=findComment&comment=189843)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
