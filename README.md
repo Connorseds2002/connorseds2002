@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [CAVOK OUTPUT](https://forums.vatsim.net/topic/33352-cavok-output/?do=findComment&comment=189852)
+- [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189851)
 - [No Exam available after new member orientation](https://forums.vatsim.net/topic/33225-no-exam-available-after-new-member-orientation/?do=findComment&comment=189850)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189849)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189848)
@@ -63,8 +65,6 @@
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189845)
 - [[Event] Sunday Night Ops - VOMM-VOML-VOMM | July 24, 2022](https://forums.vatsim.net/topic/33351-event-sunday-night-ops-vomm-voml-vomm-july-24-2022/?do=findComment&comment=189844)
 - [[Event] Sunday Night Ops - VOHS-VOGO-VOHS | July 10, 2022](https://forums.vatsim.net/topic/33350-event-sunday-night-ops-vohs-vogo-vohs-july-10-2022/?do=findComment&comment=189843)
-- [No Exam available after new member orientation](https://forums.vatsim.net/topic/33225-no-exam-available-after-new-member-orientation/?do=findComment&comment=189842)
-- [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189841)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
