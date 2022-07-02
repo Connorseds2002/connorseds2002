@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189863)
 - [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189862)
 - [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189861)
 - [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189860)
@@ -64,7 +65,6 @@
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=189856)
 - [P3D model match rule generating tool](https://forums.vatsim.net/topic/33330-p3d-model-match-rule-generating-tool/?do=findComment&comment=189855)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189854)
-- [Canadian Xpress July 2022 Monthly Challenge: National Parks IX - Yellowstone](https://forums.vatsim.net/topic/33353-canadian-xpress-july-2022-monthly-challenge-national-parks-ix-yellowstone/?do=findComment&comment=189853)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
