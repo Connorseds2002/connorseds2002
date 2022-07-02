@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189861)
 - [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189860)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=189859)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=189858)
@@ -64,7 +65,6 @@
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189854)
 - [Canadian Xpress July 2022 Monthly Challenge: National Parks IX - Yellowstone](https://forums.vatsim.net/topic/33353-canadian-xpress-july-2022-monthly-challenge-national-parks-ix-yellowstone/?do=findComment&comment=189853)
 - [CAVOK OUTPUT](https://forums.vatsim.net/topic/33352-cavok-output/?do=findComment&comment=189852)
-- [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189851)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
