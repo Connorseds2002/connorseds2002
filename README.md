@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189860)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=189859)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=189858)
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189857)
@@ -64,7 +65,6 @@
 - [Canadian Xpress July 2022 Monthly Challenge: National Parks IX - Yellowstone](https://forums.vatsim.net/topic/33353-canadian-xpress-july-2022-monthly-challenge-national-parks-ix-yellowstone/?do=findComment&comment=189853)
 - [CAVOK OUTPUT](https://forums.vatsim.net/topic/33352-cavok-output/?do=findComment&comment=189852)
 - [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189851)
-- [No Exam available after new member orientation](https://forums.vatsim.net/topic/33225-no-exam-available-after-new-member-orientation/?do=findComment&comment=189850)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
