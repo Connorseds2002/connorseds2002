@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problems joining VATSIM Discord](https://forums.vatsim.net/topic/33357-problems-joining-vatsim-discord/?do=findComment&comment=189870)
 - [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189869)
 - [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189868)
 - [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189867)
@@ -64,7 +65,6 @@
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189863)
 - [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189862)
 - [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189861)
-- [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189860)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
