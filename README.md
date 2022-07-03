@@ -55,6 +55,9 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189866)
+- [Nuevo Director de Tecnología de VATSUR &lpar;VATSUR8&rpar;](https://forums.vatsim.net/topic/33355-nuevo-director-de-tecnolog%C3%ADa-de-vatsur-vatsur8/?do=findComment&comment=189865)
+- [Vacante: Director de Tecnología de VATSUR](https://forums.vatsim.net/topic/33193-vacante-director-de-tecnolog%C3%ADa-de-vatsur/?do=findComment&comment=189864)
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189863)
 - [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189862)
 - [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189861)
@@ -62,9 +65,6 @@
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=189859)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=189858)
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189857)
-- [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=189856)
-- [P3D model match rule generating tool](https://forums.vatsim.net/topic/33330-p3d-model-match-rule-generating-tool/?do=findComment&comment=189855)
-- [Permanent Transmit light](https://forums.vatsim.net/topic/33346-permanent-transmit-light/?do=findComment&comment=189854)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
