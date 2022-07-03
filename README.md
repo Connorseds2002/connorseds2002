@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189868)
+- [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189867)
 - [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189866)
 - [Nuevo Director de Tecnología de VATSUR &lpar;VATSUR8&rpar;](https://forums.vatsim.net/topic/33355-nuevo-director-de-tecnolog%C3%ADa-de-vatsur-vatsur8/?do=findComment&comment=189865)
 - [Vacante: Director de Tecnología de VATSUR](https://forums.vatsim.net/topic/33193-vacante-director-de-tecnolog%C3%ADa-de-vatsur/?do=findComment&comment=189864)
@@ -63,8 +65,6 @@
 - [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189861)
 - [Why can&#39;t my xplane11 connect to vpilot](https://forums.vatsim.net/topic/33354-why-cant-my-xplane11-connect-to-vpilot/?do=findComment&comment=189860)
 - [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=189859)
-- [unicom question](https://forums.vatsim.net/topic/33006-unicom-question/?do=findComment&comment=189858)
-- [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189857)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
