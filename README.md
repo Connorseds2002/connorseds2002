@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [X-Pilot CSL files just not happening..](https://forums.vatsim.net/topic/33348-x-pilot-csl-files-just-not-happening/?do=findComment&comment=189880)
+- [X-Pilot CSL files just not happening..](https://forums.vatsim.net/topic/33348-x-pilot-csl-files-just-not-happening/?do=findComment&comment=189879)
 - [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189878)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189877)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189876)
@@ -63,8 +65,6 @@
 - [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189873)
 - [New to Vatsim, question about ATC](https://forums.vatsim.net/topic/33358-new-to-vatsim-question-about-atc/?do=findComment&comment=189872)
 - [New to Vatsim, question about ATC](https://forums.vatsim.net/topic/33358-new-to-vatsim-question-about-atc/?do=findComment&comment=189871)
-- [Problems joining VATSIM Discord](https://forums.vatsim.net/topic/33357-problems-joining-vatsim-discord/?do=findComment&comment=189870)
-- [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189869)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
