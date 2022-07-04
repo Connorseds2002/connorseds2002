@@ -55,16 +55,16 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My Vatsim sections - &#39;Not found&#39; error](https://forums.vatsim.net/topic/33360-my-vatsim-sections-not-found-error/?do=findComment&comment=189885)
+- [Nuevo Director de Tecnología de VATSUR &lpar;VATSUR8&rpar;](https://forums.vatsim.net/topic/33355-nuevo-director-de-tecnolog%C3%ADa-de-vatsur-vatsur8/?do=findComment&comment=189884)
+- [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189883)
+- [New to Vatsim, question about ATC](https://forums.vatsim.net/topic/33358-new-to-vatsim-question-about-atc/?do=findComment&comment=189882)
 - [X-Pilot CSL files just not happening..](https://forums.vatsim.net/topic/33348-x-pilot-csl-files-just-not-happening/?do=findComment&comment=189881)
 - [X-Pilot CSL files just not happening..](https://forums.vatsim.net/topic/33348-x-pilot-csl-files-just-not-happening/?do=findComment&comment=189880)
 - [X-Pilot CSL files just not happening..](https://forums.vatsim.net/topic/33348-x-pilot-csl-files-just-not-happening/?do=findComment&comment=189879)
 - [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189878)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189877)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189876)
-- [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189875)
-- [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189874)
-- [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189873)
-- [New to Vatsim, question about ATC](https://forums.vatsim.net/topic/33358-new-to-vatsim-question-about-atc/?do=findComment&comment=189872)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
