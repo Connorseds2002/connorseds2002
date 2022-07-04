@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189889)
 - [Pilot transmit on two freq](https://forums.vatsim.net/topic/33361-pilot-transmit-on-two-freq/?do=findComment&comment=189888)
 - [My Vatsim sections - &#39;Not found&#39; error](https://forums.vatsim.net/topic/33360-my-vatsim-sections-not-found-error/?do=findComment&comment=189887)
 - [Pilot transmit on two freq](https://forums.vatsim.net/topic/33361-pilot-transmit-on-two-freq/?do=findComment&comment=189886)
@@ -64,7 +65,6 @@
 - [New to Vatsim, question about ATC](https://forums.vatsim.net/topic/33358-new-to-vatsim-question-about-atc/?do=findComment&comment=189882)
 - [X-Pilot CSL files just not happening..](https://forums.vatsim.net/topic/33348-x-pilot-csl-files-just-not-happening/?do=findComment&comment=189881)
 - [X-Pilot CSL files just not happening..](https://forums.vatsim.net/topic/33348-x-pilot-csl-files-just-not-happening/?do=findComment&comment=189880)
-- [X-Pilot CSL files just not happening..](https://forums.vatsim.net/topic/33348-x-pilot-csl-files-just-not-happening/?do=findComment&comment=189879)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
