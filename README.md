@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189877)
+- [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189876)
 - [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189875)
 - [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189874)
 - [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189873)
@@ -63,8 +65,6 @@
 - [Problems joining VATSIM Discord](https://forums.vatsim.net/topic/33357-problems-joining-vatsim-discord/?do=findComment&comment=189870)
 - [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189869)
 - [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189868)
-- [N456J is 12 miles South with Quebec to land.... or N456J with Echo](https://forums.vatsim.net/topic/33356-n456j-is-12-miles-south-with-quebec-to-land-or-n456j-with-echo/?do=findComment&comment=189867)
-- [Filing flightplan via PFPX](https://forums.vatsim.net/topic/33347-filing-flightplan-via-pfpx/?do=findComment&comment=189866)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
