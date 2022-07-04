@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [My Vatsim sections - &#39;Not found&#39; error](https://forums.vatsim.net/topic/33360-my-vatsim-sections-not-found-error/?do=findComment&comment=189899)
+- [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189898)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189897)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189896)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189895)
@@ -63,8 +65,6 @@
 - [Saudi Arabia vACC Staff Changes](https://forums.vatsim.net/topic/33362-saudi-arabia-vacc-staff-changes/?do=findComment&comment=189891)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189890)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189889)
-- [Pilot transmit on two freq](https://forums.vatsim.net/topic/33361-pilot-transmit-on-two-freq/?do=findComment&comment=189888)
-- [My Vatsim sections - &#39;Not found&#39; error](https://forums.vatsim.net/topic/33360-my-vatsim-sections-not-found-error/?do=findComment&comment=189887)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
