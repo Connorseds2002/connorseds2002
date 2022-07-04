@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Saudi Arabia vACC Staff Changes](https://forums.vatsim.net/topic/33362-saudi-arabia-vacc-staff-changes/?do=findComment&comment=189891)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189890)
 - [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189889)
 - [Pilot transmit on two freq](https://forums.vatsim.net/topic/33361-pilot-transmit-on-two-freq/?do=findComment&comment=189888)
@@ -64,7 +65,6 @@
 - [Nuevo Director de Tecnología de VATSUR &lpar;VATSUR8&rpar;](https://forums.vatsim.net/topic/33355-nuevo-director-de-tecnolog%C3%ADa-de-vatsur-vatsur8/?do=findComment&comment=189884)
 - [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189883)
 - [New to Vatsim, question about ATC](https://forums.vatsim.net/topic/33358-new-to-vatsim-question-about-atc/?do=findComment&comment=189882)
-- [X-Pilot CSL files just not happening..](https://forums.vatsim.net/topic/33348-x-pilot-csl-files-just-not-happening/?do=findComment&comment=189881)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
