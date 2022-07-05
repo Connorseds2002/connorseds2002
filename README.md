@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Getting Error 10061 on login attempt](https://forums.vatsim.net/topic/33367-getting-error-10061-on-login-attempt/?do=findComment&comment=189918)
+- [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189917)
 - [Error Response &quot;Too Many Clients Connected&quot;](https://forums.vatsim.net/topic/33365-error-response-too-many-clients-connected/?do=findComment&comment=189916)
 - [how to see other pilots liveries](https://forums.vatsim.net/topic/33366-how-to-see-other-pilots-liveries/?do=findComment&comment=189915)
 - [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189914)
@@ -63,8 +65,6 @@
 - [Frequencies](https://forums.vatsim.net/topic/33364-frequencies/?do=findComment&comment=189911)
 - [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189910)
 - [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189909)
-- [Frequencies](https://forums.vatsim.net/topic/33364-frequencies/?do=findComment&comment=189908)
-- [Frequencies](https://forums.vatsim.net/topic/33364-frequencies/?do=findComment&comment=189907)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
