@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Error Response &quot;Too Many Clients Connected&quot;](https://forums.vatsim.net/topic/33365-error-response-too-many-clients-connected/?do=findComment&comment=189912)
 - [Frequencies](https://forums.vatsim.net/topic/33364-frequencies/?do=findComment&comment=189911)
 - [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189910)
 - [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189909)
@@ -64,7 +65,6 @@
 - [xPilot Window Size/Location [Windows]](https://forums.vatsim.net/topic/33363-xpilot-window-sizelocation-windows/?do=findComment&comment=189905)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189903)
 - [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189902)
-- [Problem with vPilot](https://forums.vatsim.net/topic/26772-problem-with-vpilot/?do=findComment&comment=189901)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
