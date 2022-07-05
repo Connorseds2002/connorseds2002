@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Getting Error 10061 on login attempt](https://forums.vatsim.net/topic/33367-getting-error-10061-on-login-attempt/?do=findComment&comment=189923)
+- [My Vatsim sections - &#39;Not found&#39; error](https://forums.vatsim.net/topic/33360-my-vatsim-sections-not-found-error/?do=findComment&comment=189922)
 - [Error Response &quot;Too Many Clients Connected&quot;](https://forums.vatsim.net/topic/33365-error-response-too-many-clients-connected/?do=findComment&comment=189921)
 - [[9th July, 12-16z] VATSIM First Wings](https://forums.vatsim.net/topic/33368-9th-july-12-16z-vatsim-first-wings/?do=findComment&comment=189920)
 - [how to see other pilots liveries](https://forums.vatsim.net/topic/33366-how-to-see-other-pilots-liveries/?do=findComment&comment=189919)
@@ -63,8 +65,6 @@
 - [Error Response &quot;Too Many Clients Connected&quot;](https://forums.vatsim.net/topic/33365-error-response-too-many-clients-connected/?do=findComment&comment=189916)
 - [how to see other pilots liveries](https://forums.vatsim.net/topic/33366-how-to-see-other-pilots-liveries/?do=findComment&comment=189915)
 - [hmm doesn&#39;t work](https://forums.vatsim.net/topic/33359-hmm-doesnt-work/?do=findComment&comment=189914)
-- [My Vatsim sections - &#39;Not found&#39; error](https://forums.vatsim.net/topic/33360-my-vatsim-sections-not-found-error/?do=findComment&comment=189913)
-- [Error Response &quot;Too Many Clients Connected&quot;](https://forums.vatsim.net/topic/33365-error-response-too-many-clients-connected/?do=findComment&comment=189912)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
