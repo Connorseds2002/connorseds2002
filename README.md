@@ -38,42 +38,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [16MAY21 | Hamilton Island to Mackay](https://vatpac.org/calendar/event/1778-16may21-hamilton-island-to-mackay/)
-- [TWR Controller - Nick Brennan](https://vatpac.org/forums/topic/18762-twr-controller-nick-brennan/?do=findComment&comment=131601)
-- [NOTAM: AIRAC 2104](https://vatpac.org/forums/topic/18761-notam-airac-2104/?do=findComment&comment=131599)
-- [Appointment of Event Coordinator(s)](https://vatpac.org/forums/topic/18758-appointment-of-event-coordinators/?do=findComment&comment=131564)
-- [NOTAM 25APR21: Positions Reserved for Anzac Parade](https://vatpac.org/forums/topic/18757-notam-25apr21-positions-reserved-for-anzac-parade/?do=findComment&comment=131562)
-- [05MAY21 World Discovery-Corsica](https://vatpac.org/calendar/event/1774-05may21-world-discovery-corsica/)
-- [31MAY21 | Spilled Milk Run - Adelaide & Hobart](https://vatpac.org/calendar/event/1771-31may21-spilled-milk-run-adelaide-hobart/)
-- [24MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1770-24may21-milk-run-monday/)
-- [17MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1769-17may21-milk-run-monday/)
-- [10MAY21 | Milk Run Monday](https://vatpac.org/calendar/event/1768-10may21-milk-run-monday/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://Forums.vatpac.org)
-<!-- VATSIM.NET:START -->
-- [Aircraft Requirements for Pilot Ratings](https://forums.vatsim.net/topic/33370-aircraft-requirements-for-pilot-ratings/?do=findComment&comment=189947)
-- [Aircraft Requirements for Pilot Ratings](https://forums.vatsim.net/topic/33370-aircraft-requirements-for-pilot-ratings/?do=findComment&comment=189946)
-- [Error Response &quot;Too Many Clients Connected&quot;](https://forums.vatsim.net/topic/33365-error-response-too-many-clients-connected/?do=findComment&comment=189945)
-- [Aircraft Requirements for Pilot Ratings](https://forums.vatsim.net/topic/33370-aircraft-requirements-for-pilot-ratings/?do=findComment&comment=189944)
-- [Getting Error 10061 on login attempt](https://forums.vatsim.net/topic/33367-getting-error-10061-on-login-attempt/?do=findComment&comment=189943)
-- [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189942)
-- [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189941)
-- [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189940)
-- [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189939)
-- [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189938)
-<!-- VATSIM.NET:END -->
-➡️ [more blog posts...](https://forums.vatsim.net/)
-
-<!-- IVAO.AERO:START -->
-<!-- IVAO.AERO:END -->
-➡️ [more blog posts](https://forum.ivao.areo/)
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
