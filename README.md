@@ -55,6 +55,8 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Aircraft Requirements for Pilot Ratings](https://forums.vatsim.net/topic/33370-aircraft-requirements-for-pilot-ratings/?do=findComment&comment=189944)
+- [Getting Error 10061 on login attempt](https://forums.vatsim.net/topic/33367-getting-error-10061-on-login-attempt/?do=findComment&comment=189943)
 - [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189942)
 - [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189941)
 - [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189940)
@@ -63,8 +65,6 @@
 - [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189937)
 - [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189936)
 - [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189935)
-- [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189934)
-- [Beta testers needed for new Toolbar app](https://forums.vatsim.net/topic/33004-beta-testers-needed-for-new-toolbar-app/?do=findComment&comment=189933)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
