@@ -55,6 +55,7 @@
 
 ➡️ [more blog posts...](https://Forums.vatpac.org)
 <!-- VATSIM.NET:START -->
+- [Aircraft Requirements for Pilot Ratings](https://forums.vatsim.net/topic/33370-aircraft-requirements-for-pilot-ratings/?do=findComment&comment=189947)
 - [Aircraft Requirements for Pilot Ratings](https://forums.vatsim.net/topic/33370-aircraft-requirements-for-pilot-ratings/?do=findComment&comment=189946)
 - [Error Response &quot;Too Many Clients Connected&quot;](https://forums.vatsim.net/topic/33365-error-response-too-many-clients-connected/?do=findComment&comment=189945)
 - [Aircraft Requirements for Pilot Ratings](https://forums.vatsim.net/topic/33370-aircraft-requirements-for-pilot-ratings/?do=findComment&comment=189944)
@@ -64,7 +65,6 @@
 - [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189940)
 - [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189939)
 - [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189938)
-- [Which do we file, /I /A /W /P, it&#39;s an age old debate.](https://forums.vatsim.net/topic/33369-which-do-we-file-i-a-w-p-its-an-age-old-debate/?do=findComment&comment=189937)
 <!-- VATSIM.NET:END -->
 ➡️ [more blog posts...](https://forums.vatsim.net/)
 
