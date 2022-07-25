@@ -1,4 +1,4 @@
-### Hi there, I'm Connor Sedman - aka [connorseds2002][website] 👋
+### Hi there, I'm Connor Sedman - aka [connorseds2002] 👋
 
 ## I'm a Developer, Youtuber, Streemer!!
 
