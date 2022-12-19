@@ -26,10 +26,10 @@
 
 <!-- YOUTUBE:START -->
 - [✈️ TNCM - KMIA ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=qnzKx24mn_o)
-- [✈️ EGKK - EHAM - EGCC ✈️ VATSIM Traffic](https://www.youtube.com/watch?v=w7mKwJJZ_7o)
 - [EGLL-YPPH QFA10](https://www.youtube.com/watch?v=9jjsfL3iI4A)
 - [[IVAO] Flying arround the UK and Irland](https://www.youtube.com/watch?v=4OJ1fJ-lGj8)
 - [[IVAO] Air France Flights](https://www.youtube.com/watch?v=JWX5T5lixKw)
+- [[IVAO] Flying arround the UK and Irland](https://www.youtube.com/watch?v=xGyLO8v20kE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
