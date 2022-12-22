@@ -25,7 +25,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [✈️ EGCC - LOWI - EGCC ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=hXsJu1YLnk8)
+- [✈️ EGCC - LOWI - EGCC ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=ZQhs_Ol8C6k)
 - [✈️ TNCM - KMIA ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=qnzKx24mn_o)
 - [EGLL-YPPH QFA10](https://www.youtube.com/watch?v=9jjsfL3iI4A)
 - [[IVAO] Flying arround the UK and Irland](https://www.youtube.com/watch?v=4OJ1fJ-lGj8)
