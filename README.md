@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LSGG - LIRN IVAO Departure](https://www.youtube.com/watch?v=165JtuK7VC0)
 - [✈️ MGGT - MPTO ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=oTlyNfdjaVI)
 - [✈️ EGCC - LOWI - EGCC ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=ZQhs_Ol8C6k)
 - [✈️ EGCC - LOWI - EGCC ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=3emZZxaCOQA)
 - [✈️ EGCC - LOWI - EGCC ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=878eEkBIq5k)
-- [✈️ EGCC - LOWI - EGCC ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=hXsJu1YLnk8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
