@@ -25,8 +25,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LFSB - LOWW IVAO Arrival @ivaoaero](https://www.youtube.com/watch?v=gRzhrctrDaE)
 - [LFSB - LOWW IVAO Departure @ivaoaero](https://www.youtube.com/watch?v=wSfP5-bHBuk)
+- [LFSB - LOWW IVAO Arrival @ivaoaero](https://www.youtube.com/watch?v=gRzhrctrDaE)
 - [LSGG - LIRN IVAO Arrival](https://www.youtube.com/watch?v=ugk2oSG5I_4)
 - [LSGG - LIRN IVAO Departure](https://www.youtube.com/watch?v=165JtuK7VC0)
 - [✈️ MGGT - MPTO ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=oTlyNfdjaVI)
