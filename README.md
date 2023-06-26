@@ -25,7 +25,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [✈️ Australia Hops  ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=1Z1MSzSKdYY)
+- [✈️ YSSY Tower ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=1Z1MSzSKdYY)
 - [✈️ Australia Hops  ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=TGkHlGJ-HYs)
 - [✈️ EasyJet Europ Hops ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=aOktwWrQrAE)
 - [LFSB - LOWW IVAO Arrival @ivaoaero](https://www.youtube.com/watch?v=gRzhrctrDaE)
