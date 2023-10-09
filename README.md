@@ -40,15 +40,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#391](https://github.com/IVAO-XU/EG-Sector-File/pull/391) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
-2. 💪 Opened PR [#390](https://github.com/IVAO-XU/EG-Sector-File/pull/390) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
-3. 🎉 Merged PR [#1](https://github.com/Connorseds2002/vatsimUK-core/pull/1) in [Connorseds2002/vatsimUK-core](https://github.com/Connorseds2002/vatsimUK-core)
-4. 💪 Opened PR [#1](https://github.com/Connorseds2002/vatsimUK-core/pull/1) in [Connorseds2002/vatsimUK-core](https://github.com/Connorseds2002/vatsimUK-core)
-5. 🎉 Merged PR [#9](https://github.com/Connorseds2002/My-Website/pull/9) in [Connorseds2002/My-Website](https://github.com/Connorseds2002/My-Website)
-6. 🎉 Merged PR [#7](https://github.com/Connorseds2002/My-Website/pull/7) in [Connorseds2002/My-Website](https://github.com/Connorseds2002/My-Website)
-7. 🎉 Merged PR [#2](https://github.com/Connorseds2002/My-Website/pull/2) in [Connorseds2002/My-Website](https://github.com/Connorseds2002/My-Website)
-8. ❗️ Opened issue [#10](https://github.com/Connorseds2002/VATUK-vatsys-dataset/issues/10) in [Connorseds2002/VATUK-vatsys-dataset](https://github.com/Connorseds2002/VATUK-vatsys-dataset)
-9. 💪 Opened PR [#8](https://github.com/Connorseds2002/VATUK-vatsys-dataset/pull/8) in [Connorseds2002/VATUK-vatsys-dataset](https://github.com/Connorseds2002/VATUK-vatsys-dataset)
+1. 💪 Opened PR [#393](https://github.com/IVAO-XU/EG-Sector-File/pull/393) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+2. ❌ Reopened PR [#391](https://github.com/IVAO-XU/EG-Sector-File/pull/391) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+3. ❌ Closed PR [#392](https://github.com/IVAO-XU/EG-Sector-File/pull/392) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+4. 🎉 Merged PR [#1](https://github.com/Connorseds2002/EG-Sector-File/pull/1) in [Connorseds2002/EG-Sector-File](https://github.com/Connorseds2002/EG-Sector-File)
+5. 💪 Opened PR [#1](https://github.com/Connorseds2002/EG-Sector-File/pull/1) in [Connorseds2002/EG-Sector-File](https://github.com/Connorseds2002/EG-Sector-File)
+6. 💪 Opened PR [#392](https://github.com/IVAO-XU/EG-Sector-File/pull/392) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+7. ❌ Closed PR [#391](https://github.com/IVAO-XU/EG-Sector-File/pull/391) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+8. 💪 Opened PR [#391](https://github.com/IVAO-XU/EG-Sector-File/pull/391) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+9. 💪 Opened PR [#390](https://github.com/IVAO-XU/EG-Sector-File/pull/390) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
 10. 🎉 Merged PR [#6](https://github.com/Connorseds2002/VATUK-vatsys-dataset/pull/6) in [Connorseds2002/VATUK-vatsys-dataset](https://github.com/Connorseds2002/VATUK-vatsys-dataset)
 <!--END_SECTION:activity-->
 
