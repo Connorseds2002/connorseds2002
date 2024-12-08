@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JSedman2002 Live Stream](https://www.youtube.com/watch?v=4PfTo4RkZLk)
 - [[IVAO P3D] EGPH departure to EGLL FLY UK VA](https://www.youtube.com/watch?v=WeZ72jc1Hqo)
 - [✈️ YSSY Tower ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=1Z1MSzSKdYY)
 - [✈️ Australia Hops  ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=TGkHlGJ-HYs)
 - [✈️ EasyJet Europ Hops ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=aOktwWrQrAE)
-- [LFSB - LOWW IVAO Arrival @ivaoaero](https://www.youtube.com/watch?v=gRzhrctrDaE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
