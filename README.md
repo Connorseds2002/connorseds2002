@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Crowded Skies XVII |Las Vegas TOWER | IVAO](https://www.youtube.com/watch?v=WjFjOdUIXc4)
 - [Crowded Skies XVII |Las Vegas TOWER | IVAO](https://www.youtube.com/watch?v=4PfTo4RkZLk)
 - [[IVAO P3D] EGPH departure to EGLL FLY UK VA](https://www.youtube.com/watch?v=WeZ72jc1Hqo)
 - [✈️ YSSY Tower ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=1Z1MSzSKdYY)
 - [✈️ Australia Hops  ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=TGkHlGJ-HYs)
-- [✈️ EasyJet Europ Hops ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=aOktwWrQrAE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
