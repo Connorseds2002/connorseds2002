@@ -28,8 +28,8 @@
 - [Crowded Skies XVII |Las Vegas TOWER | IVAO](https://www.youtube.com/watch?v=WjFjOdUIXc4)
 - [Crowded Skies XVII |Las Vegas TOWER | IVAO](https://www.youtube.com/watch?v=4PfTo4RkZLk)
 - [[IVAO P3D] EGPH departure to EGLL FLY UK VA](https://www.youtube.com/watch?v=WeZ72jc1Hqo)
-- [✈️ YSSY Tower ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=1Z1MSzSKdYY)
-- [✈️ Australia Hops  ✈️ VATSIM Traffic !discord](https://www.youtube.com/watch?v=TGkHlGJ-HYs)
+- [LFSB - LOWW IVAO Arrival @ivaoaero](https://www.youtube.com/watch?v=gRzhrctrDaE)
+- [LFSB - LOWW IVAO Departure @ivaoaero](https://www.youtube.com/watch?v=wSfP5-bHBuk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
