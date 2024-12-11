@@ -25,8 +25,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [✈️ EZY Operations ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=pUWoXl-_ihM)
 - [Crowded Skies XVII |Las Vegas TOWER | IVAO](https://www.youtube.com/watch?v=WjFjOdUIXc4)
+- [✈️ EZY Operations ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=pUWoXl-_ihM)
 - [Crowded Skies XVII |Las Vegas TOWER | IVAO](https://www.youtube.com/watch?v=4PfTo4RkZLk)
 - [[IVAO P3D] EGPH departure to EGLL FLY UK VA](https://www.youtube.com/watch?v=WeZ72jc1Hqo)
 - [LFSB - LOWW IVAO Arrival @ivaoaero](https://www.youtube.com/watch?v=gRzhrctrDaE)
