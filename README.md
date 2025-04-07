@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [✈️ BAW Operations ✈️ IVAO Traffic &lpar;7 April 2025&rpar;](https://www.youtube.com/watch?v=dUa6VsuptWk)
 - [Crowded Skies XVII |Las Vegas TOWER | IVAO](https://www.youtube.com/watch?v=WjFjOdUIXc4)
 - [✈️ EZY Operations ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=pUWoXl-_ihM)
 - [Crowded Skies XVII |Las Vegas TOWER | IVAO](https://www.youtube.com/watch?v=4PfTo4RkZLk)
 - [[IVAO P3D] EGPH departure to EGLL FLY UK VA](https://www.youtube.com/watch?v=WeZ72jc1Hqo)
-- [LFSB - LOWW IVAO Arrival @ivaoaero](https://www.youtube.com/watch?v=gRzhrctrDaE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
