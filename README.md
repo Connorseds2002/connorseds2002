@@ -25,8 +25,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[P3D] EZY EGCC-EGNS](https://www.youtube.com/watch?v=lfzri3G4PFM)
 - [[P3D] EZY EGCC Arrival from EGNS](https://www.youtube.com/watch?v=HwfwVwbW6TA)
+- [[P3D] EZY EGCC-EGNS](https://www.youtube.com/watch?v=lfzri3G4PFM)
 - [✈️ BAW Operations ✈️ IVAO Traffic &lpar;7 April 2025&rpar;](https://www.youtube.com/watch?v=dUa6VsuptWk)
 - [Crowded Skies XVII |Las Vegas TOWER | IVAO](https://www.youtube.com/watch?v=WjFjOdUIXc4)
 - [✈️ EZY Operations ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=pUWoXl-_ihM)
