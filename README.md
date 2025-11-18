@@ -25,7 +25,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Crowded Skies XVII |Las Vegas TOWER | IVAO](https://www.youtube.com/watch?v=fiiKf0dsNZo)
+- [✈️ New York Radio ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=fiiKf0dsNZo)
 - [[IVAO P3D] KSRQ Departure to KJFK - takeoff](https://www.youtube.com/watch?v=apfEEffiVvY)
 - [[IVAO P3D] KSRQ Departure to KJFK](https://www.youtube.com/watch?v=CY3rvDc5MUg)
 - [[IVAO P3D] KBOS Departure to KSRQ](https://www.youtube.com/watch?v=xV23HnUMi7o)
