@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GTA5 Story Mode time !discord](https://www.youtube.com/watch?v=4icnAnY3HR4)
+- [GTA5 Story Mode time !discord](https://www.youtube.com/watch?v=kh0uwgH10C4)
+- [GTA5 Story Mode time !discord](https://www.youtube.com/watch?v=conHWw1SDcI)
 - [[IVAO P3D] KSRQ Departure to KJFK - takeoff](https://www.youtube.com/watch?v=apfEEffiVvY)
 - [[IVAO P3D] KSRQ Departure to KJFK](https://www.youtube.com/watch?v=CY3rvDc5MUg)
-- [[IVAO P3D] KBOS Departure to KSRQ](https://www.youtube.com/watch?v=xV23HnUMi7o)
-- [[IVAO P3D] KBOS Departure to KJFK](https://www.youtube.com/watch?v=ki0-BiemHxE)
-- [[IVAO P3D] KSRQ Arrival from KBOS](https://www.youtube.com/watch?v=e7km1X_chgg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
