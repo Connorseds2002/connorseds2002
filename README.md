@@ -40,7 +40,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#393](https://github.com/IVAO-XU/EG-Sector-File/pull/393) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+1. ❗ Opened issue [#213558](https://github.com/MetaMask/eth-phishing-detect/issues/213558) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
 2. ❌ Reopened PR [#391](https://github.com/IVAO-XU/EG-Sector-File/pull/391) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
 3. ❌ Closed PR [#392](https://github.com/IVAO-XU/EG-Sector-File/pull/392) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
 4. 🎉 Merged PR [#1](https://github.com/Connorseds2002/EG-Sector-File/pull/1) in [Connorseds2002/EG-Sector-File](https://github.com/Connorseds2002/EG-Sector-File)
