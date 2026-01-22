@@ -40,9 +40,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#213558](https://github.com/MetaMask/eth-phishing-detect/issues/213558) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
-2. ❌ Reopened PR [#391](https://github.com/IVAO-XU/EG-Sector-File/pull/391) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
-3. ❌ Closed PR [#392](https://github.com/IVAO-XU/EG-Sector-File/pull/392) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+1. 🗣 Commented on [#957](https://github.com/IVAO-XU/EG-Sector-File/pull/957#issuecomment-3785435064) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+2. 💪 Opened PR [#957](https://github.com/IVAO-XU/EG-Sector-File/pull/957) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+3. ❗ Opened issue [#213558](https://github.com/MetaMask/eth-phishing-detect/issues/213558) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
 4. 🎉 Merged PR [#1](https://github.com/Connorseds2002/EG-Sector-File/pull/1) in [Connorseds2002/EG-Sector-File](https://github.com/Connorseds2002/EG-Sector-File)
 5. 💪 Opened PR [#1](https://github.com/Connorseds2002/EG-Sector-File/pull/1) in [Connorseds2002/EG-Sector-File](https://github.com/Connorseds2002/EG-Sector-File)
 6. 💪 Opened PR [#392](https://github.com/IVAO-XU/EG-Sector-File/pull/392) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
