@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GTA5 Story Mode time !discord](https://www.youtube.com/watch?v=conHWw1SDcI)
+- [IVAO ATC OCC KZNY_CTR !discord](https://www.youtube.com/watch?v=IyZEQavEzk4)
 - [GTA5 Story Mode time !discord](https://www.youtube.com/watch?v=4icnAnY3HR4)
 - [GTA5 Story Mode time !discord](https://www.youtube.com/watch?v=kh0uwgH10C4)
-- [GTA5 Story Mode time !discord](https://www.youtube.com/watch?v=conHWw1SDcI)
 - [✈️ New York Radio ✈️ IVAO Traffic !discord](https://www.youtube.com/watch?v=fiiKf0dsNZo)
-- [[IVAO P3D] KSRQ Departure to KJFK - takeoff](https://www.youtube.com/watch?v=apfEEffiVvY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
