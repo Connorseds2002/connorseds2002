@@ -26,10 +26,10 @@
 
 <!-- YOUTUBE:START -->
 - [IVAO YSSY-NZAA-YSSY Qantos B738 !discord](https://www.youtube.com/watch?v=qLzUsQrcqLA)
+- [IVAO YSSY-NZAA-YSSY Qantos B738 !discord](https://www.youtube.com/watch?v=8gge-HI1FII)
 - [IVAO ATC WT Event KCLT_APP !discord](https://www.youtube.com/watch?v=ZyMfgNeKPHg)
 - [IVAO ATC OCC KZNY_CTR !discord](https://www.youtube.com/watch?v=KO5bsjLy1xI)
 - [IVAO ATC OCC KZNY_CTR !discord](https://www.youtube.com/watch?v=JGoDKd3IneE)
-- [IVAO ATC OCC KZNY_CTR !discord](https://www.youtube.com/watch?v=IyZEQavEzk4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UC6fFV-8lCLLoKYCUAstFbQQ)
