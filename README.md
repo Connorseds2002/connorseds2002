@@ -40,10 +40,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-2. ℹ️ Labeled PR [#1](https://github.com/Connorseds2002/us-events-booking-system/pull/1) in [Connorseds2002/us-events-booking-system](https://github.com/Connorseds2002/us-events-booking-system)
-3. 💪 Opened PR [#1](https://github.com/Connorseds2002/us-events-booking-system/pull/1) in [Connorseds2002/us-events-booking-system](https://github.com/Connorseds2002/us-events-booking-system)
-4. 🎉 Merged PR [#1](https://github.com/Connorseds2002/EG-Sector-File/pull/1) in [Connorseds2002/EG-Sector-File](https://github.com/Connorseds2002/EG-Sector-File)
+1. ℹ️ Labeled PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+2. ℹ️ Unassigned PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+3. ℹ️ Assigned PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+4. 💪 Opened PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
 5. 💪 Opened PR [#1](https://github.com/Connorseds2002/EG-Sector-File/pull/1) in [Connorseds2002/EG-Sector-File](https://github.com/Connorseds2002/EG-Sector-File)
 6. 💪 Opened PR [#392](https://github.com/IVAO-XU/EG-Sector-File/pull/392) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
 7. ❌ Closed PR [#391](https://github.com/IVAO-XU/EG-Sector-File/pull/391) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
