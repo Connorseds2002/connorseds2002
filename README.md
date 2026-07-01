@@ -40,14 +40,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-2. 🗣 Commented on [#138](https://github.com/ivaoaero/atmosphere/pull/138#issuecomment-4689704086) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-3. ℹ️ Labeled PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-4. ℹ️ Unassigned PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-5. ℹ️ Assigned PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-6. 💪 Opened PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-7. ❌ Closed PR [#391](https://github.com/IVAO-XU/EG-Sector-File/pull/391) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
-8. 💪 Opened PR [#391](https://github.com/IVAO-XU/EG-Sector-File/pull/391) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
+1. ℹ️ Assigned PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+2. ℹ️ Labeled PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+3. 💪 Opened PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+4. 🗣 Commented on [#138](https://github.com/ivaoaero/atmosphere/pull/138#issuecomment-4689704086) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+5. ℹ️ Labeled PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+6. ℹ️ Unassigned PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+7. ℹ️ Assigned PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+8. 💪 Opened PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
 9. 💪 Opened PR [#390](https://github.com/IVAO-XU/EG-Sector-File/pull/390) in [IVAO-XU/EG-Sector-File](https://github.com/IVAO-XU/EG-Sector-File)
 10. 🎉 Merged PR [#6](https://github.com/Connorseds2002/VATUK-vatsys-dataset/pull/6) in [Connorseds2002/VATUK-vatsys-dataset](https://github.com/Connorseds2002/VATUK-vatsys-dataset)
 <!--END_SECTION:activity-->
