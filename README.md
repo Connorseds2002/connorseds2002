@@ -40,10 +40,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-2. ℹ️ Labeled PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-3. 💪 Opened PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-4. 🗣 Commented on [#138](https://github.com/ivaoaero/atmosphere/pull/138#issuecomment-4689704086) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+1. 🎉 Merged PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+2. 🎉 Merged PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+3. ℹ️ Assigned PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+4. ℹ️ Labeled PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
 5. ℹ️ Labeled PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
 6. ℹ️ Unassigned PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
 7. ℹ️ Assigned PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
