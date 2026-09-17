@@ -40,7 +40,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+1. 🚀 Published release [2609](https://github.com/Connorseds2002/IVAO-US-Legacy-sectorfiles/releases/tag/2609) in [Connorseds2002/IVAO-US-Legacy-sectorfiles](https://github.com/Connorseds2002/IVAO-US-Legacy-sectorfiles)
 2. 🎉 Merged PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
 3. ℹ️ Assigned PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
 4. ℹ️ Labeled PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
