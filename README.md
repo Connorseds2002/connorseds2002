@@ -40,10 +40,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Connorseds2002/IVAO-US-Legacy-sectorfiles/pull/1) in [Connorseds2002/IVAO-US-Legacy-sectorfiles](https://github.com/Connorseds2002/IVAO-US-Legacy-sectorfiles)
-2. 🚀 Published release [2609](https://github.com/Connorseds2002/IVAO-US-Legacy-sectorfiles/releases/tag/2609) in [Connorseds2002/IVAO-US-Legacy-sectorfiles](https://github.com/Connorseds2002/IVAO-US-Legacy-sectorfiles)
-3. ℹ️ Assigned PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
-4. ℹ️ Labeled PR [#139](https://github.com/ivaoaero/atmosphere/pull/139) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+1. 🔒 Closed issue [#140](https://github.com/ivaoaero/atmosphere/issues/140) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+2. 🔒 Closed issue [#141](https://github.com/ivaoaero/atmosphere/issues/141) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
+3. 💪 Opened PR [#1](https://github.com/Connorseds2002/IVAO-US-Legacy-sectorfiles/pull/1) in [Connorseds2002/IVAO-US-Legacy-sectorfiles](https://github.com/Connorseds2002/IVAO-US-Legacy-sectorfiles)
+4. 🚀 Published release [2609](https://github.com/Connorseds2002/IVAO-US-Legacy-sectorfiles/releases/tag/2609) in [Connorseds2002/IVAO-US-Legacy-sectorfiles](https://github.com/Connorseds2002/IVAO-US-Legacy-sectorfiles)
 5. ℹ️ Labeled PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
 6. ℹ️ Unassigned PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
 7. ℹ️ Assigned PR [#138](https://github.com/ivaoaero/atmosphere/pull/138) in [ivaoaero/atmosphere](https://github.com/ivaoaero/atmosphere)
